@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:34:37Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="947b56b8-8cef-441a-9788-cbd543f9651a" status="closed" scratched="false" period="P2" scheduled="2014-06-24T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C"/>
+      <round week="26" number="3" type="table"/>
+      <home id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team" formation="4-5-1" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="93" ball_safe="98" corner_kicks="4" dangerous_attacks="52" fouls="11" free_kicks="22" goal_attempts="12" goal_kicks="8" offsides="0" saves="9" shots_total="12" substitutions="3" throw_ins="13" yellow_card="0" shots_on_target="7" shots_off_target="5" possessions="45"/>
+      </home>
+      <away id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="94" ball_safe="98" corner_kicks="7" dangerous_attacks="65" fouls="21" free_kicks="11" goal_attempts="8" goal_kicks="11" offsides="1" saves="7" shots_total="8" substitutions="3" throw_ins="24" yellow_card="3" shots_on_target="4" shots_off_target="4" possessions="55"/>
+      </away>
+      <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542"/>
+      <!-- 4768744/4710/4768 -->
+    </match>
+  </matches>
+</boxscore>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:14:28Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="919209bc-f821-4336-9564-f26dede06974" country_code="ECU" preferred_foot="R" height_in="71" weight_lb="171" height_cm="180" weight_kg="77" first_name="Antonio" last_name="Valencia" country="Ecuador">
+    <teams>
+      <team id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" country_code="ECU" position="M" is_manager="false" is_player="true" country="Ecuador" jersey_number="16"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="10" matches_started="0" minutes_played="900" yellow_cards="2" yellow_red_cards="1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="230" yellow_cards="1" yellow_red_cards="-1" red_cards="1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="3" matches_played="29" matches_started="0" minutes_played="1942" yellow_cards="6" yellow_red_cards="1" red_cards="-1" substitutions_out="3" substitutions_in="9">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="e9eeeab2-3bd2-4af5-8d28-93b5d8163dd1" name="Manchester Utd" alias="MU" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="236" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="8cf07e0d-a6db-45fa-a67c-c10b43449a69" name="League Cup"/>
+          <tournament id="3512b79f-bc4f-49f1-8c1b-e8d5e35c801e" name="League Cup"/>
+          <team id="e9eeeab2-3bd2-4af5-8d28-93b5d8163dd1" name="Manchester Utd" alias="MU" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="10" matches_started="0" minutes_played="758" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="e9eeeab2-3bd2-4af5-8d28-93b5d8163dd1" name="Manchester Utd" alias="MU" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="63" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="e9eeeab2-3bd2-4af5-8d28-93b5d8163dd1" name="Manchester Utd" alias="MU" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 11820/1405951496 -->
+  </player>
+</profile>

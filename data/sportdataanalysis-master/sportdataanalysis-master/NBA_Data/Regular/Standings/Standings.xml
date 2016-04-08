@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-30 15:00:47 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/nba/standings-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+    <conference id="7fe7e212-de01-4f8f-a31d-b9f0a95731e3" name="WESTERN CONFERENCE" alias="WESTERN">
+      <division id="f074cb3e-90cf-42e1-8067-cdbcd99ec230" name="Pacific" alias="PACIFIC">
+        <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" wins="57" losses="25" win_pct="0.695" points_for="107.93" points_against="100.95" point_diff="6.98">
+          <games-behind league="5.0" conference="5.0" division="0.0"/>
+          <streak>
+            <loss length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="9" losses="1" win_pct="0.9"/>
+            <below_500 wins="30" losses="7" win_pct="0.811"/>
+            <central wins="7" losses="3" win_pct="0.7"/>
+            <conference wins="36" losses="16" win_pct="0.692"/>
+            <division wins="12" losses="4" win_pct="0.75"/>
+            <home wins="34" losses="7" win_pct="0.829"/>
+            <last_10 wins="7" losses="3" win_pct="0.7"/>
+            <last_10_home wins="8" losses="2" win_pct="0.8"/>
+            <last_10_road wins="7" losses="3" win_pct="0.7"/>
+            <northwest wins="12" losses="6" win_pct="0.667"/>
+            <over_500 wins="27" losses="18" win_pct="0.6"/>
+            <overtime wins="2" losses="1" win_pct="0.667"/>
+            <pacific wins="12" losses="4" win_pct="0.75"/>
+            <road wins="23" losses="18" win_pct="0.561"/>
+            <southeast wins="5" losses="5" win_pct="0.5"/>
+            <southwest wins="12" losses="6" win_pct="0.667"/>
+            <ten_points wins="30" losses="9" win_pct="0.769"/>
+            <three_points wins="4" losses="3" win_pct="0.571"/>
+          </records>
+        </team>
+        <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" wins="51" losses="31" win_pct="0.622" points_for="104.26" points_against="99.45" point_diff="4.81">
+          <games-behind league="11.0" conference="11.0" division="6.0"/>
+          <streak>
+            <win length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="7" losses="3" win_pct="0.7"/>
+            <below_500 wins="26" losses="11" win_pct="0.703"/>
+            <central wins="7" losses="3" win_pct="0.7"/>
+            <conference wins="31" losses="21" win_pct="0.596"/>
+            <division wins="11" losses="5" win_pct="0.688"/>
+            <home wins="27" losses="14" win_pct="0.659"/>
+            <last_10 wins="6" losses="4" win_pct="0.6"/>
+            <last_10_home wins="6" losses="4" win_pct="0.6"/>
+            <last_10_road wins="6" losses="4" win_pct="0.6"/>
+            <northwest wins="11" losses="7" win_pct="0.611"/>
+            <over_500 wins="25" losses="20" win_pct="0.556"/>
+            <overtime wins="3" losses="3" win_pct="0.5"/>
+            <pacific wins="11" losses="5" win_pct="0.688"/>
+            <road wins="24" losses="17" win_pct="0.585"/>
+            <southeast wins="6" losses="4" win_pct="0.6"/>
+            <southwest wins="9" losses="9" win_pct="0.5"/>
+            <ten_points wins="28" losses="9" win_pct="0.757"/>
+            <three_points wins="11" losses="8" win_pct="0.579"/>
+          </records>
+        </team>
+        <team id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" name="Suns" market="Phoenix" wins="48" losses="34" win_pct="0.585" points_for="105.23" points_against="102.6" point_diff="2.63">
+          <games-behind league="14.0" conference="14.0" division="9.0"/>
+          <streak>
+            <win length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="7" losses="3" win_pct="0.7"/>
+            <below_500 wins="26" losses="15" win_pct="0.634"/>
+            <central wins="6" losses="4" win_pct="0.6"/>
+            <conference wins="28" losses="24" win_pct="0.538"/>
+            <division wins="8" losses="8" win_pct="0.5"/>
+            <home wins="26" losses="15" win_pct="0.634"/>
+            <last_10 wins="5" losses="5" win_pct="0.5"/>
+            <last_10_home wins="6" losses="4" win_pct="0.6"/>
+            <last_10_road wins="6" losses="4" win_pct="0.6"/>
+            <northwest wins="13" losses="5" win_pct="0.722"/>
+            <over_500 wins="22" losses="19" win_pct="0.537"/>
+            <overtime wins="1" losses="2" win_pct="0.333"/>
+            <pacific wins="8" losses="8" win_pct="0.5"/>
+            <road wins="22" losses="19" win_pct="0.537"/>
+            <southeast wins="7" losses="3" win_pct="0.7"/>
+            <southwest wins="7" losses="11" win_pct="0.389"/>
+            <ten_points wins="19" losses="7" win_pct="0.731"/>
+            <three_points wins="2" losses="9" win_pct="0.182"/>
+          </records>
+        </team>
+        <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" wins="28" losses="54" win_pct="0.341" points_for="100.5" points_against="103.4" point_diff="-2.9">
+          <games-behind league="34.0" conference="34.0" division="29.0"/>
+          <streak>
+            <loss length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="5" losses="5" win_pct="0.5"/>
+            <below_500 wins="16" losses="17" win_pct="0.485"/>
+            <central wins="4" losses="6" win_pct="0.4"/>
+            <conference wins="15" losses="37" win_pct="0.288"/>
+            <division wins="3" losses="13" win_pct="0.188"/>
+            <home wins="17" losses="24" win_pct="0.415"/>
+            <last_10 wins="3" losses="7" win_pct="0.3"/>
+            <last_10_home wins="5" losses="5" win_pct="0.5"/>
+            <last_10_road wins="2" losses="8" win_pct="0.2"/>
+            <northwest wins="6" losses="12" win_pct="0.333"/>
+            <over_500 wins="12" losses="37" win_pct="0.245"/>
+            <overtime wins="4" losses="2" win_pct="0.667"/>
+            <pacific wins="3" losses="13" win_pct="0.188"/>
+            <road wins="11" losses="30" win_pct="0.268"/>
+            <southeast wins="4" losses="6" win_pct="0.4"/>
+            <southwest wins="6" losses="12" win_pct="0.333"/>
+            <ten_points wins="12" losses="26" win_pct="0.316"/>
+            <three_points wins="4" losses="9" win_pct="0.308"/>
+          </records>
+        </team>
+        <team id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" name="Lakers" market="Los Angeles" wins="27" losses="55" win_pct="0.329" points_for="102.95" points_against="109.24" point_diff="-6.29">
+          <games-behind league="35.0" conference="35.0" division="30.0"/>
+          <streak>
+            <win length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="6" losses="4" win_pct="0.6"/>
+            <below_500 wins="17" losses="22" win_pct="0.436"/>
+            <central wins="3" losses="7" win_pct="0.3"/>
+            <conference wins="15" losses="37" win_pct="0.288"/>
+            <division wins="6" losses="10" win_pct="0.375"/>
+            <home wins="14" losses="27" win_pct="0.341"/>
+            <last_10 wins="3" losses="7" win_pct="0.3"/>
+            <last_10_home wins="3" losses="7" win_pct="0.3"/>
+            <last_10_road wins="3" losses="7" win_pct="0.3"/>
+            <northwest wins="5" losses="13" win_pct="0.278"/>
+            <over_500 wins="10" losses="33" win_pct="0.233"/>
+            <overtime wins="0" losses="1" win_pct="0.0"/>
+            <pacific wins="6" losses="10" win_pct="0.375"/>
+            <road wins="13" losses="28" win_pct="0.317"/>
+            <southeast wins="3" losses="7" win_pct="0.3"/>
+            <southwest wins="4" losses="14" win_pct="0.222"/>
+            <ten_points wins="12" losses="33" win_pct="0.267"/>
+            <three_points wins="5" losses="5" win_pct="0.5"/>
+          </records>
+        </team>
+      </division>
+      <division id="1d29f94c-9587-494b-a232-feb20a40eb4c" name="Southwest" alias="SOUTHWEST">
+        <team id="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" name="Spurs" market="San Antonio" wins="62" losses="20" win_pct="0.756" points_for="105.35" points_against="97.63" point_diff="7.72">
+          <games-behind league="0.0" conference="0.0" division="0.0"/>
+          <streak>
+            <loss length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="8" losses="2" win_pct="0.8"/>
+            <below_500 wins="33" losses="4" win_pct="0.892"/>
+            <central wins="7" losses="3" win_pct="0.7"/>
+            <conference wins="38" losses="14" win_pct="0.731"/>
+            <division wins="12" losses="4" win_pct="0.75"/>
+            <home wins="32" losses="9" win_pct="0.78"/>
+            <last_10 wins="6" losses="4" win_pct="0.6"/>
+            <last_10_home wins="9" losses="1" win_pct="0.9"/>
+            <last_10_road wins="7" losses="3" win_pct="0.7"/>
+            <northwest wins="11" losses="7" win_pct="0.611"/>
+            <over_500 wins="29" losses="16" win_pct="0.644"/>
+            <overtime wins="2" losses="0" win_pct="1.0"/>
+            <pacific wins="15" losses="3" win_pct="0.833"/>
+            <road wins="30" losses="11" win_pct="0.732"/>
+            <southeast wins="9" losses="1" win_pct="0.9"/>
+            <southwest wins="12" losses="4" win_pct="0.75"/>
+            <ten_points wins="35" losses="12" win_pct="0.745"/>
+            <three_points wins="7" losses="0" win_pct="1.0"/>
+          </records>
+        </team>
+        <team id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" market="Houston" wins="54" losses="28" win_pct="0.659" points_for="107.67" points_against="103.11" point_diff="4.56">
+          <games-behind league="8.0" conference="8.0" division="8.0"/>
+          <streak>
+            <loss length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="7" losses="3" win_pct="0.7"/>
+            <below_500 wins="32" losses="6" win_pct="0.842"/>
+            <central wins="8" losses="2" win_pct="0.8"/>
+            <conference wins="31" losses="21" win_pct="0.596"/>
+            <division wins="11" losses="5" win_pct="0.688"/>
+            <home wins="33" losses="8" win_pct="0.805"/>
+            <last_10 wins="5" losses="5" win_pct="0.5"/>
+            <last_10_home wins="9" losses="1" win_pct="0.9"/>
+            <last_10_road wins="3" losses="7" win_pct="0.3"/>
+            <northwest wins="11" losses="7" win_pct="0.611"/>
+            <over_500 wins="22" losses="22" win_pct="0.5"/>
+            <overtime wins="3" losses="2" win_pct="0.6"/>
+            <pacific wins="9" losses="9" win_pct="0.5"/>
+            <road wins="21" losses="20" win_pct="0.512"/>
+            <southeast wins="8" losses="2" win_pct="0.8"/>
+            <southwest wins="11" losses="5" win_pct="0.688"/>
+            <ten_points wins="30" losses="9" win_pct="0.769"/>
+            <three_points wins="7" losses="6" win_pct="0.538"/>
+          </records>
+        </team>
+        <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis" wins="50" losses="32" win_pct="0.61" points_for="96.15" points_against="94.57" point_diff="1.57">
+          <games-behind league="12.0" conference="12.0" division="12.0"/>
+          <streak>
+            <win length="5"/>
+          </streak>
+          <records>
+            <atlantic wins="6" losses="4" win_pct="0.6"/>
+            <below_500 wins="25" losses="11" win_pct="0.694"/>
+            <central wins="7" losses="3" win_pct="0.7"/>
+            <conference wins="29" losses="23" win_pct="0.558"/>
+            <division wins="4" losses="12" win_pct="0.25"/>
+            <home wins="27" losses="14" win_pct="0.659"/>
+            <last_10 wins="7" losses="3" win_pct="0.7"/>
+            <last_10_home wins="10" losses="0" win_pct="1.0"/>
+            <last_10_road wins="5" losses="5" win_pct="0.5"/>
+            <northwest wins="11" losses="7" win_pct="0.611"/>
+            <over_500 wins="25" losses="21" win_pct="0.543"/>
+            <overtime wins="3" losses="2" win_pct="0.6"/>
+            <pacific wins="14" losses="4" win_pct="0.778"/>
+            <road wins="23" losses="18" win_pct="0.561"/>
+            <southeast wins="8" losses="2" win_pct="0.8"/>
+            <southwest wins="4" losses="12" win_pct="0.25"/>
+            <ten_points wins="18" losses="13" win_pct="0.581"/>
+            <three_points wins="10" losses="4" win_pct="0.714"/>
+          </records>
+        </team>
+        <team id="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" name="Mavericks" market="Dallas" wins="49" losses="33" win_pct="0.598" points_for="104.84" points_against="102.44" point_diff="2.4">
+          <games-behind league="13.0" conference="13.0" division="13.0"/>
+          <streak>
+            <loss length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="5" losses="5" win_pct="0.5"/>
+            <below_500 wins="29" losses="8" win_pct="0.784"/>
+            <central wins="9" losses="1" win_pct="0.9"/>
+            <conference wins="29" losses="23" win_pct="0.558"/>
+            <division wins="9" losses="7" win_pct="0.563"/>
+            <home wins="26" losses="15" win_pct="0.634"/>
+            <last_10 wins="6" losses="4" win_pct="0.6"/>
+            <last_10_home wins="5" losses="5" win_pct="0.5"/>
+            <last_10_road wins="6" losses="4" win_pct="0.6"/>
+            <northwest wins="10" losses="8" win_pct="0.556"/>
+            <over_500 wins="20" losses="25" win_pct="0.444"/>
+            <overtime wins="1" losses="5" win_pct="0.167"/>
+            <pacific wins="10" losses="8" win_pct="0.556"/>
+            <road wins="23" losses="18" win_pct="0.561"/>
+            <southeast wins="6" losses="4" win_pct="0.6"/>
+            <southwest wins="9" losses="7" win_pct="0.563"/>
+            <ten_points wins="23" losses="10" win_pct="0.697"/>
+            <three_points wins="11" losses="11" win_pct="0.5"/>
+          </records>
+        </team>
+        <team id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" name="Pelicans" market="New Orleans" wins="34" losses="48" win_pct="0.415" points_for="99.72" points_against="102.43" point_diff="-2.71">
+          <games-behind league="28.0" conference="28.0" division="28.0"/>
+          <streak>
+            <win length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="6" losses="4" win_pct="0.6"/>
+            <below_500 wins="20" losses="14" win_pct="0.588"/>
+            <central wins="8" losses="2" win_pct="0.8"/>
+            <conference wins="15" losses="37" win_pct="0.288"/>
+            <division wins="4" losses="12" win_pct="0.25"/>
+            <home wins="22" losses="19" win_pct="0.537"/>
+            <last_10 wins="2" losses="8" win_pct="0.2"/>
+            <last_10_home wins="7" losses="3" win_pct="0.7"/>
+            <last_10_road wins="2" losses="8" win_pct="0.2"/>
+            <northwest wins="7" losses="11" win_pct="0.389"/>
+            <over_500 wins="14" losses="34" win_pct="0.292"/>
+            <overtime wins="5" losses="0" win_pct="1.0"/>
+            <pacific wins="4" losses="14" win_pct="0.222"/>
+            <road wins="12" losses="29" win_pct="0.293"/>
+            <southeast wins="5" losses="5" win_pct="0.5"/>
+            <southwest wins="4" losses="12" win_pct="0.25"/>
+            <ten_points wins="10" losses="21" win_pct="0.323"/>
+            <three_points wins="7" losses="8" win_pct="0.467"/>
+          </records>
+        </team>
+      </division>
+      <division id="12bf14ba-eb16-4c6f-8275-e801b6947c1e" name="Northwest" alias="NORTHWEST">
+        <team id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" name="Thunder" market="Oklahoma City" wins="59" losses="23" win_pct="0.72" points_for="106.16" points_against="99.82" point_diff="6.34">
+          <games-behind league="3.0" conference="3.0" division="0.0"/>
+          <streak>
+            <win length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="8" losses="2" win_pct="0.8"/>
+            <below_500 wins="28" losses="9" win_pct="0.757"/>
+            <central wins="8" losses="2" win_pct="0.8"/>
+            <conference wins="36" losses="16" win_pct="0.692"/>
+            <division wins="11" losses="5" win_pct="0.688"/>
+            <home wins="34" losses="7" win_pct="0.829"/>
+            <last_10 wins="6" losses="4" win_pct="0.6"/>
+            <last_10_home wins="9" losses="1" win_pct="0.9"/>
+            <last_10_road wins="5" losses="5" win_pct="0.5"/>
+            <northwest wins="11" losses="5" win_pct="0.688"/>
+            <over_500 wins="31" losses="14" win_pct="0.689"/>
+            <overtime wins="3" losses="1" win_pct="0.75"/>
+            <pacific wins="12" losses="6" win_pct="0.667"/>
+            <road wins="25" losses="16" win_pct="0.61"/>
+            <southeast wins="7" losses="3" win_pct="0.7"/>
+            <southwest wins="13" losses="5" win_pct="0.722"/>
+            <ten_points wins="33" losses="8" win_pct="0.805"/>
+            <three_points wins="10" losses="4" win_pct="0.714"/>
+          </records>
+        </team>
+        <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" wins="54" losses="28" win_pct="0.659" points_for="106.74" points_against="102.76" point_diff="3.99">
+          <games-behind league="8.0" conference="8.0" division="5.0"/>
+          <streak>
+            <win length="5"/>
+          </streak>
+          <records>
+            <atlantic wins="9" losses="1" win_pct="0.9"/>
+            <below_500 wins="34" losses="7" win_pct="0.829"/>
+            <central wins="9" losses="1" win_pct="0.9"/>
+            <conference wins="31" losses="21" win_pct="0.596"/>
+            <division wins="13" losses="3" win_pct="0.813"/>
+            <home wins="31" losses="10" win_pct="0.756"/>
+            <last_10 wins="9" losses="1" win_pct="0.9"/>
+            <last_10_home wins="8" losses="2" win_pct="0.8"/>
+            <last_10_road wins="5" losses="5" win_pct="0.5"/>
+            <northwest wins="13" losses="3" win_pct="0.813"/>
+            <over_500 wins="20" losses="21" win_pct="0.488"/>
+            <overtime wins="5" losses="2" win_pct="0.714"/>
+            <pacific wins="10" losses="8" win_pct="0.556"/>
+            <road wins="23" losses="18" win_pct="0.561"/>
+            <southeast wins="5" losses="5" win_pct="0.5"/>
+            <southwest wins="8" losses="10" win_pct="0.444"/>
+            <ten_points wins="24" losses="13" win_pct="0.649"/>
+            <three_points wins="8" losses="9" win_pct="0.471"/>
+          </records>
+        </team>
+        <team id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" market="Minnesota" wins="40" losses="42" win_pct="0.488" points_for="106.93" points_against="104.26" point_diff="2.67">
+          <games-behind league="22.0" conference="22.0" division="19.0"/>
+          <streak>
+            <loss length="3"/>
+          </streak>
+          <records>
+            <atlantic wins="5" losses="5" win_pct="0.5"/>
+            <below_500 wins="26" losses="12" win_pct="0.684"/>
+            <central wins="7" losses="3" win_pct="0.7"/>
+            <conference wins="23" losses="29" win_pct="0.442"/>
+            <division wins="7" losses="9" win_pct="0.438"/>
+            <home wins="24" losses="17" win_pct="0.585"/>
+            <last_10 wins="4" losses="6" win_pct="0.4"/>
+            <last_10_home wins="6" losses="4" win_pct="0.6"/>
+            <last_10_road wins="3" losses="7" win_pct="0.3"/>
+            <northwest wins="7" losses="9" win_pct="0.438"/>
+            <over_500 wins="14" losses="30" win_pct="0.318"/>
+            <overtime wins="3" losses="2" win_pct="0.6"/>
+            <pacific wins="7" losses="11" win_pct="0.389"/>
+            <road wins="16" losses="25" win_pct="0.39"/>
+            <southeast wins="5" losses="5" win_pct="0.5"/>
+            <southwest wins="9" losses="9" win_pct="0.5"/>
+            <ten_points wins="26" losses="18" win_pct="0.591"/>
+            <three_points wins="5" losses="6" win_pct="0.455"/>
+          </records>
+        </team>
+        <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" wins="36" losses="46" win_pct="0.439" points_for="104.38" points_against="106.52" point_diff="-2.15">
+          <games-behind league="26.0" conference="26.0" division="23.0"/>
+          <streak>
+            <loss length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="5" losses="5" win_pct="0.5"/>
+            <below_500 wins="19" losses="18" win_pct="0.514"/>
+            <central wins="5" losses="5" win_pct="0.5"/>
+            <conference wins="20" losses="32" win_pct="0.385"/>
+            <division wins="5" losses="11" win_pct="0.313"/>
+            <home wins="22" losses="19" win_pct="0.537"/>
+            <last_10 wins="4" losses="6" win_pct="0.4"/>
+            <last_10_home wins="7" losses="3" win_pct="0.7"/>
+            <last_10_road wins="3" losses="7" win_pct="0.3"/>
+            <northwest wins="5" losses="11" win_pct="0.313"/>
+            <over_500 wins="17" losses="28" win_pct="0.378"/>
+            <overtime wins="0" losses="3" win_pct="0.0"/>
+            <pacific wins="8" losses="10" win_pct="0.444"/>
+            <road wins="14" losses="27" win_pct="0.341"/>
+            <southeast wins="6" losses="4" win_pct="0.6"/>
+            <southwest wins="7" losses="11" win_pct="0.389"/>
+            <ten_points wins="16" losses="24" win_pct="0.4"/>
+            <three_points wins="8" losses="5" win_pct="0.615"/>
+          </records>
+        </team>
+        <team id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" name="Jazz" market="Utah" wins="25" losses="57" win_pct="0.305" points_for="95.01" points_against="102.18" point_diff="-7.17">
+          <games-behind league="37.0" conference="37.0" division="34.0"/>
+          <streak>
+            <win length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="3" losses="7" win_pct="0.3"/>
+            <below_500 wins="16" losses="23" win_pct="0.41"/>
+            <central wins="3" losses="7" win_pct="0.3"/>
+            <conference wins="13" losses="39" win_pct="0.25"/>
+            <division wins="4" losses="12" win_pct="0.25"/>
+            <home wins="16" losses="25" win_pct="0.39"/>
+            <last_10 wins="2" losses="8" win_pct="0.2"/>
+            <last_10_home wins="2" losses="8" win_pct="0.2"/>
+            <last_10_road wins="2" losses="8" win_pct="0.2"/>
+            <northwest wins="4" losses="12" win_pct="0.25"/>
+            <over_500 wins="9" losses="34" win_pct="0.209"/>
+            <overtime wins="2" losses="1" win_pct="0.667"/>
+            <pacific wins="6" losses="12" win_pct="0.333"/>
+            <road wins="9" losses="32" win_pct="0.22"/>
+            <southeast wins="6" losses="4" win_pct="0.6"/>
+            <southwest wins="3" losses="15" win_pct="0.167"/>
+            <ten_points wins="9" losses="39" win_pct="0.188"/>
+            <three_points wins="5" losses="4" win_pct="0.556"/>
+          </records>
+        </team>
+      </division>
+    </conference>
+    <conference id="3960cfac-7361-4b30-bc25-8d393de6f62f" name="EASTERN CONFERENCE" alias="EASTERN">
+      <division id="54dc7348-c1d2-40d8-88b3-c4c0138e085d" name="Southeast" alias="SOUTHEAST">
+        <team id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" name="Heat" market="Miami" wins="54" losses="28" win_pct="0.659" points_for="102.2" points_against="97.44" point_diff="4.76">
+          <games-behind league="8.0" conference="2.0" division="0.0"/>
+          <streak>
+            <loss length="3"/>
+          </streak>
+          <records>
+            <atlantic wins="9" losses="9" win_pct="0.5"/>
+            <below_500 wins="29" losses="14" win_pct="0.674"/>
+            <central wins="13" losses="5" win_pct="0.722"/>
+            <conference wins="34" losses="18" win_pct="0.654"/>
+            <division wins="12" losses="4" win_pct="0.75"/>
+            <home wins="32" losses="9" win_pct="0.78"/>
+            <last_10 wins="4" losses="6" win_pct="0.4"/>
+            <last_10_home wins="7" losses="3" win_pct="0.7"/>
+            <last_10_road wins="3" losses="7" win_pct="0.3"/>
+            <northwest wins="6" losses="4" win_pct="0.6"/>
+            <over_500 wins="25" losses="14" win_pct="0.641"/>
+            <overtime wins="2" losses="4" win_pct="0.333"/>
+            <pacific wins="8" losses="2" win_pct="0.8"/>
+            <road wins="22" losses="19" win_pct="0.537"/>
+            <southeast wins="12" losses="4" win_pct="0.75"/>
+            <southwest wins="6" losses="4" win_pct="0.6"/>
+            <ten_points wins="29" losses="10" win_pct="0.744"/>
+            <three_points wins="8" losses="7" win_pct="0.533"/>
+          </records>
+        </team>
+        <team id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" name="Wizards" market="Washington" wins="44" losses="38" win_pct="0.537" points_for="100.66" points_against="99.39" point_diff="1.27">
+          <games-behind league="18.0" conference="12.0" division="10.0"/>
+          <streak>
+            <win length="4"/>
+          </streak>
+          <records>
+            <atlantic wins="13" losses="5" win_pct="0.722"/>
+            <below_500 wins="30" losses="13" win_pct="0.698"/>
+            <central wins="10" losses="8" win_pct="0.556"/>
+            <conference wins="33" losses="19" win_pct="0.635"/>
+            <division wins="10" losses="6" win_pct="0.625"/>
+            <home wins="22" losses="19" win_pct="0.537"/>
+            <last_10 wins="7" losses="3" win_pct="0.7"/>
+            <last_10_home wins="6" losses="4" win_pct="0.6"/>
+            <last_10_road wins="5" losses="5" win_pct="0.5"/>
+            <northwest wins="4" losses="6" win_pct="0.4"/>
+            <over_500 wins="14" losses="25" win_pct="0.359"/>
+            <overtime wins="4" losses="8" win_pct="0.333"/>
+            <pacific wins="5" losses="5" win_pct="0.5"/>
+            <road wins="22" losses="19" win_pct="0.537"/>
+            <southeast wins="10" losses="6" win_pct="0.625"/>
+            <southwest wins="2" losses="8" win_pct="0.2"/>
+            <ten_points wins="19" losses="14" win_pct="0.576"/>
+            <three_points wins="5" losses="9" win_pct="0.357"/>
+          </records>
+        </team>
+        <team id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" name="Hornets" market="Charlotte" wins="43" losses="39" win_pct="0.524" points_for="96.85" points_against="97.07" point_diff="-0.22">
+          <games-behind league="19.0" conference="13.0" division="11.0"/>
+          <streak>
+            <win length="3"/>
+          </streak>
+          <records>
+            <atlantic wins="11" losses="7" win_pct="0.611"/>
+            <below_500 wins="25" losses="17" win_pct="0.595"/>
+            <central wins="13" losses="5" win_pct="0.722"/>
+            <conference wins="30" losses="22" win_pct="0.577"/>
+            <division wins="6" losses="10" win_pct="0.375"/>
+            <home wins="25" losses="16" win_pct="0.61"/>
+            <last_10 wins="8" losses="2" win_pct="0.8"/>
+            <last_10_home wins="8" losses="2" win_pct="0.8"/>
+            <last_10_road wins="6" losses="4" win_pct="0.6"/>
+            <northwest wins="4" losses="6" win_pct="0.4"/>
+            <over_500 wins="18" losses="22" win_pct="0.45"/>
+            <overtime wins="6" losses="3" win_pct="0.667"/>
+            <pacific wins="6" losses="4" win_pct="0.6"/>
+            <road wins="18" losses="23" win_pct="0.439"/>
+            <southeast wins="6" losses="10" win_pct="0.375"/>
+            <southwest wins="3" losses="7" win_pct="0.3"/>
+            <ten_points wins="18" losses="19" win_pct="0.486"/>
+            <three_points wins="8" losses="8" win_pct="0.5"/>
+          </records>
+        </team>
+        <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" wins="38" losses="44" win_pct="0.463" points_for="101.0" points_against="101.48" point_diff="-0.48">
+          <games-behind league="24.0" conference="18.0" division="16.0"/>
+          <streak>
+            <win length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="10" losses="8" win_pct="0.556"/>
+            <below_500 wins="24" losses="19" win_pct="0.558"/>
+            <central wins="10" losses="8" win_pct="0.556"/>
+            <conference wins="28" losses="24" win_pct="0.538"/>
+            <division wins="8" losses="8" win_pct="0.5"/>
+            <home wins="24" losses="17" win_pct="0.585"/>
+            <last_10 wins="7" losses="3" win_pct="0.7"/>
+            <last_10_home wins="4" losses="6" win_pct="0.4"/>
+            <last_10_road wins="5" losses="5" win_pct="0.5"/>
+            <northwest wins="4" losses="6" win_pct="0.4"/>
+            <over_500 wins="14" losses="25" win_pct="0.359"/>
+            <overtime wins="4" losses="1" win_pct="0.8"/>
+            <pacific wins="4" losses="6" win_pct="0.4"/>
+            <road wins="14" losses="27" win_pct="0.341"/>
+            <southeast wins="8" losses="8" win_pct="0.5"/>
+            <southwest wins="2" losses="8" win_pct="0.2"/>
+            <ten_points wins="15" losses="16" win_pct="0.484"/>
+            <three_points wins="8" losses="9" win_pct="0.471"/>
+          </records>
+        </team>
+        <team id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" name="Magic" market="Orlando" wins="23" losses="59" win_pct="0.28" points_for="96.51" points_against="101.95" point_diff="-5.44">
+          <games-behind league="39.0" conference="33.0" division="31.0"/>
+          <streak>
+            <loss length="4"/>
+          </streak>
+          <records>
+            <atlantic wins="7" losses="11" win_pct="0.389"/>
+            <below_500 wins="14" losses="27" win_pct="0.341"/>
+            <central wins="6" losses="12" win_pct="0.333"/>
+            <conference wins="17" losses="35" win_pct="0.327"/>
+            <division wins="4" losses="12" win_pct="0.25"/>
+            <home wins="19" losses="22" win_pct="0.463"/>
+            <last_10 wins="3" losses="7" win_pct="0.3"/>
+            <last_10_home wins="4" losses="6" win_pct="0.4"/>
+            <last_10_road wins="0" losses="10" win_pct="0.0"/>
+            <northwest wins="3" losses="7" win_pct="0.3"/>
+            <over_500 wins="9" losses="32" win_pct="0.22"/>
+            <overtime wins="2" losses="5" win_pct="0.286"/>
+            <pacific wins="2" losses="8" win_pct="0.2"/>
+            <road wins="4" losses="37" win_pct="0.098"/>
+            <southeast wins="4" losses="12" win_pct="0.25"/>
+            <southwest wins="1" losses="9" win_pct="0.1"/>
+            <ten_points wins="10" losses="30" win_pct="0.25"/>
+            <three_points wins="5" losses="7" win_pct="0.417"/>
+          </records>
+        </team>
+      </division>
+      <division id="f3aaf23a-1ceb-46ef-8fef-9403692e801b" name="Central" alias="CENTRAL">
+        <team id="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" name="Pacers" market="Indiana" wins="56" losses="26" win_pct="0.683" points_for="96.74" points_against="92.34" point_diff="4.4">
+          <games-behind league="6.0" conference="0.0" division="0.0"/>
+          <streak>
+            <win length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="15" losses="3" win_pct="0.833"/>
+            <below_500 wins="38" losses="9" win_pct="0.809"/>
+            <central wins="12" losses="4" win_pct="0.75"/>
+            <conference wins="38" losses="14" win_pct="0.731"/>
+            <division wins="12" losses="4" win_pct="0.75"/>
+            <home wins="35" losses="6" win_pct="0.854"/>
+            <last_10 wins="4" losses="6" win_pct="0.4"/>
+            <last_10_home wins="7" losses="3" win_pct="0.7"/>
+            <last_10_road wins="3" losses="7" win_pct="0.3"/>
+            <northwest wins="6" losses="4" win_pct="0.6"/>
+            <over_500 wins="18" losses="17" win_pct="0.514"/>
+            <overtime wins="4" losses="0" win_pct="1.0"/>
+            <pacific wins="7" losses="3" win_pct="0.7"/>
+            <road wins="21" losses="20" win_pct="0.512"/>
+            <southeast wins="11" losses="7" win_pct="0.611"/>
+            <southwest wins="5" losses="5" win_pct="0.5"/>
+            <ten_points wins="29" losses="17" win_pct="0.63"/>
+            <three_points wins="4" losses="3" win_pct="0.571"/>
+          </records>
+        </team>
+        <team id="583ec5fd-fb46-11e1-82cb-f4ce4684ea4c" name="Bulls" market="Chicago" wins="48" losses="34" win_pct="0.585" points_for="93.66" points_against="91.81" point_diff="1.85">
+          <games-behind league="14.0" conference="8.0" division="8.0"/>
+          <streak>
+            <loss length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="12" losses="6" win_pct="0.667"/>
+            <below_500 wins="31" losses="16" win_pct="0.66"/>
+            <central wins="11" losses="5" win_pct="0.688"/>
+            <conference wins="35" losses="17" win_pct="0.673"/>
+            <division wins="11" losses="5" win_pct="0.688"/>
+            <home wins="27" losses="14" win_pct="0.659"/>
+            <last_10 wins="8" losses="2" win_pct="0.8"/>
+            <last_10_home wins="8" losses="2" win_pct="0.8"/>
+            <last_10_road wins="6" losses="4" win_pct="0.6"/>
+            <northwest wins="3" losses="7" win_pct="0.3"/>
+            <over_500 wins="17" losses="18" win_pct="0.486"/>
+            <overtime wins="3" losses="3" win_pct="0.5"/>
+            <pacific wins="6" losses="4" win_pct="0.6"/>
+            <road wins="21" losses="20" win_pct="0.512"/>
+            <southeast wins="12" losses="6" win_pct="0.667"/>
+            <southwest wins="4" losses="6" win_pct="0.4"/>
+            <ten_points wins="27" losses="19" win_pct="0.587"/>
+            <three_points wins="6" losses="5" win_pct="0.545"/>
+          </records>
+        </team>
+        <team id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" name="Cavaliers" market="Cleveland" wins="33" losses="49" win_pct="0.402" points_for="98.22" points_against="101.51" point_diff="-3.29">
+          <games-behind league="29.0" conference="23.0" division="23.0"/>
+          <streak>
+            <win length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="8" losses="10" win_pct="0.444"/>
+            <below_500 wins="18" losses="20" win_pct="0.474"/>
+            <central wins="7" losses="9" win_pct="0.438"/>
+            <conference wins="21" losses="31" win_pct="0.404"/>
+            <division wins="7" losses="9" win_pct="0.438"/>
+            <home wins="19" losses="22" win_pct="0.463"/>
+            <last_10 wins="5" losses="5" win_pct="0.5"/>
+            <last_10_home wins="4" losses="6" win_pct="0.4"/>
+            <last_10_road wins="5" losses="5" win_pct="0.5"/>
+            <northwest wins="6" losses="4" win_pct="0.6"/>
+            <over_500 wins="15" losses="29" win_pct="0.341"/>
+            <overtime wins="5" losses="3" win_pct="0.625"/>
+            <pacific wins="5" losses="5" win_pct="0.5"/>
+            <road wins="14" losses="27" win_pct="0.341"/>
+            <southeast wins="6" losses="12" win_pct="0.333"/>
+            <southwest wins="1" losses="9" win_pct="0.1"/>
+            <ten_points wins="13" losses="27" win_pct="0.325"/>
+            <three_points wins="7" losses="5" win_pct="0.583"/>
+          </records>
+        </team>
+        <team id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" name="Pistons" market="Detroit" wins="29" losses="53" win_pct="0.354" points_for="101.05" points_against="104.71" point_diff="-3.66">
+          <games-behind league="33.0" conference="27.0" division="27.0"/>
+          <streak>
+            <loss length="4"/>
+          </streak>
+          <records>
+            <atlantic wins="11" losses="7" win_pct="0.611"/>
+            <below_500 wins="22" losses="24" win_pct="0.478"/>
+            <central wins="6" losses="10" win_pct="0.375"/>
+            <conference wins="23" losses="29" win_pct="0.442"/>
+            <division wins="6" losses="10" win_pct="0.375"/>
+            <home wins="17" losses="24" win_pct="0.415"/>
+            <last_10 wins="3" losses="7" win_pct="0.3"/>
+            <last_10_home wins="4" losses="6" win_pct="0.4"/>
+            <last_10_road wins="2" losses="8" win_pct="0.2"/>
+            <northwest wins="2" losses="8" win_pct="0.2"/>
+            <over_500 wins="7" losses="29" win_pct="0.194"/>
+            <overtime wins="0" losses="4" win_pct="0.0"/>
+            <pacific wins="3" losses="7" win_pct="0.3"/>
+            <road wins="12" losses="29" win_pct="0.293"/>
+            <southeast wins="6" losses="12" win_pct="0.333"/>
+            <southwest wins="1" losses="9" win_pct="0.1"/>
+            <ten_points wins="16" losses="25" win_pct="0.39"/>
+            <three_points wins="2" losses="6" win_pct="0.25"/>
+          </records>
+        </team>
+        <team id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" name="Bucks" market="Milwaukee" wins="15" losses="67" win_pct="0.183" points_for="95.48" points_against="103.66" point_diff="-8.18">
+          <games-behind league="47.0" conference="41.0" division="41.0"/>
+          <streak>
+            <loss length="3"/>
+          </streak>
+          <records>
+            <atlantic wins="5" losses="13" win_pct="0.278"/>
+            <below_500 wins="13" losses="32" win_pct="0.289"/>
+            <central wins="4" losses="12" win_pct="0.25"/>
+            <conference wins="12" losses="40" win_pct="0.231"/>
+            <division wins="4" losses="12" win_pct="0.25"/>
+            <home wins="10" losses="31" win_pct="0.244"/>
+            <last_10 wins="1" losses="9" win_pct="0.1"/>
+            <last_10_home wins="3" losses="7" win_pct="0.3"/>
+            <last_10_road wins="0" losses="10" win_pct="0.0"/>
+            <northwest wins="1" losses="9" win_pct="0.1"/>
+            <over_500 wins="2" losses="35" win_pct="0.054"/>
+            <overtime wins="1" losses="6" win_pct="0.143"/>
+            <pacific wins="2" losses="8" win_pct="0.2"/>
+            <road wins="5" losses="36" win_pct="0.122"/>
+            <southeast wins="3" losses="15" win_pct="0.167"/>
+            <southwest wins="0" losses="10" win_pct="0.0"/>
+            <ten_points wins="4" losses="33" win_pct="0.108"/>
+            <three_points wins="4" losses="5" win_pct="0.444"/>
+          </records>
+        </team>
+      </division>
+      <division id="582d6502-9a93-4a8d-8785-69374d732875" name="Atlantic" alias="ATLANTIC">
+        <team id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" name="Raptors" market="Toronto" wins="48" losses="34" win_pct="0.585" points_for="101.28" points_against="98.04" point_diff="3.24">
+          <games-behind league="14.0" conference="8.0" division="0.0"/>
+          <streak>
+            <loss length="1"/>
+          </streak>
+          <records>
+            <atlantic wins="11" losses="5" win_pct="0.688"/>
+            <below_500 wins="34" losses="11" win_pct="0.756"/>
+            <central wins="13" losses="5" win_pct="0.722"/>
+            <conference wins="32" losses="20" win_pct="0.615"/>
+            <division wins="11" losses="5" win_pct="0.688"/>
+            <home wins="26" losses="15" win_pct="0.634"/>
+            <last_10 wins="7" losses="3" win_pct="0.7"/>
+            <last_10_home wins="7" losses="3" win_pct="0.7"/>
+            <last_10_road wins="5" losses="5" win_pct="0.5"/>
+            <northwest wins="6" losses="4" win_pct="0.6"/>
+            <over_500 wins="14" losses="23" win_pct="0.378"/>
+            <overtime wins="1" losses="6" win_pct="0.143"/>
+            <pacific wins="3" losses="7" win_pct="0.3"/>
+            <road wins="22" losses="19" win_pct="0.537"/>
+            <southeast wins="8" losses="10" win_pct="0.444"/>
+            <southwest wins="7" losses="3" win_pct="0.7"/>
+            <ten_points wins="24" losses="6" win_pct="0.8"/>
+            <three_points wins="3" losses="8" win_pct="0.273"/>
+          </records>
+        </team>
+        <team id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" name="Nets" market="Brooklyn" wins="44" losses="38" win_pct="0.537" points_for="98.52" points_against="99.52" point_diff="-1.0">
+          <games-behind league="18.0" conference="12.0" division="4.0"/>
+          <streak>
+            <loss length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="9" losses="7" win_pct="0.563"/>
+            <below_500 wins="24" losses="20" win_pct="0.545"/>
+            <central wins="7" losses="11" win_pct="0.389"/>
+            <conference wins="26" losses="26" win_pct="0.5"/>
+            <division wins="9" losses="7" win_pct="0.563"/>
+            <home wins="28" losses="13" win_pct="0.683"/>
+            <last_10 wins="5" losses="5" win_pct="0.5"/>
+            <last_10_home wins="8" losses="2" win_pct="0.8"/>
+            <last_10_road wins="4" losses="6" win_pct="0.4"/>
+            <northwest wins="5" losses="5" win_pct="0.5"/>
+            <over_500 wins="20" losses="18" win_pct="0.526"/>
+            <overtime wins="3" losses="4" win_pct="0.429"/>
+            <pacific wins="6" losses="4" win_pct="0.6"/>
+            <road wins="16" losses="25" win_pct="0.39"/>
+            <southeast wins="10" losses="8" win_pct="0.556"/>
+            <southwest wins="7" losses="3" win_pct="0.7"/>
+            <ten_points wins="17" losses="20" win_pct="0.459"/>
+            <three_points wins="8" losses="3" win_pct="0.727"/>
+          </records>
+        </team>
+        <team id="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" name="Knicks" market="New York" wins="37" losses="45" win_pct="0.451" points_for="98.59" points_against="99.38" point_diff="-0.79">
+          <games-behind league="25.0" conference="19.0" division="11.0"/>
+          <streak>
+            <win length="4"/>
+          </streak>
+          <records>
+            <atlantic wins="10" losses="6" win_pct="0.625"/>
+            <below_500 wins="20" losses="22" win_pct="0.476"/>
+            <central wins="9" losses="9" win_pct="0.5"/>
+            <conference wins="26" losses="26" win_pct="0.5"/>
+            <division wins="10" losses="6" win_pct="0.625"/>
+            <home wins="19" losses="22" win_pct="0.463"/>
+            <last_10 wins="7" losses="3" win_pct="0.7"/>
+            <last_10_home wins="7" losses="3" win_pct="0.7"/>
+            <last_10_road wins="7" losses="3" win_pct="0.7"/>
+            <northwest wins="4" losses="6" win_pct="0.4"/>
+            <over_500 wins="17" losses="23" win_pct="0.425"/>
+            <overtime wins="2" losses="3" win_pct="0.4"/>
+            <pacific wins="4" losses="6" win_pct="0.4"/>
+            <road wins="18" losses="23" win_pct="0.439"/>
+            <southeast wins="7" losses="11" win_pct="0.389"/>
+            <southwest wins="3" losses="7" win_pct="0.3"/>
+            <ten_points wins="19" losses="22" win_pct="0.463"/>
+            <three_points wins="3" losses="8" win_pct="0.273"/>
+          </records>
+        </team>
+        <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" wins="25" losses="57" win_pct="0.305" points_for="96.24" points_against="100.71" point_diff="-4.46">
+          <games-behind league="37.0" conference="31.0" division="23.0"/>
+          <streak>
+            <loss length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="5" losses="11" win_pct="0.313"/>
+            <below_500 wins="14" losses="24" win_pct="0.368"/>
+            <central wins="6" losses="12" win_pct="0.333"/>
+            <conference wins="21" losses="31" win_pct="0.404"/>
+            <division wins="5" losses="11" win_pct="0.313"/>
+            <home wins="16" losses="25" win_pct="0.39"/>
+            <last_10 wins="2" losses="8" win_pct="0.2"/>
+            <last_10_home wins="4" losses="6" win_pct="0.4"/>
+            <last_10_road wins="1" losses="9" win_pct="0.1"/>
+            <northwest wins="3" losses="7" win_pct="0.3"/>
+            <over_500 wins="11" losses="33" win_pct="0.25"/>
+            <overtime wins="1" losses="1" win_pct="0.5"/>
+            <pacific wins="1" losses="9" win_pct="0.1"/>
+            <road wins="9" losses="32" win_pct="0.22"/>
+            <southeast wins="10" losses="8" win_pct="0.556"/>
+            <southwest wins="0" losses="10" win_pct="0.0"/>
+            <ten_points wins="9" losses="23" win_pct="0.281"/>
+            <three_points wins="5" losses="9" win_pct="0.357"/>
+          </records>
+        </team>
+        <team id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" name="76ers" market="Philadelphia" wins="19" losses="63" win_pct="0.232" points_for="99.45" points_against="109.9" point_diff="-10.45">
+          <games-behind league="43.0" conference="37.0" division="29.0"/>
+          <streak>
+            <win length="2"/>
+          </streak>
+          <records>
+            <atlantic wins="5" losses="11" win_pct="0.313"/>
+            <below_500 wins="14" losses="33" win_pct="0.298"/>
+            <central wins="4" losses="14" win_pct="0.222"/>
+            <conference wins="14" losses="38" win_pct="0.269"/>
+            <division wins="5" losses="11" win_pct="0.313"/>
+            <home wins="10" losses="31" win_pct="0.244"/>
+            <last_10 wins="4" losses="6" win_pct="0.4"/>
+            <last_10_home wins="2" losses="8" win_pct="0.2"/>
+            <last_10_road wins="2" losses="8" win_pct="0.2"/>
+            <northwest wins="2" losses="8" win_pct="0.2"/>
+            <over_500 wins="5" losses="30" win_pct="0.143"/>
+            <overtime wins="4" losses="1" win_pct="0.8"/>
+            <pacific wins="2" losses="8" win_pct="0.2"/>
+            <road wins="9" losses="32" win_pct="0.22"/>
+            <southeast wins="5" losses="13" win_pct="0.278"/>
+            <southwest wins="1" losses="9" win_pct="0.1"/>
+            <ten_points wins="4" losses="46" win_pct="0.08"/>
+            <three_points wins="6" losses="3" win_pct="0.667"/>
+          </records>
+        </team>
+      </division>
+    </conference>
+  </season>
+</league>
+<!-- Generation ended @ 2014-05-30 15:00:47 +0000 -->

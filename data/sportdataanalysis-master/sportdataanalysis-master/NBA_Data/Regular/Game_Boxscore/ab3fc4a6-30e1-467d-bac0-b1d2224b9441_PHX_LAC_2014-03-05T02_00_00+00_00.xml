@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-05 04:50:45 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="ab3fc4a6-30e1-467d-bac0-b1d2224b9441" status="closed" coverage="full" home_team="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-05T02:00:00+00:00" duration="2:08" attendance="15068" lead_changes="7" times_tied="3" clock="00:00" quarter="4">
+  <team name="Suns" market="Phoenix" id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" points="96">
+    <scoring>
+      <quarter number="1" sequence="1" points="25"/>
+      <quarter number="2" sequence="2" points="30"/>
+      <quarter number="3" sequence="3" points="18"/>
+      <quarter number="4" sequence="4" points="23"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="P.J. Tucker" position="F-G" primary_position="SF" jersey_number="17" id="da7d17aa-f245-4710-820c-99d29a7458b4">
+          <statistics minutes="38:47" field_goals_made="8" field_goals_att="11" field_goals_pct="72.7" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="8" two_points_att="10" two_points_pct="0.8" blocked_att="0" free_throws_made="2" free_throws_att="5" free_throws_pct="40.0" offensive_rebounds="1" defensive_rebounds="9" rebounds="10" assists="2" turnovers="0" steals="2" blocks="0" assists_turnover_ratio="0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" points="18"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="P.J. Tucker" position="F-G" primary_position="SF" jersey_number="17" id="da7d17aa-f245-4710-820c-99d29a7458b4">
+          <statistics minutes="38:47" field_goals_made="8" field_goals_att="11" field_goals_pct="72.7" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="8" two_points_att="10" two_points_pct="0.8" blocked_att="0" free_throws_made="2" free_throws_att="5" free_throws_pct="40.0" offensive_rebounds="1" defensive_rebounds="9" rebounds="10" assists="2" turnovers="0" steals="2" blocks="0" assists_turnover_ratio="0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" points="18"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Goran Dragic" position="G" primary_position="PG" jersey_number="1" id="fea7b92a-0124-4775-8747-e4828f0dab8b">
+          <statistics minutes="37:52" field_goals_made="5" field_goals_att="14" field_goals_pct="35.7" three_points_made="1" three_points_att="4" three_points_pct="25.0" two_points_made="4" two_points_att="10" two_points_pct="0.4" blocked_att="2" free_throws_made="3" free_throws_att="4" free_throws_pct="75.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="9" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="4.5" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="14"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Clippers" market="Los Angeles" id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" points="104">
+    <scoring>
+      <quarter number="1" sequence="1" points="24"/>
+      <quarter number="2" sequence="2" points="20"/>
+      <quarter number="3" sequence="3" points="37"/>
+      <quarter number="4" sequence="4" points="23"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Matt Barnes" position="F" primary_position="SF" jersey_number="22" id="a0d07bb9-3935-4d53-bdbb-6cb27c1a46b1">
+          <statistics minutes="40:03" field_goals_made="12" field_goals_att="17" field_goals_pct="70.6" three_points_made="4" three_points_att="7" three_points_pct="57.1" two_points_made="8" two_points_att="10" two_points_pct="0.8" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="5" rebounds="6" assists="2" turnovers="1" steals="1" blocks="1" assists_turnover_ratio="2.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="15" points="28"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="DeAndre Jordan" position="C" primary_position="C" jersey_number="6" id="0036a1fa-ff9a-44a5-8061-68b828ee2b1e">
+          <statistics minutes="38:43" field_goals_made="4" field_goals_att="8" field_goals_pct="50.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="4" two_points_att="8" two_points_pct="0.5" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="6" defensive_rebounds="11" rebounds="17" assists="1" turnovers="1" steals="1" blocks="2" assists_turnover_ratio="1.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="21" points="10"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Chris Paul" position="G" primary_position="PG" jersey_number="3" id="942c53e3-7268-44e3-b0a9-fdff55a72c03">
+          <statistics minutes="37:30" field_goals_made="4" field_goals_att="14" field_goals_pct="28.6" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="4" two_points_att="12" two_points_pct="0.333" blocked_att="0" free_throws_made="6" free_throws_att="8" free_throws_pct="75.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="9" turnovers="5" steals="1" blocks="0" assists_turnover_ratio="1.8" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="9" points="14"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-05 04:50:46 +0000 -->

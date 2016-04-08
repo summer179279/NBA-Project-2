@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:33:32Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="06422ac7-f6a5-4ed5-ab00-417c4902665c" status="closed" scratched="false" period="P2" scheduled="2014-06-17T22:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H"/>
+      <round week="25" number="1" type="table"/>
+      <home id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="90" ball_safe="76" corner_kicks="4" dangerous_attacks="49" fouls="15" free_kicks="7" goal_attempts="12" goal_kicks="5" saves="4" shots_total="12" substitutions="3" throw_ins="28" yellow_card="1" shots_on_target="5" shots_off_target="7" possessions="45"/>
+      </home>
+      <away id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team" formation="4-4-2" score="1" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="79" ball_safe="81" corner_kicks="4" dangerous_attacks="30" fouls="7" free_kicks="15" goal_attempts="8" goal_kicks="9" saves="4" shots_total="8" substitutions="3" throw_ins="22" yellow_card="3" shots_on_target="5" shots_off_target="3" possessions="55"/>
+      </away>
+      <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513"/>
+      <!-- 4768796/4694/4735 -->
+    </match>
+  </matches>
+</boxscore>

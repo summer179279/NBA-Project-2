@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:19:45Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="88e58104-4b86-4a8a-8824-5adf9ea6e5b3" country_code="FRA" preferred_foot="R" height_in="75" weight_lb="167" height_cm="190" weight_kg="75" first_name="Raphael" last_name="Varane" country="France">
+    <teams>
+      <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" country_code="FRA" position="D" is_manager="false" is_player="true" country="France" jersey_number="4"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="299" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="7" matches_started="0" minutes_played="422" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="3">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="8337a86d-8c89-4641-bc39-cd4a4dedfd61" name="Real Madrid" alias="MAD" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="4ba865fd-363d-4df6-8afd-39ffacf0b0c7" name="Copa del Rey"/>
+          <tournament id="948da02b-65e0-4ee2-bdeb-63fa9488b792" name="Copa del Rey"/>
+          <team id="8337a86d-8c89-4641-bc39-cd4a4dedfd61" name="Real Madrid" alias="MAD" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="14" matches_started="0" minutes_played="1083" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="2">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division"/>
+          <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division"/>
+          <team id="8337a86d-8c89-4641-bc39-cd4a4dedfd61" name="Real Madrid" alias="MAD" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 138310/1405922809 -->
+  </player>
+</profile>

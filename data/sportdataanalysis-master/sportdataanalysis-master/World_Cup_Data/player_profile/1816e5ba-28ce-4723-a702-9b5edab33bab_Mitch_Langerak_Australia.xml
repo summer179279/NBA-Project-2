@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:29:48Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="1816e5ba-28ce-4723-a702-9b5edab33bab" country_code="AUS" preferred_foot="R" height_in="75" weight_lb="169" height_cm="190" weight_kg="76" first_name="Mitch" last_name="Langerak" country="Australia">
+    <teams>
+      <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" country_code="AUS" position="G" is_manager="false" is_player="true" country="Australia" jersey_number="12"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="13b1a427-d0ff-4e29-87e2-0ef224ea6be6" name="WC Qualification"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="300" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="60512f08-0c2e-4a73-8aa8-0ba97354311f" name="DFB Pokal"/>
+          <tournament id="b6e34a03-7dfa-4c28-9ecc-b738122be8b5" name="DFB Pokal"/>
+          <team id="63f97200-7ded-4014-a05b-deb98a858564" name="Borussia Dortmund" alias="BVB" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="9ebacac0-b962-4b59-9964-339f3b993998" name="Super Cup"/>
+          <tournament id="ccf80b82-39e0-4f0e-b52a-42fd4192b734" name="Super Cup"/>
+          <team id="63f97200-7ded-4014-a05b-deb98a858564" name="Borussia Dortmund" alias="BVB" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="135" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="63f97200-7ded-4014-a05b-deb98a858564" name="Borussia Dortmund" alias="BVB" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="360" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga"/>
+          <team id="63f97200-7ded-4014-a05b-deb98a858564" name="Borussia Dortmund" alias="BVB" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 24693/1405922838 -->
+  </player>
+</profile>

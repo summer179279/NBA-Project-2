@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-22 16:40:48 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="2c14656f-1be0-4bd5-9a1f-e9684a89a489" status="ACT" full_name="Joe Johnson" first_name="Joe" last_name="Johnson" abbr_name="J.Johnson" height="79" weight="240" position="G-F" primary_position="SG" jersey_number="7" experience="12" college="Arkansas" birth_place="Little Rock, AR, USA" birthdate="1981-06-29" updated="2013-07-23T14:25:02+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" name="Nets" market="Brooklyn" alias="BKN"/>
+  <draft team_id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" year="2001" round="1" pick="10"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" name="Nets" market="Brooklyn" alias="BKN">
+        <statistics>
+          <total games_played="79" games_started="79" minutes="2575.0" field_goals_made="462" field_goals_att="1018" three_points_made="162" three_points_att="404" blocked_att="17" free_throws_made="159" free_throws_att="195" offensive_rebounds="48" defensive_rebounds="222" assists="216" turnovers="120" steals="47" blocks="10" personal_fouls="129" tech_fouls="2" points="1245" flagrant_fouls="0" free_throws_pct="0.815" two_points_pct="0.489" three_points_pct="0.401" field_goals_pct="0.454" rebounds="270" assists_turnover_ratio="1.8" two_points_made="300" two_points_att="614"/>
+          <average points="15.8" blocked_att="0.22" turnovers="1.52" free_throws_att="2.47" field_goals_att="12.89" off_rebounds="0.61" two_points_att="7.77" assists="2.7" blocks="0.13" personal_fouls="1.63" two_points_made="3.8" flagrant_fouls="0.0" rebounds="3.42" three_points_made="2.05" minutes="32.6" def_rebounds="2.81" free_throws_made="2.01" field_goals_made="5.85" steals="0.59" three_points_att="5.11"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-22 16:40:48 +0000 -->

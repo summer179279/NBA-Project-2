@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:34:01Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="d87520e6-d1d0-4559-bb46-211676b230d4" country_code="ITA" preferred_foot="R" height_in="64" weight_lb="132" height_cm="162" weight_kg="59" first_name="Marco" last_name="Verratti" country="Italy">
+    <teams>
+      <team id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" country_code="ITA" position="M" is_manager="false" is_player="true" country="Italy" jersey_number="23"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="144" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="132" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="8" matches_started="0" minutes_played="582" yellow_cards="1" yellow_red_cards="1" red_cards="-1" substitutions_out="5" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="18" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="cd6b2c3a-7944-4594-9ef1-ffdf61b44803" name="Trophée des Champions"/>
+          <tournament id="46abe89b-3a69-40d1-b7b3-a1b8e4e59685" name="Trophée des Champions"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="345" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="984021cb-f247-4345-8c28-149c873429e0" name="Coupe de la Ligue"/>
+          <tournament id="d47f400e-998b-454c-8c85-c0b16da458eb" name="Coupe de la Ligue"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="66" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="e9292d36-0b5e-420f-9544-026e4b078534" name="Coupe de France"/>
+          <tournament id="68ccae0e-02fd-4f42-8ee0-855e8c18ab45" name="Coupe de France"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="3" matches_played="29" matches_started="0" minutes_played="1989" yellow_cards="10" yellow_red_cards="-1" red_cards="-1" substitutions_out="11" substitutions_in="6">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1"/>
+          <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 126691/1405922902 -->
+  </player>
+</profile>

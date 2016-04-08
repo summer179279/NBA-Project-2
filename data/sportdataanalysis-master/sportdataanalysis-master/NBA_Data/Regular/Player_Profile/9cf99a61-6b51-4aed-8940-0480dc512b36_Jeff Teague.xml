@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:30:50 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="9cf99a61-6b51-4aed-8940-0480dc512b36" status="ACT" full_name="Jeff Teague" first_name="Jeff" last_name="Teague" abbr_name="J.Teague" height="74" weight="181" position="G" primary_position="PG" jersey_number="0" experience="4" college="Wake Forest" birth_place="Indianapolis, IN, USA" birthdate="1988-06-10" updated="2013-09-06T19:02:05+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL"/>
+  <draft team_id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="1" pick="19"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL">
+        <statistics>
+          <total games_played="79" games_started="79" minutes="2542.0" field_goals_made="456" field_goals_att="1040" three_points_made="74" three_points_att="225" blocked_att="73" free_throws_made="318" free_throws_att="376" offensive_rebounds="34" defensive_rebounds="174" assists="528" turnovers="232" steals="89" blocks="17" personal_fouls="158" tech_fouls="2" points="1304" flagrant_fouls="1" free_throws_pct="0.846" two_points_pct="0.469" three_points_pct="0.329" field_goals_pct="0.438" rebounds="208" assists_turnover_ratio="2.28" two_points_made="382" two_points_att="815"/>
+          <average points="16.5" blocked_att="0.92" turnovers="2.94" free_throws_att="4.76" field_goals_att="13.16" off_rebounds="0.43" two_points_att="10.32" assists="6.7" blocks="0.22" personal_fouls="2.0" two_points_made="4.84" flagrant_fouls="0.01" rebounds="2.63" three_points_made="0.94" minutes="32.2" def_rebounds="2.2" free_throws_made="4.03" field_goals_made="5.77" steals="1.13" three_points_att="2.85"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:30:50 +0000 -->

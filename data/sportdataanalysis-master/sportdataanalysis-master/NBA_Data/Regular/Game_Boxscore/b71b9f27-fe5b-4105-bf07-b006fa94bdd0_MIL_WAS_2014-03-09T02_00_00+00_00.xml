@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-11 15:30:46 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="b71b9f27-fe5b-4105-bf07-b006fa94bdd0" status="closed" coverage="full" home_team="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-09T02:00:00+00:00" duration="2:12" attendance="14839" lead_changes="2" times_tied="2" clock="00:00" quarter="4">
+  <team name="Bucks" market="Milwaukee" id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" points="107">
+    <scoring>
+      <quarter number="1" sequence="1" points="27"/>
+      <quarter number="2" sequence="2" points="26"/>
+      <quarter number="3" sequence="3" points="21"/>
+      <quarter number="4" sequence="4" points="33"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Brandon Knight" position="G" primary_position="SG" jersey_number="11" id="f58a9803-0ede-4c0b-acbd-08bc0da229af">
+          <statistics minutes="33:55" field_goals_made="9" field_goals_att="20" field_goals_pct="45.0" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="7" two_points_att="15" two_points_pct="0.467" blocked_att="2" free_throws_made="5" free_throws_att="5" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="2" rebounds="2" assists="2" turnovers="2" steals="3" blocks="0" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="25"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Jeff Adrien" position="F" primary_position="PF" jersey_number="12" id="bb4593a2-6662-49dd-843a-fa775ef86c42">
+          <statistics minutes="22:25" field_goals_made="2" field_goals_att="4" field_goals_pct="50.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="2" two_points_att="4" two_points_pct="0.5" blocked_att="2" free_throws_made="4" free_throws_att="5" free_throws_pct="80.0" offensive_rebounds="5" defensive_rebounds="3" rebounds="8" assists="0" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="0.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="8"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Nate Wolters" position="G" primary_position="PG" jersey_number="6" id="729da0f6-59b0-4be3-afc9-98301c1de7ce">
+          <statistics minutes="29:00" field_goals_made="4" field_goals_att="10" field_goals_pct="40.0" three_points_made="1" three_points_att="2" three_points_pct="50.0" two_points_made="3" two_points_att="8" two_points_pct="0.375" blocked_att="2" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="2" defensive_rebounds="3" rebounds="5" assists="4" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="10"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Wizards" market="Washington" id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" points="114">
+    <scoring>
+      <quarter number="1" sequence="1" points="36"/>
+      <quarter number="2" sequence="2" points="39"/>
+      <quarter number="3" sequence="3" points="10"/>
+      <quarter number="4" sequence="4" points="29"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Trevor Ariza" position="F" primary_position="SF" jersey_number="1" id="9392d5b6-3dbf-4375-8fdd-4dafaae6ede4">
+          <statistics minutes="37:56" field_goals_made="9" field_goals_att="12" field_goals_pct="75.0" three_points_made="5" three_points_att="7" three_points_pct="71.4" two_points_made="4" two_points_att="5" two_points_pct="0.8" blocked_att="0" free_throws_made="5" free_throws_att="9" free_throws_pct="55.6" offensive_rebounds="2" defensive_rebounds="5" rebounds="7" assists="2" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="3" points="28"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Trevor Ariza" position="F" primary_position="SF" jersey_number="1" id="9392d5b6-3dbf-4375-8fdd-4dafaae6ede4">
+          <statistics minutes="37:56" field_goals_made="9" field_goals_att="12" field_goals_pct="75.0" three_points_made="5" three_points_att="7" three_points_pct="71.4" two_points_made="4" two_points_att="5" two_points_pct="0.8" blocked_att="0" free_throws_made="5" free_throws_att="9" free_throws_pct="55.6" offensive_rebounds="2" defensive_rebounds="5" rebounds="7" assists="2" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="3" points="28"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="John Wall" position="G" primary_position="PG" jersey_number="2" id="6769d1ca-0581-48b0-b487-b5c87b8f696e">
+          <statistics minutes="35:53" field_goals_made="4" field_goals_att="14" field_goals_pct="28.6" three_points_made="1" three_points_att="4" three_points_pct="25.0" two_points_made="3" two_points_att="10" two_points_pct="0.3" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="2" rebounds="3" assists="13" turnovers="7" steals="2" blocks="1" assists_turnover_ratio="1.86" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="2" points="9"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-11 15:30:47 +0000 -->

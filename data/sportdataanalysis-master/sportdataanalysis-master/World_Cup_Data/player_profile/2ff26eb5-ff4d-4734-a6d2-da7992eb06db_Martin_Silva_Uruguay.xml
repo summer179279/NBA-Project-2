@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:14:02Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="2ff26eb5-ff4d-4734-a6d2-da7992eb06db" country_code="URY" preferred_foot="R" height_in="73" weight_lb="187" height_cm="185" weight_kg="84" first_name="Martin" last_name="Silva" country="Uruguay">
+    <teams>
+      <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" country_code="URY" position="G" is_manager="false" is_player="true" country="Uruguay" jersey_number="23"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="f287e0ed-70ba-483d-be9c-3b0e763c5e7b" name="Confederations Cup"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 36979/1405922749 -->
+  </player>
+</profile>

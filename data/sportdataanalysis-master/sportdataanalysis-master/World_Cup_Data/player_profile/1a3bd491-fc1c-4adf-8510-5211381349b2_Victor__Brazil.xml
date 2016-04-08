@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:06:38Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="1a3bd491-fc1c-4adf-8510-5211381349b2" country_code="BRA" preferred_foot="L" height_in="75" weight_lb="185" height_cm="190" weight_kg="83" first_name="Victor" last_name="" country="Brazil">
+    <teams>
+      <team id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" country_code="BRA" position="G" is_manager="false" is_player="true" country="Brazil" jersey_number="22"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="7" matches_started="0" minutes_played="630" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="d5fe6774-8a08-4e76-b949-fb421fdc91a0" name="Copa Libertadores"/>
+          <team id="fcf84448-c77c-48b1-b7f7-16e404d21717" name="Atletico Mineiro MG" alias="" country_code="BRA" country="Brazil" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="9dcf6017-2500-4263-a902-ec38db82dd32" name="Club World Cup"/>
+          <tournament id="20f3ebd9-e30e-4b6d-ba61-deded7daf532" name="FIFA Club World Cup"/>
+          <team id="fcf84448-c77c-48b1-b7f7-16e404d21717" name="Atletico Mineiro MG" alias="" country_code="BRA" country="Brazil" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 39418/1405919221 -->
+  </player>
+</profile>

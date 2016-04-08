@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:33:01Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="191cc03e-4e54-4f43-8de7-9e90d50b4d17" status="closed" scratched="false" period="P2" scheduled="2014-06-14T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C"/>
+      <round week="24" number="1" type="table"/>
+      <home id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" formation="4-3-3" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="110" ball_safe="100" corner_kicks="4" dangerous_attacks="64" fouls="19" free_kicks="17" goal_attempts="11" goal_kicks="11" offsides="1" saves="5" shots_total="11" substitutions="3" throw_ins="24" yellow_card="1" shots_on_target="7" shots_off_target="4" possessions="44"/>
+      </home>
+      <away id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team" formation="4-4-2" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="134" ball_safe="105" corner_kicks="4" dangerous_attacks="88" fouls="14" free_kicks="20" goal_attempts="10" goal_kicks="7" offsides="3" saves="4" shots_total="10" substitutions="3" throw_ins="20" yellow_card="2" shots_on_target="6" shots_off_target="4" possessions="56"/>
+      </away>
+      <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385"/>
+      <!-- 4768734/4820/4710 -->
+    </match>
+  </matches>
+</boxscore>

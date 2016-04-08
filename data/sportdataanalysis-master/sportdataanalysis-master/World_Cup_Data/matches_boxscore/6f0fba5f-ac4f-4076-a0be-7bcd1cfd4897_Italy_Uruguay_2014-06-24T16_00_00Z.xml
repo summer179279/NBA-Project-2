@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:34:31Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="6f0fba5f-ac4f-4076-a0be-7bcd1cfd4897" status="closed" scratched="false" period="P2" scheduled="2014-06-24T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D"/>
+      <round week="26" number="3" type="table"/>
+      <home id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team" formation="3-5-2" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="87" ball_safe="100" corner_kicks="3" dangerous_attacks="43" fouls="17" free_kicks="20" goal_attempts="4" goal_kicks="10" offsides="2" red_card="1" saves="4" shots_total="4" substitutions="3" throw_ins="21" yellow_card="2" shots_on_target="1" shots_off_target="3" possessions="52"/>
+      </home>
+      <away id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="90" ball_safe="81" corner_kicks="3" dangerous_attacks="48" fouls="19" free_kicks="19" goal_attempts="10" goal_kicks="9" offsides="1" red_card="0" saves="1" shots_total="10" substitutions="3" throw_ins="22" yellow_card="2" shots_on_target="6" shots_off_target="4" possessions="48"/>
+      </away>
+      <venue id="b9894f99-1373-4311-937a-214a6eda8f6f" name="Estadio das Dunas" country_code="BRA" city="Natal" capacity="39971" country="Brazil" coordinates="-5.826733,-35.212467"/>
+      <!-- 4768754/4707/4725 -->
+    </match>
+  </matches>
+</boxscore>

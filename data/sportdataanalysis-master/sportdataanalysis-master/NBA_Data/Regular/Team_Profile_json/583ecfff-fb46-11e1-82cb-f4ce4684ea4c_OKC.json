@@ -1,0 +1,455 @@
+{
+    "team": {
+        "@alias": "OKC",
+        "@founded": "1967",
+        "@id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+        "@market": "Oklahoma City",
+        "@name": "Thunder",
+        "@xmlns": "http://feed.elasticstats.com/schema/basketball/team-v2.0.xsd",
+        "coaches": {
+            "coach": {
+                "@experience": "6",
+                "@first_name": "Scott",
+                "@full_name": "Scott Brooks",
+                "@id": "4a31f2c1-6387-4bb0-8698-cadb83ea6e74",
+                "@last_name": "Brooks",
+                "@position": "Head Coach"
+            }
+        },
+        "hierarchy": {
+            "conference": {
+                "@alias": "WESTERN",
+                "@id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+                "@name": "WESTERN CONFERENCE"
+            },
+            "division": {
+                "@alias": "NORTHWEST",
+                "@id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+                "@name": "Northwest"
+            },
+            "league": {
+                "@alias": "NBA",
+                "@id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+                "@name": "NBA"
+            }
+        },
+        "players": {
+            "player": [
+                {
+                    "@abbr_name": "M.McGary",
+                    "@birth_place": "Chesterton, IN, USA",
+                    "@birthdate": "1992-06-06",
+                    "@college": "Michigan",
+                    "@experience": "0",
+                    "@first_name": "Mitch",
+                    "@full_name": "Mitch McGary",
+                    "@height": "82",
+                    "@id": "0891a76f-4b36-4101-8bf7-59637af2806b",
+                    "@jersey_number": "33",
+                    "@last_name": "McGary",
+                    "@position": "F",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:28:50+00:00",
+                    "@weight": "255",
+                    "draft": {
+                        "@pick": "21",
+                        "@round": "1",
+                        "@year": "2014"
+                    }
+                },
+                {
+                    "@abbr_name": "S.Ibaka",
+                    "@birth_place": "Brazzaville,, COD",
+                    "@birthdate": "1989-09-18",
+                    "@college": "Ricoh Manresa",
+                    "@experience": "4",
+                    "@first_name": "Serge",
+                    "@full_name": "Serge Ibaka",
+                    "@height": "82",
+                    "@id": "0afca4ef-6ad4-4f96-8cd2-b20b59c6ce90",
+                    "@jersey_number": "9",
+                    "@last_name": "Ibaka",
+                    "@position": "F-C",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2013-07-22T15:20:25+00:00",
+                    "@weight": "235",
+                    "draft": {
+                        "@pick": "24",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2008"
+                    }
+                },
+                {
+                    "@abbr_name": "A.Morrow",
+                    "@birth_place": "Charlotte, NC, USA",
+                    "@birthdate": "1985-09-27",
+                    "@college": "Georgia Tech",
+                    "@experience": "5",
+                    "@first_name": "Anthony",
+                    "@full_name": "Anthony Morrow",
+                    "@height": "77",
+                    "@id": "294d0821-162a-47d8-9156-6036749ffbf8",
+                    "@jersey_number": "0",
+                    "@last_name": "Morrow",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:29:00+00:00",
+                    "@weight": "210",
+                    "draft": {
+                        "@year": "2008"
+                    }
+                },
+                {
+                    "@abbr_name": "P.Jones",
+                    "@birth_place": "Winnsboro, LA, USA",
+                    "@birthdate": "1991-09-24",
+                    "@college": "Baylor",
+                    "@experience": "1",
+                    "@first_name": "Perry",
+                    "@full_name": "Perry Jones",
+                    "@height": "83",
+                    "@id": "473fd3a2-b247-4758-9e35-33caf57978c8",
+                    "@jersey_number": "3",
+                    "@last_name": "Jones",
+                    "@position": "F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2014-02-27T22:01:45+00:00",
+                    "@weight": "235",
+                    "draft": {
+                        "@pick": "28",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "K.Durant",
+                    "@birth_place": "Washington, D.C., USA",
+                    "@birthdate": "1988-09-29",
+                    "@college": "Texas",
+                    "@experience": "6",
+                    "@first_name": "Kevin",
+                    "@full_name": "Kevin Durant",
+                    "@height": "81",
+                    "@id": "53f2fa48-e61b-49fb-843d-8a3e872257eb",
+                    "@jersey_number": "35",
+                    "@last_name": "Durant",
+                    "@position": "F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2013-07-22T15:18:35+00:00",
+                    "@weight": "235",
+                    "draft": {
+                        "@pick": "2",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2007"
+                    }
+                },
+                {
+                    "@abbr_name": "A.Roberson",
+                    "@birth_place": "San Antonio, TX, USA",
+                    "@birthdate": "1991-12-04",
+                    "@college": "Colorado",
+                    "@experience": "0",
+                    "@first_name": "Andre",
+                    "@full_name": "Andre Roberson",
+                    "@height": "79",
+                    "@id": "62933587-9382-4b7e-9cb0-9a07e5b4fdc8",
+                    "@jersey_number": "21",
+                    "@last_name": "Roberson",
+                    "@position": "F-G",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2014-02-27T22:02:57+00:00",
+                    "@weight": "210",
+                    "draft": {
+                        "@pick": "26",
+                        "@round": "1",
+                        "@team_id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2013"
+                    }
+                },
+                {
+                    "@abbr_name": "R.Westbrook",
+                    "@birth_place": "Long Beach, CA, USA",
+                    "@birthdate": "1988-11-12",
+                    "@college": "UCLA",
+                    "@experience": "5",
+                    "@first_name": "Russell",
+                    "@full_name": "Russell Westbrook",
+                    "@height": "75",
+                    "@id": "74a45eed-f2b0-4886-ae71-d04cf7d59528",
+                    "@jersey_number": "0",
+                    "@last_name": "Westbrook",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2013-07-22T15:36:35+00:00",
+                    "@weight": "187",
+                    "draft": {
+                        "@pick": "4",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2008"
+                    }
+                },
+                {
+                    "@abbr_name": "R.Jackson",
+                    "@birth_place": "Pordenone,, ITA",
+                    "@birthdate": "1990-04-16",
+                    "@college": "Boston College",
+                    "@experience": "2",
+                    "@first_name": "Reggie",
+                    "@full_name": "Reggie Jackson",
+                    "@height": "75",
+                    "@id": "7b745dde-a011-45a8-98a8-460a9facb3ce",
+                    "@jersey_number": "15",
+                    "@last_name": "Jackson",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2013-07-22T15:22:19+00:00",
+                    "@weight": "208",
+                    "draft": {
+                        "@pick": "24",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2011"
+                    }
+                },
+                {
+                    "@abbr_name": "H.Thabeet",
+                    "@birth_place": "Dar es Salaam,, TZA",
+                    "@birthdate": "1987-02-16",
+                    "@college": "Connecticut",
+                    "@experience": "4",
+                    "@first_name": "Hasheem",
+                    "@full_name": "Hasheem Thabeet",
+                    "@height": "87",
+                    "@id": "7e67ec2d-3b78-4bf3-aeb8-5f43bfad3e80",
+                    "@jersey_number": "34",
+                    "@last_name": "Thabeet",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2013-12-03T17:30:16+00:00",
+                    "@weight": "263",
+                    "draft": {
+                        "@pick": "2",
+                        "@round": "1",
+                        "@team_id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2009"
+                    }
+                },
+                {
+                    "@abbr_name": "K.Perkins",
+                    "@birth_place": "Nederland, TX, USA",
+                    "@birthdate": "1984-11-10",
+                    "@college": "Clifton J. Ozen HS",
+                    "@experience": "10",
+                    "@first_name": "Kendrick",
+                    "@full_name": "Kendrick Perkins",
+                    "@height": "82",
+                    "@id": "7ed5587d-89af-46c9-8bdc-c9ae8ed788a1",
+                    "@jersey_number": "5",
+                    "@last_name": "Perkins",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2013-07-22T15:30:07+00:00",
+                    "@weight": "270",
+                    "draft": {
+                        "@pick": "27",
+                        "@round": "1",
+                        "@team_id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2003"
+                    }
+                },
+                {
+                    "@abbr_name": "J.Lamb",
+                    "@birth_place": "Norcross, GA, USA",
+                    "@birthdate": "1992-05-30",
+                    "@college": "Connecticut",
+                    "@experience": "1",
+                    "@first_name": "Jeremy",
+                    "@full_name": "Jeremy Lamb",
+                    "@height": "77",
+                    "@id": "8d80f6fc-a7ac-48cf-bcd8-516d57acbbfe",
+                    "@jersey_number": "11",
+                    "@last_name": "Lamb",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2013-10-28T20:51:38+00:00",
+                    "@weight": "180",
+                    "draft": {
+                        "@pick": "12",
+                        "@round": "1",
+                        "@team_id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "S.Adams",
+                    "@birth_place": "Rotorua, NZL",
+                    "@birthdate": "1993-07-28",
+                    "@college": "Pittsburgh",
+                    "@experience": "0",
+                    "@first_name": "Steven",
+                    "@full_name": "Steven Adams",
+                    "@height": "84",
+                    "@id": "a208e22a-6b63-45f9-b7c6-bf913a68f3df",
+                    "@jersey_number": "12",
+                    "@last_name": "Adams",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2013-09-07T21:56:08+00:00",
+                    "@weight": "250",
+                    "draft": {
+                        "@pick": "12",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2013"
+                    }
+                },
+                {
+                    "@abbr_name": "S.Christon",
+                    "@birth_place": "Cincinnati, OH",
+                    "@birthdate": "1992-11-01",
+                    "@college": "Xavier",
+                    "@experience": "0",
+                    "@first_name": "Semaj",
+                    "@full_name": "Semaj Christon",
+                    "@height": "75",
+                    "@id": "c8a8aa60-09ba-4b88-bbb1-fdcdd6ea8c4a",
+                    "@jersey_number": "22",
+                    "@last_name": "Christon",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:24:00+00:00",
+                    "@weight": "186",
+                    "draft": {
+                        "@pick": "55th",
+                        "@round": "2nd",
+                        "@team_id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2014"
+                    }
+                },
+                {
+                    "@abbr_name": "J.Huestis",
+                    "@birth_place": "Webster, TX, USA",
+                    "@birthdate": "1991-12-19",
+                    "@college": "Stanford",
+                    "@experience": "0",
+                    "@first_name": "Josh",
+                    "@full_name": "Josh Huestis",
+                    "@height": "79",
+                    "@id": "ce1709e5-60cd-4580-9366-806163dedf69",
+                    "@jersey_number": "14",
+                    "@last_name": "Huestis",
+                    "@position": "F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:27:53+00:00",
+                    "@weight": "230",
+                    "draft": {
+                        "@pick": "29",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2014"
+                    }
+                },
+                {
+                    "@abbr_name": "S.Telfair",
+                    "@birth_place": "Brooklyn, NY, USA",
+                    "@birthdate": "1985-06-09",
+                    "@college": "Abraham Lincoln HS (NY)",
+                    "@experience": "9",
+                    "@first_name": "Sebastian",
+                    "@full_name": "Sebastian Telfair",
+                    "@height": "72",
+                    "@id": "e2661b9b-eb57-456d-9ee3-c2f740284a20",
+                    "@jersey_number": "0",
+                    "@last_name": "Telfair",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-15T17:21:06+00:00",
+                    "@weight": "170",
+                    "draft": {
+                        "@pick": "13",
+                        "@round": "1",
+                        "@team_id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2004"
+                    }
+                },
+                {
+                    "@abbr_name": "G.Jerrett",
+                    "@birth_place": "Chino Hills, CA",
+                    "@birthdate": "1993-07-08",
+                    "@college": "Arizona",
+                    "@experience": "0",
+                    "@first_name": "Grant",
+                    "@full_name": "Grant Jerrett",
+                    "@height": "82",
+                    "@id": "ef0cf1e1-e3e1-48e6-aace-fdfd3c0fb719",
+                    "@jersey_number": "7",
+                    "@last_name": "Jerrett",
+                    "@position": "F",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:28:28+00:00",
+                    "@weight": "232",
+                    "draft": {
+                        "@pick": "40",
+                        "@round": "2",
+                        "@team_id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2013"
+                    }
+                },
+                {
+                    "@abbr_name": "N.Collison",
+                    "@birth_place": "Orange City, IA, USA",
+                    "@birthdate": "1980-10-26",
+                    "@college": "Kansas",
+                    "@experience": "9",
+                    "@first_name": "Nick",
+                    "@full_name": "Nick Collison",
+                    "@height": "82",
+                    "@id": "fe441eff-9b77-4c71-9da7-1bbf46ea9c0d",
+                    "@jersey_number": "4",
+                    "@last_name": "Collison",
+                    "@position": "F-C",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2013-09-07T21:56:46+00:00",
+                    "@weight": "255",
+                    "draft": {
+                        "@pick": "12",
+                        "@round": "1",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2003"
+                    }
+                }
+            ]
+        },
+        "venue": {
+            "@address": "100 W. Reno Ave.",
+            "@capacity": "18203",
+            "@city": "Oklahoma City",
+            "@country": "USA",
+            "@id": "a13af216-4409-5021-8dd5-255cc71bffc3",
+            "@name": "Chesapeake Energy Arena",
+            "@state": "OK",
+            "@zip": "73102"
+        }
+    }
+}

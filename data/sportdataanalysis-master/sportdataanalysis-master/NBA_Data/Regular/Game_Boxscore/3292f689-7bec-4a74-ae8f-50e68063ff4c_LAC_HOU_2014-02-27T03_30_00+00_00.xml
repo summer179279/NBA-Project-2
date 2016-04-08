@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-02-27 06:30:48 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="3292f689-7bec-4a74-ae8f-50e68063ff4c" status="closed" coverage="full" home_team="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-02-27T03:30:00+00:00" duration="2:25" attendance="19258" lead_changes="12" times_tied="13" clock="00:00" quarter="4">
+  <team name="Clippers" market="Los Angeles" id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" points="101">
+    <scoring>
+      <quarter number="1" sequence="1" points="26"/>
+      <quarter number="2" sequence="2" points="20"/>
+      <quarter number="3" sequence="3" points="28"/>
+      <quarter number="4" sequence="4" points="27"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Blake Griffin" position="F" primary_position="PF" jersey_number="32" id="18358040-89d8-4e25-a6a6-9e209c26fb3a">
+          <statistics minutes="40:20" field_goals_made="11" field_goals_att="25" field_goals_pct="44.0" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="11" two_points_att="23" two_points_pct="0.478" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="6" defensive_rebounds="10" rebounds="16" assists="3" turnovers="2" steals="2" blocks="1" assists_turnover_ratio="1.5" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="20" points="23"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Blake Griffin" position="F" primary_position="PF" jersey_number="32" id="18358040-89d8-4e25-a6a6-9e209c26fb3a">
+          <statistics minutes="40:20" field_goals_made="11" field_goals_att="25" field_goals_pct="44.0" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="11" two_points_att="23" two_points_pct="0.478" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="6" defensive_rebounds="10" rebounds="16" assists="3" turnovers="2" steals="2" blocks="1" assists_turnover_ratio="1.5" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="20" points="23"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Chris Paul" position="G" primary_position="PG" jersey_number="3" id="942c53e3-7268-44e3-b0a9-fdff55a72c03">
+          <statistics minutes="39:00" field_goals_made="5" field_goals_att="13" field_goals_pct="38.5" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="5" two_points_att="12" two_points_pct="0.417" blocked_att="1" free_throws_made="4" free_throws_att="5" free_throws_pct="80.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="9" turnovers="1" steals="2" blocks="0" assists_turnover_ratio="9.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="12" points="14"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Rockets" market="Houston" id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" points="93">
+    <scoring>
+      <quarter number="1" sequence="1" points="22"/>
+      <quarter number="2" sequence="2" points="26"/>
+      <quarter number="3" sequence="3" points="25"/>
+      <quarter number="4" sequence="4" points="20"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Dwight Howard" position="C" primary_position="C" jersey_number="12" id="ae8df356-5e57-43e7-be4d-5ec7663312bd">
+          <statistics minutes="34:57" field_goals_made="9" field_goals_att="12" field_goals_pct="75.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="9" two_points_att="12" two_points_pct="0.75" blocked_att="0" free_throws_made="5" free_throws_att="9" free_throws_pct="55.6" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="2" turnovers="3" steals="0" blocks="1" assists_turnover_ratio="0.67" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-13" points="23"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Dwight Howard" position="C" primary_position="C" jersey_number="12" id="ae8df356-5e57-43e7-be4d-5ec7663312bd">
+          <statistics minutes="34:57" field_goals_made="9" field_goals_att="12" field_goals_pct="75.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="9" two_points_att="12" two_points_pct="0.75" blocked_att="0" free_throws_made="5" free_throws_att="9" free_throws_pct="55.6" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="2" turnovers="3" steals="0" blocks="1" assists_turnover_ratio="0.67" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-13" points="23"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Jeremy Lin" position="G" primary_position="PG" jersey_number="7" id="287c389a-0499-4f80-ac4f-1a72366af999">
+          <statistics minutes="18:36" field_goals_made="2" field_goals_att="8" field_goals_pct="25.0" three_points_made="1" three_points_att="3" three_points_pct="33.3" two_points_made="1" two_points_att="5" two_points_pct="0.2" blocked_att="3" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="1" defensive_rebounds="2" rebounds="3" assists="3" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="1.5" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="2" points="6"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-02-27 06:30:49 +0000 -->

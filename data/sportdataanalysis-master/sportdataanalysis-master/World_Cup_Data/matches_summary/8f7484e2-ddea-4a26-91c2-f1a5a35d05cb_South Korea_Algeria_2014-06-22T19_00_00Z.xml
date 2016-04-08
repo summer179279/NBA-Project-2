@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:38:11Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="8f7484e2-ddea-4a26-91c2-f1a5a35d05cb" status="closed" scratched="false" period="P2" scheduled="2014-06-22T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H"/>
+      <round week="25" number="2" type="table"/>
+      <home id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team" formation="4-4-1-1" score="2" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="86" ball_safe="82" corner_kicks="7" dangerous_attacks="55" fouls="13" free_kicks="17" goal_attempts="6" goal_kicks="8" offsides="1" saves="1" shots_total="6" substitutions="3" throw_ins="24" yellow_card="2" shots_on_target="3" shots_off_target="3" possessions="53"/>
+        <players>
+          <player id="e9900c89-e57e-414e-8fc8-e9bf42c303d9" country_code="KOR" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Yong" last_name="Lee" country="South Korea" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4145bac4-b104-464a-b24e-afac112ed1c3" country_code="KOR" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Seung Gyu" last_name="Kim" country="South Korea" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9dcb54e6-2430-4c36-8762-2e314e882f4b" country_code="KOR" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Sung Ryong" last_name="Jung" country="South Korea" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="07a90d1b-83c9-4590-a20b-5a2d0fb2cb97" country_code="KOR" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Heung Min" last_name="Son" country="South Korea" jersey_number="9">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="df52e592-a545-45da-aab9-94f517553f39" country_code="KOR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Tae Hwi" last_name="Kwak" country="South Korea" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="98a663a5-babf-43a3-a6b2-1cddf5443ca0" country_code="KOR" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Kook Young" last_name="Han" country="South Korea" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0d5ef594-3b47-4dec-aa7e-55572669bcdf" country_code="KOR" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Chung Yong" last_name="Lee" country="South Korea" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="f1e883b1-25f8-4ba3-bc42-a3f83717e18a" country_code="KOR" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Chu Young" last_name="Park" country="South Korea" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="8b2e2b92-04b0-492e-b562-ea4209fe862d" country_code="KOR" position="F" started="false" tactical_position="6" tactical_order="7" first_name="Dong Won" last_name="Ji" country="South Korea" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="420a7110-fd07-4dbe-84f8-ad89b461551d" country_code="KOR" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Suk Young" last_name="Yoon" country="South Korea" jersey_number="3">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d7ae3dd7-4a2c-465e-85f8-d6a3494b569f" country_code="KOR" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Shin Wook" last_name="Kim" country="South Korea" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d83ef04a-4370-4f0d-abd0-08d0e75ac039" country_code="KOR" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Beom Young" last_name="Lee" country="South Korea" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9bc423f9-d644-49df-9d38-0259725c81f1" country_code="KOR" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Dae-Sung" last_name="Ha" country="South Korea" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f36f6be5-b355-4c5f-9a6a-9cbe57ca1244" country_code="KOR" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Bo Kyung" last_name="Kim" country="South Korea" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="499b2cd5-6b5f-4213-ab42-57013fda857c" country_code="KOR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Chang Soo" last_name="Kim" country="South Korea" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="67ba8832-a0ca-4335-b9e8-3e6661804d0c" country_code="KOR" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Keun Ho" last_name="Lee" country="South Korea" jersey_number="11">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="bbecd8d5-7f75-4347-9d2b-860f433371b2" country_code="KOR" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Jeong Ho" last_name="Hong" country="South Korea" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4b51ea2f-08d6-431c-9e67-f006e0f5fe2f" country_code="KOR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Joo Ho" last_name="Park" country="South Korea" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5da58ec1-c4a6-44ec-aacf-92adcba4e016" country_code="KOR" position="M" started="true" tactical_position="7" tactical_order="9" first_name="Ja Cheol" last_name="Koo" country="South Korea" jersey_number="13">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="141d6051-445d-4c60-98e5-e2956c70a437" country_code="KOR" position="M" started="true" tactical_position="5" tactical_order="6" first_name="Sung Yueng" last_name="Ki" country="South Korea" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d51dbb5c-f18c-41fc-b160-4c79592c8546" country_code="KOR" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Jong Woo" last_name="Park" country="South Korea" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ab988ac0-29e8-4dfd-a5ec-5f7b0ebe792b" country_code="KOR" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Young Gwon" last_name="Kim" country="South Korea" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4520f4e7-7953-46ce-95d1-52e91bba7a50" country_code="KOR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Seok Ho" last_name="Hwang" country="South Korea" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team" formation="5-2-3" score="4" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="3" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="80" ball_safe="81" corner_kicks="5" dangerous_attacks="48" fouls="16" free_kicks="14" goal_attempts="12" goal_kicks="7" offsides="1" saves="1" shots_total="12" substitutions="3" throw_ins="30" yellow_card="1" shots_on_target="5" shots_off_target="7" possessions="47"/>
+        <players>
+          <player id="a556989f-6b6f-43fa-92c9-3ffc66569648" country_code="DZA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Faouzi" last_name="Ghoulam" country="Algeria" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2c118d06-c88a-45d6-a188-8350174fe165" country_code="DZA" position="M" started="false" tactical_position="6" tactical_order="7" first_name="Mehdi" last_name="Lacen" country="Algeria" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="126684e4-f453-49b1-9150-e8d5b3bb4b79" country_code="DZA" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Nabil" last_name="Bentaleb" country="Algeria" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="68cb6847-1f5e-470d-ab01-14d993ab2e49" country_code="DZA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mohamed" last_name="Zemmamouche" country="Algeria" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7e5e0a51-1499-44dd-818d-a43767972af2" country_code="DZA" position="M" started="true" tactical_position="3" tactical_order="3" first_name="Carl" last_name="Medjani" country="Algeria" jersey_number="12">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9b3d16cf-d0e1-42cb-a7a0-248214ec0955" country_code="DZA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Riyad" last_name="Mahrez" country="Algeria" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4166a0a4-0d25-4991-a660-049ad2ddf5c8" country_code="DZA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Hassan" last_name="Yebda" country="Algeria" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="26416d35-b10f-442b-a7a5-79d2dcde9f52" country_code="DZA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Mehdi" last_name="Mostefa" country="Algeria" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="15377708-6dc7-4079-a61e-6fcdadf962d7" country_code="DZA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Sofiane" last_name="Feghouli" country="Algeria" jersey_number="10">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="41a00738-b0b7-4d46-a898-bb424caf2b06" country_code="DZA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Aissa" last_name="Mandi" country="Algeria" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="483336d0-7c10-4c15-8b3b-50a4981b8e87" country_code="DZA" position="D" started="false" tactical_position="3" tactical_order="5" first_name="Esseid" last_name="Belkalem" country="Algeria" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="28d1a24c-ecc9-442c-8f57-331f72c923bc" country_code="DZA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Rafik" last_name="Halliche" country="Algeria" jersey_number="5">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="48a391ea-de68-4084-8cb0-44d92bc16a92" country_code="DZA" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Nabil" last_name="Ghilas" country="Algeria" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1e77150e-6de2-4b55-917a-a64c501095ad" country_code="DZA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Yacine" last_name="Brahimi" country="Algeria" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="765d57d9-70f0-4101-a789-268dc66861fc" country_code="DZA" position="M" started="true" tactical_position="4" tactical_order="6" first_name="Djamel" last_name="Mesbah" country="Algeria" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9bd5fce4-3b5b-4816-b6a7-f8c19e81a261" country_code="DZA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Rais" last_name="M'Bolhi" country="Algeria" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9" country_code="DZA" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Islam" last_name="Slimani" country="Algeria" jersey_number="13">
+            <statistics goal="1" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="69cdf2dd-a438-4a14-8bb3-0106acf4b775" country_code="DZA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Cedric" last_name="Si Mohammed" country="Algeria" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0831009f-b4af-432d-9f94-51c2435c74f2" country_code="DZA" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Abdelmoumene" last_name="Djabou" country="Algeria" jersey_number="18">
+            <statistics goal="1" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="09195153-fb21-4b9b-b6dd-6c35b45efb62" country_code="DZA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Saphir Sliti" last_name="Taider" country="Algeria" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="12063193-7f7b-45ed-8c59-566d4b151ca5" country_code="DZA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="El Arabi" last_name="Soudani" country="Algeria" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="50200b6e-de84-4e72-95c2-e475819aa5b9" country_code="DZA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Liassine" last_name="Cadamuro Bentaiba" country="Algeria" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1701e2bb-96cc-48db-8759-fcb3c16facaa" country_code="DZA" position="D" started="true" tactical_position="3" tactical_order="5" first_name="Madjid" last_name="Bougherra" country="Algeria" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="d060ef40-9286-4712-8586-cc594cb60875" name="Estadio Beira-Rio" country_code="BRA" city="Porto Alegre" capacity="43394" country="Brazil" coordinates="-30.065417,-51.235891"/>
+      <facts>
+        <fact id="735a9bcd-721a-4262-9ca5-d63a11d53449" type="match_started" time="2014-06-22T19:00:11Z" updated_time="2014-06-22T19:00:09Z" scratch="false" clock="1" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>The whistle has gone to start the match.</description>
+        </fact>
+        <fact id="dc0fb00e-df5f-4ffa-a226-9b91aebe9e15" type="period_started" time="2014-06-22T19:00:11Z" updated_time="2014-06-22T19:00:11Z" scratch="false" period="P1"/>
+        <fact id="a8015ad8-fdd7-4ac8-81e0-8e9bfde68623" type="free_kick" time="2014-06-22T19:00:43Z" updated_time="2014-06-22T19:00:43Z" scratch="false" x="72" y="17" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a free kick to Algeria in their own half.</description>
+        </fact>
+        <fact id="2d6af93a-0c7f-44ea-bbb7-b9dc26531446" type="free_kick" time="2014-06-22T19:02:07Z" updated_time="2014-06-22T19:02:07Z" scratch="false" x="36" y="52" clock="1" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a free kick to Algeria.</description>
+        </fact>
+        <fact id="23aa108a-cbd2-4ae3-b235-c4b73c6ba102" type="shot_off_target" time="2014-06-22T19:01:24Z" updated_time="2014-06-22T19:01:24Z" scratch="false" x="10" y="48" clock="2" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="15377708-6dc7-4079-a61e-6fcdadf962d7">
+          <description>In Porto Alegre Algeria attack through Sofiane Feghouli. The finish is off target, however.</description>
+        </fact>
+        <fact id="da0c34a3-66c8-4641-ba6a-dac4a7440dd1" type="goal_kick" time="2014-06-22T19:01:25Z" updated_time="2014-06-22T19:01:25Z" scratch="false" x="5" y="50" clock="2" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan awards South Korea a goal kick.</description>
+        </fact>
+        <fact id="121e2206-fc0c-4ae6-afe9-c6aabdced248" type="throwin" time="2014-06-22T19:02:55Z" updated_time="2014-06-22T19:02:55Z" scratch="false" x="32" y="1" clock="2" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Can Algeria get the ball into an attacking position from this throw-in in South Korea's half?</description>
+        </fact>
+        <fact id="06632e41-20d1-4173-b20a-29196a3bef3a" type="shot_off_target" time="2014-06-22T19:03:54Z" updated_time="2014-06-22T19:03:54Z" scratch="false" x="12" y="57" clock="4" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="1e77150e-6de2-4b55-917a-a64c501095ad">
+          <description>Yacine Brahimi of Algeria gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="7476f429-c2b2-4b91-ba16-1a739c8db86c" type="goal_kick" time="2014-06-22T19:03:54Z" updated_time="2014-06-22T19:03:54Z" scratch="false" x="5" y="50" clock="4" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Ball goes out of play for a South Korea goal kick.</description>
+        </fact>
+        <fact id="06b9ead5-1857-476b-b81c-37a38a8165c5" type="free_kick" time="2014-06-22T19:04:37Z" updated_time="2014-06-22T19:04:37Z" scratch="false" x="57" y="55" clock="4" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick South Korea.</description>
+        </fact>
+        <fact id="3d235656-7aff-4fb6-9892-a9606ff4ea78" type="throwin" time="2014-06-22T19:05:54Z" updated_time="2014-06-22T19:05:54Z" scratch="false" x="44" y="2" clock="5" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a Algeria throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="9ade38e9-16d9-47a2-b7e3-1a4131829001" type="free_kick" time="2014-06-22T19:06:36Z" updated_time="2014-06-22T19:06:36Z" scratch="false" x="23" y="85" clock="6" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd"/>
+        <fact id="3c202529-0763-4c26-832b-dcf8970e6374" type="corner_kick" time="2014-06-22T19:07:43Z" updated_time="2014-06-22T19:07:43Z" scratch="false" x="5" y="90" clock="8" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Corner awarded to Algeria.</description>
+        </fact>
+        <fact id="d4156ea5-e094-4562-b719-622233acbdb8" type="corner_kick" time="2014-06-22T19:08:33Z" updated_time="2014-06-22T19:08:33Z" scratch="false" x="5" y="5" clock="9" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria have been awarded a corner by Wilmar Roldan.</description>
+        </fact>
+        <fact id="7eea459b-84aa-4018-b742-f7b8d6c4369c" type="shot_off_target" time="2014-06-22T19:08:42Z" updated_time="2014-06-22T19:08:46Z" scratch="false" x="11" y="67" clock="9" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>Islam Slimani's header is off-target for Algeria.</description>
+        </fact>
+        <fact id="070a00e2-3b9d-4873-8508-685a6e5c7c57" type="goal_kick" time="2014-06-22T19:08:42Z" updated_time="2014-06-22T19:08:42Z" scratch="false" x="5" y="50" clock="9" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have a goal kick.</description>
+        </fact>
+        <fact id="e11c53d7-b719-4ee9-8d24-f09e13ccd24d" type="throwin" time="2014-06-22T19:09:23Z" updated_time="2014-06-22T19:09:23Z" scratch="false" x="34" y="99" clock="9" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea in their own half.</description>
+        </fact>
+        <fact id="10c4783b-1dab-4d56-816e-66fa410b0c01" type="throwin" time="2014-06-22T19:09:44Z" updated_time="2014-06-22T19:09:44Z" scratch="false" x="61" y="99" clock="9" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="7cda0b2a-40bb-4258-bd80-2ddc063bbd90" type="goal_kick" time="2014-06-22T19:10:23Z" updated_time="2014-06-22T19:10:23Z" scratch="false" x="95" y="50" clock="10" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Goal kick for Algeria at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="e1186c9a-4805-4e5a-941e-7f262f09c533" type="free_kick" time="2014-06-22T19:11:22Z" updated_time="2014-06-22T19:11:22Z" scratch="false" x="70" y="58" clock="11" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="df02111d-0b95-45d0-9569-2c14caa6ca29" type="corner_kick" time="2014-06-22T19:13:21Z" updated_time="2014-06-22T19:13:21Z" scratch="false" x="95" y="5" clock="13" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Corner awarded to South Korea.</description>
+        </fact>
+        <fact id="e38e23d4-74d0-4c2c-bb75-5515262657dc" type="throwin" time="2014-06-22T19:13:33Z" updated_time="2014-06-22T19:13:33Z" scratch="false" x="67" y="2" clock="13" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Throw-in Algeria.</description>
+        </fact>
+        <fact id="e4b0189a-5f4d-4412-8b13-32afde36a4dc" type="throwin" time="2014-06-22T19:14:36Z" updated_time="2014-06-22T19:14:36Z" scratch="false" x="81" y="99" clock="14" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Ball safe as Algeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="962f1db1-e9ec-40eb-835a-5cd4c06b69de" type="throwin" time="2014-06-22T19:14:51Z" updated_time="2014-06-22T19:14:51Z" scratch="false" x="66" y="99" clock="14" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Throw-in for Algeria at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="b0b4bc1d-ec12-4e1f-982c-0eb0f49fd757" type="free_kick" time="2014-06-22T19:15:12Z" updated_time="2014-06-22T19:15:12Z" scratch="false" x="56" y="59" clock="14" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick South Korea.</description>
+        </fact>
+        <fact id="9837f6e8-f976-461e-ac32-36be9a83e286" type="throwin" time="2014-06-22T19:15:56Z" updated_time="2014-06-22T19:15:56Z" scratch="false" x="42" y="2" clock="15" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="f059bada-39ba-4e13-9efe-a39cd44de80c" type="throwin" time="2014-06-22T19:16:39Z" updated_time="2014-06-22T19:16:39Z" scratch="false" x="60" y="98" clock="16" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Throw-in Algeria.</description>
+        </fact>
+        <fact id="7d2e332c-91fa-4514-871d-d92f8162e061" type="throwin" time="2014-06-22T19:17:08Z" updated_time="2014-06-22T19:17:08Z" scratch="false" x="33" y="98" clock="16" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="d25ffd34-43fa-4c42-8b86-29de6dd17b7a" type="free_kick" time="2014-06-22T19:17:34Z" updated_time="2014-06-22T19:17:34Z" scratch="false" x="65" y="69" clock="17" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick South Korea.</description>
+        </fact>
+        <fact id="d176c9be-2d04-4365-a723-576d80775068" type="throwin" time="2014-06-22T19:18:28Z" updated_time="2014-06-22T19:18:28Z" scratch="false" x="70" y="100" clock="18" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="0dc19eb0-5f3c-4d2a-b7f0-8cce3843a1f5" type="shot_off_target" time="2014-06-22T19:18:49Z" updated_time="2014-06-22T19:18:49Z" scratch="false" x="22" y="60" clock="19" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0831009f-b4af-432d-9f94-51c2435c74f2">
+          <description>Algeria's Abdelmoumene Djabou misses with an attempt on goal.</description>
+        </fact>
+        <fact id="343fc332-1d86-48b4-89da-34e0cb60bfe3" type="goal_kick" time="2014-06-22T19:18:49Z" updated_time="2014-06-22T19:18:49Z" scratch="false" x="5" y="50" clock="19" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan awards South Korea a goal kick.</description>
+        </fact>
+        <fact id="b69b6528-f1a6-45e4-90e7-f038c39a9b28" type="free_kick" time="2014-06-22T19:20:51Z" updated_time="2014-06-22T19:20:51Z" scratch="false" x="25" y="72" clock="20" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a free kick to Algeria.</description>
+        </fact>
+        <fact id="952f2a1d-c151-4446-bd77-f26d300e628b" type="throwin" time="2014-06-22T19:21:47Z" updated_time="2014-06-22T19:21:47Z" scratch="false" x="19" y="2" clock="21" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Can Algeria capitalize from this throw-in deep inside South Korea's half?</description>
+        </fact>
+        <fact id="04b53795-9e14-4cb6-8722-11898c193670" type="shot_off_target" time="2014-06-22T19:22:02Z" updated_time="2014-06-22T19:22:08Z" scratch="false" x="11" y="39" clock="22" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="7e5e0a51-1499-44dd-818d-a43767972af2">
+          <description>Algeria are pushing forward but Carl Medjani's finish is wide of the goal.</description>
+        </fact>
+        <fact id="79d29e40-3ebb-4357-871c-17ebf150a879" type="goal_kick" time="2014-06-22T19:22:02Z" updated_time="2014-06-22T19:22:02Z" scratch="false" x="5" y="50" clock="22" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Goal kick for South Korea at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="94eed05a-8fa6-44d0-b717-408ceaa9fcf6" type="throwin" time="2014-06-22T19:23:31Z" updated_time="2014-06-22T19:23:31Z" scratch="false" x="53" y="1" clock="23" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Algeria's half?</description>
+        </fact>
+        <fact id="c1a7556e-bef7-4848-92a9-b4a0a60f71f9" type="free_kick" time="2014-06-22T19:24:01Z" updated_time="2014-06-22T19:24:01Z" scratch="false" x="42" y="39" clock="23" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="818a4093-e2b2-40cf-a92d-523ca38830d5" type="throwin" time="2014-06-22T19:24:47Z" updated_time="2014-06-22T19:24:47Z" scratch="false" x="65" y="2" clock="24" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a South Korea throw-in in Algeria's half.</description>
+        </fact>
+        <fact id="3a597d5e-4175-4ad8-bf8f-7c0c728011ce" type="offside" time="2014-06-22T19:25:13Z" updated_time="2014-06-22T19:25:17Z" scratch="false" x="13" y="44" clock="25" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>In Porto Alegre Algeria's Islam Slimani is caught offside.</description>
+        </fact>
+        <fact id="4b05d3ae-f90e-45b1-b041-1be56d8a9e07" type="goal" time="2014-06-22T19:26:06Z" updated_time="2014-06-22T19:26:06Z" scratch="false" x="10" y="41" clock="26" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9" assist1_id="7e5e0a51-1499-44dd-818d-a43767972af2">
+          <description>Carl Medjani instrumental with a fine assist.</description>
+        </fact>
+        <fact id="4717433b-2317-4fd0-ab87-f989de69e325" type="shot_blocked" time="2014-06-22T19:27:31Z" updated_time="2014-06-22T19:27:31Z" scratch="false" x="10" y="34" clock="28" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Yacine Brahimi (Algeria) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="d472d6ae-7403-4498-a277-629850dc55f1" type="corner_kick" time="2014-06-22T19:27:50Z" updated_time="2014-06-22T19:27:50Z" scratch="false" x="5" y="90" clock="28" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria have been awarded a corner by Wilmar Roldan.</description>
+        </fact>
+        <fact id="d85dd1a5-dff6-4406-ab87-ba058d178d13" type="goal" time="2014-06-22T19:28:05Z" updated_time="2014-06-22T19:28:05Z" scratch="false" x="9" y="42" clock="28" home_score="0" away_score="2" penalty="false" owngoal="false" header="true" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="28d1a24c-ecc9-442c-8f57-331f72c923bc" assist1_id="0831009f-b4af-432d-9f94-51c2435c74f2">
+          <description>That's a fine assist from Abdelmoumene Djabou.</description>
+        </fact>
+        <fact id="16099930-5a8c-4847-bc60-26a839c2fdb6" type="goal_kick" time="2014-06-22T19:29:53Z" updated_time="2014-06-22T19:29:53Z" scratch="false" x="95" y="50" clock="29" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Ball goes out of play for a Algeria goal kick.</description>
+        </fact>
+        <fact id="33e47bed-e390-4401-925a-f0842001a036" type="injury" time="2014-06-22T19:30:05Z" updated_time="2014-06-22T19:30:05Z" scratch="false" x="95" y="50" clock="30" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>Wilmar Roldan waits before resuming play because Islam Slimani for Algeria is still down.</description>
+        </fact>
+        <fact id="de272c6d-63e5-4d8c-8d8f-067ec7f4644e" type="game_resumed" time="2014-06-22T19:30:54Z" updated_time="2014-06-22T19:30:54Z" scratch="false" clock="30">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="c6853237-f070-40f8-b80e-7bafd38ddac8" type="injury_return" time="2014-06-22T19:31:02Z" updated_time="2014-06-22T19:31:02Z" scratch="false" clock="30" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>Islam Slimani for Algeria is back on the field again.</description>
+        </fact>
+        <fact id="352c78d9-7a88-4d92-b132-07da05e68c13" type="throwin" time="2014-06-22T19:31:07Z" updated_time="2014-06-22T19:31:07Z" scratch="false" x="70" y="100" clock="30" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Algeria territory.</description>
+        </fact>
+        <fact id="5150c754-b3d8-4199-9133-175b55ffe759" type="throwin" time="2014-06-22T19:31:45Z" updated_time="2014-06-22T19:31:45Z" scratch="false" x="43" y="100" clock="31" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Ball safe as South Korea is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="279eb4fe-1b8f-41c1-88f7-7ac74c1c77bc" type="free_kick" time="2014-06-22T19:31:56Z" updated_time="2014-06-22T19:31:56Z" scratch="false" x="86" y="82" clock="31" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick in a good position for South Korea!</description>
+        </fact>
+        <fact id="d062ab4c-2e2f-428c-85b2-b96bde198e49" type="throwin" time="2014-06-22T19:32:35Z" updated_time="2014-06-22T19:32:35Z" scratch="false" x="86" y="98" clock="32" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have a dangerous throw-in.</description>
+        </fact>
+        <fact id="bbc79064-e3fc-489f-9974-381fd35c07f9" type="goal_kick" time="2014-06-22T19:32:45Z" updated_time="2014-06-22T19:32:45Z" scratch="false" x="95" y="50" clock="32" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria have a goal kick.</description>
+        </fact>
+        <fact id="9a87e411-1507-4c55-b930-d0a8a1f050dd" type="corner_kick" time="2014-06-22T19:36:32Z" updated_time="2014-06-22T19:36:32Z" scratch="false" x="5" y="5" clock="36" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria have been awarded a corner by Wilmar Roldan.</description>
+        </fact>
+        <fact id="95c3bd9c-4b96-4267-a2b1-d6f75599e9cd" type="goal" time="2014-06-22T19:37:25Z" updated_time="2014-06-22T19:37:25Z" scratch="false" x="10" y="43" clock="38" home_score="0" away_score="3" penalty="false" owngoal="false" header="false" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0831009f-b4af-432d-9f94-51c2435c74f2" assist1_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>Great play from Islam Slimani to set up the goal.</description>
+        </fact>
+        <fact id="e326c5dc-7e8f-44b8-af67-73398b40853a" type="free_kick" time="2014-06-22T19:38:46Z" updated_time="2014-06-22T19:38:46Z" scratch="false" x="59" y="85" clock="38" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a free kick to Algeria in their own half.</description>
+        </fact>
+        <fact id="3a8de7ed-4ef3-4299-be01-a8ee53d68063" type="throwin" time="2014-06-22T19:41:02Z" updated_time="2014-06-22T19:41:02Z" scratch="false" x="41" y="0" clock="40" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Can Algeria get the ball into an attacking position from this throw-in in South Korea's half?</description>
+        </fact>
+        <fact id="8b628290-44c9-40fd-8e79-e5e1787da580" type="throwin" time="2014-06-22T19:41:31Z" updated_time="2014-06-22T19:41:31Z" scratch="false" x="12" y="0" clock="41" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea in their own half.</description>
+        </fact>
+        <fact id="6b3b984c-ce10-4f19-91bf-a5085d5d3681" type="free_kick" time="2014-06-22T19:42:02Z" updated_time="2014-06-22T19:42:02Z" scratch="false" x="36" y="24" clock="41" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Free kick Algeria.</description>
+        </fact>
+        <fact id="e404e1b1-8630-4ec8-9998-7fb4b6185ba7" type="corner_kick" time="2014-06-22T19:43:09Z" updated_time="2014-06-22T19:43:09Z" scratch="false" x="5" y="90" clock="43" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Corner awarded to Algeria.</description>
+        </fact>
+        <fact id="024999e4-765f-47a0-82da-87456acb8009" type="shot_off_target" time="2014-06-22T19:43:16Z" updated_time="2014-06-22T19:43:16Z" scratch="false" x="12" y="45" clock="43" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>Algeria attack but Islam Slimani's header doesn't find the target.</description>
+        </fact>
+        <fact id="81e2eddf-6089-47e4-aa8b-1009c0e80864" type="goal_kick" time="2014-06-22T19:43:16Z" updated_time="2014-06-22T19:43:16Z" scratch="false" x="5" y="50" clock="43" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Goal kick for South Korea at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="26cfc6f7-aa9b-4c64-9343-caffb1b2a796" type="throwin" time="2014-06-22T19:43:57Z" updated_time="2014-06-22T19:43:57Z" scratch="false" x="39" y="98" clock="43" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="043a7752-46a2-47fc-8407-a5a9b7d77277" type="throwin" time="2014-06-22T19:44:32Z" updated_time="2014-06-22T19:44:32Z" scratch="false" x="43" y="1" clock="44" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="22d1bc80-0b1b-4bde-94a6-0c35ebff5977" type="throwin" time="2014-06-22T19:45:41Z" updated_time="2014-06-22T19:45:41Z" scratch="false" x="57" y="1" clock="45" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Throw-in for Algeria in their own half.</description>
+        </fact>
+        <fact id="635db43a-6fca-4170-9353-b2ffc0bfaf0a" type="injury_time" time="2014-06-22T19:45:20Z" updated_time="2014-06-22T19:45:20Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="bff77ee6-1973-4739-8b81-9c7ff562948c" type="throwin" time="2014-06-22T19:46:38Z" updated_time="2014-06-22T19:46:38Z" scratch="false" x="69" y="0" clock="45" injury_time="1" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Ball safe as Algeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="6b28e997-6eb4-4915-b4d2-ab1013aff793" type="period_over" time="2014-06-22T19:47:12Z" updated_time="2014-06-22T19:47:12Z" scratch="false" home_score="0" away_score="3" period="P1">
+          <description>The first-half has ended.</description>
+        </fact>
+        <fact id="e4ad28b3-7033-4f8b-b2af-7af56f1dfc16" type="period_started" time="2014-06-22T19:47:12Z" updated_time="2014-06-22T19:47:12Z" scratch="false" period="H"/>
+        <fact id="d62bbd83-665e-4d6c-a20a-8f6d5ffda0cd" type="period_started" time="2014-06-22T20:02:30Z" updated_time="2014-06-22T20:02:30Z" scratch="false" period="P2"/>
+        <fact id="28a3a4e5-efdb-4bad-a394-8003b0788f27" type="free_kick" time="2014-06-22T20:05:00Z" updated_time="2014-06-22T20:05:00Z" scratch="false" x="92" y="20" clock="47" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea just outside Algeria's area.</description>
+        </fact>
+        <fact id="1f03f073-9e9d-4320-92ca-13829b3fd51f" type="free_kick" time="2014-06-22T20:06:27Z" updated_time="2014-06-22T20:06:27Z" scratch="false" x="55" y="26" clock="48" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="3086971c-c3c2-4a0a-bbec-c93962714ece" type="goal" time="2014-06-22T20:06:58Z" updated_time="2014-06-22T20:06:58Z" scratch="false" x="92" y="39" clock="50" home_score="1" away_score="3" penalty="false" owngoal="false" header="false" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="07a90d1b-83c9-4590-a20b-5a2d0fb2cb97" assist1_id="420a7110-fd07-4dbe-84f8-ad89b461551d">
+          <description>Suk Young Yoon with an assist there.</description>
+        </fact>
+        <fact id="8e1ad35f-6b0c-41fc-b6c8-73daf698c1e3" type="throwin" time="2014-06-22T20:07:54Z" updated_time="2014-06-22T20:07:54Z" scratch="false" x="44" y="98" clock="50" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a Algeria throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="6a8ec143-3310-49d0-bd1c-91cefa86a3ab" type="free_kick" time="2014-06-22T20:08:13Z" updated_time="2014-06-22T20:08:13Z" scratch="false" x="14" y="13" clock="50" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="b198e053-b5ce-453d-ada6-eaf499a9f6db" type="keeper_save" time="2014-06-22T20:09:15Z" updated_time="2014-06-22T20:09:15Z" scratch="false" x="10" y="61" clock="51" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6"/>
+        <fact id="6546e3e4-ecba-4833-a6ec-1ecfdfc1dfc7" type="shot_on_target" time="2014-06-22T20:09:15Z" updated_time="2014-06-22T20:09:15Z" scratch="false" x="10" y="61" clock="52" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd"/>
+        <fact id="2461d1a7-3523-44b2-b511-7ec3b60653b0" type="offside" time="2014-06-22T20:09:32Z" updated_time="2014-06-22T20:09:43Z" scratch="false" x="89" y="63" clock="52" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="5da58ec1-c4a6-44ec-aacf-92adcba4e016">
+          <description>Wilmar Roldan blows against South Korea's Ja Cheol Koo for offside.</description>
+        </fact>
+        <fact id="6053dfa4-1274-4fdc-a0ad-d54e5b599d6d" type="free_kick" time="2014-06-22T20:10:42Z" updated_time="2014-06-22T20:10:42Z" scratch="false" x="34" y="83" clock="53" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Free kick Algeria.</description>
+        </fact>
+        <fact id="ec36bcfc-a66e-4f4d-a1b2-b3b0549fc619" type="card" time="2014-06-22T20:10:59Z" updated_time="2014-06-22T20:10:59Z" scratch="false" clock="54" card="Y" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="e9900c89-e57e-414e-8fc8-e9bf42c303d9">
+          <description>South Korea's Yong Lee has been booked in Porto Alegre.</description>
+        </fact>
+        <fact id="684b2ae5-6d1a-4802-b23a-007e0f1a2908" type="throwin" time="2014-06-22T20:12:05Z" updated_time="2014-06-22T20:12:05Z" scratch="false" x="39" y="99" clock="54" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in South Korea.</description>
+        </fact>
+        <fact id="750556bd-7ce3-4c7f-bbc0-ea2750b98a1d" type="corner_kick" time="2014-06-22T20:12:36Z" updated_time="2014-06-22T20:12:46Z" scratch="false" x="95" y="5" clock="55" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have been awarded a corner by Wilmar Roldan.</description>
+        </fact>
+        <fact id="ba811f72-7fa9-47c9-bb27-868d27a0741f" type="throwin" time="2014-06-22T20:12:50Z" updated_time="2014-06-22T20:12:50Z" scratch="false" x="79" y="99" clock="55" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a South Korea throw-in in Algeria's half.</description>
+        </fact>
+        <fact id="ecb25459-631b-456e-a02c-4545d2826a61" type="free_kick" time="2014-06-22T20:13:51Z" updated_time="2014-06-22T20:13:51Z" scratch="false" x="91" y="85" clock="56" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Algeria will need to be alert as they defend a dangerous free kick from South Korea.</description>
+        </fact>
+        <fact id="77975eae-2e58-4ef3-845a-7759d740c9b8" type="throwin" time="2014-06-22T20:14:04Z" updated_time="2014-06-22T20:14:04Z" scratch="false" x="90" y="1" clock="56" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a throw-in for South Korea, close to Algeria's area.</description>
+        </fact>
+        <fact id="3f1217cc-ce97-47ac-9651-34895af07111" type="substitution" time="2014-06-22T20:14:26Z" updated_time="2014-06-22T20:14:26Z" scratch="false" clock="57" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_out_id="f1e883b1-25f8-4ba3-bc42-a3f83717e18a" player_in_id="d7ae3dd7-4a2c-465e-85f8-d6a3494b569f">
+          <description>Myung Bo Hong (South Korea) is making a first substitution, with Shin Wook Kim replacing Chu Young Park.</description>
+        </fact>
+        <fact id="cbb79793-e48a-437f-bce5-06ab31abe564" type="throwin" time="2014-06-22T20:15:09Z" updated_time="2014-06-22T20:15:09Z" scratch="false" x="63" y="98" clock="57" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Algeria's half?</description>
+        </fact>
+        <fact id="9632d7c7-f0fe-4da1-a66b-7c2d97dcde6c" type="throwin" time="2014-06-22T20:16:09Z" updated_time="2014-06-22T20:16:09Z" scratch="false" x="58" y="2" clock="58" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Algeria territory.</description>
+        </fact>
+        <fact id="8b9b49a1-96ab-43d7-959f-19da108fe369" type="keeper_save" time="2014-06-22T20:16:44Z" updated_time="2014-06-22T20:16:44Z" scratch="false" x="72" y="42" clock="59" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd"/>
+        <fact id="df9b8a1b-ce1b-47a1-8e24-c762019433ec" type="throwin" time="2014-06-22T20:17:02Z" updated_time="2014-06-22T20:17:02Z" scratch="false" x="77" y="99" clock="59" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a South Korea throw-in in Algeria's half.</description>
+        </fact>
+        <fact id="d26c862b-c209-4f23-8227-b599013f2cd6" type="shot_on_target" time="2014-06-22T20:16:44Z" updated_time="2014-06-22T20:16:44Z" scratch="false" x="72" y="42" clock="60" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="141d6051-445d-4c60-98e5-e2956c70a437">
+          <description>South Korea's Sung Yueng Ki is on target but unsuccessful.</description>
+        </fact>
+        <fact id="a7196b52-5919-4e05-9b4f-79ed9e1709e2" type="corner_kick" time="2014-06-22T20:16:53Z" updated_time="2014-06-22T20:17:07Z" scratch="false" x="95" y="90" clock="60" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Corner awarded to South Korea.</description>
+        </fact>
+        <fact id="ddd280c8-1da6-48c0-81ff-c6284e7a4cff" type="free_kick" time="2014-06-22T20:17:57Z" updated_time="2014-06-22T20:17:57Z" scratch="false" x="81" y="41" clock="60" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a87771b1-f163-49bf-8494-2e4bbfb797e8" type="goal" time="2014-06-22T20:19:09Z" updated_time="2014-06-22T20:19:09Z" scratch="false" x="10" y="63" clock="62" home_score="1" away_score="4" penalty="false" owngoal="false" header="false" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="1e77150e-6de2-4b55-917a-a64c501095ad" assist1_id="15377708-6dc7-4079-a61e-6fcdadf962d7">
+          <description>Sofiane Feghouli with an assist there.</description>
+        </fact>
+        <fact id="e4eb34e7-d07f-4f58-b5f0-9f88819c1781" type="free_kick" time="2014-06-22T20:20:23Z" updated_time="2014-06-22T20:20:23Z" scratch="false" x="70" y="81" clock="62" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="393ea87d-e10c-4b0f-b4ff-367ae98b15aa" type="substitution" time="2014-06-22T20:21:22Z" updated_time="2014-06-22T20:21:22Z" scratch="false" clock="64" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_out_id="0d5ef594-3b47-4dec-aa7e-55572669bcdf" player_in_id="67ba8832-a0ca-4335-b9e8-3e6661804d0c">
+          <description>Keun Ho Lee is replacing Chung Yong Lee for South Korea at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="52e43186-c4da-4e47-af4c-aa2820bcf8bf" type="corner_kick" time="2014-06-22T20:21:43Z" updated_time="2014-06-22T20:21:43Z" scratch="false" x="95" y="90" clock="64" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Corner awarded to South Korea.</description>
+        </fact>
+        <fact id="5d8215c8-b632-409d-9a30-2cc05a906d3a" type="throwin" time="2014-06-22T20:22:31Z" updated_time="2014-06-22T20:22:31Z" scratch="false" x="37" y="1" clock="65" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="0f6da527-c8e7-4924-a3ae-30f2aa5bcd4f" type="throwin" time="2014-06-22T20:23:05Z" updated_time="2014-06-22T20:23:05Z" scratch="false" x="43" y="2" clock="65" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Can Algeria get the ball into an attacking position from this throw-in in South Korea's half?</description>
+        </fact>
+        <fact id="7102e9c2-0a9d-41c6-9ab4-e2618c697c1a" type="free_kick" time="2014-06-22T20:23:36Z" updated_time="2014-06-22T20:23:36Z" scratch="false" x="69" y="27" clock="66" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="a514d70d-f5eb-4f7b-8537-1957f96734c1" type="card" time="2014-06-22T20:23:43Z" updated_time="2014-06-22T20:23:43Z" scratch="false" clock="67" card="Y" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="1701e2bb-96cc-48db-8759-fcb3c16facaa">
+          <description>Madjid Bougherra for Algeria has been booked by Wilmar Roldan and receives a first yellow card.</description>
+        </fact>
+        <fact id="7e4ffee3-94dd-45a9-a693-3f6bd1162f92" type="throwin" time="2014-06-22T20:24:51Z" updated_time="2014-06-22T20:24:51Z" scratch="false" x="63" y="98" clock="67" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Algeria's half?</description>
+        </fact>
+        <fact id="448b2f6b-bdc0-4299-84cb-074b116f1105" type="card" time="2014-06-22T20:26:26Z" updated_time="2014-06-22T20:26:26Z" scratch="false" clock="69" card="Y" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="98a663a5-babf-43a3-a6b2-1cddf5443ca0">
+          <description>Kook Young Han (South Korea) has received a first yellow card.</description>
+        </fact>
+        <fact id="6a2847dc-7898-4ed8-a29c-c08ac381ca62" type="throwin" time="2014-06-22T20:27:07Z" updated_time="2014-06-22T20:27:07Z" scratch="false" x="24" y="99" clock="69" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a Algeria throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="0b37fb97-bec1-42d5-b2f7-9a4df150a130" type="free_kick" time="2014-06-22T20:27:25Z" updated_time="2014-06-22T20:27:25Z" scratch="false" x="13" y="85" clock="69" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea in their own half.</description>
+        </fact>
+        <fact id="00cd65b4-9de4-4055-a9fd-9e2b27c54917" type="free_kick" time="2014-06-22T20:28:03Z" updated_time="2014-06-22T20:28:03Z" scratch="false" x="36" y="45" clock="70" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Free kick Algeria.</description>
+        </fact>
+        <fact id="1f0b5d4b-6932-4443-8f2f-b3383503353d" type="free_kick" time="2014-06-22T20:28:44Z" updated_time="2014-06-22T20:28:44Z" scratch="false" x="58" y="42" clock="71" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="04b5379f-22b4-41d4-9295-b95a0a18e2b1" type="goal" time="2014-06-22T20:29:27Z" updated_time="2014-06-22T20:29:27Z" scratch="false" clock="72" home_score="2" away_score="4" penalty="false" owngoal="false" header="false" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="5da58ec1-c4a6-44ec-aacf-92adcba4e016" assist1_id="67ba8832-a0ca-4335-b9e8-3e6661804d0c">
+          <description>Keun Ho Lee instrumental with a fine assist.</description>
+        </fact>
+        <fact id="fad4f302-622f-4fbf-8bab-73d89af9bcfb" type="substitution" time="2014-06-22T20:30:09Z" updated_time="2014-06-22T20:30:09Z" scratch="false" clock="73" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_out_id="0831009f-b4af-432d-9f94-51c2435c74f2" player_in_id="48a391ea-de68-4084-8cb0-44d92bc16a92">
+          <description>Nabil Ghilas is on a sub for Abdelmoumene Djabou for Algeria.</description>
+        </fact>
+        <fact id="fcb8e054-fcef-4a9d-bc28-7a11a6e3ed64" type="throwin" time="2014-06-22T20:30:37Z" updated_time="2014-06-22T20:30:37Z" scratch="false" x="63" y="1" clock="73" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Algeria territory.</description>
+        </fact>
+        <fact id="8133a768-0690-4112-9f50-9eade9f66a44" type="corner_kick" time="2014-06-22T20:31:13Z" updated_time="2014-06-22T20:31:13Z" scratch="false" x="95" y="90" clock="74" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have been awarded a corner by Wilmar Roldan.</description>
+        </fact>
+        <fact id="ab0fdecc-1ff7-4dde-9e60-4a21cdebfc14" type="shot_off_target" time="2014-06-22T20:31:22Z" updated_time="2014-06-22T20:31:22Z" scratch="false" x="88" y="45" clock="74" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="d7ae3dd7-4a2c-465e-85f8-d6a3494b569f">
+          <description>South Korea surge into the attack at Estadio Beira-Rio but Shin Wook Kim’s header is off-target.</description>
+        </fact>
+        <fact id="eae2147e-5220-4b40-9184-81a18f1bba6f" type="goal_kick" time="2014-06-22T20:31:22Z" updated_time="2014-06-22T20:31:22Z" scratch="false" x="95" y="50" clock="74" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Ball goes out of play for a Algeria goal kick.</description>
+        </fact>
+        <fact id="2fdd0e30-4ea4-4a7e-be8a-e5e7ce4c38ca" type="throwin" time="2014-06-22T20:31:50Z" updated_time="2014-06-22T20:31:50Z" scratch="false" x="48" y="100" clock="74" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="19c81f59-70e9-4d52-bb03-2094d4ddfd66" type="throwin" time="2014-06-22T20:32:02Z" updated_time="2014-06-22T20:32:02Z" scratch="false" x="30" y="98" clock="74" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a Algeria throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="bc9ebe1b-cd58-4bff-a984-34e6293767bf" type="throwin" time="2014-06-22T20:32:12Z" updated_time="2014-06-22T20:32:12Z" scratch="false" x="10" y="98" clock="74" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="f09bb2f0-5082-435e-810f-26e97fabee4c" type="throwin" time="2014-06-22T20:32:37Z" updated_time="2014-06-22T20:32:37Z" scratch="false" x="28" y="99" clock="75" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Can Algeria get the ball into an attacking position from this throw-in in South Korea's half?</description>
+        </fact>
+        <fact id="8ac38ce8-e740-49de-b94c-c24521c6b281" type="goal_kick" time="2014-06-22T20:33:32Z" updated_time="2014-06-22T20:33:32Z" scratch="false" x="95" y="50" clock="76" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria have a goal kick.</description>
+        </fact>
+        <fact id="c6149aa6-dbda-4544-8590-a2b7fab813d9" type="throwin" time="2014-06-22T20:34:27Z" updated_time="2014-06-22T20:34:27Z" scratch="false" x="56" y="98" clock="76" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="538db180-3401-4f82-abfc-21854f3045a7" type="substitution" time="2014-06-22T20:34:08Z" updated_time="2014-06-22T20:34:08Z" scratch="false" clock="77" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_out_id="1e77150e-6de2-4b55-917a-a64c501095ad" player_in_id="2c118d06-c88a-45d6-a188-8350174fe165">
+          <description>Algeria make their second substitution with Mehdi Lacen replacing Yacine Brahimi.</description>
+        </fact>
+        <fact id="27e6c1e5-5dfa-4282-b5db-49ab38e70a98" type="throwin" time="2014-06-22T20:34:42Z" updated_time="2014-06-22T20:34:42Z" scratch="false" x="16" y="100" clock="77" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>South Korea needs to be cautious. Algeria have an attacking throw-in.</description>
+        </fact>
+        <fact id="5910ccaa-5d4d-461b-a488-7dfd8cbe014d" type="throwin" time="2014-06-22T20:35:18Z" updated_time="2014-06-22T20:35:18Z" scratch="false" x="18" y="99" clock="77" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in South Korea.</description>
+        </fact>
+        <fact id="4e2bda2c-d8a7-4799-84f4-bcd67ae59b64" type="substitution" time="2014-06-22T20:34:53Z" updated_time="2014-06-22T20:35:39Z" scratch="false" clock="78" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_out_id="98a663a5-babf-43a3-a6b2-1cddf5443ca0" player_in_id="8b2e2b92-04b0-492e-b562-ea4209fe862d">
+          <description>Myung Bo Hong is making the team's third substitution at Estadio Beira-Rio with Dong Won Ji replacing Kook Young Han.</description>
+        </fact>
+        <fact id="9470dae1-966d-47a0-8a4a-0d842cbcbc78" type="throwin" time="2014-06-22T20:35:38Z" updated_time="2014-06-22T20:35:38Z" scratch="false" x="17" y="99" clock="78" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Throw-in for Algeria close to the penalty box.</description>
+        </fact>
+        <fact id="12389a97-0d61-4fc4-a4ae-18a33d9d34c2" type="shot_off_target" time="2014-06-22T20:35:55Z" updated_time="2014-06-22T20:35:55Z" scratch="false" x="7" y="51" clock="79" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="48a391ea-de68-4084-8cb0-44d92bc16a92">
+          <description>Nabil Ghilas (Algeria) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="62459d16-3392-482a-8d6a-7c9cb7ddc2c5" type="goal_kick" time="2014-06-22T20:35:55Z" updated_time="2014-06-22T20:35:55Z" scratch="false" x="5" y="50" clock="79" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan awards South Korea a goal kick.</description>
+        </fact>
+        <fact id="4edd6a9b-f910-48ea-a131-015a9991482c" type="free_kick" time="2014-06-22T20:36:44Z" updated_time="2014-06-22T20:36:44Z" scratch="false" x="44" y="82" clock="79" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Free kick Algeria.</description>
+        </fact>
+        <fact id="d20ae10d-80af-405f-868a-9b750ad3e3a2" type="throwin" time="2014-06-22T20:37:14Z" updated_time="2014-06-22T20:37:14Z" scratch="false" x="71" y="2" clock="79" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Ball safe as Algeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="e57a4c43-2a78-4771-864c-b7a78db3447d" type="free_kick" time="2014-06-22T20:37:37Z" updated_time="2014-06-22T20:37:37Z" scratch="false" x="72" y="72" clock="80" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick South Korea.</description>
+        </fact>
+        <fact id="78c1f024-511e-4f79-8577-d81ef5c3a286" type="throwin" time="2014-06-22T20:38:24Z" updated_time="2014-06-22T20:38:24Z" scratch="false" x="82" y="99" clock="80" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea close to the penalty box.</description>
+        </fact>
+        <fact id="0f0de04e-f03e-498b-92b1-95276137e92a" type="corner_kick" time="2014-06-22T20:38:18Z" updated_time="2014-06-22T20:38:18Z" scratch="false" x="95" y="90" clock="81" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Corner awarded to South Korea.</description>
+        </fact>
+        <fact id="b37b06b6-9538-4a99-a4c9-7c5fa25f7ed1" type="throwin" time="2014-06-22T20:38:36Z" updated_time="2014-06-22T20:38:36Z" scratch="false" x="75" y="100" clock="81" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Throw-in for Algeria in their own half.</description>
+        </fact>
+        <fact id="435c99d8-3996-404f-9730-9db95c3e29d3" type="free_kick" time="2014-06-22T20:39:00Z" updated_time="2014-06-22T20:39:00Z" scratch="false" x="42" y="89" clock="81" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4ccc8caf-f21c-4e70-a4dd-af72b52f0a99" type="injury" time="2014-06-22T20:40:05Z" updated_time="2014-06-22T20:40:17Z" scratch="false" x="54" y="69" clock="83" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>Attention is being given to Algeria’s Islam Slimani and play has been suspended briefly.</description>
+        </fact>
+        <fact id="2822ebf7-c263-42b3-8e9f-24e9fa8e6fa0" type="game_resumed" time="2014-06-22T20:41:15Z" updated_time="2014-06-22T20:41:15Z" scratch="false" clock="83">
+          <description>Play has been resumed at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="b22783da-c49a-454b-879c-c75cfbcfee06" type="injury_return" time="2014-06-22T20:42:05Z" updated_time="2014-06-22T20:42:05Z" scratch="false" clock="84" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9">
+          <description>Islam Slimani returns to the field for Algeria after picking up a slight injury.</description>
+        </fact>
+        <fact id="eed4adfe-c2e3-4d32-a0c9-0c7355048dfd" type="throwin" time="2014-06-22T20:42:08Z" updated_time="2014-06-22T20:42:08Z" scratch="false" x="40" y="98" clock="84" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="f14df910-576c-47f6-a83d-648759324e48" type="shot_off_target" time="2014-06-22T20:41:39Z" updated_time="2014-06-22T20:41:39Z" scratch="false" x="87" y="65" clock="85" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="67ba8832-a0ca-4335-b9e8-3e6661804d0c">
+          <description>South Korea's Keun Ho Lee breaks free at Estadio Beira-Rio. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="547c49b5-0780-43bc-a040-a8e53ff990fb" type="goal_kick" time="2014-06-22T20:41:39Z" updated_time="2014-06-22T20:41:39Z" scratch="false" x="95" y="50" clock="85" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Ball goes out of play for a Algeria goal kick.</description>
+        </fact>
+        <fact id="019062bf-da35-4aed-a945-3ff99ed2ef32" type="free_kick" time="2014-06-22T20:42:55Z" updated_time="2014-06-22T20:42:55Z" scratch="false" x="78" y="63" clock="85" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="0d6cc753-b837-4d1a-acf6-3ce65f823441" type="throwin" time="2014-06-22T20:44:19Z" updated_time="2014-06-22T20:44:19Z" scratch="false" x="91" y="1" clock="86" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Wilmar Roldan signals a throw-in for South Korea, close to Algeria's area.</description>
+        </fact>
+        <fact id="05d0a0f0-bc63-4960-a3cc-41e2cb196e7b" type="shot_blocked" time="2014-06-22T20:44:06Z" updated_time="2014-06-22T20:44:06Z" scratch="false" x="78" y="63" clock="87" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Heung Min Son (South Korea) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="25644dea-80c2-460e-abb8-fa8cf3db09e0" type="goal_kick" time="2014-06-22T20:45:21Z" updated_time="2014-06-22T20:45:21Z" scratch="false" x="5" y="50" clock="87" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Goal kick for South Korea at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="4b653496-5ed7-4504-b7d3-1f9ff9d20a56" type="shot_off_target" time="2014-06-22T20:44:39Z" updated_time="2014-06-22T20:44:39Z" scratch="false" x="85" y="38" clock="88" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="8b2e2b92-04b0-492e-b562-ea4209fe862d">
+          <description>South Korea's Dong Won Ji gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="fac64351-423f-4f81-9b81-9ef1d6e50997" type="goal_kick" time="2014-06-22T20:44:39Z" updated_time="2014-06-22T20:44:39Z" scratch="false" x="95" y="50" clock="88" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan awards Algeria a goal kick.</description>
+        </fact>
+        <fact id="476ee76d-7c7c-427c-ae11-6d528570ca74" type="substitution" time="2014-06-22T20:45:47Z" updated_time="2014-06-22T20:45:47Z" scratch="false" clock="89" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" player_out_id="1701e2bb-96cc-48db-8759-fcb3c16facaa" player_in_id="483336d0-7c10-4c15-8b3b-50a4981b8e87">
+          <description>Vahid Halilhodzic is making the team's third substitution at Estadio Beira-Rio with Esseid Belkalem replacing Madjid Bougherra.</description>
+        </fact>
+        <fact id="71919c02-ca6e-4ab2-af5f-6f53d660b527" type="throwin" time="2014-06-22T20:46:46Z" updated_time="2014-06-22T20:46:46Z" scratch="false" x="27" y="99" clock="89" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea at Estadio Beira-Rio.</description>
+        </fact>
+        <fact id="f5880a01-62a5-44a4-b610-ef81dd222b30" type="free_kick" time="2014-06-22T20:47:26Z" updated_time="2014-06-22T20:47:26Z" scratch="false" x="58" y="75" clock="89" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd"/>
+        <fact id="bd5946d9-86d1-4554-a7df-03c9e1c879df" type="injury_time" time="2014-06-22T20:47:35Z" updated_time="2014-06-22T20:47:35Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>4 minutes will be added to the second half.</description>
+        </fact>
+        <fact id="3f2f9342-bc31-48c7-8cfd-b607382c5aad" type="throwin" time="2014-06-22T20:47:54Z" updated_time="2014-06-22T20:47:54Z" scratch="false" x="10" y="99" clock="90" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="908df989-3bbf-4e96-98f7-1393bf8ad235" type="corner_kick" time="2014-06-22T20:48:52Z" updated_time="2014-06-22T20:48:52Z" scratch="false" x="95" y="90" clock="90" injury_time="1" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have been awarded a corner by Wilmar Roldan.</description>
+        </fact>
+        <fact id="ec2f167b-0066-464f-8f3b-ed0f4096bc93" type="throwin" time="2014-06-22T20:49:26Z" updated_time="2014-06-22T20:49:26Z" scratch="false" x="64" y="99" clock="90" injury_time="1" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Ball safe as Algeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="41782606-109c-404e-95fe-f013e6752811" type="throwin" time="2014-06-22T20:49:40Z" updated_time="2014-06-22T20:49:40Z" scratch="false" x="58" y="99" clock="90" injury_time="2" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Algeria's half?</description>
+        </fact>
+        <fact id="fea01f0c-a1ee-47ed-84e0-ef3bb5f2d359" type="throwin" time="2014-06-22T20:50:10Z" updated_time="2014-06-22T20:50:10Z" scratch="false" x="42" y="0" clock="90" injury_time="2" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a Algeria throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="eead8886-721d-47fc-b0bd-6fda9d0cb1f5" type="free_kick" time="2014-06-22T20:50:44Z" updated_time="2014-06-22T20:50:44Z" scratch="false" x="27" y="22" clock="90" injury_time="3" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Wilmar Roldan signals a free kick to Algeria.</description>
+        </fact>
+        <fact id="fcc349cd-035a-461a-bf2e-6c6d6d98d62e" type="throwin" time="2014-06-22T20:51:08Z" updated_time="2014-06-22T20:51:08Z" scratch="false" x="45" y="1" clock="90" injury_time="3" team_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd">
+          <description>Algeria to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="b499342e-5155-464a-81f0-f44333c5b1a1" type="period_over" time="2014-06-22T20:51:37Z" updated_time="2014-06-22T20:51:37Z" scratch="false" home_score="2" away_score="4" period="P2">
+          <description>Wilmar Roldan blows to end the match. The final score is 2-4.</description>
+        </fact>
+        <fact id="3412e0e9-0d5e-4895-ac45-ce034368a7f8" type="match_ended" time="2014-06-22T20:51:37Z" updated_time="2014-06-22T20:51:37Z" scratch="false" home_score="2" away_score="4" winner_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" draw="false"/>
+      </facts>
+      <!-- 4768800/4735/4691 -->
+    </match>
+  </matches>
+</summary>

@@ -1,0 +1,310 @@
+{
+    "game": {
+        "@attendance": "18165",
+        "@away_team": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+        "@clock": "00:00",
+        "@coverage": "full",
+        "@duration": "2:17",
+        "@home_team": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+        "@id": "0b3d21c7-c13f-4ee8-8d9d-4f334754c7e4",
+        "@lead_changes": "12",
+        "@quarter": "4",
+        "@scheduled": "2013-10-29T23:00:00+00:00",
+        "@status": "closed",
+        "@times_tied": "3",
+        "@xmlns": "http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd",
+        "team": [
+            {
+                "@id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+                "@market": "Indiana",
+                "@name": "Pacers",
+                "@points": "97",
+                "leaders": {
+                    "assists": {
+                        "player": {
+                            "@full_name": "Paul George",
+                            "@id": "db09f372-9a17-4889-add7-bf8a75ab6da6",
+                            "@jersey_number": "24",
+                            "@position": "F-G",
+                            "@primary_position": "SG",
+                            "statistics": {
+                                "@assists": "5",
+                                "@assists_turnover_ratio": "1.25",
+                                "@blocked_att": "1",
+                                "@blocks": "3",
+                                "@defensive_rebounds": "5",
+                                "@field_goals_att": "16",
+                                "@field_goals_made": "8",
+                                "@field_goals_pct": "50.0",
+                                "@flagrant_fouls": "0",
+                                "@free_throws_att": "7",
+                                "@free_throws_made": "5",
+                                "@free_throws_pct": "71.4",
+                                "@minutes": "36:05",
+                                "@offensive_rebounds": "1",
+                                "@personal_fouls": "0",
+                                "@pls_min": "11",
+                                "@points": "24",
+                                "@rebounds": "6",
+                                "@steals": "1",
+                                "@tech_fouls": "0",
+                                "@three_points_att": "6",
+                                "@three_points_made": "3",
+                                "@three_points_pct": "50.0",
+                                "@turnovers": "4",
+                                "@two_points_att": "10",
+                                "@two_points_made": "5",
+                                "@two_points_pct": "0.5"
+                            }
+                        }
+                    },
+                    "points": {
+                        "player": {
+                            "@full_name": "Paul George",
+                            "@id": "db09f372-9a17-4889-add7-bf8a75ab6da6",
+                            "@jersey_number": "24",
+                            "@position": "F-G",
+                            "@primary_position": "SG",
+                            "statistics": {
+                                "@assists": "5",
+                                "@assists_turnover_ratio": "1.25",
+                                "@blocked_att": "1",
+                                "@blocks": "3",
+                                "@defensive_rebounds": "5",
+                                "@field_goals_att": "16",
+                                "@field_goals_made": "8",
+                                "@field_goals_pct": "50.0",
+                                "@flagrant_fouls": "0",
+                                "@free_throws_att": "7",
+                                "@free_throws_made": "5",
+                                "@free_throws_pct": "71.4",
+                                "@minutes": "36:05",
+                                "@offensive_rebounds": "1",
+                                "@personal_fouls": "0",
+                                "@pls_min": "11",
+                                "@points": "24",
+                                "@rebounds": "6",
+                                "@steals": "1",
+                                "@tech_fouls": "0",
+                                "@three_points_att": "6",
+                                "@three_points_made": "3",
+                                "@three_points_pct": "50.0",
+                                "@turnovers": "4",
+                                "@two_points_att": "10",
+                                "@two_points_made": "5",
+                                "@two_points_pct": "0.5"
+                            }
+                        }
+                    },
+                    "rebounds": {
+                        "player": {
+                            "@full_name": "Roy Hibbert",
+                            "@id": "20f69728-18f2-4917-aabf-9893c3bff3be",
+                            "@jersey_number": "55",
+                            "@position": "C",
+                            "@primary_position": "C",
+                            "statistics": {
+                                "@assists": "0",
+                                "@assists_turnover_ratio": "0.0",
+                                "@blocked_att": "0",
+                                "@blocks": "7",
+                                "@defensive_rebounds": "10",
+                                "@field_goals_att": "6",
+                                "@field_goals_made": "3",
+                                "@field_goals_pct": "50.0",
+                                "@flagrant_fouls": "0",
+                                "@free_throws_att": "4",
+                                "@free_throws_made": "2",
+                                "@free_throws_pct": "50.0",
+                                "@minutes": "26:54",
+                                "@offensive_rebounds": "6",
+                                "@personal_fouls": "0",
+                                "@pls_min": "15",
+                                "@points": "8",
+                                "@rebounds": "16",
+                                "@steals": "1",
+                                "@tech_fouls": "0",
+                                "@three_points_att": "0",
+                                "@three_points_made": "0",
+                                "@three_points_pct": "0.0",
+                                "@turnovers": "3",
+                                "@two_points_att": "6",
+                                "@two_points_made": "3",
+                                "@two_points_pct": "0.5"
+                            }
+                        }
+                    }
+                },
+                "scoring": {
+                    "quarter": [
+                        {
+                            "@number": "1",
+                            "@points": "23",
+                            "@sequence": "1"
+                        },
+                        {
+                            "@number": "2",
+                            "@points": "17",
+                            "@sequence": "2"
+                        },
+                        {
+                            "@number": "3",
+                            "@points": "29",
+                            "@sequence": "3"
+                        },
+                        {
+                            "@number": "4",
+                            "@points": "28",
+                            "@sequence": "4"
+                        }
+                    ]
+                }
+            },
+            {
+                "@id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+                "@market": "Orlando",
+                "@name": "Magic",
+                "@points": "87",
+                "leaders": {
+                    "assists": {
+                        "player": {
+                            "@full_name": "Jameer Nelson",
+                            "@id": "5d3681c6-9c73-4895-9b59-b4851069469f",
+                            "@jersey_number": "14",
+                            "@position": "G",
+                            "@primary_position": "PG",
+                            "statistics": {
+                                "@assists": "7",
+                                "@assists_turnover_ratio": "3.5",
+                                "@blocked_att": "3",
+                                "@blocks": "0",
+                                "@defensive_rebounds": "4",
+                                "@field_goals_att": "13",
+                                "@field_goals_made": "4",
+                                "@field_goals_pct": "30.8",
+                                "@flagrant_fouls": "0",
+                                "@free_throws_att": "1",
+                                "@free_throws_made": "1",
+                                "@free_throws_pct": "100.0",
+                                "@minutes": "30:34",
+                                "@offensive_rebounds": "1",
+                                "@personal_fouls": "1",
+                                "@pls_min": "-11",
+                                "@points": "12",
+                                "@rebounds": "5",
+                                "@steals": "2",
+                                "@tech_fouls": "0",
+                                "@three_points_att": "7",
+                                "@three_points_made": "3",
+                                "@three_points_pct": "42.9",
+                                "@turnovers": "2",
+                                "@two_points_att": "6",
+                                "@two_points_made": "1",
+                                "@two_points_pct": "0.167"
+                            }
+                        }
+                    },
+                    "points": {
+                        "player": {
+                            "@full_name": "Andrew Nicholson",
+                            "@id": "8f4b695b-36d0-4801-bebd-c94c1315a590",
+                            "@jersey_number": "44",
+                            "@position": "F",
+                            "@primary_position": "PF",
+                            "statistics": {
+                                "@assists": "0",
+                                "@assists_turnover_ratio": "0.0",
+                                "@blocked_att": "0",
+                                "@blocks": "0",
+                                "@defensive_rebounds": "3",
+                                "@field_goals_att": "10",
+                                "@field_goals_made": "8",
+                                "@field_goals_pct": "80.0",
+                                "@flagrant_fouls": "0",
+                                "@free_throws_att": "0",
+                                "@free_throws_made": "0",
+                                "@free_throws_pct": "0.0",
+                                "@minutes": "19:17",
+                                "@offensive_rebounds": "1",
+                                "@personal_fouls": "4",
+                                "@points": "18",
+                                "@rebounds": "4",
+                                "@steals": "1",
+                                "@tech_fouls": "0",
+                                "@three_points_att": "2",
+                                "@three_points_made": "2",
+                                "@three_points_pct": "100.0",
+                                "@turnovers": "1",
+                                "@two_points_att": "8",
+                                "@two_points_made": "6",
+                                "@two_points_pct": "0.75"
+                            }
+                        }
+                    },
+                    "rebounds": {
+                        "player": {
+                            "@full_name": "Nikola Vucevic",
+                            "@id": "7366b2b7-5959-4dd9-9204-760e861b3119",
+                            "@jersey_number": "9",
+                            "@position": "C",
+                            "@primary_position": "C",
+                            "statistics": {
+                                "@assists": "3",
+                                "@assists_turnover_ratio": "0.6",
+                                "@blocked_att": "3",
+                                "@blocks": "1",
+                                "@defensive_rebounds": "5",
+                                "@field_goals_att": "11",
+                                "@field_goals_made": "4",
+                                "@field_goals_pct": "36.4",
+                                "@flagrant_fouls": "1",
+                                "@free_throws_att": "0",
+                                "@free_throws_made": "0",
+                                "@free_throws_pct": "0.0",
+                                "@minutes": "30:39",
+                                "@offensive_rebounds": "5",
+                                "@personal_fouls": "4",
+                                "@pls_min": "-22",
+                                "@points": "8",
+                                "@rebounds": "10",
+                                "@steals": "2",
+                                "@tech_fouls": "0",
+                                "@three_points_att": "0",
+                                "@three_points_made": "0",
+                                "@three_points_pct": "0.0",
+                                "@turnovers": "5",
+                                "@two_points_att": "11",
+                                "@two_points_made": "4",
+                                "@two_points_pct": "0.364"
+                            }
+                        }
+                    }
+                },
+                "scoring": {
+                    "quarter": [
+                        {
+                            "@number": "1",
+                            "@points": "18",
+                            "@sequence": "1"
+                        },
+                        {
+                            "@number": "2",
+                            "@points": "26",
+                            "@sequence": "2"
+                        },
+                        {
+                            "@number": "3",
+                            "@points": "20",
+                            "@sequence": "3"
+                        },
+                        {
+                            "@number": "4",
+                            "@points": "23",
+                            "@sequence": "4"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

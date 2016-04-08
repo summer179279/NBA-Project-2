@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:07:57Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="830c72d7-9189-4041-bab3-6ac12c968221" country_code="MEX" preferred_foot="R" height_in="67" weight_lb="154" height_cm="170" weight_kg="69" first_name="Marco" last_name="Fabian" country="Mexico">
+    <teams>
+      <team id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" country_code="MEX" position="M" is_manager="false" is_player="true" country="Mexico" jersey_number="8"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="41" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="3">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="7" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="-1" yellow_cards="0" yellow_red_cards="1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ab5bfdbe-ed48-45e8-a6b9-eda3a8aaad3b" name="Mexico" country_code="MEX" country="Mexico"/>
+          <tournament_group id="3baac5eb-2bd1-4561-ab76-b96d267dfe2a" name="Primera Division"/>
+          <team id="9ca06516-f133-42f7-931f-157bbba82999" name="Cruz Azul" alias="CAZ" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ab5bfdbe-ed48-45e8-a6b9-eda3a8aaad3b" name="Mexico" country_code="MEX" country="Mexico"/>
+          <tournament_group id="3baac5eb-2bd1-4561-ab76-b96d267dfe2a" name="Primera Division"/>
+          <team id="ae86d852-2b72-476e-aac1-204c94d7c234" name="Guadalajara Chivas" alias="GDL" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 41371/1405922452 -->
+  </player>
+</profile>

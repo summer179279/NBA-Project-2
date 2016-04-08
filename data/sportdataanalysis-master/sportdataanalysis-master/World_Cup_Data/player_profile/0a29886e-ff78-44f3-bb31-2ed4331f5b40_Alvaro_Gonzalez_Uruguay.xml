@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:13:59Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="0a29886e-ff78-44f3-bb31-2ed4331f5b40" country_code="URY" preferred_foot="R" height_in="69" weight_lb="158" height_cm="175" weight_kg="71" first_name="Alvaro" last_name="Gonzalez" country="Uruguay">
+    <teams>
+      <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" country_code="URY" position="M" is_manager="false" is_player="true" country="Uruguay" jersey_number="20"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="9" matches_started="0" minutes_played="522" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="4">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="266" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="25" matches_started="0" minutes_played="1426" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="11" substitutions_in="9">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="cd24a25b-3fc0-48fd-9c54-f793d51af976" name="Serie A"/>
+          <tournament id="4c08a075-b8a9-44ea-a1a0-7916ec5b472c" name="Serie A"/>
+          <team id="858f0a7c-262f-48f4-b480-200b01ac027c" name="Lazio Roma" alias="LAZ" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="281" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="f287e0ed-70ba-483d-be9c-3b0e763c5e7b" name="Confederations Cup"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="44" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="f1dcc4d9-fba5-481f-9bc4-3620f1d772cf" name="Coppa Italia"/>
+          <tournament id="f8bac078-4d26-4c88-bd19-35a2fc3c7ecb" name="Coppa Italia"/>
+          <team id="858f0a7c-262f-48f4-b480-200b01ac027c" name="Lazio Roma" alias="LAZ" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="264" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="858f0a7c-262f-48f4-b480-200b01ac027c" name="Lazio Roma" alias="LAZ" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 31977/1405922749 -->
+  </player>
+</profile>

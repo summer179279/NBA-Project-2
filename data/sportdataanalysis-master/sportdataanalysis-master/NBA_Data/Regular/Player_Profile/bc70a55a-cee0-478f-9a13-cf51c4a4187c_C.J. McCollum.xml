@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-07 21:22:18 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="bc70a55a-cee0-478f-9a13-cf51c4a4187c" status="ACT" full_name="C.J. McCollum" first_name="C.J." last_name="McCollum" abbr_name="C.McCollum" height="76" weight="200" position="G" primary_position="SG" jersey_number="3" experience="0" college="Lehigh" birth_place="Canton, OH, USA" birthdate="1991-09-19" updated="2014-01-06T19:39:14+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" alias="POR"/>
+  <draft team_id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="1" pick="10"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" alias="POR">
+        <statistics>
+          <total games_played="38" games_started="0" minutes="476.0" field_goals_made="74" field_goals_att="178" three_points_made="30" three_points_att="80" blocked_att="11" free_throws_made="23" free_throws_att="34" offensive_rebounds="7" defensive_rebounds="41" assists="27" turnovers="35" steals="14" blocks="2" personal_fouls="53" tech_fouls="0" points="201" flagrant_fouls="0" free_throws_pct="0.676" two_points_pct="0.449" three_points_pct="0.375" field_goals_pct="0.416" rebounds="48" assists_turnover_ratio="0.77" two_points_made="44" two_points_att="98"/>
+          <average points="5.3" blocked_att="0.29" turnovers="0.92" free_throws_att="0.89" field_goals_att="4.68" off_rebounds="0.18" two_points_att="2.58" assists="0.7" blocks="0.05" personal_fouls="1.39" two_points_made="1.16" flagrant_fouls="0.0" rebounds="1.26" three_points_made="0.79" minutes="12.5" def_rebounds="1.08" free_throws_made="0.61" field_goals_made="1.95" steals="0.37" three_points_att="2.11"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-07-07 21:22:18 +0000 -->

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:10:38Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="1700fe77-790e-4f0f-87a7-63c1abcd5d42" country_code="CRI" preferred_foot="R" height_in="70" weight_lb="158" height_cm="177" weight_kg="71" first_name="Marcos" last_name="Urena" country="Costa Rica">
+    <teams>
+      <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" country_code="CRI" position="F" is_manager="false" is_player="true" country="Costa Rica" jersey_number="21"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="102" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="4">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="66" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="1717b644-9d3e-455c-8f31-d924c0c9928d" name="FC Kuban Krasnodar" alias="KUB" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="84" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="5">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="1717b644-9d3e-455c-8f31-d924c0c9928d" name="FC Kuban Krasnodar" alias="KUB" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 117798/1405951678 -->
+  </player>
+</profile>

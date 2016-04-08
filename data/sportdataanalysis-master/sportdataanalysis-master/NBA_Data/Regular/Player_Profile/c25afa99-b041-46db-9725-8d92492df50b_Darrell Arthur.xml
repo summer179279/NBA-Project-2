@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:51:06 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="c25afa99-b041-46db-9725-8d92492df50b" status="ACT" full_name="Darrell Arthur" first_name="Darrell" last_name="Arthur" abbr_name="D.Arthur" height="81" weight="235" position="F" primary_position="PF" jersey_number="00" experience="5" college="Kansas" birth_place="Dallas, TX, USA" birthdate="1988-03-25" updated="2013-09-06T21:03:40+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" alias="DEN"/>
+  <draft team_id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" year="2008" round="1" pick="27"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" alias="DEN">
+        <statistics>
+          <total games_played="68" games_started="1" minutes="1161.0" field_goals_made="162" field_goals_att="410" three_points_made="24" three_points_att="64" blocked_att="14" free_throws_made="53" free_throws_att="62" offensive_rebounds="52" defensive_rebounds="158" assists="61" turnovers="58" steals="39" blocks="47" personal_fouls="185" tech_fouls="3" points="401" flagrant_fouls="0" free_throws_pct="0.855" two_points_pct="0.399" three_points_pct="0.375" field_goals_pct="0.395" rebounds="210" assists_turnover_ratio="1.05" two_points_made="138" two_points_att="346"/>
+          <average points="5.9" blocked_att="0.21" turnovers="0.85" free_throws_att="0.91" field_goals_att="6.03" off_rebounds="0.76" two_points_att="5.09" assists="0.9" blocks="0.69" personal_fouls="2.72" two_points_made="2.03" flagrant_fouls="0.0" rebounds="3.09" three_points_made="0.35" minutes="17.1" def_rebounds="2.32" free_throws_made="0.78" field_goals_made="2.38" steals="0.57" three_points_att="0.94"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:51:06 +0000 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:12:26Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="37dc5dbf-9c11-42d2-9916-c3f39c8cbd98" country_code="COL" preferred_foot="L" height_in="66" weight_lb="136" height_cm="167" weight_kg="61" first_name="Juan" last_name="Quintero" country="Colombia">
+    <teams>
+      <team id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" country_code="COL" position="M" is_manager="false" is_player="true" country="Colombia" jersey_number="20"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="83" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="24" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="51" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="452c7239-70ec-4449-8b6e-2624845089b8" name="League Cup"/>
+          <team id="fb66a45f-3a22-44b7-8d2e-02b8daba8092" name="FC Porto" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="4" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="22" matches_started="0" minutes_played="785" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="18">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="ed663318-5add-4c8c-b3e4-af451d330fb9" name="Primeira Liga"/>
+          <team id="fb66a45f-3a22-44b7-8d2e-02b8daba8092" name="FC Porto" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="12" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="1c458580-c792-414e-b248-10203d03a826" name="Taca de Portugal"/>
+          <tournament id="5ae3c6f5-a098-4fce-adb8-248bd7f943bb" name="Taca de Portugal"/>
+          <team id="fb66a45f-3a22-44b7-8d2e-02b8daba8092" name="FC Porto" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="100" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="3">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="fb66a45f-3a22-44b7-8d2e-02b8daba8092" name="FC Porto" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="43" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="3">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="fb66a45f-3a22-44b7-8d2e-02b8daba8092" name="FC Porto" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="41b6cac3-1f34-4804-9b5f-459b757f1641" name="Segunda Liga"/>
+          <tournament id="0ca09f5b-5d79-486a-bcc6-a7ff545fc101" name="Segunda Liga"/>
+          <team id="4f7bc3dd-d5f3-4602-8d73-bff71bcfe6e8" name="FC Porto B" alias="" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 221162/1405922788 -->
+  </player>
+</profile>

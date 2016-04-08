@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:37:49Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="141d6051-445d-4c60-98e5-e2956c70a437" country_code="KOR" preferred_foot="R" height_in="73" weight_lb="174" height_cm="185" weight_kg="78" first_name="Sung Yueng" last_name="Ki" country="South Korea">
+    <teams>
+      <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" country_code="KOR" position="M" is_manager="false" is_player="true" country="South Korea" jersey_number="16"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="27" matches_started="0" minutes_played="2185" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="2">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="3541a5de-79cd-43ff-a1e8-bdb1416ad8da" name="Sunderland AFC" alias="SUN" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="45" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="0ab9e882-01ad-47ad-ae8f-79c11e4f294f" name="Swansea City" alias="SWA" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="358" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="8cf07e0d-a6db-45fa-a67c-c10b43449a69" name="League Cup"/>
+          <tournament id="3512b79f-bc4f-49f1-8c1b-e8d5e35c801e" name="League Cup"/>
+          <team id="3541a5de-79cd-43ff-a1e8-bdb1416ad8da" name="Sunderland AFC" alias="SUN" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="63" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="3541a5de-79cd-43ff-a1e8-bdb1416ad8da" name="Sunderland AFC" alias="SUN" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="13" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="0ab9e882-01ad-47ad-ae8f-79c11e4f294f" name="Swansea City" alias="SWA" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 38642/1405922578 -->
+  </player>
+</profile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-07 21:22:18 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="c58c6713-f865-49a9-bc27-ccad530b33a8" status="ACT" full_name="Dorell Wright" first_name="Dorell" last_name="Wright" abbr_name="D.Wright" height="81" weight="205" position="F" primary_position="SF" jersey_number="1" experience="9" college="South Kent Prep HS (CT)" birth_place="Los Angeles, CA, USA" birthdate="1985-12-02" updated="2013-10-04T20:56:35+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" alias="POR"/>
+  <draft team_id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" year="2004" round="1" pick="19"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" alias="POR">
+        <statistics>
+          <total games_played="68" games_started="13" minutes="984.0" field_goals_made="111" field_goals_att="297" three_points_made="69" three_points_att="202" blocked_att="4" free_throws_made="52" free_throws_att="69" offensive_rebounds="29" defensive_rebounds="162" assists="64" turnovers="39" steals="23" blocks="16" personal_fouls="62" tech_fouls="0" points="343" flagrant_fouls="0" free_throws_pct="0.754" two_points_pct="0.442" three_points_pct="0.342" field_goals_pct="0.374" rebounds="191" assists_turnover_ratio="1.64" two_points_made="42" two_points_att="95"/>
+          <average points="5.0" blocked_att="0.06" turnovers="0.57" free_throws_att="1.01" field_goals_att="4.37" off_rebounds="0.43" two_points_att="1.4" assists="0.9" blocks="0.24" personal_fouls="0.91" two_points_made="0.62" flagrant_fouls="0.0" rebounds="2.81" three_points_made="1.01" minutes="14.5" def_rebounds="2.38" free_throws_made="0.76" field_goals_made="1.63" steals="0.34" three_points_att="2.97"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-07-07 21:22:18 +0000 -->

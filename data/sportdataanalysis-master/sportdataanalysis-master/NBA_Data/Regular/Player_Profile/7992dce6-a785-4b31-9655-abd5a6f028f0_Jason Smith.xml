@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:40:57 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="7992dce6-a785-4b31-9655-abd5a6f028f0" status="ACT" full_name="Jason Smith" first_name="Jason" last_name="Smith" abbr_name="J.Smith" height="84" weight="240" position="C-F" primary_position="C" jersey_number="14" experience="5" college="Colorado State" birth_place="Greeley, CO, USA" birthdate="1986-03-02" updated="2014-02-27T21:59:34+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" name="Pelicans" market="New Orleans" alias="NOP"/>
+  <draft team_id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" year="2007" round="1" pick="20"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" name="Pelicans" market="New Orleans" alias="NOP">
+        <statistics>
+          <total games_played="31" games_started="27" minutes="830.0" field_goals_made="131" field_goals_att="282" three_points_made="0" three_points_att="0" blocked_att="21" free_throws_made="39" free_throws_att="50" offensive_rebounds="51" defensive_rebounds="130" assists="29" turnovers="28" steals="11" blocks="29" personal_fouls="100" tech_fouls="1" points="301" flagrant_fouls="0" free_throws_pct="0.78" two_points_pct="0.465" three_points_pct="0" field_goals_pct="0.465" rebounds="181" assists_turnover_ratio="1.04" two_points_made="131" two_points_att="282"/>
+          <average points="9.7" blocked_att="0.68" turnovers="0.9" free_throws_att="1.61" field_goals_att="9.1" off_rebounds="1.65" two_points_att="9.1" assists="0.9" blocks="0.94" personal_fouls="3.23" two_points_made="4.23" flagrant_fouls="0.0" rebounds="5.84" three_points_made="0.0" minutes="26.8" def_rebounds="4.19" free_throws_made="1.26" field_goals_made="4.23" steals="0.35" three_points_att="0.0"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:40:57 +0000 -->

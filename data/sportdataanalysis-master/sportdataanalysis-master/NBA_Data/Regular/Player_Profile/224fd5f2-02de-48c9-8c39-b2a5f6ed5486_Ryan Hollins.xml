@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-22 16:31:04 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="224fd5f2-02de-48c9-8c39-b2a5f6ed5486" status="ACT" full_name="Ryan Hollins" first_name="Ryan" last_name="Hollins" abbr_name="R.Hollins" height="84" weight="240" position="C" primary_position="C" jersey_number="15" experience="7" college="UCLA" birth_place="Pasadena, CA, USa" birthdate="1984-10-10" updated="2013-09-09T18:17:45+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" alias="LAC"/>
+  <draft team_id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" year="2006" round="2" pick="50"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" alias="LAC">
+        <statistics>
+          <total games_played="61" games_started="0" minutes="482.0" field_goals_made="53" field_goals_att="72" three_points_made="0" three_points_att="0" blocked_att="8" free_throws_made="35" free_throws_att="56" offensive_rebounds="31" defensive_rebounds="59" assists="8" turnovers="29" steals="9" blocks="31" personal_fouls="87" tech_fouls="1" points="141" flagrant_fouls="2" free_throws_pct="0.625" two_points_pct="0.736" three_points_pct="0" field_goals_pct="0.736" rebounds="90" assists_turnover_ratio="0.28" two_points_made="53" two_points_att="72"/>
+          <average points="2.3" blocked_att="0.13" turnovers="0.48" free_throws_att="0.92" field_goals_att="1.18" off_rebounds="0.51" two_points_att="1.18" assists="0.1" blocks="0.51" personal_fouls="1.43" two_points_made="0.87" flagrant_fouls="0.03" rebounds="1.48" three_points_made="0.0" minutes="7.9" def_rebounds="0.97" free_throws_made="0.57" field_goals_made="0.87" steals="0.15" three_points_att="0.0"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-22 16:31:04 +0000 -->

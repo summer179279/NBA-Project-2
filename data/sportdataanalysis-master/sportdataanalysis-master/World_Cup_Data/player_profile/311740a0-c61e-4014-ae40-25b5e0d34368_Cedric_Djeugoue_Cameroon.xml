@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:30:36Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="311740a0-c61e-4014-ae40-25b5e0d34368" country_code="CMR" preferred_foot="" height_in="68" weight_lb="0" height_cm="172" weight_kg="0" first_name="Cedric" last_name="Djeugoue" country="Cameroon">
+    <teams>
+      <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" country_code="CMR" position="D" is_manager="false" is_player="true" country="Cameroon" jersey_number="4"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="46" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 557412/1405922469 -->
+  </player>
+</profile>

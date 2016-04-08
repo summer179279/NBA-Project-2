@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-14 04:36:16 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="dcee0216-fe36-4ee2-82be-7bc564f7d378" status="closed" coverage="full" home_team="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-14T01:30:00+00:00" duration="2:27" attendance="18203" lead_changes="2" times_tied="0" clock="00:00" quarter="4">
+  <team name="Thunder" market="Oklahoma City" id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" points="131">
+    <scoring>
+      <quarter number="1" sequence="1" points="33"/>
+      <quarter number="2" sequence="2" points="27"/>
+      <quarter number="3" sequence="3" points="41"/>
+      <quarter number="4" sequence="4" points="30"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Kevin Durant" position="F" primary_position="SF" jersey_number="35" id="53f2fa48-e61b-49fb-843d-8a3e872257eb">
+          <statistics minutes="30:24" field_goals_made="8" field_goals_att="17" field_goals_pct="47.1" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="6" two_points_att="12" two_points_pct="0.5" blocked_att="0" free_throws_made="11" free_throws_att="11" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="4" rebounds="4" assists="3" turnovers="3" steals="1" blocks="3" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="1" flagrant_fouls="0" pls_min="20" points="29"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Serge Ibaka" position="F-C" primary_position="PF" jersey_number="9" id="0afca4ef-6ad4-4f96-8cd2-b20b59c6ce90">
+          <statistics minutes="28:55" field_goals_made="6" field_goals_att="9" field_goals_pct="66.7" three_points_made="1" three_points_att="1" three_points_pct="100.0" two_points_made="5" two_points_att="8" two_points_pct="0.625" blocked_att="1" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="5" defensive_rebounds="8" rebounds="13" assists="0" turnovers="1" steals="2" blocks="7" assists_turnover_ratio="0.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="21" points="15"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Russell Westbrook" position="G" primary_position="PG" jersey_number="0" id="74a45eed-f2b0-4886-ae71-d04cf7d59528">
+          <statistics minutes="23:20" field_goals_made="9" field_goals_att="17" field_goals_pct="52.9" three_points_made="4" three_points_att="7" three_points_pct="57.1" two_points_made="5" two_points_att="10" two_points_pct="0.5" blocked_att="1" free_throws_made="7" free_throws_att="9" free_throws_pct="77.8" offensive_rebounds="1" defensive_rebounds="1" rebounds="2" assists="9" turnovers="3" steals="3" blocks="1" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="17" points="29"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Lakers" market="Los Angeles" id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" points="102">
+    <scoring>
+      <quarter number="1" sequence="1" points="19"/>
+      <quarter number="2" sequence="2" points="27"/>
+      <quarter number="3" sequence="3" points="31"/>
+      <quarter number="4" sequence="4" points="25"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Jodie Meeks" position="G" primary_position="SG" jersey_number="20" id="d6001098-cdde-46a5-85a3-f581ae471f9a">
+          <statistics minutes="31:02" field_goals_made="6" field_goals_att="15" field_goals_pct="40.0" three_points_made="3" three_points_att="4" three_points_pct="75.0" two_points_made="3" two_points_att="11" two_points_pct="0.273" blocked_att="2" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="2" defensive_rebounds="1" rebounds="3" assists="2" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-21" points="19"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kent Bazemore" position="G" primary_position="SG" jersey_number="6" id="2c157857-fffd-4eb5-8e2a-b28ebea8da77">
+          <statistics minutes="27:17" field_goals_made="7" field_goals_att="17" field_goals_pct="41.2" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="5" two_points_att="12" two_points_pct="0.417" blocked_att="1" free_throws_made="0" free_throws_att="1" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="7" rebounds="7" assists="1" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="0.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-19" points="16"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Ryan Kelly" position="F" primary_position="PF" jersey_number="4" id="2b93904c-7655-46fe-992e-66a6501edaac">
+          <statistics minutes="28:54" field_goals_made="4" field_goals_att="8" field_goals_pct="50.0" three_points_made="2" three_points_att="2" three_points_pct="100.0" two_points_made="2" two_points_att="6" two_points_pct="0.333" blocked_att="2" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="6" turnovers="1" steals="0" blocks="2" assists_turnover_ratio="6.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-12" points="12"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-14 04:36:16 +0000 -->

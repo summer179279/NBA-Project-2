@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:12:36 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2014-04-03T04:00:00+00:00" end_time="2014-04-04T03:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="00278ead-9420-47ba-a8c6-18e5c61d1492" full_name="A.J. Price" last_modified="2014-04-03T18:01:23+00:00"/>
+        <player id="047d0b63-4142-46e9-8f04-a61622ae2375" full_name="Seth Curry" last_modified="2014-04-03T13:53:17+00:00"/>
+        <player id="84a2f85a-083c-46aa-aa22-e3761023adc4" full_name="Damion James" last_modified="2014-04-04T02:39:46+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="55101edf-b7bc-4fb9-b9fe-2dea2ff7c44f" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-04-03T13:54:21+00:00"/>
+        <game id="74c28c42-4693-4947-8095-b1271b76526f" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-04-03T14:01:29+00:00"/>
+        <game id="96247efe-4e92-4eab-a8b1-24459b79f1fe" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-04-03T13:41:28+00:00"/>
+        <game id="9cdcda9b-f6fb-4cba-b6e4-0c2328390375" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-04-03T13:46:05+00:00"/>
+        <game id="be8ae120-6557-495e-bf4e-264515c0547c" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-04-04T02:49:39+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="0c97b796-91db-46ef-b974-1f05b14bc13d" last_modified="2014-04-04T15:17:09+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="be8ae120-6557-495e-bf4e-264515c0547c" last_modified="2014-04-04T02:49:39+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="55101edf-b7bc-4fb9-b9fe-2dea2ff7c44f"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="96247efe-4e92-4eab-a8b1-24459b79f1fe" last_modified="2014-04-03T05:05:38+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="74c28c42-4693-4947-8095-b1271b76526f"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="9cdcda9b-f6fb-4cba-b6e4-0c2328390375"/>
+      </results>
+    </games>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:12:36 +0000 -->

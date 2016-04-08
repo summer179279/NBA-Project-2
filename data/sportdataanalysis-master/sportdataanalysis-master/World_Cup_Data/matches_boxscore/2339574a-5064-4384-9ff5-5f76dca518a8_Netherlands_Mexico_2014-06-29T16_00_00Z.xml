@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:35:10Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="2339574a-5064-4384-9ff5-5f76dca518a8" status="closed" scratched="false" period="P2" scheduled="2014-06-29T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="26" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" loser_id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="2339574a-5064-4384-9ff5-5f76dca518a8" status="closed" number="1" home_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" away_id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" home_score="2" away_score="1"/>
+      </round>
+      <home id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" formation="4-3-1-2" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="105" ball_safe="92" corner_kicks="10" dangerous_attacks="51" fouls="8" free_kicks="12" goal_attempts="11" goal_kicks="11" offsides="1" saves="5" shots_total="11" substitutions="3" throw_ins="23" yellow_card="0" shots_on_target="5" shots_off_target="6" possessions="55"/>
+      </home>
+      <away id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team" formation="5-3-2" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="82" ball_safe="90" corner_kicks="2" dangerous_attacks="39" fouls="11" free_kicks="9" goal_attempts="11" goal_kicks="13" offsides="1" saves="3" shots_total="11" substitutions="3" throw_ins="16" yellow_card="3" shots_on_target="6" shots_off_target="5" possessions="45"/>
+      </away>
+      <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542"/>
+      <!-- 4768148/4705/4781 -->
+    </match>
+  </matches>
+</boxscore>

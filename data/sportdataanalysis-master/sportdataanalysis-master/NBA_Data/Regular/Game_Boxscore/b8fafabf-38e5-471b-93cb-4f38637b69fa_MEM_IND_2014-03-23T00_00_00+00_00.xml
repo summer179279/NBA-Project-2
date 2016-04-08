@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:30:44 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="b8fafabf-38e5-471b-93cb-4f38637b69fa" status="closed" coverage="full" home_team="583eca88-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-23T00:00:00+00:00" duration="2:05" attendance="18119" lead_changes="2" times_tied="0" clock="00:00" quarter="4">
+  <team name="Grizzlies" market="Memphis" id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" points="82">
+    <scoring>
+      <quarter number="1" sequence="1" points="19"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="21"/>
+      <quarter number="4" sequence="4" points="18"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Mike Conley" position="G" primary_position="PG" jersey_number="11" id="460b7264-b98f-483e-b841-59a18c2e4d67">
+          <statistics minutes="31:42" field_goals_made="9" field_goals_att="15" field_goals_pct="60.0" three_points_made="1" three_points_att="3" three_points_pct="33.3" two_points_made="8" two_points_att="12" two_points_pct="0.667" blocked_att="1" free_throws_made="2" free_throws_att="4" free_throws_pct="50.0" offensive_rebounds="0" defensive_rebounds="5" rebounds="5" assists="4" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="2.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="10" points="21"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Zach Randolph" position="F" primary_position="PF" jersey_number="50" id="f5987aa7-b7fd-4bd6-855d-fd6407324950">
+          <statistics minutes="35:36" field_goals_made="7" field_goals_att="18" field_goals_pct="38.9" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="18" two_points_pct="0.389" blocked_att="4" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="4" defensive_rebounds="9" rebounds="13" assists="1" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="11" points="18"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Mike Conley" position="G" primary_position="PG" jersey_number="11" id="460b7264-b98f-483e-b841-59a18c2e4d67">
+          <statistics minutes="31:42" field_goals_made="9" field_goals_att="15" field_goals_pct="60.0" three_points_made="1" three_points_att="3" three_points_pct="33.3" two_points_made="8" two_points_att="12" two_points_pct="0.667" blocked_att="1" free_throws_made="2" free_throws_att="4" free_throws_pct="50.0" offensive_rebounds="0" defensive_rebounds="5" rebounds="5" assists="4" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="2.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="10" points="21"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Pacers" market="Indiana" id="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" points="71">
+    <scoring>
+      <quarter number="1" sequence="1" points="17"/>
+      <quarter number="2" sequence="2" points="13"/>
+      <quarter number="3" sequence="3" points="19"/>
+      <quarter number="4" sequence="4" points="22"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Lance Stephenson" position="G" primary_position="SG" jersey_number="1" id="01e8f44f-f1ee-4d3a-86bd-c29d597ba9bd">
+          <statistics minutes="31:18" field_goals_made="6" field_goals_att="11" field_goals_pct="54.5" three_points_made="2" three_points_att="4" three_points_pct="50.0" two_points_made="4" two_points_att="7" two_points_pct="0.571" blocked_att="0" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="4" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-13" points="15"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Lance Stephenson" position="G" primary_position="SG" jersey_number="1" id="01e8f44f-f1ee-4d3a-86bd-c29d597ba9bd">
+          <statistics minutes="31:18" field_goals_made="6" field_goals_att="11" field_goals_pct="54.5" three_points_made="2" three_points_att="4" three_points_pct="50.0" two_points_made="4" two_points_att="7" two_points_pct="0.571" blocked_att="0" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="4" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-13" points="15"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="George Hill" position="G" primary_position="PG" jersey_number="3" id="6e566165-6674-4306-9994-470f60720a2c">
+          <statistics minutes="35:20" field_goals_made="2" field_goals_att="7" field_goals_pct="28.6" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="2" two_points_att="6" two_points_pct="0.333" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="2" rebounds="2" assists="5" turnovers="0" steals="0" blocks="1" assists_turnover_ratio="0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-15" points="4"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-05-14 16:30:49 +0000 -->

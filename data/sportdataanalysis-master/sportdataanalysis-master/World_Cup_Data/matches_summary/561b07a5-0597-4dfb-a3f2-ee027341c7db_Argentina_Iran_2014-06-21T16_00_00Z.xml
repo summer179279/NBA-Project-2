@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:37:48Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="561b07a5-0597-4dfb-a3f2-ee027341c7db" status="closed" scratched="false" period="P2" scheduled="2014-06-21T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F"/>
+      <round week="25" number="2" type="table"/>
+      <home id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="123" ball_safe="84" corner_kicks="10" dangerous_attacks="97" fouls="7" free_kicks="15" goal_attempts="16" goal_kicks="6" offsides="0" saves="3" shots_total="16" substitutions="3" throw_ins="26" yellow_card="0" shots_on_target="5" shots_off_target="11" possessions="70"/>
+        <players>
+          <player id="b5b3069b-1df6-4d10-be51-41e84067ae43" country_code="ARG" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Sergio" last_name="Aguero" country="Argentina" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="4f1ece83-f8fc-4c57-ab79-0cff09aebf88" country_code="ARG" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Federico" last_name="Fernandez" country="Argentina" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="66e83d67-9ccf-4d8b-aee1-4aa2c29db114" country_code="ARG" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Agustin" last_name="Orion" country="Argentina" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0345958c-46ed-40bf-8773-de1be386e09f" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Jose" last_name="Basanta" country="Argentina" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0b77f38d-6ec6-4d73-aaf2-bf2e046b7984" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Martin" last_name="Demichelis" country="Argentina" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5d951bd1-8e42-4bb0-96ca-0ac8a949b0ea" country_code="ARG" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Pablo" last_name="Zabaleta" country="Argentina" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b7adbc34-9f79-4049-8507-2d5d45d20151" country_code="ARG" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Ezequiel" last_name="Garay" country="Argentina" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="95593c5c-388a-4ce7-b55a-62f40c460227" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Enzo" last_name="Perez" country="Argentina" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab" country_code="ARG" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Marcos" last_name="Rojo" country="Argentina" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2c8919e1-0434-46f5-b3b4-1561c1735940" country_code="ARG" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Sergio" last_name="Romero" country="Argentina" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7353d6d6-e649-4bd4-af2e-7f98164fbe27" country_code="ARG" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Rodrigo Sebastian" last_name="Palacio" country="Argentina" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2" country_code="ARG" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Gonzalo" last_name="Higuain" country="Argentina" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="510e2de1-90a4-4874-b08f-5e92855730d3" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Hugo" last_name="Campagnaro" country="Argentina" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13409dae-ec11-496c-a3ed-033f8d2c0c55" country_code="ARG" position="M" started="false" tactical_position="6" tactical_order="8" first_name="Lucas" last_name="Biglia" country="Argentina" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="22291f86-10b1-4e7b-9dc5-345e18f49b8b" country_code="ARG" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Ezequiel" last_name="Lavezzi" country="Argentina" jersey_number="22">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4e25fe01-ec85-45ce-80e6-d0dc128ef300" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ricardo" last_name="Alvarez" country="Argentina" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ceca1fbe-ea2f-4a58-be64-0f51ad290033" country_code="ARG" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Javier" last_name="Mascherano" country="Argentina" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="160d2d49-2c27-4094-b600-e2627bdd6b4e" country_code="ARG" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Angel" last_name="Di Maria" country="Argentina" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="7eaac413-6c2e-4435-a30f-49d878b558cb" country_code="ARG" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mariano" last_name="Andujar" country="Argentina" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b84654c1-de9e-44b1-90e5-a61c88796651" country_code="ARG" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Lionel" last_name="Messi" country="Argentina" jersey_number="10">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d7764fea-7fb8-456f-8f0f-74995bad08a7" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Maxi" last_name="Rodriguez" country="Argentina" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8588a877-dbeb-493b-a91e-717783604eed" country_code="ARG" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Fernando" last_name="Gago" country="Argentina" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3e942b96-1ff3-46de-888c-752a1edb9b1d" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Augusto" last_name="Fernandez" country="Argentina" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="54" ball_safe="82" corner_kicks="6" dangerous_attacks="35" fouls="14" free_kicks="7" goal_attempts="5" goal_kicks="22" offsides="1" saves="4" shots_total="5" substitutions="3" throw_ins="18" yellow_card="2" shots_on_target="3" shots_off_target="2" possessions="30"/>
+        <players>
+          <player id="51822822-da83-4d46-b91d-d1d07f095116" country_code="IRN" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Masoud" last_name="Shojaei" country="Iran" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="54cd0aa0-65dd-450e-a40b-c9c277a1f211" country_code="IRN" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Jalal" last_name="Hosseini" country="Iran" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="da491bc1-1715-435c-9435-c437979264e9" country_code="IRN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Seyed Ahmad" last_name="Alenemeh" country="Iran" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ec67c19f-63b7-45cd-9a38-ff641d8b2187" country_code="IRN" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Pejman" last_name="Montazeri" country="Iran" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8b747cad-56a8-4750-8e5f-15f76f0a0d61" country_code="IRN" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Reza" last_name="Haghighi" country="Iran" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="964848d7-adb2-4077-bf3d-8a06e2d6a8cf" country_code="IRN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Bakhtiar" last_name="Rahmani" country="Iran" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="df94e8d8-7569-4888-a3ee-ad4590433904" country_code="IRN" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Rahman" last_name="Ahmadi" country="Iran" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0fe0ef23-0bde-4b81-8384-b6a2ef0f8123" country_code="IRN" position="D" started="false" tactical_position="8" tactical_order="9" first_name="Khosro" last_name="Heydari" country="Iran" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="62c5fc6d-deb2-4247-a68e-e354fdd4ad31" country_code="IRN" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Mehrdad" last_name="Pooladi" country="Iran" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8a036add-ef5e-481c-ae16-740ae64c362b" country_code="IRN" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Amir Hossein" last_name="Sadeghi" country="Iran" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="08c972c8-6bda-4f54-ad5b-4767a5547750" country_code="IRN" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Javad" last_name="Nekounam" country="Iran" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="78360dd8-3621-4e90-92cb-7428b8652a4f" country_code="IRN" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Reza" last_name="Ghoochannejhad" country="Iran" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b8f9325c-ad0c-4944-b468-1538d90b2107" country_code="IRN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Steven" last_name="Beitashour" country="Iran" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="70304e90-895e-4193-b692-6b1f92950fbf" country_code="IRN" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Alireza" last_name="Haghighi" country="Iran" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7555ab0d-f985-4e68-bc9f-8708b5802fce" country_code="IRN" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Andranik" last_name="Timotian" country="Iran" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="00214766-9e73-4f71-a307-d043d70e8f24" country_code="IRN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Hashem" last_name="Beikzadeh" country="Iran" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2d7f277b-2c2e-404a-a5a0-cb1af2b78233" country_code="IRN" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Karim" last_name="Ansari Fard" country="Iran" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0a6250df-5c90-4aa4-9595-bea1a56dfe51" country_code="IRN" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Daniel" last_name="Davari" country="Iran" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3e1c5f28-cc48-4660-a2bf-e233c63e87c2" country_code="IRN" position="F" started="false" tactical_position="5" tactical_order="8" first_name="Alireza" last_name="Jahan Bakhsh" country="Iran" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="af5c684d-8eb1-45cc-98dc-ff67d138be2b" country_code="IRN" position="D" started="true" tactical_position="7" tactical_order="10" first_name="Ehsan" last_name="Haji Safi" country="Iran" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1cafef86-5390-4f79-a2f1-795d6c30b0bf" country_code="IRN" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Ashkan" last_name="Dejagah" country="Iran" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="95c347a6-2fe1-4b15-bbc1-02adf4575fb7" country_code="IRN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ghasem" last_name="Hadadifar" country="Iran" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cca1394-3ad9-4619-995e-661359aa69a4" country_code="IRN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Hossein" last_name="Mahini" country="Iran" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385"/>
+      <facts>
+        <fact id="f7d06d11-48f8-460e-ae54-36139837d5da" type="match_started" time="2014-06-21T16:00:18Z" updated_time="2014-06-21T16:00:18Z" scratch="false" clock="1" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>The first-half is just kicking off.</description>
+        </fact>
+        <fact id="283812dd-64a4-42b6-b932-7133c7b006d2" type="period_started" time="2014-06-21T16:00:18Z" updated_time="2014-06-21T16:00:18Z" scratch="false" period="P1"/>
+        <fact id="70b457f4-b4f1-4618-8ef7-4616932fa115" type="free_kick" time="2014-06-21T16:00:27Z" updated_time="2014-06-21T16:00:27Z" scratch="false" x="27" y="13" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="a32679a3-af07-4d9d-8ac0-f96dff06bdbb" type="free_kick" time="2014-06-21T16:01:05Z" updated_time="2014-06-21T16:01:05Z" scratch="false" x="61" y="64" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="f497ff52-6c99-412e-bac4-4214ad65ce5f" type="throwin" time="2014-06-21T16:01:43Z" updated_time="2014-06-21T16:01:43Z" scratch="false" x="38" y="1" clock="1" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="1f88b4b9-435b-4635-ac28-aee7321e0643" type="game_resumed" time="2014-06-21T16:02:05Z" updated_time="2014-06-21T16:02:05Z" scratch="false" clock="1">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="3d45db41-72ea-4c11-9ba9-df18bf3f4e47" type="throwin" time="2014-06-21T16:02:11Z" updated_time="2014-06-21T16:02:11Z" scratch="false" x="69" y="1" clock="1" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran in their own half.</description>
+        </fact>
+        <fact id="f9691717-a3b9-457b-a099-50690b994814" type="injury_return" time="2014-06-21T16:02:15Z" updated_time="2014-06-21T16:02:15Z" scratch="false" clock="1" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Angel Di Maria is back on the pitch.</description>
+        </fact>
+        <fact id="141d703c-777d-405a-8596-c697310fb31f" type="injury" time="2014-06-21T16:01:53Z" updated_time="2014-06-21T16:01:53Z" scratch="false" x="38" y="1" clock="2" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Attention is being given to Argentina’s Angel Di Maria and play has been suspended briefly.</description>
+        </fact>
+        <fact id="70908b35-6042-497c-8220-7421d71bea6e" type="throwin" time="2014-06-21T16:02:30Z" updated_time="2014-06-21T16:02:30Z" scratch="false" x="40" y="0" clock="2" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a84cc135-5593-4149-a332-582d51253eb6" type="free_kick" time="2014-06-21T16:03:32Z" updated_time="2014-06-21T16:03:32Z" scratch="false" x="29" y="78" clock="3" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="c6bedd91-c858-472a-ad77-266ca2cfb0e3" type="goal_kick" time="2014-06-21T16:04:13Z" updated_time="2014-06-21T16:04:13Z" scratch="false" x="5" y="50" clock="3" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball goes out of play for a Argentina goal kick.</description>
+        </fact>
+        <fact id="1bfc163f-e6a5-4eb6-87f4-53d8d7681a10" type="throwin" time="2014-06-21T16:04:44Z" updated_time="2014-06-21T16:04:44Z" scratch="false" x="84" y="99" clock="4" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have a dangerous throw-in.</description>
+        </fact>
+        <fact id="9aade81f-94f6-4cab-90ed-5569444276a3" type="throwin" time="2014-06-21T16:04:59Z" updated_time="2014-06-21T16:04:59Z" scratch="false" x="60" y="99" clock="4" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Iran territory.</description>
+        </fact>
+        <fact id="0d803ac7-8f71-4443-bdb1-d8a668fd837b" type="goal_kick" time="2014-06-21T16:05:35Z" updated_time="2014-06-21T16:05:35Z" scratch="false" x="95" y="50" clock="5" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have a goal kick.</description>
+        </fact>
+        <fact id="563e0715-e091-4bc1-b18a-0015597580e8" type="throwin" time="2014-06-21T16:06:04Z" updated_time="2014-06-21T16:06:04Z" scratch="false" x="47" y="100" clock="5" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina at Mineirao Stadium.</description>
+        </fact>
+        <fact id="91e9819a-e7cb-4d9e-b756-e6318a517f0a" type="goal_kick" time="2014-06-21T16:06:23Z" updated_time="2014-06-21T16:06:23Z" scratch="false" x="95" y="50" clock="6" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="534398ca-a789-40fa-a21b-c379ee95ddcc" type="throwin" time="2014-06-21T16:06:50Z" updated_time="2014-06-21T16:06:50Z" scratch="false" x="65" y="0" clock="6" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball safe as Iran is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="70993b47-2aee-4332-9f58-65c30bebe799" type="free_kick" time="2014-06-21T16:07:00Z" updated_time="2014-06-21T16:07:00Z" scratch="false" x="32" y="17" clock="6" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b2a1b69f-fbdf-430e-a12f-5900b0927c12" type="throwin" time="2014-06-21T16:08:15Z" updated_time="2014-06-21T16:08:15Z" scratch="false" x="82" y="0" clock="7" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="9f1e4d55-ed9a-47de-9345-07585526f8e1" type="free_kick" time="2014-06-21T16:08:33Z" updated_time="2014-06-21T16:08:33Z" scratch="false" x="62" y="26" clock="8" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="b9306e52-572b-483a-8c69-b9bd74e3cddb" type="goal_kick" time="2014-06-21T16:09:23Z" updated_time="2014-06-21T16:09:23Z" scratch="false" x="95" y="50" clock="9" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic awards Iran a goal kick.</description>
+        </fact>
+        <fact id="07ef82e0-80d5-489e-80fb-233075917c28" type="throwin" time="2014-06-21T16:11:14Z" updated_time="2014-06-21T16:11:14Z" scratch="false" x="74" y="99" clock="10" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Iran's half?</description>
+        </fact>
+        <fact id="7c192848-976c-4dde-b3c8-bc489579f4c3" type="shot_blocked" time="2014-06-21T16:11:10Z" updated_time="2014-06-21T16:11:10Z" scratch="false" x="83" y="62" clock="11" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Important block from the Iran defence as Lionel Messi fires in a strike for Argentina.</description>
+        </fact>
+        <fact id="9b64bb60-9149-45d6-a065-2ef5b753b123" type="goal_kick" time="2014-06-21T16:12:07Z" updated_time="2014-06-21T16:12:07Z" scratch="false" x="95" y="50" clock="11" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic awards Iran a goal kick.</description>
+        </fact>
+        <fact id="dc55b6b7-b8cd-4854-8f80-dffc4db033dc" type="goal_kick" time="2014-06-21T16:12:43Z" updated_time="2014-06-21T16:12:43Z" scratch="false" x="5" y="50" clock="12" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have a goal kick.</description>
+        </fact>
+        <fact id="a5113ad6-fdc2-4699-ba97-27660dfa4ec1" type="shot_on_target" time="2014-06-21T16:13:17Z" updated_time="2014-06-21T16:13:22Z" scratch="false" x="89" y="53" clock="13" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>In Belo Horizonte Argentina drive forward through Gonzalo Higuain. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="f7308d5c-b948-4e3d-b47f-7d8c06500f61" type="keeper_save" time="2014-06-21T16:13:18Z" updated_time="2014-06-21T16:13:18Z" scratch="false" x="89" y="53" clock="13" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="b35a47b7-0925-40a4-b7ae-efea2440f381" type="injury" time="2014-06-21T16:13:52Z" updated_time="2014-06-21T16:13:52Z" scratch="false" x="89" y="53" clock="14" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="70304e90-895e-4193-b692-6b1f92950fbf">
+          <description>Alireza Haghighi is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="0d303d96-15fb-4dcc-a0f5-0fd95dd661b9" type="game_resumed" time="2014-06-21T16:15:07Z" updated_time="2014-06-21T16:15:07Z" scratch="false" clock="14">
+          <description>The match at Mineirao Stadium is underway again.</description>
+        </fact>
+        <fact id="5e5c0b0c-9d27-420a-ba3c-88a867860921" type="injury_return" time="2014-06-21T16:15:09Z" updated_time="2014-06-21T16:15:09Z" scratch="false" clock="14" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="70304e90-895e-4193-b692-6b1f92950fbf">
+          <description>Iran's Alireza Haghighi is back in action after a slight knock.</description>
+        </fact>
+        <fact id="e7052dc0-311a-48e8-b301-5855328edd92" type="throwin" time="2014-06-21T16:15:13Z" updated_time="2014-06-21T16:15:13Z" scratch="false" x="55" y="99" clock="14" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a Argentina throw-in in Iran's half.</description>
+        </fact>
+        <fact id="325f02df-fd2c-4285-9022-def68a0ccd93" type="throwin" time="2014-06-21T16:15:22Z" updated_time="2014-06-21T16:16:05Z" scratch="false" x="51" y="2" clock="15" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Can Iran get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="b93c2c77-0750-492f-835d-f109384b91d4" type="throwin" time="2014-06-21T16:16:34Z" updated_time="2014-06-21T16:16:34Z" scratch="false" x="16" y="0" clock="16" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran close to the penalty box.</description>
+        </fact>
+        <fact id="bce053ad-aca0-4dc0-998c-6276713b57df" type="corner_kick" time="2014-06-21T16:17:44Z" updated_time="2014-06-21T16:17:44Z" scratch="false" x="5" y="5" clock="17" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="e655e571-9b0a-48f2-aa38-e88a7a48f564" type="shot_off_target" time="2014-06-21T16:19:13Z" updated_time="2014-06-21T16:19:13Z" scratch="false" x="82" y="54" clock="19" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Angel Di Maria for Argentina gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="df698dca-6ada-4baa-bcaa-d01e8b23b1d3" type="goal_kick" time="2014-06-21T16:19:13Z" updated_time="2014-06-21T16:19:13Z" scratch="false" x="95" y="50" clock="19" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="8de61115-e2d2-4802-a05c-b7560ae1ba83" type="throwin" time="2014-06-21T16:20:23Z" updated_time="2014-06-21T16:20:23Z" scratch="false" x="54" y="99" clock="20" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a Argentina throw-in in Iran's half.</description>
+        </fact>
+        <fact id="a8ca90de-8f59-41c0-b5ce-7ed225c769f8" type="throwin" time="2014-06-21T16:20:52Z" updated_time="2014-06-21T16:20:52Z" scratch="false" x="75" y="98" clock="20" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Iran territory.</description>
+        </fact>
+        <fact id="f0469638-ae4f-43cb-b385-2ed5cc33a99d" type="throwin" time="2014-06-21T16:20:57Z" updated_time="2014-06-21T16:20:57Z" scratch="false" x="81" y="99" clock="20" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina capitalize from this throw-in deep inside Iran's half?</description>
+        </fact>
+        <fact id="4ef5aa98-7293-4e65-be2d-51abd3296651" type="throwin" time="2014-06-21T16:21:11Z" updated_time="2014-06-21T16:21:11Z" scratch="false" x="82" y="1" clock="20" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Iran needs to be cautious. Argentina have an attacking throw-in.</description>
+        </fact>
+        <fact id="bcd2cf7c-ddaf-4216-b07e-f0217701207a" type="keeper_save" time="2014-06-21T16:21:50Z" updated_time="2014-06-21T16:21:50Z" scratch="false" x="90" y="39" clock="21" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="3c1df2b7-4ce9-4840-8a3e-7699b9d046b1" type="shot_on_target" time="2014-06-21T16:21:50Z" updated_time="2014-06-21T16:21:50Z" scratch="false" x="90" y="39" clock="22" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b5b3069b-1df6-4d10-be51-41e84067ae43">
+          <description>Sergio Aguero of Argentina smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="e78246b5-4790-4faa-9635-81ddc971de8a" type="corner_kick" time="2014-06-21T16:23:38Z" updated_time="2014-06-21T16:23:38Z" scratch="false" x="95" y="5" clock="24" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="1ce62a9c-f652-458e-b37b-7c7daadce896" type="shot_off_target" time="2014-06-21T16:23:56Z" updated_time="2014-06-21T16:23:56Z" scratch="false" x="94" y="53" clock="24" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab">
+          <description>Argentina attack but Marcos Rojo's header doesn't find the target.</description>
+        </fact>
+        <fact id="024262e6-3530-42c6-a91f-67e5e4047ba8" type="goal_kick" time="2014-06-21T16:23:56Z" updated_time="2014-06-21T16:23:56Z" scratch="false" x="95" y="50" clock="24" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="dcb4d09e-985f-4f74-a168-189281de1de2" type="throwin" time="2014-06-21T16:24:35Z" updated_time="2014-06-21T16:24:35Z" scratch="false" x="45" y="1" clock="24" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="2bd73a44-4b90-430e-ad21-85445801b6fc" type="goal_kick" time="2014-06-21T16:24:57Z" updated_time="2014-06-21T16:24:57Z" scratch="false" x="95" y="50" clock="24" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic awards Iran a goal kick.</description>
+        </fact>
+        <fact id="7a355781-3e0c-4730-b49a-35108e632007" type="shot_blocked" time="2014-06-21T16:26:11Z" updated_time="2014-06-21T16:26:11Z" scratch="false" x="89" y="34" clock="26" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina drive upfield and Angel Di Maria gets in a shot. The strike is blocked by a Iran defender.</description>
+        </fact>
+        <fact id="2bb70907-534a-443f-928c-7ef40170b698" type="corner_kick" time="2014-06-21T16:26:31Z" updated_time="2014-06-21T16:26:31Z" scratch="false" x="95" y="5" clock="26" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="9f8ec904-76de-4935-92d7-69fdcb5be685" type="shot_off_target" time="2014-06-21T16:26:41Z" updated_time="2014-06-21T16:26:52Z" scratch="false" x="90" y="44" clock="27" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b7adbc34-9f79-4049-8507-2d5d45d20151">
+          <description>Ezequiel Garay (Argentina) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="93045dfe-c6b7-41f9-813e-fdb0839c6c1d" type="goal_kick" time="2014-06-21T16:26:41Z" updated_time="2014-06-21T16:26:41Z" scratch="false" x="95" y="50" clock="27" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="5da0f8ab-e1df-424b-aa6a-51a5876a64e5" type="throwin" time="2014-06-21T16:27:51Z" updated_time="2014-06-21T16:27:51Z" scratch="false" x="33" y="1" clock="27" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="3322f6bc-b52b-4a7b-ad9a-b868f56c900f" type="throwin" time="2014-06-21T16:28:40Z" updated_time="2014-06-21T16:28:40Z" scratch="false" x="72" y="100" clock="28" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Iran territory.</description>
+        </fact>
+        <fact id="bd93ebd5-1412-4a51-82cf-986f441f0f58" type="goal_kick" time="2014-06-21T16:29:17Z" updated_time="2014-06-21T16:29:17Z" scratch="false" x="95" y="50" clock="28" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="1fb26a71-ae46-443c-ae1c-a2d2cde2b5da" type="shot_blocked" time="2014-06-21T16:29:55Z" updated_time="2014-06-21T16:29:55Z" scratch="false" x="82" y="57" clock="30" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Lionel Messi (Argentina) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="6896a44b-c026-496d-90d5-179b9a2e044b" type="free_kick" time="2014-06-21T16:31:05Z" updated_time="2014-06-21T16:31:05Z" scratch="false" x="82" y="45" clock="30" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina capitalize from this dangerous free kick?</description>
+        </fact>
+        <fact id="8e512e8f-4a89-45ed-a413-4cb41cf52601" type="free_kick" time="2014-06-21T16:33:04Z" updated_time="2014-06-21T16:33:04Z" scratch="false" x="36" y="69" clock="32" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="bacfb5df-c958-4150-ad74-46259edee66e" type="shot_off_target" time="2014-06-21T16:32:31Z" updated_time="2014-06-21T16:32:31Z" scratch="false" x="82" y="45" clock="33" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Argentina's Lionel Messi gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="80b823ea-ce25-4f17-bcf8-708caeabdf39" type="goal_kick" time="2014-06-21T16:32:31Z" updated_time="2014-06-21T16:32:31Z" scratch="false" x="95" y="50" clock="33" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have a goal kick.</description>
+        </fact>
+        <fact id="728b7188-fab4-4aa7-976d-748948e4af88" type="free_kick" time="2014-06-21T16:33:52Z" updated_time="2014-06-21T16:33:52Z" scratch="false" x="18" y="62" clock="33" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="932fc497-d6df-42cb-bc9e-7c7b69204126" type="free_kick" time="2014-06-21T16:35:19Z" updated_time="2014-06-21T16:35:19Z" scratch="false" x="81" y="26" clock="35" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="7e6617a0-2a36-4a39-a4c4-398e960b8cfc" type="shot_off_target" time="2014-06-21T16:36:21Z" updated_time="2014-06-21T16:36:42Z" scratch="false" x="93" y="57" clock="36" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b7adbc34-9f79-4049-8507-2d5d45d20151">
+          <description>In Belo Horizonte, Ezequiel Garay (Argentina) misses the target with a header.</description>
+        </fact>
+        <fact id="08f51029-fb4e-4d75-bfff-fb3d1033239b" type="goal_kick" time="2014-06-21T16:36:22Z" updated_time="2014-06-21T16:36:22Z" scratch="false" x="95" y="50" clock="36" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have a goal kick.</description>
+        </fact>
+        <fact id="a4ef98a3-677e-4653-ab6e-73a394b836a6" type="free_kick" time="2014-06-21T16:37:30Z" updated_time="2014-06-21T16:37:30Z" scratch="false" x="76" y="58" clock="37" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic signals a free kick to Iran in their own half.</description>
+        </fact>
+        <fact id="ee77f427-8c65-4014-837d-865fa8518b2b" type="throwin" time="2014-06-21T16:39:01Z" updated_time="2014-06-21T16:39:01Z" scratch="false" x="78" y="99" clock="38" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a Argentina throw-in in Iran's half.</description>
+        </fact>
+        <fact id="e8bc9fc1-fa1c-4b51-9137-ec20f76c8d6a" type="free_kick" time="2014-06-21T16:40:42Z" updated_time="2014-06-21T16:40:42Z" scratch="false" x="38" y="73" clock="40" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic signals a free kick to Iran.</description>
+        </fact>
+        <fact id="fd9cb154-81d5-4cc5-937b-1fb5d1e90368" type="corner_kick" time="2014-06-21T16:41:38Z" updated_time="2014-06-21T16:41:38Z" scratch="false" x="5" y="5" clock="41" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="b90fa9fc-cfe5-458c-9a70-21d6372a3983" type="shot_off_target" time="2014-06-21T16:41:46Z" updated_time="2014-06-21T16:41:46Z" scratch="false" x="10" y="38" clock="42" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="54cd0aa0-65dd-450e-a40b-c9c277a1f211">
+          <description>Iran surge into the attack at Mineirao Stadium but Jalal Hosseini’s header is off-target.</description>
+        </fact>
+        <fact id="e31c78e4-28d7-42ae-af45-0d920d6e46dd" type="goal_kick" time="2014-06-21T16:41:46Z" updated_time="2014-06-21T16:41:46Z" scratch="false" x="5" y="50" clock="42" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic awards Argentina a goal kick.</description>
+        </fact>
+        <fact id="7f9fd93a-e654-49da-86e3-68cacfa9a85c" type="throwin" time="2014-06-21T16:42:35Z" updated_time="2014-06-21T16:42:35Z" scratch="false" x="48" y="1" clock="42" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="a72376c7-af78-4c0e-bbef-8d87cb6b057e" type="corner_kick" time="2014-06-21T16:44:47Z" updated_time="2014-06-21T16:44:47Z" scratch="false" x="95" y="5" clock="45" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="13888966-2253-4d85-81f0-46a010288e41" type="shot_off_target" time="2014-06-21T16:44:54Z" updated_time="2014-06-21T16:44:54Z" scratch="false" x="90" y="51" clock="45" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="4f1ece83-f8fc-4c57-ab79-0cff09aebf88">
+          <description>Federico Fernandez (Argentina) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="9f276462-6e4e-476e-84f5-9f7d8bb5b73f" type="goal_kick" time="2014-06-21T16:44:54Z" updated_time="2014-06-21T16:44:54Z" scratch="false" x="95" y="50" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="1c947156-6e36-4a34-8fca-c36bc23fa0b0" type="throwin" time="2014-06-21T16:45:36Z" updated_time="2014-06-21T16:45:36Z" scratch="false" x="77" y="1" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran in their own half.</description>
+        </fact>
+        <fact id="ac624327-ff81-47ec-866d-5880f5a2145c" type="throwin" time="2014-06-21T16:45:53Z" updated_time="2014-06-21T16:45:53Z" scratch="false" x="54" y="0" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="48aba301-9c67-4420-958b-2ce64a2cd201" type="shot_off_target" time="2014-06-21T16:47:22Z" updated_time="2014-06-21T16:47:32Z" scratch="false" x="27" y="52" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="af5c684d-8eb1-45cc-98dc-ff67d138be2b">
+          <description>Iran's Ehsan Haji Safi misses with an attempt on goal.</description>
+        </fact>
+        <fact id="407b7aa7-fc28-4aae-880f-79c4b8701506" type="injury_time" time="2014-06-21T16:45:34Z" updated_time="2014-06-21T16:45:34Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>The first half is prolonged by 2 minutes of added time.</description>
+        </fact>
+        <fact id="f8785813-966f-4d94-a81d-276b91ba6b7d" type="free_kick" time="2014-06-21T16:46:36Z" updated_time="2014-06-21T16:46:36Z" scratch="false" x="26" y="77" clock="45" injury_time="1" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="0aee3c29-9a4c-47ae-98ca-97f1f1704895" type="goal_kick" time="2014-06-21T16:47:22Z" updated_time="2014-06-21T16:47:22Z" scratch="false" x="5" y="50" clock="45" injury_time="2" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Goal kick for Argentina at Mineirao Stadium.</description>
+        </fact>
+        <fact id="33fff54c-22a1-44bb-a6c9-be4528565d4e" type="period_over" time="2014-06-21T16:47:28Z" updated_time="2014-06-21T16:47:28Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The first-half has ended.</description>
+        </fact>
+        <fact id="0c3757f7-0f52-4f47-a61f-9f79ea7bf588" type="period_started" time="2014-06-21T16:47:28Z" updated_time="2014-06-21T16:47:28Z" scratch="false" period="H"/>
+        <fact id="0580158c-08d9-4094-870f-5f432fd8d9ad" type="period_started" time="2014-06-21T17:03:39Z" updated_time="2014-06-21T17:03:39Z" scratch="false" period="P2"/>
+        <fact id="15075f2a-2d8f-4ecd-9778-617b2e8f976f" type="throwin" time="2014-06-21T17:04:49Z" updated_time="2014-06-21T17:04:49Z" scratch="false" x="82" y="100" clock="46" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a throw-in for Argentina, close to Iran's area.</description>
+        </fact>
+        <fact id="c46c2ea2-b1f1-4d12-8660-9aba3e5d1d93" type="throwin" time="2014-06-21T17:05:32Z" updated_time="2014-06-21T17:05:32Z" scratch="false" x="88" y="100" clock="46" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina close to the penalty box.</description>
+        </fact>
+        <fact id="799c6f1f-dbc6-4629-a5d8-087b7bb93f3c" type="corner_kick" time="2014-06-21T17:05:26Z" updated_time="2014-06-21T17:05:26Z" scratch="false" x="95" y="90" clock="47" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="5078f7cb-1ca6-42fd-a029-ce07f91a4b9c" type="goal_kick" time="2014-06-21T17:05:49Z" updated_time="2014-06-21T17:05:49Z" scratch="false" x="95" y="50" clock="47" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="82431eea-1c78-4178-993a-f2ced144da35" type="throwin" time="2014-06-21T17:07:29Z" updated_time="2014-06-21T17:07:29Z" scratch="false" x="11" y="2" clock="48" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="de1d7e30-dbd6-4c7d-be4c-dad269714c7d" type="shot_off_target" time="2014-06-21T17:08:20Z" updated_time="2014-06-21T17:08:24Z" scratch="false" x="86" y="71" clock="50" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="5d951bd1-8e42-4bb0-96ca-0ac8a949b0ea">
+          <description>Argentina are coming forward and Pablo Zabaleta gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="50e34626-a13c-47e1-b127-0265c7289658" type="goal_kick" time="2014-06-21T17:08:21Z" updated_time="2014-06-21T17:08:21Z" scratch="false" x="95" y="50" clock="50" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="bb8b1da4-91b6-4f52-b900-b323561cf2f7" type="throwin" time="2014-06-21T17:09:48Z" updated_time="2014-06-21T17:09:48Z" scratch="false" x="83" y="98" clock="51" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="fa819c5a-e15f-414e-8a81-610454f1c401" type="keeper_save" time="2014-06-21T17:10:44Z" updated_time="2014-06-21T17:10:44Z" scratch="false" x="8" y="57" clock="52" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="6583ef7e-6d56-4f6d-99cf-84ab0350a5d7" type="free_kick" time="2014-06-21T17:11:03Z" updated_time="2014-06-21T17:11:03Z" scratch="false" x="52" y="67" clock="52" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="225f08f0-fb07-4449-ae4e-69683aac771b" type="shot_on_target" time="2014-06-21T17:10:44Z" updated_time="2014-06-21T17:10:50Z" scratch="false" x="8" y="57" clock="53" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="78360dd8-3621-4e90-92cb-7428b8652a4f">
+          <description>Reza Ghoochannejhad (Iran) strikes at Mineirao Stadium but his header is cleared.</description>
+        </fact>
+        <fact id="1bed7bd6-bff0-4317-9266-6ee3f89b6145" type="card" time="2014-06-21T17:11:22Z" updated_time="2014-06-21T17:11:22Z" scratch="false" clock="53" card="Y" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="08c972c8-6bda-4f54-ad5b-4767a5547750">
+          <description>Javad Nekounam (Iran) has received a yellow card from Milorad Mazic.</description>
+        </fact>
+        <fact id="f3346249-7706-4612-90c4-f02dc7d35947" type="goal_kick" time="2014-06-21T17:12:53Z" updated_time="2014-06-21T17:12:53Z" scratch="false" x="5" y="50" clock="54" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have a goal kick.</description>
+        </fact>
+        <fact id="481fd5ca-808f-416e-8ac3-1ddc4df509e6" type="corner_kick" time="2014-06-21T17:13:37Z" updated_time="2014-06-21T17:13:37Z" scratch="false" x="95" y="90" clock="55" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="f13b5805-01b6-4ef1-a226-7c1a198db0d1" type="throwin" time="2014-06-21T17:14:33Z" updated_time="2014-06-21T17:14:33Z" scratch="false" x="46" y="99" clock="55" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="24f11801-b8d4-44d8-a8b0-d6da5cf42f41" type="shot_off_target" time="2014-06-21T17:13:46Z" updated_time="2014-06-21T17:13:46Z" scratch="false" x="91" y="59" clock="56" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="c5778d83-dfc9-442c-a7a4-d62f59ad4d37" type="goal_kick" time="2014-06-21T17:13:46Z" updated_time="2014-06-21T17:13:46Z" scratch="false" x="95" y="50" clock="56" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic awards Iran a goal kick.</description>
+        </fact>
+        <fact id="2dcd443d-ed74-4f51-8465-c8db674f2fb2" type="free_kick" time="2014-06-21T17:14:48Z" updated_time="2014-06-21T17:14:48Z" scratch="false" x="64" y="20" clock="56" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="9b8ac3fb-d7fe-48f7-8492-1f612ab8f5c7" type="throwin" time="2014-06-21T17:15:14Z" updated_time="2014-06-21T17:15:14Z" scratch="false" x="42" y="100" clock="56" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Can Iran get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="e2ca59de-895d-4e2e-a57c-4bb1d77c722c" type="offside" time="2014-06-21T17:15:47Z" updated_time="2014-06-21T17:15:52Z" scratch="false" x="11" y="85" clock="58" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="62c5fc6d-deb2-4247-a68e-e354fdd4ad31">
+          <description>Iran drive forward but Mehrdad Pooladi is judged offside.</description>
+        </fact>
+        <fact id="edd9c2d6-fe4f-41e2-a766-2b5df0bc92ee" type="throwin" time="2014-06-21T17:16:49Z" updated_time="2014-06-21T17:16:49Z" scratch="false" x="64" y="0" clock="58" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Iran's half?</description>
+        </fact>
+        <fact id="ab2b20f3-3936-4767-bfea-bdfe1cc0f51f" type="goal_kick" time="2014-06-21T17:17:03Z" updated_time="2014-06-21T17:17:03Z" scratch="false" x="95" y="50" clock="58" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="4eeeb9cc-dd54-47c5-9fad-d53e8114b151" type="shot_blocked" time="2014-06-21T17:16:47Z" updated_time="2014-06-21T17:16:47Z" scratch="false" x="82" y="30" clock="59" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>In Belo Horizonte, Angel Di Maria of Argentina is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="0966b905-d52f-4102-bceb-7e7c7418649a" type="goal_kick" time="2014-06-21T17:18:33Z" updated_time="2014-06-21T17:18:33Z" scratch="false" x="95" y="50" clock="59" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have a goal kick.</description>
+        </fact>
+        <fact id="df89574b-36ed-4927-b3f0-39f36eada50e" type="shot_off_target" time="2014-06-21T17:17:44Z" updated_time="2014-06-21T17:17:44Z" scratch="false" x="88" y="46" clock="60" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Argentina's Lionel Messi breaks free at Mineirao Stadium. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="abf9d56a-29b4-448c-8179-b8f4ec93c259" type="goal_kick" time="2014-06-21T17:17:44Z" updated_time="2014-06-21T17:17:44Z" scratch="false" x="95" y="50" clock="60" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic awards Iran a goal kick.</description>
+        </fact>
+        <fact id="a732e010-ecc5-41e9-ac46-1a0b800d3b65" type="throwin" time="2014-06-21T17:19:04Z" updated_time="2014-06-21T17:19:04Z" scratch="false" x="22" y="99" clock="60" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="ddc52daa-a06d-42c7-b0ad-562077d3922c" type="free_kick" time="2014-06-21T17:19:32Z" updated_time="2014-06-21T17:19:32Z" scratch="false" x="11" y="83" clock="60" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="b8052f90-0e38-49ed-a225-508518981a53" type="free_kick" time="2014-06-21T17:20:14Z" updated_time="2014-06-21T17:20:14Z" scratch="false" x="67" y="84" clock="61" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6ef57a45-de63-47c6-bdbc-0c7e98a25b78" type="throwin" time="2014-06-21T17:21:15Z" updated_time="2014-06-21T17:21:15Z" scratch="false" x="33" y="2" clock="62" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic signals a Iran throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="774bef97-9c44-480b-862b-bf568a3bee3f" type="throwin" time="2014-06-21T17:22:30Z" updated_time="2014-06-21T17:22:30Z" scratch="false" x="41" y="2" clock="63" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="fcbdf3df-020d-4e9d-916e-201262baeded" type="shot_blocked" time="2014-06-21T17:21:56Z" updated_time="2014-06-21T17:21:56Z" scratch="false" x="21" y="59" clock="64" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran's Ehsan Haji Safi gets in a shot but it is blocked by a Argentina defender.</description>
+        </fact>
+        <fact id="784d8ff2-4628-458c-b68d-f863d3ef22c9" type="corner_kick" time="2014-06-21T17:22:20Z" updated_time="2014-06-21T17:22:20Z" scratch="false" x="5" y="5" clock="64" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="48aeef61-6de3-4599-a53b-0d0dfc53b737" type="throwin" time="2014-06-21T17:23:11Z" updated_time="2014-06-21T17:23:11Z" scratch="false" x="36" y="2" clock="64" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Milorad Mazic signals a Iran throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="e261ad8f-c073-4877-bd1f-1b38809caad0" type="throwin" time="2014-06-21T17:23:39Z" updated_time="2014-06-21T17:23:39Z" scratch="false" x="21" y="2" clock="65" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Can Iran get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="ae7e40c7-e7ec-4f31-aca9-c1845935842e" type="corner_kick" time="2014-06-21T17:24:46Z" updated_time="2014-06-21T17:24:46Z" scratch="false" x="5" y="90" clock="66" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="c0bab16e-bdd9-4555-9028-8eb56f91e404" type="throwin" time="2014-06-21T17:25:04Z" updated_time="2014-06-21T17:25:04Z" scratch="false" x="58" y="2" clock="66" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in Iran.</description>
+        </fact>
+        <fact id="4ce1c670-ef2d-4352-8292-3b4540531a57" type="keeper_save" time="2014-06-21T17:25:30Z" updated_time="2014-06-21T17:25:30Z" scratch="false" x="11" y="55" clock="66" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="4fd1d9e3-4540-4bf1-bd5a-a66b68d0ac14" type="shot_on_target" time="2014-06-21T17:25:30Z" updated_time="2014-06-21T17:25:35Z" scratch="false" x="11" y="55" clock="67" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="1cafef86-5390-4f79-a2f1-795d6c30b0bf">
+          <description>Iran push forward at Mineirao Stadium and Ashkan Dejagah gets in a great header. The attempt is cleared by the Argentina defence.</description>
+        </fact>
+        <fact id="acf033a7-7194-4610-97a5-15cdf8ea30cb" type="corner_kick" time="2014-06-21T17:26:03Z" updated_time="2014-06-21T17:26:03Z" scratch="false" x="5" y="5" clock="68" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="60924774-69a2-46ed-8eeb-f60ea398968c" type="throwin" time="2014-06-21T17:26:44Z" updated_time="2014-06-21T17:26:44Z" scratch="false" x="71" y="99" clock="68" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Iran's half?</description>
+        </fact>
+        <fact id="2c98c9f0-ea97-4e07-bd68-ea5a040d8039" type="corner_kick" time="2014-06-21T17:27:09Z" updated_time="2014-06-21T17:27:09Z" scratch="false" x="95" y="90" clock="69" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="62f3f31c-2ed0-4b59-830e-ed19da0390bf" type="throwin" time="2014-06-21T17:27:46Z" updated_time="2014-06-21T17:27:46Z" scratch="false" x="39" y="1" clock="69" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="8115fd0e-2cdc-4731-a4e2-09bdac6bad51" type="goal_kick" time="2014-06-21T17:28:36Z" updated_time="2014-06-21T17:28:36Z" scratch="false" x="95" y="50" clock="69" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="f8e15a26-23b5-43aa-9d86-fe3ddba417aa" type="corner_kick" time="2014-06-21T17:30:00Z" updated_time="2014-06-21T17:30:00Z" scratch="false" x="5" y="5" clock="71" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="b7896b45-f04d-4363-a9b1-1dc005ec76cf" type="free_kick" time="2014-06-21T17:30:08Z" updated_time="2014-06-21T17:30:08Z" scratch="false" x="5" y="62" clock="71" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="a38e6717-1a20-4fb9-be8e-d208b4bbe932" type="free_kick" time="2014-06-21T17:30:39Z" updated_time="2014-06-21T17:30:39Z" scratch="false" x="81" y="31" clock="72" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick in a good position for Argentina!</description>
+        </fact>
+        <fact id="2b79286f-ee65-4d36-992c-c63ef3468bad" type="card" time="2014-06-21T17:30:48Z" updated_time="2014-06-21T17:30:48Z" scratch="false" clock="73" card="Y" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="51822822-da83-4d46-b91d-d1d07f095116">
+          <description>Masoud Shojaei for Iran has been booked by Milorad Mazic and receives a first yellow card.</description>
+        </fact>
+        <fact id="3b6b1986-4ae9-475e-80f4-ad8bd20758cc" type="throwin" time="2014-06-21T17:32:29Z" updated_time="2014-06-21T17:32:29Z" scratch="false" x="67" y="1" clock="73" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a Argentina throw-in in Iran's half.</description>
+        </fact>
+        <fact id="03138de0-fc36-4f89-bdec-11ad8ea52b9b" type="shot_off_target" time="2014-06-21T17:31:55Z" updated_time="2014-06-21T17:31:55Z" scratch="false" x="81" y="31" clock="74" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>In Belo Horizonte Argentina attack through Lionel Messi. The finish is off target, however.</description>
+        </fact>
+        <fact id="7f66cc5c-8056-4db8-a83a-4fce13c17f88" type="goal_kick" time="2014-06-21T17:31:55Z" updated_time="2014-06-21T17:31:55Z" scratch="false" x="95" y="50" clock="74" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="e428940b-e0a0-4a26-8f98-e35ad834f7b3" type="keeper_save" time="2014-06-21T17:32:59Z" updated_time="2014-06-21T17:32:59Z" scratch="false" x="89" y="35" clock="74" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="0d62a4ce-e8ce-469d-8864-e0942f84a7e2" type="throwin" time="2014-06-21T17:33:03Z" updated_time="2014-06-21T17:33:03Z" scratch="false" x="61" y="0" clock="74" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Iran territory.</description>
+        </fact>
+        <fact id="010ac33b-73bf-4643-801c-0051bbd37332" type="shot_on_target" time="2014-06-21T17:32:58Z" updated_time="2014-06-21T17:32:58Z" scratch="false" x="89" y="35" clock="75" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Angel Di Maria gets his shot on target but fails to score for Argentina.</description>
+        </fact>
+        <fact id="8ef92dea-ab4e-45a0-a9cd-5c354af7360a" type="injury" time="2014-06-21T17:33:18Z" updated_time="2014-06-21T17:33:18Z" scratch="false" x="61" y="0" clock="75" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="7555ab0d-f985-4e68-bc9f-8708b5802fce">
+          <description>The match has been stopped briefly for attention to the injured Andranik Timotian.</description>
+        </fact>
+        <fact id="87809286-6d79-4e42-a00b-5f529e7cd565" type="substitution" time="2014-06-21T17:34:41Z" updated_time="2014-06-21T17:34:41Z" scratch="false" clock="76" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_out_id="51822822-da83-4d46-b91d-d1d07f095116" player_in_id="0fe0ef23-0bde-4b81-8384-b6a2ef0f8123">
+          <description>Khosro Heydari is replacing Masoud Shojaei for Iran at Mineirao Stadium.</description>
+        </fact>
+        <fact id="6ffa5158-6476-40e2-86e9-cd2f8538f84e" type="game_resumed" time="2014-06-21T17:35:10Z" updated_time="2014-06-21T17:35:10Z" scratch="false" clock="76">
+          <description>The match in Belo Horizonte is underway once more.</description>
+        </fact>
+        <fact id="a097794c-4fc9-454d-8934-bad42148b57a" type="injury_return" time="2014-06-21T17:35:22Z" updated_time="2014-06-21T17:35:22Z" scratch="false" clock="76" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="7555ab0d-f985-4e68-bc9f-8708b5802fce">
+          <description>Andranik Timotian has recovered and rejoins the match in Belo Horizonte.</description>
+        </fact>
+        <fact id="3aa5016a-24c4-4061-b293-cee6508e0af7" type="substitution" time="2014-06-21T17:34:52Z" updated_time="2014-06-21T17:34:52Z" scratch="false" clock="77" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="b5b3069b-1df6-4d10-be51-41e84067ae43" player_in_id="22291f86-10b1-4e7b-9dc5-345e18f49b8b">
+          <description>Argentina make their first substitution with Ezequiel Lavezzi replacing Sergio Aguero.</description>
+        </fact>
+        <fact id="ab12161f-243f-44fe-b07f-22acffe3604f" type="substitution" time="2014-06-21T17:35:07Z" updated_time="2014-06-21T17:35:07Z" scratch="false" clock="77" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2" player_in_id="7353d6d6-e649-4bd4-af2e-7f98164fbe27">
+          <description>Rodrigo Sebastian Palacio is on a sub for Gonzalo Higuain for Argentina.</description>
+        </fact>
+        <fact id="09f2c4ed-5b0f-45dd-89cd-f04aee22c018" type="corner_kick" time="2014-06-21T17:38:36Z" updated_time="2014-06-21T17:38:36Z" scratch="false" x="95" y="5" clock="80" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="e3edffb0-e3a0-4e6d-a8e0-0bdf6367f4db" type="corner_kick" time="2014-06-21T17:40:11Z" updated_time="2014-06-21T17:40:11Z" scratch="false" x="95" y="90" clock="82" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="d4ff8ff8-131b-4c2c-aec5-22854cbc67fe" type="shot_off_target" time="2014-06-21T17:40:37Z" updated_time="2014-06-21T17:40:41Z" scratch="false" x="80" y="72" clock="82" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab">
+          <description>Marcos Rojo of Argentina gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="9353be32-23a7-4a94-bf0b-5d1e4a14315f" type="goal_kick" time="2014-06-21T17:40:37Z" updated_time="2014-06-21T17:40:37Z" scratch="false" x="95" y="50" clock="82" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have a goal kick.</description>
+        </fact>
+        <fact id="c46673bd-6e40-403c-8ae3-5c72a10ed7c3" type="free_kick" time="2014-06-21T17:41:14Z" updated_time="2014-06-21T17:41:14Z" scratch="false" x="25" y="34" clock="82" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="d66623a5-edc0-4fc0-8818-a4df692dc635" type="goal_kick" time="2014-06-21T17:42:01Z" updated_time="2014-06-21T17:42:01Z" scratch="false" x="5" y="50" clock="83" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic awards Argentina a goal kick.</description>
+        </fact>
+        <fact id="e85b6879-87e5-4b04-b54c-5af811c92110" type="keeper_save" time="2014-06-21T17:42:27Z" updated_time="2014-06-21T17:42:27Z" scratch="false" x="89" y="38" clock="83" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="b233ffdf-7773-45da-8807-f13d1487555b" type="shot_on_target" time="2014-06-21T17:42:27Z" updated_time="2014-06-21T17:42:27Z" scratch="false" x="89" y="38" clock="84" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="7353d6d6-e649-4bd4-af2e-7f98164fbe27">
+          <description>In Belo Horizonte, Rodrigo Sebastian Palacio (Argentina) gets his head to the ball but the strike is cleared by an untiring defence.</description>
+        </fact>
+        <fact id="a687e34c-40cd-4b0d-b75e-eb0c2284df70" type="substitution" time="2014-06-21T17:43:01Z" updated_time="2014-06-21T17:43:01Z" scratch="false" clock="84" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_out_id="1cafef86-5390-4f79-a2f1-795d6c30b0bf" player_in_id="3e1c5f28-cc48-4660-a2bf-e233c63e87c2">
+          <description>Alireza Jahan Bakhsh is on a sub for Ashkan Dejagah for Iran.</description>
+        </fact>
+        <fact id="a71f4dff-1824-40a0-9170-1c64e4de518c" type="throwin" time="2014-06-21T17:43:33Z" updated_time="2014-06-21T17:43:33Z" scratch="false" x="31" y="2" clock="84" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="1185a0a6-0cde-4c65-8898-a5b7b1569de1" type="corner_kick" time="2014-06-21T17:43:11Z" updated_time="2014-06-21T17:43:11Z" scratch="false" x="95" y="5" clock="85" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="9012829a-affd-4266-b744-8d0e88eac00a" type="keeper_save" time="2014-06-21T17:44:26Z" updated_time="2014-06-21T17:44:26Z" scratch="false" x="12" y="63" clock="85" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="68e8143f-53c2-4151-905b-0fe84d65d6a1" type="corner_kick" time="2014-06-21T17:44:06Z" updated_time="2014-06-21T17:44:06Z" scratch="false" x="95" y="5" clock="86" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Milorad Mazic.</description>
+        </fact>
+        <fact id="de1f684b-0429-4fb1-8273-79c45a889bf5" type="shot_on_target" time="2014-06-21T17:44:25Z" updated_time="2014-06-21T17:44:30Z" scratch="false" x="12" y="63" clock="86" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="78360dd8-3621-4e90-92cb-7428b8652a4f">
+          <description>Reza Ghoochannejhad for Iran drives towards goal at Mineirao Stadium. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="211c8253-3b49-4b6d-9957-56a80fbcae70" type="throwin" time="2014-06-21T17:45:04Z" updated_time="2014-06-21T17:45:04Z" scratch="false" x="82" y="1" clock="86" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball safe as Iran is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="891e87b2-3cb6-4b19-afb7-3d982e090ef4" type="free_kick" time="2014-06-21T17:46:15Z" updated_time="2014-06-21T17:46:15Z" scratch="false" x="21" y="32" clock="87" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="28314732-652e-48b6-b742-114a2ed6864b" type="substitution" time="2014-06-21T17:45:55Z" updated_time="2014-06-21T17:45:55Z" scratch="false" clock="88" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_out_id="af5c684d-8eb1-45cc-98dc-ff67d138be2b" player_in_id="8b747cad-56a8-4750-8e5f-15f76f0a0d61">
+          <description>Iran make their third substitution with Reza Haghighi replacing Ehsan Haji Safi.</description>
+        </fact>
+        <fact id="c8457f57-4520-4f46-922e-c4d9759db87b" type="goal_kick" time="2014-06-21T17:47:32Z" updated_time="2014-06-21T17:47:32Z" scratch="false" x="95" y="50" clock="88" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="f5e632c1-41ff-4f67-9a99-98ed40075874" type="injury_time" time="2014-06-21T17:48:58Z" updated_time="2014-06-21T17:48:58Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>The fourth official's board shows 4 minutes, which will be added to the second half.</description>
+        </fact>
+        <fact id="f827ccd9-74c6-47a8-8083-9de95c9aaac2" type="goal" time="2014-06-21T17:49:22Z" updated_time="2014-06-21T17:52:21Z" scratch="false" clock="90" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651" assist1_id="22291f86-10b1-4e7b-9dc5-345e18f49b8b">
+          <description>Ezequiel Lavezzi instrumental with a fine assist.</description>
+        </fact>
+        <fact id="4e18ff6c-ba9d-4d17-8354-f05ef5cd325a" type="substitution" time="2014-06-21T17:51:48Z" updated_time="2014-06-21T17:51:48Z" scratch="false" clock="90" injury_time="3" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="160d2d49-2c27-4094-b600-e2627bdd6b4e" player_in_id="13409dae-ec11-496c-a3ed-033f8d2c0c55">
+          <description>Lucas Biglia is on a sub for Angel Di Maria for Argentina.</description>
+        </fact>
+        <fact id="20ee54e4-b08f-421f-b501-39fff7588618" type="throwin" time="2014-06-21T17:52:02Z" updated_time="2014-06-21T17:52:02Z" scratch="false" x="27" y="100" clock="90" injury_time="3" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Can Iran get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="433b91d7-252d-45c1-890a-fbdb2a7526b3" type="free_kick" time="2014-06-21T17:52:24Z" updated_time="2014-06-21T17:52:24Z" scratch="false" x="10" y="63" clock="90" injury_time="3" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Milorad Mazic signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="7393186a-b037-43b7-8a0c-96cf3e07ea8d" type="injury_time" time="2014-06-21T17:52:53Z" updated_time="2014-06-21T17:52:53Z" scratch="false" clock="90" injury_time="5" period="P2">
+          <description>5 minutes of injury time will be added to the second half.</description>
+        </fact>
+        <fact id="79a6c63d-02a7-4c6d-90e2-d59954a98e49" type="period_over" time="2014-06-21T17:53:22Z" updated_time="2014-06-21T17:53:22Z" scratch="false" home_score="1" away_score="0" period="P2">
+          <description>The match has come to a close in Belo Horizonte. The final score is 1-0.</description>
+        </fact>
+        <fact id="1c89737d-3435-4f9c-b6d4-bf993c06f7dd" type="match_ended" time="2014-06-21T17:53:22Z" updated_time="2014-06-21T17:53:22Z" scratch="false" home_score="1" away_score="0" winner_id="909737d8-0424-435d-917a-3a05484322b4" draw="false"/>
+      </facts>
+      <!-- 4768774/4819/4766 -->
+    </match>
+  </matches>
+</summary>

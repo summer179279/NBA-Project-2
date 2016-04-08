@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-12-18 04:59:01 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-12-17T05:00:00+00:00" end_time="2013-12-18T04:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="1ed09a0f-b2d1-4239-b103-918082783abc" full_name="Chris Smith" last_modified="2013-12-17T20:39:50+00:00"/>
+        <player id="1f0687ca-c8f2-4c71-8306-8a18cbf6cc60" full_name="James Johnson" last_modified="2013-12-18T01:51:42+00:00"/>
+        <player id="4b9ea469-6408-431c-862e-662aefecea7b" full_name="Jared Cunningham" last_modified="2013-12-17T16:27:35+00:00"/>
+        <player id="66e28766-9b3b-4b4f-a770-85b206f4fc22" full_name="Mike James" last_modified="2013-12-17T16:27:19+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="04639b94-253b-47f1-ba2c-f3c4e2e9564f" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-12-18T02:35:11+00:00"/>
+        <game id="30dc48ce-1c98-4e0d-bb06-467e6220d0ac" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-12-18T03:30:19+00:00"/>
+        <game id="4f9b659b-3786-4cd3-bd74-d468c2d8540c" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-12-17T07:23:06+00:00"/>
+        <game id="8aabfd61-f768-42cf-bd48-c040e7bad72a" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-12-18T03:41:22+00:00"/>
+        <game id="ba654ac5-661a-491a-918c-b55b0d62af68" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-12-18T04:47:30+00:00"/>
+        <game id="f885a006-8935-4fa5-85ee-ec8f8fd8b7f9" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-12-18T02:37:39+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="04639b94-253b-47f1-ba2c-f3c4e2e9564f" last_modified="2013-12-18T02:35:11+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="f885a006-8935-4fa5-85ee-ec8f8fd8b7f9" last_modified="2013-12-18T02:37:39+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="ba654ac5-661a-491a-918c-b55b0d62af68" last_modified="2013-12-18T04:47:30+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="30dc48ce-1c98-4e0d-bb06-467e6220d0ac" last_modified="2013-12-18T03:30:20+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="4f9b659b-3786-4cd3-bd74-d468c2d8540c" last_modified="2013-12-17T07:23:06+00:00"/>
+      </results>
+    </games>
+    <standings>
+      <team id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" name="Cavaliers" market="Cleveland" last_modified="2013-12-18T02:39:04+00:00"/>
+      <team id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" name="Bobcats" market="Charlotte" last_modified="2013-12-18T02:39:07+00:00"/>
+      <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis" last_modified="2013-12-18T03:39:05+00:00"/>
+      <team id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" name="Lakers" market="Los Angeles" last_modified="2013-12-18T03:39:05+00:00"/>
+      <team id="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" name="Spurs" market="San Antonio" last_modified="2013-12-17T06:39:01+00:00"/>
+      <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" last_modified="2013-12-17T06:39:01+00:00"/>
+      <team id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" name="Thunder" market="Oklahoma City" last_modified="2013-12-18T04:49:04+00:00"/>
+      <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" last_modified="2013-12-18T02:39:04+00:00"/>
+      <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" last_modified="2013-12-18T02:39:07+00:00"/>
+      <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" last_modified="2013-12-18T04:49:04+00:00"/>
+    </standings>
+  </changelog>
+</league>
+<!-- Generation ended @ 2013-12-18 04:59:01 +0000 -->

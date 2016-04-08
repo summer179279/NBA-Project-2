@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:36:49Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="06422ac7-f6a5-4ed5-ab00-417c4902665c" status="closed" scratched="false" period="P2" scheduled="2014-06-17T22:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H"/>
+      <round week="25" number="1" type="table"/>
+      <home id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="90" ball_safe="76" corner_kicks="4" dangerous_attacks="49" fouls="15" free_kicks="7" goal_attempts="12" goal_kicks="5" saves="4" shots_total="12" substitutions="3" throw_ins="28" yellow_card="1" shots_on_target="5" shots_off_target="7" possessions="45"/>
+        <players>
+          <player id="840092cd-af2d-4eab-a6fa-ca4545fb2dfe" country_code="RUS" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Andrey" last_name="Semenov" country="Russian Federation" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8ea9f673-3a73-48f9-8748-34d37730ac31" country_code="RUS" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Alexander" last_name="Samedov" country="Russian Federation" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b89d883f-5261-473e-90f3-047323e1aaf2" country_code="RUS" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Vasily" last_name="Berezutskiy" country="Russian Federation" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d2a93d3d-7508-4ab3-a8a3-88a22f18db79" country_code="RUS" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Denis" last_name="Glushakov" country="Russian Federation" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="09c5c19b-dd1a-4965-ac67-4c9d995bbfd4" country_code="RUS" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Aleksei" last_name="Kozlov" country="Russian Federation" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b0598433-78fb-43a3-982d-dbc551eb9aa6" country_code="RUS" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Yury" last_name="Zhirkov" country="Russian Federation" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="536ed3ab-01b9-4a1f-99d0-9f4f1bb7b847" country_code="RUS" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Sergey" last_name="Ryzhikov" country="Russian Federation" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="78387db4-7e46-4a40-8ac6-391d43da6713" country_code="RUS" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Igor" last_name="Akinfeev" country="Russian Federation" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f77900e1-8856-4898-b0eb-ff1f952e6246" country_code="RUS" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Yury" last_name="Lodygin" country="Russian Federation" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="09dba75a-56ba-4c2d-983f-014a5bb9ee97" country_code="RUS" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Victor" last_name="Fayzulin" country="Russian Federation" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="701518f8-6dfd-4a5d-a8ee-7c4275377672" country_code="RUS" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Alan" last_name="Dzagoev" country="Russian Federation" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d92e01a4-7be9-48cb-a8c5-4cdd119b230d" country_code="RUS" position="M" started="false" tactical_position="6" tactical_order="7" first_name="Igor" last_name="Denisov" country="Russian Federation" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="89b983ec-d24d-45d2-b673-daf0a31a488f" country_code="RUS" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Georgi" last_name="Shchennikov" country="Russian Federation" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="09f20d0e-eec1-4e83-ac67-09832740a859" country_code="RUS" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Oleg" last_name="Shatov" country="Russian Federation" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="9c55aa1c-7499-4d39-910d-7969a5bb2d03" country_code="RUS" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Aleksandr" last_name="Kerzhakov" country="Russian Federation" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="f2a1bded-f9e3-4d62-9f5c-f9af72585eba" country_code="RUS" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Vladimir" last_name="Granat" country="Russian Federation" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c71df09d-3772-4b8e-b9a7-a7e96c558909" country_code="RUS" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Dmitry" last_name="Kombarov" country="Russian Federation" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f987de1d-46f6-479f-b1fb-b8623f263a07" country_code="RUS" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Andrey" last_name="Eshchenko" country="Russian Federation" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9186ecfa-d338-4089-a0e7-03606af37908" country_code="RUS" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Aleksander" last_name="Kokorin" country="Russian Federation" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2e15734b-d5eb-4291-9991-5e9622757837" country_code="RUS" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Alexey" last_name="Ionov" country="Russian Federation" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ba8b84bc-06f9-47cd-a451-c4244a4ea6b4" country_code="RUS" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Maxim" last_name="Kanunnikov" country="Russian Federation" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="59eea8b6-32b6-4648-bc9f-83b6a0bb012f" country_code="RUS" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Sergey" last_name="Ignashevich" country="Russian Federation" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="42f70990-260f-454a-8dbc-5dab069a8533" country_code="RUS" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Pavel" last_name="Mogilevets" country="Russian Federation" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team" formation="4-4-2" score="1" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="79" ball_safe="81" corner_kicks="4" dangerous_attacks="30" fouls="7" free_kicks="15" goal_attempts="8" goal_kicks="9" saves="4" shots_total="8" substitutions="3" throw_ins="22" yellow_card="3" shots_on_target="5" shots_off_target="3" possessions="55"/>
+        <players>
+          <player id="499b2cd5-6b5f-4213-ab42-57013fda857c" country_code="KOR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Chang Soo" last_name="Kim" country="South Korea" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="141d6051-445d-4c60-98e5-e2956c70a437" country_code="KOR" position="M" started="true" tactical_position="5" tactical_order="6" first_name="Sung Yueng" last_name="Ki" country="South Korea" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="df52e592-a545-45da-aab9-94f517553f39" country_code="KOR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Tae Hwi" last_name="Kwak" country="South Korea" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f1e883b1-25f8-4ba3-bc42-a3f83717e18a" country_code="KOR" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Chu Young" last_name="Park" country="South Korea" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0d5ef594-3b47-4dec-aa7e-55572669bcdf" country_code="KOR" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Chung Yong" last_name="Lee" country="South Korea" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="67ba8832-a0ca-4335-b9e8-3e6661804d0c" country_code="KOR" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Keun Ho" last_name="Lee" country="South Korea" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d7ae3dd7-4a2c-465e-85f8-d6a3494b569f" country_code="KOR" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Shin Wook" last_name="Kim" country="South Korea" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ab988ac0-29e8-4dfd-a5ec-5f7b0ebe792b" country_code="KOR" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Young Gwon" last_name="Kim" country="South Korea" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d51dbb5c-f18c-41fc-b160-4c79592c8546" country_code="KOR" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Jong Woo" last_name="Park" country="South Korea" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f36f6be5-b355-4c5f-9a6a-9cbe57ca1244" country_code="KOR" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Bo Kyung" last_name="Kim" country="South Korea" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4520f4e7-7953-46ce-95d1-52e91bba7a50" country_code="KOR" position="D" started="false" tactical_position="3" tactical_order="4" first_name="Seok Ho" last_name="Hwang" country="South Korea" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="9bc423f9-d644-49df-9d38-0259725c81f1" country_code="KOR" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Dae-Sung" last_name="Ha" country="South Korea" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4145bac4-b104-464a-b24e-afac112ed1c3" country_code="KOR" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Seung Gyu" last_name="Kim" country="South Korea" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="98a663a5-babf-43a3-a6b2-1cddf5443ca0" country_code="KOR" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Kook Young" last_name="Han" country="South Korea" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d83ef04a-4370-4f0d-abd0-08d0e75ac039" country_code="KOR" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Beom Young" last_name="Lee" country="South Korea" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5da58ec1-c4a6-44ec-aacf-92adcba4e016" country_code="KOR" position="M" started="true" tactical_position="7" tactical_order="9" first_name="Ja Cheol" last_name="Koo" country="South Korea" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="420a7110-fd07-4dbe-84f8-ad89b461551d" country_code="KOR" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Suk Young" last_name="Yoon" country="South Korea" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="07a90d1b-83c9-4590-a20b-5a2d0fb2cb97" country_code="KOR" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Heung Min" last_name="Son" country="South Korea" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="4b51ea2f-08d6-431c-9e67-f006e0f5fe2f" country_code="KOR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Joo Ho" last_name="Park" country="South Korea" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8b2e2b92-04b0-492e-b562-ea4209fe862d" country_code="KOR" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Dong Won" last_name="Ji" country="South Korea" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="bbecd8d5-7f75-4347-9d2b-860f433371b2" country_code="KOR" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Jeong Ho" last_name="Hong" country="South Korea" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="9dcb54e6-2430-4c36-8762-2e314e882f4b" country_code="KOR" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Sung Ryong" last_name="Jung" country="South Korea" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e9900c89-e57e-414e-8fc8-e9bf42c303d9" country_code="KOR" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Yong" last_name="Lee" country="South Korea" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513"/>
+      <facts>
+        <fact id="9ae99d64-122d-48cd-843f-b21899c2e142" type="match_started" time="2014-06-17T22:00:09Z" updated_time="2014-06-17T22:00:09Z" scratch="false" clock="1" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>The whistle has gone to start the match.</description>
+        </fact>
+        <fact id="46c55883-edbd-42c4-ae45-f72895d48e27" type="period_started" time="2014-06-17T22:00:09Z" updated_time="2014-06-17T22:00:09Z" scratch="false" period="P1"/>
+        <fact id="7f9093c5-5b47-4b07-9c14-ff866e5f0670" type="throwin" time="2014-06-17T22:02:04Z" updated_time="2014-06-17T22:02:04Z" scratch="false" x="38" y="99" clock="1" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Russia territory.</description>
+        </fact>
+        <fact id="b10e0bd3-ea30-4f0c-9220-ebe2170f876a" type="throwin" time="2014-06-17T22:02:24Z" updated_time="2014-06-17T22:02:24Z" scratch="false" x="29" y="98" clock="2" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Russia's half?</description>
+        </fact>
+        <fact id="0187873d-6ce0-4d7e-8c78-c8521b4e42df" type="throwin" time="2014-06-17T22:03:06Z" updated_time="2014-06-17T22:03:06Z" scratch="false" x="45" y="99" clock="2" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="99d88f72-c584-4bf1-ab7c-51dc080bba35" type="free_kick" time="2014-06-17T22:03:23Z" updated_time="2014-06-17T22:03:23Z" scratch="false" x="59" y="34" clock="3" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a free kick to Russia.</description>
+        </fact>
+        <fact id="87426bf5-b7eb-4d44-87f4-63fa60243692" type="free_kick" time="2014-06-17T22:03:42Z" updated_time="2014-06-17T22:03:42Z" scratch="false" x="65" y="74" clock="3" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Free kick Russia.</description>
+        </fact>
+        <fact id="4aa17de8-0a6b-44f6-b6db-c06a131b3226" type="throwin" time="2014-06-17T22:04:16Z" updated_time="2014-06-17T22:04:16Z" scratch="false" x="92" y="99" clock="4" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a throw-in for Russia, close to South Korea's area.</description>
+        </fact>
+        <fact id="e08a1309-ec7d-47bc-a104-28f48ffb4fb4" type="throwin" time="2014-06-17T22:04:37Z" updated_time="2014-06-17T22:04:37Z" scratch="false" x="80" y="0" clock="4" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea at Arena Pantanal.</description>
+        </fact>
+        <fact id="f2435300-8fdc-496c-ac04-e62d5372e7d3" type="throwin" time="2014-06-17T22:04:50Z" updated_time="2014-06-17T22:04:50Z" scratch="false" x="57" y="2" clock="4" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Ball safe as South Korea is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="20a561f6-b4a0-4df0-a9ea-798646a911c2" type="throwin" time="2014-06-17T22:05:06Z" updated_time="2014-06-17T22:05:06Z" scratch="false" x="62" y="1" clock="4" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="a2082358-93ef-4807-8267-b63e1a183a1e" type="free_kick" time="2014-06-17T22:05:49Z" updated_time="2014-06-17T22:05:49Z" scratch="false" x="68" y="39" clock="5" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana signals a free kick to South Korea in their own half.</description>
+        </fact>
+        <fact id="0a2937a4-5133-40c3-9a24-849bb6e00429" type="throwin" time="2014-06-17T22:06:50Z" updated_time="2014-06-17T22:06:50Z" scratch="false" x="94" y="100" clock="6" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>South Korea needs to be cautious. Russia have an attacking throw-in.</description>
+        </fact>
+        <fact id="1798a9c8-dd5d-4514-b831-56c5904b5c74" type="corner_kick" time="2014-06-17T22:07:31Z" updated_time="2014-06-17T22:07:31Z" scratch="false" x="95" y="90" clock="7" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Corner awarded to Russia.</description>
+        </fact>
+        <fact id="dd626110-0347-43b5-896f-880e9381d16b" type="goal_kick" time="2014-06-17T22:09:02Z" updated_time="2014-06-17T22:09:02Z" scratch="false" x="5" y="50" clock="8" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana awards Russia a goal kick.</description>
+        </fact>
+        <fact id="7c1e3bbe-48d7-46b1-b615-04586431768f" type="free_kick" time="2014-06-17T22:09:39Z" updated_time="2014-06-17T22:09:39Z" scratch="false" x="62" y="51" clock="9" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a free kick to Russia.</description>
+        </fact>
+        <fact id="bb1ba98e-2a7b-4a26-b66f-a53e7e7d3443" type="throwin" time="2014-06-17T22:10:56Z" updated_time="2014-06-17T22:10:56Z" scratch="false" x="76" y="98" clock="10" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Can Russia get the ball into an attacking position from this throw-in in South Korea's half?</description>
+        </fact>
+        <fact id="adbb0e8c-8cae-4b99-be69-68c25e6ff1b6" type="shot_off_target" time="2014-06-17T22:10:23Z" updated_time="2014-06-17T22:10:31Z" scratch="false" x="21" y="44" clock="11" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="07a90d1b-83c9-4590-a20b-5a2d0fb2cb97">
+          <description>South Korea's Heung Min Son breaks free at Arena Pantanal. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="f17e5268-ee6d-4551-a72a-41635efb804b" type="goal_kick" time="2014-06-17T22:10:24Z" updated_time="2014-06-17T22:10:24Z" scratch="false" x="5" y="50" clock="11" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Ball goes out of play for a Russia goal kick.</description>
+        </fact>
+        <fact id="c4f5172f-ead9-4ea5-b39d-e0fb378def91" type="throwin" time="2014-06-17T22:11:29Z" updated_time="2014-06-17T22:11:29Z" scratch="false" x="61" y="2" clock="11" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in South Korea.</description>
+        </fact>
+        <fact id="ae865c24-cc96-4afc-92fe-c59047f17954" type="throwin" time="2014-06-17T22:11:44Z" updated_time="2014-06-17T22:11:44Z" scratch="false" x="78" y="1" clock="11" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="29e6f67f-f36e-4677-b9ad-07cd4ed9df2b" type="free_kick" time="2014-06-17T22:12:56Z" updated_time="2014-06-17T22:12:56Z" scratch="false" x="56" y="52" clock="12" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Free kick Russia.</description>
+        </fact>
+        <fact id="c29298ff-2bfa-482f-a6da-f21d57142c6c" type="card" time="2014-06-17T22:13:07Z" updated_time="2014-06-17T22:13:07Z" scratch="false" clock="13" card="Y" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="07a90d1b-83c9-4590-a20b-5a2d0fb2cb97">
+          <description>Heung Min Son for South Korea has been booked by Nestor Pitana and receives a first yellow card.</description>
+        </fact>
+        <fact id="b3793273-d26d-4ad8-b87e-115726e42ddc" type="throwin" time="2014-06-17T22:14:57Z" updated_time="2014-06-17T22:14:57Z" scratch="false" x="29" y="2" clock="14" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Throw-in for Russia in their own half.</description>
+        </fact>
+        <fact id="f26253e9-90bc-4af5-9131-4b7aa8939635" type="goal_kick" time="2014-06-17T22:16:48Z" updated_time="2014-06-17T22:16:48Z" scratch="false" x="95" y="50" clock="16" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Goal kick for South Korea at Arena Pantanal.</description>
+        </fact>
+        <fact id="a7e428c6-6421-4e78-9b41-8e96776d5574" type="throwin" time="2014-06-17T22:17:25Z" updated_time="2014-06-17T22:17:25Z" scratch="false" x="46" y="1" clock="17" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Russia territory.</description>
+        </fact>
+        <fact id="d7419417-494b-482c-9ec0-31912a8a0cb1" type="throwin" time="2014-06-17T22:18:05Z" updated_time="2014-06-17T22:18:05Z" scratch="false" x="72" y="98" clock="17" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Can Russia get the ball into an attacking position from this throw-in in South Korea's half?</description>
+        </fact>
+        <fact id="ecc7dce3-3ca8-4c31-9a16-2cc7a159c36f" type="free_kick" time="2014-06-17T22:18:44Z" updated_time="2014-06-17T22:18:44Z" scratch="false" x="89" y="65" clock="18" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="f0a4c6b0-e6d0-455b-9703-96329ffd97ca" type="throwin" time="2014-06-17T22:20:04Z" updated_time="2014-06-17T22:20:04Z" scratch="false" x="86" y="2" clock="19" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Can Russia capitalize from this throw-in deep inside South Korea's half?</description>
+        </fact>
+        <fact id="22a1e544-4269-4f95-bc0b-73f0094c7abd" type="goal_kick" time="2014-06-17T22:21:50Z" updated_time="2014-06-17T22:21:50Z" scratch="false" x="5" y="50" clock="21" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia have a goal kick.</description>
+        </fact>
+        <fact id="3795686f-aa2b-4afd-bf3a-ae301700e812" type="free_kick" time="2014-06-17T22:23:28Z" updated_time="2014-06-17T22:23:28Z" scratch="false" x="56" y="57" clock="23" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana signals a free kick to South Korea in their own half.</description>
+        </fact>
+        <fact id="80672c2a-1cd3-4073-9985-008df11dabbf" type="throwin" time="2014-06-17T22:24:46Z" updated_time="2014-06-17T22:24:46Z" scratch="false" x="63" y="1" clock="24" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea in their own half.</description>
+        </fact>
+        <fact id="f0c96886-4553-4af4-b071-0b0d805144aa" type="corner_kick" time="2014-06-17T22:26:48Z" updated_time="2014-06-17T22:26:48Z" scratch="false" x="95" y="90" clock="27" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="29115b01-6932-45da-b72c-3f5cad9539b5" type="shot_blocked" time="2014-06-17T22:27:03Z" updated_time="2014-06-17T22:27:45Z" scratch="false" x="80" y="58" clock="27" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia drive upfield and Aleksander Kokorin gets in a shot. The strike is blocked by a South Korea defender.</description>
+        </fact>
+        <fact id="c8577b15-11b0-4562-a400-89a06b4e7b50" type="shot_off_target" time="2014-06-17T22:27:33Z" updated_time="2014-06-17T22:27:41Z" scratch="false" x="86" y="9" clock="28" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="9186ecfa-d338-4089-a0e7-03606af37908">
+          <description>Aleksander Kokorin of Russia gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="41092d31-7aa6-42b2-8795-71d282103332" type="goal_kick" time="2014-06-17T22:27:33Z" updated_time="2014-06-17T22:27:33Z" scratch="false" x="95" y="50" clock="28" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have a goal kick.</description>
+        </fact>
+        <fact id="97bc2911-aede-4629-8301-0d4d6e5f19d2" type="free_kick" time="2014-06-17T22:28:29Z" updated_time="2014-06-17T22:28:29Z" scratch="false" x="67" y="57" clock="28" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b3cff4ec-d46d-4165-8d77-28a28a60f9f8" type="free_kick" time="2014-06-17T22:29:15Z" updated_time="2014-06-17T22:29:15Z" scratch="false" x="68" y="72" clock="29" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a free kick to Russia.</description>
+        </fact>
+        <fact id="37283ce0-7e98-4f9d-a1e1-79896b4edf3f" type="card" time="2014-06-17T22:29:53Z" updated_time="2014-06-17T22:29:53Z" scratch="false" clock="30" card="Y" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="141d6051-445d-4c60-98e5-e2956c70a437">
+          <description>Sung Yueng Ki (South Korea) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="134555dc-0609-46e9-9f16-f5e398dd0f2c" type="game_resumed" time="2014-06-17T22:31:03Z" updated_time="2014-06-17T22:31:03Z" scratch="false" clock="30">
+          <description>The match in Cuiaba is underway once more.</description>
+        </fact>
+        <fact id="46b364e3-fac1-43bf-8202-6358838c9f2b" type="injury" time="2014-06-17T22:31:00Z" updated_time="2014-06-17T22:31:28Z" scratch="false" x="78" y="74" clock="31" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="8ea9f673-3a73-48f9-8748-34d37730ac31">
+          <description>Play has been interrupted briefly in Cuiaba to check on Alexander Samedov, who is grimacing with pain.</description>
+        </fact>
+        <fact id="acc0a1b1-e9dc-4e26-bdd5-941bd20d26d5" type="keeper_save" time="2014-06-17T22:31:17Z" updated_time="2014-06-17T22:31:17Z" scratch="false" x="79" y="1" clock="31" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6"/>
+        <fact id="399dd3da-b556-4627-9176-2daac04dc3be" type="throwin" time="2014-06-17T22:31:20Z" updated_time="2014-06-17T22:31:20Z" scratch="false" x="79" y="0" clock="31" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="ab3a03a4-fa8e-4b67-ba38-23e0c2332396" type="shot_on_target" time="2014-06-17T22:31:17Z" updated_time="2014-06-17T22:31:17Z" scratch="false" x="79" y="1" clock="32" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="85d21bda-e3ed-4a01-9898-96e130ea60a7" type="injury_return" time="2014-06-17T22:32:17Z" updated_time="2014-06-17T22:32:17Z" scratch="false" clock="32" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="8ea9f673-3a73-48f9-8748-34d37730ac31">
+          <description>Russia's Alexander Samedov is back in action after a slight knock.</description>
+        </fact>
+        <fact id="79a5f94a-f71a-485b-8bf3-b4ec4e6d3dda" type="shot_off_target" time="2014-06-17T22:32:45Z" updated_time="2014-06-17T22:32:53Z" scratch="false" x="85" y="32" clock="33" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="b0598433-78fb-43a3-982d-dbc551eb9aa6">
+          <description>Russia's Yury Zhirkov misses with an attempt on goal.</description>
+        </fact>
+        <fact id="893c6cc5-bd0b-4eb6-8d0a-541685fd62d0" type="goal_kick" time="2014-06-17T22:32:45Z" updated_time="2014-06-17T22:32:45Z" scratch="false" x="95" y="50" clock="33" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana awards South Korea a goal kick.</description>
+        </fact>
+        <fact id="61821992-d8cc-4b1f-b6b9-9e194dc840cc" type="shot_blocked" time="2014-06-17T22:33:34Z" updated_time="2014-06-17T22:33:34Z" scratch="false" x="3" y="8" clock="34" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Ja Cheol Koo (South Korea) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="4df03b73-4fb0-4673-af09-ad329d054cbd" type="corner_kick" time="2014-06-17T22:34:10Z" updated_time="2014-06-17T22:34:10Z" scratch="false" x="5" y="5" clock="34" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="32a4c3d2-5285-4c5b-86e3-8c7b1d84d462" type="throwin" time="2014-06-17T22:34:17Z" updated_time="2014-06-17T22:34:17Z" scratch="false" x="23" y="2" clock="34" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Russia territory.</description>
+        </fact>
+        <fact id="624fa20b-9ae0-478e-ba9c-be90ffb1bf91" type="throwin" time="2014-06-17T22:35:36Z" updated_time="2014-06-17T22:35:36Z" scratch="false" x="35" y="0" clock="35" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Russia's half?</description>
+        </fact>
+        <fact id="a9aeb50a-f249-4c7a-8960-183ac1a9abd7" type="throwin" time="2014-06-17T22:36:11Z" updated_time="2014-06-17T22:36:11Z" scratch="false" x="15" y="98" clock="36" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Ball safe as Russia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="2a3c2a8d-0ce2-48ca-8253-63aa2ed3cb56" type="free_kick" time="2014-06-17T22:36:56Z" updated_time="2014-06-17T22:36:56Z" scratch="false" x="61" y="64" clock="36" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="9e09c7cb-c845-4e9e-a2d0-49854dbae53e" type="injury" time="2014-06-17T22:37:01Z" updated_time="2014-06-17T22:37:32Z" scratch="false" x="61" y="64" clock="37" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="bbecd8d5-7f75-4347-9d2b-860f433371b2">
+          <description>Play has been temporarily suspended for attention to Jeong Ho Hong for South Korea who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="a19cefeb-96cc-4086-afe5-6346512dce0e" type="game_resumed" time="2014-06-17T22:37:35Z" updated_time="2014-06-17T22:37:35Z" scratch="false" clock="37">
+          <description>The match is underway again.</description>
+        </fact>
+        <fact id="33ded578-dd6d-45b3-986f-fbf159733c42" type="injury_return" time="2014-06-17T22:37:42Z" updated_time="2014-06-17T22:37:42Z" scratch="false" clock="37" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="bbecd8d5-7f75-4347-9d2b-860f433371b2">
+          <description>Jeong Ho Hong has recovered and rejoins the match in Cuiaba.</description>
+        </fact>
+        <fact id="72ef774f-d345-429f-895d-64b3e53655f0" type="shot_off_target" time="2014-06-17T22:38:21Z" updated_time="2014-06-17T22:38:21Z" scratch="false" x="20" y="77" clock="39" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="07a90d1b-83c9-4590-a20b-5a2d0fb2cb97">
+          <description>In Cuiaba South Korea attack through Heung Min Son. The finish is off target, however.</description>
+        </fact>
+        <fact id="4093874a-01be-4344-bb7e-9595926d7a10" type="goal_kick" time="2014-06-17T22:38:21Z" updated_time="2014-06-17T22:38:21Z" scratch="false" x="5" y="50" clock="39" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Goal kick for Russia at Arena Pantanal.</description>
+        </fact>
+        <fact id="eccc7da3-7442-4037-886c-29df477f32b3" type="throwin" time="2014-06-17T22:39:27Z" updated_time="2014-06-17T22:39:27Z" scratch="false" x="84" y="35" clock="39" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia have a dangerous throw-in.</description>
+        </fact>
+        <fact id="28d90184-31f4-4359-b9a4-5844de25fa5a" type="throwin" time="2014-06-17T22:39:34Z" updated_time="2014-06-17T22:39:34Z" scratch="false" x="85" y="2" clock="39" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Throw-in for Russia close to the penalty box.</description>
+        </fact>
+        <fact id="e4fa78fb-df84-413e-92b1-4c037c045817" type="throwin" time="2014-06-17T22:40:16Z" updated_time="2014-06-17T22:40:16Z" scratch="false" x="71" y="99" clock="40" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="1ebf1e0a-0b20-4a05-8c8f-443297247eb3" type="corner_kick" time="2014-06-17T22:42:24Z" updated_time="2014-06-17T22:42:24Z" scratch="false" x="5" y="5" clock="42" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Corner awarded to South Korea.</description>
+        </fact>
+        <fact id="aea54fc0-dbeb-4e47-9580-004517282e5c" type="shot_blocked" time="2014-06-17T22:42:42Z" updated_time="2014-06-17T22:42:42Z" scratch="false" x="21" y="13" clock="43" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6"/>
+        <fact id="38f4957f-266d-4168-b8ea-b4c50a6d95f0" type="throwin" time="2014-06-17T22:44:29Z" updated_time="2014-06-17T22:44:29Z" scratch="false" x="38" y="1" clock="44" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Throw-in for Russia at Arena Pantanal.</description>
+        </fact>
+        <fact id="66555c6b-5ac4-4915-b401-f103e1b86264" type="throwin" time="2014-06-17T22:44:57Z" updated_time="2014-06-17T22:44:57Z" scratch="false" x="66" y="2" clock="44" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="552f3306-0f67-4806-9d1d-d7ea10e9ccc7" type="throwin" time="2014-06-17T22:45:45Z" updated_time="2014-06-17T22:45:45Z" scratch="false" x="58" y="1" clock="45" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="8bef50e6-b66a-41d5-bfa8-c2cc43edb058" type="period_over" time="2014-06-17T22:46:13Z" updated_time="2014-06-17T22:46:13Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The whistle has gone to end the first-half.</description>
+        </fact>
+        <fact id="9167d15d-9974-4bcb-ba50-c7a6e228f369" type="period_started" time="2014-06-17T22:46:13Z" updated_time="2014-06-17T22:46:13Z" scratch="false" period="H"/>
+        <fact id="187a899a-2ff8-4545-84e3-03ec8cb3c9c0" type="period_started" time="2014-06-17T23:01:14Z" updated_time="2014-06-17T23:01:14Z" scratch="false" period="P2"/>
+        <fact id="21db9793-c883-4172-857e-5b96e215bb7a" type="keeper_save" time="2014-06-17T23:01:49Z" updated_time="2014-06-17T23:01:49Z" scratch="false" x="77" y="34" clock="45" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6"/>
+        <fact id="9ffcd83c-2a08-46cd-88c7-afe653e236db" type="injury_time" time="2014-06-17T22:45:17Z" updated_time="2014-06-17T22:45:17Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>1 minutes will be added to the first half in Cuiaba.</description>
+        </fact>
+        <fact id="8e75fbdf-328d-4834-9edc-4af30f997639" type="shot_on_target" time="2014-06-17T23:01:49Z" updated_time="2014-06-17T23:01:49Z" scratch="false" x="77" y="34" clock="46" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="e85a7cc4-aaaf-4251-be1e-68988f9600b7" type="corner_kick" time="2014-06-17T23:02:10Z" updated_time="2014-06-17T23:02:23Z" scratch="false" x="95" y="5" clock="46" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Corner awarded to Russia.</description>
+        </fact>
+        <fact id="3a6f6caf-8aa8-45a4-b2b6-c2bca1029e26" type="shot_off_target" time="2014-06-17T23:02:31Z" updated_time="2014-06-17T23:02:41Z" scratch="false" x="95" y="5" clock="47" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="b89d883f-5261-473e-90f3-047323e1aaf2">
+          <description>Russia's Vasily Berezutskiy attacks the ball with his head but his effort fails to hit the target.</description>
+        </fact>
+        <fact id="09930c26-7e06-4b38-9721-4d038b7e43d3" type="goal_kick" time="2014-06-17T23:02:31Z" updated_time="2014-06-17T23:02:31Z" scratch="false" x="95" y="50" clock="47" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Ball goes out of play for a South Korea goal kick.</description>
+        </fact>
+        <fact id="3d29bd13-0be9-4184-986d-787b2876edef" type="throwin" time="2014-06-17T23:04:21Z" updated_time="2014-06-17T23:04:21Z" scratch="false" x="61" y="77" clock="48" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in South Korea.</description>
+        </fact>
+        <fact id="280e0d57-25a9-4e60-a3ac-65d202f6a4a0" type="free_kick" time="2014-06-17T23:04:27Z" updated_time="2014-06-17T23:04:27Z" scratch="false" x="37" y="67" clock="48" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick South Korea.</description>
+        </fact>
+        <fact id="517c1898-6070-49e2-99ab-388b6543aadd" type="card" time="2014-06-17T23:04:38Z" updated_time="2014-06-17T23:04:38Z" scratch="false" clock="49" card="Y" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="09f20d0e-eec1-4e83-ac67-09832740a859">
+          <description>Oleg Shatov (Russia) has received a first yellow card.</description>
+        </fact>
+        <fact id="7931fd1b-88b5-4f8e-98ae-6a26ed538682" type="keeper_save" time="2014-06-17T23:05:24Z" updated_time="2014-06-17T23:05:24Z" scratch="false" x="17" y="52" clock="49" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="3e992836-faa7-4d1f-b294-8cf5b12dada4" type="throwin" time="2014-06-17T23:05:33Z" updated_time="2014-06-17T23:05:33Z" scratch="false" x="16" y="1" clock="49" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea capitalize from this throw-in deep inside Russia's half?</description>
+        </fact>
+        <fact id="ff1aae4a-0fab-4e6d-afac-998fd82c3a2e" type="throwin" time="2014-06-17T23:05:46Z" updated_time="2014-06-17T23:05:46Z" scratch="false" x="23" y="2" clock="49" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Russia's half?</description>
+        </fact>
+        <fact id="acc2c4e8-4396-494b-a4c8-50d4d479c6c3" type="shot_on_target" time="2014-06-17T23:05:24Z" updated_time="2014-06-17T23:05:38Z" scratch="false" x="17" y="52" clock="50" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="5da58ec1-c4a6-44ec-aacf-92adcba4e016">
+          <description>South Korea push forward through Ja Cheol Koo, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="1c65256a-0667-47a1-a8f3-0d8d26e161ba" type="keeper_save" time="2014-06-17T23:06:33Z" updated_time="2014-06-17T23:06:33Z" scratch="false" x="20" y="75" clock="50" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="787c2312-a901-47c9-a90f-145bbd673da2" type="free_kick" time="2014-06-17T23:06:58Z" updated_time="2014-06-17T23:06:58Z" scratch="false" x="69" y="39" clock="50" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana signals a free kick to South Korea in their own half.</description>
+        </fact>
+        <fact id="5be71090-8d97-4d1f-8c82-3b73c78295ed" type="shot_on_target" time="2014-06-17T23:06:33Z" updated_time="2014-06-17T23:06:33Z" scratch="false" x="20" y="75" clock="51" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="141d6051-445d-4c60-98e5-e2956c70a437">
+          <description>Sung Yueng Ki of South Korea smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="0652dac5-5d27-45b0-bf54-53d6f4d61fb4" type="throwin" time="2014-06-17T23:07:28Z" updated_time="2014-06-17T23:07:28Z" scratch="false" x="29" y="2" clock="51" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Ball safe as Russia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="2240c999-d5f8-4ace-ac15-244fce8e67f7" type="corner_kick" time="2014-06-17T23:08:26Z" updated_time="2014-06-17T23:08:26Z" scratch="false" x="5" y="90" clock="52" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="aa6d0158-810e-4358-8e76-5034f3144cb0" type="shot_off_target" time="2014-06-17T23:08:40Z" updated_time="2014-06-17T23:08:40Z" scratch="false" x="5" y="90" clock="53" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="0d5ef594-3b47-4dec-aa7e-55572669bcdf">
+          <description>Chung Yong Lee (South Korea) is first to the ball but his header is off-target.</description>
+        </fact>
+        <fact id="68c8e5c9-49cd-4ab0-9dde-f3d1ef8324d2" type="goal_kick" time="2014-06-17T23:08:40Z" updated_time="2014-06-17T23:08:40Z" scratch="false" x="5" y="50" clock="53" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia have a goal kick.</description>
+        </fact>
+        <fact id="aebafc39-86b2-41c6-8884-7f6b6fa4116e" type="free_kick" time="2014-06-17T23:09:16Z" updated_time="2014-06-17T23:09:35Z" scratch="false" x="66" y="68" clock="53" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a free kick to Russia in their own half.</description>
+        </fact>
+        <fact id="dab369b6-cb7c-43db-845c-7fe532f250cd" type="free_kick" time="2014-06-17T23:10:39Z" updated_time="2014-06-17T23:10:39Z" scratch="false" x="61" y="55" clock="54" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0a1df14b-682c-4cf2-8206-ec3bc0edac1d" type="throwin" time="2014-06-17T23:11:12Z" updated_time="2014-06-17T23:11:12Z" scratch="false" x="30" y="2" clock="54" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Throw-in for Russia in their own half.</description>
+        </fact>
+        <fact id="cef1a44e-2638-488d-9c67-9a24f1c5aa5b" type="free_kick" time="2014-06-17T23:12:13Z" updated_time="2014-06-17T23:12:13Z" scratch="false" x="24" y="81" clock="55" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="6ad6cbce-1081-4f76-9486-d38f2787880e" type="substitution" time="2014-06-17T23:11:29Z" updated_time="2014-06-17T23:11:29Z" scratch="false" clock="56" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_out_id="f1e883b1-25f8-4ba3-bc42-a3f83717e18a" player_in_id="67ba8832-a0ca-4335-b9e8-3e6661804d0c">
+          <description>Myung Bo Hong is making the team's first substitution at Arena Pantanal with Keun Ho Lee replacing Chu Young Park.</description>
+        </fact>
+        <fact id="6572cf43-ce43-42ed-a7b0-ed85cab7eeef" type="shot_on_target" time="2014-06-17T23:13:14Z" updated_time="2014-06-17T23:13:19Z" scratch="false" x="24" y="81" clock="57" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="ab988ac0-29e8-4dfd-a5ec-5f7b0ebe792b">
+          <description>South Korea's Young Gwon Kim is on target but unsuccessful.</description>
+        </fact>
+        <fact id="8ce4c7ad-df1d-48d5-b5c9-39e665a97097" type="keeper_save" time="2014-06-17T23:13:14Z" updated_time="2014-06-17T23:13:14Z" scratch="false" x="24" y="81" clock="57" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="86c99e93-b629-4557-a230-07670361e318" type="throwin" time="2014-06-17T23:13:47Z" updated_time="2014-06-17T23:13:47Z" scratch="false" x="30" y="98" clock="57" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Russia territory.</description>
+        </fact>
+        <fact id="f1296bd3-8aa3-4658-8c84-7af0c295a053" type="game_resumed" time="2014-06-17T23:14:04Z" updated_time="2014-06-17T23:14:04Z" scratch="false" clock="57">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="da0975ac-030f-49ab-a5f5-58e831e73ade" type="injury" time="2014-06-17T23:14:02Z" updated_time="2014-06-17T23:14:02Z" scratch="false" x="30" y="98" clock="58" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="98a663a5-babf-43a3-a6b2-1cddf5443ca0">
+          <description>The match has been stopped briefly for attention to the injured Kook Young Han.</description>
+        </fact>
+        <fact id="9805b154-5a52-4789-90ce-a1ce72a66597" type="injury_return" time="2014-06-17T23:14:26Z" updated_time="2014-06-17T23:14:26Z" scratch="false" clock="58" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="98a663a5-babf-43a3-a6b2-1cddf5443ca0">
+          <description>Kook Young Han is back on his feet again.</description>
+        </fact>
+        <fact id="ae7f9e6c-d07e-448b-8f69-6b58024776bd" type="free_kick" time="2014-06-17T23:14:54Z" updated_time="2014-06-17T23:14:54Z" scratch="false" x="70" y="42" clock="58" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4a10470d-4df1-4afa-9f59-489eb908d390" type="substitution" time="2014-06-17T23:15:09Z" updated_time="2014-06-17T23:15:09Z" scratch="false" clock="59" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_out_id="09f20d0e-eec1-4e83-ac67-09832740a859" player_in_id="701518f8-6dfd-4a5d-a8ee-7c4275377672">
+          <description>Fabio Capello (Russia) is making a first substitution, with Alan Dzagoev replacing Oleg Shatov.</description>
+        </fact>
+        <fact id="07233a37-843a-4638-9360-8b638841651b" type="free_kick" time="2014-06-17T23:16:39Z" updated_time="2014-06-17T23:16:39Z" scratch="false" x="23" y="82" clock="60" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick South Korea.</description>
+        </fact>
+        <fact id="92012fbd-3175-4dc9-8546-849c32930a7d" type="keeper_save" time="2014-06-17T23:17:31Z" updated_time="2014-06-17T23:17:31Z" scratch="false" x="23" y="82" clock="61" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="05c21cb2-bd87-4e05-a336-d76b0f3da9c8" type="shot_on_target" time="2014-06-17T23:17:31Z" updated_time="2014-06-17T23:17:38Z" scratch="false" x="23" y="82" clock="62" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="bbecd8d5-7f75-4347-9d2b-860f433371b2">
+          <description>South Korea's Jeong Ho Hong is on target but unsuccessful.</description>
+        </fact>
+        <fact id="51ee6501-8aec-4abd-b192-bfc91a029249" type="shot_blocked" time="2014-06-17T23:18:04Z" updated_time="2014-06-17T23:18:04Z" scratch="false" x="78" y="73" clock="62" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="33a8635f-fcaf-4339-a879-fbdae0922eda" type="keeper_save" time="2014-06-17T23:18:18Z" updated_time="2014-06-17T23:18:18Z" scratch="false" x="79" y="26" clock="62" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6"/>
+        <fact id="bab410b5-44c8-4665-9d35-aaf8e8a7b186" type="throwin" time="2014-06-17T23:18:47Z" updated_time="2014-06-17T23:18:47Z" scratch="false" x="59" y="98" clock="62" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="52018e19-3392-4bf9-bb3e-24ca8e226dd4" type="shot_on_target" time="2014-06-17T23:18:18Z" updated_time="2014-06-17T23:18:27Z" scratch="false" x="79" y="26" clock="63" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="c71df09d-3772-4b8e-b9a7-a7e96c558909">
+          <description>Russia drive forward and Dmitry Kombarov gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="10f1c501-b867-4486-92e3-93b6d5c2afe4" type="injury" time="2014-06-17T23:19:08Z" updated_time="2014-06-17T23:19:14Z" scratch="false" x="84" y="27" clock="63" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="bbecd8d5-7f75-4347-9d2b-860f433371b2">
+          <description>Attention is being given to South Korea’s Jeong Ho Hong and play has been suspended briefly.</description>
+        </fact>
+        <fact id="71d25c3c-9ba9-4927-b815-dbe6f5904b02" type="injury_return" time="2014-06-17T23:19:31Z" updated_time="2014-06-17T23:19:31Z" scratch="false" clock="63" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="bbecd8d5-7f75-4347-9d2b-860f433371b2">
+          <description>Jeong Ho Hong is back on the pitch.</description>
+        </fact>
+        <fact id="6551deaf-3dba-490f-badb-14a9676c3d00" type="game_resumed" time="2014-06-17T23:19:52Z" updated_time="2014-06-17T23:19:52Z" scratch="false" clock="63">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="7bda8a49-deb0-4d0a-abcb-2649d9bc0045" type="goal_kick" time="2014-06-17T23:19:55Z" updated_time="2014-06-17T23:19:55Z" scratch="false" x="95" y="50" clock="63" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Ball goes out of play for a South Korea goal kick.</description>
+        </fact>
+        <fact id="fb27403d-c21d-4c06-bde4-6fe63d02f10e" type="throwin" time="2014-06-17T23:20:08Z" updated_time="2014-06-17T23:20:08Z" scratch="false" x="28" y="2" clock="63" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Russia's half?</description>
+        </fact>
+        <fact id="ca9038e3-64bd-4249-b044-4e0876765ea9" type="throwin" time="2014-06-17T23:20:38Z" updated_time="2014-06-17T23:20:38Z" scratch="false" x="33" y="1" clock="64" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Throw-in for Russia at Arena Pantanal.</description>
+        </fact>
+        <fact id="8e1f5cbe-53e2-4362-a036-9c05e03db04b" type="throwin" time="2014-06-17T23:21:34Z" updated_time="2014-06-17T23:21:34Z" scratch="false" x="83" y="99" clock="65" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in South Korea.</description>
+        </fact>
+        <fact id="df555c84-9678-4406-b560-af56aa8945a0" type="free_kick" time="2014-06-17T23:22:16Z" updated_time="2014-06-17T23:22:16Z" scratch="false" x="76" y="41" clock="66" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana signals a free kick to South Korea in their own half.</description>
+        </fact>
+        <fact id="b5af6b93-9bf0-46bf-b24d-26a75d48118f" type="throwin" time="2014-06-17T23:23:04Z" updated_time="2014-06-17T23:23:04Z" scratch="false" x="64" y="2" clock="66" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="2702c247-bc3c-4e93-9a8d-9d4f78d32ad7" type="goal" time="2014-06-17T23:24:37Z" updated_time="2014-06-17T23:24:37Z" scratch="false" x="16" y="37" clock="68" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="67ba8832-a0ca-4335-b9e8-3e6661804d0c">
+          <description>South Korea take a 0-1 lead thanks to Keun Ho Lee.</description>
+        </fact>
+        <fact id="5aa90527-6c6c-4283-a070-6994f83f9d6b" type="throwin" time="2014-06-17T23:25:35Z" updated_time="2014-06-17T23:25:35Z" scratch="false" x="64" y="99" clock="69" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="5e5fa5d6-2ae3-4277-bb99-4aae6535b2a2" type="throwin" time="2014-06-17T23:26:10Z" updated_time="2014-06-17T23:26:10Z" scratch="false" x="76" y="1" clock="69" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="54d1e6ef-a9fa-4e23-8581-c4742bd52470" type="shot_blocked" time="2014-06-17T23:25:55Z" updated_time="2014-06-17T23:25:55Z" scratch="false" x="79" y="50" clock="70" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="d71ee38d-e728-48ab-91fd-21925ed8655a" type="throwin" time="2014-06-17T23:26:22Z" updated_time="2014-06-17T23:26:22Z" scratch="false" x="48" y="1" clock="70" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Russia's half?</description>
+        </fact>
+        <fact id="68e1ea72-9d4b-434e-ab87-5822c3738f41" type="throwin" time="2014-06-17T23:26:59Z" updated_time="2014-06-17T23:26:59Z" scratch="false" x="31" y="2" clock="70" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea to take a throw-in in Russia territory.</description>
+        </fact>
+        <fact id="b55cf977-03cb-4363-a3a9-ed4235671264" type="substitution" time="2014-06-17T23:26:47Z" updated_time="2014-06-17T23:26:47Z" scratch="false" clock="71" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_out_id="b0598433-78fb-43a3-982d-dbc551eb9aa6" player_in_id="9c55aa1c-7499-4d39-910d-7969a5bb2d03">
+          <description>Aleksandr Kerzhakov is on a sub for Yury Zhirkov for Russia.</description>
+        </fact>
+        <fact id="bd1c7b9c-a97a-4803-8539-af741372cb89" type="substitution" time="2014-06-17T23:27:57Z" updated_time="2014-06-17T23:27:57Z" scratch="false" clock="72" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_out_id="d2a93d3d-7508-4ab3-a8a3-88a22f18db79" player_in_id="d92e01a4-7be9-48cb-a8c5-4cdd119b230d">
+          <description>Igor Denisov is replacing Denis Glushakov for Russia at Arena Pantanal.</description>
+        </fact>
+        <fact id="5991888d-93b3-4c8d-878b-6b56c278fd18" type="substitution" time="2014-06-17T23:28:25Z" updated_time="2014-06-17T23:28:25Z" scratch="false" clock="73" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_out_id="bbecd8d5-7f75-4347-9d2b-860f433371b2" player_in_id="4520f4e7-7953-46ce-95d1-52e91bba7a50">
+          <description>Jeong Ho Hong (South Korea) does not seem to be able to continue. He is replaced by Seok Ho Hwang.</description>
+        </fact>
+        <fact id="0ade7b4e-0d8c-435f-9999-c3cc713f2e72" type="keeper_save" time="2014-06-17T23:29:53Z" updated_time="2014-06-17T23:29:53Z" scratch="false" x="78" y="89" clock="73" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6"/>
+        <fact id="b680f3ec-bdc0-4d00-b9a8-ba0f30912c99" type="shot_on_target" time="2014-06-17T23:29:52Z" updated_time="2014-06-17T23:29:52Z" scratch="false" x="78" y="89" clock="74" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="f1570e5d-cd4f-4e07-b729-2c1f44eff46a" type="goal" time="2014-06-17T23:30:06Z" updated_time="2014-06-17T23:30:06Z" scratch="false" clock="74" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="9c55aa1c-7499-4d39-910d-7969a5bb2d03">
+          <description>Aleksandr Kerzhakov gets an equalizer for Russia. The score is now 1-1.</description>
+        </fact>
+        <fact id="5d102b65-84a0-4f2f-b545-55834845a248" type="throwin" time="2014-06-17T23:31:01Z" updated_time="2014-06-17T23:31:01Z" scratch="false" x="44" y="99" clock="74" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="60c678ef-1a79-4817-a613-80a540b69fed" type="throwin" time="2014-06-17T23:31:23Z" updated_time="2014-06-17T23:31:23Z" scratch="false" x="66" y="100" clock="75" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="b67013ad-2dc6-41b5-acf1-e9858554f6fd" type="throwin" time="2014-06-17T23:32:36Z" updated_time="2014-06-17T23:32:36Z" scratch="false" x="2" y="8" clock="76" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Throw-in for South Korea close to the penalty box.</description>
+        </fact>
+        <fact id="1b104cb9-b4be-4bf3-a2a1-88c21da7b317" type="free_kick" time="2014-06-17T23:34:50Z" updated_time="2014-06-17T23:34:50Z" scratch="false" x="39" y="74" clock="78" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Free kick South Korea.</description>
+        </fact>
+        <fact id="603ce908-e9d5-4aa5-ac5b-5863e402d52b" type="shot_blocked" time="2014-06-17T23:34:41Z" updated_time="2014-06-17T23:34:41Z" scratch="false" x="21" y="35" clock="79" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6"/>
+        <fact id="a1b58297-816e-4356-96ac-baff901ccc6f" type="corner_kick" time="2014-06-17T23:35:38Z" updated_time="2014-06-17T23:35:38Z" scratch="false" x="5" y="5" clock="79" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Corner awarded to South Korea.</description>
+        </fact>
+        <fact id="10ea02d6-d933-4d3b-8d5e-523a5f415b65" type="corner_kick" time="2014-06-17T23:36:56Z" updated_time="2014-06-17T23:36:56Z" scratch="false" x="95" y="5" clock="81" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="1cd0adf6-2aab-486a-a7e2-8271de4842d8" type="shot_blocked" time="2014-06-17T23:37:41Z" updated_time="2014-06-17T23:38:03Z" scratch="false" x="77" y="52" clock="82" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia push forward at Arena Pantanal and Aleksander Kokorin gets in a strike. This is blocked, however, by a determined South Korea defence.</description>
+        </fact>
+        <fact id="6ff00bbc-0a28-417e-bd4c-424f5cb471d6" type="shot_off_target" time="2014-06-17T23:37:47Z" updated_time="2014-06-17T23:37:47Z" scratch="false" x="77" y="52" clock="82" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="701518f8-6dfd-4a5d-a8ee-7c4275377672">
+          <description>Alan Dzagoev for Russia gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="73ee9d06-cf90-4f55-a9b1-359fd3171dd5" type="goal_kick" time="2014-06-17T23:37:47Z" updated_time="2014-06-17T23:37:47Z" scratch="false" x="95" y="50" clock="82" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana awards South Korea a goal kick.</description>
+        </fact>
+        <fact id="e0404575-780f-4578-b14c-7f032ea22ee0" type="throwin" time="2014-06-17T23:39:01Z" updated_time="2014-06-17T23:39:01Z" scratch="false" x="62" y="2" clock="82" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Ball safe as South Korea is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="ea01522b-f151-4d33-aa6e-c14e21b73fd8" type="substitution" time="2014-06-17T23:39:23Z" updated_time="2014-06-17T23:39:23Z" scratch="false" clock="83" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_out_id="07a90d1b-83c9-4590-a20b-5a2d0fb2cb97" player_in_id="f36f6be5-b355-4c5f-9a6a-9cbe57ca1244">
+          <description>Myung Bo Hong is making the team's third substitution at Arena Pantanal with Bo Kyung Kim replacing Heung Min Son.</description>
+        </fact>
+        <fact id="64b6f01e-ea72-4be2-a449-b05dbfdb955a" type="throwin" time="2014-06-17T23:39:36Z" updated_time="2014-06-17T23:39:36Z" scratch="false" x="38" y="99" clock="83" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Throw-in for Russia at Arena Pantanal.</description>
+        </fact>
+        <fact id="efa675b3-387d-4d3d-a2fe-d71875865439" type="goal_kick" time="2014-06-17T23:40:24Z" updated_time="2014-06-17T23:40:24Z" scratch="false" x="95" y="50" clock="84" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Goal kick for South Korea at Arena Pantanal.</description>
+        </fact>
+        <fact id="98156082-0f93-4a60-8069-962c98503821" type="free_kick" time="2014-06-17T23:40:32Z" updated_time="2014-06-17T23:40:32Z" scratch="false" x="38" y="41" clock="84" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Nestor Pitana signals a free kick to South Korea.</description>
+        </fact>
+        <fact id="1bd02853-c54d-4af4-afdd-ae7983cdbc95" type="throwin" time="2014-06-17T23:41:47Z" updated_time="2014-06-17T23:41:47Z" scratch="false" x="38" y="2" clock="85" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Can South Korea get the ball into an attacking position from this throw-in in Russia's half?</description>
+        </fact>
+        <fact id="316a0bc7-49fd-468c-ad82-63104bc2e33c" type="throwin" time="2014-06-17T23:42:56Z" updated_time="2014-06-17T23:42:56Z" scratch="false" x="70" y="100" clock="86" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Russia to take a throw-in in South Korea territory.</description>
+        </fact>
+        <fact id="cb1a80c1-98d7-4bf0-bc3e-08e048e1b8d4" type="throwin" time="2014-06-17T23:44:00Z" updated_time="2014-06-17T23:44:00Z" scratch="false" x="72" y="100" clock="87" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Nestor Pitana signals a Russia throw-in in South Korea's half.</description>
+        </fact>
+        <fact id="56cb66ae-a251-4cb1-8157-0216232a412e" type="shot_off_target" time="2014-06-17T23:44:19Z" updated_time="2014-06-17T23:44:29Z" scratch="false" x="81" y="30" clock="88" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="9186ecfa-d338-4089-a0e7-03606af37908">
+          <description>Aleksander Kokorin (Russia) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="ababe9fe-d86a-4b92-8047-043b5c8f0804" type="goal_kick" time="2014-06-17T23:44:19Z" updated_time="2014-06-17T23:44:19Z" scratch="false" x="95" y="50" clock="88" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>Goal kick for South Korea at Arena Pantanal.</description>
+        </fact>
+        <fact id="8a8dc271-3ba8-45c5-b71e-18590620ce57" type="free_kick" time="2014-06-17T23:46:05Z" updated_time="2014-06-17T23:46:05Z" scratch="false" x="66" y="50" clock="89" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Free kick Russia.</description>
+        </fact>
+        <fact id="de6a8f04-9e3c-4e26-a124-38395da958b3" type="shot_off_target" time="2014-06-17T23:45:30Z" updated_time="2014-06-17T23:45:30Z" scratch="false" x="79" y="78" clock="90" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1"/>
+        <fact id="eaf0ebd2-2853-4d61-b75d-75fc76028314" type="shot_blocked" time="2014-06-17T23:45:44Z" updated_time="2014-06-17T23:45:44Z" scratch="false" x="81" y="43" clock="90" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Igor Denisov (Russia) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="19e81fdf-2a27-47b8-a501-3934fe9c2520" type="card" time="2014-06-17T23:46:19Z" updated_time="2014-06-17T23:46:19Z" scratch="false" clock="90" card="Y" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" player_id="5da58ec1-c4a6-44ec-aacf-92adcba4e016">
+          <description>South Korea's Ja Cheol Koo has been booked in Cuiaba.</description>
+        </fact>
+        <fact id="a0d70a83-4247-4732-8cb8-93fe3dbf4313" type="injury_time" time="2014-06-17T23:46:35Z" updated_time="2014-06-17T23:46:35Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>4 minutes will be added to the second half.</description>
+        </fact>
+        <fact id="101b0fcf-2d87-46ca-a1f5-a41dc6c108dd" type="free_kick" time="2014-06-17T23:47:46Z" updated_time="2014-06-17T23:47:46Z" scratch="false" x="81" y="93" clock="90" injury_time="1" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a31f22dc-c0da-410e-b161-2b7e1e101504" type="throwin" time="2014-06-17T23:49:10Z" updated_time="2014-06-17T23:49:10Z" scratch="false" x="44" y="98" clock="90" injury_time="2" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1">
+          <description>Throw-in Russia.</description>
+        </fact>
+        <fact id="6ee90a77-19b1-49f5-8118-8331b8afd3ec" type="shot_off_target" time="2014-06-17T23:49:33Z" updated_time="2014-06-17T23:49:41Z" scratch="false" x="80" y="33" clock="90" injury_time="3" team_id="48b3da4c-4de4-44d7-beca-daceccfa51a1" player_id="8ea9f673-3a73-48f9-8748-34d37730ac31">
+          <description>Russia's Alexander Samedov gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="785cc2e5-b8b8-4878-a56b-eb75728bdc58" type="goal_kick" time="2014-06-17T23:49:34Z" updated_time="2014-06-17T23:49:34Z" scratch="false" x="95" y="50" clock="90" injury_time="3" team_id="76ae54ed-2efb-4e78-bc26-06a9edf67be6">
+          <description>South Korea have a goal kick.</description>
+        </fact>
+        <fact id="be4f3b81-321e-4820-8400-e58f3bf1d8ca" type="period_over" time="2014-06-17T23:50:19Z" updated_time="2014-06-17T23:50:19Z" scratch="false" home_score="1" away_score="1" period="P2">
+          <description>The match has come to a close in Cuiaba. The final score is 1-1.</description>
+        </fact>
+        <fact id="7fb735f1-fab1-4a3f-a2c6-3a60e95ed728" type="match_ended" time="2014-06-17T23:50:19Z" updated_time="2014-06-17T23:50:19Z" scratch="false" home_score="1" away_score="1" winner_id="" draw="true"/>
+      </facts>
+      <!-- 4768796/4694/4735 -->
+    </match>
+  </matches>
+</summary>

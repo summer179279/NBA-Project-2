@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-10 15:40:44 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="f6c9c423-aa78-48ed-8d12-013c1964b5f7" status="closed" coverage="full" home_team="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-26T23:30:00+00:00" duration="2:03" attendance="18341" lead_changes="7" times_tied="3" clock="00:00" quarter="4">
+  <team name="Celtics" market="Boston" id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" points="90">
+    <scoring>
+      <quarter number="1" sequence="1" points="22"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="16"/>
+      <quarter number="4" sequence="4" points="28"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Jared Sullinger" position="C-F" primary_position="C" jersey_number="7" id="cdda9628-563e-4d3e-a660-d9665aaa94a3">
+          <statistics minutes="31:19" field_goals_made="8" field_goals_att="17" field_goals_pct="47.1" three_points_made="4" three_points_att="6" three_points_pct="66.7" two_points_made="4" two_points_att="11" two_points_pct="0.364" blocked_att="1" free_throws_made="6" free_throws_att="8" free_throws_pct="75.0" offensive_rebounds="2" defensive_rebounds="6" rebounds="8" assists="1" turnovers="0" steals="1" blocks="2" assists_turnover_ratio="0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="26"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Jared Sullinger" position="C-F" primary_position="C" jersey_number="7" id="cdda9628-563e-4d3e-a660-d9665aaa94a3">
+          <statistics minutes="31:19" field_goals_made="8" field_goals_att="17" field_goals_pct="47.1" three_points_made="4" three_points_att="6" three_points_pct="66.7" two_points_made="4" two_points_att="11" two_points_pct="0.364" blocked_att="1" free_throws_made="6" free_throws_att="8" free_throws_pct="75.0" offensive_rebounds="2" defensive_rebounds="6" rebounds="8" assists="1" turnovers="0" steals="1" blocks="2" assists_turnover_ratio="0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="26"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Rajon Rondo" position="G" primary_position="PG" jersey_number="9" id="977b67b1-4665-4f97-ba3b-7d7778efecdb">
+          <statistics minutes="31:58" field_goals_made="3" field_goals_att="9" field_goals_pct="33.3" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="3" two_points_att="7" two_points_pct="0.429" blocked_att="0" free_throws_made="3" free_throws_att="4" free_throws_pct="75.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="15" turnovers="1" steals="2" blocks="0" assists_turnover_ratio="15.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-10" points="9"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Raptors" market="Toronto" id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" points="99">
+    <scoring>
+      <quarter number="1" sequence="1" points="31"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="22"/>
+      <quarter number="4" sequence="4" points="22"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Terrence Ross" position="G-F" primary_position="SG" jersey_number="31" id="b7d0fa52-b5ca-4465-9bbb-3ec9b6b7b536">
+          <statistics minutes="36:44" field_goals_made="9" field_goals_att="16" field_goals_pct="56.3" three_points_made="5" three_points_att="9" three_points_pct="55.6" two_points_made="4" two_points_att="7" two_points_pct="0.571" blocked_att="1" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="2" turnovers="1" steals="1" blocks="0" assists_turnover_ratio="2.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="19" points="24"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Jonas Valanciunas" position="C" primary_position="C" jersey_number="17" id="c8788ad2-89f7-4ec9-a22b-dcaf6190889b">
+          <statistics minutes="35:02" field_goals_made="7" field_goals_att="12" field_goals_pct="58.3" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="12" two_points_pct="0.583" blocked_att="2" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="3" defensive_rebounds="11" rebounds="14" assists="2" turnovers="3" steals="0" blocks="0" assists_turnover_ratio="0.67" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="14" points="15"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Kyle Lowry" position="G" primary_position="PG" jersey_number="7" id="8c090758-6baa-468d-82fd-d47e17d5091b">
+          <statistics minutes="34:11" field_goals_made="8" field_goals_att="17" field_goals_pct="47.1" three_points_made="4" three_points_att="8" three_points_pct="50.0" two_points_made="4" two_points_att="9" two_points_pct="0.444" blocked_att="0" free_throws_made="3" free_throws_att="3" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="8" rebounds="9" assists="4" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="2.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="11" points="23"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-04-10 15:40:44 +0000 -->

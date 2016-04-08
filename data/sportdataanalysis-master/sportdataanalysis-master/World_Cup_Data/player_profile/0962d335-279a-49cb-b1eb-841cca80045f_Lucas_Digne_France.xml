@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:20:01Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="0962d335-279a-49cb-b1eb-841cca80045f" country_code="FRA" preferred_foot="L" height_in="70" weight_lb="160" height_cm="177" weight_kg="72" first_name="Lucas" last_name="Digne" country="France">
+    <teams>
+      <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" country_code="FRA" position="D" is_manager="false" is_player="true" country="France" jersey_number="17"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="88" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="210" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="984021cb-f247-4345-8c28-149c873429e0" name="Coupe de la Ligue"/>
+          <tournament id="d47f400e-998b-454c-8c85-c0b16da458eb" name="Coupe de la Ligue"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="cd6b2c3a-7944-4594-9ef1-ffdf61b44803" name="Trophée des Champions"/>
+          <tournament id="46abe89b-3a69-40d1-b7b3-a1b8e4e59685" name="Trophée des Champions"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="15" matches_started="0" minutes_played="1336" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1"/>
+          <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="e9292d36-0b5e-420f-9544-026e4b078534" name="Coupe de France"/>
+          <tournament id="68ccae0e-02fd-4f42-8ee0-855e8c18ab45" name="Coupe de France"/>
+          <team id="2d0c0cca-445a-4c05-83ce-ffcbf18d3554" name="Paris St Germain" alias="PSG" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 96538/1405922902 -->
+  </player>
+</profile>

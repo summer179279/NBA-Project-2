@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-17 14:10:51 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="2c9b1fc5-7590-425a-a7e9-d02a7e3f8d7c" status="ACT" full_name="Chris Babb" first_name="Chris" last_name="Babb" abbr_name="C.Babb" height="77" weight="225" position="G-F" primary_position="SG" jersey_number="52" experience="0" college="Iowa State" birth_place="Arlington, TX" birthdate="1990-02-14" updated="2014-03-01T17:42:35+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" alias="BOS"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" alias="BOS">
+        <statistics>
+          <total games_played="14" games_started="0" minutes="132.0" field_goals_made="8" field_goals_att="30" three_points_made="6" three_points_att="27" blocked_att="0" free_throws_made="0" free_throws_att="0" offensive_rebounds="4" defensive_rebounds="13" assists="3" turnovers="3" steals="6" blocks="0" personal_fouls="13" tech_fouls="0" points="22" flagrant_fouls="0" free_throws_pct="0" two_points_pct="0.667" three_points_pct="0.222" field_goals_pct="0.267" rebounds="17" assists_turnover_ratio="1.0" two_points_made="2" two_points_att="3"/>
+          <average points="1.6" blocked_att="0.0" turnovers="0.21" free_throws_att="0.0" field_goals_att="2.14" off_rebounds="0.29" two_points_att="0.21" assists="0.2" blocks="0.0" personal_fouls="0.93" two_points_made="0.14" flagrant_fouls="0.0" rebounds="1.21" three_points_made="0.43" minutes="9.4" def_rebounds="0.93" free_throws_made="0.0" field_goals_made="0.57" steals="0.43" three_points_att="1.93"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-04-17 14:10:51 +0000 -->

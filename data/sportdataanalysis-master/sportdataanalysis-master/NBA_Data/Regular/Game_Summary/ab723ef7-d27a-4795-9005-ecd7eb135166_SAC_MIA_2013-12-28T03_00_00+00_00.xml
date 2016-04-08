@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-12-28 06:42:37 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="ab723ef7-d27a-4795-9005-ecd7eb135166" status="closed" coverage="full" home_team="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2013-12-28T03:00:00+00:00" duration="2:36" attendance="17317" lead_changes="5" times_tied="4" clock="00:00" quarter="5">
+  <venue id="446e0f70-beea-5104-903f-fb65985711a1" name="Sleep Train Arena" capacity="17317" address="One Sports Parkway" city="Sacramento" state="CA" zip="95834" country="USA"/>
+  <team name="Kings" market="Sacramento" id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" points="108">
+    <scoring>
+      <quarter number="1" sequence="1" points="19"/>
+      <quarter number="2" sequence="2" points="26"/>
+      <quarter number="3" sequence="3" points="29"/>
+      <quarter number="4" sequence="4" points="15"/>
+      <overtime number="1" sequence="5" points="19"/>
+    </scoring>
+    <statistics minutes="00:00" field_goals_made="41" field_goals_att="83" field_goals_pct="49.4" three_points_made="5" three_points_att="20" three_points_pct="25.0" two_points_made="36" two_points_att="63" two_points_pct="0.571" blocked_att="5" free_throws_made="21" free_throws_att="25" free_throws_pct="84.0" offensive_rebounds="10" defensive_rebounds="41" rebounds="51" assists="23" turnovers="22" steals="5" blocks="4" assists_turnover_ratio="1.05" personal_fouls="21" points="108" fast_break_pts="22" paint_pts="60" second_chance_pts="16" team_turnovers="1" points_off_turnovers="15" team_rebounds="6" flagrant_fouls="0" player_tech_fouls="1" team_tech_fouls="0" coach_tech_fouls="0"/>
+    <players>
+      <player full_name="Travis Outlaw" first_name="Travis" last_name="Outlaw" position="F" primary_position="SF" jersey_number="25" id="7abc6664-5864-4a0d-b51b-8ecde15e0934" played="true" active="true">
+        <statistics minutes="14:59" field_goals_made="2" field_goals_att="5" field_goals_pct="40.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="2" two_points_att="4" two_points_pct="0.5" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="1" turnovers="2" steals="0" blocks="1" assists_turnover_ratio="0.5" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="4"/>
+      </player>
+      <player full_name="Ben McLemore" first_name="Ben" last_name="McLemore" position="G" primary_position="SG" jersey_number="16" id="288a83df-6f23-4d4e-a450-3d494d8ba897" played="true" active="true" starter="true">
+        <statistics minutes="23:58" field_goals_made="1" field_goals_att="4" field_goals_pct="25.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="1" two_points_att="3" two_points_pct="0.333" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="5" rebounds="5" assists="1" turnovers="3" steals="0" blocks="0" assists_turnover_ratio="0.33" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="2"/>
+      </player>
+      <player full_name="Jason Thompson" first_name="Jason" last_name="Thompson" position="F-C" primary_position="PF" jersey_number="34" id="3360c00c-4737-4b6e-b683-46f4092cfb0a" played="true" active="true" starter="true">
+        <statistics minutes="21:18" field_goals_made="5" field_goals_att="6" field_goals_pct="83.3" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="5" two_points_att="6" two_points_pct="0.833" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-6" points="10"/>
+      </player>
+      <player full_name="Aaron Gray" first_name="Aaron" last_name="Gray" position="C" primary_position="C" jersey_number="33" id="3a29a6a9-c588-48bf-8140-251bb59458c7" active="true">
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="Carl Landry" first_name="Carl" last_name="Landry" position="F" primary_position="PF" jersey_number="24" id="ba16b6ef-0c63-4580-8119-2a2d5600b160">
+        <injuries>
+          <injury comment="Out Until January" desc="Hip" status="Out" id="36859c2c-9f40-49fc-a3d9-b2eefc6334c1" start_date="2013-10-09" update_date="2013-10-23"/>
+        </injuries>
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="Ray McCallum Jr." first_name="Ray" last_name="McCallum Jr." position="G" primary_position="PG" jersey_number="3" id="a90a5752-ae6b-491a-8ff6-43acd5b12aa9" active="true">
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="Derrick Williams" first_name="Derrick" last_name="Williams" position="F" primary_position="SF" jersey_number="13" id="a1f2324e-1613-41e2-8f5b-b8391443e88d" played="true" active="true">
+        <statistics minutes="27:37" field_goals_made="1" field_goals_att="4" field_goals_pct="25.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="1" two_points_att="3" two_points_pct="0.333" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="2" rebounds="2" assists="0" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="0.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="14" points="2"/>
+      </player>
+      <player full_name="Rudy Gay" first_name="Rudy" last_name="Gay" position="F" primary_position="SF" jersey_number="8" id="79d56fd7-f4ed-4905-9d04-dff4b5352334" played="true" active="true" starter="true">
+        <statistics minutes="39:52" field_goals_made="11" field_goals_att="19" field_goals_pct="57.9" three_points_made="1" three_points_att="5" three_points_pct="20.0" two_points_made="10" two_points_att="14" two_points_pct="0.714" blocked_att="1" free_throws_made="3" free_throws_att="3" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="2" rebounds="3" assists="1" turnovers="5" steals="1" blocks="1" assists_turnover_ratio="0.2" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-4" points="26"/>
+      </player>
+      <player full_name="Marcus Thornton" first_name="Marcus" last_name="Thornton" position="G" primary_position="SG" jersey_number="23" id="d5ef3cfe-2ab9-4b77-823a-62678c13058f" played="true" active="true">
+        <statistics minutes="29:02" field_goals_made="1" field_goals_att="4" field_goals_pct="25.0" three_points_made="1" three_points_att="4" three_points_pct="25.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="5" rebounds="5" assists="1" turnovers="1" steals="1" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="12" points="7"/>
+      </player>
+      <player full_name="Isaiah Thomas" first_name="Isaiah" last_name="Thomas" position="G" primary_position="PG" jersey_number="22" id="bda5388e-a657-4e2c-8e12-6ed474518d25" played="true" active="true" starter="true">
+        <statistics minutes="41:01" field_goals_made="7" field_goals_att="16" field_goals_pct="43.8" three_points_made="3" three_points_att="7" three_points_pct="42.9" two_points_made="4" two_points_att="9" two_points_pct="0.444" blocked_att="2" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="1" defensive_rebounds="6" rebounds="7" assists="11" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="3.67" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="6" points="22"/>
+      </player>
+      <player full_name="DeMarcus Cousins" first_name="DeMarcus" last_name="Cousins" position="C" primary_position="C" jersey_number="15" id="cbb21aed-9716-44a2-b0e4-54ce09333b94" played="true" active="true" starter="true">
+        <statistics minutes="40:34" field_goals_made="10" field_goals_att="21" field_goals_pct="47.6" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="10" two_points_att="21" two_points_pct="0.476" blocked_att="1" free_throws_made="7" free_throws_att="10" free_throws_pct="70.0" offensive_rebounds="6" defensive_rebounds="11" rebounds="17" assists="5" turnovers="5" steals="2" blocks="0" assists_turnover_ratio="1.0" personal_fouls="5" tech_fouls="1" flagrant_fouls="0" points="27"/>
+      </player>
+      <player full_name="Quincy Acy" first_name="Quincy" last_name="Acy" position="F" primary_position="PF" jersey_number="5" id="c863e2c3-c758-49b8-be35-ccac4131186c" played="true" active="true">
+        <statistics minutes="14:40" field_goals_made="3" field_goals_att="3" field_goals_pct="100.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="3" two_points_att="3" two_points_pct="1.0" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="0" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="0.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="4" points="8"/>
+      </player>
+      <player full_name="Hamady Ndiaye" first_name="Hamady" last_name="Ndiaye" position="C" primary_position="C" jersey_number="55" id="e280fb55-d679-4233-9091-526003824ab7" active="true">
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="Jimmer Fredette" first_name="Jimmer" last_name="Fredette" position="G" primary_position="SG" jersey_number="7" id="7d3518ea-875e-4bc2-96dd-8d496b91515e" played="true" active="true">
+        <statistics minutes="11:59" field_goals_made="0" field_goals_att="1" field_goals_pct="0.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="1" rebounds="1" assists="3" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="3.0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" pls_min="-1" points="0"/>
+      </player>
+    </players>
+  </team>
+  <team name="Heat" market="Miami" id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" points="103">
+    <scoring>
+      <quarter number="1" sequence="1" points="32"/>
+      <quarter number="2" sequence="2" points="23"/>
+      <quarter number="3" sequence="3" points="18"/>
+      <quarter number="4" sequence="4" points="16"/>
+      <overtime number="1" sequence="5" points="14"/>
+    </scoring>
+    <statistics minutes="00:00" field_goals_made="38" field_goals_att="86" field_goals_pct="44.2" three_points_made="11" three_points_att="32" three_points_pct="34.4" two_points_made="27" two_points_att="54" two_points_pct="0.5" blocked_att="4" free_throws_made="16" free_throws_att="21" free_throws_pct="76.2" offensive_rebounds="4" defensive_rebounds="31" rebounds="35" assists="23" turnovers="16" steals="9" blocks="5" assists_turnover_ratio="1.44" personal_fouls="23" points="103" fast_break_pts="13" paint_pts="38" second_chance_pts="2" team_turnovers="1" points_off_turnovers="23" team_rebounds="7" flagrant_fouls="1" player_tech_fouls="0" team_tech_fouls="0" coach_tech_fouls="0"/>
+    <players>
+      <player full_name="Udonis Haslem" first_name="Udonis" last_name="Haslem" position="F" primary_position="PF" jersey_number="40" id="ed343fa6-397c-4456-9f3f-63efee6706b5" played="true" active="true">
+        <statistics minutes="17:43" field_goals_made="2" field_goals_att="7" field_goals_pct="28.6" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="2" two_points_att="7" two_points_pct="0.286" blocked_att="2" free_throws_made="0" free_throws_att="1" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="4" rebounds="5" assists="0" turnovers="0" steals="1" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-8" points="4"/>
+      </player>
+      <player full_name="Mario Chalmers" first_name="Mario" last_name="Chalmers" position="G" primary_position="PG" jersey_number="15" id="b60c920c-b42e-4896-9f6d-7f3031fc6492" played="true" active="true" starter="true">
+        <statistics minutes="43:33" field_goals_made="4" field_goals_att="11" field_goals_pct="36.4" three_points_made="1" three_points_att="7" three_points_pct="14.3" two_points_made="3" two_points_att="4" two_points_pct="0.75" blocked_att="0" free_throws_made="2" free_throws_att="4" free_throws_pct="50.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="10" turnovers="1" steals="3" blocks="0" assists_turnover_ratio="10.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="1" points="11"/>
+      </player>
+      <player full_name="Joel Anthony" first_name="Joel" last_name="Anthony" position="C" primary_position="C" jersey_number="50" id="db276a05-67d9-45fc-a5b1-96aeea8e83df" active="true">
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="James Jones" first_name="James" last_name="Jones" position="F-G" primary_position="SF" jersey_number="22" id="09d25155-c3be-4246-a986-55921a1b5e61" active="true">
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="Dwyane Wade" first_name="Dwyane" last_name="Wade" position="G" primary_position="SG" jersey_number="3" id="2038ebc0-a35b-4979-9fd6-15c72c435101">
+        <injuries>
+          <injury comment="Questionable for Friday" desc="Knee" status="Day To Day" id="a0bb109c-aab0-4cbd-9336-924070bfe32d" start_date="2013-12-27"/>
+        </injuries>
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="LeBron James" first_name="LeBron" last_name="James" position="F" primary_position="SF" jersey_number="6" id="0afbe608-940a-4d5d-a1f7-468718c67d91" played="true" active="true" starter="true">
+        <statistics minutes="43:43" field_goals_made="12" field_goals_att="23" field_goals_pct="52.2" three_points_made="4" three_points_att="9" three_points_pct="44.4" two_points_made="8" two_points_att="14" two_points_pct="0.571" blocked_att="1" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="8" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="4.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-10" points="33"/>
+      </player>
+      <player full_name="Ray Allen" first_name="Ray" last_name="Allen" position="G" primary_position="SG" jersey_number="34" id="332332d8-b7c4-4730-9f44-d905f6fc2975" active="true">
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="Rashard Lewis" first_name="Rashard" last_name="Lewis" position="F" primary_position="SF" jersey_number="9" id="8a21a022-d3e4-468f-9eeb-c05c29284b79" played="true" active="true">
+        <statistics minutes="13:52" field_goals_made="1" field_goals_att="5" field_goals_pct="20.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="1" two_points_att="4" two_points_pct="0.25" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="1" rebounds="2" assists="0" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="0.0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="2"/>
+      </player>
+      <player full_name="Norris Cole" first_name="Norris" last_name="Cole" position="G" primary_position="PG" jersey_number="30" id="edd79ce9-8b9f-4918-8a88-86fd9645d9e9" played="true" active="true">
+        <statistics minutes="35:55" field_goals_made="4" field_goals_att="6" field_goals_pct="66.7" three_points_made="2" three_points_att="3" three_points_pct="66.7" two_points_made="2" two_points_att="3" two_points_pct="0.667" blocked_att="0" free_throws_made="3" free_throws_att="4" free_throws_pct="75.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="1" turnovers="1" steals="1" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-12" points="13"/>
+      </player>
+      <player full_name="Michael Beasley" first_name="Michael" last_name="Beasley" position="F" primary_position="SF" jersey_number="8" id="ae9050a8-f83f-4a66-9741-308c47730103" played="true" active="true">
+        <statistics minutes="33:04" field_goals_made="3" field_goals_att="9" field_goals_pct="33.3" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="3" two_points_att="7" two_points_pct="0.429" blocked_att="1" free_throws_made="3" free_throws_att="3" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="6" rebounds="6" assists="1" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="0.33" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="-14" points="9"/>
+      </player>
+      <player full_name="Greg Oden" first_name="Greg" last_name="Oden" position="C" primary_position="C" jersey_number="20" id="31d384f9-3877-4c72-b95f-b08bae5a5762">
+        <injuries>
+          <injury desc="Knee Surgery" status="Day To Day" id="bcefee65-6a18-4832-9eeb-1ebc7f9dce24" start_date="2013-10-28"/>
+        </injuries>
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+      <player full_name="Shane Battier" first_name="Shane" last_name="Battier" position="F" primary_position="SF" jersey_number="31" id="e8482324-a0fa-43fe-88bf-96ec27ea502b" played="true" active="true" starter="true">
+        <statistics minutes="19:05" field_goals_made="3" field_goals_att="5" field_goals_pct="60.0" three_points_made="3" three_points_att="4" three_points_pct="75.0" two_points_made="0" two_points_att="1" two_points_pct="0.0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="3" steals="1" blocks="2" assists_turnover_ratio="0.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="6" points="9"/>
+      </player>
+      <player full_name="Chris Bosh" first_name="Chris" last_name="Bosh" position="C-F" primary_position="PF" jersey_number="1" id="f5163a3f-f880-4c2c-ac9b-00db844246b2" played="true" active="true" starter="true">
+        <statistics minutes="35:17" field_goals_made="8" field_goals_att="15" field_goals_pct="53.3" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="8" two_points_att="13" two_points_pct="0.615" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="6" rebounds="7" assists="1" turnovers="4" steals="0" blocks="3" assists_turnover_ratio="0.25" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="3" points="18"/>
+      </player>
+      <player full_name="Roger Mason Jr." first_name="Roger" last_name="Mason" position="G" primary_position="SG" jersey_number="21" id="3564afa0-a583-4c08-bd5c-e232f4f272c1" played="true" active="true" starter="true">
+        <statistics minutes="22:47" field_goals_made="1" field_goals_att="5" field_goals_pct="20.0" three_points_made="1" three_points_att="4" three_points_pct="25.0" two_points_made="0" two_points_att="1" two_points_pct="0.0" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="2" turnovers="0" steals="1" blocks="0" assists_turnover_ratio="0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="12" points="4"/>
+      </player>
+      <player full_name="Chris Andersen" first_name="Chris" last_name="Andersen" position="F-C" primary_position="PF" jersey_number="11" id="510c6cdf-1a1a-450e-8d38-eed8d9b55df9" active="true">
+        <injuries>
+          <injury desc="Back" status="Day To Day" id="dfded59e-a96f-4a1d-8a2f-aedae2d34d75" start_date="2013-12-25"/>
+        </injuries>
+        <statistics field_goals_made="0" field_goals_att="0" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="0" two_points_pct="0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="0" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" points="0"/>
+      </player>
+    </players>
+  </team>
+  <officials>
+    <official full_name="Eric Dalen" first_name="Eric" last_name="Dalen" number="75" assignment="Official" experience="6" id="812efbc8-659c-4d4b-af06-020aa611a692"/>
+    <official full_name="Bill Kennedy" first_name="Bill" last_name="Kennedy" number="55" assignment="Head Official" experience="16" id="1021f113-9dfe-469c-87e7-58de4c792022"/>
+    <official full_name="John Goble" first_name="John" last_name="Goble" number="30" assignment="Official" experience="7" id="fc1639b2-8311-46fd-96aa-1c292f551269"/>
+  </officials>
+</game>
+<!-- Generation ended @ 2013-12-28 06:42:39 +0000 -->

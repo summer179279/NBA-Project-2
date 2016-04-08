@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:40:14Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="dc9583c4-da5f-4d39-bfbe-aa71a50564a5" status="closed" scratched="false" period="P2" scheduled="2014-06-25T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F"/>
+      <round week="26" number="3" type="table"/>
+      <home id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team" formation="4-4-2" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="98" ball_safe="92" corner_kicks="6" dangerous_attacks="45" fouls="20" free_kicks="25" goal_attempts="10" goal_kicks="2" offsides="1" saves="2" shots_total="10" substitutions="3" throw_ins="15" yellow_card="1" shots_on_target="6" shots_off_target="4" possessions="62"/>
+        <players>
+          <player id="5d18b39f-6467-432e-b2b6-308307cb03cd" country_code="BIH" position="M" started="false" tactical_position="8" tactical_order="10" first_name="Edin" last_name="Visca" country="Bosnia and Herzegovina" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="05045dbc-38c5-4582-8d5d-4a9bb7b4f64d" country_code="BIH" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Asmir" last_name="Avdukic" country="Bosnia and Herzegovina" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="23fde050-6bad-4060-8804-b4eec2a9160b" country_code="BIH" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Emir" last_name="Spahic" country="Bosnia and Herzegovina" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e0e310a6-5d3a-4f78-b569-c2d07bbd2d74" country_code="BIH" position="M" started="true" tactical_position="5" tactical_order="6" first_name="Anel" last_name="Hadzic" country="Bosnia and Herzegovina" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="184cb8b4-8623-4ec4-b427-a8aaa9ac2af8" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Zvjezdan" last_name="Misimovic" country="Bosnia and Herzegovina" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5aa7836c-0d2c-4b20-82b3-4cf50cc87cc5" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Senad" last_name="Lulic" country="Bosnia and Herzegovina" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4fdab686-bdbd-41e8-a7bb-ba0190756977" country_code="BIH" position="M" started="true" tactical_position="7" tactical_order="9" first_name="Tino-Sven" last_name="Susic" country="Bosnia and Herzegovina" jersey_number="14">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="c689750d-61fa-4df5-850d-7d30981bd2b3" country_code="BIH" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Toni" last_name="Sunjic" country="Bosnia and Herzegovina" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8bea78bb-af16-4fe0-8257-29e8a839f854" country_code="BIH" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Avdija" last_name="Vrsajevic" country="Bosnia and Herzegovina" jersey_number="2">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2112a7fe-1c78-45d4-aa5b-4ba017b1a00e" country_code="BIH" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ermin" last_name="Bicakcic" country="Bosnia and Herzegovina" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5d09dd58-c350-4368-a870-17896dc8f1a0" country_code="BIH" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Jasmin" last_name="Fejzic" country="Bosnia and Herzegovina" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="beb109d5-0437-40e4-932f-85a59e974bab" country_code="BIH" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Vedad" last_name="Ibisevic" country="Bosnia and Herzegovina" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="27111803-b28e-4034-aa6b-96ba5ac77e80" country_code="BIH" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Edin" last_name="Dzeko" country="Bosnia and Herzegovina" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="b77fdfd0-642b-45c6-bc78-44331bd348a8" country_code="BIH" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Mensur" last_name="Mujdza" country="Bosnia and Herzegovina" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19687783-ffdf-4885-af08-9cd2fda86200" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Haris" last_name="Medunjanin" country="Bosnia and Herzegovina" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="57735191-460d-45e6-a022-b9627bad379c" country_code="BIH" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Asmir" last_name="Begovic" country="Bosnia and Herzegovina" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="86b1aca2-d7f9-4c8e-a3a5-bc1eb6a6ecdb" country_code="BIH" position="M" started="false" tactical_position="7" tactical_order="9" first_name="Sejad" last_name="Salihovic" country="Bosnia and Herzegovina" jersey_number="23">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="541aaf2c-c68b-470f-b92e-c49f81f6c66f" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Senijad" last_name="Ibricic" country="Bosnia and Herzegovina" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8b554257-313f-4562-a191-8f62decada73" country_code="BIH" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Muhamed" last_name="Besic" country="Bosnia and Herzegovina" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0072a85a-b626-46b3-8057-74617e41ec16" country_code="BIH" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Sead" last_name="Kolasinac" country="Bosnia and Herzegovina" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="640b06bc-6ec0-4ce4-8ab1-a592d6de1501" country_code="BIH" position="D" started="false" tactical_position="5" tactical_order="6" first_name="Ognjen" last_name="Vranjes" country="Bosnia and Herzegovina" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="30b150f1-67f5-459c-8728-5b0b8689c587" country_code="BIH" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Miralem" last_name="Pjanic" country="Bosnia and Herzegovina" jersey_number="8">
+            <statistics goal="1" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="da0dc95f-ef8c-4a47-98c4-8f43a1620935" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Izet" last_name="Hajrovic" country="Bosnia and Herzegovina" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="80" ball_safe="77" corner_kicks="5" dangerous_attacks="39" fouls="17" free_kicks="21" goal_attempts="3" goal_kicks="7" offsides="8" saves="3" shots_total="3" substitutions="3" throw_ins="26" yellow_card="1" shots_on_target="3" shots_off_target="0" possessions="38"/>
+        <players>
+          <player id="ec67c19f-63b7-45cd-9a38-ff641d8b2187" country_code="IRN" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Pejman" last_name="Montazeri" country="Iran" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2d7f277b-2c2e-404a-a5a0-cb1af2b78233" country_code="IRN" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Karim" last_name="Ansari Fard" country="Iran" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="8a036add-ef5e-481c-ae16-740ae64c362b" country_code="IRN" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Amir Hossein" last_name="Sadeghi" country="Iran" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="df94e8d8-7569-4888-a3ee-ad4590433904" country_code="IRN" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Rahman" last_name="Ahmadi" country="Iran" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="54cd0aa0-65dd-450e-a40b-c9c277a1f211" country_code="IRN" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Jalal" last_name="Hosseini" country="Iran" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="00214766-9e73-4f71-a307-d043d70e8f24" country_code="IRN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Hashem" last_name="Beikzadeh" country="Iran" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="af5c684d-8eb1-45cc-98dc-ff67d138be2b" country_code="IRN" position="D" started="true" tactical_position="8" tactical_order="9" first_name="Ehsan" last_name="Haji Safi" country="Iran" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1cafef86-5390-4f79-a2f1-795d6c30b0bf" country_code="IRN" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Ashkan" last_name="Dejagah" country="Iran" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="95c347a6-2fe1-4b15-bbc1-02adf4575fb7" country_code="IRN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ghasem" last_name="Hadadifar" country="Iran" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="78360dd8-3621-4e90-92cb-7428b8652a4f" country_code="IRN" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Reza" last_name="Ghoochannejhad" country="Iran" jersey_number="16">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="08c972c8-6bda-4f54-ad5b-4767a5547750" country_code="IRN" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Javad" last_name="Nekounam" country="Iran" jersey_number="6">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="964848d7-adb2-4077-bf3d-8a06e2d6a8cf" country_code="IRN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Bakhtiar" last_name="Rahmani" country="Iran" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="70304e90-895e-4193-b692-6b1f92950fbf" country_code="IRN" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Alireza" last_name="Haghighi" country="Iran" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0a6250df-5c90-4aa4-9595-bea1a56dfe51" country_code="IRN" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Daniel" last_name="Davari" country="Iran" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3e1c5f28-cc48-4660-a2bf-e233c63e87c2" country_code="IRN" position="F" started="false" tactical_position="8" tactical_order="9" first_name="Alireza" last_name="Jahan Bakhsh" country="Iran" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="7555ab0d-f985-4e68-bc9f-8708b5802fce" country_code="IRN" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Andranik" last_name="Timotian" country="Iran" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cca1394-3ad9-4619-995e-661359aa69a4" country_code="IRN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Hossein" last_name="Mahini" country="Iran" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b8f9325c-ad0c-4944-b468-1538d90b2107" country_code="IRN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Steven" last_name="Beitashour" country="Iran" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0fe0ef23-0bde-4b81-8384-b6a2ef0f8123" country_code="IRN" position="D" started="false" tactical_position="6" tactical_order="7" first_name="Khosro" last_name="Heydari" country="Iran" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="8b747cad-56a8-4750-8e5f-15f76f0a0d61" country_code="IRN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Reza" last_name="Haghighi" country="Iran" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="da491bc1-1715-435c-9435-c437979264e9" country_code="IRN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Seyed Ahmad" last_name="Alenemeh" country="Iran" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="51822822-da83-4d46-b91d-d1d07f095116" country_code="IRN" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Masoud" last_name="Shojaei" country="Iran" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="62c5fc6d-deb2-4247-a68e-e354fdd4ad31" country_code="IRN" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Mehrdad" last_name="Pooladi" country="Iran" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157"/>
+      <facts>
+        <fact id="9b393c47-568e-4566-937f-8303271e9a21" type="match_started" time="2014-06-25T16:00:12Z" updated_time="2014-06-25T16:00:12Z" scratch="false" clock="1" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>The whistle has gone to start the match.</description>
+        </fact>
+        <fact id="6e2dfc3a-a2bd-40f3-b3e7-244e46fa733c" type="period_started" time="2014-06-25T16:00:12Z" updated_time="2014-06-25T16:00:12Z" scratch="false" period="P1"/>
+        <fact id="9054d868-f66a-4c13-a76e-bc92d50e6786" type="throwin" time="2014-06-25T16:01:09Z" updated_time="2014-06-25T16:01:09Z" scratch="false" x="39" y="98" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a Iran throw-in in Bosnia &amp; Herzegovina's half.</description>
+        </fact>
+        <fact id="fa76a7d0-f1e4-4fa2-9c68-b3105c9a6ac4" type="throwin" time="2014-06-25T16:01:38Z" updated_time="2014-06-25T16:01:38Z" scratch="false" x="30" y="98" clock="1" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a1426d3f-1603-4955-a666-bb02650f038b" type="throwin" time="2014-06-25T16:02:50Z" updated_time="2014-06-25T16:02:50Z" scratch="false" x="29" y="1" clock="2" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="4bee9489-07a0-41c3-b271-e0f190de23d9" type="throwin" time="2014-06-25T16:03:10Z" updated_time="2014-06-25T16:03:10Z" scratch="false" x="39" y="1" clock="2" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="3cfa069c-4b50-4af3-be7d-316d7448153a" type="keeper_save" time="2014-06-25T16:03:38Z" updated_time="2014-06-25T16:03:38Z" scratch="false" x="88" y="58" clock="3" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="851ecb01-9269-45fc-a079-eb0ad3d56763" type="shot_on_target" time="2014-06-25T16:03:38Z" updated_time="2014-06-25T16:03:38Z" scratch="false" x="88" y="58" clock="4" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Edin Dzeko of Bosnia &amp; Herzegovina smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="b8576f33-be01-4a57-9082-c9998ae8c905" type="corner_kick" time="2014-06-25T16:03:59Z" updated_time="2014-06-25T16:03:59Z" scratch="false" x="95" y="90" clock="4" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="daa207fa-f186-4455-ab79-9f9b4350b0c1" type="throwin" time="2014-06-25T16:04:19Z" updated_time="2014-06-25T16:04:19Z" scratch="false" x="66" y="1" clock="4" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran in their own half.</description>
+        </fact>
+        <fact id="9f688eb5-a95d-494c-b0bd-9e4eb7c35c66" type="free_kick" time="2014-06-25T16:06:10Z" updated_time="2014-06-25T16:06:10Z" scratch="false" x="45" y="17" clock="5" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="7aa6bbb1-b58e-4993-81b1-a96ff862afb6" type="free_kick" time="2014-06-25T16:06:51Z" updated_time="2014-06-25T16:06:51Z" scratch="false" x="27" y="22" clock="6" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="e217021a-3568-4255-ab43-d269bc9b75b3" type="free_kick" time="2014-06-25T16:07:24Z" updated_time="2014-06-25T16:07:24Z" scratch="false" x="57" y="28" clock="7" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran in their own half.</description>
+        </fact>
+        <fact id="e06257ce-55ac-421f-97e9-25c970b9ee51" type="throwin" time="2014-06-25T16:07:39Z" updated_time="2014-06-25T16:07:39Z" scratch="false" x="36" y="99" clock="7" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran to take a throw-in in Bosnia &amp; Herzegovina territory.</description>
+        </fact>
+        <fact id="6a7d31f0-57c3-4a2e-bc5b-b1f32adb6875" type="throwin" time="2014-06-25T16:08:09Z" updated_time="2014-06-25T16:08:09Z" scratch="false" x="34" y="99" clock="7" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Can Iran get the ball into an attacking position from this throw-in in Bosnia &amp; Herzegovina's half?</description>
+        </fact>
+        <fact id="6c93fd7a-0855-48a7-bbb2-d631408e75a4" type="throwin" time="2014-06-25T16:08:20Z" updated_time="2014-06-25T16:08:20Z" scratch="false" x="21" y="99" clock="8" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Ball safe as Bosnia &amp; Herzegovina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="23669019-a3c2-4952-9005-cd86a79ce4d1" type="keeper_save" time="2014-06-25T16:09:11Z" updated_time="2014-06-25T16:09:11Z" scratch="false" x="89" y="49" clock="8" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="1d5942ac-93e8-4945-8265-1ea540217c5d" type="shot_on_target" time="2014-06-25T16:09:11Z" updated_time="2014-06-25T16:09:11Z" scratch="false" x="89" y="49" clock="9" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Bosnia &amp; Herzegovina push upfield and Edin Dzeko gets his head to the ball. The attempt is cleared by an alert Iran defence.</description>
+        </fact>
+        <fact id="d7165f91-1eb3-490e-b70d-77bff8872f0e" type="free_kick" time="2014-06-25T16:09:51Z" updated_time="2014-06-25T16:09:51Z" scratch="false" x="66" y="25" clock="9" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="f1802f2a-e4cf-4149-9649-aeb3202a4867" type="corner_kick" time="2014-06-25T16:11:03Z" updated_time="2014-06-25T16:11:03Z" scratch="false" x="95" y="5" clock="11" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Corner awarded to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="1213c36d-9c55-4089-acd6-50fc75233279" type="free_kick" time="2014-06-25T16:11:25Z" updated_time="2014-06-25T16:11:25Z" scratch="false" x="83" y="24" clock="11" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina just outside Iran's area.</description>
+        </fact>
+        <fact id="7e8b34b7-7736-491d-a44a-e6b7f97e959a" type="shot_blocked" time="2014-06-25T16:12:11Z" updated_time="2014-06-25T16:12:11Z" scratch="false" x="83" y="24" clock="12" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Miralem Pjanic (Bosnia &amp; Herzegovina) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="5256edc7-b10e-4fc6-a2cd-d856bbf790f3" type="throwin" time="2014-06-25T16:12:18Z" updated_time="2014-06-25T16:12:18Z" scratch="false" x="84" y="1" clock="12" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Iran needs to be cautious. Bosnia &amp; Herzegovina have an attacking throw-in.</description>
+        </fact>
+        <fact id="dc57bcd6-c41b-4254-b3ee-67c596a475b5" type="injury" time="2014-06-25T16:12:25Z" updated_time="2014-06-25T16:12:36Z" scratch="false" x="84" y="1" clock="13" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="51822822-da83-4d46-b91d-d1d07f095116">
+          <description>The match has been stopped briefly for attention to the injured Masoud Shojaei.</description>
+        </fact>
+        <fact id="3cb0ac08-0064-4a39-bb26-7a849180a098" type="game_resumed" time="2014-06-25T16:13:23Z" updated_time="2014-06-25T16:13:23Z" scratch="false" clock="13">
+          <description>The match at Arena Fonte Nova is underway again.</description>
+        </fact>
+        <fact id="f18015cb-67e3-4025-b384-e62bb3c1dd7d" type="injury_return" time="2014-06-25T16:14:09Z" updated_time="2014-06-25T16:14:09Z" scratch="false" clock="13" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="51822822-da83-4d46-b91d-d1d07f095116">
+          <description>Iran's Masoud Shojaei is back in action after a slight knock.</description>
+        </fact>
+        <fact id="54811eed-e9b9-493c-9786-4ba716481941" type="free_kick" time="2014-06-25T16:14:21Z" updated_time="2014-06-25T16:14:21Z" scratch="false" x="35" y="10" clock="14" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="e55e3964-36bb-4f62-95bb-ff24ccd67ac5" type="goal_kick" time="2014-06-25T16:15:02Z" updated_time="2014-06-25T16:15:02Z" scratch="false" x="5" y="50" clock="14" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo awards Bosnia &amp; Herzegovina a goal kick.</description>
+        </fact>
+        <fact id="9fc37862-9e9e-4f66-a40c-7e65c1c9715b" type="throwin" time="2014-06-25T16:15:32Z" updated_time="2014-06-25T16:15:32Z" scratch="false" x="84" y="98" clock="15" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina close to the penalty box.</description>
+        </fact>
+        <fact id="c9f7a0f4-b308-47f2-8512-0b9d639a1a1a" type="free_kick" time="2014-06-25T16:16:12Z" updated_time="2014-06-25T16:16:12Z" scratch="false" x="56" y="15" clock="16" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="018cdf2c-619c-4da4-b7c2-fcb0e4cde24f" type="throwin" time="2014-06-25T16:16:38Z" updated_time="2014-06-25T16:16:38Z" scratch="false" x="41" y="100" clock="16" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran to take a throw-in in Bosnia &amp; Herzegovina territory.</description>
+        </fact>
+        <fact id="cc56706a-2a76-4e4f-9420-de636eb9e9ff" type="throwin" time="2014-06-25T16:16:42Z" updated_time="2014-06-25T16:16:42Z" scratch="false" x="40" y="98" clock="16" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="92a0c7ca-b333-41c7-b6f7-6ef27e4907e1" type="throwin" time="2014-06-25T16:18:29Z" updated_time="2014-06-25T16:18:29Z" scratch="false" x="79" y="1" clock="18" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball safe as Iran is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="724c5618-f606-43c2-9b70-446ff2a3a76f" type="free_kick" time="2014-06-25T16:19:00Z" updated_time="2014-06-25T16:19:00Z" scratch="false" x="62" y="27" clock="18" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="de7fe9c2-85de-4f97-bb19-e0b655251a7b" type="throwin" time="2014-06-25T16:19:29Z" updated_time="2014-06-25T16:19:29Z" scratch="false" x="65" y="98" clock="19" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="17b07cd9-1e93-4eb7-ba02-933a262d0c0a" type="throwin" time="2014-06-25T16:19:53Z" updated_time="2014-06-25T16:19:53Z" scratch="false" x="52" y="98" clock="19" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Can Bosnia &amp; Herzegovina get the ball into an attacking position from this throw-in in Iran's half?</description>
+        </fact>
+        <fact id="5c38fcad-7416-4539-94ea-c8ee22be6b45" type="free_kick" time="2014-06-25T16:21:06Z" updated_time="2014-06-25T16:21:06Z" scratch="false" x="61" y="82" clock="20" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Free kick Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="6d9b1914-4d8a-4abf-b942-d4037cf46925" type="injury_return" time="2014-06-25T16:21:38Z" updated_time="2014-06-25T16:21:38Z" scratch="false" clock="21" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="51822822-da83-4d46-b91d-d1d07f095116">
+          <description>Iran’s Masoud Shojaei is on his feet again at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="f61ea26c-d105-46ce-9245-ccc6b621bc59" type="corner_kick" time="2014-06-25T16:21:56Z" updated_time="2014-06-25T16:21:56Z" scratch="false" x="95" y="90" clock="22" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="771cfa20-6721-477f-bb7e-f4de035196d2" type="goal" time="2014-06-25T16:23:03Z" updated_time="2014-06-25T16:23:03Z" scratch="false" x="76" y="45" clock="23" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80" assist1_id="30b150f1-67f5-459c-8728-5b0b8689c587">
+          <description>Great play from Miralem Pjanic to set up the goal.</description>
+        </fact>
+        <fact id="a1271544-4d38-4580-86da-05b058b96c6f" type="keeper_save" time="2014-06-25T16:24:17Z" updated_time="2014-06-25T16:24:17Z" scratch="false" x="14" y="41" clock="24" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="ddbfe60d-9d99-400a-9fac-7e84477490ea" type="free_kick" time="2014-06-25T16:25:06Z" updated_time="2014-06-25T16:25:06Z" scratch="false" x="59" y="19" clock="24" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="ca29f767-7141-4343-8f24-29751629c35b" type="shot_on_target" time="2014-06-25T16:24:17Z" updated_time="2014-06-25T16:58:40Z" scratch="false" x="14" y="41" clock="25" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="fd6000ac-3ea0-4c9f-a707-d3123f7fef9d" type="offside" time="2014-06-25T16:24:27Z" updated_time="2014-06-25T16:24:27Z" scratch="false" x="7" y="59" clock="25" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="62a54d4a-d0e3-456c-bf24-959f8130dc10" type="injury" time="2014-06-25T16:26:05Z" updated_time="2014-06-25T16:26:05Z" scratch="false" x="8" y="42" clock="26" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="c689750d-61fa-4df5-850d-7d30981bd2b3">
+          <description>The match at Arena Fonte Nova has been interrupted briefly for a check on Toni Sunjic, who is down injured.</description>
+        </fact>
+        <fact id="014902fe-92a0-483f-9757-726bb334004c" type="game_resumed" time="2014-06-25T16:28:08Z" updated_time="2014-06-25T16:28:08Z" scratch="false" clock="27">
+          <description>The match in Salvador is underway once more.</description>
+        </fact>
+        <fact id="14e0be60-8c62-48af-a5f5-a0ead602dea2" type="throwin" time="2014-06-25T16:28:10Z" updated_time="2014-06-25T16:28:10Z" scratch="false" x="34" y="2" clock="27" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="60235d11-7977-4519-bf1c-5d928b9e98e1" type="injury_return" time="2014-06-25T16:28:38Z" updated_time="2014-06-25T16:28:38Z" scratch="false" clock="28" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="c689750d-61fa-4df5-850d-7d30981bd2b3">
+          <description>Toni Sunjic returns to the field for Bosnia &amp; Herzegovina after picking up a slight injury.</description>
+        </fact>
+        <fact id="839aacfe-b925-4b63-b265-c2982460b8e3" type="free_kick" time="2014-06-25T16:29:24Z" updated_time="2014-06-25T16:29:24Z" scratch="false" x="36" y="41" clock="29" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="01d86ffd-12c2-4e6f-b020-772ccd0fce24" type="shot_blocked" time="2014-06-25T16:30:18Z" updated_time="2014-06-25T16:30:18Z" scratch="false" x="32" y="45" clock="31" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="272857e7-2773-4f98-b745-0da31703b661" type="offside" time="2014-06-25T16:30:32Z" updated_time="2014-06-25T16:32:02Z" scratch="false" x="9" y="49" clock="31" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="78360dd8-3621-4e90-92cb-7428b8652a4f">
+          <description>Reza Ghoochannejhad of Iran is pulled up for offside.</description>
+        </fact>
+        <fact id="447fd768-b3a4-4c6d-b0ce-3556a4c6efc9" type="throwin" time="2014-06-25T16:31:16Z" updated_time="2014-06-25T16:31:16Z" scratch="false" x="57" y="99" clock="31" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran in their own half.</description>
+        </fact>
+        <fact id="6fc75e34-5a38-4e36-b6d2-7235d5685b77" type="corner_kick" time="2014-06-25T16:32:08Z" updated_time="2014-06-25T16:32:12Z" scratch="false" x="5" y="90" clock="32" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="c28b0323-1bdf-4bcc-a65a-041caf4f9035" type="offside" time="2014-06-25T16:33:12Z" updated_time="2014-06-25T16:33:12Z" scratch="false" x="31" y="31" clock="33" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="78360dd8-3621-4e90-92cb-7428b8652a4f">
+          <description>Reza Ghoochannejhad for Iran is whistled offside.</description>
+        </fact>
+        <fact id="b1101c80-0623-45bc-8433-af58bafbe350" type="throwin" time="2014-06-25T16:33:46Z" updated_time="2014-06-25T16:33:46Z" scratch="false" x="87" y="1" clock="33" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Can Bosnia &amp; Herzegovina capitalize from this throw-in deep inside Iran's half?</description>
+        </fact>
+        <fact id="6912215f-84dd-4d5c-9d00-3f4b0e8c63a7" type="free_kick" time="2014-06-25T16:34:21Z" updated_time="2014-06-25T16:34:21Z" scratch="false" x="58" y="17" clock="34" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran in their own half.</description>
+        </fact>
+        <fact id="fe347701-0b02-419e-82bb-f3d3a3d89a38" type="throwin" time="2014-06-25T16:35:36Z" updated_time="2014-06-25T16:35:36Z" scratch="false" x="42" y="0" clock="35" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="8f213cd2-c584-4511-9bdb-e20507fa7bc9" type="injury" time="2014-06-25T16:36:14Z" updated_time="2014-06-25T16:36:14Z" scratch="false" x="42" y="0" clock="36" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="23fde050-6bad-4060-8804-b4eec2a9160b">
+          <description>Carlos Velasco Carballo waits before resuming play because Emir Spahic for Bosnia &amp; Herzegovina is still down.</description>
+        </fact>
+        <fact id="7c9f4c6a-9ffe-4ed6-99a7-67d2d2fca3ce" type="game_resumed" time="2014-06-25T16:37:07Z" updated_time="2014-06-25T16:37:07Z" scratch="false" clock="36">
+          <description>Carlos Velasco Carballo has blown to resume play in Salvador.</description>
+        </fact>
+        <fact id="c8cec37f-d675-4214-8e5f-3079d02cba9f" type="goal_kick" time="2014-06-25T16:37:15Z" updated_time="2014-06-25T16:37:15Z" scratch="false" x="95" y="50" clock="37" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="02422100-9b55-40df-a175-7074f7d70932" type="free_kick" time="2014-06-25T16:38:11Z" updated_time="2014-06-25T16:38:11Z" scratch="false" x="45" y="50" clock="37" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e9fd4a5d-d18a-44e4-a185-16d548d76c58" type="injury_return" time="2014-06-25T16:38:17Z" updated_time="2014-06-25T16:38:17Z" scratch="false" clock="38" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="23fde050-6bad-4060-8804-b4eec2a9160b">
+          <description>Emir Spahic is back on his feet again.</description>
+        </fact>
+        <fact id="230328a9-0a20-409e-a642-38558a63f302" type="free_kick" time="2014-06-25T16:40:10Z" updated_time="2014-06-25T16:40:10Z" scratch="false" x="37" y="40" clock="39" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran.</description>
+        </fact>
+        <fact id="5de99420-ed15-4098-a951-26b3eaffdfdb" type="shot_off_target" time="2014-06-25T16:41:48Z" updated_time="2014-06-25T16:41:48Z" scratch="false" x="90" y="64" clock="42" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="8bea78bb-af16-4fe0-8257-29e8a839f854">
+          <description>Bosnia &amp; Herzegovina's Avdija Vrsajevic gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="29e56754-bde6-4ba3-8dc7-6ddad002ab50" type="goal_kick" time="2014-06-25T16:41:48Z" updated_time="2014-06-25T16:41:48Z" scratch="false" x="95" y="50" clock="42" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have a goal kick.</description>
+        </fact>
+        <fact id="3fe210ac-0525-41c7-b7fd-71c89574d211" type="shot_off_target" time="2014-06-25T16:43:03Z" updated_time="2014-06-25T16:43:03Z" scratch="false" x="78" y="47" clock="43" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="beb109d5-0437-40e4-932f-85a59e974bab">
+          <description>In Salvador Bosnia &amp; Herzegovina attack through Vedad Ibisevic. The finish is off target, however.</description>
+        </fact>
+        <fact id="21ae3798-8f9d-473f-8679-5be63e917524" type="goal_kick" time="2014-06-25T16:43:03Z" updated_time="2014-06-25T16:43:03Z" scratch="false" x="95" y="50" clock="43" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="80feb1b2-9307-4ace-858c-bba6bbc15f78" type="free_kick" time="2014-06-25T16:43:33Z" updated_time="2014-06-25T16:43:33Z" scratch="false" x="63" y="76" clock="43" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran in their own half.</description>
+        </fact>
+        <fact id="821c12eb-fbdd-4c86-ade2-38ef54d27f8b" type="throwin" time="2014-06-25T16:44:08Z" updated_time="2014-06-25T16:44:08Z" scratch="false" x="60" y="99" clock="43" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="884186ee-ff23-4ab5-a1bf-2dd5914d852e" type="free_kick" time="2014-06-25T16:44:27Z" updated_time="2014-06-25T16:44:27Z" scratch="false" x="35" y="78" clock="44" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran.</description>
+        </fact>
+        <fact id="dea0c5e8-6fd2-4db0-b3bc-7170efb41bb5" type="free_kick" time="2014-06-25T16:45:20Z" updated_time="2014-06-25T16:45:20Z" scratch="false" x="79" y="69" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a442d947-a1fc-4eaa-b041-ecf885dc64cf" type="free_kick" time="2014-06-25T16:45:46Z" updated_time="2014-06-25T16:45:46Z" scratch="false" x="42" y="25" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="caae38c0-eb76-471a-95c4-2d684fcfb002" type="free_kick" time="2014-06-25T16:46:02Z" updated_time="2014-06-25T16:46:02Z" scratch="false" x="31" y="88" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="c7db9c91-6a6a-4f08-bf10-6574fc3f8fd0" type="period_started" time="2014-06-25T16:48:14Z" updated_time="2014-06-25T16:48:14Z" scratch="false" period="H"/>
+        <fact id="cc71cf23-8615-428f-80bd-2bb6d356b52a" type="period_started" time="2014-06-25T17:03:54Z" updated_time="2014-06-25T17:03:54Z" scratch="false" period="P2"/>
+        <fact id="2584658d-cbae-48df-abdf-57d8f9579367" type="throwin" time="2014-06-25T17:04:34Z" updated_time="2014-06-25T17:04:34Z" scratch="false" x="58" y="99" clock="45" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="1615841d-28a2-4da4-8fe0-a8d6ccd9934d" type="injury_time" time="2014-06-25T16:45:41Z" updated_time="2014-06-25T16:45:41Z" scratch="false" clock="45" injury_time="3" period="P1">
+          <description>The first half is prolonged by 3 minutes of added time.</description>
+        </fact>
+        <fact id="20a44bf7-aeb2-4137-88a3-5c2c5506ed81" type="free_kick" time="2014-06-25T16:46:54Z" updated_time="2014-06-25T16:46:54Z" scratch="false" x="57" y="71" clock="45" injury_time="1" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="3e37d72a-dfc3-4dfd-869a-8d85d498231b" type="throwin" time="2014-06-25T16:47:29Z" updated_time="2014-06-25T16:47:29Z" scratch="false" x="61" y="98" clock="45" injury_time="2" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a Bosnia &amp; Herzegovina throw-in in Iran's half.</description>
+        </fact>
+        <fact id="d8938ab2-7ba8-46ef-aef2-d504a3c3d9d9" type="period_over" time="2014-06-25T16:48:14Z" updated_time="2014-06-25T16:48:14Z" scratch="false" home_score="1" away_score="0" period="P1">
+          <description>The first-half is over at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="b957aef8-b49b-4fa3-90d5-753681e03c53" type="substitution" time="2014-06-25T17:03:33Z" updated_time="2014-06-25T17:03:33Z" scratch="false" clock="46" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_out_id="51822822-da83-4d46-b91d-d1d07f095116" player_in_id="0fe0ef23-0bde-4b81-8384-b6a2ef0f8123">
+          <description>Iran make their first substitution with Khosro Heydari replacing Masoud Shojaei.</description>
+        </fact>
+        <fact id="c1e3880c-c5a1-4794-ab07-78eb96f6b1bf" type="offside" time="2014-06-25T17:04:13Z" updated_time="2014-06-25T17:04:16Z" scratch="false" x="18" y="69" clock="46" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="1cafef86-5390-4f79-a2f1-795d6c30b0bf">
+          <description>Iran's Ashkan Dejagah is whistled for offside at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="d5a1d78e-83c5-47c5-87a5-52b497855c58" type="throwin" time="2014-06-25T17:05:53Z" updated_time="2014-06-25T17:05:53Z" scratch="false" x="63" y="98" clock="46" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball safe as Iran is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="90c938fb-11c6-402d-b1d2-3f21e98194e8" type="free_kick" time="2014-06-25T17:06:04Z" updated_time="2014-06-25T17:06:04Z" scratch="false" x="33" y="87" clock="47" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="37f251d4-d05f-4a05-8da7-3637ad968374" type="shot_off_target" time="2014-06-25T17:06:57Z" updated_time="2014-06-25T17:06:57Z" scratch="false" x="78" y="38" clock="48" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="30b150f1-67f5-459c-8728-5b0b8689c587">
+          <description>Miralem Pjanic of Bosnia &amp; Herzegovina gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="64108985-38c6-4ef4-a21f-762733355c53" type="goal_kick" time="2014-06-25T17:06:57Z" updated_time="2014-06-25T17:06:57Z" scratch="false" x="95" y="50" clock="48" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo awards Iran a goal kick.</description>
+        </fact>
+        <fact id="a71403b4-0c1f-4b0a-90da-709a585b5328" type="throwin" time="2014-06-25T17:08:45Z" updated_time="2014-06-25T17:08:45Z" scratch="false" x="65" y="99" clock="49" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in Iran.</description>
+        </fact>
+        <fact id="2fdb64ed-f951-4988-ab96-d3f46f4705b6" type="throwin" time="2014-06-25T17:09:10Z" updated_time="2014-06-25T17:09:10Z" scratch="false" x="65" y="1" clock="50" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a404f293-5992-4c04-84c6-42fe2767b892" type="free_kick" time="2014-06-25T17:09:56Z" updated_time="2014-06-25T17:09:56Z" scratch="false" x="64" y="83" clock="51" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran in their own half.</description>
+        </fact>
+        <fact id="77c1dabf-3e04-46e2-bb3c-c59f520ed9da" type="throwin" time="2014-06-25T17:10:50Z" updated_time="2014-06-25T17:10:50Z" scratch="false" x="48" y="2" clock="51" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Can Iran get the ball into an attacking position from this throw-in in Bosnia &amp; Herzegovina's half?</description>
+        </fact>
+        <fact id="bfc03dbd-c945-499c-b573-7a836dc8b5cd" type="free_kick" time="2014-06-25T17:11:05Z" updated_time="2014-06-25T17:11:05Z" scratch="false" x="38" y="20" clock="52" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran.</description>
+        </fact>
+        <fact id="0bc8ce35-6460-4658-ac63-52e69d13da9d" type="throwin" time="2014-06-25T17:11:47Z" updated_time="2014-06-25T17:11:47Z" scratch="false" x="9" y="99" clock="52" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have a dangerous throw-in.</description>
+        </fact>
+        <fact id="e735066e-83fb-442b-be75-d76befcd2c9a" type="throwin" time="2014-06-25T17:13:35Z" updated_time="2014-06-25T17:13:35Z" scratch="false" x="25" y="99" clock="54" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a Iran throw-in in Bosnia &amp; Herzegovina's half.</description>
+        </fact>
+        <fact id="f86b73d2-80ff-49e3-80bf-0e106e276cfb" type="corner_kick" time="2014-06-25T17:13:23Z" updated_time="2014-06-25T17:13:23Z" scratch="false" x="5" y="5" clock="55" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="742bf196-32ca-4854-816d-6ac187683c80" type="shot_blocked" time="2014-06-25T17:13:31Z" updated_time="2014-06-25T17:13:31Z" scratch="false" x="12" y="75" clock="55" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="55435b27-12f4-4385-8b12-16d906cf6521" type="goal_kick" time="2014-06-25T17:14:38Z" updated_time="2014-06-25T17:14:38Z" scratch="false" x="95" y="50" clock="55" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="ab4b2003-1006-4aae-ab94-d91bd2bd2da8" type="offside" time="2014-06-25T17:14:00Z" updated_time="2014-06-25T17:14:00Z" scratch="false" x="10" y="52" clock="56" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="1cafef86-5390-4f79-a2f1-795d6c30b0bf">
+          <description>Iran drive forward but Ashkan Dejagah is judged offside.</description>
+        </fact>
+        <fact id="244a757c-43ba-493a-9685-b3449eaca169" type="free_kick" time="2014-06-25T17:15:08Z" updated_time="2014-06-25T17:15:08Z" scratch="false" x="38" y="31" clock="56" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0bad9853-4ae0-4d9d-be5b-01564c2ad5f9" type="throwin" time="2014-06-25T17:16:30Z" updated_time="2014-06-25T17:16:30Z" scratch="false" x="83" y="99" clock="57" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball safe as Iran is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="5be11143-2d25-4307-ab18-72712f3d511d" type="throwin" time="2014-06-25T17:16:43Z" updated_time="2014-06-25T17:16:43Z" scratch="false" x="69" y="100" clock="57" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in Iran.</description>
+        </fact>
+        <fact id="bdb82ff1-8d92-453f-9102-67b8f41adf18" type="offside" time="2014-06-25T17:16:05Z" updated_time="2014-06-25T17:16:05Z" scratch="false" x="35" y="77" clock="58" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="1cafef86-5390-4f79-a2f1-795d6c30b0bf">
+          <description>Ashkan Dejagah for Iran is whistled offside.</description>
+        </fact>
+        <fact id="95659ff1-b11a-49eb-96b7-fba36024b299" type="goal" time="2014-06-25T17:17:29Z" updated_time="2014-06-25T17:17:34Z" scratch="false" x="92" y="47" clock="59" home_score="2" away_score="0" penalty="false" owngoal="false" header="false" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="30b150f1-67f5-459c-8728-5b0b8689c587" assist1_id="4fdab686-bdbd-41e8-a7bb-ba0190756977">
+          <description>Tino-Sven Susic instrumental with a fine assist.</description>
+        </fact>
+        <fact id="02583049-e7e9-420f-8743-5602152fc9e6" type="free_kick" time="2014-06-25T17:18:43Z" updated_time="2014-06-25T17:18:43Z" scratch="false" x="61" y="13" clock="59" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Free kick Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="bc02e662-6691-48b7-bb7b-00607fed83c0" type="substitution" time="2014-06-25T17:19:39Z" updated_time="2014-06-25T17:19:39Z" scratch="false" clock="61" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_out_id="e0e310a6-5d3a-4f78-b569-c2d07bbd2d74" player_in_id="640b06bc-6ec0-4ce4-8ab1-a592d6de1501">
+          <description>Ognjen Vranjes is on a sub for Anel Hadzic for Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="cae6b016-df55-4784-acd4-43947dbaceba" type="throwin" time="2014-06-25T17:21:02Z" updated_time="2014-06-25T17:21:02Z" scratch="false" x="56" y="2" clock="62" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="5f760a24-452c-4e71-8346-9c00cf3c4582" type="substitution" time="2014-06-25T17:21:13Z" updated_time="2014-06-25T17:21:13Z" scratch="false" clock="63" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_out_id="af5c684d-8eb1-45cc-98dc-ff67d138be2b" player_in_id="3e1c5f28-cc48-4660-a2bf-e233c63e87c2">
+          <description>Alireza Jahan Bakhsh is replacing Ehsan Haji Safi for Iran at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="66a49fc1-b245-4272-810d-e9c44505daf5" type="offside" time="2014-06-25T17:21:32Z" updated_time="2014-06-25T17:21:32Z" scratch="false" x="18" y="17" clock="63" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="0fe0ef23-0bde-4b81-8384-b6a2ef0f8123">
+          <description>In Salvador Iran's Khosro Heydari is caught offside.</description>
+        </fact>
+        <fact id="0b26ddf8-f08f-4e1b-bb70-cd60f73a3a24" type="throwin" time="2014-06-25T17:22:08Z" updated_time="2014-06-25T17:22:08Z" scratch="false" x="68" y="0" clock="63" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran in their own half.</description>
+        </fact>
+        <fact id="40b6e302-6cc0-4dd2-b585-87d02071497d" type="free_kick" time="2014-06-25T17:22:30Z" updated_time="2014-06-25T17:22:30Z" scratch="false" x="45" y="17" clock="63" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="ffd2d7ed-5cb1-4ff1-a446-e0c3f31ce027" type="keeper_save" time="2014-06-25T17:23:06Z" updated_time="2014-06-25T17:23:06Z" scratch="false" x="16" y="74" clock="64" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="40aa1202-3245-4ed1-a707-a12a8b13dd54" type="throwin" time="2014-06-25T17:23:14Z" updated_time="2014-06-25T17:23:14Z" scratch="false" x="30" y="2" clock="64" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="3603b31d-9e38-4be7-b89c-27139e69697a" type="shot_on_target" time="2014-06-25T17:23:05Z" updated_time="2014-06-25T17:23:05Z" scratch="false" x="16" y="74" clock="65" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="3e1c5f28-cc48-4660-a2bf-e233c63e87c2">
+          <description>Alireza Jahan Bakhsh gets his shot on target but fails to score for Iran.</description>
+        </fact>
+        <fact id="4277261a-d3b4-40cd-b21b-4a919ee33c64" type="keeper_save" time="2014-06-25T17:24:08Z" updated_time="2014-06-25T17:24:08Z" scratch="false" x="90" y="64" clock="65" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="23db9665-f530-4c67-91d4-2e1453b79460" type="shot_on_target" time="2014-06-25T17:24:08Z" updated_time="2014-06-25T17:26:13Z" scratch="false" x="90" y="64" clock="66" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>In Salvador Bosnia &amp; Herzegovina drive forward through Edin Dzeko. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="96a0e436-54c3-43fb-8ce0-9858eb0675d6" type="free_kick" time="2014-06-25T17:25:42Z" updated_time="2014-06-25T17:25:42Z" scratch="false" x="80" y="38" clock="66" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="5aa42712-26ba-453f-9243-3316d3fedd23" type="corner_kick" time="2014-06-25T17:25:17Z" updated_time="2014-06-25T17:25:17Z" scratch="false" x="95" y="5" clock="67" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="0bce7b8c-f50b-4bc1-a0f5-7e0a1c26c26d" type="shot_blocked" time="2014-06-25T17:25:26Z" updated_time="2014-06-25T17:25:26Z" scratch="false" x="92" y="52" clock="67" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Vedad Ibisevic (Bosnia &amp; Herzegovina) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="a5c6505c-9745-4380-810d-040d60b9ce6d" type="corner_kick" time="2014-06-25T17:25:33Z" updated_time="2014-06-25T17:25:33Z" scratch="false" x="95" y="5" clock="67" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Corner awarded to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="e9d3de5c-ff25-4010-bc14-7fc8c19244b2" type="substitution" time="2014-06-25T17:26:09Z" updated_time="2014-06-25T17:26:09Z" scratch="false" clock="67" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_out_id="1cafef86-5390-4f79-a2f1-795d6c30b0bf" player_in_id="2d7f277b-2c2e-404a-a5a0-cb1af2b78233">
+          <description>Iran make their third substitution with Karim Ansari Fard replacing Ashkan Dejagah.</description>
+        </fact>
+        <fact id="6117920b-adc2-4b70-928d-a81f792faeee" type="free_kick" time="2014-06-25T17:26:22Z" updated_time="2014-06-25T17:26:22Z" scratch="false" x="40" y="83" clock="67" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Free kick Iran.</description>
+        </fact>
+        <fact id="ecb4c96a-95d9-4101-a8d6-1ba85b2b7013" type="free_kick" time="2014-06-25T17:26:48Z" updated_time="2014-06-25T17:26:48Z" scratch="false" x="43" y="19" clock="67" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran.</description>
+        </fact>
+        <fact id="cc6b848e-8f69-420e-98a0-95376369661e" type="throwin" time="2014-06-25T17:27:03Z" updated_time="2014-06-25T17:27:03Z" scratch="false" x="12" y="98" clock="68" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9bd26d61-d53c-4438-b920-183df30ea021" type="goal_kick" time="2014-06-25T17:27:50Z" updated_time="2014-06-25T17:27:50Z" scratch="false" x="5" y="50" clock="68" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have a goal kick.</description>
+        </fact>
+        <fact id="9a6ac6d1-0357-4e8b-999a-b5ab49894c62" type="offside" time="2014-06-25T17:28:40Z" updated_time="2014-06-25T17:28:40Z" scratch="false" x="82" y="41" clock="70" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="5d37b372-b246-481c-871a-16b7c2022908" type="throwin" time="2014-06-25T17:29:56Z" updated_time="2014-06-25T17:29:56Z" scratch="false" x="39" y="1" clock="71" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran to take a throw-in in Bosnia &amp; Herzegovina territory.</description>
+        </fact>
+        <fact id="9edc067e-cd9c-4db6-b71c-0e1ca088c777" type="free_kick" time="2014-06-25T17:30:22Z" updated_time="2014-06-25T17:30:22Z" scratch="false" x="40" y="35" clock="71" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="c638557c-69d8-46f5-a294-e9f8c413d140" type="goal_kick" time="2014-06-25T17:33:16Z" updated_time="2014-06-25T17:33:16Z" scratch="false" x="95" y="50" clock="74" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Ball goes out of play for a Iran goal kick.</description>
+        </fact>
+        <fact id="ea2d9d7c-244d-45ac-befb-ed47b53d7eef" type="throwin" time="2014-06-25T17:33:41Z" updated_time="2014-06-25T17:33:41Z" scratch="false" x="22" y="100" clock="74" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="12c8123a-9843-47f5-8c22-0d6273148e83" type="free_kick" time="2014-06-25T17:35:38Z" updated_time="2014-06-25T17:35:38Z" scratch="false" x="66" y="19" clock="76" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4f0867aa-b738-483d-91eb-29e63b257dbb" type="corner_kick" time="2014-06-25T17:35:19Z" updated_time="2014-06-25T17:35:19Z" scratch="false" x="95" y="90" clock="77" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="2f131a78-e6a4-4489-abbf-ac7c56c48f49" type="shot_blocked" time="2014-06-25T17:35:30Z" updated_time="2014-06-25T17:35:30Z" scratch="false" x="79" y="45" clock="77" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="a41a4f1f-4d24-4024-bb8f-8384d6d01609" type="card" time="2014-06-25T17:35:47Z" updated_time="2014-06-25T17:35:47Z" scratch="false" clock="77" card="Y" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="8b554257-313f-4562-a191-8f62decada73">
+          <description>Muhamed Besic for Bosnia &amp; Herzegovina has been booked by Carlos Velasco Carballo and receives a first yellow card.</description>
+        </fact>
+        <fact id="b03e6501-bb92-4675-8749-08aac603811c" type="offside" time="2014-06-25T17:37:34Z" updated_time="2014-06-25T17:37:34Z" scratch="false" x="18" y="87" clock="79" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310"/>
+        <fact id="0b8bf6e1-0195-425e-b3dd-c74cae66b4cc" type="substitution" time="2014-06-25T17:37:49Z" updated_time="2014-06-25T17:37:49Z" scratch="false" clock="79" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_out_id="4fdab686-bdbd-41e8-a7bb-ba0190756977" player_in_id="86b1aca2-d7f9-4c8e-a3a5-bc1eb6a6ecdb">
+          <description>Safet Susic (Bosnia &amp; Herzegovina) is making a second substitution, with Sejad Salihovic replacing Tino-Sven Susic.</description>
+        </fact>
+        <fact id="4a8e65a9-77b9-4dae-9ea3-6d303ff38d9b" type="free_kick" time="2014-06-25T17:38:24Z" updated_time="2014-06-25T17:38:24Z" scratch="false" x="68" y="17" clock="79" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Free kick Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="a520061a-c963-4c52-8a1f-9e646bd12f3b" type="shot_blocked" time="2014-06-25T17:39:16Z" updated_time="2014-06-25T17:39:16Z" scratch="false" x="14" y="57" clock="81" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Reza Ghoochannejhad (Iran) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="68be3670-23e2-46a4-8701-66357a6d2644" type="shot_blocked" time="2014-06-25T17:39:43Z" updated_time="2014-06-25T17:39:43Z" scratch="false" x="16" y="63" clock="81" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Reza Ghoochannejhad (Iran) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="3ffd83ec-681d-4741-9678-dbfbf9d9a9f9" type="corner_kick" time="2014-06-25T17:39:46Z" updated_time="2014-06-25T17:39:53Z" scratch="false" x="5" y="5" clock="81" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="8bca2ce4-b231-47ed-a75d-1d3fbd8f79c3" type="corner_kick" time="2014-06-25T17:40:09Z" updated_time="2014-06-25T17:40:09Z" scratch="false" x="5" y="90" clock="82" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="728738e6-ede2-493c-943e-317969b1cb75" type="goal" time="2014-06-25T17:40:29Z" updated_time="2014-06-25T17:40:29Z" scratch="false" x="10" y="48" clock="82" home_score="2" away_score="1" penalty="false" owngoal="false" header="false" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="78360dd8-3621-4e90-92cb-7428b8652a4f" assist1_id="08c972c8-6bda-4f54-ad5b-4767a5547750">
+          <description>That's a fine assist from Javad Nekounam.</description>
+        </fact>
+        <fact id="7522185f-1675-4704-b572-ed1c8f05eb42" type="goal" time="2014-06-25T17:41:24Z" updated_time="2014-06-25T17:58:34Z" scratch="false" x="92" y="72" clock="83" home_score="3" away_score="1" penalty="false" owngoal="false" header="false" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="8bea78bb-af16-4fe0-8257-29e8a839f854" assist1_id="86b1aca2-d7f9-4c8e-a3a5-bc1eb6a6ecdb">
+          <description>Sejad Salihovic with an assist there.</description>
+        </fact>
+        <fact id="d91ab610-9479-4728-8d75-18a677780d3d" type="free_kick" time="2014-06-25T17:42:34Z" updated_time="2014-06-25T17:42:34Z" scratch="false" x="45" y="70" clock="83" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a free kick to Iran.</description>
+        </fact>
+        <fact id="2d372d84-d1e1-46dc-8fc4-2fe538cdad0b" type="substitution" time="2014-06-25T17:42:54Z" updated_time="2014-06-25T17:42:54Z" scratch="false" clock="84" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_out_id="27111803-b28e-4034-aa6b-96ba5ac77e80" player_in_id="5d18b39f-6467-432e-b2b6-308307cb03cd">
+          <description>Safet Susic is making the team's third substitution at Arena Fonte Nova with Edin Visca replacing Edin Dzeko.</description>
+        </fact>
+        <fact id="f7b47037-c2b3-4669-bf2d-0c05a3949d49" type="free_kick" time="2014-06-25T17:43:11Z" updated_time="2014-06-25T17:43:11Z" scratch="false" x="19" y="87" clock="84" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="c73ba7f7-d6aa-48c3-9b12-417b4664de16" type="free_kick" time="2014-06-25T17:44:10Z" updated_time="2014-06-25T17:44:10Z" scratch="false" x="64" y="40" clock="85" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Free kick Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="69152799-e7e1-4d64-b9a4-ff75d2eee5fb" type="throwin" time="2014-06-25T17:45:56Z" updated_time="2014-06-25T17:45:56Z" scratch="false" x="12" y="2" clock="87" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a throw-in for Iran, close to Bosnia &amp; Herzegovina's area.</description>
+        </fact>
+        <fact id="fe98c2ea-0386-40aa-a7ff-f9decbdc2941" type="throwin" time="2014-06-25T17:46:37Z" updated_time="2014-06-25T17:46:37Z" scratch="false" x="24" y="1" clock="87" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Iran to take a throw-in in Bosnia &amp; Herzegovina territory.</description>
+        </fact>
+        <fact id="b7de6cdf-0051-4225-aa4f-b442b523490c" type="card" time="2014-06-25T17:46:05Z" updated_time="2014-06-25T17:46:05Z" scratch="false" clock="88" card="Y" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310" player_id="2d7f277b-2c2e-404a-a5a0-cb1af2b78233">
+          <description>Iran's Karim Ansari Fard has been booked in Salvador.</description>
+        </fact>
+        <fact id="3c3adc3f-860f-4a15-a733-8d66d15c8f5b" type="corner_kick" time="2014-06-25T17:47:00Z" updated_time="2014-06-25T17:47:00Z" scratch="false" x="5" y="5" clock="88" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Corner awarded to Iran.</description>
+        </fact>
+        <fact id="f67263a4-6dca-4443-9a7a-d7eed701d9cf" type="shot_off_target" time="2014-06-25T17:47:56Z" updated_time="2014-06-25T17:47:56Z" scratch="false" x="87" y="62" clock="89" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="5d18b39f-6467-432e-b2b6-308307cb03cd">
+          <description>Bosnia &amp; Herzegovina are pushing forward but Edin Visca's finish is wide of the goal.</description>
+        </fact>
+        <fact id="e3f43322-eaa7-46ac-b0c3-36bcb5d0c5ae" type="goal_kick" time="2014-06-25T17:47:56Z" updated_time="2014-06-25T17:47:56Z" scratch="false" x="95" y="50" clock="89" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Goal kick for Iran at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="ab18dabc-11e1-4aa5-bcfc-68e14c2079e6" type="injury_time" time="2014-06-25T17:49:04Z" updated_time="2014-06-25T17:49:04Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>3 minutes will be added to the second half.</description>
+        </fact>
+        <fact id="1b3d57e4-de73-458e-8817-5b0b1c19a9c0" type="free_kick" time="2014-06-25T17:49:15Z" updated_time="2014-06-25T17:49:15Z" scratch="false" x="61" y="86" clock="90" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Carlos Velasco Carballo signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="4de9cbaa-0481-4160-897d-82552b0c8c4f" type="throwin" time="2014-06-25T17:50:21Z" updated_time="2014-06-25T17:50:21Z" scratch="false" x="11" y="1" clock="90" injury_time="1" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Throw-in for Iran close to the penalty box.</description>
+        </fact>
+        <fact id="5f7ce6ee-a125-47ab-b90c-5a89856422ed" type="free_kick" time="2014-06-25T17:50:43Z" updated_time="2014-06-25T17:50:43Z" scratch="false" x="10" y="85" clock="90" injury_time="1" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e6eeabc6-74dd-4a29-9ea4-a4fde6937fbb" type="throwin" time="2014-06-25T17:51:37Z" updated_time="2014-06-25T17:51:37Z" scratch="false" x="9" y="2" clock="90" injury_time="2" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Bosnia &amp; Herzegovina needs to be cautious. Iran have an attacking throw-in.</description>
+        </fact>
+        <fact id="e5320326-9a2f-4752-a45c-1c24f46bcb24" type="throwin" time="2014-06-25T17:51:46Z" updated_time="2014-06-25T17:51:46Z" scratch="false" x="22" y="2" clock="90" injury_time="2" team_id="1f395131-4c51-4ecf-8b7b-7a7502232310">
+          <description>Carlos Velasco Carballo signals a Iran throw-in in Bosnia &amp; Herzegovina's half.</description>
+        </fact>
+        <fact id="23080425-3f3a-4c04-b964-ccc81e7fc500" type="period_over" time="2014-06-25T17:51:55Z" updated_time="2014-06-25T17:51:55Z" scratch="false" home_score="3" away_score="1" period="P2">
+          <description>The match is over. Final score 3-1.</description>
+        </fact>
+        <fact id="e56073b2-2b90-46b3-88e8-1ddcba4914e4" type="match_ended" time="2014-06-25T17:51:55Z" updated_time="2014-06-25T17:51:55Z" scratch="false" home_score="3" away_score="1" winner_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" draw="false"/>
+      </facts>
+      <!-- 4768780/4479/4766 -->
+    </match>
+  </matches>
+</summary>

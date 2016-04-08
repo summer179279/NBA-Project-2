@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-10-21 03:52:59 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-10-20T04:00:00+00:00" end_time="2013-10-21T03:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="b2257759-e55c-4f51-abc7-8c1f2d389d8d" full_name="Bojan Dubljevic" last_modified="2013-10-20T18:35:37+00:00"/>
+        <player id="d022ab89-4d55-4732-8509-bcd47602fff0" full_name="Kyle Singler" last_modified="2013-10-20T18:24:59+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="00f86765-0484-4d01-b27f-f791cd8366d2" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-20T21:07:37+00:00"/>
+        <game id="2b799b26-5c4a-410a-bf5e-1907a7883efd" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-21T00:59:16+00:00"/>
+        <game id="a7998a7a-d46b-4e9d-a116-afcd2284b545" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-21T03:14:41+00:00"/>
+        <game id="a9fee3f1-7805-43f9-b2c2-7157d0c1e7d6" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-21T00:43:37+00:00"/>
+        <game id="d0973a55-e7b4-4a10-87ab-60580ce11a3c" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-20T05:41:52+00:00"/>
+        <game id="d9f88114-07fc-41ae-9a98-9611600ef1b1" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-20T21:22:06+00:00"/>
+        <game id="dbdcae7c-adb9-4382-a770-eed52f7c26e2" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-21T01:24:09+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" id="d0973a55-e7b4-4a10-87ab-60580ce11a3c" last_modified="2013-10-20T05:41:52+00:00"/>
+        <game season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" id="00f86765-0484-4d01-b27f-f791cd8366d2" last_modified="2013-10-20T21:07:37+00:00"/>
+        <game season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" id="2b799b26-5c4a-410a-bf5e-1907a7883efd" last_modified="2013-10-21T00:59:17+00:00"/>
+      </results>
+    </games>
+    <standings>
+      <team id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" name="Magic" market="Orlando" last_modified="2013-10-21T00:52:58+00:00"/>
+      <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" last_modified="2013-10-20T05:43:01+00:00"/>
+      <team id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" name="Thunder" market="Oklahoma City" last_modified="2013-10-21T01:33:01+00:00"/>
+      <team id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" name="Jazz" market="Utah" last_modified="2013-10-21T01:33:01+00:00"/>
+      <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" last_modified="2013-10-21T03:22:58+00:00"/>
+      <team id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" name="Pistons" market="Detroit" last_modified="2013-10-21T00:52:58+00:00"/>
+      <team id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" market="Minnesota" last_modified="2013-10-21T01:02:58+00:00"/>
+      <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis" last_modified="2013-10-20T21:23:00+00:00"/>
+      <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" last_modified="2013-10-21T03:22:58+00:00"/>
+      <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" last_modified="2013-10-20T21:23:00+00:00"/>
+      <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" last_modified="2013-10-20T05:43:01+00:00"/>
+      <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" last_modified="2013-10-21T01:02:58+00:00"/>
+    </standings>
+  </changelog>
+</league>
+<!-- Generation ended @ 2013-10-21 03:52:59 +0000 -->

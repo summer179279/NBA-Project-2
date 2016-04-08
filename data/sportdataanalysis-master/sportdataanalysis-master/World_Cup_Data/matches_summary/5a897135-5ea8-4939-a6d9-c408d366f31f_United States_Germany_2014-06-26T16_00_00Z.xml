@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:40:54Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="5a897135-5ea8-4939-a6d9-c408d366f31f" status="closed" scratched="false" period="P2" scheduled="2014-06-26T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G"/>
+      <round week="26" number="3" type="table"/>
+      <home id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="71" ball_safe="84" corner_kicks="2" dangerous_attacks="25" fouls="15" free_kicks="15" goal_attempts="3" goal_kicks="9" offsides="2" saves="5" shots_total="3" substitutions="2" throw_ins="27" yellow_card="2" shots_on_target="0" shots_off_target="3" possessions="37"/>
+        <players>
+          <player id="1c0dab95-831d-42a5-b796-a76c73d3fe52" country_code="USA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Jermaine" last_name="Jones" country="United States" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5c376e14-9d2d-4f68-9d44-217ed1617563" country_code="USA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Timothy" last_name="Chandler" country="United States" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4c712e71-6e7c-4a76-adfa-67975c05a8d8" country_code="USA" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Graham" last_name="Zusi" country="United States" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="9a285c9d-8a7b-403a-8828-d2dea32bf822" country_code="USA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Matt" last_name="Besler" country="United States" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3e6d40a1-4a89-4596-85d9-fbad55e08b91" country_code="USA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Omar" last_name="Gonzalez" country="United States" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e5563330-66f6-4f3b-be61-f52c6714c3c4" country_code="USA" position="D" started="false" tactical_position="5" tactical_order="8" first_name="DeAndre" last_name="Yedlin" country="United States" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="ee46734e-0e74-4f6e-bf1d-1de7c23ff618" country_code="USA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Michael" last_name="Bradley" country="United States" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4666f663-32d9-4b9d-ad4e-5bc861eae2bd" country_code="USA" position="M" started="true" tactical_position="4" tactical_order="5" first_name="DaMarcus" last_name="Beasley" country="United States" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="58fae309-af83-46ee-99ea-59421f1e9a17" country_code="USA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="John Anthony" last_name="Brooks" country="United States" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0" country_code="USA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Fabian" last_name="Johnson" country="United States" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1c9a5732-2508-43d7-be83-1fdc5e7cc7c8" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Mix" last_name="Diskerud" country="United States" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6589af3e-2247-41f5-b40a-7ef9c16690a4" country_code="USA" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Alejandro" last_name="Bedoya" country="United States" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="11cb9025-83a5-45f8-a4dc-a6f62eb0e930" country_code="USA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Chris" last_name="Wondolowski" country="United States" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2aeacd39-3f9c-42af-957e-9df8573973c4" country_code="USA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Kyle" last_name="Beckerman" country="United States" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="25441ac7-584c-41a9-a255-c7ac5f1e8e2f" country_code="USA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Geoff" last_name="Cameron" country="United States" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="46c6eccd-d923-4a22-901e-522a2f69f25a" country_code="USA" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Brad" last_name="Davis" country="United States" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0328f4e4-a62f-46d0-9c53-081b7cb7d9e9" country_code="USA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jozy" last_name="Altidore" country="United States" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3acd13a3-eb74-4116-9933-b23c49ca5464" country_code="USA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Tim" last_name="Howard" country="United States" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e342e841-b09b-4c3f-929c-8f0dd4ec437a" country_code="USA" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Clint" last_name="Dempsey" country="United States" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="20437cc7-925c-45a6-8a48-abae08f58e8f" country_code="USA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Nick" last_name="Rimando" country="United States" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2d6c63df-bd7c-4a32-9b52-51204157296f" country_code="USA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Brad" last_name="Guzan" country="United States" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="01ab4727-0c6f-4fdc-8efb-2b9c97e26561" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Julian" last_name="Green" country="United States" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8eea7287-6ca1-42f9-b5fd-641b7f700016" country_code="USA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Aron" last_name="Johannsson" country="United States" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-1-4-1" score="1" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="108" ball_safe="83" corner_kicks="3" dangerous_attacks="68" fouls="9" free_kicks="16" goal_attempts="10" goal_kicks="6" offsides="6" saves="0" shots_total="10" substitutions="3" throw_ins="15" yellow_card="1" shots_on_target="6" shots_off_target="4" possessions="63"/>
+        <players>
+          <player id="f02f3123-b872-4dbd-bb62-cf98595ef841" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Sami" last_name="Khedira" country="Germany" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="316115aa-50f7-4793-b2e3-2226495d19a3" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Ron-Robert" last_name="Zieler" country="Germany" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6868e658-bc23-4084-a774-6e762d00f9a5" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Bastian" last_name="Schweinsteiger" country="Germany" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="6d45e36b-f057-4bdd-8466-761fe563d87f" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Julian" last_name="Draxler" country="Germany" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="09bb94ef-6634-4ba2-8420-836b97009c4f" country_code="DEU" position="M" started="false" tactical_position="6" tactical_order="8" first_name="Mario" last_name="Gotze" country="Germany" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5b9aac82-f07e-411d-a4aa-8e645130b2cc" country_code="DEU" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Thomas" last_name="Muller" country="Germany" jersey_number="13">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5dafcbb4-b013-499d-95f7-db096aabd924" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Roman" last_name="Weidenfeller" country="Germany" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5111e561-8f28-470d-8a71-fab5a3a398b7" country_code="DEU" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Lukas" last_name="Podolski" country="Germany" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="31f1a88e-b510-4006-9307-17b23e788f43" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Matthias" last_name="Ginter" country="Germany" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1bb4289a-a716-42e1-a2c2-14e90e877628" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Mats" last_name="Hummels" country="Germany" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e28c29b-d344-4825-9128-0580ec64c448" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="9" first_name="Toni" last_name="Kroos" country="Germany" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13dae01a-61fc-4235-8471-0ed3658cc9ed" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Shkodran" last_name="Mustafi" country="Germany" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3dd7d6c6-cd58-4cb2-a28a-1a340e9774b9" country_code="DEU" position="D" started="true" tactical_position="6" tactical_order="6" first_name="Philipp" last_name="Lahm" country="Germany" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="37a851be-bcf3-47b5-9b9d-0903fca67996" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Erik" last_name="Durm" country="Germany" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6e9abee4-9771-4011-8cfd-f1ae1226b313" country_code="DEU" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Manuel" last_name="Neuer" country="Germany" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13fdb7a7-5423-43a8-880a-9cfd7762cf2b" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Kevin" last_name="Grosskreutz" country="Germany" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="05679d54-db23-4a53-8064-4d1613a134cc" country_code="DEU" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Jerome" last_name="Boateng" country="Germany" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="23e5f012-4cdf-4548-8788-b2b8170601ef" country_code="DEU" position="M" started="false" tactical_position="5" tactical_order="7" first_name="Andre" last_name="Schurrle" country="Germany" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="17525942-55d1-48f1-8ef0-73ba1ee51956" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Per" last_name="Mertesacker" country="Germany" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="432f9e09-e0d3-4742-aa06-00cf2c0bc581" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Christoph" last_name="Kramer" country="Germany" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e2102346-9bbd-4f45-a980-ad66a59e77b3" country_code="DEU" position="M" started="true" tactical_position="5" tactical_order="7" first_name="Mesut" last_name="Ozil" country="Germany" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="8571ae58-b5a1-46a1-aaaf-e9188add8e16" country_code="DEU" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Benedikt" last_name="Howedes" country="Germany" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce" country_code="DEU" position="F" started="false" tactical_position="7" tactical_order="10" first_name="Miroslav" last_name="Klose" country="Germany" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+        </players>
+      </away>
+      <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257"/>
+      <facts>
+        <fact id="5e0b3a19-3d40-43b8-9076-5bc33ddc9ce6" type="match_started" time="2014-06-26T16:00:09Z" updated_time="2014-06-26T16:00:09Z" scratch="false" clock="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>The first-half is just kicking off.</description>
+        </fact>
+        <fact id="18f256a6-9d67-4481-b15f-6da07b088184" type="period_started" time="2014-06-26T16:00:09Z" updated_time="2014-06-26T16:00:09Z" scratch="false" period="P1"/>
+        <fact id="84af7f14-cb36-41d8-9bf9-e42af9785282" type="throwin" time="2014-06-26T16:00:20Z" updated_time="2014-06-26T16:00:20Z" scratch="false" x="63" y="99" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="2d98d0cd-c174-487c-9b77-ff9b16bd15cb" type="throwin" time="2014-06-26T16:01:15Z" updated_time="2014-06-26T16:01:15Z" scratch="false" x="27" y="0" clock="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a Germany throw-in in USA's half.</description>
+        </fact>
+        <fact id="45faffff-61c1-4e9d-932a-93486cefd2bc" type="shot_off_target" time="2014-06-26T16:01:41Z" updated_time="2014-06-26T16:01:52Z" scratch="false" x="19" y="21" clock="2" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5111e561-8f28-470d-8a71-fab5a3a398b7">
+          <description>Germany's Lukas Podolski breaks free at Arena Pernambuco. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="670b0eb4-4c0f-4c93-9e7e-bf9107d96150" type="goal_kick" time="2014-06-26T16:01:41Z" updated_time="2014-06-26T16:01:41Z" scratch="false" x="5" y="50" clock="2" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="4de913a9-2609-43d6-89c2-e2e2a93874a5" type="offside" time="2014-06-26T16:02:34Z" updated_time="2014-06-26T16:02:43Z" scratch="false" x="22" y="23" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="e2102346-9bbd-4f45-a980-ad66a59e77b3">
+          <description>Ravshan Irmatov blows against Germany's Mesut Ozil for offside.</description>
+        </fact>
+        <fact id="871f3299-be32-46ca-bd2a-e9a97991e896" type="throwin" time="2014-06-26T16:04:02Z" updated_time="2014-06-26T16:04:02Z" scratch="false" x="40" y="98" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="8f37f7b5-1423-4036-8cec-b3f07857c24d" type="offside" time="2014-06-26T16:05:08Z" updated_time="2014-06-26T16:05:18Z" scratch="false" x="56" y="39" clock="5" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>Clint Dempsey of USA is pulled up for offside.</description>
+        </fact>
+        <fact id="cd140e38-3f81-4104-82e5-fa5b816e4db8" type="throwin" time="2014-06-26T16:05:32Z" updated_time="2014-06-26T16:05:32Z" scratch="false" x="34" y="99" clock="5" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="56958d84-88a6-46c3-bae9-43b270aaf4e6" type="throwin" time="2014-06-26T16:05:46Z" updated_time="2014-06-26T16:05:46Z" scratch="false" x="35" y="98" clock="5" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Pernambuco.</description>
+        </fact>
+        <fact id="703db6ba-3d5f-4b5c-b741-885343f1a03d" type="throwin" time="2014-06-26T16:06:22Z" updated_time="2014-06-26T16:06:22Z" scratch="false" x="17" y="1" clock="6" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany capitalize from this throw-in deep inside USA's half?</description>
+        </fact>
+        <fact id="bbf3867c-c354-4ea3-ad27-30b63e17653a" type="throwin" time="2014-06-26T16:08:03Z" updated_time="2014-06-26T16:08:03Z" scratch="false" x="43" y="2" clock="7" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in USA.</description>
+        </fact>
+        <fact id="b9d58064-0ddf-4c61-91c1-c791748e8ed1" type="throwin" time="2014-06-26T16:09:45Z" updated_time="2014-06-26T16:09:45Z" scratch="false" x="23" y="99" clock="9" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="73b6a992-8ad1-4996-bb08-0f18e6cc91e4" type="throwin" time="2014-06-26T16:10:06Z" updated_time="2014-06-26T16:10:06Z" scratch="false" x="66" y="4" clock="9" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="e924ec0c-b64e-4bb3-818e-b6151c453f63" type="corner_kick" time="2014-06-26T16:09:30Z" updated_time="2014-06-26T16:09:52Z" scratch="false" x="5" y="5" clock="10" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="bf79c517-55d2-42ca-b14a-bd385da8f24b" type="free_kick" time="2014-06-26T16:10:47Z" updated_time="2014-06-26T16:10:47Z" scratch="false" x="66" y="72" clock="10" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a free kick to USA.</description>
+        </fact>
+        <fact id="d1e0104c-9438-475e-8912-40354e07146c" type="card" time="2014-06-26T16:11:00Z" updated_time="2014-06-26T16:11:00Z" scratch="false" clock="11" card="Y" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8571ae58-b5a1-46a1-aaaf-e9188add8e16">
+          <description>Benedikt Howedes for Germany has been booked by Ravshan Irmatov and receives a first yellow card.</description>
+        </fact>
+        <fact id="3801e452-1c19-475e-8b80-ccb6154b83f5" type="throwin" time="2014-06-26T16:11:32Z" updated_time="2014-06-26T16:11:32Z" scratch="false" x="44" y="1" clock="11" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="23ab907e-6df4-461e-9a6d-fd25a06e24d2" type="free_kick" time="2014-06-26T16:12:58Z" updated_time="2014-06-26T16:12:58Z" scratch="false" x="36" y="33" clock="12" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="466509b0-f170-4891-ba6f-48ddab499a5d" type="throwin" time="2014-06-26T16:13:37Z" updated_time="2014-06-26T16:13:37Z" scratch="false" x="26" y="1" clock="13" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a Germany throw-in in USA's half.</description>
+        </fact>
+        <fact id="f882cf5e-162b-454b-a524-b3fe1f724876" type="throwin" time="2014-06-26T16:15:05Z" updated_time="2014-06-26T16:15:05Z" scratch="false" x="22" y="0" clock="14" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="a3abde85-5792-4177-9cc6-bd8106025c18" type="throwin" time="2014-06-26T16:15:41Z" updated_time="2014-06-26T16:15:41Z" scratch="false" x="47" y="99" clock="15" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Pernambuco.</description>
+        </fact>
+        <fact id="234df4b8-1ba0-4fee-871a-22979e96c211" type="throwin" time="2014-06-26T16:16:16Z" updated_time="2014-06-26T16:16:16Z" scratch="false" x="22" y="98" clock="16" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="0825323c-1396-4877-88cf-6af9bd0cf674" type="throwin" time="2014-06-26T16:17:43Z" updated_time="2014-06-26T16:17:43Z" scratch="false" x="62" y="3" clock="17" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="a158d3dc-14c7-42c1-9a7e-bb3db4394b31" type="offside" time="2014-06-26T16:17:17Z" updated_time="2014-06-26T16:17:23Z" scratch="false" x="22" y="47" clock="18" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Thomas Muller for Germany is whistled offside.</description>
+        </fact>
+        <fact id="70d24b37-5f42-4564-8d70-abc7c2091bfe" type="throwin" time="2014-06-26T16:18:11Z" updated_time="2014-06-26T16:18:11Z" scratch="false" x="39" y="99" clock="18" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in USA.</description>
+        </fact>
+        <fact id="50e155ed-bed7-47b4-a180-8f3224b395e8" type="shot_off_target" time="2014-06-26T16:18:30Z" updated_time="2014-06-26T16:18:36Z" scratch="false" x="77" y="9" clock="19" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="4666f663-32d9-4b9d-ad4e-5bc861eae2bd">
+          <description>DaMarcus Beasley for USA gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="b04cabd8-d5a1-43bd-9ce7-1c69dafaa028" type="goal_kick" time="2014-06-26T16:18:31Z" updated_time="2014-06-26T16:18:31Z" scratch="false" x="95" y="50" clock="19" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="6d017acb-e27c-4abc-8e73-c0306d83f8ef" type="keeper_save" time="2014-06-26T16:19:48Z" updated_time="2014-06-26T16:19:48Z" scratch="false" x="23" y="48" clock="19" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="9fe6476f-2bcf-4f44-a19e-48b98bc01683" type="shot_on_target" time="2014-06-26T16:19:48Z" updated_time="2014-06-26T16:19:54Z" scratch="false" x="23" y="48" clock="20" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Germany push forward through Thomas Muller, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="cfd1c07a-89d9-4678-a9d4-8a4adb732090" type="shot_off_target" time="2014-06-26T16:21:58Z" updated_time="2014-06-26T16:22:07Z" scratch="false" x="79" y="20" clock="22" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="4c712e71-6e7c-4a76-adfa-67975c05a8d8">
+          <description>In Recife USA attack through Graham Zusi. The finish is off target, however.</description>
+        </fact>
+        <fact id="ad318a3b-46d3-4787-b1c9-6a5da1277501" type="goal_kick" time="2014-06-26T16:21:59Z" updated_time="2014-06-26T16:21:59Z" scratch="false" x="95" y="50" clock="22" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Arena Pernambuco.</description>
+        </fact>
+        <fact id="a94fd77d-754b-42ec-adce-e4635142e1d7" type="throwin" time="2014-06-26T16:22:49Z" updated_time="2014-06-26T16:22:49Z" scratch="false" x="31" y="2" clock="22" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="20e6816b-f325-4a8e-97c5-e8836a6dc4ae" type="free_kick" time="2014-06-26T16:23:52Z" updated_time="2014-06-26T16:23:52Z" scratch="false" x="49" y="84" clock="23" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany.</description>
+        </fact>
+        <fact id="88233a49-f271-4c92-a658-dae4665e4e6a" type="free_kick" time="2014-06-26T16:25:04Z" updated_time="2014-06-26T16:25:04Z" scratch="false" x="60" y="74" clock="24" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0908506c-15d7-42b4-bc20-b0d68a64f373" type="offside" time="2014-06-26T16:24:32Z" updated_time="2014-06-26T16:24:32Z" scratch="false" x="20" y="28" clock="25" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Germany's Thomas Muller has run offside.</description>
+        </fact>
+        <fact id="dd007fa1-2ce1-496e-8c1b-f1e3e99fee67" type="goal_kick" time="2014-06-26T16:26:25Z" updated_time="2014-06-26T16:26:25Z" scratch="false" x="5" y="50" clock="26" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov awards USA a goal kick.</description>
+        </fact>
+        <fact id="4ac35d59-bfbf-4e0e-bc49-b5236d18980c" type="throwin" time="2014-06-26T16:26:55Z" updated_time="2014-06-26T16:26:55Z" scratch="false" x="43" y="99" clock="26" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA in their own half.</description>
+        </fact>
+        <fact id="27e6a6e4-6fd0-452c-a468-391f1582fca4" type="throwin" time="2014-06-26T16:27:03Z" updated_time="2014-06-26T16:27:03Z" scratch="false" x="69" y="98" clock="26" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a USA throw-in in Germany's half.</description>
+        </fact>
+        <fact id="cbcbde9c-b661-4c0f-a27e-9c99ff0d9e5d" type="throwin" time="2014-06-26T16:28:04Z" updated_time="2014-06-26T16:28:04Z" scratch="false" x="88" y="98" clock="27" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Germany needs to be cautious. USA have an attacking throw-in.</description>
+        </fact>
+        <fact id="b6ebf264-174d-48c9-b0fb-1193305468d5" type="throwin" time="2014-06-26T16:28:45Z" updated_time="2014-06-26T16:28:45Z" scratch="false" x="94" y="99" clock="28" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA close to the penalty box.</description>
+        </fact>
+        <fact id="cb21efac-a94d-455c-995b-8b38d3e7f763" type="throwin" time="2014-06-26T16:29:08Z" updated_time="2014-06-26T16:29:08Z" scratch="false" x="94" y="99" clock="28" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="96b5c18e-2d86-4faf-9d8b-f2b9e7370ecb" type="free_kick" time="2014-06-26T16:29:29Z" updated_time="2014-06-26T16:29:29Z" scratch="false" x="55" y="62" clock="29" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="ab4a15bb-547b-47ad-a674-84fb716c2dc6" type="keeper_save" time="2014-06-26T16:30:35Z" updated_time="2014-06-26T16:30:35Z" scratch="false" x="19" y="60" clock="30" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="00bba794-9255-46b2-8e08-cdffe6ea7105" type="shot_on_target" time="2014-06-26T16:30:35Z" updated_time="2014-06-26T16:30:41Z" scratch="false" x="19" y="60" clock="31" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="0e28c29b-d344-4825-9128-0580ec64c448">
+          <description>Toni Kroos gets his shot on target but fails to score for Germany.</description>
+        </fact>
+        <fact id="2722cffd-a65b-44ea-b6ee-7ca12c427d0d" type="offside" time="2014-06-26T16:31:13Z" updated_time="2014-06-26T16:31:18Z" scratch="false" x="17" y="25" clock="32" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>In Recife Germany's Thomas Muller is caught offside.</description>
+        </fact>
+        <fact id="7965b4bd-28ce-4a81-b4e8-80f25a5f904a" type="throwin" time="2014-06-26T16:33:09Z" updated_time="2014-06-26T16:33:09Z" scratch="false" x="23" y="98" clock="33" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="46bdcfb3-ea05-4f60-97fd-e6c68fd6c9bd" type="throwin" time="2014-06-26T16:34:18Z" updated_time="2014-06-26T16:34:18Z" scratch="false" x="23" y="2" clock="34" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="f1000192-a5c4-4e2f-85e4-f30476a35004" type="keeper_save" time="2014-06-26T16:34:46Z" updated_time="2014-06-26T16:34:46Z" scratch="false" x="22" y="8" clock="34" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="54fed0e6-e57d-443f-ae4f-c37e473f760e" type="shot_on_target" time="2014-06-26T16:34:44Z" updated_time="2014-06-26T16:34:53Z" scratch="false" x="22" y="8" clock="35" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>In Recife Germany drive forward through Thomas Muller. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="37797994-ec4d-4137-95b8-9694aa2b517f" type="shot_off_target" time="2014-06-26T16:36:06Z" updated_time="2014-06-26T16:36:06Z" scratch="false" x="15" y="17" clock="36" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5111e561-8f28-470d-8a71-fab5a3a398b7">
+          <description>Lukas Podolski (Germany) is first to the ball but his header is off-target.</description>
+        </fact>
+        <fact id="62ecaa36-5b42-4d3c-b89b-14a2f0a77c4e" type="goal_kick" time="2014-06-26T16:36:06Z" updated_time="2014-06-26T16:36:06Z" scratch="false" x="5" y="50" clock="36" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Pernambuco.</description>
+        </fact>
+        <fact id="7ed2638d-dcb3-46b7-9ff3-9bba434f06df" type="free_kick" time="2014-06-26T16:37:05Z" updated_time="2014-06-26T16:37:05Z" scratch="false" x="40" y="47" clock="36" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="d7e8a1b5-5e2e-4717-86b1-c7052bded793" type="card" time="2014-06-26T16:37:13Z" updated_time="2014-06-26T16:37:13Z" scratch="false" clock="37" card="Y" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="3e6d40a1-4a89-4596-85d9-fbad55e08b91">
+          <description>Omar Gonzalez (USA) gets a yellow card.</description>
+        </fact>
+        <fact id="00bf34be-fcb2-4572-8c7d-0d740bc86e38" type="throwin" time="2014-06-26T16:39:33Z" updated_time="2014-06-26T16:39:33Z" scratch="false" x="95" y="99" clock="39" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a throw-in for USA, close to Germany's area.</description>
+        </fact>
+        <fact id="e2938904-5112-44a0-9bf5-d29039e4e199" type="goal_kick" time="2014-06-26T16:40:49Z" updated_time="2014-06-26T16:40:49Z" scratch="false" x="95" y="50" clock="40" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="70d951d8-70e6-4c50-9140-af561fa20f07" type="free_kick" time="2014-06-26T16:41:03Z" updated_time="2014-06-26T16:41:03Z" scratch="false" x="48" y="69" clock="40" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany.</description>
+        </fact>
+        <fact id="6c1a6262-3489-4c71-ae60-8f6397633f55" type="corner_kick" time="2014-06-26T16:40:27Z" updated_time="2014-06-26T16:40:27Z" scratch="false" x="95" y="5" clock="41" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="3ee539ad-c36f-43b8-af85-c18f5b6f38c8" type="free_kick" time="2014-06-26T16:42:08Z" updated_time="2014-06-26T16:42:08Z" scratch="false" x="20" y="71" clock="41" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="31d6cb69-c577-49bf-a72c-eb9c3a6fac27" type="throwin" time="2014-06-26T16:42:46Z" updated_time="2014-06-26T16:42:46Z" scratch="false" x="78" y="99" clock="42" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a USA throw-in in Germany's half.</description>
+        </fact>
+        <fact id="cbbdd792-a901-474c-977d-0295c978a2da" type="free_kick" time="2014-06-26T16:43:14Z" updated_time="2014-06-26T16:43:14Z" scratch="false" x="42" y="18" clock="43" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="db08bf92-486a-4e20-a5f7-0c11cea44fd2" type="goal_kick" time="2014-06-26T16:43:41Z" updated_time="2014-06-26T16:43:41Z" scratch="false" x="95" y="50" clock="43" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov awards Germany a goal kick.</description>
+        </fact>
+        <fact id="2b7b867a-0edc-46ad-acce-d2348d02f3a7" type="throwin" time="2014-06-26T16:44:02Z" updated_time="2014-06-26T16:44:02Z" scratch="false" x="33" y="99" clock="43" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Pernambuco.</description>
+        </fact>
+        <fact id="a2c90840-df18-488b-9481-22f0b2ca2fef" type="free_kick" time="2014-06-26T16:45:43Z" updated_time="2014-06-26T16:45:43Z" scratch="false" x="63" y="30" clock="45" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="439231f3-1bd7-4389-ba71-a9072071602c" type="injury_time" time="2014-06-26T16:45:51Z" updated_time="2014-06-26T16:45:51Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>1 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="c465c5e7-14eb-4cc1-af54-253bc3a0cbc4" type="period_over" time="2014-06-26T16:46:13Z" updated_time="2014-06-26T16:46:13Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The first-half has come to a close in Recife.</description>
+        </fact>
+        <fact id="b6d121e7-59f4-4463-ad77-7ce9d106e6b2" type="period_started" time="2014-06-26T16:46:13Z" updated_time="2014-06-26T16:46:13Z" scratch="false" period="H"/>
+        <fact id="e4d17e71-9741-4ec4-a080-5b22754b60e8" type="substitution" time="2014-06-26T17:03:05Z" updated_time="2014-06-26T17:03:05Z" scratch="false" clock="46" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="5111e561-8f28-470d-8a71-fab5a3a398b7" player_in_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce">
+          <description>Joachim Low (Germany) is making a first substitution, with Miroslav Klose replacing Lukas Podolski.</description>
+        </fact>
+        <fact id="79af9b15-9c8d-4781-b051-9431c26a3f90" type="period_started" time="2014-06-26T17:03:23Z" updated_time="2014-06-26T17:03:23Z" scratch="false" period="P2"/>
+        <fact id="450cc114-f469-4df8-aba3-ca4d3adc4947" type="shot_blocked" time="2014-06-26T17:04:41Z" updated_time="2014-06-26T17:04:50Z" scratch="false" x="20" y="49" clock="47" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany push forward at Arena Pernambuco and Jerome Boateng gets in a strike. This is blocked, however, by a determined USA defence.</description>
+        </fact>
+        <fact id="fa94c49f-9546-478a-91b0-dd93e69124ff" type="shot_off_target" time="2014-06-26T17:05:05Z" updated_time="2014-06-26T17:05:05Z" scratch="false" x="20" y="49" clock="47" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="e2102346-9bbd-4f45-a980-ad66a59e77b3">
+          <description>Germany's Mesut Ozil gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="3e110c83-b17e-4304-9408-5a77ba8252bf" type="goal_kick" time="2014-06-26T17:05:05Z" updated_time="2014-06-26T17:05:05Z" scratch="false" x="5" y="50" clock="47" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="d4b3b0a9-81ff-4aab-9654-f4ffb051b205" type="throwin" time="2014-06-26T17:06:09Z" updated_time="2014-06-26T17:06:09Z" scratch="false" x="30" y="99" clock="47" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="785563dd-b883-43e9-a6ac-64798070f822" type="throwin" time="2014-06-26T17:07:03Z" updated_time="2014-06-26T17:07:03Z" scratch="false" x="36" y="99" clock="48" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="ddc6eee0-0e76-47ab-a3e8-4ca5af06d54e" type="goal_kick" time="2014-06-26T17:08:37Z" updated_time="2014-06-26T17:08:37Z" scratch="false" x="5" y="50" clock="50" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov awards USA a goal kick.</description>
+        </fact>
+        <fact id="744a9086-23b1-4c59-aea0-94dd7ac77014" type="throwin" time="2014-06-26T17:09:13Z" updated_time="2014-06-26T17:09:13Z" scratch="false" x="33" y="99" clock="50" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in USA.</description>
+        </fact>
+        <fact id="f4393150-7a3d-496f-b0e5-c1a0790dd1da" type="shot_off_target" time="2014-06-26T17:09:47Z" updated_time="2014-06-26T17:09:47Z" scratch="false" x="17" y="87" clock="52" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce">
+          <description>Germany attack but Miroslav Klose's header doesn't find the target.</description>
+        </fact>
+        <fact id="98833bf7-dec3-4e4e-9a45-358bbe20e3d1" type="goal_kick" time="2014-06-26T17:09:47Z" updated_time="2014-06-26T17:09:47Z" scratch="false" x="5" y="50" clock="52" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="4b4c6cc7-b871-4fa3-ad36-1f25303226fa" type="free_kick" time="2014-06-26T17:10:59Z" updated_time="2014-06-26T17:10:59Z" scratch="false" x="22" y="41" clock="52" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="75c57df5-0523-462f-af0e-f5d6fa19f3c3" type="corner_kick" time="2014-06-26T17:12:26Z" updated_time="2014-06-26T17:12:26Z" scratch="false" x="5" y="5" clock="54" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="f50c49ff-5a72-4b65-a997-7bef798577aa" type="keeper_save" time="2014-06-26T17:12:39Z" updated_time="2014-06-26T17:12:39Z" scratch="false" x="16" y="23" clock="54" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="5fc93ac6-c786-4f5c-82fa-1dd6fbe73fb3" type="shot_on_target" time="2014-06-26T17:12:39Z" updated_time="2014-06-26T17:13:13Z" scratch="false" x="16" y="23" clock="55" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="17525942-55d1-48f1-8ef0-73ba1ee51956">
+          <description>Germany's Per Mertesacker goes close with his head but his effort is blocked.</description>
+        </fact>
+        <fact id="8143d599-7013-48d4-a152-96098e45000b" type="goal" time="2014-06-26T17:12:54Z" updated_time="2014-06-26T17:12:54Z" scratch="false" clock="55" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Goal! Thomas Muller gives Germany a 0-1 lead in Recife.</description>
+        </fact>
+        <fact id="7425f60a-a75f-488c-bcb8-4b7d8ebfb30c" type="free_kick" time="2014-06-26T17:13:51Z" updated_time="2014-06-26T17:13:51Z" scratch="false" x="48" y="64" clock="55" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b597ab74-66a4-4dcd-a1fa-d2335b94b3aa" type="throwin" time="2014-06-26T17:14:39Z" updated_time="2014-06-26T17:14:39Z" scratch="false" x="44" y="98" clock="56" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA in their own half.</description>
+        </fact>
+        <fact id="77afdbfd-0ad5-4282-8c0f-d4443132cfb6" type="free_kick" time="2014-06-26T17:15:02Z" updated_time="2014-06-26T17:15:02Z" scratch="false" x="60" y="67" clock="56" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a free kick to USA.</description>
+        </fact>
+        <fact id="8c381220-bb42-4ef2-9381-00b016adbfe2" type="throwin" time="2014-06-26T17:16:17Z" updated_time="2014-06-26T17:16:17Z" scratch="false" x="68" y="99" clock="57" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a USA throw-in in Germany's half.</description>
+        </fact>
+        <fact id="878d21ec-2dad-415e-a281-2e60540e3aa6" type="free_kick" time="2014-06-26T17:16:35Z" updated_time="2014-06-26T17:16:35Z" scratch="false" x="58" y="50" clock="58" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="cddb8011-02e9-4ece-bfa0-a0cd2e242373" type="substitution" time="2014-06-26T17:16:52Z" updated_time="2014-06-26T17:16:52Z" scratch="false" clock="59" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="46c6eccd-d923-4a22-901e-522a2f69f25a" player_in_id="6589af3e-2247-41f5-b40a-7ef9c16690a4">
+          <description>Jurgen Klinsmann is making the team's first substitution at Arena Pernambuco with Alejandro Bedoya replacing Brad Davis.</description>
+        </fact>
+        <fact id="a4d85917-b5ba-49d0-bcf9-a1a1bebd962f" type="free_kick" time="2014-06-26T17:17:36Z" updated_time="2014-06-26T17:17:36Z" scratch="false" x="39" y="35" clock="59" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="b767fa25-be4e-463c-a459-a91ab1b72344" type="free_kick" time="2014-06-26T17:20:01Z" updated_time="2014-06-26T17:20:01Z" scratch="false" x="38" y="55" clock="61" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="0621885d-3ae3-4596-a301-bfd4a26789c6" type="card" time="2014-06-26T17:20:25Z" updated_time="2014-06-26T17:20:45Z" scratch="false" clock="62" card="Y" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="2aeacd39-3f9c-42af-957e-9df8573973c4">
+          <description>USA's Kyle Beckerman has been booked in Recife and will miss the next match through suspension.</description>
+        </fact>
+        <fact id="97f6d28d-edbc-4a11-88de-1a16ce28dfea" type="goal_kick" time="2014-06-26T17:21:13Z" updated_time="2014-06-26T17:21:13Z" scratch="false" x="5" y="50" clock="62" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Pernambuco.</description>
+        </fact>
+        <fact id="f80534a4-ed90-4b49-9e71-25f64dbea8a8" type="free_kick" time="2014-06-26T17:22:02Z" updated_time="2014-06-26T17:22:02Z" scratch="false" x="59" y="70" clock="63" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a free kick to USA.</description>
+        </fact>
+        <fact id="26a774db-1367-4dd5-91e9-874d211c0976" type="free_kick" time="2014-06-26T17:22:21Z" updated_time="2014-06-26T17:22:21Z" scratch="false" x="54" y="24" clock="63" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="fb41b503-229c-4b31-9a9b-685ec64fa959" type="throwin" time="2014-06-26T17:23:58Z" updated_time="2014-06-26T17:23:58Z" scratch="false" x="83" y="1" clock="65" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="bace1421-c4bd-4bfc-93ad-ad2e6f39cae1" type="throwin" time="2014-06-26T17:24:35Z" updated_time="2014-06-26T17:24:35Z" scratch="false" x="60" y="2" clock="66" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="35c0dfd1-9aac-408d-9238-f116ade57577" type="goal_kick" time="2014-06-26T17:25:16Z" updated_time="2014-06-26T17:25:16Z" scratch="false" x="5" y="50" clock="66" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="f654560a-3105-436c-8c03-45d1f5376a7e" type="free_kick" time="2014-06-26T17:27:13Z" updated_time="2014-06-26T17:27:13Z" scratch="false" x="65" y="57" clock="68" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ravshan Irmatov signals a free kick to USA.</description>
+        </fact>
+        <fact id="7f1b24f6-7f6e-40b0-b1e2-cbba764908f2" type="corner_kick" time="2014-06-26T17:28:16Z" updated_time="2014-06-26T17:28:16Z" scratch="false" x="95" y="90" clock="70" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Corner awarded to USA.</description>
+        </fact>
+        <fact id="c774cace-3450-44b9-bcd8-1bb409369ca4" type="throwin" time="2014-06-26T17:28:33Z" updated_time="2014-06-26T17:28:33Z" scratch="false" x="81" y="99" clock="70" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a dangerous throw-in.</description>
+        </fact>
+        <fact id="a6e2506d-3a47-4436-90cd-d38f442c7305" type="free_kick" time="2014-06-26T17:29:37Z" updated_time="2014-06-26T17:29:37Z" scratch="false" x="41" y="25" clock="71" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="140cdde2-d62b-431a-be57-a7c0139fb3f3" type="throwin" time="2014-06-26T17:30:19Z" updated_time="2014-06-26T17:30:19Z" scratch="false" x="81" y="1" clock="71" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA capitalize from this throw-in deep inside Germany's half?</description>
+        </fact>
+        <fact id="69df8b94-0de3-43d5-9e59-4d5bd0fee1dd" type="injury" time="2014-06-26T17:31:32Z" updated_time="2014-06-26T17:31:32Z" scratch="false" x="81" y="40" clock="74" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Attention is being given to USA’s Jermaine Jones and play has been suspended briefly.</description>
+        </fact>
+        <fact id="e6d84f24-5c05-4b8c-b595-6f6f682e04cb" type="injury" time="2014-06-26T17:32:17Z" updated_time="2014-06-26T17:32:17Z" scratch="false" x="81" y="40" clock="74" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="6589af3e-2247-41f5-b40a-7ef9c16690a4">
+          <description>The match has been stopped briefly for attention to the injured Alejandro Bedoya.</description>
+        </fact>
+        <fact id="7c2aae9b-062a-45cf-95bf-d7169d77d365" type="injury_return" time="2014-06-26T17:34:15Z" updated_time="2014-06-26T17:34:15Z" scratch="false" clock="75" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="6589af3e-2247-41f5-b40a-7ef9c16690a4">
+          <description>USA’s Alejandro Bedoya is on his feet again at Arena Pernambuco.</description>
+        </fact>
+        <fact id="c5f9b8ff-6c6c-483c-974c-c0ab6bb43052" type="game_resumed" time="2014-06-26T17:34:17Z" updated_time="2014-06-26T17:34:17Z" scratch="false" clock="75">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="d477ab10-314a-4c89-8157-659f6b4ab3ca" type="substitution" time="2014-06-26T17:33:59Z" updated_time="2014-06-26T17:33:59Z" scratch="false" clock="76" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="6868e658-bc23-4084-a774-6e762d00f9a5" player_in_id="09bb94ef-6634-4ba2-8420-836b97009c4f">
+          <description>Germany make their second substitution with Mario Gotze replacing Bastian Schweinsteiger.</description>
+        </fact>
+        <fact id="1b27f165-68e1-41c2-aa74-d2df0a1ffd06" type="injury_return" time="2014-06-26T17:34:45Z" updated_time="2014-06-26T17:34:45Z" scratch="false" clock="76" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Jermaine Jones has recovered and rejoins the match in Recife.</description>
+        </fact>
+        <fact id="2a6b5768-bb9a-43b5-b0e0-9fbeef2ce8ec" type="throwin" time="2014-06-26T17:35:44Z" updated_time="2014-06-26T17:35:44Z" scratch="false" x="45" y="2" clock="77" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA in their own half.</description>
+        </fact>
+        <fact id="047a268d-4736-46aa-90a8-9a4a3a201f90" type="free_kick" time="2014-06-26T17:36:09Z" updated_time="2014-06-26T17:36:09Z" scratch="false" x="64" y="32" clock="77" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="d7565aaf-de32-4581-910a-592d0598418c" type="throwin" time="2014-06-26T17:36:45Z" updated_time="2014-06-26T17:36:45Z" scratch="false" x="31" y="2" clock="78" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="622df362-f2bb-4bce-9242-fa25d2b7f184" type="throwin" time="2014-06-26T17:37:07Z" updated_time="2014-06-26T17:37:07Z" scratch="false" x="12" y="1" clock="78" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a dangerous throw-in.</description>
+        </fact>
+        <fact id="458d4b6c-41b3-43a3-acea-63a8c5727ecb" type="keeper_save" time="2014-06-26T17:37:30Z" updated_time="2014-06-26T17:37:30Z" scratch="false" x="22" y="54" clock="79" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="732c3036-42b3-4d04-b3f5-6c8adac83f12" type="shot_on_target" time="2014-06-26T17:37:30Z" updated_time="2014-06-26T17:37:37Z" scratch="false" x="22" y="54" clock="80" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8571ae58-b5a1-46a1-aaaf-e9188add8e16">
+          <description>Germany's Benedikt Howedes gets in a shot on goal at Arena Pernambuco. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="b44dbcd5-8301-44ed-9700-899dad776999" type="corner_kick" time="2014-06-26T17:38:15Z" updated_time="2014-06-26T17:38:15Z" scratch="false" x="5" y="90" clock="80" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="3b2d8aef-1cf5-4025-a426-6ef0719f73a5" type="goal_kick" time="2014-06-26T17:38:27Z" updated_time="2014-06-26T17:38:27Z" scratch="false" x="5" y="50" clock="80" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Pernambuco.</description>
+        </fact>
+        <fact id="9c51595f-fb7c-4a81-9415-9ccaceb7321e" type="throwin" time="2014-06-26T17:39:07Z" updated_time="2014-06-26T17:39:07Z" scratch="false" x="65" y="1" clock="80" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="4e8da657-3343-4bdd-8770-32a2f29cebac" type="throwin" time="2014-06-26T17:39:22Z" updated_time="2014-06-26T17:39:22Z" scratch="false" x="44" y="1" clock="80" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="ef9ca7f5-b266-4d61-b622-6f085c80ca6b" type="free_kick" time="2014-06-26T17:40:49Z" updated_time="2014-06-26T17:40:49Z" scratch="false" x="21" y="65" clock="82" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d5a03a7f-0d39-4ccd-9b3b-da9b982424c8" type="substitution" time="2014-06-26T17:41:26Z" updated_time="2014-06-26T17:41:26Z" scratch="false" clock="83" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="4c712e71-6e7c-4a76-adfa-67975c05a8d8" player_in_id="e5563330-66f6-4f3b-be61-f52c6714c3c4">
+          <description>DeAndre Yedlin is on a sub for Graham Zusi for USA.</description>
+        </fact>
+        <fact id="dd366277-7042-4657-8579-87ee01b14c24" type="goal_kick" time="2014-06-26T17:42:01Z" updated_time="2014-06-26T17:42:01Z" scratch="false" x="95" y="50" clock="83" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="937d5a7e-65fa-4828-b148-03f89011f3ac" type="offside" time="2014-06-26T17:44:05Z" updated_time="2014-06-26T17:44:05Z" scratch="false" x="21" y="35" clock="86" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce">
+          <description>Germany drive forward but Miroslav Klose is judged offside.</description>
+        </fact>
+        <fact id="4ec731f9-6937-4751-82cc-269d0f206c73" type="free_kick" time="2014-06-26T17:44:29Z" updated_time="2014-06-26T17:44:29Z" scratch="false" x="51" y="40" clock="86" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ravshan Irmatov signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="6afee104-4c73-469b-9502-b1a6342433b2" type="free_kick" time="2014-06-26T17:46:19Z" updated_time="2014-06-26T17:46:19Z" scratch="false" x="58" y="22" clock="87" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e98b095c-6d2f-4fbc-a20a-6031dcb4e10e" type="substitution" time="2014-06-26T17:46:54Z" updated_time="2014-06-26T17:46:54Z" scratch="false" clock="89" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="e2102346-9bbd-4f45-a980-ad66a59e77b3" player_in_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>Andre Schurrle is on a sub for Mesut Ozil for Germany.</description>
+        </fact>
+        <fact id="06f87888-bc77-4d3c-9f35-73cb864a5091" type="offside" time="2014-06-26T17:48:33Z" updated_time="2014-06-26T17:50:54Z" scratch="false" x="43" y="60" clock="90" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Germany's Thomas Muller is whistled for offside at Arena Pernambuco.</description>
+        </fact>
+        <fact id="2082fd06-04cc-4caa-9f7b-7f792dfea491" type="injury_time" time="2014-06-26T17:48:40Z" updated_time="2014-06-26T17:48:40Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>4 minutes of injury time will be added to the second half.</description>
+        </fact>
+        <fact id="91ee51ab-47d8-4ba4-9740-3c6759b85b5e" type="shot_blocked" time="2014-06-26T17:49:59Z" updated_time="2014-06-26T17:50:03Z" scratch="false" x="10" y="81" clock="90" injury_time="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Important block from the USA defence as Andre Schurrle fires in a strike for Germany.</description>
+        </fact>
+        <fact id="afe4e08b-0e36-4103-b200-19e07e957edd" type="throwin" time="2014-06-26T17:51:11Z" updated_time="2014-06-26T17:51:11Z" scratch="false" x="87" y="1" clock="90" injury_time="2" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA close to the penalty box.</description>
+        </fact>
+        <fact id="37ab1268-8add-4404-9f5f-5c2a7290127d" type="shot_off_target" time="2014-06-26T17:51:32Z" updated_time="2014-06-26T17:51:32Z" scratch="false" x="87" y="1" clock="90" injury_time="3" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>In Recife, Clint Dempsey (USA) misses the target with a header.</description>
+        </fact>
+        <fact id="d80b347c-983c-433e-b6ca-b6f4d716077b" type="goal_kick" time="2014-06-26T17:51:32Z" updated_time="2014-06-26T17:51:32Z" scratch="false" x="95" y="50" clock="90" injury_time="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="1923b091-ed3a-450b-99eb-d79057903671" type="period_over" time="2014-06-26T17:52:26Z" updated_time="2014-06-26T17:52:26Z" scratch="false" home_score="0" away_score="1" period="P2">
+          <description>The match has come to a close in Recife. The final score is 0-1.</description>
+        </fact>
+        <fact id="268fe4d2-1514-4033-8729-81c96fcd64d6" type="match_ended" time="2014-06-26T17:52:26Z" updated_time="2014-06-26T17:52:26Z" scratch="false" home_score="0" away_score="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" draw="false"/>
+      </facts>
+      <!-- 4768790/4724/4711 -->
+    </match>
+  </matches>
+</summary>

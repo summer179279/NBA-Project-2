@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:10:49Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="4d63ec68-3746-4f32-b186-16663db470d6" country_code="CHL" preferred_foot="R" height_in="72" weight_lb="165" height_cm="182" weight_kg="74" first_name="Cristopher" last_name="Toselli" country="Chile">
+    <teams>
+      <team id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" country_code="CHL" position="G" is_manager="false" is_player="true" country="Chile" jersey_number="12"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="6" matches_started="0" minutes_played="540" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="ce88467b-55cf-4562-a008-05c36d38d3f7" name="Copa Sudamericana"/>
+          <tournament id="f169d593-b26e-43df-b012-f0f296fc457a" name="Copa Sudamericana"/>
+          <team id="2ea7f1d6-9143-413c-8b22-d80cf80bff6d" name="Universidad Catolica" alias="" country_code="CHL" country="Chile" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 26457/1405922508 -->
+  </player>
+</profile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:33:10Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="dbe1746f-6275-41f8-afff-f293e4baa277" status="closed" scratched="false" period="P2" scheduled="2014-06-15T01:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C"/>
+      <round week="24" number="1" type="table"/>
+      <home id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team" formation="4-3-3" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="140" ball_safe="128" corner_kicks="8" dangerous_attacks="61" fouls="11" free_kicks="13" goal_attempts="14" goal_kicks="6" offsides="3" saves="2" shots_total="14" substitutions="3" throw_ins="22" yellow_card="2" shots_on_target="6" shots_off_target="8" possessions="59"/>
+      </home>
+      <away id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="112" ball_safe="95" corner_kicks="5" dangerous_attacks="57" fouls="12" free_kicks="14" goal_attempts="4" goal_kicks="16" offsides="1" saves="4" shots_total="4" substitutions="3" throw_ins="22" yellow_card="2" shots_on_target="2" shots_off_target="2" possessions="41"/>
+      </away>
+      <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257"/>
+      <!-- 4768736/4768/4770 -->
+    </match>
+  </matches>
+</boxscore>

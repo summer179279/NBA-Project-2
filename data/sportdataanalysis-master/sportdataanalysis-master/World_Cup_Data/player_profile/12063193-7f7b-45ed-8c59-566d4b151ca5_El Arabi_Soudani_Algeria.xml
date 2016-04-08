@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:17:25Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="12063193-7f7b-45ed-8c59-566d4b151ca5" country_code="DZA" preferred_foot="B" height_in="71" weight_lb="165" height_cm="180" weight_kg="74" first_name="El Arabi" last_name="Soudani" country="Algeria">
+    <teams>
+      <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" country_code="DZA" position="F" is_manager="false" is_player="true" country="Algeria" jersey_number="15"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="166" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="383" yellow_cards="-1" yellow_red_cards="-1" red_cards="1" substitutions_out="4" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="a3b51f78-c7a1-47fa-b5f5-7942a72cdcc1" name="NK Dinamo Zagreb" alias="DZA" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="324" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="a3b51f78-c7a1-47fa-b5f5-7942a72cdcc1" name="NK Dinamo Zagreb" alias="DZA" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 173713/1405951525 -->
+  </player>
+</profile>

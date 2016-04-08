@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:21:15 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="bb084342-fc44-4035-82c4-2789174b723e" status="ACT" full_name="Brandon Jennings" first_name="Brandon" last_name="Jennings" abbr_name="B.Jennings" height="73" weight="169" position="G" primary_position="PG" jersey_number="7" experience="4" college="Oak Hill Academy (VA)" birth_place="Compton, CA, USA" birthdate="1989-09-23" updated="2013-10-18T20:43:57+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" name="Pistons" market="Detroit" alias="DET"/>
+  <draft team_id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="1" pick="10"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" name="Pistons" market="Detroit" alias="DET">
+        <statistics>
+          <total games_played="80" games_started="79" minutes="2728.0" field_goals_made="423" field_goals_att="1135" three_points_made="154" three_points_att="457" blocked_att="44" free_throws_made="241" free_throws_att="321" offensive_rebounds="59" defensive_rebounds="185" assists="609" turnovers="215" steals="101" blocks="8" personal_fouls="157" tech_fouls="12" points="1241" flagrant_fouls="0" free_throws_pct="0.751" two_points_pct="0.397" three_points_pct="0.337" field_goals_pct="0.373" rebounds="244" assists_turnover_ratio="2.83" two_points_made="269" two_points_att="678"/>
+          <average points="15.5" blocked_att="0.55" turnovers="2.69" free_throws_att="4.01" field_goals_att="14.19" off_rebounds="0.74" two_points_att="8.48" assists="7.6" blocks="0.1" personal_fouls="1.96" two_points_made="3.36" flagrant_fouls="0.0" rebounds="3.05" three_points_made="1.93" minutes="34.1" def_rebounds="2.31" free_throws_made="3.01" field_goals_made="5.29" steals="1.26" three_points_att="5.71"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:21:15 +0000 -->

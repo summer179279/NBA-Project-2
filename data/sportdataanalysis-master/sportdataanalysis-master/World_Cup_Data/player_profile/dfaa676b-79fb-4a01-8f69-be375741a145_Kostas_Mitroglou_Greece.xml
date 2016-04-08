@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:11:43Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="dfaa676b-79fb-4a01-8f69-be375741a145" country_code="GRC" preferred_foot="L" height_in="74" weight_lb="189" height_cm="187" weight_kg="85" first_name="Kostas" last_name="Mitroglou" country="Greece">
+    <teams>
+      <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" country_code="GRC" position="F" is_manager="false" is_player="true" country="Greece" jersey_number="9"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="10" matches_started="0" minutes_played="656" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="3">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="61" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="151" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="3a14bf84-1f10-4b73-8535-4d54e8a56ae5" name="Fulham FC" alias="FUL" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="14" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="12" matches_started="0" minutes_played="812" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="3">
+          <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+          <tournament_group id="3f8e0d22-25a0-4180-82e0-4a10a941b5b7" name="Super League"/>
+          <team id="b2c8948c-4c24-481e-a83c-615d16b284b6" name="Olympiacos FC" alias="OLY" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="5" matches_started="0" minutes_played="450" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="b2c8948c-4c24-481e-a83c-615d16b284b6" name="Olympiacos FC" alias="OLY" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="19" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 16081/1405951590 -->
+  </player>
+</profile>

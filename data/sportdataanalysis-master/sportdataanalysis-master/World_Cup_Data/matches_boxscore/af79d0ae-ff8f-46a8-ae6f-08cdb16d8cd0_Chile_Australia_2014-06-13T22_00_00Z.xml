@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:32:58Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="af79d0ae-ff8f-46a8-ae6f-08cdb16d8cd0" status="closed" scratched="false" period="P2" scheduled="2014-06-13T22:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B"/>
+      <round week="24" number="1" type="table"/>
+      <home id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" formation="4-3-1-2" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="2" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="105" ball_safe="97" corner_kicks="3" dangerous_attacks="68" fouls="9" free_kicks="18" goal_attempts="7" goal_kicks="10" offsides="1" saves="3" shots_total="7" substitutions="3" throw_ins="24" yellow_card="1" shots_on_target="5" shots_off_target="2" possessions="63"/>
+      </home>
+      <away id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="85" ball_safe="84" corner_kicks="1" dangerous_attacks="57" fouls="17" free_kicks="10" goal_attempts="10" goal_kicks="8" offsides="1" saves="2" shots_total="10" substitutions="3" throw_ins="26" yellow_card="3" shots_on_target="4" shots_off_target="6" possessions="37"/>
+      </away>
+      <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513"/>
+      <!-- 4768724/4754/4741 -->
+    </match>
+  </matches>
+</boxscore>

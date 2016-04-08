@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:28:38Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="840092cd-af2d-4eab-a6fa-ca4545fb2dfe" country_code="RUS" preferred_foot="R" height_in="74" weight_lb="189" height_cm="187" weight_kg="85" first_name="Andrey" last_name="Semenov" country="Russian Federation">
+    <teams>
+      <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" country_code="RUS" position="D" is_manager="false" is_player="true" country="Russian Federation" jersey_number="5"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="13" matches_started="0" minutes_played="1063" yellow_cards="1" yellow_red_cards="2" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="5c22b4b7-7f9a-4d0b-a2c6-fcd1482253e6" name="FC Amkar Perm" alias="AMK" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="11" matches_started="0" minutes_played="976" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="61168601-3f26-4b9c-b75e-25c6002e6a02" name="RFK Terek Grozny" alias="TER" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 84767/1405922755 -->
+  </player>
+</profile>

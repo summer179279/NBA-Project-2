@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:38:22Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="25441ac7-584c-41a9-a255-c7ac5f1e8e2f" country_code="USA" preferred_foot="R" height_in="74" weight_lb="185" height_cm="187" weight_kg="83" first_name="Geoff" last_name="Cameron" country="United States">
+    <teams>
+      <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" country_code="USA" position="D" is_manager="false" is_player="true" country="United States" jersey_number="20"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="4" matches_started="0" minutes_played="286" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="25f72edd-dbf5-4790-afa7-5fbb0dafeb37" name="WC Qualif., CONCACAF"/>
+          <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="f31c42a3-6795-4882-ac06-18b4bfbff1d5" name="Stoke City" alias="STO" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="37" matches_started="0" minutes_played="3286" yellow_cards="7" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="f31c42a3-6795-4882-ac06-18b4bfbff1d5" name="Stoke City" alias="STO" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="8cf07e0d-a6db-45fa-a67c-c10b43449a69" name="League Cup"/>
+          <tournament id="3512b79f-bc4f-49f1-8c1b-e8d5e35c801e" name="League Cup"/>
+          <team id="f31c42a3-6795-4882-ac06-18b4bfbff1d5" name="Stoke City" alias="STO" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 48988/1405922562 -->
+  </player>
+</profile>

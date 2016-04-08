@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-06 19:10:58 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="7c636961-816a-4b44-8991-671df9d91d9c" status="ACT" full_name="Mike Muscala" first_name="Mike" last_name="Muscala" abbr_name="M.Muscala" height="83" weight="239" position="F-C" primary_position="PF" jersey_number="31" experience="0" college="Bucknell" birth_place="Roseville, MN, USA" birthdate="1991-07-01" updated="2014-03-31T23:51:06+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL"/>
+  <draft team_id="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="2" pick="44"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL">
+        <statistics>
+          <total games_played="20" games_started="0" minutes="215.0" field_goals_made="31" field_goals_att="73" three_points_made="0" three_points_att="3" blocked_att="5" free_throws_made="14" free_throws_att="14" offensive_rebounds="17" defensive_rebounds="35" assists="7" turnovers="12" steals="3" blocks="10" personal_fouls="29" tech_fouls="0" points="76" flagrant_fouls="0" free_throws_pct="1.0" two_points_pct="0.443" three_points_pct="0.0" field_goals_pct="0.425" rebounds="52" assists_turnover_ratio="0.58" two_points_made="31" two_points_att="70"/>
+          <average points="3.8" blocked_att="0.25" turnovers="0.6" free_throws_att="0.7" field_goals_att="3.65" off_rebounds="0.85" two_points_att="3.5" assists="0.4" blocks="0.5" personal_fouls="1.45" two_points_made="1.55" flagrant_fouls="0.0" rebounds="2.6" three_points_made="0.0" minutes="10.8" def_rebounds="1.75" free_throws_made="0.7" field_goals_made="1.55" steals="0.15" three_points_att="0.15"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-06 19:10:58 +0000 -->

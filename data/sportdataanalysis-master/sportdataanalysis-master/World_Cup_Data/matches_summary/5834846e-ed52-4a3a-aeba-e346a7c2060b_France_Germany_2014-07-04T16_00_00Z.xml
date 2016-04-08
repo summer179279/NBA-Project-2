@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:41:59Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="5834846e-ed52-4a3a-aeba-e346a7c2060b" status="closed" scratched="false" period="P2" scheduled="2014-07-04T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="27" number="3" type="cup" name="QF" scheduled_legs="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" loser_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="5834846e-ed52-4a3a-aeba-e346a7c2060b" status="closed" number="1" home_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" away_id="686950a8-4f89-4ed2-a32b-f0a564660859" home_score="0" away_score="1"/>
+      </round>
+      <home id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" formation="4-3-3" score="0" regular_score="0" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="85" ball_safe="86" corner_kicks="5" dangerous_attacks="42" fouls="15" free_kicks="18" goal_attempts="10" goal_kicks="6" offsides="3" saves="2" shots_total="10" substitutions="3" throw_ins="32" yellow_card="0" shots_on_target="6" shots_off_target="4" possessions="51"/>
+        <players>
+          <player id="69031066-777d-4c70-b341-010036ada614" country_code="FRA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Mathieu" last_name="Valbuena" country="France" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1dac127c-a7fd-4ccd-a3ea-f7c38591845e" country_code="FRA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Hugo" last_name="Lloris" country="France" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5f4cd917-0baf-43b0-af5c-c248f2d4d8a8" country_code="FRA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Antoine" last_name="Griezmann" country="France" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19971399-cfe1-4a68-90d9-44ba215f6d31" country_code="FRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Remy" last_name="Cabella" country="France" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0081aa4c-11a5-4482-b64a-9b39b23b044e" country_code="FRA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Mathieu" last_name="Debuchy" country="France" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="88e58104-4b86-4a8a-8824-5adf9ea6e5b3" country_code="FRA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Raphael" last_name="Varane" country="France" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0438d2f4-6e42-406a-8d6b-230bb8e6b049" country_code="FRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Morgan" last_name="Schneiderlin" country="France" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="08862528-470e-4af0-a337-77e285293259" country_code="FRA" position="F" started="false" tactical_position="6" tactical_order="7" first_name="Loic" last_name="Remy" country="France" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="c9de37f7-cd23-4045-bea2-0634891d7b94" country_code="FRA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Paul" last_name="Pogba" country="France" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a206449f-9bbb-4b11-983b-60ef64330b07" country_code="FRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Eliaquim" last_name="Mangala" country="France" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="276bee31-b14b-4811-8ba2-f6156185a5f6" country_code="FRA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Yohan" last_name="Cabaye" country="France" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="23309a2b-0177-4dff-a9ce-e816e778d0e7" country_code="FRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Stephane" last_name="Ruffier" country="France" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0f947d92-13e7-4809-b2b4-88a63551f432" country_code="FRA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Patrice" last_name="Evra" country="France" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="41bc4c09-ad53-4837-992a-4f24661b5ffb" country_code="FRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Antonio" last_name="Mavuba" country="France" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0962d335-279a-49cb-b1eb-841cca80045f" country_code="FRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Lucas" last_name="Digne" country="France" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0a1ab76a-8aa5-4d1f-9235-a8e01db66076" country_code="FRA" position="D" started="false" tactical_position="3" tactical_order="4" first_name="Laurent" last_name="Koscielny" country="France" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="8039f66e-9605-4ead-b470-9e104f3f0223" country_code="FRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Bacary" last_name="Sagna" country="France" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="18ff4125-c7a7-4cdb-8fc4-70caf0381d12" country_code="FRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mickael" last_name="Landreau" country="France" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="420f1db5-59fa-45e4-8c1c-787a4c106af6" country_code="FRA" position="F" started="false" tactical_position="8" tactical_order="9" first_name="Olivier" last_name="Giroud" country="France" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0c558460-ef74-48a1-a008-5c5b5e32f668" country_code="FRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Moussa" last_name="Sissoko" country="France" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde" country_code="FRA" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Karim" last_name="Benzema" country="France" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1246bbaa-dc4d-451c-a948-3a3505c742e6" country_code="FRA" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Blaise" last_name="Matuidi" country="France" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="18e314fd-a184-44d7-92e1-453883687ffe" country_code="FRA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Mamadou" last_name="Sakho" country="France" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-2-3-1" score="1" regular_score="1" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="98" ball_safe="89" corner_kicks="3" dangerous_attacks="43" fouls="18" free_kicks="18" goal_attempts="5" goal_kicks="10" offsides="0" saves="5" shots_total="5" substitutions="3" throw_ins="30" yellow_card="2" shots_on_target="3" shots_off_target="2" possessions="49"/>
+        <players>
+          <player id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce" country_code="DEU" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Miroslav" last_name="Klose" country="Germany" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="316115aa-50f7-4793-b2e3-2226495d19a3" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Ron-Robert" last_name="Zieler" country="Germany" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1bb4289a-a716-42e1-a2c2-14e90e877628" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Mats" last_name="Hummels" country="Germany" jersey_number="5">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e28c29b-d344-4825-9128-0580ec64c448" country_code="DEU" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Toni" last_name="Kroos" country="Germany" jersey_number="18">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="6e9abee4-9771-4011-8cfd-f1ae1226b313" country_code="DEU" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Manuel" last_name="Neuer" country="Germany" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="37a851be-bcf3-47b5-9b9d-0903fca67996" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Erik" last_name="Durm" country="Germany" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13dae01a-61fc-4235-8471-0ed3658cc9ed" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Shkodran" last_name="Mustafi" country="Germany" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="09bb94ef-6634-4ba2-8420-836b97009c4f" country_code="DEU" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Mario" last_name="Gotze" country="Germany" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5111e561-8f28-470d-8a71-fab5a3a398b7" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Lukas" last_name="Podolski" country="Germany" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e2102346-9bbd-4f45-a980-ad66a59e77b3" country_code="DEU" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Mesut" last_name="Ozil" country="Germany" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="f02f3123-b872-4dbd-bb62-cf98595ef841" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Sami" last_name="Khedira" country="Germany" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13fdb7a7-5423-43a8-880a-9cfd7762cf2b" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Kevin" last_name="Grosskreutz" country="Germany" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="05679d54-db23-4a53-8064-4d1613a134cc" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Jerome" last_name="Boateng" country="Germany" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="17525942-55d1-48f1-8ef0-73ba1ee51956" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Per" last_name="Mertesacker" country="Germany" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8571ae58-b5a1-46a1-aaaf-e9188add8e16" country_code="DEU" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Benedikt" last_name="Howedes" country="Germany" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="31f1a88e-b510-4006-9307-17b23e788f43" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Matthias" last_name="Ginter" country="Germany" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6868e658-bc23-4084-a774-6e762d00f9a5" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Bastian" last_name="Schweinsteiger" country="Germany" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="23e5f012-4cdf-4548-8788-b2b8170601ef" country_code="DEU" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Andre" last_name="Schurrle" country="Germany" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="3dd7d6c6-cd58-4cb2-a28a-1a340e9774b9" country_code="DEU" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Philipp" last_name="Lahm" country="Germany" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5b9aac82-f07e-411d-a4aa-8e645130b2cc" country_code="DEU" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Thomas" last_name="Muller" country="Germany" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="432f9e09-e0d3-4742-aa06-00cf2c0bc581" country_code="DEU" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Christoph" last_name="Kramer" country="Germany" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5dafcbb4-b013-499d-95f7-db096aabd924" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Roman" last_name="Weidenfeller" country="Germany" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6d45e36b-f057-4bdd-8466-761fe563d87f" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Julian" last_name="Draxler" country="Germany" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210"/>
+      <facts>
+        <fact id="9d5e45b1-1327-45d4-8810-9c9dfad05b25" type="match_started" time="2014-07-04T16:02:48Z" updated_time="2014-07-04T16:02:48Z" scratch="false" clock="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Today's referee, Nestor Pitana, has blown to start the match.</description>
+        </fact>
+        <fact id="2b9332c6-30ea-4a35-ae84-5dabcd74a632" type="period_started" time="2014-07-04T16:02:48Z" updated_time="2014-07-04T16:02:48Z" scratch="false" period="P1"/>
+        <fact id="e7a07c32-8e1c-4a08-84a3-614bf0a89c46" type="throwin" time="2014-07-04T16:03:36Z" updated_time="2014-07-04T16:03:36Z" scratch="false" x="33" y="99" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a Germany throw-in in France's half.</description>
+        </fact>
+        <fact id="39f6726f-28d2-4c2b-8089-1b99cae31cc0" type="shot_blocked" time="2014-07-04T16:05:01Z" updated_time="2014-07-04T16:05:08Z" scratch="false" x="20" y="22" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>In Rio de Janeiro, Toni Kroos of Germany is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="f857cabc-3156-4d4d-9e00-31da3f175728" type="throwin" time="2014-07-04T16:05:55Z" updated_time="2014-07-04T16:05:55Z" scratch="false" x="26" y="99" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="21775729-bbd3-4610-818b-08beb8f47a62" type="throwin" time="2014-07-04T16:06:06Z" updated_time="2014-07-04T16:06:06Z" scratch="false" x="12" y="99" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a throw-in for Germany, close to France's area.</description>
+        </fact>
+        <fact id="84e711c0-80e9-4218-8625-dd5032e84287" type="throwin" time="2014-07-04T16:07:05Z" updated_time="2014-07-04T16:07:05Z" scratch="false" x="44" y="2" clock="4" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="8d9730f2-e885-4fe0-8efa-7c659a6808e8" type="free_kick" time="2014-07-04T16:07:44Z" updated_time="2014-07-04T16:07:44Z" scratch="false" x="34" y="20" clock="4" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany.</description>
+        </fact>
+        <fact id="7a9cd2b8-35dc-410e-aec4-70e42d31a13c" type="shot_off_target" time="2014-07-04T16:09:51Z" updated_time="2014-07-04T16:09:51Z" scratch="false" x="88" y="16" clock="7" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>France's Karim Benzema misses with an attempt on goal.</description>
+        </fact>
+        <fact id="26a184dc-5710-4b9a-8f8a-bb4915263ed3" type="goal_kick" time="2014-07-04T16:09:51Z" updated_time="2014-07-04T16:09:51Z" scratch="false" x="95" y="50" clock="7" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="66688f2d-668d-4eb5-854a-8cf36149bd52" type="free_kick" time="2014-07-04T16:10:27Z" updated_time="2014-07-04T16:10:27Z" scratch="false" x="37" y="40" clock="7" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="bc030c55-92c8-4cc3-9226-ead9fd3ba1fa" type="throwin" time="2014-07-04T16:10:52Z" updated_time="2014-07-04T16:10:52Z" scratch="false" x="55" y="98" clock="8" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="05682910-049b-4227-8a27-6d966711e9f8" type="throwin" time="2014-07-04T16:11:28Z" updated_time="2014-07-04T16:11:28Z" scratch="false" x="34" y="99" clock="8" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France in their own half.</description>
+        </fact>
+        <fact id="9aeb9407-389b-49b0-b3d3-85b52ff8641b" type="throwin" time="2014-07-04T16:12:37Z" updated_time="2014-07-04T16:12:37Z" scratch="false" x="45" y="99" clock="9" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Ball safe as France is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="7082d4a7-a930-4ebe-8bb9-9acc4e718099" type="throwin" time="2014-07-04T16:13:18Z" updated_time="2014-07-04T16:13:18Z" scratch="false" x="72" y="99" clock="10" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a France throw-in in Germany's half.</description>
+        </fact>
+        <fact id="acf5fd7e-6589-47b9-a35f-3d097261cedf" type="free_kick" time="2014-07-04T16:14:13Z" updated_time="2014-07-04T16:14:13Z" scratch="false" x="41" y="70" clock="11" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="2685a4fd-15bb-4440-9721-7cacf598d1b6" type="goal" time="2014-07-04T16:15:02Z" updated_time="2014-07-04T16:15:02Z" scratch="false" clock="13" home_score="0" away_score="1" penalty="false" owngoal="false" header="true" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="1bb4289a-a716-42e1-a2c2-14e90e877628" assist1_id="0e28c29b-d344-4825-9128-0580ec64c448">
+          <description>Toni Kroos instrumental with a fine assist.</description>
+        </fact>
+        <fact id="e63c5670-cfad-4ab1-804c-efb69dce5bc5" type="throwin" time="2014-07-04T16:15:54Z" updated_time="2014-07-04T16:15:54Z" scratch="false" x="35" y="98" clock="13" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="2652a4c5-1f64-4e96-bd05-ced16916339f" type="throwin" time="2014-07-04T16:16:20Z" updated_time="2014-07-04T16:16:20Z" scratch="false" x="36" y="98" clock="13" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="bfc06162-8845-4ee4-ba08-e25389272da2" type="throwin" time="2014-07-04T16:16:40Z" updated_time="2014-07-04T16:16:40Z" scratch="false" x="41" y="98" clock="13" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France at Estadio do Maracana.</description>
+        </fact>
+        <fact id="0bf3ac9f-c396-4061-96c0-022e74b83e4a" type="goal_kick" time="2014-07-04T16:18:01Z" updated_time="2014-07-04T16:18:01Z" scratch="false" x="95" y="50" clock="15" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="59fb3d8f-92a9-4b30-b7aa-ab214bd29307" type="throwin" time="2014-07-04T16:19:30Z" updated_time="2014-07-04T16:19:30Z" scratch="false" x="30" y="98" clock="16" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9807e10b-e186-4498-a64a-53ec5e20b302" type="throwin" time="2014-07-04T16:19:47Z" updated_time="2014-07-04T16:19:47Z" scratch="false" x="47" y="98" clock="16" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France at Estadio do Maracana.</description>
+        </fact>
+        <fact id="72453831-e833-4ace-9ccd-a8f4035511ce" type="throwin" time="2014-07-04T16:19:58Z" updated_time="2014-07-04T16:19:58Z" scratch="false" x="59" y="99" clock="17" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="1a0769a9-3e04-4396-abf7-857debc8d917" type="throwin" time="2014-07-04T16:20:08Z" updated_time="2014-07-04T16:20:08Z" scratch="false" x="73" y="98" clock="17" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="5cbeac2b-6e44-4c6c-89da-a17e961c0924" type="free_kick" time="2014-07-04T16:20:55Z" updated_time="2014-07-04T16:20:55Z" scratch="false" x="62" y="60" clock="18" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="1d1aa3ba-6781-407a-91a2-9d7e5b293057" type="throwin" time="2014-07-04T16:21:33Z" updated_time="2014-07-04T16:21:33Z" scratch="false" x="37" y="98" clock="18" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Ball safe as France is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="87927430-affb-49fb-a54f-83a3bcc4e2e6" type="free_kick" time="2014-07-04T16:22:02Z" updated_time="2014-07-04T16:22:02Z" scratch="false" x="39" y="58" clock="19" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="2893e5a4-6039-41cd-a90e-8a121ec84cf2" type="throwin" time="2014-07-04T16:22:46Z" updated_time="2014-07-04T16:22:46Z" scratch="false" x="63" y="98" clock="19" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="77b0ff4d-ec23-4820-ad3d-08be61baa62d" type="goal_kick" time="2014-07-04T16:23:16Z" updated_time="2014-07-04T16:23:16Z" scratch="false" x="95" y="50" clock="20" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="13c23021-4c92-46b5-ae22-61364ede12f8" type="throwin" time="2014-07-04T16:23:51Z" updated_time="2014-07-04T16:23:51Z" scratch="false" x="36" y="1" clock="21" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9ab2b143-22eb-4bf2-bcca-9729c008f3c3" type="throwin" time="2014-07-04T16:24:29Z" updated_time="2014-07-04T16:24:29Z" scratch="false" x="49" y="98" clock="21" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France in their own half.</description>
+        </fact>
+        <fact id="a3196f46-e8c7-4000-939a-1fc4df9e5b87" type="offside" time="2014-07-04T16:24:59Z" updated_time="2014-07-04T16:25:05Z" scratch="false" x="66" y="65" clock="23" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>Karim Benzema for France is whistled offside.</description>
+        </fact>
+        <fact id="583180fd-8b85-44b6-805a-85075d3cafd0" type="free_kick" time="2014-07-04T16:27:52Z" updated_time="2014-07-04T16:27:52Z" scratch="false" x="15" y="56" clock="25" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="12bc4d59-4fec-4926-a802-d40e739a544c" type="throwin" time="2014-07-04T16:29:16Z" updated_time="2014-07-04T16:29:16Z" scratch="false" x="70" y="98" clock="26" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a France throw-in in Germany's half.</description>
+        </fact>
+        <fact id="77500c8f-0356-4d4a-bd71-c28f0d66b587" type="throwin" time="2014-07-04T16:30:23Z" updated_time="2014-07-04T16:30:23Z" scratch="false" x="38" y="2" clock="27" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a Germany throw-in in France's half.</description>
+        </fact>
+        <fact id="78a7c344-8096-464d-b58a-c4630f33ee15" type="free_kick" time="2014-07-04T16:31:42Z" updated_time="2014-07-04T16:31:42Z" scratch="false" x="12" y="18" clock="28" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany capitalize from this dangerous free kick?</description>
+        </fact>
+        <fact id="5a50ac5b-a89d-4698-94a2-6392454390c2" type="shot_blocked" time="2014-07-04T16:32:48Z" updated_time="2014-07-04T16:32:48Z" scratch="false" x="5" y="93" clock="30" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany push forward at Estadio do Maracana and Benedikt Howedes gets in a strike. This is blocked, however, by a determined France defence.</description>
+        </fact>
+        <fact id="b0d54fbf-5646-48bc-abad-513978f244cf" type="throwin" time="2014-07-04T16:33:17Z" updated_time="2014-07-04T16:33:17Z" scratch="false" x="6" y="2" clock="30" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>France needs to be cautious. Germany have an attacking throw-in.</description>
+        </fact>
+        <fact id="b37fbdd4-688d-4511-bcb5-f7c4fa0e01da" type="corner_kick" time="2014-07-04T16:33:04Z" updated_time="2014-07-04T16:33:04Z" scratch="false" x="5" y="90" clock="31" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="60a9c72d-2122-4eee-9168-4661e63cae57" type="free_kick" time="2014-07-04T16:34:07Z" updated_time="2014-07-04T16:34:07Z" scratch="false" x="39" y="76" clock="31" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a free kick to France in their own half.</description>
+        </fact>
+        <fact id="8001c8b4-a3f6-4c05-a751-beedd2ee16d4" type="goal_kick" time="2014-07-04T16:35:30Z" updated_time="2014-07-04T16:35:30Z" scratch="false" x="5" y="50" clock="32" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana awards France a goal kick.</description>
+        </fact>
+        <fact id="017f2dd6-59b7-4963-956f-950624fd6898" type="keeper_save" time="2014-07-04T16:36:19Z" updated_time="2014-07-04T16:36:19Z" scratch="false" x="89" y="75" clock="33" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="55d19d15-2cc4-4e67-a303-12ce7ad62996" type="shot_on_target" time="2014-07-04T16:36:19Z" updated_time="2014-07-04T16:37:42Z" scratch="false" x="89" y="75" clock="34" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="69031066-777d-4c70-b341-010036ada614">
+          <description>France drive forward and Mathieu Valbuena gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="941406d4-2bec-4613-aadd-647416877b88" type="shot_blocked" time="2014-07-04T16:36:36Z" updated_time="2014-07-04T16:36:36Z" scratch="false" x="97" y="8" clock="34" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France's Karim Benzema gets in a shot but it is blocked by a Germany defender.</description>
+        </fact>
+        <fact id="88926e28-1426-478b-bca2-9836afefb83e" type="corner_kick" time="2014-07-04T16:36:39Z" updated_time="2014-07-04T16:36:46Z" scratch="false" x="95" y="5" clock="34" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="42fd3d24-0774-4a64-b804-ba5189027735" type="shot_on_target" time="2014-07-04T16:37:12Z" updated_time="2014-07-04T16:38:06Z" scratch="false" x="94" y="95" clock="35" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>France's Karim Benzema gets in a shot on goal at Estadio do Maracana. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="a30a7e11-a5cd-4c8c-9b0c-4280d7d5f074" type="corner_kick" time="2014-07-04T16:37:14Z" updated_time="2014-07-04T16:38:11Z" scratch="false" x="95" y="90" clock="35" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="6fa3ede6-7f0d-4e13-ae7d-9b0019d2b5a9" type="shot_off_target" time="2014-07-04T16:37:22Z" updated_time="2014-07-04T16:37:22Z" scratch="false" x="95" y="90" clock="35" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="18e314fd-a184-44d7-92e1-453883687ffe">
+          <description>Mamadou Sakho (France) is first to the ball but his header is off-target.</description>
+        </fact>
+        <fact id="87be09b3-6e1f-4e05-9167-ec1341bb8f34" type="goal_kick" time="2014-07-04T16:37:22Z" updated_time="2014-07-04T16:37:22Z" scratch="false" x="95" y="50" clock="35" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="0266572f-da78-4d86-b564-b4b558decad0" type="throwin" time="2014-07-04T16:38:01Z" updated_time="2014-07-04T16:38:01Z" scratch="false" x="48" y="2" clock="35" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Ball safe as France is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="9da7a817-486f-4c9f-8f11-d0443e74ed61" type="free_kick" time="2014-07-04T16:38:13Z" updated_time="2014-07-04T16:38:13Z" scratch="false" x="63" y="41" clock="35" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a free kick to France.</description>
+        </fact>
+        <fact id="d956d409-8b10-4b1a-ae1f-68c543052e1b" type="free_kick" time="2014-07-04T16:38:46Z" updated_time="2014-07-04T16:38:46Z" scratch="false" x="56" y="14" clock="35" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="e792061b-0094-4f20-95c7-ef4d4e0c511d" type="injury" time="2014-07-04T16:40:18Z" updated_time="2014-07-04T16:40:18Z" scratch="false" x="19" y="70" clock="38" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="f02f3123-b872-4dbd-bb62-cf98595ef841">
+          <description>Play has been temporarily suspended for attention to Sami Khedira for Germany who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="9495d903-9964-436e-8af3-ba937f280cbb" type="game_resumed" time="2014-07-04T16:41:31Z" updated_time="2014-07-04T16:41:31Z" scratch="false" clock="38">
+          <description>The match in Rio de Janeiro is underway once more.</description>
+        </fact>
+        <fact id="0abb3315-7270-4706-aacf-9a73c5f6b2dd" type="injury_return" time="2014-07-04T16:41:41Z" updated_time="2014-07-04T16:41:41Z" scratch="false" clock="38" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="f02f3123-b872-4dbd-bb62-cf98595ef841">
+          <description>Sami Khedira returns to the field for Germany after picking up a slight injury.</description>
+        </fact>
+        <fact id="badbf30c-e696-4f85-947e-86f1e34c96f0" type="free_kick" time="2014-07-04T16:42:36Z" updated_time="2014-07-04T16:42:36Z" scratch="false" x="37" y="96" clock="39" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="4eccc63f-b2e0-4501-b47e-8f8145eed44a" type="goal_kick" time="2014-07-04T16:43:14Z" updated_time="2014-07-04T16:43:14Z" scratch="false" x="5" y="50" clock="40" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana awards France a goal kick.</description>
+        </fact>
+        <fact id="06b9957c-8662-4b5c-8de6-495df3cde091" type="shot_blocked" time="2014-07-04T16:44:37Z" updated_time="2014-07-04T16:44:37Z" scratch="false" x="80" y="19" clock="42" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Important block from the Germany defence as Karim Benzema fires in a strike for France.</description>
+        </fact>
+        <fact id="0d1e08f7-f990-40b6-aa41-1861258736b4" type="offside" time="2014-07-04T16:44:49Z" updated_time="2014-07-04T16:45:40Z" scratch="false" x="93" y="84" clock="42" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="0081aa4c-11a5-4482-b64a-9b39b23b044e">
+          <description>In Rio de Janeiro France's Mathieu Debuchy is caught offside.</description>
+        </fact>
+        <fact id="cda53de2-2c79-400f-8bc4-7712684bca44" type="throwin" time="2014-07-04T16:45:27Z" updated_time="2014-07-04T16:45:27Z" scratch="false" x="41" y="99" clock="42" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="b1b6d8f8-7da3-413d-9608-0b84af82c57c" type="free_kick" time="2014-07-04T16:45:44Z" updated_time="2014-07-04T16:45:44Z" scratch="false" x="41" y="99" clock="42" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="33508e4e-0ada-41b8-9dde-0bc04d82e97c" type="keeper_save" time="2014-07-04T16:46:38Z" updated_time="2014-07-04T16:46:38Z" scratch="false" x="84" y="22" clock="43" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="2af84670-bb83-437f-b925-4fa8707a4974" type="shot_on_target" time="2014-07-04T16:46:38Z" updated_time="2014-07-04T16:46:45Z" scratch="false" x="84" y="22" clock="44" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>France push forward through Karim Benzema, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="9ba8eed7-c9f4-4fa3-be4c-54b080cce541" type="throwin" time="2014-07-04T16:47:24Z" updated_time="2014-07-04T16:47:24Z" scratch="false" x="81" y="98" clock="44" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have a dangerous throw-in.</description>
+        </fact>
+        <fact id="a5a6322a-f3cc-4a23-9690-cf0e01de3aa1" type="throwin" time="2014-07-04T16:47:38Z" updated_time="2014-07-04T16:47:38Z" scratch="false" x="95" y="99" clock="44" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France capitalize from this throw-in deep inside Germany's half?</description>
+        </fact>
+        <fact id="860c3c74-c6d2-484f-b9ce-516dcbda1bdb" type="throwin" time="2014-07-04T16:47:53Z" updated_time="2014-07-04T16:47:53Z" scratch="false" x="82" y="98" clock="45" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France close to the penalty box.</description>
+        </fact>
+        <fact id="cda8b605-33b9-49f0-8b75-b7e5baec3b77" type="goal_kick" time="2014-07-04T16:48:23Z" updated_time="2014-07-04T16:48:23Z" scratch="false" x="95" y="50" clock="45" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="9b722356-61b2-4234-8173-452036a19692" type="injury_time" time="2014-07-04T16:47:57Z" updated_time="2014-07-04T16:47:57Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>The fourth official's board shows 1 minutes, which will be added to the first half.</description>
+        </fact>
+        <fact id="c4e45620-94a9-4496-9c0b-9ecbe166e2c4" type="period_over" time="2014-07-04T16:49:03Z" updated_time="2014-07-04T16:49:03Z" scratch="false" home_score="0" away_score="1" period="P1">
+          <description>The whistle has gone to end the first-half.</description>
+        </fact>
+        <fact id="4d6861cb-f3f7-432b-bd2e-386c1fac4be6" type="period_started" time="2014-07-04T16:49:03Z" updated_time="2014-07-04T16:49:03Z" scratch="false" period="H"/>
+        <fact id="0df3725a-e2d4-4056-86d3-bc5583eb29f3" type="period_started" time="2014-07-04T17:04:45Z" updated_time="2014-07-04T17:04:45Z" scratch="false" period="P2"/>
+        <fact id="386693ad-4896-40e9-86cb-1cfae2e49b20" type="offside" time="2014-07-04T17:06:17Z" updated_time="2014-07-04T17:06:25Z" scratch="false" x="80" y="90" clock="47" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="69031066-777d-4c70-b341-010036ada614">
+          <description>Nestor Pitana blows against France's Mathieu Valbuena for offside.</description>
+        </fact>
+        <fact id="e3c5fcb3-f92b-419c-baea-19692d9f68cd" type="goal_kick" time="2014-07-04T17:07:01Z" updated_time="2014-07-04T17:07:01Z" scratch="false" x="5" y="50" clock="47" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have a goal kick.</description>
+        </fact>
+        <fact id="64a10c1b-e64c-41c8-953c-e17be557568e" type="throwin" time="2014-07-04T17:07:48Z" updated_time="2014-07-04T17:07:48Z" scratch="false" x="10" y="99" clock="48" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="55b5be4b-3e9e-4903-a0dd-be702be4f617" type="throwin" time="2014-07-04T17:08:30Z" updated_time="2014-07-04T17:08:30Z" scratch="false" x="62" y="2" clock="48" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="530b97a6-40f7-4595-97cd-7cacd5e20abb" type="free_kick" time="2014-07-04T17:08:42Z" updated_time="2014-07-04T17:08:42Z" scratch="false" x="74" y="32" clock="48" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a free kick to France.</description>
+        </fact>
+        <fact id="13f6e1e2-c70d-4de8-95f5-dc5187e7a1e3" type="throwin" time="2014-07-04T17:09:28Z" updated_time="2014-07-04T17:09:28Z" scratch="false" x="74" y="1" clock="49" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="87da478a-4a92-4472-8cbb-ac5003d80ca8" type="goal_kick" time="2014-07-04T17:09:40Z" updated_time="2014-07-04T17:09:40Z" scratch="false" x="95" y="50" clock="49" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana awards Germany a goal kick.</description>
+        </fact>
+        <fact id="3936e1ac-9c80-4f0e-bfe1-72514c64656f" type="throwin" time="2014-07-04T17:10:38Z" updated_time="2014-07-04T17:10:38Z" scratch="false" x="63" y="2" clock="50" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="4f6ff163-21e0-4839-b44f-1246addd23f1" type="free_kick" time="2014-07-04T17:11:40Z" updated_time="2014-07-04T17:11:40Z" scratch="false" x="12" y="39" clock="51" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a free kick to France in their own half.</description>
+        </fact>
+        <fact id="9df7d317-f6ae-401c-beae-45b6993e23d1" type="corner_kick" time="2014-07-04T17:11:33Z" updated_time="2014-07-04T17:11:33Z" scratch="false" x="5" y="90" clock="52" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="9ac9990a-b337-4d1d-8b7a-8ba3855b0ede" type="free_kick" time="2014-07-04T17:13:36Z" updated_time="2014-07-04T17:13:36Z" scratch="false" x="65" y="34" clock="53" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a free kick to France.</description>
+        </fact>
+        <fact id="a33361fb-5110-43cf-aeb0-1270ff1b9313" type="card" time="2014-07-04T17:13:47Z" updated_time="2014-07-04T17:13:47Z" scratch="false" clock="54" card="Y" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="f02f3123-b872-4dbd-bb62-cf98595ef841">
+          <description>Germany's Sami Khedira has been booked in Rio de Janeiro.</description>
+        </fact>
+        <fact id="15dd9d94-a696-41ca-8c8b-3c9de869e185" type="throwin" time="2014-07-04T17:14:20Z" updated_time="2014-07-04T17:14:20Z" scratch="false" x="79" y="2" clock="54" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="7931da44-1515-4a7c-80e4-8470feea5631" type="shot_off_target" time="2014-07-04T17:14:46Z" updated_time="2014-07-04T17:14:52Z" scratch="false" x="17" y="49" clock="55" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="0e28c29b-d344-4825-9128-0580ec64c448">
+          <description>Germany's Toni Kroos breaks free at Estadio do Maracana. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="a3fd5305-bc30-4c3c-acb8-75be3848af1d" type="goal_kick" time="2014-07-04T17:14:47Z" updated_time="2014-07-04T17:14:47Z" scratch="false" x="5" y="50" clock="55" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Ball goes out of play for a France goal kick.</description>
+        </fact>
+        <fact id="df633a81-81e6-4684-8d72-ad97f1591d40" type="goal_kick" time="2014-07-04T17:15:38Z" updated_time="2014-07-04T17:15:38Z" scratch="false" x="95" y="50" clock="55" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="b9e19104-a6b3-4249-8c9c-75d301b32ece" type="throwin" time="2014-07-04T17:16:25Z" updated_time="2014-07-04T17:16:25Z" scratch="false" x="73" y="1" clock="56" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="2cb20eec-17ca-4fdd-8c4b-4505a539f767" type="throwin" time="2014-07-04T17:17:02Z" updated_time="2014-07-04T17:17:02Z" scratch="false" x="93" y="98" clock="57" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="fa380e23-54c8-4e8f-8f62-b9048ddc4bd8" type="throwin" time="2014-07-04T17:17:35Z" updated_time="2014-07-04T17:17:35Z" scratch="false" x="57" y="99" clock="57" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a France throw-in in Germany's half.</description>
+        </fact>
+        <fact id="eda3a696-4246-4d55-bb62-042ed0e03fc2" type="throwin" time="2014-07-04T17:18:01Z" updated_time="2014-07-04T17:18:01Z" scratch="false" x="52" y="1" clock="58" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball safe as Germany is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="293b96f0-041d-4217-bcc2-011000c67def" type="free_kick" time="2014-07-04T17:18:22Z" updated_time="2014-07-04T17:18:22Z" scratch="false" x="34" y="36" clock="58" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="b66ccfe1-f483-4f69-a8c7-16773c1dd394" type="corner_kick" time="2014-07-04T17:19:21Z" updated_time="2014-07-04T17:19:21Z" scratch="false" x="95" y="5" clock="60" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="ac7ac04f-fd08-4a4b-a6ab-6c5b2b46cfa8" type="shot_on_target" time="2014-07-04T17:19:44Z" updated_time="2014-07-04T17:19:44Z" scratch="false" x="89" y="44" clock="60" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="88e58104-4b86-4a8a-8824-5adf9ea6e5b3">
+          <description>Raphael Varane (France) gets in a powerful header but the ball is cleared away.</description>
+        </fact>
+        <fact id="ab3f564e-b3dc-474f-8fca-ff6130291b29" type="keeper_save" time="2014-07-04T17:19:44Z" updated_time="2014-07-04T17:19:44Z" scratch="false" x="89" y="44" clock="60" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="d9036ad7-963c-487f-9b29-a3f00e262288" type="throwin" time="2014-07-04T17:20:04Z" updated_time="2014-07-04T17:20:04Z" scratch="false" x="67" y="1" clock="60" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="ba88fca9-d85a-4158-93dd-5cff1cdd8d57" type="throwin" time="2014-07-04T17:20:33Z" updated_time="2014-07-04T17:20:33Z" scratch="false" x="60" y="99" clock="60" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="c206f450-d648-4163-baa1-1b64ea703de2" type="injury" time="2014-07-04T17:22:12Z" updated_time="2014-07-04T17:22:12Z" scratch="false" x="35" y="1" clock="63" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="69031066-777d-4c70-b341-010036ada614">
+          <description>Mathieu Valbuena is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="9d2c1cb8-2719-4e45-93e4-f486133979c9" type="game_resumed" time="2014-07-04T17:22:55Z" updated_time="2014-07-04T17:22:55Z" scratch="false" clock="63">
+          <description>The match is underway again.</description>
+        </fact>
+        <fact id="074be757-70cc-4326-b6ad-23d6eda56e1f" type="free_kick" time="2014-07-04T17:23:26Z" updated_time="2014-07-04T17:23:26Z" scratch="false" x="78" y="81" clock="63" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="15558c6d-0365-4dab-83e7-f8186f0658cb" type="injury_return" time="2014-07-04T17:23:41Z" updated_time="2014-07-04T17:23:41Z" scratch="false" clock="63" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="69031066-777d-4c70-b341-010036ada614">
+          <description>Mathieu Valbuena is back on his feet again.</description>
+        </fact>
+        <fact id="44951bba-3452-4a6d-beea-c487108f6529" type="corner_kick" time="2014-07-04T17:23:23Z" updated_time="2014-07-04T17:23:23Z" scratch="false" x="95" y="5" clock="64" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="247d7571-59be-4003-bcac-c62e167220c3" type="free_kick" time="2014-07-04T17:24:03Z" updated_time="2014-07-04T17:24:03Z" scratch="false" x="36" y="57" clock="64" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany.</description>
+        </fact>
+        <fact id="04e1fafb-0599-4c29-a105-bfea420726ec" type="free_kick" time="2014-07-04T17:24:39Z" updated_time="2014-07-04T17:24:39Z" scratch="false" x="20" y="51" clock="64" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a free kick to France in their own half.</description>
+        </fact>
+        <fact id="f41997c0-16e6-49fc-ba1d-48e9a234be97" type="throwin" time="2014-07-04T17:21:39Z" updated_time="2014-07-04T17:26:28Z" scratch="false" x="34" y="2" clock="66" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a Germany throw-in in France's half.</description>
+        </fact>
+        <fact id="336a159d-937e-44b3-8d6e-4d7969979353" type="throwin" time="2014-07-04T17:26:31Z" updated_time="2014-07-04T17:26:31Z" scratch="false" x="34" y="1" clock="66" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="66e11347-5f8f-4fdc-9a19-8daa7f98ec06" type="throwin" time="2014-07-04T17:26:42Z" updated_time="2014-07-04T17:26:42Z" scratch="false" x="26" y="1" clock="66" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="e4465e05-adb0-455f-8473-668b7be48e98" type="goal_kick" time="2014-07-04T17:26:52Z" updated_time="2014-07-04T17:26:52Z" scratch="false" x="5" y="50" clock="67" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have a goal kick.</description>
+        </fact>
+        <fact id="e0696826-e39d-43f9-a00a-582913ee150c" type="throwin" time="2014-07-04T17:27:40Z" updated_time="2014-07-04T17:27:40Z" scratch="false" x="16" y="99" clock="67" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="086fce56-0bef-4903-b109-ff319990c8fd" type="substitution" time="2014-07-04T17:27:48Z" updated_time="2014-07-04T17:27:48Z" scratch="false" clock="68" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce" player_in_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>Germany make their first substitution with Andre Schurrle replacing Miroslav Klose.</description>
+        </fact>
+        <fact id="e87ca6cb-eb83-4144-9215-d08a35978c5a" type="shot_off_target" time="2014-07-04T17:28:51Z" updated_time="2014-07-04T17:28:51Z" scratch="false" x="9" y="20" clock="69" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Thomas Muller for Germany gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="3be22b60-08df-4487-99da-52803f20b27e" type="goal_kick" time="2014-07-04T17:28:51Z" updated_time="2014-07-04T17:28:51Z" scratch="false" x="5" y="50" clock="69" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana awards France a goal kick.</description>
+        </fact>
+        <fact id="0e3ea8c2-7421-44a6-9be6-e31502020b80" type="throwin" time="2014-07-04T17:29:42Z" updated_time="2014-07-04T17:29:42Z" scratch="false" x="54" y="1" clock="69" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="8acd5e49-cf56-45e0-86f6-c3000f795790" type="throwin" time="2014-07-04T17:30:09Z" updated_time="2014-07-04T17:30:09Z" scratch="false" x="61" y="2" clock="70" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a France throw-in in Germany's half.</description>
+        </fact>
+        <fact id="c7d71ef4-e7c3-4a3f-9cec-b04650f9833c" type="throwin" time="2014-07-04T17:30:24Z" updated_time="2014-07-04T17:30:24Z" scratch="false" x="42" y="2" clock="70" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="9211ed31-a1df-43c6-aacf-60770ec2ef2e" type="substitution" time="2014-07-04T17:30:46Z" updated_time="2014-07-04T17:30:46Z" scratch="false" clock="71" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_out_id="18e314fd-a184-44d7-92e1-453883687ffe" player_in_id="0a1ab76a-8aa5-4d1f-9235-a8e01db66076">
+          <description>Laurent Koscielny is on a sub for Mamadou Sakho for France.</description>
+        </fact>
+        <fact id="a76497d6-8cda-4eb4-9a5c-07f7fb0a4e13" type="free_kick" time="2014-07-04T17:31:06Z" updated_time="2014-07-04T17:31:06Z" scratch="false" x="35" y="31" clock="71" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="2ab8f0d1-6540-4ff5-b201-171293524f0b" type="throwin" time="2014-07-04T17:31:25Z" updated_time="2014-07-04T17:31:25Z" scratch="false" x="56" y="1" clock="71" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="a6135a38-288e-4f0e-a245-a22dff41bd74" type="shot_off_target" time="2014-07-04T17:32:11Z" updated_time="2014-07-04T17:32:19Z" scratch="false" x="85" y="82" clock="73" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="5f4cd917-0baf-43b0-af5c-c248f2d4d8a8">
+          <description>France are pushing forward but Antoine Griezmann's finish is wide of the goal.</description>
+        </fact>
+        <fact id="5216216b-79cb-4ab5-802f-7e05cd61fb81" type="goal_kick" time="2014-07-04T17:32:12Z" updated_time="2014-07-04T17:32:12Z" scratch="false" x="95" y="50" clock="73" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="0dc947b5-f7a9-4cd8-a410-23ac0889bfae" type="substitution" time="2014-07-04T17:32:30Z" updated_time="2014-07-04T17:32:30Z" scratch="false" clock="73" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_out_id="276bee31-b14b-4811-8ba2-f6156185a5f6" player_in_id="08862528-470e-4af0-a337-77e285293259">
+          <description>Loic Remy is on a sub for Yohan Cabaye for France.</description>
+        </fact>
+        <fact id="036132b5-b796-429f-83d0-e94d4baeec8f" type="keeper_save" time="2014-07-04T17:32:47Z" updated_time="2014-07-04T17:32:47Z" scratch="false" x="7" y="21" clock="73" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="013c1045-9027-4f1a-82ed-7c7f23f747a5" type="shot_on_target" time="2014-07-04T17:32:46Z" updated_time="2014-07-04T17:32:52Z" scratch="false" x="7" y="21" clock="74" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>Germany's Andre Schurrle is on target but unsuccessful.</description>
+        </fact>
+        <fact id="39c2af30-cf86-4c16-869f-ea2d0332f579" type="shot_off_target" time="2014-07-04T17:33:15Z" updated_time="2014-07-04T17:33:20Z" scratch="false" x="82" y="22" clock="74" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="69031066-777d-4c70-b341-010036ada614">
+          <description>In Rio de Janeiro France attack through Mathieu Valbuena. The finish is off target, however.</description>
+        </fact>
+        <fact id="7cccaadf-adfc-40bd-979a-7f755c2173f9" type="goal_kick" time="2014-07-04T17:33:15Z" updated_time="2014-07-04T17:33:15Z" scratch="false" x="95" y="50" clock="74" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="078e1277-2f1b-43a3-8a6a-10955c98a6ca" type="throwin" time="2014-07-04T17:34:17Z" updated_time="2014-07-04T17:34:17Z" scratch="false" x="35" y="99" clock="74" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France at Estadio do Maracana.</description>
+        </fact>
+        <fact id="ac2b67e0-031d-4caf-8dd4-82b09ba09185" type="shot_blocked" time="2014-07-04T17:35:19Z" updated_time="2014-07-04T17:35:19Z" scratch="false" x="80" y="72" clock="76" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France's Karim Benzema gets in a shot but it is blocked by a Germany defender.</description>
+        </fact>
+        <fact id="a42bd2f8-b0ba-4147-abf5-f4a1078f9174" type="keeper_save" time="2014-07-04T17:35:54Z" updated_time="2014-07-04T17:35:54Z" scratch="false" x="92" y="81" clock="76" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="3985c792-ab62-48df-b54a-7fdcf37eedc4" type="throwin" time="2014-07-04T17:36:32Z" updated_time="2014-07-04T17:36:32Z" scratch="false" x="67" y="1" clock="76" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="b187464a-cca8-4165-820e-c2cf20cbb9bd" type="shot_on_target" time="2014-07-04T17:35:54Z" updated_time="2014-07-04T17:35:54Z" scratch="false" x="92" y="81" clock="77" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="1246bbaa-dc4d-451c-a948-3a3505c742e6">
+          <description>Blaise Matuidi of France smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="876a2eff-d87f-4631-8daf-d4cb369ebc1a" type="free_kick" time="2014-07-04T17:37:00Z" updated_time="2014-07-04T17:37:00Z" scratch="false" x="60" y="36" clock="77" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="53262843-fc1c-41d8-a6ea-04eae1b59ada" type="free_kick" time="2014-07-04T17:37:35Z" updated_time="2014-07-04T17:37:35Z" scratch="false" x="22" y="78" clock="77" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="80ce51cc-af4b-46c9-b656-a4fca76af2b2" type="free_kick" time="2014-07-04T17:38:16Z" updated_time="2014-07-04T17:38:16Z" scratch="false" x="32" y="52" clock="78" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="13574f4f-42cd-4a08-973f-2ba2b24c4de9" type="free_kick" time="2014-07-04T17:39:01Z" updated_time="2014-07-04T17:39:01Z" scratch="false" x="36" y="46" clock="79" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="36175267-73b6-4853-af0f-275e1f3f86dd" type="card" time="2014-07-04T17:39:08Z" updated_time="2014-07-04T17:39:08Z" scratch="false" clock="80" card="Y" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Bastian Schweinsteiger (Germany) has received a first yellow card.</description>
+        </fact>
+        <fact id="5883b6f6-76d3-4bd0-9833-fa1f93f39f8f" type="free_kick" time="2014-07-04T17:39:45Z" updated_time="2014-07-04T17:39:45Z" scratch="false" x="80" y="12" clock="80" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="6bd8acba-3852-4ab4-afa7-23abc8a94cff" type="corner_kick" time="2014-07-04T17:40:37Z" updated_time="2014-07-04T17:40:37Z" scratch="false" x="95" y="5" clock="81" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="d0c2b280-c2d8-48b8-a8e1-147d1dc33e1d" type="throwin" time="2014-07-04T17:41:06Z" updated_time="2014-07-04T17:41:06Z" scratch="false" x="22" y="2" clock="81" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a Germany throw-in in France's half.</description>
+        </fact>
+        <fact id="c806922e-2206-46fd-8468-fdc7c417d9af" type="keeper_save" time="2014-07-04T17:41:10Z" updated_time="2014-07-04T17:41:10Z" scratch="false" x="22" y="2" clock="81" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="e7f6c2d1-470d-4746-8097-52c52ba98ae5" type="throwin" time="2014-07-04T17:41:31Z" updated_time="2014-07-04T17:41:31Z" scratch="false" x="9" y="1" clock="81" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France in their own half.</description>
+        </fact>
+        <fact id="109a2519-4396-44fc-b5d0-ce4179b7a34a" type="shot_on_target" time="2014-07-04T17:41:10Z" updated_time="2014-07-04T17:41:18Z" scratch="false" x="22" y="2" clock="82" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>In Rio de Janeiro Germany drive forward through Andre Schurrle. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="00f7ec39-9084-4858-89ae-dcc386fbf8c2" type="throwin" time="2014-07-04T17:42:08Z" updated_time="2014-07-04T17:42:08Z" scratch="false" x="18" y="1" clock="82" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a dangerous throw-in.</description>
+        </fact>
+        <fact id="9d2078b7-2bf8-42d9-9a9a-bdd63ce31960" type="substitution" time="2014-07-04T17:42:25Z" updated_time="2014-07-04T17:42:25Z" scratch="false" clock="83" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="e2102346-9bbd-4f45-a980-ad66a59e77b3" player_in_id="09bb94ef-6634-4ba2-8420-836b97009c4f">
+          <description>Germany make their second substitution with Mario Gotze replacing Mesut Ozil.</description>
+        </fact>
+        <fact id="8250479d-bc9f-4634-92e0-9871f3656b39" type="throwin" time="2014-07-04T17:43:40Z" updated_time="2014-07-04T17:43:40Z" scratch="false" x="18" y="2" clock="83" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany capitalize from this throw-in deep inside France's half?</description>
+        </fact>
+        <fact id="3f0b3b30-2def-4c67-b05f-56f9a27f4036" type="corner_kick" time="2014-07-04T17:43:33Z" updated_time="2014-07-04T17:43:33Z" scratch="false" x="5" y="5" clock="84" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="db8e91f1-db6a-4cda-a2f6-e151a53e523e" type="substitution" time="2014-07-04T17:43:49Z" updated_time="2014-07-04T17:43:49Z" scratch="false" clock="84" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_out_id="69031066-777d-4c70-b341-010036ada614" player_in_id="420f1db5-59fa-45e4-8c1c-787a4c106af6">
+          <description>Olivier Giroud is on a sub for Mathieu Valbuena for France.</description>
+        </fact>
+        <fact id="4ad11e22-9520-489b-b979-b76769703d8b" type="throwin" time="2014-07-04T17:44:13Z" updated_time="2014-07-04T17:44:13Z" scratch="false" x="21" y="1" clock="84" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="9a41971b-2652-4e07-bc34-a662ecfe35a2" type="free_kick" time="2014-07-04T17:44:24Z" updated_time="2014-07-04T17:44:24Z" scratch="false" x="21" y="1" clock="84" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nestor Pitana signals a free kick to France in their own half.</description>
+        </fact>
+        <fact id="e7c5742e-619a-4c2b-9318-bb471b8f166a" type="throwin" time="2014-07-04T17:44:47Z" updated_time="2014-07-04T17:44:47Z" scratch="false" x="55" y="1" clock="85" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="0050106a-ae09-407d-a467-c7f3ac0d3703" type="throwin" time="2014-07-04T17:45:12Z" updated_time="2014-07-04T17:45:12Z" scratch="false" x="34" y="98" clock="85" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a Germany throw-in in France's half.</description>
+        </fact>
+        <fact id="7f18b2d3-21be-490c-a277-4c5aeedf4492" type="throwin" time="2014-07-04T17:45:44Z" updated_time="2014-07-04T17:45:44Z" scratch="false" x="36" y="99" clock="86" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="3e30e87a-9ab3-4b61-9355-947db8f19b48" type="throwin" time="2014-07-04T17:46:09Z" updated_time="2014-07-04T17:46:09Z" scratch="false" x="37" y="1" clock="86" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Ball safe as France is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="163e7f37-ef3e-4ad0-b6a5-9a3b965cb0c6" type="free_kick" time="2014-07-04T17:47:35Z" updated_time="2014-07-04T17:47:35Z" scratch="false" x="37" y="45" clock="87" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e72cc03d-e210-4503-8685-4820ce8c7c9f" type="shot_blocked" time="2014-07-04T17:46:48Z" updated_time="2014-07-04T17:46:55Z" scratch="false" x="11" y="39" clock="88" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany drive upfield and Andre Schurrle gets in a shot. The strike is blocked by a France defender.</description>
+        </fact>
+        <fact id="a740292d-05d9-42e8-aea6-c094f7a81d99" type="throwin" time="2014-07-04T17:48:05Z" updated_time="2014-07-04T17:48:05Z" scratch="false" x="60" y="99" clock="88" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="237ba894-d10b-4990-b383-a6d9b230ff49" type="throwin" time="2014-07-04T17:48:21Z" updated_time="2014-07-04T17:48:21Z" scratch="false" x="76" y="2" clock="88" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="befb6edc-d375-4a9d-80ae-313bbcc69e15" type="free_kick" time="2014-07-04T17:49:21Z" updated_time="2014-07-04T17:49:21Z" scratch="false" x="77" y="24" clock="89" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="ebbf97cd-a922-4f2b-9977-aaed7b4943c1" type="throwin" time="2014-07-04T17:50:03Z" updated_time="2014-07-04T17:50:03Z" scratch="false" x="30" y="99" clock="90" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="d102a647-1f96-4ebf-a65c-84f7f7b53b9f" type="injury_time" time="2014-07-04T17:50:10Z" updated_time="2014-07-04T17:50:10Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>4 minutes of injury time will be added to the second half.</description>
+        </fact>
+        <fact id="856f94f5-9d90-40a1-97df-ed9c244ded28" type="free_kick" time="2014-07-04T17:50:47Z" updated_time="2014-07-04T17:50:47Z" scratch="false" x="18" y="54" clock="90" injury_time="1" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b9653da7-52b5-41c8-b582-3d580647bac3" type="free_kick" time="2014-07-04T17:51:03Z" updated_time="2014-07-04T17:51:03Z" scratch="false" x="59" y="16" clock="90" injury_time="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="ecdcd1f2-a178-476c-95d8-915305f959c7" type="substitution" time="2014-07-04T17:51:19Z" updated_time="2014-07-04T17:51:19Z" scratch="false" clock="90" injury_time="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="0e28c29b-d344-4825-9128-0580ec64c448" player_in_id="432f9e09-e0d3-4742-aa06-00cf2c0bc581">
+          <description>Christoph Kramer is replacing Toni Kroos for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="7afe8d31-5457-4a9a-a43f-d97733277f29" type="throwin" time="2014-07-04T17:52:02Z" updated_time="2014-07-04T17:52:02Z" scratch="false" x="22" y="0" clock="90" injury_time="2" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France in their own half.</description>
+        </fact>
+        <fact id="2650a0f4-368b-47d4-addc-640e6760f426" type="free_kick" time="2014-07-04T17:52:23Z" updated_time="2014-07-04T17:52:23Z" scratch="false" x="63" y="59" clock="90" injury_time="2" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nestor Pitana signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="9486ec4a-b86c-42a2-bb85-689c97debe38" type="free_kick" time="2014-07-04T17:52:46Z" updated_time="2014-07-04T17:52:46Z" scratch="false" x="33" y="66" clock="90" injury_time="3" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="9ae9d679-104d-4b58-8355-41df20a7386a" type="shot_on_target" time="2014-07-04T17:53:38Z" updated_time="2014-07-04T17:53:43Z" scratch="false" x="77" y="25" clock="90" injury_time="3" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>France drive forward and Karim Benzema gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="608ad1b0-566c-4a3c-9bb4-09b817c42ed7" type="keeper_save" time="2014-07-04T17:53:38Z" updated_time="2014-07-04T17:53:38Z" scratch="false" x="77" y="25" clock="90" injury_time="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="fd019d60-95fe-4b48-bedd-78e57a62d78e" type="goal_kick" time="2014-07-04T17:53:45Z" updated_time="2014-07-04T17:53:45Z" scratch="false" x="95" y="50" clock="90" injury_time="4" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="64d48829-854c-4428-aefc-763a9133aac2" type="period_over" time="2014-07-04T17:54:21Z" updated_time="2014-07-04T17:54:21Z" scratch="false" home_score="0" away_score="1" period="P2">
+          <description>Nestor Pitana blows to end the match. The final score is 0-1.</description>
+        </fact>
+        <fact id="5a890b32-c339-4e39-99ad-931af7a3f875" type="match_ended" time="2014-07-04T17:54:21Z" updated_time="2014-07-04T17:54:21Z" scratch="false" home_score="0" away_score="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" draw="false"/>
+      </facts>
+      <!-- 4768166/4481/4711 -->
+    </match>
+  </matches>
+</summary>

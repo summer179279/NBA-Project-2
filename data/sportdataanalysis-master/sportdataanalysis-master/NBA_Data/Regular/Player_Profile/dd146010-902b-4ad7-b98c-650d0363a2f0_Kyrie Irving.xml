@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 17:00:52 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="dd146010-902b-4ad7-b98c-650d0363a2f0" status="ACT" full_name="Kyrie Irving" first_name="Kyrie" last_name="Irving" abbr_name="K.Irving" height="75" weight="193" position="G" primary_position="PG" jersey_number="2" experience="2" college="Duke" birth_place="Melbourne, VIC, AUS" birthdate="1992-03-23" updated="2013-11-08T19:32:01+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" name="Cavaliers" market="Cleveland" alias="CLE"/>
+  <draft team_id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" year="2011" round="1" pick="1"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" name="Cavaliers" market="Cleveland" alias="CLE">
+        <statistics>
+          <total games_played="71" games_started="71" minutes="2496.0" field_goals_made="532" field_goals_att="1237" three_points_made="123" three_points_att="344" blocked_att="57" free_throws_made="291" free_throws_att="338" offensive_rebounds="52" defensive_rebounds="207" assists="433" turnovers="190" steals="108" blocks="23" personal_fouls="163" tech_fouls="0" points="1478" flagrant_fouls="0" free_throws_pct="0.861" two_points_pct="0.458" three_points_pct="0.358" field_goals_pct="0.43" rebounds="259" assists_turnover_ratio="2.28" two_points_made="409" two_points_att="893"/>
+          <average points="20.8" blocked_att="0.8" turnovers="2.68" free_throws_att="4.76" field_goals_att="17.42" off_rebounds="0.73" two_points_att="12.58" assists="6.1" blocks="0.32" personal_fouls="2.3" two_points_made="5.76" flagrant_fouls="0.0" rebounds="3.65" three_points_made="1.73" minutes="35.2" def_rebounds="2.92" free_throws_made="4.1" field_goals_made="7.49" steals="1.52" three_points_att="4.85"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 17:00:52 +0000 -->

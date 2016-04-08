@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:42:35Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="22653ed5-0b2c-4e30-b10c-c6d51619b52b" status="closed" scratched="false" period="X2" scheduled="2014-07-13T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="28" number="1" type="cup" name="F" scheduled_legs="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" loser_id="909737d8-0424-435d-917a-3a05484322b4" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="22653ed5-0b2c-4e30-b10c-c6d51619b52b" status="closed" number="1" home_id="686950a8-4f89-4ed2-a32b-f0a564660859" away_id="909737d8-0424-435d-917a-3a05484322b4" home_score="1" away_score="0"/>
+      </round>
+      <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-2-3-1" score="1" regular_score="1" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="1" number="3"/>
+        </scoring>
+        <statistics attacks="144" ball_safe="113" corner_kicks="5" dangerous_attacks="75" fouls="20" free_kicks="18" goal_attempts="10" goal_kicks="10" offsides="3" saves="0" shots_total="10" substitutions="3" throw_ins="32" yellow_card="2" shots_on_target="7" shots_off_target="3" possessions="60"/>
+        <players>
+          <player id="6868e658-bc23-4084-a774-6e762d00f9a5" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Bastian" last_name="Schweinsteiger" country="Germany" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="05679d54-db23-4a53-8064-4d1613a134cc" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Jerome" last_name="Boateng" country="Germany" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="432f9e09-e0d3-4742-aa06-00cf2c0bc581" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Christoph" last_name="Kramer" country="Germany" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="e2102346-9bbd-4f45-a980-ad66a59e77b3" country_code="DEU" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Mesut" last_name="Ozil" country="Germany" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="23e5f012-4cdf-4548-8788-b2b8170601ef" country_code="DEU" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Andre" last_name="Schurrle" country="Germany" jersey_number="9">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="6e9abee4-9771-4011-8cfd-f1ae1226b313" country_code="DEU" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Manuel" last_name="Neuer" country="Germany" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce" country_code="DEU" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Miroslav" last_name="Klose" country="Germany" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="316115aa-50f7-4793-b2e3-2226495d19a3" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Ron-Robert" last_name="Zieler" country="Germany" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5111e561-8f28-470d-8a71-fab5a3a398b7" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Lukas" last_name="Podolski" country="Germany" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13dae01a-61fc-4235-8471-0ed3658cc9ed" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Shkodran" last_name="Mustafi" country="Germany" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5dafcbb4-b013-499d-95f7-db096aabd924" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Roman" last_name="Weidenfeller" country="Germany" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8571ae58-b5a1-46a1-aaaf-e9188add8e16" country_code="DEU" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Benedikt" last_name="Howedes" country="Germany" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6d45e36b-f057-4bdd-8466-761fe563d87f" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Julian" last_name="Draxler" country="Germany" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="09bb94ef-6634-4ba2-8420-836b97009c4f" country_code="DEU" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Mario" last_name="Gotze" country="Germany" jersey_number="19">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="3dd7d6c6-cd58-4cb2-a28a-1a340e9774b9" country_code="DEU" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Philipp" last_name="Lahm" country="Germany" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e28c29b-d344-4825-9128-0580ec64c448" country_code="DEU" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Toni" last_name="Kroos" country="Germany" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5b9aac82-f07e-411d-a4aa-8e645130b2cc" country_code="DEU" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Thomas" last_name="Muller" country="Germany" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="37a851be-bcf3-47b5-9b9d-0903fca67996" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Erik" last_name="Durm" country="Germany" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13fdb7a7-5423-43a8-880a-9cfd7762cf2b" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Kevin" last_name="Grosskreutz" country="Germany" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="17525942-55d1-48f1-8ef0-73ba1ee51956" country_code="DEU" position="D" started="false" tactical_position="7" tactical_order="10" first_name="Per" last_name="Mertesacker" country="Germany" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="f02f3123-b872-4dbd-bb62-cf98595ef841" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Sami" last_name="Khedira" country="Germany" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="31f1a88e-b510-4006-9307-17b23e788f43" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Matthias" last_name="Ginter" country="Germany" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1bb4289a-a716-42e1-a2c2-14e90e877628" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Mats" last_name="Hummels" country="Germany" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" formation="4-4-2" score="0" regular_score="0" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="0" number="3"/>
+        </scoring>
+        <statistics attacks="106" ball_safe="120" corner_kicks="3" dangerous_attacks="48" fouls="16" free_kicks="23" goal_attempts="8" goal_kicks="10" offsides="2" saves="5" shots_total="8" substitutions="3" throw_ins="39" yellow_card="2" shots_on_target="0" shots_off_target="8" possessions="40"/>
+        <players>
+          <player id="510e2de1-90a4-4874-b08f-5e92855730d3" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Hugo" last_name="Campagnaro" country="Argentina" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5d951bd1-8e42-4bb0-96ca-0ac8a949b0ea" country_code="ARG" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Pablo" last_name="Zabaleta" country="Argentina" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2c8919e1-0434-46f5-b3b4-1561c1735940" country_code="ARG" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Sergio" last_name="Romero" country="Argentina" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4f1ece83-f8fc-4c57-ab79-0cff09aebf88" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Federico" last_name="Fernandez" country="Argentina" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0b77f38d-6ec6-4d73-aaf2-bf2e046b7984" country_code="ARG" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Martin" last_name="Demichelis" country="Argentina" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2" country_code="ARG" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Gonzalo" last_name="Higuain" country="Argentina" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="3e942b96-1ff3-46de-888c-752a1edb9b1d" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Augusto" last_name="Fernandez" country="Argentina" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0345958c-46ed-40bf-8773-de1be386e09f" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Jose" last_name="Basanta" country="Argentina" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="160d2d49-2c27-4094-b600-e2627bdd6b4e" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Angel" last_name="Di Maria" country="Argentina" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="66e83d67-9ccf-4d8b-aee1-4aa2c29db114" country_code="ARG" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Agustin" last_name="Orion" country="Argentina" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="22291f86-10b1-4e7b-9dc5-345e18f49b8b" country_code="ARG" position="F" started="true" tactical_position="7" tactical_order="9" first_name="Ezequiel" last_name="Lavezzi" country="Argentina" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="b7adbc34-9f79-4049-8507-2d5d45d20151" country_code="ARG" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Ezequiel" last_name="Garay" country="Argentina" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab" country_code="ARG" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Marcos" last_name="Rojo" country="Argentina" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7353d6d6-e649-4bd4-af2e-7f98164fbe27" country_code="ARG" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Rodrigo Sebastian" last_name="Palacio" country="Argentina" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="95593c5c-388a-4ce7-b55a-62f40c460227" country_code="ARG" position="M" started="true" tactical_position="5" tactical_order="6" first_name="Enzo" last_name="Perez" country="Argentina" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="b5b3069b-1df6-4d10-be51-41e84067ae43" country_code="ARG" position="F" started="false" tactical_position="7" tactical_order="9" first_name="Sergio" last_name="Aguero" country="Argentina" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4e25fe01-ec85-45ce-80e6-d0dc128ef300" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ricardo" last_name="Alvarez" country="Argentina" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b84654c1-de9e-44b1-90e5-a61c88796651" country_code="ARG" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Lionel" last_name="Messi" country="Argentina" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13409dae-ec11-496c-a3ed-033f8d2c0c55" country_code="ARG" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Lucas" last_name="Biglia" country="Argentina" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d7764fea-7fb8-456f-8f0f-74995bad08a7" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Maxi" last_name="Rodriguez" country="Argentina" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8588a877-dbeb-493b-a91e-717783604eed" country_code="ARG" position="M" started="false" tactical_position="5" tactical_order="6" first_name="Fernando" last_name="Gago" country="Argentina" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="ceca1fbe-ea2f-4a58-be64-0f51ad290033" country_code="ARG" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Javier" last_name="Mascherano" country="Argentina" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7eaac413-6c2e-4435-a30f-49d878b558cb" country_code="ARG" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mariano" last_name="Andujar" country="Argentina" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210"/>
+      <facts>
+        <fact id="a9cd79a2-55e9-4447-97c5-28bf79530ddc" type="match_started" time="2014-07-13T19:00:05Z" updated_time="2014-07-13T19:00:05Z" scratch="false" clock="1" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Today's referee, Nicola Rizzoli, has blown to start the match.</description>
+        </fact>
+        <fact id="19cf1b49-11cd-457a-9293-119474e3b1fe" type="period_started" time="2014-07-13T19:00:05Z" updated_time="2014-07-13T19:00:05Z" scratch="false" period="P1"/>
+        <fact id="b4b1ba50-8547-4136-ba3b-94b704751bd2" type="throwin" time="2014-07-13T19:00:56Z" updated_time="2014-07-13T19:00:56Z" scratch="false" x="66" y="2" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina at Estadio do Maracana.</description>
+        </fact>
+        <fact id="6be4ecea-dc2b-4b21-a194-1361c85cc8d1" type="throwin" time="2014-07-13T19:01:58Z" updated_time="2014-07-13T19:01:58Z" scratch="false" x="51" y="1" clock="1" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="c46d2623-c332-40a8-a593-680a16c2da61" type="free_kick" time="2014-07-13T19:02:21Z" updated_time="2014-07-13T19:02:21Z" scratch="false" x="76" y="47" clock="2" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="cb13a5a6-dee7-4a8a-b654-4387a766a237" type="throwin" time="2014-07-13T19:04:01Z" updated_time="2014-07-13T19:04:01Z" scratch="false" x="18" y="99" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="0a580001-411c-439b-93bb-8d7783dc8ffd" type="throwin" time="2014-07-13T19:04:05Z" updated_time="2014-07-13T19:04:05Z" scratch="false" x="37" y="98" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="c76ddc38-5f17-43af-b728-94c0949a23ec" type="shot_blocked" time="2014-07-13T19:03:32Z" updated_time="2014-07-13T19:08:31Z" scratch="false" x="76" y="47" clock="4" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany's Toni Kroos gets in a shot but it is blocked by a Argentina defender.</description>
+        </fact>
+        <fact id="53baa3e5-b066-4a7b-b6e0-6686c2021b43" type="shot_off_target" time="2014-07-13T19:03:47Z" updated_time="2014-07-13T19:04:35Z" scratch="false" x="21" y="54" clock="4" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>Argentina's Gonzalo Higuain breaks free at Estadio do Maracana. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="3e83b5aa-b9ce-4449-869f-93f0cdd8508c" type="throwin" time="2014-07-13T19:05:38Z" updated_time="2014-07-13T19:05:38Z" scratch="false" x="30" y="2" clock="5" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="29e864d1-201c-4f45-8ee7-220516d13cab" type="throwin" time="2014-07-13T19:06:38Z" updated_time="2014-07-13T19:06:38Z" scratch="false" x="81" y="98" clock="6" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany close to the penalty box.</description>
+        </fact>
+        <fact id="7529ade3-7b9e-46f0-b9fc-cf73a5009710" type="throwin" time="2014-07-13T19:08:47Z" updated_time="2014-07-13T19:08:47Z" scratch="false" x="72" y="98" clock="8" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a Germany throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="1dd09315-57ed-49dd-867f-10f8947dbee6" type="free_kick" time="2014-07-13T19:09:16Z" updated_time="2014-07-13T19:09:16Z" scratch="false" x="62" y="64" clock="9" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="4d1f72a6-fba5-4d1d-a6a4-ac02fdbba43d" type="throwin" time="2014-07-13T19:09:53Z" updated_time="2014-07-13T19:09:53Z" scratch="false" x="26" y="99" clock="9" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="68d2e4e4-9a9e-46eb-8491-09bde151ae7f" type="shot_blocked" time="2014-07-13T19:10:19Z" updated_time="2014-07-13T19:11:20Z" scratch="false" x="22" y="47" clock="11" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Important block from the Germany defence as Lucas Biglia fires in a strike for Argentina.</description>
+        </fact>
+        <fact id="6425f79b-5c16-46b9-ae4d-a2ef264aa374" type="corner_kick" time="2014-07-13T19:11:00Z" updated_time="2014-07-13T19:11:00Z" scratch="false" x="5" y="5" clock="11" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="df0f94ee-b79e-47e1-9b98-f71a4f62a680" type="throwin" time="2014-07-13T19:11:46Z" updated_time="2014-07-13T19:11:46Z" scratch="false" x="70" y="1" clock="11" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="495eaf23-b803-4fea-9f8d-3a46c96f4549" type="throwin" time="2014-07-13T19:12:29Z" updated_time="2014-07-13T19:12:29Z" scratch="false" x="70" y="1" clock="12" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a Germany throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="42795d92-8cc3-44aa-8316-ced2eff55a16" type="throwin" time="2014-07-13T19:12:54Z" updated_time="2014-07-13T19:12:54Z" scratch="false" x="81" y="1" clock="12" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="9cb0a669-0e0d-4f5c-b0ce-c205b412af09" type="free_kick" time="2014-07-13T19:13:19Z" updated_time="2014-07-13T19:13:19Z" scratch="false" x="78" y="33" clock="13" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a free kick to Germany.</description>
+        </fact>
+        <fact id="3326d1f6-8101-40db-9e36-a3a4b90a42a9" type="throwin" time="2014-07-13T19:14:26Z" updated_time="2014-07-13T19:14:26Z" scratch="false" x="83" y="99" clock="14" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany capitalize from this throw-in deep inside Argentina's half?</description>
+        </fact>
+        <fact id="4f519e98-e9c0-4bde-abc9-2ccf111e4c77" type="corner_kick" time="2014-07-13T19:15:06Z" updated_time="2014-07-13T19:15:06Z" scratch="false" x="95" y="90" clock="15" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Nicola Rizzoli.</description>
+        </fact>
+        <fact id="e08b78bb-fffe-4612-9fad-d9fb5d792f51" type="throwin" time="2014-07-13T19:15:22Z" updated_time="2014-07-13T19:15:22Z" scratch="false" x="34" y="2" clock="15" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="a4a99deb-865a-4554-9a92-2de750c55cab" type="throwin" time="2014-07-13T19:16:20Z" updated_time="2014-07-13T19:16:20Z" scratch="false" x="94" y="98" clock="16" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Argentina needs to be cautious. Germany have an attacking throw-in.</description>
+        </fact>
+        <fact id="ea8688f7-b426-4870-9d4c-890b9808a22c" type="injury" time="2014-07-13T19:17:15Z" updated_time="2014-07-13T19:17:15Z" scratch="false" x="62" y="64" clock="18" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="432f9e09-e0d3-4742-aa06-00cf2c0bc581">
+          <description>Christoph Kramer is down and play has been interrupted for a few moments.</description>
+        </fact>
+        <fact id="68231c21-6338-4dbd-b3ba-a204e9f85564" type="throwin" time="2014-07-13T19:18:14Z" updated_time="2014-07-13T19:18:14Z" scratch="false" x="61" y="2" clock="18" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="c144c89f-99a7-4ea9-900d-4267afc28f19" type="game_resumed" time="2014-07-13T19:18:16Z" updated_time="2014-07-13T19:18:16Z" scratch="false" clock="18">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="f47d0bf3-5ae1-48dd-a8db-68b6f7abb4c5" type="throwin" time="2014-07-13T19:18:48Z" updated_time="2014-07-13T19:18:48Z" scratch="false" x="55" y="99" clock="18" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="b98b9a96-eae6-4b9a-83a3-fdc7b0cbdfb4" type="injury_return" time="2014-07-13T19:19:15Z" updated_time="2014-07-13T19:19:15Z" scratch="false" clock="19" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="432f9e09-e0d3-4742-aa06-00cf2c0bc581">
+          <description>Christoph Kramer has recovered and rejoins the match in Rio de Janeiro.</description>
+        </fact>
+        <fact id="08437fc3-5899-47b6-9b4c-a9e8d3769678" type="throwin" time="2014-07-13T19:19:41Z" updated_time="2014-07-13T19:19:41Z" scratch="false" x="69" y="99" clock="19" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="a953464b-8680-41e8-94d7-88dc1be3a269" type="shot_off_target" time="2014-07-13T19:20:27Z" updated_time="2014-07-13T19:20:27Z" scratch="false" x="12" y="72" clock="21" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>Argentina's Gonzalo Higuain misses with an attempt on goal.</description>
+        </fact>
+        <fact id="db65fd0c-1192-484e-bfef-fd2571454f0c" type="goal_kick" time="2014-07-13T19:20:27Z" updated_time="2014-07-13T19:20:27Z" scratch="false" x="5" y="50" clock="21" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="002dabb6-cbaa-4a33-bcc2-a57c04d79360" type="free_kick" time="2014-07-13T19:21:10Z" updated_time="2014-07-13T19:21:10Z" scratch="false" x="62" y="46" clock="21" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a free kick to Germany.</description>
+        </fact>
+        <fact id="fd06f93a-e6bc-41de-bd9d-22747a8731d9" type="free_kick" time="2014-07-13T19:21:41Z" updated_time="2014-07-13T19:21:41Z" scratch="false" x="84" y="15" clock="21" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="12b1e8e6-9275-4b0f-8517-9d4a2e17d9dc" type="throwin" time="2014-07-13T19:23:10Z" updated_time="2014-07-13T19:23:10Z" scratch="false" x="68" y="2" clock="23" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="6e18e758-3b1d-4a8f-920e-d03e06cb9a0f" type="throwin" time="2014-07-13T19:26:42Z" updated_time="2014-07-13T19:26:42Z" scratch="false" x="80" y="99" clock="26" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a dangerous throw-in.</description>
+        </fact>
+        <fact id="7c23f3ce-a50a-4295-a378-8785a0fe8d16" type="offside" time="2014-07-13T19:27:51Z" updated_time="2014-07-13T19:28:44Z" scratch="false" x="87" y="83" clock="28" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Germany's Thomas Muller is whistled for offside at Estadio do Maracana.</description>
+        </fact>
+        <fact id="88861ba4-cc26-4765-8569-07b4e29bc5ef" type="free_kick" time="2014-07-13T19:28:15Z" updated_time="2014-07-13T19:28:15Z" scratch="false" x="42" y="64" clock="28" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="83b55e83-f436-49a3-82ce-2bb39a52cf01" type="card" time="2014-07-13T19:28:28Z" updated_time="2014-07-13T19:28:28Z" scratch="false" clock="29" card="Y" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Bastian Schweinsteiger for Germany has been booked by Nicola Rizzoli and receives a first yellow card.</description>
+        </fact>
+        <fact id="b966ee8b-a5fd-4106-991a-b8c5c44b9dfe" type="offside" time="2014-07-13T19:30:08Z" updated_time="2014-07-13T19:30:08Z" scratch="false" x="15" y="21" clock="30" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>Argentina's Gonzalo Higuain has run offside.</description>
+        </fact>
+        <fact id="c042d3a3-28ae-4c38-bd61-898e48ae880e" type="injury" time="2014-07-13T19:30:33Z" updated_time="2014-07-13T19:30:57Z" scratch="false" x="15" y="21" clock="30" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="432f9e09-e0d3-4742-aa06-00cf2c0bc581">
+          <description>The match at Estadio do Maracana has been interrupted briefly for a check on Christoph Kramer, who is down injured.</description>
+        </fact>
+        <fact id="b04b93b7-ad53-46a2-9145-82b1ccdf023b" type="game_resumed" time="2014-07-13T19:30:57Z" updated_time="2014-07-13T19:30:57Z" scratch="false" clock="30">
+          <description>Play has been resumed at Estadio do Maracana.</description>
+        </fact>
+        <fact id="a53fb06a-486c-47dd-8ef6-aca51a61e9dc" type="substitution" time="2014-07-13T19:30:57Z" updated_time="2014-07-13T19:30:57Z" scratch="false" clock="31" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="432f9e09-e0d3-4742-aa06-00cf2c0bc581" player_in_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>Christoph Kramer, who was grimacing earlier, has been substituted. Andre Schurrle is the substitute for Germany.</description>
+        </fact>
+        <fact id="cd109698-35f3-4bf3-95da-a5034d2469e7" type="free_kick" time="2014-07-13T19:32:32Z" updated_time="2014-07-13T19:32:32Z" scratch="false" x="64" y="51" clock="32" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="0d28a614-dd0b-4308-8c06-879a7ffe61ae" type="free_kick" time="2014-07-13T19:32:59Z" updated_time="2014-07-13T19:32:59Z" scratch="false" x="42" y="25" clock="32" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="d28ea42c-9d51-4add-9110-91d961eca432" type="card" time="2014-07-13T19:33:14Z" updated_time="2014-07-13T19:33:14Z" scratch="false" clock="34" card="Y" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8571ae58-b5a1-46a1-aaaf-e9188add8e16">
+          <description>Germany's Benedikt Howedes has been booked in Rio de Janeiro.</description>
+        </fact>
+        <fact id="d830a8ef-2015-44a0-b626-14d767351876" type="throwin" time="2014-07-13T19:34:40Z" updated_time="2014-07-13T19:34:40Z" scratch="false" x="80" y="99" clock="34" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="74909f88-efe3-47b1-8b16-9c1e579b09e9" type="corner_kick" time="2014-07-13T19:35:54Z" updated_time="2014-07-13T19:35:54Z" scratch="false" x="5" y="90" clock="36" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="f868f0a2-1920-40ea-bb15-9f0118f7b63b" type="keeper_save" time="2014-07-13T19:36:38Z" updated_time="2014-07-13T19:36:38Z" scratch="false" x="98" y="3" clock="36" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="4b59bdf6-8122-42c7-b28c-bafe2ee68dde" type="shot_on_target" time="2014-07-13T19:36:38Z" updated_time="2014-07-13T19:36:38Z" scratch="false" x="98" y="3" clock="37" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>Germany's Andre Schurrle is on target but unsuccessful.</description>
+        </fact>
+        <fact id="7e9efb07-b249-463d-aa08-9791145eb2f5" type="free_kick" time="2014-07-13T19:37:20Z" updated_time="2014-07-13T19:37:20Z" scratch="false" x="63" y="48" clock="37" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="2a74ed92-892c-4e28-9819-a7d9554164e7" type="throwin" time="2014-07-13T19:37:41Z" updated_time="2014-07-13T19:37:41Z" scratch="false" x="79" y="1" clock="37" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a Germany throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="fba67781-aa51-45c1-8c7f-3431e78b407a" type="throwin" time="2014-07-13T19:37:55Z" updated_time="2014-07-13T19:38:11Z" scratch="false" x="79" y="2" clock="38" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a throw-in for Argentina, close to Germany's area.</description>
+        </fact>
+        <fact id="c00eb3ea-1560-4cdd-b4dd-291b6c5cf5cb" type="throwin" time="2014-07-13T19:38:17Z" updated_time="2014-07-13T19:38:17Z" scratch="false" x="68" y="2" clock="38" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina at Estadio do Maracana.</description>
+        </fact>
+        <fact id="b6fc282f-aa38-4e5b-9bce-d300c61ac4b9" type="throwin" time="2014-07-13T19:38:32Z" updated_time="2014-07-13T19:38:32Z" scratch="false" x="35" y="1" clock="38" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="bcda7663-f980-43fa-a787-93d0831a0275" type="throwin" time="2014-07-13T19:39:07Z" updated_time="2014-07-13T19:39:07Z" scratch="false" x="28" y="2" clock="39" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="007d982a-a944-4a58-a577-fdcc0f328e81" type="throwin" time="2014-07-13T19:39:10Z" updated_time="2014-07-13T19:39:10Z" scratch="false" x="43" y="1" clock="39" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball safe as Germany is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="72d5bf14-2743-4d82-b37d-04fc024f9e4e" type="throwin" time="2014-07-13T19:39:43Z" updated_time="2014-07-13T19:39:43Z" scratch="false" x="22" y="98" clock="39" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a Argentina throw-in in Germany's half.</description>
+        </fact>
+        <fact id="3c13e8dd-1eae-40dc-a153-6b572b5fd440" type="throwin" time="2014-07-13T19:40:16Z" updated_time="2014-07-13T19:40:16Z" scratch="false" x="79" y="99" clock="40" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="a83718fc-472f-41b7-978c-72dbd3f929dc" type="free_kick" time="2014-07-13T19:40:42Z" updated_time="2014-07-13T19:40:42Z" scratch="false" x="67" y="65" clock="40" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="7ab82df5-b616-485a-8deb-4bff24906098" type="throwin" time="2014-07-13T19:41:58Z" updated_time="2014-07-13T19:41:58Z" scratch="false" x="80" y="1" clock="41" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a dangerous throw-in.</description>
+        </fact>
+        <fact id="6af71990-70c5-44e4-b8a8-de40622d5e63" type="throwin" time="2014-07-13T19:42:19Z" updated_time="2014-07-13T19:42:19Z" scratch="false" x="76" y="0" clock="42" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="d37d2869-453d-4dbb-8027-3798b2563a55" type="shot_on_target" time="2014-07-13T19:43:06Z" updated_time="2014-07-13T19:43:06Z" scratch="false" x="87" y="87" clock="43" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="0e28c29b-d344-4825-9128-0580ec64c448">
+          <description>Toni Kroos of Germany smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="f0f28efe-b750-452a-8ff9-4a18e7ed4c10" type="keeper_save" time="2014-07-13T19:43:06Z" updated_time="2014-07-13T19:43:06Z" scratch="false" x="87" y="87" clock="43" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="945ca901-6cc2-411a-b022-24615fb92362" type="goal_kick" time="2014-07-13T19:36:58Z" updated_time="2014-07-13T19:44:05Z" scratch="false" x="95" y="50" clock="44" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli awards Argentina a goal kick.</description>
+        </fact>
+        <fact id="104b84e1-fc08-421b-a2e1-9efae930f6c0" type="corner_kick" time="2014-07-13T19:45:32Z" updated_time="2014-07-13T19:45:32Z" scratch="false" x="95" y="90" clock="45" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Nicola Rizzoli.</description>
+        </fact>
+        <fact id="fd1e75dd-fded-45bd-b08f-94848403b0ad" type="corner_kick" time="2014-07-13T19:45:54Z" updated_time="2014-07-13T19:45:54Z" scratch="false" x="95" y="90" clock="45" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="ec220c72-0815-48ce-8e51-7363f1c55f00" type="shot_on_target" time="2014-07-13T19:46:41Z" updated_time="2014-07-13T19:51:08Z" scratch="false" x="95" y="90" clock="45" injury_time="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8571ae58-b5a1-46a1-aaaf-e9188add8e16">
+          <description>Benedikt Howedes (Germany) fires in a shot – and hits the post!</description>
+        </fact>
+        <fact id="5e32f3a5-994b-4076-ab89-02b2a5653d19" type="offside" time="2014-07-13T19:46:58Z" updated_time="2014-07-13T19:46:58Z" scratch="false" x="95" y="90" clock="45" injury_time="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Thomas Muller of Germany is pulled up for offside.</description>
+        </fact>
+        <fact id="050d453c-6343-4237-8fa6-7008a773b97c" type="injury_time" time="2014-07-13T19:46:35Z" updated_time="2014-07-13T19:46:35Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>The fourth official's board shows 2 minutes, which will be added to the first half.</description>
+        </fact>
+        <fact id="bc31c3b2-cc9f-4710-9779-cd75189ef8c3" type="period_started" time="2014-07-13T19:47:14Z" updated_time="2014-07-13T19:47:14Z" scratch="false" period="H"/>
+        <fact id="bf508f07-241a-40d5-8941-ff2eaa44b6e9" type="period_started" time="2014-07-13T20:04:20Z" updated_time="2014-07-13T20:04:20Z" scratch="false" period="P2"/>
+        <fact id="a9be925d-dba3-49ca-9d76-e6849c45f1bf" type="throwin" time="2014-07-13T20:04:41Z" updated_time="2014-07-13T20:04:41Z" scratch="false" x="34" y="2" clock="45" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a Argentina throw-in in Germany's half.</description>
+        </fact>
+        <fact id="dfc2af16-04c1-42b9-82aa-81777ef916cc" type="throwin" time="2014-07-13T19:47:05Z" updated_time="2014-07-13T19:47:05Z" scratch="false" x="34" y="2" clock="45" injury_time="1" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="26175dd0-ae7d-434e-b0c7-f2bf64d31557" type="period_over" time="2014-07-13T19:47:14Z" updated_time="2014-07-13T19:47:14Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The ref's whistle signals the end of the first-half.</description>
+        </fact>
+        <fact id="31355fe3-79f1-416e-a0b8-417636b35587" type="substitution" time="2014-07-13T20:03:50Z" updated_time="2014-07-13T20:03:50Z" scratch="false" clock="46" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="22291f86-10b1-4e7b-9dc5-345e18f49b8b" player_in_id="b5b3069b-1df6-4d10-be51-41e84067ae43">
+          <description>Alejandro Sabella (Argentina) is making a first substitution, with Sergio Aguero replacing Ezequiel Lavezzi.</description>
+        </fact>
+        <fact id="a332c1da-ace5-49ac-b433-ee6389630153" type="offside" time="2014-07-13T20:05:11Z" updated_time="2014-07-13T20:05:17Z" scratch="false" x="11" y="19" clock="46" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>In Rio de Janeiro Argentina's Gonzalo Higuain is caught offside.</description>
+        </fact>
+        <fact id="e52be726-5013-4721-98c9-769e36360188" type="shot_off_target" time="2014-07-13T20:06:08Z" updated_time="2014-07-13T20:06:08Z" scratch="false" x="16" y="62" clock="47" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Lionel Messi of Argentina gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="d204ac4b-fd05-4b50-b0eb-7b500c4061ab" type="goal_kick" time="2014-07-13T20:06:09Z" updated_time="2014-07-13T20:06:09Z" scratch="false" x="5" y="50" clock="47" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="6a3e1cd2-7027-435b-9517-9cb81437a000" type="goal_kick" time="2014-07-13T20:07:08Z" updated_time="2014-07-13T20:07:08Z" scratch="false" x="95" y="50" clock="47" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Goal kick for Argentina at Estadio do Maracana.</description>
+        </fact>
+        <fact id="38d61b87-8a52-48c0-8e18-623d54af2d4c" type="goal_kick" time="2014-07-13T20:07:54Z" updated_time="2014-07-13T20:07:54Z" scratch="false" x="5" y="50" clock="48" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="8cb2e2c4-baff-499d-b6db-815d233501a7" type="throwin" time="2014-07-13T20:08:24Z" updated_time="2014-07-13T20:08:24Z" scratch="false" x="86" y="1" clock="49" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="7ab285a1-c6f6-443e-8212-fb6874539ceb" type="free_kick" time="2014-07-13T20:08:44Z" updated_time="2014-07-13T20:08:44Z" scratch="false" x="56" y="25" clock="49" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="4d03d883-0ecd-4a73-a8cb-aad7fa92635d" type="goal_kick" time="2014-07-13T20:10:03Z" updated_time="2014-07-13T20:10:03Z" scratch="false" x="5" y="50" clock="50" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="a95f37b0-e9a0-4c5c-a6c1-daeee074427a" type="throwin" time="2014-07-13T20:11:01Z" updated_time="2014-07-13T20:11:01Z" scratch="false" x="67" y="1" clock="51" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="ef54bad3-d7e7-4a8f-8d57-9ff4e66946f2" type="free_kick" time="2014-07-13T20:13:51Z" updated_time="2014-07-13T20:13:51Z" scratch="false" x="88" y="70" clock="54" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="46664ce3-fd4c-4313-8546-8821de10d27e" type="corner_kick" time="2014-07-13T20:13:38Z" updated_time="2014-07-13T20:13:38Z" scratch="false" x="95" y="5" clock="55" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Nicola Rizzoli.</description>
+        </fact>
+        <fact id="a6e0156b-6f90-4d66-abda-b6074393f7a2" type="free_kick" time="2014-07-13T20:15:27Z" updated_time="2014-07-13T20:15:27Z" scratch="false" x="21" y="29" clock="56" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="8581f10a-f4eb-4412-98db-baf153c01170" type="injury" time="2014-07-13T20:16:05Z" updated_time="2014-07-13T20:16:05Z" scratch="false" x="21" y="29" clock="57" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>Play has been temporarily suspended for attention to Gonzalo Higuain for Argentina who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="ef74e033-0e53-4a62-8d0f-fe0b96cf7ab4" type="game_resumed" time="2014-07-13T20:17:10Z" updated_time="2014-07-13T20:17:10Z" scratch="false" clock="57">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="26df8fbc-ac3b-4308-b188-b8debd95af84" type="shot_on_target" time="2014-07-13T20:18:23Z" updated_time="2014-07-13T20:18:23Z" scratch="false" x="76" y="81" clock="59" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce">
+          <description>Miroslav Klose (Germany) strikes at Estadio do Maracana but his header is cleared.</description>
+        </fact>
+        <fact id="e3d344cb-b874-4abc-bffd-bfb8857bd399" type="keeper_save" time="2014-07-13T20:18:23Z" updated_time="2014-07-13T20:18:23Z" scratch="false" x="76" y="81" clock="59" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="f0ae629f-4927-4849-919e-ead9306ed52c" type="injury_return" time="2014-07-13T20:18:29Z" updated_time="2014-07-13T20:18:29Z" scratch="false" clock="59" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>Gonzalo Higuain returns to the field for Argentina after picking up a slight injury.</description>
+        </fact>
+        <fact id="606a207f-a84a-4e32-a3d6-28ffd0262bc1" type="throwin" time="2014-07-13T20:19:03Z" updated_time="2014-07-13T20:19:03Z" scratch="false" x="57" y="1" clock="59" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="c05181d6-7355-4697-a52a-01c9d8dd747c" type="throwin" time="2014-07-13T20:19:25Z" updated_time="2014-07-13T20:19:25Z" scratch="false" x="86" y="2" clock="60" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="d5a5f134-2203-4b53-8560-fddeb89a3097" type="goal_kick" time="2014-07-13T20:19:34Z" updated_time="2014-07-13T20:19:34Z" scratch="false" x="95" y="50" clock="60" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli awards Argentina a goal kick.</description>
+        </fact>
+        <fact id="b2d2d54a-b985-457a-bb70-59b5e55b1d29" type="shot_off_target" time="2014-07-13T20:20:40Z" updated_time="2014-07-13T20:20:40Z" scratch="false" x="83" y="20" clock="62" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="e2102346-9bbd-4f45-a980-ad66a59e77b3">
+          <description>Mesut Ozil for Germany gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="d32c58c5-14b8-4224-a5eb-a52ee4e71a93" type="goal_kick" time="2014-07-13T20:20:40Z" updated_time="2014-07-13T20:20:40Z" scratch="false" x="95" y="50" clock="62" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Goal kick for Argentina at Estadio do Maracana.</description>
+        </fact>
+        <fact id="8c3d6488-1a38-450d-becd-10345d34acbc" type="goal_kick" time="2014-07-13T20:22:18Z" updated_time="2014-07-13T20:22:18Z" scratch="false" x="5" y="50" clock="62" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="249e1bfa-88f3-4c38-ab5a-0abc6ea8fd5a" type="corner_kick" time="2014-07-13T20:21:53Z" updated_time="2014-07-13T20:22:10Z" scratch="false" x="5" y="90" clock="63" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Nicola Rizzoli.</description>
+        </fact>
+        <fact id="51f6e59d-7ee5-4b6e-9091-8774683b59bc" type="throwin" time="2014-07-13T20:22:40Z" updated_time="2014-07-13T20:22:40Z" scratch="false" x="44" y="2" clock="63" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a Argentina throw-in in Germany's half.</description>
+        </fact>
+        <fact id="3ddc363a-0649-445e-961a-ad81199106ad" type="free_kick" time="2014-07-13T20:23:05Z" updated_time="2014-07-13T20:23:05Z" scratch="false" x="58" y="56" clock="63" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="72b1c837-f4e2-4069-99d5-182f637fc5c5" type="card" time="2014-07-13T20:23:13Z" updated_time="2014-07-13T20:23:13Z" scratch="false" clock="64" card="Y" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="ceca1fbe-ea2f-4a58-be64-0f51ad290033">
+          <description>Javier Mascherano (Argentina) has received a yellow card from Nicola Rizzoli.</description>
+        </fact>
+        <fact id="a86cf9d5-a943-4ec0-b079-6f54b1034d6f" type="free_kick" time="2014-07-13T20:24:04Z" updated_time="2014-07-13T20:24:04Z" scratch="false" x="59" y="74" clock="64" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a free kick to Germany.</description>
+        </fact>
+        <fact id="fb8712df-af47-418f-b74a-10d33c2182a4" type="card" time="2014-07-13T20:24:17Z" updated_time="2014-07-13T20:24:17Z" scratch="false" clock="65" card="Y" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b5b3069b-1df6-4d10-be51-41e84067ae43">
+          <description>Sergio Aguero (Argentina) has received a first yellow card.</description>
+        </fact>
+        <fact id="f311a104-2a29-4f82-9839-26706a29e6cf" type="throwin" time="2014-07-13T20:25:03Z" updated_time="2014-07-13T20:25:03Z" scratch="false" x="65" y="2" clock="65" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="c515b4f9-9f18-40d4-bc2f-e3d50c806be9" type="free_kick" time="2014-07-13T20:25:19Z" updated_time="2014-07-13T20:25:19Z" scratch="false" x="41" y="74" clock="65" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="c0e78249-5003-40d5-9f8d-d2513d09b473" type="free_kick" time="2014-07-13T20:26:29Z" updated_time="2014-07-13T20:26:29Z" scratch="false" x="40" y="63" clock="67" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c6c752f0-8d91-4897-a852-d866f662cf99" type="free_kick" time="2014-07-13T20:26:56Z" updated_time="2014-07-13T20:26:56Z" scratch="false" x="64" y="21" clock="67" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="93f0e030-dd7f-4f1e-8db5-1dde0dd00d0f" type="throwin" time="2014-07-13T20:27:43Z" updated_time="2014-07-13T20:27:43Z" scratch="false" x="23" y="98" clock="68" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="5953653c-a928-4430-9111-25a88b8bfb87" type="free_kick" time="2014-07-13T20:28:20Z" updated_time="2014-07-13T20:28:20Z" scratch="false" x="61" y="75" clock="69" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="8c8a592c-7538-4ff6-abf3-f3ad5ec4e2b6" type="throwin" time="2014-07-13T20:29:04Z" updated_time="2014-07-13T20:29:04Z" scratch="false" x="91" y="99" clock="69" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="78f780ef-29ea-4274-82bc-6ee9f299269f" type="throwin" time="2014-07-13T20:30:09Z" updated_time="2014-07-13T20:30:09Z" scratch="false" x="61" y="1" clock="70" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a Germany throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="606d26c8-f025-483c-b4f1-516c8be80bac" type="shot_off_target" time="2014-07-13T20:30:52Z" updated_time="2014-07-13T20:30:52Z" scratch="false" x="82" y="31" clock="72" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>Germany are pushing forward but Andre Schurrle's finish is wide of the goal.</description>
+        </fact>
+        <fact id="4be62031-4f62-4aaa-b75f-ace4d3af277b" type="goal_kick" time="2014-07-13T20:30:52Z" updated_time="2014-07-13T20:30:52Z" scratch="false" x="95" y="50" clock="72" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball goes out of play for a Argentina goal kick.</description>
+        </fact>
+        <fact id="5103aeb9-ce8d-4b22-bece-8bc7b73cf5c0" type="free_kick" time="2014-07-13T20:31:28Z" updated_time="2014-07-13T20:31:28Z" scratch="false" x="39" y="62" clock="72" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="e8a29112-a297-4aa4-be4a-a8a8397f1569" type="throwin" time="2014-07-13T20:32:17Z" updated_time="2014-07-13T20:32:17Z" scratch="false" x="30" y="1" clock="72" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="981f39e3-c542-4c5a-8e53-f2450ea614fe" type="throwin" time="2014-07-13T20:32:39Z" updated_time="2014-07-13T20:32:39Z" scratch="false" x="28" y="1" clock="73" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="85a26e81-12b1-46d5-bdce-24017bbf1214" type="shot_off_target" time="2014-07-13T20:33:28Z" updated_time="2014-07-13T20:33:28Z" scratch="false" x="10" y="16" clock="75" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Argentina are coming forward and Lionel Messi gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="6240aed8-7701-432d-a7d5-5e66d9e33588" type="goal_kick" time="2014-07-13T20:33:28Z" updated_time="2014-07-13T20:33:28Z" scratch="false" x="5" y="50" clock="75" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli awards Germany a goal kick.</description>
+        </fact>
+        <fact id="5091aba5-c768-4413-83c8-5eb9c942aa14" type="throwin" time="2014-07-13T20:34:29Z" updated_time="2014-07-13T20:34:29Z" scratch="false" x="56" y="99" clock="75" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="5e7eb0bb-c994-4683-b4c8-088696319534" type="throwin" time="2014-07-13T20:34:50Z" updated_time="2014-07-13T20:34:50Z" scratch="false" x="67" y="98" clock="75" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="53355c73-2231-40de-9e48-e0a92c843b6c" type="free_kick" time="2014-07-13T20:35:23Z" updated_time="2014-07-13T20:35:23Z" scratch="false" x="64" y="35" clock="76" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="43716bc1-ecf0-4b44-9a48-e16b7cd6618a" type="throwin" time="2014-07-13T20:36:07Z" updated_time="2014-07-13T20:36:07Z" scratch="false" x="23" y="2" clock="76" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="259cc082-9b2e-4b75-9fcb-6e5571486031" type="substitution" time="2014-07-13T20:36:17Z" updated_time="2014-07-13T20:36:17Z" scratch="false" clock="77" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2" player_in_id="7353d6d6-e649-4bd4-af2e-7f98164fbe27">
+          <description>Argentina make their second substitution with Rodrigo Sebastian Palacio replacing Gonzalo Higuain.</description>
+        </fact>
+        <fact id="80c19799-09c6-4009-9ca0-588b643c73f8" type="throwin" time="2014-07-13T20:37:13Z" updated_time="2014-07-13T20:37:13Z" scratch="false" x="61" y="99" clock="77" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a Germany throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="d1e9a4b5-65e2-4869-9ef8-0347f9970d34" type="corner_kick" time="2014-07-13T20:38:09Z" updated_time="2014-07-13T20:38:09Z" scratch="false" x="95" y="90" clock="79" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="b9cd3f62-d233-41de-9b19-c7851843635c" type="goal_kick" time="2014-07-13T20:39:31Z" updated_time="2014-07-13T20:39:31Z" scratch="false" x="95" y="50" clock="80" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Goal kick for Argentina at Estadio do Maracana.</description>
+        </fact>
+        <fact id="e53928f5-099f-453d-84f3-045c39be4560" type="goal_kick" time="2014-07-13T20:41:18Z" updated_time="2014-07-13T20:41:18Z" scratch="false" x="95" y="50" clock="81" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball goes out of play for a Argentina goal kick.</description>
+        </fact>
+        <fact id="e00891df-9926-41e7-a664-43a2344de54c" type="shot_off_target" time="2014-07-13T20:40:31Z" updated_time="2014-07-13T20:40:31Z" scratch="false" x="83" y="85" clock="82" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="0e28c29b-d344-4825-9128-0580ec64c448">
+          <description>Germany's Toni Kroos gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="26d4c631-b36f-4510-bdb3-001700336825" type="goal_kick" time="2014-07-13T20:40:31Z" updated_time="2014-07-13T20:40:31Z" scratch="false" x="95" y="50" clock="82" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli awards Argentina a goal kick.</description>
+        </fact>
+        <fact id="9aed361a-26d1-467a-b80c-5f4804feb57a" type="throwin" time="2014-07-13T20:43:48Z" updated_time="2014-07-13T20:43:48Z" scratch="false" x="86" y="98" clock="84" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Argentina needs to be cautious. Germany have an attacking throw-in.</description>
+        </fact>
+        <fact id="8a51e0c6-d3ae-43d8-883c-c8e7cffa8ec3" type="throwin" time="2014-07-13T20:44:48Z" updated_time="2014-07-13T20:44:48Z" scratch="false" x="38" y="98" clock="85" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="5b8cf022-c563-4358-81fb-34b783e28d35" type="substitution" time="2014-07-13T20:44:58Z" updated_time="2014-07-13T20:44:58Z" scratch="false" clock="86" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="95593c5c-388a-4ce7-b55a-62f40c460227" player_in_id="8588a877-dbeb-493b-a91e-717783604eed">
+          <description>Fernando Gago is on a sub for Enzo Perez for Argentina.</description>
+        </fact>
+        <fact id="b32b6975-fd46-4df3-923b-de8cc0c021e2" type="throwin" time="2014-07-13T20:45:29Z" updated_time="2014-07-13T20:45:29Z" scratch="false" x="33" y="99" clock="86" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="8c3c5faa-52fc-4ba6-919f-23d7df3c1192" type="free_kick" time="2014-07-13T20:46:09Z" updated_time="2014-07-13T20:46:09Z" scratch="false" x="69" y="37" clock="86" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="4867aedf-1be4-4eeb-bc1f-2da5ed51982f" type="throwin" time="2014-07-13T20:46:30Z" updated_time="2014-07-13T20:46:30Z" scratch="false" x="27" y="1" clock="87" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a Argentina throw-in in Germany's half.</description>
+        </fact>
+        <fact id="190f8e43-f929-45a2-bd3c-412470a4b76c" type="substitution" time="2014-07-13T20:46:44Z" updated_time="2014-07-13T20:46:44Z" scratch="false" clock="88" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce" player_in_id="09bb94ef-6634-4ba2-8420-836b97009c4f">
+          <description>Joachim Low is making the team's second substitution at Estadio do Maracana with Mario Gotze replacing Miroslav Klose.</description>
+        </fact>
+        <fact id="84b2347d-3d7f-46b7-a8c5-1316e8cf4914" type="game_resumed" time="2014-07-13T20:47:54Z" updated_time="2014-07-13T20:47:54Z" scratch="false" clock="88">
+          <description>The match at Estadio do Maracana is underway again.</description>
+        </fact>
+        <fact id="eea365bd-2aaa-44a0-9658-b8236b267528" type="throwin" time="2014-07-13T20:48:14Z" updated_time="2014-07-13T20:48:14Z" scratch="false" x="38" y="99" clock="88" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="ba939047-329a-484f-b53a-ec54d847794e" type="injury" time="2014-07-13T20:47:34Z" updated_time="2014-07-13T20:47:34Z" scratch="false" x="27" y="1" clock="89" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="13409dae-ec11-496c-a3ed-033f8d2c0c55">
+          <description>Attention is being given to Argentina’s Lucas Biglia and play has been suspended briefly.</description>
+        </fact>
+        <fact id="aa0c5f31-8d27-430a-b657-3a4ec17b7755" type="injury_return" time="2014-07-13T20:48:25Z" updated_time="2014-07-13T20:48:25Z" scratch="false" clock="89" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="13409dae-ec11-496c-a3ed-033f8d2c0c55">
+          <description>Argentina's Lucas Biglia is back in action after a slight knock.</description>
+        </fact>
+        <fact id="c5851a5b-d1ab-4d7f-939e-db2406ccb224" type="throwin" time="2014-07-13T20:48:41Z" updated_time="2014-07-13T20:48:41Z" scratch="false" x="7" y="2" clock="89" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="670396eb-dd86-4396-963f-17eb2e4427f9" type="injury_time" time="2014-07-13T20:49:24Z" updated_time="2014-07-13T20:49:24Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>3 minutes will be added to the second half in Rio de Janeiro.</description>
+        </fact>
+        <fact id="d8e13620-ac2a-43d6-bc6b-c0ac45d6b112" type="throwin" time="2014-07-13T20:49:45Z" updated_time="2014-07-13T20:49:45Z" scratch="false" x="42" y="2" clock="90" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="4e057612-c85c-4133-a56a-adb7e7ce0c63" type="shot_on_target" time="2014-07-13T20:50:11Z" updated_time="2014-07-13T20:50:11Z" scratch="false" x="80" y="47" clock="90" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="09bb94ef-6634-4ba2-8420-836b97009c4f">
+          <description>Germany push forward through Mario Gotze, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="2e63b067-21b7-4860-a7a7-422c6a8c6644" type="keeper_save" time="2014-07-13T20:50:11Z" updated_time="2014-07-13T20:50:11Z" scratch="false" x="80" y="47" clock="90" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="3f7909d4-62c4-4c18-8ee3-68983b40ef4e" type="throwin" time="2014-07-13T20:51:46Z" updated_time="2014-07-13T20:51:46Z" scratch="false" x="24" y="99" clock="90" injury_time="2" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a Argentina throw-in in Germany's half.</description>
+        </fact>
+        <fact id="454b81c1-2306-4c96-a6dd-49544fd30eb3" type="period_over" time="2014-07-13T20:52:24Z" updated_time="2014-07-13T20:52:24Z" scratch="false" home_score="0" away_score="0" period="P2">
+          <description>The score after normal time is 0-0.</description>
+        </fact>
+        <fact id="0b709248-e337-4e19-a5f6-48927cfb1bde" type="period_started" time="2014-07-13T20:52:24Z" updated_time="2014-07-13T20:52:24Z" scratch="false" period="PX1"/>
+        <fact id="7e4d2040-c178-4332-86a3-d8ec8c2f56ba" type="period_started" time="2014-07-13T20:58:37Z" updated_time="2014-07-13T20:58:37Z" scratch="false" period="X1">
+          <description>The first extra period is now underway.</description>
+        </fact>
+        <fact id="bc8e2b8e-d4d4-4925-9c1c-5a119348a3bb" type="period_started" time="2014-07-13T20:58:37Z" updated_time="2014-07-13T20:58:37Z" scratch="false" period="X1"/>
+        <fact id="09ee608b-af94-4702-a320-57c61c635d3e" type="keeper_save" time="2014-07-13T20:59:20Z" updated_time="2014-07-13T20:59:20Z" scratch="false" x="86" y="19" clock="90" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="ec14354a-da72-4299-8017-0a42e8c92ae2" type="shot_on_target" time="2014-07-13T20:59:20Z" updated_time="2014-07-13T20:59:20Z" scratch="false" x="86" y="19" clock="91" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>Germany's Andre Schurrle gets in a shot on goal at Estadio do Maracana. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="992e06bb-0f8e-41ff-aa1e-24129672aebc" type="shot_blocked" time="2014-07-13T20:59:24Z" updated_time="2014-07-13T21:02:48Z" scratch="false" x="86" y="19" clock="91" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Mesut Ozil (Germany) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="6c7ae63a-b2fb-4d0b-81f8-af4427b282ec" type="throwin" time="2014-07-13T21:00:44Z" updated_time="2014-07-13T21:00:44Z" scratch="false" x="13" y="2" clock="92" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="f45b3d64-c43a-4cee-bc4d-0cd1a27e40ae" type="shot_off_target" time="2014-07-13T21:00:41Z" updated_time="2014-07-13T21:00:41Z" scratch="false" x="9" y="92" clock="93" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>In Rio de Janeiro Argentina attack through Lionel Messi. The finish is off target, however.</description>
+        </fact>
+        <fact id="ea87e974-3ada-4701-80d0-1bcfc17d16d3" type="throwin" time="2014-07-13T21:02:06Z" updated_time="2014-07-13T21:02:06Z" scratch="false" x="81" y="1" clock="93" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina at Estadio do Maracana.</description>
+        </fact>
+        <fact id="6da99095-4116-45cb-801d-c4cbe7d8d58f" type="throwin" time="2014-07-13T21:02:58Z" updated_time="2014-07-13T21:02:58Z" scratch="false" x="78" y="99" clock="94" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="dd21e961-8ff5-4a36-85d1-9240d949362f" type="free_kick" time="2014-07-13T21:03:17Z" updated_time="2014-07-13T21:03:17Z" scratch="false" x="62" y="42" clock="94" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="db994283-6f5c-4efd-91db-27d2d0e7d866" type="free_kick" time="2014-07-13T21:03:40Z" updated_time="2014-07-13T21:03:40Z" scratch="false" x="63" y="45" clock="95" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="b3476aeb-7107-4086-9111-d90449afb79a" type="goal_kick" time="2014-07-13T21:04:01Z" updated_time="2014-07-13T21:04:01Z" scratch="false" x="95" y="50" clock="95" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Goal kick for Argentina at Estadio do Maracana.</description>
+        </fact>
+        <fact id="08a095c8-33d4-467e-8803-8167cca3d7c4" type="shot_off_target" time="2014-07-13T21:05:32Z" updated_time="2014-07-13T21:05:32Z" scratch="false" x="22" y="47" clock="97" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="7353d6d6-e649-4bd4-af2e-7f98164fbe27">
+          <description>Rodrigo Sebastian Palacio for Argentina gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="a805dfa3-f473-4a8d-876f-e0778c2c03dd" type="goal_kick" time="2014-07-13T21:05:32Z" updated_time="2014-07-13T21:05:32Z" scratch="false" x="5" y="50" clock="97" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="7209d56c-4e08-467f-9fbd-0f249d3bd71e" type="throwin" time="2014-07-13T21:05:59Z" updated_time="2014-07-13T21:05:59Z" scratch="false" x="78" y="99" clock="97" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="f2be89c6-b5af-4754-8515-2d2f37ece41f" type="goal_kick" time="2014-07-13T21:06:41Z" updated_time="2014-07-13T21:06:41Z" scratch="false" x="95" y="50" clock="98" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli awards Argentina a goal kick.</description>
+        </fact>
+        <fact id="36586126-b02e-45ea-8933-b7eb93cdd910" type="throwin" time="2014-07-13T21:08:08Z" updated_time="2014-07-13T21:08:08Z" scratch="false" x="82" y="98" clock="99" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany capitalize from this throw-in deep inside Argentina's half?</description>
+        </fact>
+        <fact id="5cfc0d5c-4c44-4273-b190-66e2a619b694" type="throwin" time="2014-07-13T21:08:27Z" updated_time="2014-07-13T21:08:27Z" scratch="false" x="38" y="99" clock="99" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball safe as Germany is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="26412cef-10d1-471d-8dd3-1037082a8982" type="throwin" time="2014-07-13T21:09:41Z" updated_time="2014-07-13T21:09:41Z" scratch="false" x="55" y="2" clock="101" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="3676967b-0048-4f23-9c9c-5a7dda0fc367" type="game_resumed" time="2014-07-13T21:10:32Z" updated_time="2014-07-13T21:10:32Z" scratch="false" clock="101">
+          <description>The match is underway again.</description>
+        </fact>
+        <fact id="e41c5eec-e364-4c44-8373-3c997dd5a62c" type="throwin" time="2014-07-13T21:10:36Z" updated_time="2014-07-13T21:10:36Z" scratch="false" x="29" y="2" clock="101" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="317269c6-b179-4213-af46-f389a9d1a5be" type="injury" time="2014-07-13T21:09:49Z" updated_time="2014-07-13T21:09:49Z" scratch="false" x="62" y="20" clock="102" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>The match has been stopped briefly for attention to the injured Bastian Schweinsteiger.</description>
+        </fact>
+        <fact id="790611a8-b0d0-42bb-b6cb-3848d9a6ddc1" type="free_kick" time="2014-07-13T21:11:00Z" updated_time="2014-07-13T21:11:00Z" scratch="false" x="57" y="64" clock="102" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="cf8fd31f-2303-45de-8cad-79b07789b5a5" type="injury_return" time="2014-07-13T21:11:14Z" updated_time="2014-07-13T21:11:14Z" scratch="false" clock="102" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Germany's Bastian Schweinsteiger looks ok and returns to the pitch.</description>
+        </fact>
+        <fact id="62a3a719-381b-435c-a21d-55da1bc280bc" type="throwin" time="2014-07-13T21:12:22Z" updated_time="2014-07-13T21:12:22Z" scratch="false" x="63" y="98" clock="103" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="35692172-4eb7-44d4-a004-a0da17ec9b09" type="throwin" time="2014-07-13T21:12:53Z" updated_time="2014-07-13T21:12:53Z" scratch="false" x="45" y="100" clock="104" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="979f990a-a1d2-42dd-a3ef-e1a79ba07b39" type="free_kick" time="2014-07-13T21:13:40Z" updated_time="2014-07-13T21:13:40Z" scratch="false" x="34" y="57" clock="105" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="5879689e-45c6-4b88-b31e-3135dc06a1a2" type="period_over" time="2014-07-13T21:13:58Z" updated_time="2014-07-13T21:13:58Z" scratch="false" home_score="0" away_score="0" period="X1">
+          <description>The first extra period is over. The score is 0-0.</description>
+        </fact>
+        <fact id="b316acee-ac13-4eeb-ad33-5b0dea3f3452" type="period_started" time="2014-07-13T21:13:58Z" updated_time="2014-07-13T21:13:58Z" scratch="false" period="PX2"/>
+        <fact id="45da51d5-7f1c-48e2-a536-21ee92d1235e" type="period_started" time="2014-07-13T21:17:09Z" updated_time="2014-07-13T21:17:09Z" scratch="false" period="X2">
+          <description>The second extra period is just kicking-off.</description>
+        </fact>
+        <fact id="9ef5471b-8191-42b3-b348-0acf369cc5ec" type="period_started" time="2014-07-13T21:17:09Z" updated_time="2014-07-13T21:17:09Z" scratch="false" period="X2"/>
+        <fact id="464c3ad0-612d-4955-9934-85a83af43e75" type="free_kick" time="2014-07-13T21:17:22Z" updated_time="2014-07-13T21:17:22Z" scratch="false" x="67" y="47" clock="105" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="9996df34-6338-4b7a-87ac-21e1ea664026" type="free_kick" time="2014-07-13T21:18:46Z" updated_time="2014-07-13T21:18:46Z" scratch="false" x="75" y="80" clock="106" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a free kick to Germany.</description>
+        </fact>
+        <fact id="cf53b043-4388-47f6-9aa2-277844ab9d1f" type="free_kick" time="2014-07-13T21:20:22Z" updated_time="2014-07-13T21:20:22Z" scratch="false" x="64" y="47" clock="108" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="a47ec5e4-a2d3-4401-aad5-603080010719" type="game_resumed" time="2014-07-13T21:21:32Z" updated_time="2014-07-13T21:21:32Z" scratch="false" clock="109">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="b54f075b-ab48-442e-bcc0-6c91c5f55a46" type="free_kick" time="2014-07-13T21:21:47Z" updated_time="2014-07-13T21:21:47Z" scratch="false" x="89" y="51" clock="109" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="ab6be0aa-4de0-4ebc-bc2f-e30d11ef1c75" type="injury" time="2014-07-13T21:21:29Z" updated_time="2014-07-13T21:21:29Z" scratch="false" x="64" y="47" clock="110" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Bastian Schweinsteiger is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="c6b4cc44-b144-4e38-8b15-1b73dd318908" type="injury_return" time="2014-07-13T21:23:21Z" updated_time="2014-07-13T21:23:21Z" scratch="false" clock="111" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Germany’s Bastian Schweinsteiger is on his feet again at Estadio do Maracana.</description>
+        </fact>
+        <fact id="975bdcac-5484-4f38-83f2-194d982da7d1" type="throwin" time="2014-07-13T21:23:36Z" updated_time="2014-07-13T21:23:36Z" scratch="false" x="47" y="98" clock="111" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball safe as Germany is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="adcbda1c-fb4d-4a04-9979-3883cbf86f1d" type="free_kick" time="2014-07-13T21:23:53Z" updated_time="2014-07-13T21:23:53Z" scratch="false" x="37" y="62" clock="111" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="754f7e12-908e-45b5-908f-4923924f355e" type="goal" time="2014-07-13T21:25:02Z" updated_time="2014-07-13T21:25:02Z" scratch="false" x="85" y="48" clock="113" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="09bb94ef-6634-4ba2-8420-836b97009c4f" assist1_id="23e5f012-4cdf-4548-8788-b2b8170601ef">
+          <description>That's a fine assist from Andre Schurrle.</description>
+        </fact>
+        <fact id="15a0c798-680f-47cd-ae87-35a868ae76e6" type="throwin" time="2014-07-13T21:26:59Z" updated_time="2014-07-13T21:26:59Z" scratch="false" x="61" y="2" clock="114" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="3b4ba211-6413-444c-8979-ebd61d91273c" type="throwin" time="2014-07-13T21:27:21Z" updated_time="2014-07-13T21:27:21Z" scratch="false" x="44" y="2" clock="115" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a Argentina throw-in in Germany's half.</description>
+        </fact>
+        <fact id="c6a82ef0-da49-4157-921d-57f9cb54fa55" type="throwin" time="2014-07-13T21:27:54Z" updated_time="2014-07-13T21:27:54Z" scratch="false" x="19" y="2" clock="115" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="7685df54-8fbf-4bd1-88d7-0b88521c65cc" type="throwin" time="2014-07-13T21:28:32Z" updated_time="2014-07-13T21:28:32Z" scratch="false" x="62" y="99" clock="116" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="38243106-5126-4258-9735-e1d241cea7cb" type="free_kick" time="2014-07-13T21:28:41Z" updated_time="2014-07-13T21:28:41Z" scratch="false" x="58" y="52" clock="116" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="634b8654-4b76-41ed-8804-fce433c319a5" type="free_kick" time="2014-07-13T21:29:56Z" updated_time="2014-07-13T21:29:56Z" scratch="false" x="64" y="33" clock="117" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="a4de54fc-353b-4cf6-a585-db3b4c99e83d" type="shot_off_target" time="2014-07-13T21:29:18Z" updated_time="2014-07-13T21:29:18Z" scratch="false" x="19" y="54" clock="118" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>In Rio de Janeiro, Lionel Messi (Argentina) misses the target with a header.</description>
+        </fact>
+        <fact id="42d1132f-d17d-472e-9617-49355b83725a" type="goal_kick" time="2014-07-13T21:29:18Z" updated_time="2014-07-13T21:29:18Z" scratch="false" x="5" y="50" clock="118" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="b8215b75-c1a9-4e07-88ba-357533f3d11c" type="free_kick" time="2014-07-13T21:31:32Z" updated_time="2014-07-13T21:31:32Z" scratch="false" x="84" y="82" clock="119" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c49ea07a-62d2-42f6-9da6-bf0380c26f4f" type="substitution" time="2014-07-13T21:31:51Z" updated_time="2014-07-13T21:31:51Z" scratch="false" clock="120" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="e2102346-9bbd-4f45-a980-ad66a59e77b3" player_in_id="17525942-55d1-48f1-8ef0-73ba1ee51956">
+          <description>Per Mertesacker is replacing Mesut Ozil for Germany at Estadio do Maracana.</description>
+        </fact>
+        <fact id="672ca199-e005-4a2a-ba73-9a8e27479d38" type="goal_kick" time="2014-07-13T21:32:11Z" updated_time="2014-07-13T21:32:11Z" scratch="false" x="5" y="50" clock="120" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="6b6c1abf-5cbf-4c2b-bb03-8508a5034d62" type="throwin" time="2014-07-13T21:32:43Z" updated_time="2014-07-13T21:32:43Z" scratch="false" x="61" y="99" clock="120" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="6c1f56d5-3927-45a1-b90f-71ab48cd9ddf" type="injury_time" time="2014-07-13T21:32:58Z" updated_time="2014-07-13T21:34:41Z" scratch="true" clock="120" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="007fae88-e3df-4122-ba5b-4faa98c0d241" type="free_kick" time="2014-07-13T21:33:03Z" updated_time="2014-07-13T21:33:03Z" scratch="false" x="23" y="37" clock="120" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Nicola Rizzoli signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="b8f2c6ed-6f06-411e-9371-cb71e65705a3" type="shot_off_target" time="2014-07-13T21:35:06Z" updated_time="2014-07-13T21:35:06Z" scratch="false" x="23" y="37" clock="120" injury_time="2" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Argentina's Lionel Messi gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="04caae67-fb3d-4ccd-b2fa-8a838dc19d48" type="goal_kick" time="2014-07-13T21:35:06Z" updated_time="2014-07-13T21:35:06Z" scratch="false" x="5" y="50" clock="120" injury_time="2" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="0d02d92e-692d-42f2-ab8f-056a16c37fa1" type="free_kick" time="2014-07-13T21:35:59Z" updated_time="2014-07-13T21:35:59Z" scratch="false" x="37" y="47" clock="120" injury_time="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Nicola Rizzoli signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="a322968a-b3a9-472b-a4ff-7c3c3fcb746f" type="period_over" time="2014-07-13T21:36:05Z" updated_time="2014-07-13T21:36:05Z" scratch="false" home_score="1" away_score="0" period="X2">
+          <description>It's 1-0 at the end of extra-time.</description>
+        </fact>
+        <fact id="aede7f90-5228-41a2-924b-31f9504cf2b1" type="match_ended" time="2014-07-13T21:36:05Z" updated_time="2014-07-13T21:36:05Z" scratch="false" home_score="1" away_score="0" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" draw="false"/>
+      </facts>
+      <!-- 4768178/4711/4819 -->
+    </match>
+  </matches>
+</summary>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:36:04Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="c4d7aece-bfdb-4c2d-a821-fbb38210fbaf" status="closed" scratched="false" period="P2" scheduled="2014-06-14T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D"/>
+      <round week="24" number="1" type="table"/>
+      <home id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team" formation="4-4-2" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="78" ball_safe="90" corner_kicks="5" dangerous_attacks="50" fouls="20" free_kicks="19" goal_attempts="6" goal_kicks="9" offsides="6" red_card="1" saves="1" shots_total="6" substitutions="3" throw_ins="31" yellow_card="3" shots_on_target="3" shots_off_target="3" possessions="53"/>
+        <players>
+          <player id="25a8e290-d97e-4f4f-8d1c-017c1c680673" country_code="URY" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Edinson" last_name="Cavani" country="Uruguay" jersey_number="21">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cba73970-d2fa-4254-b202-954eea7c50bd" country_code="URY" position="F" started="false" tactical_position="7" tactical_order="9" first_name="Abel" last_name="Hernandez" country="Uruguay" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="16e71fb7-9a15-41a3-978c-f9cc7c489571" country_code="URY" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Rodrigo" last_name="Munoz" country="Uruguay" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c6fa948b-5bea-4f1f-a8c5-bf0731d57cd8" country_code="URY" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Egidio" last_name="Arevalo" country="Uruguay" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="77217228-0545-44df-969c-86c0b6cae95c" country_code="URY" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Gaston" last_name="Ramirez" country="Uruguay" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14d572e2-df36-4432-8492-9531ec94ff0c" country_code="URY" position="F" started="true" tactical_position="5" tactical_order="6" first_name="Christian" last_name="Stuani" country="Uruguay" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="52c13506-d060-4037-b3dc-30457ad471dc" country_code="URY" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Walter" last_name="Gargano" country="Uruguay" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="ae77a456-2213-4442-8424-1a9aca404572" country_code="URY" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Diego" last_name="Godin" country="Uruguay" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="10e5d8bc-e4fc-4717-bb98-fb1528bb3347" country_code="URY" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Diego" last_name="Lugano" country="Uruguay" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9ba1cb4f-af38-48b3-a805-1828bad7a6e7" country_code="URY" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Jose" last_name="Gimenez" country="Uruguay" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14c5e20b-9036-423e-82b7-5a63a869daff" country_code="URY" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Martin" last_name="Caceres" country="Uruguay" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4ede4753-eec0-4b4f-b910-a9a4dd859736" country_code="URY" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Alvaro" last_name="Pereira" country="Uruguay" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="459ea752-d2fc-45c1-a6dd-5a758276aa6e" country_code="URY" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Maxi" last_name="Pereira" country="Uruguay" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="1" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1087aae7-3b8b-434e-b5a0-e079b1d44716" country_code="URY" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Fernando" last_name="Muslera" country="Uruguay" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2ff26eb5-ff4d-4734-a6d2-da7992eb06db" country_code="URY" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Martin" last_name="Silva" country="Uruguay" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2b1b8b42-9bb2-48b8-9ae4-beca5f8dba7c" country_code="URY" position="M" started="true" tactical_position="7" tactical_order="9" first_name="Cristian" last_name="Rodriguez" country="Uruguay" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0a29886e-ff78-44f3-bb31-2ed4331f5b40" country_code="URY" position="M" started="false" tactical_position="6" tactical_order="8" first_name="Alvaro" last_name="Gonzalez" country="Uruguay" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="185f7027-92b1-420b-b49d-a07601d3be58" country_code="URY" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Diego" last_name="Forlan" country="Uruguay" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="a8a4c8ac-5ca5-4ad7-831e-69b0b77193c2" country_code="URY" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Sebastian" last_name="Coates" country="Uruguay" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2d201088-ce7b-4abb-bfbd-41641674b055" country_code="URY" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Jorge" last_name="Fucile" country="Uruguay" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7f893698-5482-4742-8fcf-7716e6c594e4" country_code="URY" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Luis" last_name="Suarez" country="Uruguay" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="606827e7-8da7-470f-8100-01ce93a9189f" country_code="URY" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Perez" country="Uruguay" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="bcdadf2b-4668-4718-b094-55fdbcf2a7bf" country_code="URY" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Nicolas" last_name="Lodeiro" country="Uruguay" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+        </players>
+      </home>
+      <away id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" formation="5-4-1" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="3" number="2"/>
+        </scoring>
+        <statistics attacks="67" ball_safe="74" corner_kicks="6" dangerous_attacks="53" fouls="17" free_kicks="26" goal_attempts="11" goal_kicks="8" offsides="2" red_card="0" saves="2" shots_total="11" substitutions="3" throw_ins="25" yellow_card="0" shots_on_target="4" shots_off_target="7" possessions="47"/>
+        <players>
+          <player id="be9179f6-123e-41ce-8630-0afa9401faf1" country_code="CRI" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Cristian" last_name="Gamboa" country="Costa Rica" jersey_number="16">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="424323a9-2b66-4293-b2d9-ce3021245061" country_code="CRI" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Keylor" last_name="Navas" country="Costa Rica" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1700fe77-790e-4f0f-87a7-63c1abcd5d42" country_code="CRI" position="F" started="false" tactical_position="5" tactical_order="7" first_name="Marcos" last_name="Urena" country="Costa Rica" jersey_number="21">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1379788f-16a2-4c55-9c89-a1e22915a8e5" country_code="CRI" position="D" started="true" tactical_position="4" tactical_order="6" first_name="Junior" last_name="Diaz" country="Costa Rica" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Oscar" last_name="Duarte" country="Costa Rica" jersey_number="6">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="259741ad-160b-46e3-a38d-ad6cb679ba8f" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Johnny" last_name="Acosta" country="Costa Rica" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1611d777-4434-4429-8a3c-4873f525ef00" country_code="CRI" position="F" started="true" tactical_position="6" tactical_order="8" first_name="Celso" last_name="Borges" country="Costa Rica" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5800d953-21da-4206-93dc-fe988b90531f" country_code="CRI" position="M" started="true" tactical_position="6" tactical_order="9" first_name="Yeltsin" last_name="Tejeda" country="Costa Rica" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="983a4ee1-70ea-4058-a1b7-432a255fe64b" country_code="CRI" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Christian" last_name="Bolanos" country="Costa Rica" jersey_number="7">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="589a2b5d-4c99-4fa3-b87b-e5c0d1105e69" country_code="CRI" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Randall" last_name="Brenes" country="Costa Rica" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="469d8bfc-dd46-4061-9c77-74cad92a7527" country_code="CRI" position="F" started="true" tactical_position="5" tactical_order="7" first_name="Bryan" last_name="Ruiz" country="Costa Rica" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="e21eb6b3-273b-44a3-91a6-929ba3f75efa" country_code="CRI" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Joel" last_name="Campbell" country="Costa Rica" jersey_number="9">
+            <statistics goal="1" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e1ddf3b-3501-4a89-8333-ff838ed15760" country_code="CRI" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Daniel" last_name="Cambronero" country="Costa Rica" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5a836d28-591d-4bc6-9966-65cd5ebc1bfc" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Waylon" last_name="Francis" country="Costa Rica" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="67ce8e1c-4b31-4c00-9300-971fa0df1c0c" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="5" first_name="Michael" last_name="Umana" country="Costa Rica" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="98bf5488-638d-4ca8-9d23-4a31d98716c7" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Roy" last_name="Miller" country="Costa Rica" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3afc4a85-ad85-4631-950d-2309c3a1acd8" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Giancarlo" last_name="Gonzalez" country="Costa Rica" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0b7436fd-1ea2-4f7f-9b0b-cbb032160095" country_code="CRI" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Michael" last_name="Barrantes" country="Costa Rica" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0e6d9726-358c-4241-af29-ce71865327bd" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Calvo" country="Costa Rica" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9bcdae85-d3cb-4238-a547-5094386165ca" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dave" last_name="Myrie" country="Costa Rica" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19af8261-86ec-44e7-b468-b63b37f6147f" country_code="CRI" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Patrick" last_name="Pemberton" country="Costa Rica" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b48bc2c1-71c8-4e53-817e-4928e104aef3" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Oscar" last_name="Granados" country="Costa Rica" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="32b87aec-9053-4471-9c3c-f27eadf3b7d7" country_code="CRI" position="M" started="false" tactical_position="6" tactical_order="9" first_name="Jose" last_name="Cubero" country="Costa Rica" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+        </players>
+      </away>
+      <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542"/>
+      <facts>
+        <fact id="d21e6b6a-a1a1-4c2a-8cf6-110aaf40f158" type="match_started" time="2014-06-14T19:01:15Z" updated_time="2014-06-14T19:01:09Z" scratch="false" clock="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>The match is underway in Fortaleza.</description>
+        </fact>
+        <fact id="9278a173-5153-407d-9641-9bc2d346497b" type="period_started" time="2014-06-14T19:01:15Z" updated_time="2014-06-14T19:01:15Z" scratch="false" period="P1"/>
+        <fact id="b4ed5eb5-ec80-4d2c-9c3b-2cf9bb35031a" type="throwin" time="2014-06-14T19:01:53Z" updated_time="2014-06-14T19:01:53Z" scratch="false" x="65" y="98" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="9b950015-11a9-4dff-9694-7648f6fcbe46" type="throwin" time="2014-06-14T19:02:08Z" updated_time="2014-06-14T19:02:08Z" scratch="false" x="41" y="99" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="69b7e587-2c9a-4ff1-ad6b-94810c524fbe" type="throwin" time="2014-06-14T19:02:26Z" updated_time="2014-06-14T19:02:26Z" scratch="false" x="42" y="1" clock="1" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="22dc0368-b4bb-47aa-a8f9-ff38bd754858" type="throwin" time="2014-06-14T19:02:44Z" updated_time="2014-06-14T19:02:44Z" scratch="false" x="65" y="2" clock="1" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a Uruguay throw-in in Costa Rica's half.</description>
+        </fact>
+        <fact id="9a92b038-5be4-4222-9e03-c7f54f70b363" type="throwin" time="2014-06-14T19:03:19Z" updated_time="2014-06-14T19:03:19Z" scratch="false" x="16" y="98" clock="2" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay in their own half.</description>
+        </fact>
+        <fact id="189c4e0c-8272-42ab-88c0-f7a8487c222e" type="throwin" time="2014-06-14T19:03:37Z" updated_time="2014-06-14T19:03:37Z" scratch="false" x="34" y="98" clock="2" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in Uruguay.</description>
+        </fact>
+        <fact id="c9bab77b-6829-460e-86ed-f6a2d2ee9c19" type="throwin" time="2014-06-14T19:03:55Z" updated_time="2014-06-14T19:03:55Z" scratch="false" x="70" y="99" clock="2" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica at Estadio Castelao.</description>
+        </fact>
+        <fact id="722503b2-b3a7-481c-9a08-2a17ecb3b55a" type="free_kick" time="2014-06-14T19:04:19Z" updated_time="2014-06-14T19:04:19Z" scratch="false" x="85" y="82" clock="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="2674d8a8-e0b6-4d75-bdbd-e65a2fec004b" type="free_kick" time="2014-06-14T19:05:04Z" updated_time="2014-06-14T19:05:04Z" scratch="false" x="41" y="40" clock="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="b5860d85-caa1-442f-83a7-10bd9c872725" type="throwin" time="2014-06-14T19:06:05Z" updated_time="2014-06-14T19:06:05Z" scratch="false" x="32" y="1" clock="4" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in Uruguay.</description>
+        </fact>
+        <fact id="5afb6677-acf2-4f06-b401-e0de73ec2e37" type="free_kick" time="2014-06-14T19:06:58Z" updated_time="2014-06-14T19:06:58Z" scratch="false" x="66" y="21" clock="5" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Free kick Uruguay.</description>
+        </fact>
+        <fact id="56e93225-2688-4679-b7fc-dcd0835f936f" type="throwin" time="2014-06-14T19:07:20Z" updated_time="2014-06-14T19:07:20Z" scratch="false" x="53" y="99" clock="6" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay get the ball into an attacking position from this throw-in in Costa Rica's half?</description>
+        </fact>
+        <fact id="99b1897e-8ac2-4ef8-80d0-17947916d7c0" type="shot_blocked" time="2014-06-14T19:07:48Z" updated_time="2014-06-14T19:09:47Z" scratch="false" x="80" y="37" clock="7" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay's Egidio Arevalo gets in a shot but it is blocked by a Costa Rica defender.</description>
+        </fact>
+        <fact id="b9c5e2e4-a347-4832-a7c8-17db462b51c5" type="throwin" time="2014-06-14T19:08:49Z" updated_time="2014-06-14T19:08:49Z" scratch="false" x="77" y="1" clock="7" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="a4ed5e37-5cd0-4aba-93c8-d79beb61581d" type="throwin" time="2014-06-14T19:09:35Z" updated_time="2014-06-14T19:09:35Z" scratch="false" x="7" y="100" clock="8" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Uruguay needs to be cautious. Costa Rica have an attacking throw-in.</description>
+        </fact>
+        <fact id="a6421801-1032-4a26-bc0f-86ab48b9d164" type="corner_kick" time="2014-06-14T19:10:31Z" updated_time="2014-06-14T19:10:31Z" scratch="false" x="5" y="90" clock="9" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Felix Brych.</description>
+        </fact>
+        <fact id="3a647caa-dde9-4db8-890b-5f335bf4db47" type="free_kick" time="2014-06-14T19:10:38Z" updated_time="2014-06-14T19:10:38Z" scratch="false" x="10" y="50" clock="9" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="405043c0-b8d4-4da4-8a7a-6d38d34260bf" type="free_kick" time="2014-06-14T19:12:06Z" updated_time="2014-06-14T19:12:06Z" scratch="false" x="53" y="45" clock="10" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="90fda354-b897-4440-82b9-50330e72316e" type="offside" time="2014-06-14T19:11:27Z" updated_time="2014-06-14T19:11:27Z" scratch="false" x="92" y="78" clock="11" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="25a8e290-d97e-4f4f-8d1c-017c1c680673">
+          <description>In Fortaleza Uruguay's Edinson Cavani is caught offside.</description>
+        </fact>
+        <fact id="886c90ed-c07a-442b-a75b-052be73e539d" type="shot_off_target" time="2014-06-14T19:12:40Z" updated_time="2014-06-14T19:12:40Z" scratch="false" x="8" y="44" clock="12" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="469d8bfc-dd46-4061-9c77-74cad92a7527">
+          <description>In Fortaleza, Bryan Ruiz (Costa Rica) misses the target with a header.</description>
+        </fact>
+        <fact id="e0ed9c55-3d01-4d9d-a0d9-f3876e675669" type="goal_kick" time="2014-06-14T19:12:41Z" updated_time="2014-06-14T19:12:41Z" scratch="false" x="5" y="50" clock="12" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Goal kick for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="50db4f25-7339-43e5-af20-42c018aaf40b" type="throwin" time="2014-06-14T19:14:04Z" updated_time="2014-06-14T19:14:04Z" scratch="false" x="57" y="2" clock="12" team_id="6ea57d79-b740-4e32-b135-474dd53db2df"/>
+        <fact id="06b0f51c-b887-4f9c-8d05-09fa0d6943d8" type="throwin" time="2014-06-14T19:14:46Z" updated_time="2014-06-14T19:14:46Z" scratch="false" x="77" y="1" clock="13" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica in their own half.</description>
+        </fact>
+        <fact id="162947b3-a35e-4473-95c0-e555b87239ce" type="free_kick" time="2014-06-14T19:15:06Z" updated_time="2014-06-14T19:15:06Z" scratch="false" x="49" y="26" clock="13" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="473a97e4-c11a-4445-87e5-c4d6e4686017" type="shot_blocked" time="2014-06-14T19:15:33Z" updated_time="2014-06-14T19:15:33Z" scratch="false" x="75" y="24" clock="15" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Edinson Cavani (Uruguay) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="bad06167-21ac-4726-8c00-d68308a75402" type="offside" time="2014-06-14T19:15:47Z" updated_time="2014-06-14T19:15:53Z" scratch="false" x="90" y="57" clock="15" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="ae77a456-2213-4442-8424-1a9aca404572">
+          <description>Uruguay's Diego Godin has run offside.</description>
+        </fact>
+        <fact id="b1529933-4e40-4ac5-839b-5efb5503853b" type="free_kick" time="2014-06-14T19:16:40Z" updated_time="2014-06-14T19:16:40Z" scratch="false" x="54" y="75" clock="15" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="faafcadc-cabb-4916-b7fa-922d93bb595e" type="shot_off_target" time="2014-06-14T19:16:59Z" updated_time="2014-06-14T19:16:59Z" scratch="false" x="90" y="57" clock="16" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="25a8e290-d97e-4f4f-8d1c-017c1c680673">
+          <description>Uruguay are coming forward and Edinson Cavani gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="6a529b25-97e3-4cbb-977f-bbb108daa258" type="goal_kick" time="2014-06-14T19:17:00Z" updated_time="2014-06-14T19:17:00Z" scratch="false" x="95" y="50" clock="16" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="820d970d-93db-43b7-bf81-2b0c6275afd6" type="free_kick" time="2014-06-14T19:18:11Z" updated_time="2014-06-14T19:18:11Z" scratch="false" x="93" y="34" clock="16" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="119170df-2b8d-4ca1-b0e9-ed96b859ad38" type="throwin" time="2014-06-14T19:18:48Z" updated_time="2014-06-14T19:18:48Z" scratch="false" x="53" y="99" clock="17" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="3dae6443-983c-4f35-be6c-1c7437a3088c" type="throwin" time="2014-06-14T19:19:15Z" updated_time="2014-06-14T19:19:15Z" scratch="false" x="74" y="1" clock="18" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="5c6f0ecc-ffe7-4d0f-b698-02575737864c" type="throwin" time="2014-06-14T19:19:47Z" updated_time="2014-06-14T19:19:47Z" scratch="false" x="27" y="0" clock="18" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Uruguay's half?</description>
+        </fact>
+        <fact id="ef08c247-0338-4df0-8a19-59327dd51222" type="throwin" time="2014-06-14T19:20:02Z" updated_time="2014-06-14T19:20:02Z" scratch="false" x="20" y="100" clock="18" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a throw-in for Costa Rica, close to Uruguay's area.</description>
+        </fact>
+        <fact id="3db8e7cc-8579-4c19-88fb-dfa708ec6630" type="throwin" time="2014-06-14T19:20:33Z" updated_time="2014-06-14T19:20:33Z" scratch="false" x="8" y="98" clock="19" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay in their own half.</description>
+        </fact>
+        <fact id="c8c2e827-f20c-4cc9-ac99-9b5d66a1a4d9" type="goal_kick" time="2014-06-14T19:21:42Z" updated_time="2014-06-14T19:21:42Z" scratch="false" x="95" y="50" clock="20" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="58b273f1-5033-45d2-8170-dc1904fd1c89" type="free_kick" time="2014-06-14T19:22:38Z" updated_time="2014-06-14T19:22:38Z" scratch="false" x="75" y="18" clock="21" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Free kick Uruguay.</description>
+        </fact>
+        <fact id="5274bca0-7bb9-4598-baee-7e6dff20c12d" type="penalty_awarded" time="2014-06-14T19:23:56Z" updated_time="2014-06-14T19:23:56Z" scratch="false" clock="23" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have been awarded a penalty in Fortaleza...</description>
+        </fact>
+        <fact id="a445bca1-8445-42f8-8f68-959c674c985c" type="goal" time="2014-06-14T19:24:27Z" updated_time="2014-06-14T19:24:27Z" scratch="false" x="88" y="48" clock="24" home_score="1" away_score="0" penalty="true" owngoal="false" header="false" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="25a8e290-d97e-4f4f-8d1c-017c1c680673">
+          <description>Goal! Edinson Cavani gives Uruguay the lead from the penalty spot. The score is now 1-0.</description>
+        </fact>
+        <fact id="e7a02299-a08e-4914-83d2-2320e7ee4154" type="throwin" time="2014-06-14T19:26:03Z" updated_time="2014-06-14T19:26:03Z" scratch="false" x="36" y="99" clock="24" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="603acb61-8359-4a46-a5bc-21bb503ffaa3" type="goal_kick" time="2014-06-14T19:26:53Z" updated_time="2014-06-14T19:26:53Z" scratch="false" x="95" y="50" clock="25" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="6f0b2242-6e23-4d9f-afd4-2f3b9f3b4dc9" type="shot_off_target" time="2014-06-14T19:27:43Z" updated_time="2014-06-14T19:27:43Z" scratch="false" x="24" y="56" clock="27" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Joel Campbell of Costa Rica gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="af34ff85-ccaf-453a-ab6b-0a2b119b81bf" type="goal_kick" time="2014-06-14T19:27:43Z" updated_time="2014-06-14T19:27:43Z" scratch="false" x="5" y="50" clock="27" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball goes out of play for a Uruguay goal kick.</description>
+        </fact>
+        <fact id="02850f0a-f295-4d09-9cf4-95fce36f7d2b" type="free_kick" time="2014-06-14T19:29:57Z" updated_time="2014-06-14T19:29:57Z" scratch="false" x="32" y="22" clock="28" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="0c5c189c-d846-4f2d-a2be-0bebb002270f" type="free_kick" time="2014-06-14T19:30:47Z" updated_time="2014-06-14T19:30:47Z" scratch="false" x="24" y="50" clock="29" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="d201cf1e-4201-402f-bdc8-172a2ac0c4fa" type="shot_off_target" time="2014-06-14T19:31:29Z" updated_time="2014-06-14T19:32:27Z" scratch="false" x="10" y="65" clock="31" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="1379788f-16a2-4c55-9c89-a1e22915a8e5">
+          <description>Junior Diaz for Costa Rica gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="b22c35eb-4c2a-4a57-9bb9-715b021cda19" type="goal_kick" time="2014-06-14T19:31:29Z" updated_time="2014-06-14T19:32:49Z" scratch="false" x="5" y="50" clock="31" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Goal kick for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="ab30e9c8-d736-44c0-acd0-53e0cba97e03" type="corner_kick" time="2014-06-14T19:31:53Z" updated_time="2014-06-14T19:31:53Z" scratch="false" x="5" y="90" clock="31" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Corner awarded to Costa Rica.</description>
+        </fact>
+        <fact id="50230c35-0a26-4387-a0cd-bdce3443873d" type="corner_kick" time="2014-06-14T19:32:43Z" updated_time="2014-06-14T19:32:43Z" scratch="false" x="5" y="90" clock="32" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Corner awarded to Costa Rica.</description>
+        </fact>
+        <fact id="5284044d-77b9-4f93-a927-bb5e693d668a" type="free_kick" time="2014-06-14T19:33:32Z" updated_time="2014-06-14T19:33:32Z" scratch="false" x="67" y="20" clock="32" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="adf6e97d-05ec-4eda-8cfa-92110e4e1c60" type="throwin" time="2014-06-14T19:34:43Z" updated_time="2014-06-14T19:34:43Z" scratch="false" x="32" y="98" clock="33" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="aa548f4f-5ed4-4f01-b4c4-4e4c25b2ebc5" type="free_kick" time="2014-06-14T19:35:00Z" updated_time="2014-06-14T19:35:00Z" scratch="false" x="51" y="82" clock="33" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Free kick Uruguay.</description>
+        </fact>
+        <fact id="e6621c58-9166-4144-b4bb-af428e7f55a3" type="throwin" time="2014-06-14T19:35:29Z" updated_time="2014-06-14T19:35:29Z" scratch="false" x="72" y="99" clock="34" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in Costa Rica.</description>
+        </fact>
+        <fact id="f9814da9-a355-4463-a367-4ff80f562acf" type="throwin" time="2014-06-14T19:36:24Z" updated_time="2014-06-14T19:36:24Z" scratch="false" x="37" y="2" clock="35" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball safe as Uruguay is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="90cd5cb6-1111-419b-b0cf-d5c672db3558" type="throwin" time="2014-06-14T19:37:12Z" updated_time="2014-06-14T19:37:12Z" scratch="false" x="72" y="2" clock="35" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="de72917d-cbde-455e-b6dc-a5f762d3b0ab" type="throwin" time="2014-06-14T19:37:51Z" updated_time="2014-06-14T19:37:51Z" scratch="false" x="16" y="2" clock="36" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica close to the penalty box.</description>
+        </fact>
+        <fact id="3df96aaa-63f7-49eb-ac5d-526fc00bd836" type="goal_kick" time="2014-06-14T19:38:51Z" updated_time="2014-06-14T19:38:51Z" scratch="false" x="95" y="50" clock="37" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="0d5d4cc2-b354-4d4b-8dad-fa7172e72afb" type="throwin" time="2014-06-14T19:39:27Z" updated_time="2014-06-14T19:39:27Z" scratch="false" x="48" y="99" clock="38" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a Costa Rica throw-in in Uruguay's half.</description>
+        </fact>
+        <fact id="f413c52a-5453-4401-8c9b-2631e7fec022" type="throwin" time="2014-06-14T19:40:25Z" updated_time="2014-06-14T19:40:25Z" scratch="false" x="35" y="2" clock="39" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="89789f26-2529-454e-824d-0f2d943c2502" type="shot_off_target" time="2014-06-14T19:41:08Z" updated_time="2014-06-14T19:41:08Z" scratch="false" x="84" y="47" clock="40" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="185f7027-92b1-420b-b49d-a07601d3be58">
+          <description>In Fortaleza Uruguay attack through Diego Forlan. The finish is off target, however.</description>
+        </fact>
+        <fact id="d13f1772-8835-45a5-855a-70d26534e2d5" type="goal_kick" time="2014-06-14T19:41:08Z" updated_time="2014-06-14T19:41:08Z" scratch="false" x="95" y="50" clock="40" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="a0149290-1548-43ac-8454-bc18ec5420e2" type="free_kick" time="2014-06-14T19:41:54Z" updated_time="2014-06-14T19:41:54Z" scratch="false" x="55" y="21" clock="40" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="007b8b43-3dc2-4c02-acca-53d45909044f" type="free_kick" time="2014-06-14T19:42:20Z" updated_time="2014-06-14T19:42:20Z" scratch="false" x="82" y="15" clock="41" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e38b0713-5c91-4966-81b3-2a2c8c5fd5c5" type="goal_kick" time="2014-06-14T19:43:59Z" updated_time="2014-06-14T19:43:59Z" scratch="false" x="5" y="50" clock="42" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych awards Uruguay a goal kick.</description>
+        </fact>
+        <fact id="3f57b080-3653-4628-a90e-ac27437879c6" type="corner_kick" time="2014-06-14T19:43:52Z" updated_time="2014-06-14T19:43:52Z" scratch="false" x="5" y="90" clock="43" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Felix Brych.</description>
+        </fact>
+        <fact id="9772245d-6072-4fb4-a18d-935636e8f609" type="keeper_save" time="2014-06-14T19:45:00Z" updated_time="2014-06-14T19:45:00Z" scratch="false" x="87" y="39" clock="43" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="2f375635-c089-449d-97a0-e846a4cf5048" type="shot_on_target" time="2014-06-14T19:44:59Z" updated_time="2014-06-14T19:44:59Z" scratch="false" x="87" y="39" clock="44" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="185f7027-92b1-420b-b49d-a07601d3be58">
+          <description>Uruguay push forward through Diego Forlan, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="28c516c5-ae90-4a50-9ffb-ce0c987deb7b" type="corner_kick" time="2014-06-14T19:45:42Z" updated_time="2014-06-14T19:45:42Z" scratch="false" x="95" y="90" clock="44" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have been awarded a corner by Felix Brych.</description>
+        </fact>
+        <fact id="54b97a79-e17f-4aab-86d7-876f9d1e574e" type="period_over" time="2014-06-14T19:48:30Z" updated_time="2014-06-14T19:48:30Z" scratch="false" home_score="1" away_score="0" period="P1">
+          <description>The first-half is over at Estadio Castelao.</description>
+        </fact>
+        <fact id="c78fabdf-b96b-4a1f-ada2-99a67b0ef61b" type="period_started" time="2014-06-14T19:48:30Z" updated_time="2014-06-14T19:48:30Z" scratch="false" period="H"/>
+        <fact id="f0230025-491a-4e5c-b22a-728e9e590207" type="period_started" time="2014-06-14T20:04:43Z" updated_time="2014-06-14T20:04:43Z" scratch="false" period="P2"/>
+        <fact id="6bb297f6-eec1-43d8-b8ae-279cdcfac791" type="throwin" time="2014-06-14T20:05:01Z" updated_time="2014-06-14T20:05:01Z" scratch="false" x="40" y="98" clock="45" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="0bb3899e-6e4e-4509-80b9-dbd5d8c62ebe" type="injury_time" time="2014-06-14T19:46:23Z" updated_time="2014-06-14T19:46:23Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="bd819a5a-7228-4a3e-89f1-d27f1b0ef25f" type="throwin" time="2014-06-14T19:47:16Z" updated_time="2014-06-14T19:47:16Z" scratch="false" x="61" y="99" clock="45" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in Costa Rica.</description>
+        </fact>
+        <fact id="8435fa17-1d44-466d-b90b-d72da0370669" type="shot_off_target" time="2014-06-14T19:47:42Z" updated_time="2014-06-14T19:47:42Z" scratch="false" x="11" y="56" clock="45" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Costa Rica surge into the attack at Estadio Castelao but Joel Campbell’s header is off-target.</description>
+        </fact>
+        <fact id="ddcc7d5a-b17b-4299-af5e-26383f1584d6" type="goal_kick" time="2014-06-14T19:47:42Z" updated_time="2014-06-14T19:47:42Z" scratch="false" x="5" y="50" clock="45" injury_time="1" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Goal kick for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="1be0a0e8-01f5-4adb-9c45-30e5f8077b3b" type="throwin" time="2014-06-14T20:06:04Z" updated_time="2014-06-14T20:06:04Z" scratch="false" x="38" y="1" clock="46" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay in their own half.</description>
+        </fact>
+        <fact id="fd153d64-2cf7-4736-9006-7b219a157956" type="throwin" time="2014-06-14T20:06:35Z" updated_time="2014-06-14T20:06:35Z" scratch="false" x="78" y="99" clock="46" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="bdbddd9d-f0d2-4b29-beed-13bdcc8781b6" type="free_kick" time="2014-06-14T20:07:07Z" updated_time="2014-06-14T20:07:07Z" scratch="false" x="25" y="14" clock="47" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="6e5f89d5-3c5e-4a61-a98c-e5c9662b23ed" type="throwin" time="2014-06-14T20:07:48Z" updated_time="2014-06-14T20:07:48Z" scratch="false" x="73" y="1" clock="48" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="9f0b42e2-079f-41d6-a8dc-a0bdbc762ad3" type="throwin" time="2014-06-14T20:07:59Z" updated_time="2014-06-14T20:07:59Z" scratch="false" x="75" y="0" clock="48" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica at Estadio Castelao.</description>
+        </fact>
+        <fact id="3f373d30-8750-42d6-8082-ff62a0ea007a" type="free_kick" time="2014-06-14T20:08:47Z" updated_time="2014-06-14T20:08:47Z" scratch="false" x="66" y="57" clock="49" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="91f41a6d-8ee4-4d1e-8e73-3ef132ff3728" type="free_kick" time="2014-06-14T20:08:57Z" updated_time="2014-06-14T20:08:57Z" scratch="false" x="27" y="37" clock="49" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="649a1520-de2a-4ac6-a80a-1c1bf1dafdc6" type="card" time="2014-06-14T20:09:04Z" updated_time="2014-06-14T20:09:04Z" scratch="false" clock="50" card="Y" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="10e5d8bc-e4fc-4717-bb98-fb1528bb3347">
+          <description>Diego Lugano (Uruguay) has received a yellow card from Felix Brych.</description>
+        </fact>
+        <fact id="156fd520-c607-4e2a-98c3-51caac774232" type="shot_on_target" time="2014-06-14T20:09:44Z" updated_time="2014-06-14T20:10:11Z" scratch="false" x="10" y="59" clock="50" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be">
+          <description>In Fortaleza, Oscar Duarte (Costa Rica) gets his head to the ball but the strike is cleared by an untiring defence.</description>
+        </fact>
+        <fact id="459277d8-73ca-41b7-90a1-f6272becc7c1" type="keeper_save" time="2014-06-14T20:09:44Z" updated_time="2014-06-14T20:09:44Z" scratch="false" x="10" y="59" clock="50" team_id="6ea57d79-b740-4e32-b135-474dd53db2df"/>
+        <fact id="c5906fc5-0422-4c07-9b5f-be49729743fc" type="free_kick" time="2014-06-14T20:09:47Z" updated_time="2014-06-14T20:09:47Z" scratch="false" x="22" y="15" clock="50" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="1a952eb6-557e-49f0-b68c-c00cd39d8634" type="free_kick" time="2014-06-14T20:10:23Z" updated_time="2014-06-14T20:10:23Z" scratch="false" x="22" y="61" clock="50" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="8a63bc18-cb90-4897-a963-349f9a46c55f" type="shot_off_target" time="2014-06-14T20:11:17Z" updated_time="2014-06-14T20:11:17Z" scratch="false" x="79" y="34" clock="52" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="25a8e290-d97e-4f4f-8d1c-017c1c680673">
+          <description>Uruguay's Edinson Cavani gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="db91da46-98a4-475c-9c3b-ba613f07417c" type="goal_kick" time="2014-06-14T20:11:18Z" updated_time="2014-06-14T20:11:18Z" scratch="false" x="95" y="50" clock="52" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="1752dbfc-71a0-482f-a406-312b0caa8975" type="offside" time="2014-06-14T20:12:25Z" updated_time="2014-06-14T20:12:25Z" scratch="false" x="30" y="57" clock="53" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Costa Rica's Joel Campbell is whistled for offside at Estadio Castelao.</description>
+        </fact>
+        <fact id="01f727c4-30a4-4aef-b204-b77543ec972e" type="goal" time="2014-06-14T20:13:21Z" updated_time="2014-06-14T20:13:21Z" scratch="false" clock="54" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa" assist1_id="be9179f6-123e-41ce-8630-0afa9401faf1">
+          <description>That's a fine assist from Cristian Gamboa.</description>
+        </fact>
+        <fact id="bb48621d-92bc-4f35-bdb3-51f87495a37c" type="throwin" time="2014-06-14T20:14:41Z" updated_time="2014-06-14T20:14:41Z" scratch="false" x="64" y="99" clock="54" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in Costa Rica.</description>
+        </fact>
+        <fact id="111f508e-3f0c-48cc-92dc-1ddc4b948cea" type="throwin" time="2014-06-14T20:15:14Z" updated_time="2014-06-14T20:15:14Z" scratch="false" x="31" y="2" clock="55" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball safe as Uruguay is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="baf5f231-d2a1-450d-a7d3-dde97437d731" type="free_kick" time="2014-06-14T20:15:34Z" updated_time="2014-06-14T20:15:34Z" scratch="false" x="33" y="36" clock="55" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="9cad5395-0d90-4ec0-8d22-e581f43de32d" type="card" time="2014-06-14T20:15:43Z" updated_time="2014-06-14T20:15:43Z" scratch="false" clock="56" card="Y" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="52c13506-d060-4037-b3dc-30457ad471dc">
+          <description>Walter Gargano (Uruguay) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="6ecd883f-2466-42ce-9f5c-ebd29739545e" type="goal" time="2014-06-14T20:16:47Z" updated_time="2014-06-14T20:19:46Z" scratch="false" clock="57" home_score="1" away_score="2" penalty="false" owngoal="false" header="true" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be" assist1_id="983a4ee1-70ea-4058-a1b7-432a255fe64b">
+          <description>Christian Bolanos with an assist there.</description>
+        </fact>
+        <fact id="159ed2c2-1f97-4abe-a84d-3c2edacbdfde" type="goal_kick" time="2014-06-14T20:18:04Z" updated_time="2014-06-14T20:18:04Z" scratch="false" x="95" y="50" clock="58" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="cf3df807-6622-4cf7-8f34-2ede697b46e8" type="throwin" time="2014-06-14T20:18:47Z" updated_time="2014-06-14T20:18:47Z" scratch="false" x="30" y="99" clock="59" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a Costa Rica throw-in in Uruguay's half.</description>
+        </fact>
+        <fact id="e2eb33de-1236-4cab-98ec-8eee3be25480" type="throwin" time="2014-06-14T20:19:09Z" updated_time="2014-06-14T20:19:09Z" scratch="false" x="26" y="98" clock="59" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Uruguay's half?</description>
+        </fact>
+        <fact id="1729028d-d9d0-456b-8300-4eec538a462c" type="substitution" time="2014-06-14T20:19:26Z" updated_time="2014-06-14T20:19:37Z" scratch="false" clock="60" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_out_id="185f7027-92b1-420b-b49d-a07601d3be58" player_in_id="bcdadf2b-4668-4718-b094-55fdbcf2a7bf">
+          <description>Nicolas Lodeiro is replacing Diego Forlan for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="afaeee0c-5a11-4f34-bb91-78c9dcc06b0d" type="substitution" time="2014-06-14T20:19:47Z" updated_time="2014-06-14T20:19:47Z" scratch="false" clock="60" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_out_id="52c13506-d060-4037-b3dc-30457ad471dc" player_in_id="0a29886e-ff78-44f3-bb31-2ed4331f5b40">
+          <description>Alvaro Gonzalez is on a sub for Walter Gargano for Uruguay.</description>
+        </fact>
+        <fact id="87b8b93e-1b23-487f-ba5a-6d7cdcb23b98" type="free_kick" time="2014-06-14T20:19:56Z" updated_time="2014-06-14T20:19:56Z" scratch="false" x="25" y="83" clock="60" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="5856865f-d2f5-4005-910c-4d3658c2358e" type="throwin" time="2014-06-14T20:20:47Z" updated_time="2014-06-14T20:20:47Z" scratch="false" x="19" y="2" clock="61" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay in their own half.</description>
+        </fact>
+        <fact id="f2317bfb-573c-42da-b340-ec04ac0b2839" type="throwin" time="2014-06-14T20:21:33Z" updated_time="2014-06-14T20:21:33Z" scratch="false" x="78" y="2" clock="61" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="4376deed-10ba-4c9f-8638-17f14b219ae3" type="free_kick" time="2014-06-14T20:21:57Z" updated_time="2014-06-14T20:21:57Z" scratch="false" x="53" y="16" clock="62" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="0814b705-cbe4-40ef-adc2-45f6cd3a9834" type="throwin" time="2014-06-14T20:22:27Z" updated_time="2014-06-14T20:22:27Z" scratch="false" x="72" y="99" clock="62" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay get the ball into an attacking position from this throw-in in Costa Rica's half?</description>
+        </fact>
+        <fact id="5e70ee54-f164-481e-8814-9dd2261a3503" type="free_kick" time="2014-06-14T20:23:36Z" updated_time="2014-06-14T20:23:36Z" scratch="false" x="69" y="69" clock="63" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="5219b86c-a1ab-4d05-b9df-39c796ecf121" type="shot_off_target" time="2014-06-14T20:23:02Z" updated_time="2014-06-14T20:23:02Z" scratch="false" x="22" y="39" clock="64" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Costa Rica's Joel Campbell misses with an attempt on goal.</description>
+        </fact>
+        <fact id="bc8e0607-a0ee-4e61-939b-93f651d6945d" type="goal_kick" time="2014-06-14T20:23:03Z" updated_time="2014-06-14T20:23:03Z" scratch="false" x="5" y="50" clock="64" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have a goal kick.</description>
+        </fact>
+        <fact id="d09bdf35-13ac-4c57-9e58-87ad903fef73" type="free_kick" time="2014-06-14T20:24:23Z" updated_time="2014-06-14T20:24:23Z" scratch="false" x="35" y="10" clock="64" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="0581bf28-fc26-463d-a230-6e9f32968589" type="free_kick" time="2014-06-14T20:25:21Z" updated_time="2014-06-14T20:25:21Z" scratch="false" x="66" y="75" clock="65" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="98021018-2749-4ee5-a49e-39f601d623e3" type="shot_off_target" time="2014-06-14T20:25:03Z" updated_time="2014-06-14T20:25:18Z" scratch="false" x="12" y="53" clock="66" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="469d8bfc-dd46-4061-9c77-74cad92a7527">
+          <description>Bryan Ruiz (Costa Rica) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="db5a49d5-6be2-45ae-9676-dc66ec084b1f" type="goal_kick" time="2014-06-14T20:25:03Z" updated_time="2014-06-14T20:25:03Z" scratch="false" x="5" y="50" clock="66" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych awards Uruguay a goal kick.</description>
+        </fact>
+        <fact id="6378f16a-96b0-439d-b020-6caff72b9981" type="free_kick" time="2014-06-14T20:25:54Z" updated_time="2014-06-14T20:25:54Z" scratch="false" x="32" y="84" clock="66" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="6e06eb20-a259-4554-b9bf-fc503b783dfc" type="throwin" time="2014-06-14T20:26:39Z" updated_time="2014-06-14T20:26:39Z" scratch="false" x="74" y="100" clock="66" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a Uruguay throw-in in Costa Rica's half.</description>
+        </fact>
+        <fact id="e826082e-5f44-4ba5-a0ae-cfbface514dc" type="offside" time="2014-06-14T20:27:04Z" updated_time="2014-06-14T20:27:04Z" scratch="false" x="83" y="13" clock="68" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="25a8e290-d97e-4f4f-8d1c-017c1c680673">
+          <description>Uruguay drive forward but Edinson Cavani is judged offside.</description>
+        </fact>
+        <fact id="698f2274-e6a7-4df9-b6b1-86a05ec3f775" type="shot_off_target" time="2014-06-14T20:27:54Z" updated_time="2014-06-14T20:27:54Z" scratch="false" x="19" y="35" clock="69" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="1611d777-4434-4429-8a3c-4873f525ef00">
+          <description>Costa Rica's Celso Borges breaks free at Estadio Castelao. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="fb861f75-2454-46de-b53b-a78f67386dc4" type="goal_kick" time="2014-06-14T20:27:54Z" updated_time="2014-06-14T20:27:54Z" scratch="false" x="5" y="50" clock="69" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball goes out of play for a Uruguay goal kick.</description>
+        </fact>
+        <fact id="ab99b29a-af64-40d4-88d7-80a25aafddff" type="keeper_save" time="2014-06-14T20:29:16Z" updated_time="2014-06-14T20:29:16Z" scratch="false" x="85" y="59" clock="69" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="e8d666ac-d015-4f0f-b3f7-0c9332a6e5e3" type="throwin" time="2014-06-14T20:29:31Z" updated_time="2014-06-14T20:29:31Z" scratch="false" x="77" y="1" clock="69" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="54deb610-d2aa-4f43-aae7-0fe5ca4ad241" type="corner_kick" time="2014-06-14T20:29:00Z" updated_time="2014-06-14T20:29:09Z" scratch="false" x="95" y="90" clock="70" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Corner awarded to Uruguay.</description>
+        </fact>
+        <fact id="b24b1bcd-d43d-4cc5-9f87-641ebde976be" type="shot_on_target" time="2014-06-14T20:29:15Z" updated_time="2014-06-14T20:29:15Z" scratch="false" x="85" y="59" clock="70" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="25a8e290-d97e-4f4f-8d1c-017c1c680673">
+          <description>Uruguay push forward at Estadio Castelao and Edinson Cavani gets in a great header. The attempt is cleared by the Costa Rica defence.</description>
+        </fact>
+        <fact id="d0c4064f-82be-48e8-bdf0-172922e2339e" type="corner_kick" time="2014-06-14T20:29:19Z" updated_time="2014-06-14T20:29:26Z" scratch="false" x="95" y="90" clock="70" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have been awarded a corner by Felix Brych.</description>
+        </fact>
+        <fact id="0bb31e38-166b-4c69-a261-b40a81720202" type="free_kick" time="2014-06-14T20:30:01Z" updated_time="2014-06-14T20:30:01Z" scratch="false" x="49" y="26" clock="70" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="36d9139e-dd67-448d-a6bc-40c9d9638ca9" type="free_kick" time="2014-06-14T20:30:41Z" updated_time="2014-06-14T20:30:41Z" scratch="false" x="59" y="11" clock="70" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Free kick Uruguay.</description>
+        </fact>
+        <fact id="fef4919c-bf42-4dd4-aa4c-9a7f8e745908" type="corner_kick" time="2014-06-14T20:31:23Z" updated_time="2014-06-14T20:31:23Z" scratch="false" x="95" y="90" clock="72" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Corner awarded to Uruguay.</description>
+        </fact>
+        <fact id="e2f457e9-e9e4-4a85-add5-473a14abadad" type="free_kick" time="2014-06-14T20:32:42Z" updated_time="2014-06-14T20:32:42Z" scratch="false" x="48" y="30" clock="72" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="3988b067-1dc4-460d-ad79-798e68c565c7" type="throwin" time="2014-06-14T20:33:25Z" updated_time="2014-06-14T20:33:25Z" scratch="false" x="40" y="99" clock="73" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a Costa Rica throw-in in Uruguay's half.</description>
+        </fact>
+        <fact id="c1a8414e-0b66-4600-8012-b136b32289ee" type="substitution" time="2014-06-14T20:33:43Z" updated_time="2014-06-14T20:33:43Z" scratch="false" clock="74" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="5800d953-21da-4206-93dc-fe988b90531f" player_in_id="32b87aec-9053-4471-9c3c-f27eadf3b7d7">
+          <description>Costa Rica make their first substitution with Jose Cubero replacing Yeltsin Tejeda.</description>
+        </fact>
+        <fact id="81eb5194-d8c6-4e04-ab5e-c46af95d094d" type="offside" time="2014-06-14T20:34:05Z" updated_time="2014-06-14T20:34:05Z" scratch="false" x="22" y="39" clock="75" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Joel Campbell of Costa Rica is pulled up for offside.</description>
+        </fact>
+        <fact id="50f47ac2-830a-4e46-80fa-47ad629d8b35" type="substitution" time="2014-06-14T20:35:29Z" updated_time="2014-06-14T20:35:29Z" scratch="false" clock="76" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_out_id="2b1b8b42-9bb2-48b8-9ae4-beca5f8dba7c" player_in_id="cba73970-d2fa-4254-b202-954eea7c50bd">
+          <description>Abel Hernandez is on a sub for Cristian Rodriguez for Uruguay.</description>
+        </fact>
+        <fact id="e454da80-46be-4e4a-993f-0732f635f678" type="corner_kick" time="2014-06-14T20:35:44Z" updated_time="2014-06-14T20:35:44Z" scratch="false" x="5" y="5" clock="76" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Corner awarded to Costa Rica.</description>
+        </fact>
+        <fact id="9f90ffbc-3411-4a8f-ac02-d6fbc8324230" type="goal_kick" time="2014-06-14T20:35:49Z" updated_time="2014-06-14T20:35:49Z" scratch="false" x="5" y="50" clock="76" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Goal kick for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="c7e69938-7787-4e4e-8bcb-787263a297c3" type="offside" time="2014-06-14T20:36:53Z" updated_time="2014-06-14T20:36:53Z" scratch="false" x="77" y="31" clock="78" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="cba73970-d2fa-4254-b202-954eea7c50bd">
+          <description>Abel Hernandez for Uruguay is whistled offside.</description>
+        </fact>
+        <fact id="ec9f2d4f-bfeb-4ec2-a887-5f463a05b08b" type="throwin" time="2014-06-14T20:37:51Z" updated_time="2014-06-14T20:37:51Z" scratch="false" x="48" y="99" clock="78" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica to take a throw-in in Uruguay territory.</description>
+        </fact>
+        <fact id="6dd3d9f2-8845-446c-9165-9c151b072533" type="throwin" time="2014-06-14T20:38:52Z" updated_time="2014-06-14T20:38:52Z" scratch="false" x="77" y="99" clock="79" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay get the ball into an attacking position from this throw-in in Costa Rica's half?</description>
+        </fact>
+        <fact id="cf33adb7-8806-449e-8190-89885c1a7d53" type="throwin" time="2014-06-14T20:38:59Z" updated_time="2014-06-14T20:38:59Z" scratch="false" x="83" y="97" clock="79" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay capitalize from this throw-in deep inside Costa Rica's half?</description>
+        </fact>
+        <fact id="7b6f7c55-1cef-4696-b497-4fd110cdbbde" type="free_kick" time="2014-06-14T20:39:10Z" updated_time="2014-06-14T20:39:10Z" scratch="false" x="93" y="47" clock="79" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d18e3e8a-5de9-482c-ac06-eb94d3c4f967" type="throwin" time="2014-06-14T20:39:45Z" updated_time="2014-06-14T20:39:45Z" scratch="false" x="19" y="97" clock="80" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay at Estadio Castelao.</description>
+        </fact>
+        <fact id="63cc3fea-13d1-4bca-91ea-b2725a3c19d8" type="free_kick" time="2014-06-14T20:40:08Z" updated_time="2014-06-14T20:40:08Z" scratch="false" x="65" y="21" clock="80" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="66a4e80f-09dc-4a8a-8aec-191584281558" type="card" time="2014-06-14T20:40:22Z" updated_time="2014-06-14T20:40:22Z" scratch="false" clock="81" card="Y" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="14c5e20b-9036-423e-82b7-5a63a869daff">
+          <description>Martin Caceres for Uruguay has been booked by Felix Brych and receives a first yellow card.</description>
+        </fact>
+        <fact id="43881018-6a04-4f17-97b3-7a51e1409423" type="throwin" time="2014-06-14T20:41:20Z" updated_time="2014-06-14T20:41:20Z" scratch="false" x="70" y="99" clock="81" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay get the ball into an attacking position from this throw-in in Costa Rica's half?</description>
+        </fact>
+        <fact id="80c24250-c164-46d7-99c2-98d639ce73f2" type="substitution" time="2014-06-14T20:41:55Z" updated_time="2014-06-14T20:41:55Z" scratch="false" clock="82" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="469d8bfc-dd46-4061-9c77-74cad92a7527" player_in_id="1700fe77-790e-4f0f-87a7-63c1abcd5d42">
+          <description>Jorge Luis Pinto (Costa Rica) is making a second substitution, with Marcos Urena replacing Bryan Ruiz.</description>
+        </fact>
+        <fact id="dcb45a3d-0beb-4da8-8c95-558803bdd292" type="offside" time="2014-06-14T20:42:11Z" updated_time="2014-06-14T20:42:20Z" scratch="false" x="87" y="36" clock="83" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="25a8e290-d97e-4f4f-8d1c-017c1c680673">
+          <description>Felix Brych blows against Uruguay's Edinson Cavani for offside.</description>
+        </fact>
+        <fact id="1ed9d0ab-acd6-41e5-8c74-3148c5f6a58f" type="throwin" time="2014-06-14T20:43:01Z" updated_time="2014-06-14T20:43:01Z" scratch="false" x="43" y="0" clock="83" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a Costa Rica throw-in in Uruguay's half.</description>
+        </fact>
+        <fact id="7671591a-6529-4de5-8d6d-339f0b3e1f4e" type="goal" time="2014-06-14T20:43:42Z" updated_time="2014-06-14T20:43:51Z" scratch="false" clock="84" home_score="1" away_score="3" penalty="false" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="1700fe77-790e-4f0f-87a7-63c1abcd5d42" assist1_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Joel Campbell instrumental with a fine assist.</description>
+        </fact>
+        <fact id="aed9d4c0-0cab-4d39-9b51-7683a5cca79e" type="throwin" time="2014-06-14T20:45:17Z" updated_time="2014-06-14T20:45:17Z" scratch="false" x="57" y="98" clock="85" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="8ab9c3a9-95ea-43b8-8a0d-f58358aa0d7b" type="throwin" time="2014-06-14T20:45:45Z" updated_time="2014-06-14T20:45:45Z" scratch="false" x="64" y="0" clock="86" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="1c2266cb-712b-4672-8b92-f5403b8c26e3" type="free_kick" time="2014-06-14T20:45:55Z" updated_time="2014-06-14T20:45:55Z" scratch="false" x="36" y="16" clock="86" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="339790a0-d5c6-4f01-8ba0-c4879d18131e" type="corner_kick" time="2014-06-14T20:46:43Z" updated_time="2014-06-14T20:46:43Z" scratch="false" x="95" y="90" clock="87" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have been awarded a corner by Felix Brych.</description>
+        </fact>
+        <fact id="0f3a76bb-2eb7-4f73-bc1c-e03c2e053460" type="throwin" time="2014-06-14T20:46:51Z" updated_time="2014-06-14T20:46:51Z" scratch="false" x="81" y="98" clock="87" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have a dangerous throw-in.</description>
+        </fact>
+        <fact id="696782c5-2687-4d8d-bff5-84176e60dc80" type="throwin" time="2014-06-14T20:47:09Z" updated_time="2014-06-14T20:47:09Z" scratch="false" x="95" y="98" clock="87" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have a dangerous throw-in.</description>
+        </fact>
+        <fact id="e292349e-0d64-47fd-9a37-1394ec3cb806" type="substitution" time="2014-06-14T20:47:46Z" updated_time="2014-06-14T20:47:46Z" scratch="false" clock="88" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="983a4ee1-70ea-4058-a1b7-432a255fe64b" player_in_id="0b7436fd-1ea2-4f7f-9b0b-cbb032160095">
+          <description>Jorge Luis Pinto is making the team's third substitution at Estadio Castelao with Michael Barrantes replacing Christian Bolanos.</description>
+        </fact>
+        <fact id="61c3ae44-0e85-42fe-ac46-96bf63de450e" type="throwin" time="2014-06-14T20:47:55Z" updated_time="2014-06-14T20:47:55Z" scratch="false" x="85" y="98" clock="88" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Costa Rica needs to be cautious. Uruguay have an attacking throw-in.</description>
+        </fact>
+        <fact id="3ab08ef2-fe88-4c54-bd13-ca5ebb6b927d" type="free_kick" time="2014-06-14T20:48:31Z" updated_time="2014-06-14T20:48:31Z" scratch="false" x="12" y="74" clock="88" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e6586130-f37e-4226-a5ae-53c95fb6929e" type="free_kick" time="2014-06-14T20:49:43Z" updated_time="2014-06-14T20:49:43Z" scratch="false" x="34" y="34" clock="89" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Felix Brych signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="ec9a560f-8597-4bf6-aabe-eeb4f765a95a" type="offside" time="2014-06-14T20:49:18Z" updated_time="2014-06-14T20:49:18Z" scratch="false" x="72" y="56" clock="90" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="cba73970-d2fa-4254-b202-954eea7c50bd">
+          <description>Uruguay's Abel Hernandez is whistled for offside at Estadio Castelao.</description>
+        </fact>
+        <fact id="fe95f17f-116c-4010-8a27-e36056ce4894" type="injury_time" time="2014-06-14T20:49:51Z" updated_time="2014-06-14T20:49:51Z" scratch="false" clock="90" injury_time="5" period="P2">
+          <description>The fourth official's board shows 5 minutes, which will be added to the second half.</description>
+        </fact>
+        <fact id="6730e1d6-8748-46e3-8ef5-84f98c26b141" type="throwin" time="2014-06-14T20:49:58Z" updated_time="2014-06-14T20:49:58Z" scratch="false" x="74" y="99" clock="90" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="d040e8a2-9e53-49ea-ae1e-4009108d67f4" type="goal_kick" time="2014-06-14T20:50:38Z" updated_time="2014-06-14T20:50:38Z" scratch="false" x="95" y="50" clock="90" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="a38d7af4-c87a-4a82-97c5-0f3364df1962" type="free_kick" time="2014-06-14T20:51:23Z" updated_time="2014-06-14T20:51:23Z" scratch="false" x="21" y="69" clock="90" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Felix Brych signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="773437eb-ebcb-43f7-9b58-2515dd948a67" type="corner_kick" time="2014-06-14T20:52:30Z" updated_time="2014-06-14T20:52:30Z" scratch="false" x="5" y="90" clock="90" injury_time="2" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Felix Brych.</description>
+        </fact>
+        <fact id="cff86a28-dc04-4fb6-adad-981dad1dbbbe" type="throwin" time="2014-06-14T20:52:46Z" updated_time="2014-06-14T20:52:46Z" scratch="false" x="13" y="99" clock="90" injury_time="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica capitalize from this throw-in deep inside Uruguay's half?</description>
+        </fact>
+        <fact id="714aa8e2-d465-41eb-af44-8080ccb039ad" type="free_kick" time="2014-06-14T20:53:10Z" updated_time="2014-06-14T20:53:10Z" scratch="false" x="7" y="84" clock="90" injury_time="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="308cc958-ffed-4ab6-8bd6-1e20e57f2df6" type="card" time="2014-06-14T20:53:54Z" updated_time="2014-06-14T20:53:54Z" scratch="false" clock="90" injury_time="4" card="R" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="459ea752-d2fc-45c1-a6dd-5a758276aa6e">
+          <description>Maxi Pereira (Uruguay) has been shown a straight red card by referee Felix Brych.</description>
+        </fact>
+        <fact id="3a2198c8-d7f5-4647-8938-e05fa912993a" type="throwin" time="2014-06-14T20:54:43Z" updated_time="2014-06-14T20:54:43Z" scratch="false" x="19" y="100" clock="90" injury_time="4" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica close to the penalty box.</description>
+        </fact>
+        <fact id="fd43b381-1c70-43a9-ab11-c810ae32a1d4" type="period_over" time="2014-06-14T20:54:49Z" updated_time="2014-06-14T20:54:49Z" scratch="false" home_score="1" away_score="3" period="P2">
+          <description>The match has come to a close in Fortaleza. The final score is 1-3.</description>
+        </fact>
+        <fact id="9f6f4039-d76e-498c-8795-19d5baacbc53" type="match_ended" time="2014-06-14T20:54:49Z" updated_time="2014-06-14T20:54:49Z" scratch="false" home_score="1" away_score="3" winner_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" draw="false"/>
+      </facts>
+      <!-- 4768746/4725/4756 -->
+    </match>
+  </matches>
+</summary>

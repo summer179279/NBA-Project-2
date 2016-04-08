@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-06-09 19:27:29 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="390c3ce6-7e5b-4aba-bd54-4dfb6add4767" status="ACT" full_name="Gerald Henderson" first_name="Gerald" last_name="Henderson" abbr_name="G.Henderson" height="77" weight="215" position="G" primary_position="SG" jersey_number="9" experience="4" college="Duke" birth_place="Caldwell, NJ, USA" birthdate="1987-12-09" updated="2013-09-06T20:08:37+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" name="Hornets" market="Charlotte" alias="CHA"/>
+  <draft team_id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="1" pick="12"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" name="Hornets" market="Charlotte" alias="CHA">
+        <statistics>
+          <total games_played="77" games_started="77" minutes="2461.0" field_goals_made="403" field_goals_att="930" three_points_made="40" three_points_att="115" blocked_att="38" free_throws_made="235" free_throws_att="309" offensive_rebounds="31" defensive_rebounds="279" assists="199" turnovers="113" steals="51" blocks="32" personal_fouls="159" tech_fouls="2" points="1081" flagrant_fouls="0" free_throws_pct="0.761" two_points_pct="0.445" three_points_pct="0.348" field_goals_pct="0.433" rebounds="310" assists_turnover_ratio="1.76" two_points_made="363" two_points_att="815"/>
+          <average points="14.0" blocked_att="0.49" turnovers="1.47" free_throws_att="4.01" field_goals_att="12.08" off_rebounds="0.4" two_points_att="10.58" assists="2.6" blocks="0.42" personal_fouls="2.06" two_points_made="4.71" flagrant_fouls="0.0" rebounds="4.03" three_points_made="0.52" minutes="32.0" def_rebounds="3.62" free_throws_made="3.05" field_goals_made="5.23" steals="0.66" three_points_att="1.49"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-06-09 19:27:29 +0000 -->

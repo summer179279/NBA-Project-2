@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:24:40Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="d5586ad9-66ed-4c60-9f4c-ce61d0787708" country_code="GHA" preferred_foot="" height_in="70" weight_lb="0" height_cm="177" weight_kg="0" first_name="Fatau" last_name="Dauda" country="Ghana">
+    <teams>
+      <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" country_code="GHA" position="G" is_manager="false" is_player="true" country="Ghana" jersey_number="16"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 32740/1405922482 -->
+  </player>
+</profile>

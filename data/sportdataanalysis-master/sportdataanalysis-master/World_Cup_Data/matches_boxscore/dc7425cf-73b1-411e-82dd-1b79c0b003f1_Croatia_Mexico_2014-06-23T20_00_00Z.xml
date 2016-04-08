@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:34:23Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="dc7425cf-73b1-411e-82dd-1b79c0b003f1" status="closed" scratched="false" period="P2" scheduled="2014-06-23T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A"/>
+      <round week="26" number="3" type="table"/>
+      <home id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="128" ball_safe="109" corner_kicks="7" dangerous_attacks="66" fouls="16" free_kicks="12" goal_attempts="7" goal_kicks="12" offsides="1" red_card="1" saves="1" shots_total="7" substitutions="3" throw_ins="23" yellow_card="1" shots_on_target="2" shots_off_target="5" possessions="54"/>
+      </home>
+      <away id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team" formation="5-3-2" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="3" number="2"/>
+        </scoring>
+        <statistics attacks="111" ball_safe="104" corner_kicks="9" dangerous_attacks="54" fouls="11" free_kicks="17" goal_attempts="8" goal_kicks="8" offsides="1" red_card="0" saves="1" shots_total="8" substitutions="3" throw_ins="18" yellow_card="2" shots_on_target="5" shots_off_target="3" possessions="46"/>
+      </away>
+      <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257"/>
+      <!-- 4768720/4715/4781 -->
+    </match>
+  </matches>
+</boxscore>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:09:04Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="2cf4b152-2903-44df-82da-86e17e81d0e7" country_code="HRV" preferred_foot="R" height_in="70" weight_lb="169" height_cm="177" weight_kg="76" first_name="Sammir" last_name="" country="Croatia">
+    <teams>
+      <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" country_code="HRV" position="M" is_manager="false" is_player="true" country="Croatia" jersey_number="19"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="176" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="72" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="287" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="a3b51f78-c7a1-47fa-b5f5-7942a72cdcc1" name="NK Dinamo Zagreb" alias="DZA" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="2" matches_started="0" minutes_played="101" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="a3b51f78-c7a1-47fa-b5f5-7942a72cdcc1" name="NK Dinamo Zagreb" alias="DZA" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="8" matches_started="0" minutes_played="272" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="5">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division"/>
+          <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division"/>
+          <team id="44562e51-7b24-45dc-a607-2c89b49e2937" name="Getafe CF" alias="GET" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 31152/1405951489 -->
+  </player>
+</profile>

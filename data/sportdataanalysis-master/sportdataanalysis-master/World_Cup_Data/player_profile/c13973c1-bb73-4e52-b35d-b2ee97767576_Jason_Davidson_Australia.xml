@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:29:15Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="c13973c1-bb73-4e52-b35d-b2ee97767576" country_code="AUS" preferred_foot="L" height_in="70" weight_lb="158" height_cm="177" weight_kg="71" first_name="Jason" last_name="Davidson" country="Australia">
+    <teams>
+      <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" country_code="AUS" position="D" is_manager="false" is_player="true" country="Australia" jersey_number="3"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="330" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="cd00e95a-f750-4053-9eab-04b3b1278ca7" name="KNVB beker"/>
+          <tournament id="4777a2ca-fea5-428e-9f43-e2c6b06be0d1" name="KNVB beker"/>
+          <team id="5da3968a-1611-471b-8bb9-38bbfc6249bc" name="Heracles Almelo" alias="HER" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="30" matches_started="0" minutes_played="2670" yellow_cards="5" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie"/>
+          <team id="5da3968a-1611-471b-8bb9-38bbfc6249bc" name="Heracles Almelo" alias="HER" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 105350/1405922939 -->
+  </player>
+</profile>

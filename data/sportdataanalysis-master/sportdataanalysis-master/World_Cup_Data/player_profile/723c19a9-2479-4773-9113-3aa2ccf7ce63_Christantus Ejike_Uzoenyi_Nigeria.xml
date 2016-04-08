@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:36:11Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="723c19a9-2479-4773-9113-3aa2ccf7ce63" country_code="NGA" preferred_foot="L" height_in="66" weight_lb="145" height_cm="167" weight_kg="65" first_name="Christantus Ejike" last_name="Uzoenyi" country="Nigeria">
+    <teams>
+      <team id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" country_code="NGA" position="M" is_manager="false" is_player="true" country="Nigeria" jersey_number="3"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="15" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 238642/1405922418 -->
+  </player>
+</profile>

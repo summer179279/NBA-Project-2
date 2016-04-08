@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:27:23Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="619417cd-798f-4c02-b5f6-2dd87db1d576" country_code="BEL" preferred_foot="R" height_in="72" weight_lb="160" height_cm="182" weight_kg="72" first_name="Axel" last_name="Witsel" country="Belgium">
+    <teams>
+      <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" country_code="BEL" position="M" is_manager="false" is_player="true" country="Belgium" jersey_number="6"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="10" matches_started="0" minutes_played="900" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="226" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="11" matches_started="0" minutes_played="914" yellow_cards="-1" yellow_red_cards="-1" red_cards="1" substitutions_out="2" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="21068a55-b3c2-42dd-aa6f-44ef776e9e3d" name="Zenit St Petersburg" alias="ZEN" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="4" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="30" matches_started="0" minutes_played="2576" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="21068a55-b3c2-42dd-aa6f-44ef776e9e3d" name="Zenit St Petersburg" alias="ZEN" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 35612/1405922621 -->
+  </player>
+</profile>

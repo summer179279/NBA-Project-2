@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:27:19Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="3f16f983-30bd-45df-b422-449578ea3dd0" country_code="BEL" preferred_foot="L" height_in="74" weight_lb="207" height_cm="187" weight_kg="93" first_name="Romelu" last_name="Lukaku" country="Belgium">
+    <teams>
+      <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" country_code="BEL" position="F" is_manager="false" is_player="true" country="Belgium" jersey_number="9"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="4" matches_started="0" minutes_played="175" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="4" matches_started="0" minutes_played="210" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+        <statistic goals="4" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="192" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="04e7324b-7946-4863-891a-606e64eafdf0" name="Everton FC" alias="EVE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="40" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="618e7f40-7a78-47de-afcf-3ad1fee9f677" name="Chelsea FC" alias="CHE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="23" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="d94e64c0-ee0e-4d90-937b-99bb7ee9b608" name="UEFA Super Cup"/>
+          <tournament id="f87ad2c5-2984-42a5-a24b-1c3e423872ff" name="UEFA Super Cup"/>
+          <team id="618e7f40-7a78-47de-afcf-3ad1fee9f677" name="Chelsea FC" alias="CHE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="21" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="88a7ee0c-31e5-4930-a990-36550f5f6e44" name="Int. Champions Cup"/>
+          <tournament id="da7e99d4-c771-44bd-b503-e2c475172b77" name="International Champions Cup"/>
+          <team id="618e7f40-7a78-47de-afcf-3ad1fee9f677" name="Chelsea FC" alias="CHE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="15" goal_frequency="0" goal_average="0.0" goal_assists="4" matches_played="31" matches_started="0" minutes_played="2563" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="9" substitutions_in="2">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="04e7324b-7946-4863-891a-606e64eafdf0" name="Everton FC" alias="EVE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 78893/1405922632 -->
+  </player>
+</profile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-22 16:31:05 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="9dbc15ee-deec-4c8c-86e9-71396ff80ef8" status="ACT" full_name="Ed Davis" first_name="Ed" last_name="Davis" abbr_name="E.Davis" height="82" weight="225" position="F" primary_position="PF" jersey_number="32" experience="3" college="North Carolina" birth_place="Washington, D.C., USA" birthdate="1989-06-05" updated="2013-09-09T19:36:47+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis" alias="MEM"/>
+  <draft team_id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" year="2010" round="1" pick="13"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis" alias="MEM">
+        <statistics>
+          <total games_played="63" games_started="4" minutes="956.0" field_goals_made="155" field_goals_att="290" three_points_made="0" three_points_att="0" blocked_att="25" free_throws_made="47" free_throws_att="89" offensive_rebounds="92" defensive_rebounds="168" assists="27" turnovers="40" steals="17" blocks="43" personal_fouls="114" tech_fouls="2" points="357" flagrant_fouls="1" free_throws_pct="0.528" two_points_pct="0.534" three_points_pct="0" field_goals_pct="0.534" rebounds="260" assists_turnover_ratio="0.68" two_points_made="155" two_points_att="290"/>
+          <average points="5.7" blocked_att="0.4" turnovers="0.63" free_throws_att="1.41" field_goals_att="4.6" off_rebounds="1.46" two_points_att="4.6" assists="0.4" blocks="0.68" personal_fouls="1.81" two_points_made="2.46" flagrant_fouls="0.02" rebounds="4.13" three_points_made="0.0" minutes="15.2" def_rebounds="2.67" free_throws_made="0.75" field_goals_made="2.46" steals="0.27" three_points_att="0.0"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-22 16:31:05 +0000 -->

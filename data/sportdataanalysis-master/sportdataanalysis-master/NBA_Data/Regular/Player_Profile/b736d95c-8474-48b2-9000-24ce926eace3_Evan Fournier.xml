@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-14 20:31:46 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="b736d95c-8474-48b2-9000-24ce926eace3" status="ACT" full_name="Evan Fournier" first_name="Evan" last_name="Fournier" abbr_name="E.Fournier" height="78" weight="200" position="G" primary_position="SG" jersey_number="0" experience="1" college="France" birth_place="Saint-Maurice,, FRA" birthdate="1992-10-29" updated="2014-07-14T19:27:44+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" name="Magic" market="Orlando" alias="ORL"/>
+  <draft team_id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" year="2012" round="1" pick="20"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" alias="DEN">
+        <statistics>
+          <total games_played="76" games_started="4" minutes="1503.0" field_goals_made="228" field_goals_att="544" three_points_made="89" three_points_att="237" blocked_att="28" free_throws_made="93" free_throws_att="123" offensive_rebounds="34" defensive_rebounds="168" assists="112" turnovers="100" steals="34" blocks="7" personal_fouls="179" tech_fouls="1" points="638" flagrant_fouls="0" free_throws_pct="0.756" two_points_pct="0.453" three_points_pct="0.376" field_goals_pct="0.419" rebounds="202" assists_turnover_ratio="1.12" two_points_made="139" two_points_att="307"/>
+          <average points="8.4" blocked_att="0.37" turnovers="1.32" free_throws_att="1.62" field_goals_att="7.16" off_rebounds="0.45" two_points_att="4.04" assists="1.5" blocks="0.09" personal_fouls="2.36" two_points_made="1.83" flagrant_fouls="0.0" rebounds="2.66" three_points_made="1.17" minutes="19.8" def_rebounds="2.21" free_throws_made="1.22" field_goals_made="3.0" steals="0.45" three_points_att="3.12"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-07-14 20:31:46 +0000 -->

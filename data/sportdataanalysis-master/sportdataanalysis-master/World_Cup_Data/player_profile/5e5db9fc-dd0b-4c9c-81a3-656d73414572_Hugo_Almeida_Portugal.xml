@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:15:27Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="5e5db9fc-dd0b-4c9c-81a3-656d73414572" country_code="PRT" preferred_foot="L" height_in="75" weight_lb="189" height_cm="190" weight_kg="85" first_name="Hugo" last_name="Almeida" country="Portugal">
+    <teams>
+      <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" country_code="PRT" position="F" is_manager="false" is_player="true" country="Portugal" jersey_number="9"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="6" matches_started="0" minutes_played="255" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="4">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="28" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="151" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="717c3366-5fbe-4ab3-b8eb-1c18b85050b5" name="Besiktas Istanbul" alias="BES" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="15" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="32" matches_started="0" minutes_played="2409" yellow_cards="1" yellow_red_cards="-1" red_cards="1" substitutions_out="16" substitutions_in="4">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig"/>
+          <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig"/>
+          <team id="717c3366-5fbe-4ab3-b8eb-1c18b85050b5" name="Besiktas Istanbul" alias="BES" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="131" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 12935/1405951655 -->
+  </player>
+</profile>

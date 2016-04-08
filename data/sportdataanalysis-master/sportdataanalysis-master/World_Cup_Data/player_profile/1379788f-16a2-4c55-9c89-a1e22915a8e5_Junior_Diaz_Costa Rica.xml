@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:10:23Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="1379788f-16a2-4c55-9c89-a1e22915a8e5" country_code="CRI" preferred_foot="L" height_in="72" weight_lb="167" height_cm="182" weight_kg="75" first_name="Junior" last_name="Diaz" country="Costa Rica">
+    <teams>
+      <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" country_code="CRI" position="D" is_manager="false" is_player="true" country="Costa Rica" jersey_number="15"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="5" matches_started="0" minutes_played="510" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="25f72edd-dbf5-4790-afa7-5fbb0dafeb37" name="WC Qualif., CONCACAF"/>
+          <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="20" matches_started="0" minutes_played="1478" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="5">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga"/>
+          <team id="f74755fd-a61b-4007-bdd8-13345e77acb0" name="1 FSV Mainz 05" alias="MAI" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 38801/1405951678 -->
+  </player>
+</profile>

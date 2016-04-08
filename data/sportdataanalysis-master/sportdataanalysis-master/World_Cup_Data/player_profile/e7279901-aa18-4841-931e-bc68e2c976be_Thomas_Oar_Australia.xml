@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:29:51Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="e7279901-aa18-4841-931e-bc68e2c976be" country_code="AUS" preferred_foot="L" height_in="66" weight_lb="141" height_cm="167" weight_kg="63" first_name="Thomas" last_name="Oar" country="Australia">
+    <teams>
+      <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" country_code="AUS" position="F" is_manager="false" is_player="true" country="Australia" jersey_number="11"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="13b1a427-d0ff-4e29-87e2-0ef224ea6be6" name="WC Qualification"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="206" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="db45150e-c9c8-45ca-bbcd-d988c8ffe9dc" name="FC Utrecht" alias="FCU" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="210" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="cd00e95a-f750-4053-9eab-04b3b1278ca7" name="KNVB beker"/>
+          <tournament id="4777a2ca-fea5-428e-9f43-e2c6b06be0d1" name="KNVB beker"/>
+          <team id="db45150e-c9c8-45ca-bbcd-d988c8ffe9dc" name="FC Utrecht" alias="FCU" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="31" matches_started="0" minutes_played="2500" yellow_cards="5" yellow_red_cards="-1" red_cards="-1" substitutions_out="11" substitutions_in="1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie"/>
+          <team id="db45150e-c9c8-45ca-bbcd-d988c8ffe9dc" name="FC Utrecht" alias="FCU" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 116842/1405922838 -->
+  </player>
+</profile>

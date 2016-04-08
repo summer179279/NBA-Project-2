@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-02-23 06:00:48 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="41ef1dd4-4050-4c48-b224-4e40e0c4911f" status="closed" coverage="full" home_team="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" away_team="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-02-23T03:00:00+00:00" duration="2:25" attendance="17317" lead_changes="0" times_tied="1" clock="00:00" quarter="4">
+  <team name="Kings" market="Sacramento" id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" points="105">
+    <scoring>
+      <quarter number="1" sequence="1" points="23"/>
+      <quarter number="2" sequence="2" points="28"/>
+      <quarter number="3" sequence="3" points="26"/>
+      <quarter number="4" sequence="4" points="28"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Rudy Gay" position="F" primary_position="SF" jersey_number="8" id="79d56fd7-f4ed-4905-9d04-dff4b5352334">
+          <statistics minutes="31:08" field_goals_made="8" field_goals_att="18" field_goals_pct="44.4" three_points_made="2" three_points_att="3" three_points_pct="66.7" two_points_made="6" two_points_att="15" two_points_pct="0.4" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="7" rebounds="7" assists="2" turnovers="3" steals="0" blocks="0" assists_turnover_ratio="0.67" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="10" points="22"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Rudy Gay" position="F" primary_position="SF" jersey_number="8" id="79d56fd7-f4ed-4905-9d04-dff4b5352334">
+          <statistics minutes="31:08" field_goals_made="8" field_goals_att="18" field_goals_pct="44.4" three_points_made="2" three_points_att="3" three_points_pct="66.7" two_points_made="6" two_points_att="15" two_points_pct="0.4" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="7" rebounds="7" assists="2" turnovers="3" steals="0" blocks="0" assists_turnover_ratio="0.67" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="10" points="22"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Isaiah Thomas" position="G" primary_position="PG" jersey_number="22" id="bda5388e-a657-4e2c-8e12-6ed474518d25">
+          <statistics minutes="36:47" field_goals_made="6" field_goals_att="12" field_goals_pct="50.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="6" two_points_att="11" two_points_pct="0.545" blocked_att="1" free_throws_made="9" free_throws_att="10" free_throws_pct="90.0" offensive_rebounds="0" defensive_rebounds="4" rebounds="4" assists="12" turnovers="4" steals="0" blocks="1" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="12" points="21"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Celtics" market="Boston" id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" points="98">
+    <scoring>
+      <quarter number="1" sequence="1" points="16"/>
+      <quarter number="2" sequence="2" points="27"/>
+      <quarter number="3" sequence="3" points="27"/>
+      <quarter number="4" sequence="4" points="28"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Jeff Green" position="G-F" primary_position="SF" jersey_number="8" id="b9155864-4192-4ad7-8652-57a0844c87b3">
+          <statistics minutes="43:00" field_goals_made="7" field_goals_att="25" field_goals_pct="28.0" three_points_made="2" three_points_att="9" three_points_pct="22.2" two_points_made="5" two_points_att="16" two_points_pct="0.313" blocked_att="1" free_throws_made="13" free_throws_att="18" free_throws_pct="72.2" offensive_rebounds="0" defensive_rebounds="6" rebounds="6" assists="2" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-12" points="29"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kris Humphries" position="F" primary_position="PF" jersey_number="43" id="1a072572-763d-4839-b920-82b48d8e296a">
+          <statistics minutes="36:26" field_goals_made="9" field_goals_att="15" field_goals_pct="60.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="9" two_points_att="15" two_points_pct="0.6" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="4" defensive_rebounds="4" rebounds="8" assists="4" turnovers="3" steals="2" blocks="2" assists_turnover_ratio="1.33" personal_fouls="3" tech_fouls="1" flagrant_fouls="0" pls_min="-6" points="19"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Kris Humphries" position="F" primary_position="PF" jersey_number="43" id="1a072572-763d-4839-b920-82b48d8e296a">
+          <statistics minutes="36:26" field_goals_made="9" field_goals_att="15" field_goals_pct="60.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="9" two_points_att="15" two_points_pct="0.6" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="4" defensive_rebounds="4" rebounds="8" assists="4" turnovers="3" steals="2" blocks="2" assists_turnover_ratio="1.33" personal_fouls="3" tech_fouls="1" flagrant_fouls="0" pls_min="-6" points="19"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-02-23 06:00:48 +0000 -->

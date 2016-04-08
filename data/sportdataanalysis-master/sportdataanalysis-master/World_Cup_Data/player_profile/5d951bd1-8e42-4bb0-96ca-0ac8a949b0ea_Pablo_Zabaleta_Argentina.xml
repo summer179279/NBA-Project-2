@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:20:54Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="5d951bd1-8e42-4bb0-96ca-0ac8a949b0ea" country_code="ARG" preferred_foot="R" height_in="68" weight_lb="163" height_cm="172" weight_kg="73" first_name="Pablo" last_name="Zabaleta" country="Argentina">
+    <teams>
+      <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" country_code="ARG" position="D" is_manager="false" is_player="true" country="Argentina" jersey_number="4"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="7" matches_started="0" minutes_played="630" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="be7dab9e-eeeb-450f-9361-25fdf7916eb3" name="Audi Cup"/>
+          <tournament id="a395f040-6ba8-4b56-8567-3ece18804298" name="Audi Cup"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="137" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="170" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="9fa72432-b059-4a30-9519-699e84fe85ca" name="Prem League Asia Trophy"/>
+          <tournament id="f99c995b-6e78-4281-84ad-79fcd7279e54" name="Premier League Asia Trophy"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="4" matches_started="0" minutes_played="229" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="8cf07e0d-a6db-45fa-a67c-c10b43449a69" name="League Cup"/>
+          <tournament id="3512b79f-bc4f-49f1-8c1b-e8d5e35c801e" name="League Cup"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="6" matches_started="0" minutes_played="512" yellow_cards="2" yellow_red_cards="1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="5" matches_played="35" matches_started="0" minutes_played="3079" yellow_cards="11" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 11796/1405922803 -->
+  </player>
+</profile>

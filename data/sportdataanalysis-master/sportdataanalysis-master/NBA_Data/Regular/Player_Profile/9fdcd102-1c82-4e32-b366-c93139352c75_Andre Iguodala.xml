@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-22 16:31:03 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="9fdcd102-1c82-4e32-b366-c93139352c75" status="ACT" full_name="Andre Iguodala" first_name="Andre" last_name="Iguodala" abbr_name="A.Iguodala" height="78" weight="207" position="F-G" primary_position="SF" jersey_number="9" experience="9" college="Arizona" birth_place="Springfield, IL, USA" birthdate="1984-01-28" updated="2013-11-08T20:14:28+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" alias="GSW"/>
+  <draft team_id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" year="2004" round="1" pick="9"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" alias="GSW">
+        <statistics>
+          <total games_played="63" games_started="63" minutes="2040.0" field_goals_made="220" field_goals_att="458" three_points_made="62" three_points_att="175" blocked_att="21" free_throws_made="86" free_throws_att="132" offensive_rebounds="53" defensive_rebounds="240" assists="263" turnovers="100" steals="95" blocks="18" personal_fouls="103" tech_fouls="0" points="588" flagrant_fouls="0" free_throws_pct="0.652" two_points_pct="0.558" three_points_pct="0.354" field_goals_pct="0.48" rebounds="293" assists_turnover_ratio="2.63" two_points_made="158" two_points_att="283"/>
+          <average points="9.3" blocked_att="0.33" turnovers="1.59" free_throws_att="2.1" field_goals_att="7.27" off_rebounds="0.84" two_points_att="4.49" assists="4.2" blocks="0.29" personal_fouls="1.63" two_points_made="2.51" flagrant_fouls="0.0" rebounds="4.65" three_points_made="0.98" minutes="32.4" def_rebounds="3.81" free_throws_made="1.37" field_goals_made="3.49" steals="1.51" three_points_att="2.78"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-22 16:31:03 +0000 -->

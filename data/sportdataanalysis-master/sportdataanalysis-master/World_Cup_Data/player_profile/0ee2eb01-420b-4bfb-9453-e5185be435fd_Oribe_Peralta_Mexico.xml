@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:08:36Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="0ee2eb01-420b-4bfb-9453-e5185be435fd" country_code="MEX" preferred_foot="L" height_in="70" weight_lb="154" height_cm="177" weight_kg="69" first_name="Oribe" last_name="Peralta" country="Mexico">
+    <teams>
+      <team id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" country_code="MEX" position="F" is_manager="false" is_player="true" country="Mexico" jersey_number="19"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="7" matches_started="0" minutes_played="620" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="d5fe6774-8a08-4e76-b949-fb421fdc91a0" name="Copa Libertadores"/>
+          <team id="5dd96f68-1a54-4b31-93c2-e7c2a70cc0b1" name="Santos Laguna" alias="SNT" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="292" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="25f72edd-dbf5-4790-afa7-5fbb0dafeb37" name="WC Qualif., CONCACAF"/>
+          <team id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="4" matches_started="0" minutes_played="302" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="20" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="329" yellow_cards="-1" yellow_red_cards="-1" red_cards="1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ab5bfdbe-ed48-45e8-a6b9-eda3a8aaad3b" name="Mexico" country_code="MEX" country="Mexico"/>
+          <tournament_group id="3baac5eb-2bd1-4561-ab76-b96d267dfe2a" name="Primera Division"/>
+          <team id="5dd96f68-1a54-4b31-93c2-e7c2a70cc0b1" name="Santos Laguna" alias="SNT" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 51793/1405922586 -->
+  </player>
+</profile>

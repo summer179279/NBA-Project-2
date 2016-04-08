@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:30:50 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="664afb4f-3fc1-4e25-bcb8-bab2c0c3c33b" status="ACT" full_name="DeMarre Carroll" first_name="DeMarre" last_name="Carroll" abbr_name="D.Carroll" height="80" weight="212" position="F" primary_position="SF" jersey_number="5" experience="4" college="Missouri" birth_place="Birmingham, AL, USA" birthdate="1986-07-27" updated="2013-09-06T18:52:32+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL"/>
+  <draft team_id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="1" pick="27"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL">
+        <statistics>
+          <total games_played="73" games_started="73" minutes="2341.0" field_goals_made="302" field_goals_att="642" three_points_made="97" three_points_att="268" blocked_att="35" free_throws_made="109" free_throws_att="141" offensive_rebounds="107" defensive_rebounds="296" assists="134" turnovers="79" steals="108" blocks="21" personal_fouls="188" tech_fouls="4" points="810" flagrant_fouls="0" free_throws_pct="0.773" two_points_pct="0.548" three_points_pct="0.362" field_goals_pct="0.47" rebounds="403" assists_turnover_ratio="1.7" two_points_made="205" two_points_att="374"/>
+          <average points="11.1" blocked_att="0.48" turnovers="1.08" free_throws_att="1.93" field_goals_att="8.79" off_rebounds="1.47" two_points_att="5.12" assists="1.8" blocks="0.29" personal_fouls="2.58" two_points_made="2.81" flagrant_fouls="0.0" rebounds="5.52" three_points_made="1.33" minutes="32.1" def_rebounds="4.05" free_throws_made="1.49" field_goals_made="4.14" steals="1.48" three_points_att="3.67"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:30:50 +0000 -->

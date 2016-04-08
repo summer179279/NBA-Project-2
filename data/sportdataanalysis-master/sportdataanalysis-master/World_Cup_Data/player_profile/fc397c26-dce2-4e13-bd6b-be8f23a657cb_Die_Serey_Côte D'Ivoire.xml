@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:17:22Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="fc397c26-dce2-4e13-bd6b-be8f23a657cb" country_code="CIV" preferred_foot="R" height_in="70" weight_lb="163" height_cm="177" weight_kg="73" first_name="Die" last_name="Serey" country="Côte D'Ivoire">
+    <teams>
+      <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" country_code="CIV" position="M" is_manager="false" is_player="true" country="Côte D'Ivoire" jersey_number="20"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="225" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="22" matches_started="0" minutes_played="1589" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="10" substitutions_in="3">
+          <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+          <tournament_group id="2a457785-6abb-45af-968d-81e14d9cd42a" name="Super League"/>
+          <tournament id="2449e1bd-35bf-442f-81b4-2ee268a050ca" name="Super League"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="5" matches_started="0" minutes_played="474" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="339" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="210" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+          <tournament_group id="6c6db68b-9b4b-43a3-b8a3-8e6704b3da80" name="Schweizer Cup"/>
+          <tournament id="19663fc4-8d80-45ee-96a8-de40b95bbd7b" name="Schweizer Cup"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 37397/1405922880 -->
+  </player>
+</profile>

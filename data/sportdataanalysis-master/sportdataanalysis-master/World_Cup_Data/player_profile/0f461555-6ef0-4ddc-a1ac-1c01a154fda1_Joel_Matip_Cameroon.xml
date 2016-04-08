@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:31:19Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="0f461555-6ef0-4ddc-a1ac-1c01a154fda1" country_code="CMR" preferred_foot="R" height_in="75" weight_lb="182" height_cm="190" weight_kg="82" first_name="Joel" last_name="Matip" country="Cameroon">
+    <teams>
+      <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" country_code="CMR" position="D" is_manager="false" is_player="true" country="Cameroon" jersey_number="21"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="261" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="60512f08-0c2e-4a73-8aa8-0ba97354311f" name="DFB Pokal"/>
+          <tournament id="b6e34a03-7dfa-4c28-9ecc-b738122be8b5" name="DFB Pokal"/>
+          <team id="36f416b4-961d-40c1-9fe3-13ddfb068579" name="FC Schalke 04" alias="S04" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="8" matches_started="0" minutes_played="637" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="36f416b4-961d-40c1-9fe3-13ddfb068579" name="FC Schalke 04" alias="S04" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="31" matches_started="0" minutes_played="2790" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga"/>
+          <team id="36f416b4-961d-40c1-9fe3-13ddfb068579" name="FC Schalke 04" alias="S04" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 51501/1405922469 -->
+  </player>
+</profile>

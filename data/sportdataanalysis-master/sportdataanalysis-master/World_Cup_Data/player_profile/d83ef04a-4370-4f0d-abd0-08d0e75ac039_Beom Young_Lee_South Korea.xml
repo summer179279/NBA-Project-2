@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:37:05Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="d83ef04a-4370-4f0d-abd0-08d0e75ac039" country_code="KOR" preferred_foot="" height_in="78" weight_lb="207" height_cm="198" weight_kg="93" first_name="Beom Young" last_name="Lee" country="South Korea">
+    <teams>
+      <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" country_code="KOR" position="G" is_manager="false" is_player="true" country="South Korea" jersey_number="23"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="13b1a427-d0ff-4e29-87e2-0ef224ea6be6" name="WC Qualification"/>
+          <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 242297/1405922551 -->
+  </player>
+</profile>

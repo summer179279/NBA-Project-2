@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:25:43Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="d9cbac68-a227-413e-b6d0-2d81b356cc3a" country_code="GHA" preferred_foot="R" height_in="72" weight_lb="152" height_cm="182" weight_kg="68" first_name="John" last_name="Boye" country="Ghana">
+    <teams>
+      <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" country_code="GHA" position="D" is_manager="false" is_player="true" country="Ghana" jersey_number="21"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="10" matches_started="0" minutes_played="728" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="3">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1"/>
+          <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1"/>
+          <team id="d2df2d74-faa4-4b2c-85c8-d8e9b9a5445d" name="Stade Rennes" alias="REN" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="e9292d36-0b5e-420f-9544-026e4b078534" name="Coupe de France"/>
+          <tournament id="68ccae0e-02fd-4f42-8ee0-855e8c18ab45" name="Coupe de France"/>
+          <team id="d2df2d74-faa4-4b2c-85c8-d8e9b9a5445d" name="Stade Rennes" alias="REN" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 73188/1405922656 -->
+  </player>
+</profile>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:17:04Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="0cc698a0-ac5b-4fa9-a482-48f814fd88e9" country_code="DZA" preferred_foot="R" height_in="73" weight_lb="0" height_cm="185" weight_kg="0" first_name="Islam" last_name="Slimani" country="Algeria">
+    <teams>
+      <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" country_code="DZA" position="F" is_manager="false" is_player="true" country="Algeria" jersey_number="13"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="4" matches_started="0" minutes_played="324" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="8" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="26" matches_started="0" minutes_played="1114" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="8" substitutions_in="16">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="ed663318-5add-4c8c-b3e4-af451d330fb9" name="Primeira Liga"/>
+          <team id="ee5401a3-f74a-4488-ba1d-259b46252bf0" name="Sporting Lisbon" alias="SPO" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="153" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="452c7239-70ec-4449-8b6e-2624845089b8" name="League Cup"/>
+          <team id="ee5401a3-f74a-4488-ba1d-259b46252bf0" name="Sporting Lisbon" alias="SPO" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="1c458580-c792-414e-b248-10203d03a826" name="Taca de Portugal"/>
+          <tournament id="5ae3c6f5-a098-4fce-adb8-248bd7f943bb" name="Taca de Portugal"/>
+          <team id="ee5401a3-f74a-4488-ba1d-259b46252bf0" name="Sporting Lisbon" alias="SPO" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="41b6cac3-1f34-4804-9b5f-459b757f1641" name="Segunda Liga"/>
+          <tournament id="0ca09f5b-5d79-486a-bcc6-a7ff545fc101" name="Segunda Liga"/>
+          <team id="244c3778-a241-43c2-b17d-8141e2249c73" name="Sporting Lisbon B" alias="" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 238708/1405951647 -->
+  </player>
+</profile>

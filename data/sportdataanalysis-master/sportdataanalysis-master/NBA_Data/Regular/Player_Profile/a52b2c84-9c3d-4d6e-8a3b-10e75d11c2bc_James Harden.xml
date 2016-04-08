@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-07 21:22:21 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc" status="ACT" full_name="James Harden" first_name="James" last_name="Harden" abbr_name="J.Harden" height="77" weight="220" position="G" primary_position="SG" jersey_number="13" experience="4" college="Arizona State" birth_place="Los Angeles, CA, USA" birthdate="1989-08-26" updated="2013-09-09T19:06:29+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" market="Houston" alias="HOU"/>
+  <draft team_id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="1" pick="3"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" market="Houston" alias="HOU">
+        <statistics>
+          <total games_played="73" games_started="73" minutes="2777.0" field_goals_made="549" field_goals_att="1205" three_points_made="177" three_points_att="483" blocked_att="61" free_throws_made="576" free_throws_att="665" offensive_rebounds="61" defensive_rebounds="283" assists="446" turnovers="265" steals="115" blocks="29" personal_fouls="177" tech_fouls="5" points="1851" flagrant_fouls="0" free_throws_pct="0.866" two_points_pct="0.515" three_points_pct="0.366" field_goals_pct="0.456" rebounds="344" assists_turnover_ratio="1.68" two_points_made="372" two_points_att="722"/>
+          <average points="25.4" blocked_att="0.84" turnovers="3.63" free_throws_att="9.11" field_goals_att="16.51" off_rebounds="0.84" two_points_att="9.89" assists="6.1" blocks="0.4" personal_fouls="2.42" two_points_made="5.1" flagrant_fouls="0.0" rebounds="4.71" three_points_made="2.42" minutes="38.0" def_rebounds="3.88" free_throws_made="7.89" field_goals_made="7.52" steals="1.58" three_points_att="6.62"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-07-07 21:22:21 +0000 -->

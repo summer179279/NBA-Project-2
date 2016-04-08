@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-17 05:20:51 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="79d56fd7-f4ed-4905-9d04-dff4b5352334" status="ACT" full_name="Rudy Gay" first_name="Rudy" last_name="Gay" abbr_name="R.Gay" height="80" weight="230" position="F" primary_position="SF" jersey_number="8" experience="7" college="Connecticut" birth_place="Baltimore, MD, USA" birthdate="1986-08-17" updated="2013-12-14T04:33:01+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" alias="SAC"/>
+  <draft team_id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" year="2006" round="1" pick="8"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" name="Raptors" market="Toronto" alias="TOR">
+        <statistics>
+          <total games_played="18" games_started="18" minutes="639.0" field_goals_made="130" field_goals_att="335" three_points_made="22" three_points_att="59" blocked_att="24" free_throws_made="68" free_throws_att="88" offensive_rebounds="29" defensive_rebounds="104" assists="40" turnovers="59" steals="28" blocks="23" personal_fouls="47" tech_fouls="0" points="350" flagrant_fouls="0" free_throws_pct="0.773" two_points_pct="0.391" three_points_pct="0.373" field_goals_pct="0.388" rebounds="133" assists_turnover_ratio="0.68" two_points_made="108" two_points_att="276"/>
+          <average points="19.4" blocked_att="1.33" turnovers="3.28" free_throws_att="4.89" field_goals_att="18.61" off_rebounds="1.61" two_points_att="15.33" assists="2.2" blocks="1.28" personal_fouls="2.61" two_points_made="6.0" flagrant_fouls="0.0" rebounds="7.39" three_points_made="1.22" minutes="35.5" def_rebounds="5.78" free_throws_made="3.78" field_goals_made="7.22" steals="1.56" three_points_att="3.28"/>
+        </statistics>
+      </team>
+      <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" alias="SAC">
+        <statistics>
+          <total games_played="55" games_started="55" minutes="1892.0" field_goals_made="407" field_goals_att="844" three_points_made="43" three_points_att="138" blocked_att="55" free_throws_made="250" free_throws_att="299" offensive_rebounds="84" defensive_rebounds="220" assists="169" turnovers="165" steals="67" blocks="33" personal_fouls="124" tech_fouls="3" points="1107" flagrant_fouls="0" free_throws_pct="0.836" two_points_pct="0.516" three_points_pct="0.312" field_goals_pct="0.482" rebounds="304" assists_turnover_ratio="1.02" two_points_made="364" two_points_att="706"/>
+          <average points="20.1" blocked_att="1.0" turnovers="3.0" free_throws_att="5.44" field_goals_att="15.35" off_rebounds="1.53" two_points_att="12.84" assists="3.1" blocks="0.6" personal_fouls="2.25" two_points_made="6.62" flagrant_fouls="0.0" rebounds="5.53" three_points_made="0.78" minutes="34.4" def_rebounds="4.0" free_throws_made="4.55" field_goals_made="7.4" steals="1.22" three_points_att="2.51"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-04-17 05:20:51 +0000 -->

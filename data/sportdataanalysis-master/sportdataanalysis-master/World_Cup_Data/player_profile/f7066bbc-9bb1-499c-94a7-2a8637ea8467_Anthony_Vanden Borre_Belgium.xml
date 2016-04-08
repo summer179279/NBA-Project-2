@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:26:52Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="f7066bbc-9bb1-499c-94a7-2a8637ea8467" country_code="BEL" preferred_foot="R" height_in="72" weight_lb="178" height_cm="182" weight_kg="80" first_name="Anthony" last_name="Vanden Borre" country="Belgium">
+    <teams>
+      <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" country_code="BEL" position="M" is_manager="false" is_player="true" country="Belgium" jersey_number="21"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="133" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="3">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="3" matches_started="0" minutes_played="252" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="c73bf3df-7c9a-473e-a5a5-af65e4c9e959" name="RSC Anderlecht" alias="RSC" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="27" matches_started="0" minutes_played="2341" yellow_cards="6" yellow_red_cards="1" red_cards="1" substitutions_out="-1" substitutions_in="1">
+          <category id="23c1de91-0d5d-4c30-9291-09afe82a4d34" name="Belgium" country_code="BEL" country="Belgium"/>
+          <tournament_group id="6889669b-927e-4eca-9a87-795e1f89ae42" name="Pro League"/>
+          <team id="c73bf3df-7c9a-473e-a5a5-af65e4c9e959" name="RSC Anderlecht" alias="RSC" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 6025/1405922688 -->
+  </player>
+</profile>

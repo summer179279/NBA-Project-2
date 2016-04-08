@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:15:13Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="46b82de5-b1ca-41f7-93b0-e2686c41d91c" country_code="PRT" preferred_foot="R" height_in="73" weight_lb="0" height_cm="185" weight_kg="0" first_name="William" last_name="Carvalho" country="Portugal">
+    <teams>
+      <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" country_code="PRT" position="M" is_manager="false" is_player="true" country="Portugal" jersey_number="6"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="134" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="17" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="4" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="29" matches_started="0" minutes_played="2532" yellow_cards="8" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="ed663318-5add-4c8c-b3e4-af451d330fb9" name="Primeira Liga"/>
+          <team id="ee5401a3-f74a-4488-ba1d-259b46252bf0" name="Sporting Lisbon" alias="SPO" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="452c7239-70ec-4449-8b6e-2624845089b8" name="League Cup"/>
+          <team id="ee5401a3-f74a-4488-ba1d-259b46252bf0" name="Sporting Lisbon" alias="SPO" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 137978/1405951655 -->
+  </player>
+</profile>

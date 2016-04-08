@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:30:18Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="77db4450-b881-4c8a-816a-23d826979b36" country_code="CMR" preferred_foot="R" height_in="67" weight_lb="0" height_cm="170" weight_kg="0" first_name="Fabrice" last_name="Olinga" country="Cameroon">
+    <teams>
+      <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" country_code="CMR" position="F" is_manager="false" is_player="true" country="Cameroon" jersey_number="19"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="7" matches_started="0" minutes_played="269" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="4">
+          <category id="23c1de91-0d5d-4c30-9291-09afe82a4d34" name="Belgium" country_code="BEL" country="Belgium"/>
+          <tournament_group id="6889669b-927e-4eca-9a87-795e1f89ae42" name="Pro League"/>
+          <team id="de55f01f-682d-422a-91f5-0875f5949b08" name="SV Zulte Waregem" alias="ZUL" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="8" matches_started="0" minutes_played="514" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="2">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division"/>
+          <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division"/>
+          <team id="67568157-dbcd-48be-aa0b-f1d7cf2dd588" name="Malaga CF" alias="MGA" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 255349/1405922535 -->
+  </player>
+</profile>

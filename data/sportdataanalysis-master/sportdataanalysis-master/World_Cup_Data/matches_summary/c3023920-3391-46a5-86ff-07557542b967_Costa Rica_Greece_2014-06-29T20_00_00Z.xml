@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-06-29T23:01:11Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="c3023920-3391-46a5-86ff-07557542b967" status="closed" scratched="false" period="P" scheduled="2014-06-29T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="26" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" loser_id="56915cf9-6045-49c9-aba1-4e7691f23cce" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="c3023920-3391-46a5-86ff-07557542b967" status="closed" number="1" home_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" away_id="56915cf9-6045-49c9-aba1-4e7691f23cce" home_score="6" away_score="4"/>
+      </round>
+      <home id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" formation="5-4-1" score="6" regular_score="1" penalty_score="5" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+          <overtime points="0" number="3"/>
+          <penalty points="5" number="4"/>
+        </scoring>
+        <statistics attacks="104" ball_safe="107" corner_kicks="3" dangerous_attacks="40" fouls="23" free_kicks="26" goal_attempts="5" goal_kicks="20" offsides="0" saves="9" shots_total="5" substitutions="3" throw_ins="25" yellow_card="5" yellow_red_card="1" shots_on_target="1" shots_off_target="4" possessions="44"/>
+        <players>
+          <player id="0e1ddf3b-3501-4a89-8333-ff838ed15760" country_code="CRI" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Daniel" last_name="Cambronero" country="Costa Rica" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3afc4a85-ad85-4631-950d-2309c3a1acd8" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Giancarlo" last_name="Gonzalez" country="Costa Rica" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1611d777-4434-4429-8a3c-4873f525ef00" country_code="CRI" position="F" started="true" tactical_position="6" tactical_order="8" first_name="Celso" last_name="Borges" country="Costa Rica" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="589a2b5d-4c99-4fa3-b87b-e5c0d1105e69" country_code="CRI" position="F" started="false" tactical_position="7" tactical_order="10" first_name="Randall" last_name="Brenes" country="Costa Rica" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="98bf5488-638d-4ca8-9d23-4a31d98716c7" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Roy" last_name="Miller" country="Costa Rica" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5a836d28-591d-4bc6-9966-65cd5ebc1bfc" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Waylon" last_name="Francis" country="Costa Rica" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="67ce8e1c-4b31-4c00-9300-971fa0df1c0c" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="5" first_name="Michael" last_name="Umana" country="Costa Rica" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b48bc2c1-71c8-4e53-817e-4928e104aef3" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Oscar" last_name="Granados" country="Costa Rica" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="32b87aec-9053-4471-9c3c-f27eadf3b7d7" country_code="CRI" position="M" started="false" tactical_position="6" tactical_order="9" first_name="Jose" last_name="Cubero" country="Costa Rica" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="e21eb6b3-273b-44a3-91a6-929ba3f75efa" country_code="CRI" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Joel" last_name="Campbell" country="Costa Rica" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19af8261-86ec-44e7-b468-b63b37f6147f" country_code="CRI" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Patrick" last_name="Pemberton" country="Costa Rica" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e6d9726-358c-4241-af29-ce71865327bd" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Calvo" country="Costa Rica" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="424323a9-2b66-4293-b2d9-ce3021245061" country_code="CRI" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Keylor" last_name="Navas" country="Costa Rica" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="be9179f6-123e-41ce-8630-0afa9401faf1" country_code="CRI" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Cristian" last_name="Gamboa" country="Costa Rica" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="9bcdae85-d3cb-4238-a547-5094386165ca" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dave" last_name="Myrie" country="Costa Rica" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0b7436fd-1ea2-4f7f-9b0b-cbb032160095" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Barrantes" country="Costa Rica" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="469d8bfc-dd46-4061-9c77-74cad92a7527" country_code="CRI" position="F" started="true" tactical_position="5" tactical_order="7" first_name="Bryan" last_name="Ruiz" country="Costa Rica" jersey_number="10">
+            <statistics goal="1" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="983a4ee1-70ea-4058-a1b7-432a255fe64b" country_code="CRI" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Christian" last_name="Bolanos" country="Costa Rica" jersey_number="7">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Oscar" last_name="Duarte" country="Costa Rica" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="1" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="259741ad-160b-46e3-a38d-ad6cb679ba8f" country_code="CRI" position="D" started="false" tactical_position="2" tactical_order="2" first_name="Johnny" last_name="Acosta" country="Costa Rica" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5800d953-21da-4206-93dc-fe988b90531f" country_code="CRI" position="M" started="true" tactical_position="6" tactical_order="9" first_name="Yeltsin" last_name="Tejeda" country="Costa Rica" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1700fe77-790e-4f0f-87a7-63c1abcd5d42" country_code="CRI" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Marcos" last_name="Urena" country="Costa Rica" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1379788f-16a2-4c55-9c89-a1e22915a8e5" country_code="CRI" position="D" started="true" tactical_position="4" tactical_order="6" first_name="Junior" last_name="Diaz" country="Costa Rica" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team" formation="4-3-3" score="4" regular_score="1" penalty_score="3" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+          <overtime points="0" number="3"/>
+          <penalty points="3" number="4"/>
+        </scoring>
+        <statistics attacks="113" ball_safe="115" corner_kicks="11" dangerous_attacks="76" fouls="16" free_kicks="23" goal_attempts="22" goal_kicks="9" offsides="10" saves="0" shots_total="22" substitutions="3" throw_ins="24" yellow_card="2" yellow_red_card="0" shots_on_target="10" shots_off_target="12" possessions="56"/>
+        <players>
+          <player id="fcaadf35-34f3-416c-ba70-1a413a72d0d2" country_code="GRC" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Loukas" last_name="Vyntra" country="Greece" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="18a93da8-affb-4421-bdd6-9c1d8c10be9c" country_code="GRC" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Panagiotis" last_name="Kone" country="Greece" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="736eec86-7c43-4064-a65b-1526f4a657be" country_code="GRC" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Giannis" last_name="Fetfatzidis" country="Greece" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="51c0ec41-0df8-4dca-b89d-d2a8886f3054" country_code="GRC" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Sokratis" last_name="" country="Greece" jersey_number="19">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="703461c2-d9ce-4035-8324-441eec6f6765" country_code="GRC" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Lazaros" last_name="Christodoulopoulos" country="Greece" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6700240b-a1d7-45fd-9746-5f910620b503" country_code="GRC" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Vangelis" last_name="Moras" country="Greece" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="af4c3d61-b2f3-44be-9814-525152be9400" country_code="GRC" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Stefanos" last_name="Kapino" country="Greece" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="991a779f-2536-45fe-8235-9c2bdeec6e64" country_code="GRC" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Kostas" last_name="Katsouranis" country="Greece" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="8b8f0f35-bb01-44ad-b939-2f4852b3c00f" country_code="GRC" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Georgios" last_name="Samaras" country="Greece" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="326cd2ba-9215-403b-a075-cbeb919bf57e" country_code="GRC" position="D" started="true" tactical_position="6" tactical_order="6" first_name="Giannis" last_name="Maniatis" country="Greece" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="c1b5e100-c916-4f24-8898-b30b9b406b28" country_code="GRC" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Constantinos" last_name="Manolas" country="Greece" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b5b43381-871d-4f9b-9aad-91880204e946" country_code="GRC" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Alexandros" last_name="Tziolis" country="Greece" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="277935b0-587b-45f0-b3bb-ee9436880428" country_code="GRC" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Georgios" last_name="Tzavellas" country="Greece" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9f159afa-e8da-4601-a7ed-ef730066ebaf" country_code="GRC" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Panayiotis" last_name="Glykos" country="Greece" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f3a2878e-6b60-4d73-8202-81a0d4685dcf" country_code="GRC" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Dimitris" last_name="Salpingidis" country="Greece" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="dfaa676b-79fb-4a01-8f69-be375741a145" country_code="GRC" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Kostas" last_name="Mitroglou" country="Greece" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5bfda0d1-a466-480c-bc74-e28ea9177514" country_code="GRC" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Panagiotis" last_name="Tachtsidis" country="Greece" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4fbd4ba7-921e-40b6-9da2-58c09dedf16d" country_code="GRC" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Orestis" last_name="Karnezis" country="Greece" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4dd609c6-fb69-4b19-97e3-5aba922c84ae" country_code="GRC" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Jose" last_name="Holebas" country="Greece" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="57d56982-95c3-43c2-b7a9-c69e4364d84c" country_code="GRC" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Vasilis" last_name="Torosidis" country="Greece" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9c790142-96ae-4a2d-bcb9-a34acb7bc4c3" country_code="GRC" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Georgios" last_name="Karagounis" country="Greece" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8f7c2ed8-d5bf-4a3d-b989-2ab4b2db0b42" country_code="GRC" position="F" started="false" tactical_position="8" tactical_order="9" first_name="Fanis" last_name="Gekas" country="Greece" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="f83db53f-63a5-4e0a-a7b3-09a168172ebb" country_code="GRC" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Andreas" last_name="Samaris" country="Greece" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257"/>
+      <facts>
+        <fact id="fa3d9df0-8140-4ab8-9213-7346d5bdda0d" type="match_started" time="2014-06-29T20:00:50Z" updated_time="2014-06-29T20:00:37Z" scratch="false" clock="1" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>The match is underway in Recife.</description>
+        </fact>
+        <fact id="4d3f7866-0db7-4229-8be2-2233119f6e52" type="period_started" time="2014-06-29T20:00:50Z" updated_time="2014-06-29T20:00:50Z" scratch="false" period="P1"/>
+        <fact id="dbf95b1d-09ff-4d5e-9a27-fbe756591cd6" type="free_kick" time="2014-06-29T20:01:22Z" updated_time="2014-06-29T20:01:22Z" scratch="false" x="41" y="58" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece.</description>
+        </fact>
+        <fact id="7f395d26-2cab-4be0-9efe-599624052040" type="shot_off_target" time="2014-06-29T20:02:05Z" updated_time="2014-06-29T20:02:16Z" scratch="false" x="40" y="45" clock="2" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="703461c2-d9ce-4035-8324-441eec6f6765">
+          <description>In Recife Greece attack through Lazaros Christodoulopoulos. The finish is off target, however.</description>
+        </fact>
+        <fact id="90b45e4c-0b4f-41c3-8355-711c868728e6" type="goal_kick" time="2014-06-29T20:02:06Z" updated_time="2014-06-29T20:02:06Z" scratch="false" x="5" y="50" clock="2" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="01ab0e04-95d6-4b56-aaf3-2fcbe6ae68f1" type="throwin" time="2014-06-29T20:03:23Z" updated_time="2014-06-29T20:03:34Z" scratch="false" x="52" y="1" clock="2" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece in their own half.</description>
+        </fact>
+        <fact id="ada1f3a0-b8e8-4ce8-875b-9c6c3946ad81" type="throwin" time="2014-06-29T20:03:49Z" updated_time="2014-06-29T20:03:49Z" scratch="false" x="69" y="1" clock="3" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="9497f2fb-d725-409b-be9e-35d9cd3aec1d" type="throwin" time="2014-06-29T20:04:07Z" updated_time="2014-06-29T20:04:07Z" scratch="false" x="35" y="99" clock="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in Costa Rica.</description>
+        </fact>
+        <fact id="7a96a9ef-5988-4a59-a86d-d773adfff4e0" type="throwin" time="2014-06-29T20:05:21Z" updated_time="2014-06-29T20:05:21Z" scratch="false" x="48" y="98" clock="4" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Can Greece get the ball into an attacking position from this throw-in in Costa Rica's half?</description>
+        </fact>
+        <fact id="421f528f-d867-4672-82fd-df6c4c3ef0eb" type="shot_off_target" time="2014-06-29T20:04:50Z" updated_time="2014-06-29T20:05:02Z" scratch="false" x="84" y="60" clock="5" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="be9179f6-123e-41ce-8630-0afa9401faf1">
+          <description>Costa Rica's Cristian Gamboa breaks free at Arena Pernambuco. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="88e812a2-f3ef-419d-ac2b-ca49248ee665" type="goal_kick" time="2014-06-29T20:04:51Z" updated_time="2014-06-29T20:04:51Z" scratch="false" x="95" y="50" clock="5" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Goal kick for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="6778d1ad-73dc-41dc-9795-a3a8979e7618" type="throwin" time="2014-06-29T20:07:20Z" updated_time="2014-06-29T20:07:20Z" scratch="false" x="62" y="98" clock="6" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a Costa Rica throw-in in Greece's half.</description>
+        </fact>
+        <fact id="0daa9b98-87d7-4229-975f-14c91f5ed207" type="throwin" time="2014-06-29T20:08:26Z" updated_time="2014-06-29T20:08:26Z" scratch="false" x="30" y="98" clock="7" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="3ec30d05-cd58-4f43-8aa0-d7cebba8aa27" type="shot_off_target" time="2014-06-29T20:07:51Z" updated_time="2014-06-29T20:07:51Z" scratch="false" x="79" y="57" clock="8" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="983a4ee1-70ea-4058-a1b7-432a255fe64b">
+          <description>Christian Bolanos for Costa Rica gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="5032497c-c7cf-4f53-8e3d-649d370226b3" type="goal_kick" time="2014-06-29T20:07:51Z" updated_time="2014-06-29T20:07:51Z" scratch="false" x="95" y="50" clock="8" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Ball goes out of play for a Greece goal kick.</description>
+        </fact>
+        <fact id="6994acd6-f2b3-4418-b673-057ee8f5fcae" type="goal_kick" time="2014-06-29T20:08:43Z" updated_time="2014-06-29T20:08:43Z" scratch="false" x="5" y="50" clock="8" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="fadd1294-4a47-4d6a-a4e6-5e3220334e16" type="throwin" time="2014-06-29T20:09:22Z" updated_time="2014-06-29T20:09:22Z" scratch="false" x="69" y="2" clock="8" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a Costa Rica throw-in in Greece's half.</description>
+        </fact>
+        <fact id="aa8fac1f-40f1-4db8-8177-3b13c22d5c7f" type="goal_kick" time="2014-06-29T20:09:44Z" updated_time="2014-06-29T20:09:44Z" scratch="false" x="95" y="50" clock="9" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams awards Greece a goal kick.</description>
+        </fact>
+        <fact id="ed393340-cb74-4eff-aac0-6903842c9bce" type="free_kick" time="2014-06-29T20:10:44Z" updated_time="2014-06-29T20:10:44Z" scratch="false" x="43" y="19" clock="10" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Free kick Greece.</description>
+        </fact>
+        <fact id="72bbd0c8-3c0a-4bea-8e13-9897c29b5d38" type="offside" time="2014-06-29T20:11:12Z" updated_time="2014-06-29T20:11:17Z" scratch="false" x="10" y="34" clock="11" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="8b8f0f35-bb01-44ad-b939-2f4852b3c00f">
+          <description>Greece drive forward but Georgios Samaras is judged offside.</description>
+        </fact>
+        <fact id="f3e1ed66-138e-4eeb-8db2-a680ed3d5650" type="shot_off_target" time="2014-06-29T20:12:07Z" updated_time="2014-06-29T20:12:13Z" scratch="false" x="21" y="61" clock="12" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="703461c2-d9ce-4035-8324-441eec6f6765">
+          <description>Greece's Lazaros Christodoulopoulos gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="28c03e4f-6f37-4b91-9f9b-3ddab7a91ad6" type="goal_kick" time="2014-06-29T20:12:07Z" updated_time="2014-06-29T20:12:07Z" scratch="false" x="5" y="50" clock="12" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Goal kick for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="43e89add-6f39-4c1b-b7b3-8400ed23150b" type="goal_kick" time="2014-06-29T20:12:52Z" updated_time="2014-06-29T20:12:52Z" scratch="false" x="95" y="50" clock="12" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Ball goes out of play for a Greece goal kick.</description>
+        </fact>
+        <fact id="abf66a8e-633a-40c5-83aa-0ba38a4d1963" type="throwin" time="2014-06-29T20:13:39Z" updated_time="2014-06-29T20:13:39Z" scratch="false" x="21" y="2" clock="12" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="eef72fde-6149-4658-8a55-530ae4085ebf" type="free_kick" time="2014-06-29T20:14:08Z" updated_time="2014-06-29T20:14:08Z" scratch="false" x="55" y="30" clock="13" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="9fd4dde5-ac06-4f56-94f4-a63a8573fb71" type="corner_kick" time="2014-06-29T20:15:19Z" updated_time="2014-06-29T20:15:19Z" scratch="false" x="5" y="90" clock="15" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Corner awarded to Greece.</description>
+        </fact>
+        <fact id="bfdce184-e4fd-4a71-9390-dcb57235c690" type="shot_off_target" time="2014-06-29T20:15:29Z" updated_time="2014-06-29T20:15:41Z" scratch="false" x="5" y="90" clock="15" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="51c0ec41-0df8-4dca-b89d-d2a8886f3054">
+          <description>Greece's Sokratis misses with an attempt on goal.</description>
+        </fact>
+        <fact id="b8772c33-ed85-42ba-a4f8-732ba9d79374" type="goal_kick" time="2014-06-29T20:15:29Z" updated_time="2014-06-29T20:15:29Z" scratch="false" x="5" y="50" clock="15" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="333a5eb9-cad8-4792-b45d-01d8a7bb9f57" type="throwin" time="2014-06-29T20:15:57Z" updated_time="2014-06-29T20:15:57Z" scratch="false" x="40" y="1" clock="15" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="443c99f4-cdce-401d-8d52-10ca8d87e2ea" type="throwin" time="2014-06-29T20:16:35Z" updated_time="2014-06-29T20:16:35Z" scratch="false" x="44" y="98" clock="15" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Can Greece get the ball into an attacking position from this throw-in in Costa Rica's half?</description>
+        </fact>
+        <fact id="ebf28df4-f780-44ca-a066-021f9ed127d5" type="offside" time="2014-06-29T20:17:08Z" updated_time="2014-06-29T20:17:16Z" scratch="false" x="18" y="13" clock="17" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="57d56982-95c3-43c2-b7a9-c69e4364d84c">
+          <description>Vasilis Torosidis for Greece is whistled offside.</description>
+        </fact>
+        <fact id="e6aa7999-f105-41f6-affd-8e680d45292c" type="free_kick" time="2014-06-29T20:17:59Z" updated_time="2014-06-29T20:17:59Z" scratch="false" x="58" y="53" clock="17" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="b9e51f7a-5727-49ed-89e4-48de3c751b56" type="throwin" time="2014-06-29T20:19:44Z" updated_time="2014-06-29T20:19:44Z" scratch="false" x="58" y="1" clock="19" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica to take a throw-in in Greece territory.</description>
+        </fact>
+        <fact id="1d760aef-d64b-4fdd-adee-487ef50e78fa" type="throwin" time="2014-06-29T20:20:14Z" updated_time="2014-06-29T20:20:14Z" scratch="false" x="67" y="98" clock="19" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a Costa Rica throw-in in Greece's half.</description>
+        </fact>
+        <fact id="ffadfb3a-0381-48ea-a41e-a898d3869dcb" type="free_kick" time="2014-06-29T20:21:32Z" updated_time="2014-06-29T20:21:32Z" scratch="false" x="90" y="84" clock="20" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica just outside Greece's area.</description>
+        </fact>
+        <fact id="4153137e-e89a-41eb-a56a-442d17cf07c2" type="corner_kick" time="2014-06-29T20:21:12Z" updated_time="2014-06-29T20:21:16Z" scratch="false" x="95" y="90" clock="21" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Benjamin Williams.</description>
+        </fact>
+        <fact id="359c3e6c-75ef-4cef-9813-a2da4ee8ea18" type="throwin" time="2014-06-29T20:23:54Z" updated_time="2014-06-29T20:23:54Z" scratch="false" x="95" y="98" clock="23" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a throw-in for Costa Rica, close to Greece's area.</description>
+        </fact>
+        <fact id="7770a90b-6619-44a2-907b-4e700e3cf97b" type="corner_kick" time="2014-06-29T20:25:53Z" updated_time="2014-06-29T20:30:26Z" scratch="false" x="5" y="5" clock="25" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Corner awarded to Greece.</description>
+        </fact>
+        <fact id="6e8ac6b7-5b76-4a60-8c63-b0e9479d5b7e" type="throwin" time="2014-06-29T20:27:17Z" updated_time="2014-06-29T20:27:17Z" scratch="false" x="55" y="98" clock="26" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in Greece.</description>
+        </fact>
+        <fact id="359fe77a-792b-4bb9-b058-8916dc8b5fd4" type="throwin" time="2014-06-29T20:28:19Z" updated_time="2014-06-29T20:28:19Z" scratch="false" x="19" y="98" clock="27" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece have a dangerous throw-in.</description>
+        </fact>
+        <fact id="ec2f1a4e-2bd0-47ed-82bd-119ae9a14a4a" type="keeper_save" time="2014-06-29T20:28:36Z" updated_time="2014-06-29T20:28:36Z" scratch="false" x="24" y="44" clock="27" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="e2ff54dd-3a39-4448-bd5e-e7341fba3a09" type="shot_on_target" time="2014-06-29T20:28:36Z" updated_time="2014-06-29T20:28:43Z" scratch="false" x="24" y="44" clock="28" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="9c790142-96ae-4a2d-bcb9-a34acb7bc4c3">
+          <description>Greece's Georgios Karagounis is on target but unsuccessful.</description>
+        </fact>
+        <fact id="a1172bf8-3c26-4eb2-b8ba-7336c0272af5" type="throwin" time="2014-06-29T20:30:35Z" updated_time="2014-06-29T20:30:35Z" scratch="false" x="81" y="98" clock="29" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica close to the penalty box.</description>
+        </fact>
+        <fact id="f61fb1be-23b4-4eb8-b516-7293b8919ec9" type="offside" time="2014-06-29T20:29:47Z" updated_time="2014-06-29T20:29:59Z" scratch="false" x="19" y="79" clock="30" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="f83db53f-63a5-4e0a-a7b3-09a168172ebb">
+          <description>Greece's Andreas Samaris has run offside.</description>
+        </fact>
+        <fact id="f3cb69bc-402b-4a9a-8e72-4b298b894dae" type="corner_kick" time="2014-06-29T20:31:24Z" updated_time="2014-06-29T20:31:24Z" scratch="false" x="95" y="90" clock="31" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Benjamin Williams.</description>
+        </fact>
+        <fact id="275f3e17-1ed5-433a-96d5-8c948fd1f839" type="offside" time="2014-06-29T20:31:57Z" updated_time="2014-06-29T20:32:05Z" scratch="false" x="24" y="49" clock="32" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="703461c2-d9ce-4035-8324-441eec6f6765">
+          <description>Lazaros Christodoulopoulos of Greece is pulled up for offside.</description>
+        </fact>
+        <fact id="1406a609-d89d-4ecb-ae30-b84797fb51e3" type="throwin" time="2014-06-29T20:33:19Z" updated_time="2014-06-29T20:33:19Z" scratch="false" x="68" y="98" clock="32" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Greece's half?</description>
+        </fact>
+        <fact id="71bf72f1-aac4-48e0-bb20-9b334525662d" type="goal_kick" time="2014-06-29T20:34:17Z" updated_time="2014-06-29T20:34:17Z" scratch="false" x="95" y="50" clock="33" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Goal kick for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="195e3dfd-52f9-4a73-b118-b824333f8fa8" type="free_kick" time="2014-06-29T20:24:22Z" updated_time="2014-06-29T20:35:46Z" scratch="false" x="65" y="59" clock="35" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="9b5a1fe0-41b7-43cb-8e5a-9f07a7abe292" type="card" time="2014-06-29T20:35:55Z" updated_time="2014-06-29T20:35:55Z" scratch="false" clock="36" card="Y" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="f83db53f-63a5-4e0a-a7b3-09a168172ebb">
+          <description>Andreas Samaris (Greece) has received a yellow card from Benjamin Williams.</description>
+        </fact>
+        <fact id="65e69c3c-100a-4a58-9eca-965e4a8f2485" type="keeper_save" time="2014-06-29T20:37:36Z" updated_time="2014-06-29T20:37:36Z" scratch="false" x="5" y="92" clock="36" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="93d5a2a2-4419-4302-be40-a594bb3498da" type="shot_on_target" time="2014-06-29T20:37:36Z" updated_time="2014-06-29T20:37:36Z" scratch="false" x="5" y="92" clock="37" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="f3a2878e-6b60-4d73-8202-81a0d4685dcf">
+          <description>Dimitris Salpingidis of Greece smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="56e04610-5f4c-4ab4-bac8-9800d854fc2c" type="corner_kick" time="2014-06-29T20:38:04Z" updated_time="2014-06-29T20:38:04Z" scratch="false" x="5" y="90" clock="37" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Corner awarded to Greece.</description>
+        </fact>
+        <fact id="ca3950dd-3770-415b-b1b4-868d450cb34d" type="free_kick" time="2014-06-29T20:38:11Z" updated_time="2014-06-29T20:38:11Z" scratch="false" x="10" y="49" clock="37" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e56a0f58-da57-4eac-8b37-333ad5723c1e" type="throwin" time="2014-06-29T20:38:52Z" updated_time="2014-06-29T20:38:52Z" scratch="false" x="64" y="98" clock="38" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica to take a throw-in in Greece territory.</description>
+        </fact>
+        <fact id="db41d870-b4d2-4c55-8095-721931bb6c97" type="free_kick" time="2014-06-29T20:40:13Z" updated_time="2014-06-29T20:40:13Z" scratch="false" x="44" y="65" clock="39" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Free kick Greece.</description>
+        </fact>
+        <fact id="e1b41baf-3212-4256-9578-a60eee53ce0f" type="offside" time="2014-06-29T20:39:48Z" updated_time="2014-06-29T20:39:54Z" scratch="false" x="22" y="44" clock="40" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="f3a2878e-6b60-4d73-8202-81a0d4685dcf">
+          <description>Greece's Dimitris Salpingidis is whistled for offside at Arena Pernambuco.</description>
+        </fact>
+        <fact id="6a4b17b9-ab2a-45d5-bbdf-3b08835df237" type="goal_kick" time="2014-06-29T20:41:07Z" updated_time="2014-06-29T20:41:07Z" scratch="false" x="5" y="50" clock="40" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="2e7acaa3-fd84-47fa-b2fb-b574e92167f5" type="free_kick" time="2014-06-29T20:42:22Z" updated_time="2014-06-29T20:42:22Z" scratch="false" x="69" y="50" clock="41" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece in their own half.</description>
+        </fact>
+        <fact id="a7064692-0e26-4aa3-bbd7-362d18de2c0d" type="free_kick" time="2014-06-29T20:42:37Z" updated_time="2014-06-29T20:42:37Z" scratch="false" x="20" y="60" clock="41" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Costa Rica will need to be alert as they defend a dangerous free kick from Greece.</description>
+        </fact>
+        <fact id="37d5ff85-d2cf-49bf-93cd-906dbddcd237" type="card" time="2014-06-29T20:42:49Z" updated_time="2014-06-29T20:42:49Z" scratch="false" clock="42" card="Y" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be">
+          <description>Oscar Duarte (Costa Rica) gets a yellow card.</description>
+        </fact>
+        <fact id="581d5ba9-036a-4ada-a691-5a1591594a6e" type="free_kick" time="2014-06-29T20:44:14Z" updated_time="2014-06-29T20:44:14Z" scratch="false" x="22" y="41" clock="43" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d2a9d80e-d589-450b-9566-36f0e3a572d5" type="free_kick" time="2014-06-29T20:44:44Z" updated_time="2014-06-29T20:44:44Z" scratch="false" x="93" y="79" clock="44" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d0f54675-a9ff-44da-960e-e23c7c9883a8" type="shot_blocked" time="2014-06-29T20:31:52Z" updated_time="2014-06-29T20:46:17Z" scratch="false" x="23" y="40" clock="45" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Andreas Samaris (Greece) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="e1eab2cc-b7d2-4ac2-8a3a-a5d78c501972" type="throwin" time="2014-06-29T20:46:06Z" updated_time="2014-06-29T20:46:06Z" scratch="false" x="17" y="98" clock="45" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Can Greece capitalize from this throw-in deep inside Costa Rica's half?</description>
+        </fact>
+        <fact id="1011645b-39f5-4e45-965e-e8c8fdd8213e" type="offside" time="2014-06-29T20:46:23Z" updated_time="2014-06-29T20:46:30Z" scratch="false" x="17" y="98" clock="45" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="703461c2-d9ce-4035-8324-441eec6f6765">
+          <description>In Recife Greece's Lazaros Christodoulopoulos is caught offside.</description>
+        </fact>
+        <fact id="661b36c2-4353-4816-a983-bc440af65903" type="injury_time" time="2014-06-29T20:46:11Z" updated_time="2014-06-29T20:46:11Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="11b8c41e-6e62-4656-aa50-1153f8987c33" type="free_kick" time="2014-06-29T20:47:17Z" updated_time="2014-06-29T20:47:17Z" scratch="false" x="44" y="36" clock="45" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="0ffa93d8-087d-4b6d-84c0-3b3814686030" type="period_over" time="2014-06-29T20:47:48Z" updated_time="2014-06-29T20:47:48Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The first-half has ended.</description>
+        </fact>
+        <fact id="cbaef725-a468-41c7-b9c3-f05060ef538a" type="period_started" time="2014-06-29T20:47:48Z" updated_time="2014-06-29T20:47:48Z" scratch="false" period="H"/>
+        <fact id="12d612f8-e016-43ee-8331-9826a093899b" type="period_started" time="2014-06-29T21:05:11Z" updated_time="2014-06-29T21:05:11Z" scratch="false" period="P2"/>
+        <fact id="0146dc31-e913-4201-9b78-6177db303f79" type="free_kick" time="2014-06-29T21:06:12Z" updated_time="2014-06-29T21:06:12Z" scratch="false" x="24" y="87" clock="46" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece.</description>
+        </fact>
+        <fact id="133a37b5-5c1a-455c-bbd4-17a535779d05" type="keeper_save" time="2014-06-29T21:07:02Z" updated_time="2014-06-29T21:07:02Z" scratch="false" x="24" y="87" clock="46" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="93342dd9-6c81-4c0c-a622-20a0c87efcf1" type="shot_on_target" time="2014-06-29T21:07:01Z" updated_time="2014-06-29T21:07:08Z" scratch="false" x="24" y="87" clock="47" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="8b8f0f35-bb01-44ad-b939-2f4852b3c00f">
+          <description>Greece push upfield and Georgios Samaras gets his head to the ball. The attempt is cleared by an alert Costa Rica defence.</description>
+        </fact>
+        <fact id="92386843-9936-4555-8160-73743e127ac9" type="free_kick" time="2014-06-29T21:07:43Z" updated_time="2014-06-29T21:07:43Z" scratch="false" x="59" y="61" clock="47" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="23db8b0b-aaeb-46f5-8ce7-3c5ebe92053b" type="card" time="2014-06-29T21:07:53Z" updated_time="2014-06-29T21:07:53Z" scratch="false" clock="48" card="Y" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="5800d953-21da-4206-93dc-fe988b90531f">
+          <description>Yeltsin Tejeda (Costa Rica) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="55e5193f-0705-4669-b31e-af5bffbfc661" type="corner_kick" time="2014-06-29T21:09:18Z" updated_time="2014-06-29T21:09:18Z" scratch="false" x="5" y="90" clock="49" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece have been awarded a corner by Benjamin Williams.</description>
+        </fact>
+        <fact id="ac070f7d-2d51-43e8-a9ce-4dde8229e576" type="throwin" time="2014-06-29T21:10:04Z" updated_time="2014-06-29T21:10:04Z" scratch="false" x="54" y="99" clock="49" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="2c5de918-d61f-4f61-9982-ed5ab58f9462" type="shot_off_target" time="2014-06-29T21:09:28Z" updated_time="2014-06-29T21:09:28Z" scratch="false" x="5" y="90" clock="50" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="51c0ec41-0df8-4dca-b89d-d2a8886f3054">
+          <description>Greece surge into the attack at Arena Pernambuco but Sokratis’s header is off-target.</description>
+        </fact>
+        <fact id="2dc590cb-bb03-4116-8899-45e3ee4b19bc" type="goal_kick" time="2014-06-29T21:09:29Z" updated_time="2014-06-29T21:09:29Z" scratch="false" x="5" y="50" clock="50" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="8a0a6a24-c369-46cf-a797-97803bbea8f0" type="throwin" time="2014-06-29T21:10:24Z" updated_time="2014-06-29T21:10:24Z" scratch="false" x="35" y="98" clock="50" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="ea21af86-ee7e-4fd4-aa68-8d3a7971fd2b" type="throwin" time="2014-06-29T21:11:35Z" updated_time="2014-06-29T21:11:35Z" scratch="false" x="49" y="2" clock="51" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="ff0a22a8-0659-4a76-a977-7fc8ec548a01" type="goal" time="2014-06-29T21:12:12Z" updated_time="2014-06-29T21:12:12Z" scratch="false" x="84" y="54" clock="52" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="469d8bfc-dd46-4061-9c77-74cad92a7527" assist1_id="983a4ee1-70ea-4058-a1b7-432a255fe64b">
+          <description>Christian Bolanos with an assist there.</description>
+        </fact>
+        <fact id="34a89b46-0831-45b4-85ef-dcf969553c9b" type="shot_blocked" time="2014-06-29T21:14:12Z" updated_time="2014-06-29T21:14:12Z" scratch="false" x="81" y="45" clock="54" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Christian Bolanos (Costa Rica) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="f01a35da-fa0b-48e0-98c0-c7b43882e79e" type="throwin" time="2014-06-29T21:14:44Z" updated_time="2014-06-29T21:14:44Z" scratch="false" x="57" y="2" clock="54" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a Costa Rica throw-in in Greece's half.</description>
+        </fact>
+        <fact id="be0cda23-4022-4bf8-a40c-1a7ad0d8eff4" type="throwin" time="2014-06-29T21:15:03Z" updated_time="2014-06-29T21:15:03Z" scratch="false" x="67" y="1" clock="54" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Greece's half?</description>
+        </fact>
+        <fact id="b873cd0f-9c24-425c-9e79-b6ba0b8f50d6" type="free_kick" time="2014-06-29T21:15:27Z" updated_time="2014-06-29T21:15:27Z" scratch="false" x="59" y="34" clock="55" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece in their own half.</description>
+        </fact>
+        <fact id="60e83bca-d8e0-4687-af13-ad07549c9ec3" type="card" time="2014-06-29T21:15:54Z" updated_time="2014-06-29T21:16:08Z" scratch="false" clock="55" card="Y" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="b48bc2c1-71c8-4e53-817e-4928e104aef3">
+          <description>Oscar Granados (Costa Rica) is not on the pitch at the moment but still receives a yellow card.</description>
+        </fact>
+        <fact id="05841716-941a-4165-956c-f34776acb530" type="throwin" time="2014-06-29T21:16:29Z" updated_time="2014-06-29T21:16:29Z" scratch="false" x="89" y="98" clock="56" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Greece needs to be cautious. Costa Rica have an attacking throw-in.</description>
+        </fact>
+        <fact id="30a7d9e2-df3b-489d-88ff-a70dae9cf054" type="free_kick" time="2014-06-29T21:17:01Z" updated_time="2014-06-29T21:17:01Z" scratch="false" x="76" y="64" clock="56" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece in their own half.</description>
+        </fact>
+        <fact id="965e4f66-ba81-4f70-8152-3eed08ebdf70" type="substitution" time="2014-06-29T21:17:15Z" updated_time="2014-06-29T21:17:15Z" scratch="false" clock="57" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_out_id="f83db53f-63a5-4e0a-a7b3-09a168172ebb" player_in_id="dfaa676b-79fb-4a01-8f69-be375741a145">
+          <description>Kostas Mitroglou is on a sub for Andreas Samaris for Greece.</description>
+        </fact>
+        <fact id="e0179825-5a82-41fc-a4cb-09ac62484ee9" type="throwin" time="2014-06-29T21:17:49Z" updated_time="2014-06-29T21:17:49Z" scratch="false" x="18" y="1" clock="57" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="c41d0eec-ce1e-4a96-b811-8724d0eeb28e" type="throwin" time="2014-06-29T21:18:33Z" updated_time="2014-06-29T21:18:33Z" scratch="false" x="24" y="2" clock="58" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a Greece throw-in in Costa Rica's half.</description>
+        </fact>
+        <fact id="e7d8a705-00ee-41b2-a3f1-585f420584e0" type="goal_kick" time="2014-06-29T21:18:41Z" updated_time="2014-06-29T21:18:41Z" scratch="false" x="5" y="50" clock="58" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="08736eae-bc67-4fbb-bb25-3ca684a81d67" type="goal_kick" time="2014-06-29T21:19:55Z" updated_time="2014-06-29T21:19:55Z" scratch="false" x="5" y="50" clock="59" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="ac185f2c-0ff6-4aba-845d-a00f7986b9fb" type="free_kick" time="2014-06-29T21:21:29Z" updated_time="2014-06-29T21:21:29Z" scratch="false" x="79" y="19" clock="61" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c4ff037c-4213-47c0-acc5-fec4ba1076c3" type="offside" time="2014-06-29T21:21:14Z" updated_time="2014-06-29T21:22:12Z" scratch="false" x="6" y="46" clock="62" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="dfaa676b-79fb-4a01-8f69-be375741a145">
+          <description>Greece's Kostas Mitroglou has run offside.</description>
+        </fact>
+        <fact id="8487cfc1-ab4d-4eb5-8efe-fe95583b5c45" type="throwin" time="2014-06-29T21:22:19Z" updated_time="2014-06-29T21:22:19Z" scratch="false" x="76" y="1" clock="62" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece in their own half.</description>
+        </fact>
+        <fact id="46b22150-786d-4674-b12e-b8ab68a4ebae" type="throwin" time="2014-06-29T21:22:56Z" updated_time="2014-06-29T21:22:56Z" scratch="false" x="36" y="2" clock="62" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="7b924700-5fe6-490a-890f-3651658d218b" type="free_kick" time="2014-06-29T21:23:58Z" updated_time="2014-06-29T21:23:58Z" scratch="false" x="14" y="23" clock="63" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="dd885382-b536-4b76-9dfb-f81629712b72" type="throwin" time="2014-06-29T21:25:25Z" updated_time="2014-06-29T21:25:25Z" scratch="false" x="66" y="98" clock="65" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in Greece.</description>
+        </fact>
+        <fact id="993ddbd2-d152-4117-8b9b-e662e193e5a2" type="free_kick" time="2014-06-29T21:25:53Z" updated_time="2014-06-29T21:25:53Z" scratch="false" x="31" y="61" clock="65" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Free kick Greece.</description>
+        </fact>
+        <fact id="0ee76754-2599-4f1c-b076-01b48fbc18dc" type="substitution" time="2014-06-29T21:25:16Z" updated_time="2014-06-29T21:25:16Z" scratch="false" clock="66" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="5800d953-21da-4206-93dc-fe988b90531f" player_in_id="32b87aec-9053-4471-9c3c-f27eadf3b7d7">
+          <description>Costa Rica make their first substitution with Jose Cubero replacing Yeltsin Tejeda.</description>
+        </fact>
+        <fact id="a9bd8fd8-9b0d-4fde-b57f-2b17cee205d7" type="card" time="2014-06-29T21:26:24Z" updated_time="2014-06-29T21:26:24Z" scratch="false" clock="67" card="YR" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be">
+          <description>Oscar Duarte (Costa Rica) leaves the pitch after receiving two yellow cards.</description>
+        </fact>
+        <fact id="05b6b567-0bb8-4b59-8fe6-8ba09d149a64" type="shot_off_target" time="2014-06-29T21:27:07Z" updated_time="2014-06-29T21:27:07Z" scratch="false" x="31" y="61" clock="67" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="8b8f0f35-bb01-44ad-b939-2f4852b3c00f">
+          <description>Greece attack but Georgios Samaras's header doesn't find the target.</description>
+        </fact>
+        <fact id="0e257a9b-d5a6-47eb-8fba-a7343a3d8be1" type="goal_kick" time="2014-06-29T21:27:07Z" updated_time="2014-06-29T21:27:07Z" scratch="false" x="5" y="50" clock="67" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="da502662-2f0d-43de-87b8-e4580a0d5176" type="free_kick" time="2014-06-29T21:27:44Z" updated_time="2014-06-29T21:27:44Z" scratch="false" x="59" y="21" clock="67" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="79ab38fc-5c12-4747-951e-2fc2a58c07dc" type="substitution" time="2014-06-29T21:28:27Z" updated_time="2014-06-29T21:28:27Z" scratch="false" clock="69" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_out_id="f3a2878e-6b60-4d73-8202-81a0d4685dcf" player_in_id="8f7c2ed8-d5bf-4a3d-b989-2ab4b2db0b42">
+          <description>Fernando Santos (Greece) is making a second substitution, with Fanis Gekas replacing Dimitris Salpingidis.</description>
+        </fact>
+        <fact id="c4171a1e-8d00-43bd-ae42-7eb3f404dd0b" type="free_kick" time="2014-06-29T21:29:54Z" updated_time="2014-06-29T21:29:54Z" scratch="false" x="57" y="32" clock="69" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d41b7108-cb1c-410b-af1a-af570717f3a7" type="shot_off_target" time="2014-06-29T21:29:20Z" updated_time="2014-06-29T21:29:20Z" scratch="false" x="18" y="83" clock="70" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="703461c2-d9ce-4035-8324-441eec6f6765">
+          <description>In Recife, Lazaros Christodoulopoulos (Greece) misses the target with a header.</description>
+        </fact>
+        <fact id="1b80a110-019a-4ee6-b4a5-3d1f1204a487" type="goal_kick" time="2014-06-29T21:29:20Z" updated_time="2014-06-29T21:29:20Z" scratch="false" x="5" y="50" clock="70" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="9230fa75-7a52-4f1f-9cbe-cd9bab78a420" type="card" time="2014-06-29T21:30:03Z" updated_time="2014-06-29T21:30:03Z" scratch="false" clock="70" card="Y" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="469d8bfc-dd46-4061-9c77-74cad92a7527">
+          <description>Bryan Ruiz (Costa Rica) has received a first yellow card.</description>
+        </fact>
+        <fact id="1a2a5eeb-4cff-488b-b0f0-15194c4d9df6" type="free_kick" time="2014-06-29T21:31:25Z" updated_time="2014-06-29T21:31:25Z" scratch="false" x="39" y="39" clock="71" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece.</description>
+        </fact>
+        <fact id="cb760efd-e953-4c1b-85e7-21610d8091d1" type="free_kick" time="2014-06-29T21:32:06Z" updated_time="2014-06-29T21:32:06Z" scratch="false" x="55" y="45" clock="71" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="e7e3e2c3-da0b-4206-b0a0-da397fa999ab" type="card" time="2014-06-29T21:32:23Z" updated_time="2014-06-29T21:32:23Z" scratch="false" clock="73" card="Y" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="c1b5e100-c916-4f24-8898-b30b9b406b28">
+          <description>Greece's Constantinos Manolas has been booked in Recife.</description>
+        </fact>
+        <fact id="d08789fa-ad8e-4f2e-b8a6-91ebdd1e54ce" type="free_kick" time="2014-06-29T21:33:49Z" updated_time="2014-06-29T21:33:49Z" scratch="false" x="77" y="64" clock="73" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece in their own half.</description>
+        </fact>
+        <fact id="79315412-2242-4ea0-b7dd-c924cc7d1913" type="shot_off_target" time="2014-06-29T21:34:24Z" updated_time="2014-06-29T21:34:24Z" scratch="false" x="22" y="55" clock="75" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="8f7c2ed8-d5bf-4a3d-b989-2ab4b2db0b42">
+          <description>Greece are pushing forward but Fanis Gekas's finish is wide of the goal.</description>
+        </fact>
+        <fact id="ec792cb4-0b66-4434-8b7f-7cf75a0c94fd" type="goal_kick" time="2014-06-29T21:34:24Z" updated_time="2014-06-29T21:34:24Z" scratch="false" x="5" y="50" clock="75" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Goal kick for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="451a9627-700d-4ff4-ac72-b67d52a4ca5c" type="throwin" time="2014-06-29T21:35:46Z" updated_time="2014-06-29T21:35:46Z" scratch="false" x="53" y="1" clock="75" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="77fba781-1547-4007-aa59-8a087da07461" type="substitution" time="2014-06-29T21:36:01Z" updated_time="2014-06-29T21:36:01Z" scratch="false" clock="76" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="be9179f6-123e-41ce-8630-0afa9401faf1" player_in_id="259741ad-160b-46e3-a38d-ad6cb679ba8f">
+          <description>Jorge Luis Pinto is making the team's second substitution at Arena Pernambuco with Johnny Acosta replacing Cristian Gamboa.</description>
+        </fact>
+        <fact id="ded2cea8-36e2-454e-a79e-2e1ec6b79d57" type="throwin" time="2014-06-29T21:37:01Z" updated_time="2014-06-29T21:37:01Z" scratch="false" x="13" y="1" clock="76" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="972c7dd0-f513-4ad1-8d37-208c665cf848" type="substitution" time="2014-06-29T21:37:15Z" updated_time="2014-06-29T21:37:15Z" scratch="false" clock="77" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_out_id="326cd2ba-9215-403b-a075-cbeb919bf57e" player_in_id="991a779f-2536-45fe-8235-9c2bdeec6e64">
+          <description>Kostas Katsouranis is replacing Giannis Maniatis for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="cea77df0-04b4-4ae0-98c9-a0278b49e0a5" type="free_kick" time="2014-06-29T21:38:35Z" updated_time="2014-06-29T21:38:35Z" scratch="false" x="25" y="53" clock="78" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Free kick Greece.</description>
+        </fact>
+        <fact id="c3b6e2c9-671b-4a0f-bd87-9294b31d09c7" type="goal_kick" time="2014-06-29T21:39:48Z" updated_time="2014-06-29T21:39:48Z" scratch="false" x="5" y="50" clock="79" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="9ff12f0e-4c39-4d59-9686-e5117b5dba9e" type="shot_off_target" time="2014-06-29T21:39:43Z" updated_time="2014-06-29T21:39:43Z" scratch="false" x="25" y="53" clock="80" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="9c790142-96ae-4a2d-bcb9-a34acb7bc4c3">
+          <description>In Recife Greece attack through Georgios Karagounis. The finish is off target, however.</description>
+        </fact>
+        <fact id="95c06cb2-baf1-49bb-a889-33d89313b21d" type="free_kick" time="2014-06-29T21:40:50Z" updated_time="2014-06-29T21:40:50Z" scratch="false" x="28" y="62" clock="80" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece.</description>
+        </fact>
+        <fact id="a9f3db75-5656-49b9-897f-85e665e2f2d9" type="shot_off_target" time="2014-06-29T21:41:41Z" updated_time="2014-06-29T21:41:41Z" scratch="false" x="14" y="45" clock="82" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="c1b5e100-c916-4f24-8898-b30b9b406b28">
+          <description>Constantinos Manolas (Greece) wins the ball in the air but heads wide.</description>
+        </fact>
+        <fact id="20079e03-2afc-402d-9777-09fdd14c78f9" type="goal_kick" time="2014-06-29T21:41:41Z" updated_time="2014-06-29T21:41:41Z" scratch="false" x="5" y="50" clock="82" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Goal kick for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="f0f67e67-c174-47cd-814d-506ca1dc4583" type="goal_kick" time="2014-06-29T21:42:43Z" updated_time="2014-06-29T21:42:43Z" scratch="false" x="5" y="50" clock="82" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="baa8dab5-c5f8-4dfe-a522-290dcf359448" type="substitution" time="2014-06-29T21:43:12Z" updated_time="2014-06-29T21:43:12Z" scratch="false" clock="83" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="983a4ee1-70ea-4058-a1b7-432a255fe64b" player_in_id="589a2b5d-4c99-4fa3-b87b-e5c0d1105e69">
+          <description>Randall Brenes is on a sub for Christian Bolanos for Costa Rica.</description>
+        </fact>
+        <fact id="ed2a9a13-9108-4976-9e53-acd3e3e4e83f" type="free_kick" time="2014-06-29T21:43:42Z" updated_time="2014-06-29T21:43:42Z" scratch="false" x="82" y="2" clock="83" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="13c9b487-e539-4cc6-8f68-412e06115f79" type="throwin" time="2014-06-29T21:45:04Z" updated_time="2014-06-29T21:45:04Z" scratch="false" x="34" y="99" clock="84" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica in their own half.</description>
+        </fact>
+        <fact id="1c4085e8-2561-4390-851c-1e80d4831ef6" type="corner_kick" time="2014-06-29T21:44:29Z" updated_time="2014-06-29T21:44:29Z" scratch="false" x="5" y="5" clock="85" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Corner awarded to Greece.</description>
+        </fact>
+        <fact id="67c43cce-20f1-4b6d-bdf1-1ba00d11672d" type="throwin" time="2014-06-29T21:45:27Z" updated_time="2014-06-29T21:45:27Z" scratch="false" x="53" y="100" clock="85" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Greece's half?</description>
+        </fact>
+        <fact id="a4b08995-6840-4ed1-93e0-7819db135bb9" type="free_kick" time="2014-06-29T21:46:19Z" updated_time="2014-06-29T21:46:19Z" scratch="false" x="86" y="21" clock="86" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick in a good position for Costa Rica!</description>
+        </fact>
+        <fact id="78660e04-232f-483b-ae8f-5ed20329ad50" type="keeper_save" time="2014-06-29T21:47:19Z" updated_time="2014-06-29T21:47:19Z" scratch="false" x="5" y="23" clock="87" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="e0525bd5-cad6-4b32-ad99-1dd665c48b6e" type="throwin" time="2014-06-29T21:47:43Z" updated_time="2014-06-29T21:47:43Z" scratch="false" x="63" y="99" clock="87" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica to take a throw-in in Greece territory.</description>
+        </fact>
+        <fact id="f834a8d2-c7a3-4e69-88df-7c7d8650446f" type="goal_kick" time="2014-06-29T21:44:09Z" updated_time="2014-06-29T21:49:08Z" scratch="false" x="5" y="50" clock="88" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="54fff3d6-0ea4-42ef-b412-802f9e26594d" type="shot_on_target" time="2014-06-29T21:47:19Z" updated_time="2014-06-29T21:47:19Z" scratch="false" x="5" y="23" clock="88" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce"/>
+        <fact id="018a999b-edca-43f0-947a-a34aeaf62c0e" type="throwin" time="2014-06-29T21:48:20Z" updated_time="2014-06-29T21:48:20Z" scratch="false" x="83" y="1" clock="88" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece in their own half.</description>
+        </fact>
+        <fact id="e8d5f4f2-baba-4a47-8087-d833bf880489" type="throwin" time="2014-06-29T21:50:02Z" updated_time="2014-06-29T21:50:02Z" scratch="false" x="30" y="2" clock="89" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece to take a throw-in in Costa Rica territory.</description>
+        </fact>
+        <fact id="900267b3-9916-42e0-8957-46671229fc1e" type="card" time="2014-06-29T21:49:34Z" updated_time="2014-06-29T21:49:34Z" scratch="false" clock="90" card="Y" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="424323a9-2b66-4293-b2d9-ce3021245061">
+          <description>Keylor Navas for Costa Rica has been booked by Benjamin Williams and receives a first yellow card.</description>
+        </fact>
+        <fact id="91206c71-d95d-4cca-b272-d87897125e00" type="shot_on_target" time="2014-06-29T21:50:33Z" updated_time="2014-06-29T21:59:21Z" scratch="false" x="10" y="34" clock="90" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="8f7c2ed8-d5bf-4a3d-b989-2ab4b2db0b42">
+          <description>Fanis Gekas for Greece drives towards goal at Arena Pernambuco. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="1c07fccc-57ba-4202-9005-bf89ae37776c" type="keeper_save" time="2014-06-29T21:50:33Z" updated_time="2014-06-29T21:50:33Z" scratch="false" x="10" y="34" clock="90" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="7a3594be-3ab6-4c31-ada3-533e7cbce39a" type="goal" time="2014-06-29T21:50:53Z" updated_time="2014-06-29T22:02:27Z" scratch="false" clock="90" injury_time="1" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="51c0ec41-0df8-4dca-b89d-d2a8886f3054">
+          <description>Sokratis gets an equalizer for Greece. The score is now 1-1.</description>
+        </fact>
+        <fact id="3acab948-b312-49d2-9dda-530d1394462f" type="injury_time" time="2014-06-29T21:52:03Z" updated_time="2014-06-29T21:52:03Z" scratch="false" clock="90" injury_time="5" period="P2">
+          <description>The second half is prolonged by 5 minutes of added time.</description>
+        </fact>
+        <fact id="936a870d-66c0-48ca-acea-e00d5c113621" type="shot_on_target" time="2014-06-29T21:53:17Z" updated_time="2014-06-29T21:53:17Z" scratch="false" x="15" y="53" clock="90" injury_time="3" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="dfaa676b-79fb-4a01-8f69-be375741a145">
+          <description>Greece push forward at Arena Pernambuco and Kostas Mitroglou gets in a great header. The attempt is cleared by the Costa Rica defence.</description>
+        </fact>
+        <fact id="4ab74927-16a3-4316-a68b-a3a54fd73d02" type="keeper_save" time="2014-06-29T21:53:17Z" updated_time="2014-06-29T21:53:17Z" scratch="false" x="15" y="53" clock="90" injury_time="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="2eba3de2-5cfa-403e-8f7e-09522181ef64" type="injury" time="2014-06-29T21:53:40Z" updated_time="2014-06-29T21:53:40Z" scratch="false" x="3" y="92" clock="90" injury_time="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="424323a9-2b66-4293-b2d9-ce3021245061">
+          <description>Attention is being given to Costa Rica’s Keylor Navas and play has been suspended briefly.</description>
+        </fact>
+        <fact id="97d821b5-df67-4774-a76d-861b6aa8d1eb" type="injury_return" time="2014-06-29T21:55:02Z" updated_time="2014-06-29T22:00:06Z" scratch="false" clock="90" injury_time="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="424323a9-2b66-4293-b2d9-ce3021245061">
+          <description>Costa Rica’s Keylor Navas is on his feet again at Arena Pernambuco.</description>
+        </fact>
+        <fact id="577efc8e-133e-4fad-b06a-c04585e922f0" type="game_resumed" time="2014-06-29T21:54:40Z" updated_time="2014-06-29T22:00:45Z" scratch="false" clock="90" injury_time="4">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="8d8ac9b1-c33c-4af8-8bd3-bd86e8dd3ca3" type="corner_kick" time="2014-06-29T21:54:47Z" updated_time="2014-06-29T21:55:10Z" scratch="false" x="5" y="90" clock="90" injury_time="4" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece have been awarded a corner by Benjamin Williams.</description>
+        </fact>
+        <fact id="af144a97-ba0e-47d5-8b9d-e83fd9bb1218" type="free_kick" time="2014-06-29T21:54:55Z" updated_time="2014-06-29T21:54:55Z" scratch="false" x="20" y="10" clock="90" injury_time="4" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="7cfc4792-d797-4bfb-b96a-2b69403a0f85" type="goal_kick" time="2014-06-29T21:55:42Z" updated_time="2014-06-29T21:55:42Z" scratch="false" x="95" y="50" clock="90" injury_time="5" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Goal kick for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="e367f550-d6f3-4f4a-af9c-6ea06954cf3d" type="period_over" time="2014-06-29T21:55:49Z" updated_time="2014-06-29T21:55:49Z" scratch="false" home_score="1" away_score="1" period="P2">
+          <description>The score after normal time is 1-1.</description>
+        </fact>
+        <fact id="b05b4764-63c3-478f-923e-0345e04161ce" type="period_started" time="2014-06-29T21:55:49Z" updated_time="2014-06-29T21:55:49Z" scratch="false" period="PX1"/>
+        <fact id="87d61baf-ae4e-43ef-a4fd-a97953f31ab7" type="period_started" time="2014-06-29T22:04:09Z" updated_time="2014-06-29T22:04:09Z" scratch="false" period="X1">
+          <description>The first extra period is now underway.</description>
+        </fact>
+        <fact id="43da4abb-1923-4660-bc73-19679f86c970" type="period_started" time="2014-06-29T22:04:09Z" updated_time="2014-06-29T22:04:09Z" scratch="false" period="X1"/>
+        <fact id="844eb1f3-ff05-4b2a-a1ac-e2a03d198ea7" type="free_kick" time="2014-06-29T22:05:13Z" updated_time="2014-06-29T22:05:13Z" scratch="false" x="40" y="55" clock="91" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece.</description>
+        </fact>
+        <fact id="545f7ae6-bb5a-412c-89a5-7247f27eb2d3" type="offside" time="2014-06-29T22:05:38Z" updated_time="2014-06-29T22:05:44Z" scratch="false" x="25" y="79" clock="92" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="dfaa676b-79fb-4a01-8f69-be375741a145">
+          <description>Benjamin Williams blows against Greece's Kostas Mitroglou for offside.</description>
+        </fact>
+        <fact id="f923b05f-a4aa-41bc-a676-45acb1626c89" type="throwin" time="2014-06-29T22:06:14Z" updated_time="2014-06-29T22:06:14Z" scratch="false" x="67" y="2" clock="92" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Ball safe as Greece is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="c21ffcd3-8230-44bb-a5aa-d987efda74f4" type="shot_off_target" time="2014-06-29T22:07:06Z" updated_time="2014-06-29T22:07:15Z" scratch="false" x="33" y="14" clock="93" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="703461c2-d9ce-4035-8324-441eec6f6765">
+          <description>Greece's Lazaros Christodoulopoulos gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="f9ab3dc3-a426-4a8d-9b97-7916e5482386" type="goal_kick" time="2014-06-29T22:07:06Z" updated_time="2014-06-29T22:07:06Z" scratch="false" x="5" y="50" clock="93" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="25707942-572b-4ef6-b550-92904b530437" type="throwin" time="2014-06-29T22:07:59Z" updated_time="2014-06-29T22:07:59Z" scratch="false" x="33" y="2" clock="93" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Can Greece get the ball into an attacking position from this throw-in in Costa Rica's half?</description>
+        </fact>
+        <fact id="dca61f4c-7a78-417a-bbf5-2bcd8d217d05" type="shot_off_target" time="2014-06-29T22:08:15Z" updated_time="2014-06-29T22:08:22Z" scratch="false" x="16" y="29" clock="95" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="8f7c2ed8-d5bf-4a3d-b989-2ab4b2db0b42">
+          <description>Fanis Gekas (Greece) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="249b5cce-4e7e-4b65-a942-4bd225b19b1f" type="goal_kick" time="2014-06-29T22:08:16Z" updated_time="2014-06-29T22:08:16Z" scratch="false" x="5" y="50" clock="95" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="8cdc3539-d089-42db-a76b-e183a692018f" type="shot_blocked" time="2014-06-29T22:09:18Z" updated_time="2014-06-29T22:09:18Z" scratch="false" x="23" y="49" clock="96" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>In Recife, Georgios Karagounis of Greece is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="57f3049e-67d6-4d5a-923b-c87bae3fe195" type="throwin" time="2014-06-29T22:10:12Z" updated_time="2014-06-29T22:10:12Z" scratch="false" x="60" y="98" clock="96" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a Costa Rica throw-in in Greece's half.</description>
+        </fact>
+        <fact id="11405777-8a30-4cf3-ba7a-66a380b7159f" type="throwin" time="2014-06-29T22:10:58Z" updated_time="2014-06-29T22:10:58Z" scratch="false" x="73" y="99" clock="96" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="f2d8e5fe-7144-419c-b38d-c80e30a90dc4" type="free_kick" time="2014-06-29T22:12:02Z" updated_time="2014-06-29T22:12:02Z" scratch="false" x="12" y="31" clock="97" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="08c81891-0cf2-4745-b488-913f7a301ded" type="corner_kick" time="2014-06-29T22:11:55Z" updated_time="2014-06-29T22:11:55Z" scratch="false" x="5" y="90" clock="98" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece have been awarded a corner by Benjamin Williams.</description>
+        </fact>
+        <fact id="eb8695fb-e4f9-409d-a388-bfc837127a65" type="free_kick" time="2014-06-29T22:13:07Z" updated_time="2014-06-29T22:13:07Z" scratch="false" x="25" y="83" clock="98" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Free kick Greece.</description>
+        </fact>
+        <fact id="d1da005b-53fb-4f94-a424-39a9511c1d56" type="shot_blocked" time="2014-06-29T22:14:03Z" updated_time="2014-06-29T22:14:34Z" scratch="false" x="2" y="94" clock="100" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Important block from the Costa Rica defence as Kostas Katsouranis fires in a strike for Greece.</description>
+        </fact>
+        <fact id="2f8d4398-b4f7-427d-96a4-b91706aa3e95" type="corner_kick" time="2014-06-29T22:14:17Z" updated_time="2014-06-29T22:14:17Z" scratch="false" x="5" y="90" clock="100" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Corner awarded to Greece.</description>
+        </fact>
+        <fact id="9655591b-4448-4e10-a084-746d2f40ac06" type="throwin" time="2014-06-29T22:14:31Z" updated_time="2014-06-29T22:14:31Z" scratch="false" x="53" y="1" clock="100" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="6cf42f06-1d46-4946-958f-59149c3f3abb" type="throwin" time="2014-06-29T22:15:27Z" updated_time="2014-06-29T22:15:27Z" scratch="false" x="51" y="99" clock="101" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Greece's half?</description>
+        </fact>
+        <fact id="bb07e3be-a1bb-4062-9f2a-e2296243a612" type="throwin" time="2014-06-29T22:15:51Z" updated_time="2014-06-29T22:15:51Z" scratch="false" x="68" y="98" clock="101" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in Greece.</description>
+        </fact>
+        <fact id="251031d0-ef1a-4798-bcf2-edcbb0e9bc9c" type="free_kick" time="2014-06-29T22:16:28Z" updated_time="2014-06-29T22:16:28Z" scratch="false" x="16" y="49" clock="102" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="93fae0cf-2be6-4fd5-83cc-05160d1795ae" type="goal_kick" time="2014-06-29T22:17:05Z" updated_time="2014-06-29T22:17:05Z" scratch="false" x="95" y="50" clock="102" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams awards Greece a goal kick.</description>
+        </fact>
+        <fact id="8d469ad1-b102-4c2b-ba8d-34fa7d55f3b2" type="free_kick" time="2014-06-29T22:17:50Z" updated_time="2014-06-29T22:17:50Z" scratch="false" x="81" y="84" clock="103" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="045db3a5-fbb0-4ed7-a769-3f2e27827ab1" type="offside" time="2014-06-29T22:19:12Z" updated_time="2014-06-29T22:20:15Z" scratch="false" x="21" y="77" clock="105" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="8f7c2ed8-d5bf-4a3d-b989-2ab4b2db0b42">
+          <description>Fanis Gekas of Greece is pulled up for offside.</description>
+        </fact>
+        <fact id="e7c6f054-7d1b-4432-87fb-bd64354d2e50" type="period_over" time="2014-06-29T22:19:25Z" updated_time="2014-06-29T22:19:25Z" scratch="false" home_score="1" away_score="1" period="X1">
+          <description>It's 1-1 at the end of the first period.</description>
+        </fact>
+        <fact id="ee39fef5-ef7a-48f0-883b-cc8769fd8f2c" type="period_started" time="2014-06-29T22:19:25Z" updated_time="2014-06-29T22:19:25Z" scratch="false" period="PX2"/>
+        <fact id="fe176771-0e8a-43db-a3d2-7b09b88c9072" type="period_started" time="2014-06-29T22:21:56Z" updated_time="2014-06-29T22:21:56Z" scratch="false" period="X2">
+          <description>The second extra period is just kicking-off.</description>
+        </fact>
+        <fact id="a27e79a1-7416-4a86-8184-d40a18f60580" type="period_started" time="2014-06-29T22:21:56Z" updated_time="2014-06-29T22:21:56Z" scratch="false" period="X2"/>
+        <fact id="821a2dc9-3cf5-4331-945f-9f64c17c58c7" type="shot_off_target" time="2014-06-29T22:22:19Z" updated_time="2014-06-29T22:22:19Z" scratch="false" x="78" y="59" clock="106" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="589a2b5d-4c99-4fa3-b87b-e5c0d1105e69">
+          <description>Randall Brenes for Costa Rica gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="ce806a45-da79-4f16-a58c-9f051eb3cae5" type="goal_kick" time="2014-06-29T22:22:19Z" updated_time="2014-06-29T22:22:19Z" scratch="false" x="95" y="50" clock="106" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams awards Greece a goal kick.</description>
+        </fact>
+        <fact id="7c626b4e-561a-4a46-9be2-76883a43735d" type="throwin" time="2014-06-29T22:23:14Z" updated_time="2014-06-29T22:23:14Z" scratch="false" x="49" y="2" clock="106" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a Greece throw-in in Costa Rica's half.</description>
+        </fact>
+        <fact id="5a8855d7-90e4-4b1d-af38-273afb2c4254" type="throwin" time="2014-06-29T22:23:45Z" updated_time="2014-06-29T22:23:45Z" scratch="false" x="13" y="99" clock="106" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece close to the penalty box.</description>
+        </fact>
+        <fact id="069c0443-3486-485f-84c3-5b0a0c34cacb" type="injury" time="2014-06-29T22:24:21Z" updated_time="2014-06-29T22:24:21Z" scratch="false" x="13" y="99" clock="108" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="424323a9-2b66-4293-b2d9-ce3021245061">
+          <description>Play has been interrupted briefly in Recife to check on Keylor Navas, who is grimacing with pain.</description>
+        </fact>
+        <fact id="cf072014-fcaf-4419-b09f-10651b44bf6a" type="injury_return" time="2014-06-29T22:25:04Z" updated_time="2014-06-29T22:25:04Z" scratch="false" clock="108" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="424323a9-2b66-4293-b2d9-ce3021245061">
+          <description>Keylor Navas is back on the pitch.</description>
+        </fact>
+        <fact id="40536945-2cbb-4d94-b2a1-95fad6286131" type="game_resumed" time="2014-06-29T22:25:06Z" updated_time="2014-06-29T22:25:06Z" scratch="false" clock="108">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="4aa4ea9b-08b7-4796-996f-983b21076ae0" type="goal_kick" time="2014-06-29T22:25:09Z" updated_time="2014-06-29T22:25:09Z" scratch="false" x="5" y="50" clock="108" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Goal kick for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="ef55f471-5ad6-49f5-8229-8b84594e213b" type="free_kick" time="2014-06-29T22:25:45Z" updated_time="2014-06-29T22:26:14Z" scratch="false" x="77" y="82" clock="109" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Free kick Costa Rica.</description>
+        </fact>
+        <fact id="1a8eeb3b-4b7c-4467-ad4b-7d29e04284c4" type="shot_off_target" time="2014-06-29T22:26:25Z" updated_time="2014-06-29T22:26:34Z" scratch="false" x="77" y="82" clock="110" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="3afc4a85-ad85-4631-950d-2309c3a1acd8">
+          <description>Costa Rica's Giancarlo Gonzalez breaks free at Arena Pernambuco. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="33b54229-b573-487c-964f-a669db22ae3a" type="goal_kick" time="2014-06-29T22:26:25Z" updated_time="2014-06-29T22:26:25Z" scratch="false" x="95" y="50" clock="110" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece have a goal kick.</description>
+        </fact>
+        <fact id="7fbc9ebd-1cb1-49dc-a0cf-7e58e1491c7c" type="free_kick" time="2014-06-29T22:27:00Z" updated_time="2014-06-29T22:27:00Z" scratch="false" x="56" y="49" clock="110" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e58c6af1-027c-40c7-aa7c-d361fe6c2a21" type="goal_kick" time="2014-06-29T22:27:18Z" updated_time="2014-06-29T22:27:18Z" scratch="false" x="5" y="50" clock="110" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="88bc01da-701c-4efe-9ba8-d1a5a054f31f" type="corner_kick" time="2014-06-29T22:28:52Z" updated_time="2014-06-29T22:28:52Z" scratch="false" x="95" y="90" clock="112" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Benjamin Williams.</description>
+        </fact>
+        <fact id="9ceedc10-7b1a-4dc2-bc0f-ed9b14338e32" type="keeper_save" time="2014-06-29T22:29:14Z" updated_time="2014-06-29T22:29:14Z" scratch="false" x="22" y="45" clock="112" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="e8a8b79f-da57-4c18-9221-2161a317f297" type="keeper_save" time="2014-06-29T22:29:48Z" updated_time="2014-06-29T22:29:48Z" scratch="false" x="22" y="58" clock="112" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="afab3bb1-4c77-4c34-ba92-963d190ceee3" type="shot_on_target" time="2014-06-29T22:29:14Z" updated_time="2014-06-29T22:29:22Z" scratch="false" x="22" y="45" clock="113" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="703461c2-d9ce-4035-8324-441eec6f6765">
+          <description>In Recife Greece drive forward through Lazaros Christodoulopoulos. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="fe26b359-75e3-4b92-acc7-673cad73609f" type="shot_on_target" time="2014-06-29T22:29:47Z" updated_time="2014-06-29T22:30:03Z" scratch="false" x="22" y="58" clock="113" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="9c790142-96ae-4a2d-bcb9-a34acb7bc4c3">
+          <description>Greece drive forward and Georgios Karagounis gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="d46b28fd-8aab-4fe3-8d3b-8e860bceb7c6" type="throwin" time="2014-06-29T22:30:26Z" updated_time="2014-06-29T22:30:26Z" scratch="false" x="19" y="98" clock="113" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="1d44d7ac-c1d0-45e2-9d47-5d12dd2e3257" type="throwin" time="2014-06-29T22:31:06Z" updated_time="2014-06-29T22:31:06Z" scratch="false" x="33" y="99" clock="114" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica in their own half.</description>
+        </fact>
+        <fact id="7664bd02-50c2-4717-b12e-ca32bab7be08" type="free_kick" time="2014-06-29T22:31:28Z" updated_time="2014-06-29T22:31:28Z" scratch="false" x="59" y="53" clock="114" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Benjamin Williams signals a free kick to Greece in their own half.</description>
+        </fact>
+        <fact id="86e5ce41-d9e5-463f-83da-04b32af81750" type="corner_kick" time="2014-06-29T22:33:18Z" updated_time="2014-06-29T22:33:18Z" scratch="false" x="5" y="90" clock="117" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Corner awarded to Greece.</description>
+        </fact>
+        <fact id="94f03040-cf38-4895-bb23-96dcbb3ea469" type="offside" time="2014-06-29T22:33:40Z" updated_time="2014-06-29T22:33:47Z" scratch="false" x="5" y="90" clock="117" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="4dd609c6-fb69-4b19-97e3-5aba922c84ae">
+          <description>Jose Holebas for Greece is whistled offside.</description>
+        </fact>
+        <fact id="d5faa09b-825f-4119-902d-3ce6cc682c13" type="shot_off_target" time="2014-06-29T22:35:10Z" updated_time="2014-06-29T22:35:10Z" scratch="false" x="21" y="67" clock="119" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="dfaa676b-79fb-4a01-8f69-be375741a145">
+          <description>Greece are coming forward and Kostas Mitroglou gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="35fcb215-ce8c-46a2-95ff-013638b52895" type="goal_kick" time="2014-06-29T22:35:10Z" updated_time="2014-06-29T22:35:10Z" scratch="false" x="5" y="50" clock="119" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="e634ee60-56f1-478d-bac3-c6f393bef931" type="corner_kick" time="2014-06-29T22:36:41Z" updated_time="2014-06-29T22:36:41Z" scratch="false" x="5" y="90" clock="120" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Corner awarded to Greece.</description>
+        </fact>
+        <fact id="3be67f7f-2fc5-4ab3-af93-95cdd1290ba3" type="injury_time" time="2014-06-29T22:37:21Z" updated_time="2014-06-29T22:37:21Z" scratch="false" clock="120" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="49cab0e6-d72e-4208-978a-90f6ed1bd706" type="shot_on_target" time="2014-06-29T22:37:57Z" updated_time="2014-06-29T22:37:57Z" scratch="false" x="23" y="27" clock="120" injury_time="1" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce" player_id="dfaa676b-79fb-4a01-8f69-be375741a145">
+          <description>Kostas Mitroglou gets his shot on target but fails to score for Greece.</description>
+        </fact>
+        <fact id="98ed2c59-4b41-4556-9800-c518816f2d58" type="keeper_save" time="2014-06-29T22:37:57Z" updated_time="2014-06-29T22:37:57Z" scratch="false" x="23" y="27" clock="120" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="8c32a119-f3c9-4adc-9fd4-1a561533e6f7" type="corner_kick" time="2014-06-29T22:38:08Z" updated_time="2014-06-29T22:38:08Z" scratch="false" x="5" y="90" clock="120" injury_time="1" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Greece have been awarded a corner by Benjamin Williams.</description>
+        </fact>
+        <fact id="05664f37-0d40-4ffc-b325-2707481f3118" type="free_kick" time="2014-06-29T22:38:15Z" updated_time="2014-06-29T22:38:15Z" scratch="false" x="25" y="76" clock="120" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Benjamin Williams signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="476fdc79-3348-4584-9a3f-3bcb3ca63b5c" type="throwin" time="2014-06-29T22:38:50Z" updated_time="2014-06-29T22:39:47Z" scratch="true" clock="120" injury_time="1" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce">
+          <description>Throw-in for Greece at Arena Pernambuco.</description>
+        </fact>
+        <fact id="e65de805-32fa-4a36-a1b4-f87a566a73ab" type="period_over" time="2014-06-29T22:39:01Z" updated_time="2014-06-29T22:39:01Z" scratch="false" home_score="1" away_score="1" period="X2">
+          <description>Extra-time is over. The score is 1-1.</description>
+        </fact>
+        <fact id="9a3e67de-7e24-4359-9739-5cad8cf9ecd4" type="period_started" time="2014-06-29T22:39:01Z" updated_time="2014-06-29T22:39:01Z" scratch="false" period="PP"/>
+        <fact id="a982df42-375c-48db-8cff-b75f1f04a848" type="period_started" time="2014-06-29T22:47:34Z" updated_time="2014-06-29T22:47:34Z" scratch="false" period="P">
+          <description>The match goes to penalties!</description>
+        </fact>
+        <fact id="2888e69a-5340-4520-ab3f-3758d79b42fe" type="period_started" time="2014-06-29T22:47:34Z" updated_time="2014-06-29T22:47:34Z" scratch="false" period="P"/>
+        <fact id="72b318ff-6871-40f0-be8d-ecc86802ed54" type="goal" time="2014-06-29T22:48:36Z" updated_time="2014-06-29T22:48:36Z" scratch="false" x="88" y="48" home_score="2" away_score="1" penalty="true" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="e8652aaa-242d-4bac-acf6-ff243001cd07" type="goal" time="2014-06-29T22:49:21Z" updated_time="2014-06-29T22:49:21Z" scratch="false" x="10" y="48" home_score="2" away_score="2" penalty="true" owngoal="false" header="false" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce"/>
+        <fact id="494e48db-510d-4130-a385-8d3d83c43708" type="goal" time="2014-06-29T22:50:09Z" updated_time="2014-06-29T22:50:09Z" scratch="false" x="88" y="48" home_score="3" away_score="2" penalty="true" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="0214a42b-bd30-44f9-92c0-0e0a5802d0ac" type="goal" time="2014-06-29T22:50:48Z" updated_time="2014-06-29T22:50:48Z" scratch="false" x="10" y="48" home_score="3" away_score="3" penalty="true" owngoal="false" header="false" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce"/>
+        <fact id="e5d93974-a567-4e60-be4e-733e8e9716f8" type="goal" time="2014-06-29T22:51:36Z" updated_time="2014-06-29T22:51:36Z" scratch="false" x="88" y="48" home_score="4" away_score="3" penalty="true" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="3e136660-4d9e-4f9f-9c89-de7c921ccb16" type="goal" time="2014-06-29T22:52:24Z" updated_time="2014-06-29T22:52:24Z" scratch="false" x="10" y="48" home_score="4" away_score="4" penalty="true" owngoal="false" header="false" team_id="56915cf9-6045-49c9-aba1-4e7691f23cce"/>
+        <fact id="19490ea9-8c23-434a-9848-1e48911cde4c" type="goal" time="2014-06-29T22:53:17Z" updated_time="2014-06-29T22:53:17Z" scratch="false" x="88" y="48" home_score="5" away_score="4" penalty="true" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="6f508fc9-a338-4fba-b907-6279c401377f" type="goal" time="2014-06-29T22:55:23Z" updated_time="2014-06-29T22:55:23Z" scratch="false" x="88" y="48" home_score="6" away_score="4" penalty="true" owngoal="false" header="false" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="f148b109-ec93-47d7-8fcd-a2038d5d323b" type="match_ended" time="2014-06-29T22:55:34Z" updated_time="2014-06-29T22:55:34Z" scratch="false" home_score="6" away_score="4" winner_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" draw="false"/>
+        <fact id="55cb1471-be58-42d3-865d-ff08aecdc571" type="period_over" time="2014-06-29T22:55:34Z" updated_time="2014-06-29T22:55:34Z" scratch="false" home_score="6" away_score="4" period="P">
+          <description>It's 6-4 at the end of the penalty shootout.</description>
+        </fact>
+      </facts>
+      <!-- 4768150/4756/4710 -->
+    </match>
+  </matches>
+</summary>

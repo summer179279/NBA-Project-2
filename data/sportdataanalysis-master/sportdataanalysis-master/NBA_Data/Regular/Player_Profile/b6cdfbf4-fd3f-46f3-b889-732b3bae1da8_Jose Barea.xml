@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:50:50 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="b6cdfbf4-fd3f-46f3-b889-732b3bae1da8" status="ACT" full_name="Jose Barea" first_name="Jose" last_name="Barea" abbr_name="J.Barea" height="72" weight="178" position="G" primary_position="PG" jersey_number="11" experience="7" college="Northeastern" birth_place="Mayaguez,, PRI" birthdate="1984-06-26" updated="2013-11-08T21:28:41+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" market="Minnesota" alias="MIN"/>
+  <draft year="2006"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" market="Minnesota" alias="MIN">
+        <statistics>
+          <total games_played="79" games_started="1" minutes="1471.0" field_goals_made="254" field_goals_att="656" three_points_made="73" three_points_att="231" blocked_att="43" free_throws_made="79" free_throws_att="100" offensive_rebounds="16" defensive_rebounds="138" assists="303" turnovers="125" steals="26" blocks="0" personal_fouls="129" tech_fouls="4" points="660" flagrant_fouls="0" free_throws_pct="0.79" two_points_pct="0.426" three_points_pct="0.316" field_goals_pct="0.387" rebounds="154" assists_turnover_ratio="2.42" two_points_made="181" two_points_att="425"/>
+          <average points="8.4" blocked_att="0.54" turnovers="1.58" free_throws_att="1.27" field_goals_att="8.3" off_rebounds="0.2" two_points_att="5.38" assists="3.8" blocks="0.0" personal_fouls="1.63" two_points_made="2.29" flagrant_fouls="0.0" rebounds="1.95" three_points_made="0.92" minutes="18.6" def_rebounds="1.75" free_throws_made="1.0" field_goals_made="3.22" steals="0.33" three_points_att="2.92"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:50:51 +0000 -->

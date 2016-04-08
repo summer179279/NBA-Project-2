@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:09:01Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="97e853b8-e4ea-4497-b210-cfdacb9a51cc" country_code="HRV" preferred_foot="R" height_in="75" weight_lb="200" height_cm="190" weight_kg="90" first_name="Stipe" last_name="Pletikosa" country="Croatia">
+    <teams>
+      <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" country_code="HRV" position="G" is_manager="false" is_player="true" country="Croatia" jersey_number="1"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="12" matches_started="0" minutes_played="1080" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="120" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="c13a193d-b4c3-46aa-ba72-ac105ce80465" name="Russian Cup"/>
+          <tournament id="56cb709d-d596-4ee8-9442-40d70515a22f" name="Russian Cup"/>
+          <team id="6b0ac2de-11a3-4553-9b1f-cdbb89bdff96" name="FC Rostov" alias="ROS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="27" matches_started="0" minutes_played="2430" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="6b0ac2de-11a3-4553-9b1f-cdbb89bdff96" name="FC Rostov" alias="ROS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 12400/1405951394 -->
+  </player>
+</profile>

@@ -1,0 +1,216 @@
+{
+    "profile": {
+        "@generated": "2014-07-21T06:16:50Z",
+        "@xmlns": "http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd",
+        "player": {
+            "@country": "C\u00f4te D'Ivoire",
+            "@country_code": "CIV",
+            "@first_name": "Kolo",
+            "@height_cm": "182",
+            "@height_in": "72",
+            "@id": "012353a8-80c4-41e5-94a4-a1dbc5503491",
+            "@last_name": "Toure",
+            "@preferred_foot": "R",
+            "@weight_kg": "75",
+            "@weight_lb": "167",
+            "statistics": {
+                "season": [
+                    {
+                        "@year": "2014",
+                        "statistic": [
+                            {
+                                "@goal_assists": "-1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "1",
+                                "@matches_started": "0",
+                                "@minutes_played": "90",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "-1",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "-1",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "International",
+                                    "@country_code": "XZ",
+                                    "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                                    "@name": "International"
+                                },
+                                "team": {
+                                    "@alias": "CIV",
+                                    "@country": "C\u00f4te D'Ivoire",
+                                    "@country_code": "CIV",
+                                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                                    "@name": "Ivory Coast",
+                                    "@type": "team"
+                                },
+                                "tournament_group": {
+                                    "@id": "2b2c2a26-29f3-403f-beba-854f76fc979b",
+                                    "@name": "WC Qualification"
+                                }
+                            },
+                            {
+                                "@goal_assists": "-1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "1",
+                                "@matches_started": "0",
+                                "@minutes_played": "90",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "-1",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "-1",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "International",
+                                    "@country_code": "XZ",
+                                    "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                                    "@name": "International"
+                                },
+                                "team": {
+                                    "@alias": "CIV",
+                                    "@country": "C\u00f4te D'Ivoire",
+                                    "@country_code": "CIV",
+                                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                                    "@name": "Ivory Coast",
+                                    "@type": "team"
+                                },
+                                "tournament_group": {
+                                    "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                                    "@name": "World Championship"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@year": "2013",
+                        "statistic": [
+                            {
+                                "@goal_assists": "-1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "2",
+                                "@matches_started": "0",
+                                "@minutes_played": "180",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "-1",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "-1",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "England",
+                                    "@country_code": "ENG",
+                                    "@id": "fa1d2f2c-6189-4afd-9906-c623877e12e1",
+                                    "@name": "England"
+                                },
+                                "team": {
+                                    "@alias": "LFC",
+                                    "@country": "England",
+                                    "@country_code": "ENG",
+                                    "@id": "48afd607-eda9-4db8-9125-380bc78612d2",
+                                    "@name": "Liverpool FC",
+                                    "@type": "team"
+                                },
+                                "tournament": {
+                                    "@id": "a3802834-d780-422f-8205-6430735a4944",
+                                    "@name": "FA Cup"
+                                },
+                                "tournament_group": {
+                                    "@id": "198e85c7-8f71-40a7-920a-ee6562be7c5d",
+                                    "@name": "FA Cup"
+                                }
+                            },
+                            {
+                                "@goal_assists": "1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "20",
+                                "@matches_started": "0",
+                                "@minutes_played": "1438",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "5",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "2",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "England",
+                                    "@country_code": "ENG",
+                                    "@id": "fa1d2f2c-6189-4afd-9906-c623877e12e1",
+                                    "@name": "England"
+                                },
+                                "team": {
+                                    "@alias": "LFC",
+                                    "@country": "England",
+                                    "@country_code": "ENG",
+                                    "@id": "48afd607-eda9-4db8-9125-380bc78612d2",
+                                    "@name": "Liverpool FC",
+                                    "@type": "team"
+                                },
+                                "tournament": {
+                                    "@id": "d8ddadd3-9a93-46bc-82b2-bc88c08b7255",
+                                    "@name": "Premier League"
+                                },
+                                "tournament_group": {
+                                    "@id": "fdc32c0e-2a6a-4bbe-b855-41fef6369bfe",
+                                    "@name": "Premier League"
+                                }
+                            },
+                            {
+                                "@goal_assists": "-1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "2",
+                                "@matches_started": "0",
+                                "@minutes_played": "210",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "-1",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "1",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "England",
+                                    "@country_code": "ENG",
+                                    "@id": "fa1d2f2c-6189-4afd-9906-c623877e12e1",
+                                    "@name": "England"
+                                },
+                                "team": {
+                                    "@alias": "LFC",
+                                    "@country": "England",
+                                    "@country_code": "ENG",
+                                    "@id": "48afd607-eda9-4db8-9125-380bc78612d2",
+                                    "@name": "Liverpool FC",
+                                    "@type": "team"
+                                },
+                                "tournament": {
+                                    "@id": "3512b79f-bc4f-49f1-8c1b-e8d5e35c801e",
+                                    "@name": "League Cup"
+                                },
+                                "tournament_group": {
+                                    "@id": "8cf07e0d-a6db-45fa-a67c-c10b43449a69",
+                                    "@name": "League Cup"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "teams": {
+                "team": {
+                    "@country": "C\u00f4te D'Ivoire",
+                    "@country_code": "CIV",
+                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                    "@is_manager": "false",
+                    "@is_player": "true",
+                    "@jersey_number": "4",
+                    "@name": "Ivory Coast",
+                    "@position": "D"
+                }
+            }
+        }
+    }
+}

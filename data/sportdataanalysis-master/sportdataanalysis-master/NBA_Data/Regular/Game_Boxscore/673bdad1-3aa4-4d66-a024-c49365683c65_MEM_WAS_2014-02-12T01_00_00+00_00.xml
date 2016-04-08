@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-02-12 03:50:45 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="673bdad1-3aa4-4d66-a024-c49365683c65" status="closed" coverage="full" home_team="583eca88-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-02-12T01:00:00+00:00" duration="2:20" attendance="15613" lead_changes="8" times_tied="8" clock="00:00" quarter="4">
+  <team name="Grizzlies" market="Memphis" id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" points="92">
+    <scoring>
+      <quarter number="1" sequence="1" points="24"/>
+      <quarter number="2" sequence="2" points="28"/>
+      <quarter number="3" sequence="3" points="27"/>
+      <quarter number="4" sequence="4" points="13"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Marc Gasol" position="C" primary_position="C" jersey_number="33" id="b73a8508-23a1-49ee-a466-aa9ea8add09e">
+          <statistics minutes="34:11" field_goals_made="7" field_goals_att="11" field_goals_pct="63.6" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="11" two_points_pct="0.636" blocked_att="1" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="6" rebounds="7" assists="3" turnovers="3" steals="2" blocks="0" assists_turnover_ratio="1.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="18"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Zach Randolph" position="F" primary_position="PF" jersey_number="50" id="f5987aa7-b7fd-4bd6-855d-fd6407324950">
+          <statistics minutes="34:47" field_goals_made="4" field_goals_att="11" field_goals_pct="36.4" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="4" two_points_att="11" two_points_pct="0.364" blocked_att="2" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="2" defensive_rebounds="8" rebounds="10" assists="1" turnovers="5" steals="0" blocks="0" assists_turnover_ratio="0.2" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="6" points="13"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Nick Calathes" position="G" primary_position="SG" jersey_number="12" id="f9a1adaf-0c6a-4ec7-a1d4-a972519fd798">
+          <statistics minutes="35:43" field_goals_made="8" field_goals_att="12" field_goals_pct="66.7" three_points_made="1" three_points_att="2" three_points_pct="50.0" two_points_made="7" two_points_att="10" two_points_pct="0.7" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="2" defensive_rebounds="5" rebounds="7" assists="6" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="3.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="10" points="18"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Wizards" market="Washington" id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" points="89">
+    <scoring>
+      <quarter number="1" sequence="1" points="23"/>
+      <quarter number="2" sequence="2" points="16"/>
+      <quarter number="3" sequence="3" points="31"/>
+      <quarter number="4" sequence="4" points="19"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Bradley Beal" position="G" primary_position="SG" jersey_number="3" id="ff461754-ad20-4eeb-af02-2b46cc980b24">
+          <statistics minutes="36:49" field_goals_made="15" field_goals_att="24" field_goals_pct="62.5" three_points_made="5" three_points_att="7" three_points_pct="71.4" two_points_made="10" two_points_att="17" two_points_pct="0.588" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="4" rebounds="5" assists="2" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="4" points="37"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kevin Seraphin" position="C" primary_position="C" jersey_number="13" id="e4cf5fa9-8b72-4ea5-9287-f2447bbceb69">
+          <statistics minutes="24:40" field_goals_made="2" field_goals_att="5" field_goals_pct="40.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="2" two_points_att="5" two_points_pct="0.4" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="5" rebounds="6" assists="1" turnovers="0" steals="0" blocks="4" assists_turnover_ratio="0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="4"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="John Wall" position="G" primary_position="PG" jersey_number="2" id="6769d1ca-0581-48b0-b487-b5c87b8f696e">
+          <statistics minutes="32:37" field_goals_made="2" field_goals_att="10" field_goals_pct="20.0" three_points_made="0" three_points_att="4" three_points_pct="0.0" two_points_made="2" two_points_att="6" two_points_pct="0.333" blocked_att="0" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="5" turnovers="4" steals="0" blocks="0" assists_turnover_ratio="1.25" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-4" points="5"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-02-12 03:50:46 +0000 -->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:17:07Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="28d1a24c-ecc9-442c-8f57-331f72c923bc" country_code="DZA" preferred_foot="R" height_in="73" weight_lb="169" height_cm="185" weight_kg="76" first_name="Rafik" last_name="Halliche" country="Algeria">
+    <teams>
+      <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" country_code="DZA" position="D" is_manager="false" is_player="true" country="Algeria" jersey_number="5"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="367" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="20" matches_started="0" minutes_played="1587" yellow_cards="5" yellow_red_cards="-1" red_cards="2" substitutions_out="1" substitutions_in="1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="ed663318-5add-4c8c-b3e4-af451d330fb9" name="Primeira Liga"/>
+          <team id="c5f50762-4d80-47a8-94c3-cee9c85f5dd7" name="Academica Coimbra" alias="ACA" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="1c458580-c792-414e-b248-10203d03a826" name="Taca de Portugal"/>
+          <tournament id="5ae3c6f5-a098-4fce-adb8-248bd7f943bb" name="Taca de Portugal"/>
+          <team id="c5f50762-4d80-47a8-94c3-cee9c85f5dd7" name="Academica Coimbra" alias="ACA" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 44690/1405951639 -->
+  </player>
+</profile>

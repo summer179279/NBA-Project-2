@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-16 01:46:18 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="86a69970-8047-461c-b844-0bcf967ebc26" status="closed" coverage="full" home_team="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-15T23:00:00+00:00" duration="2:11" attendance="20356" lead_changes="9" times_tied="4" clock="00:00" quarter="4">
+  <team name="Wizards" market="Washington" id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" points="101">
+    <scoring>
+      <quarter number="1" sequence="1" points="19"/>
+      <quarter number="2" sequence="2" points="29"/>
+      <quarter number="3" sequence="3" points="24"/>
+      <quarter number="4" sequence="4" points="29"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="John Wall" position="G" primary_position="PG" jersey_number="2" id="6769d1ca-0581-48b0-b487-b5c87b8f696e">
+          <statistics minutes="35:29" field_goals_made="10" field_goals_att="15" field_goals_pct="66.7" three_points_made="4" three_points_att="6" three_points_pct="66.7" two_points_made="6" two_points_att="9" two_points_pct="0.667" blocked_att="2" free_throws_made="9" free_throws_att="10" free_throws_pct="90.0" offensive_rebounds="0" defensive_rebounds="4" rebounds="4" assists="6" turnovers="3" steals="2" blocks="1" assists_turnover_ratio="2.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-1" points="33"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Drew Gooden" position="F" primary_position="PF" jersey_number="90" id="23dfb4c0-f7ff-4372-b379-09fd61ce2616">
+          <statistics minutes="26:05" field_goals_made="8" field_goals_att="11" field_goals_pct="72.7" three_points_made="1" three_points_att="2" three_points_pct="50.0" two_points_made="7" two_points_att="9" two_points_pct="0.778" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="8" rebounds="9" assists="1" turnovers="0" steals="0" blocks="1" assists_turnover_ratio="0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="17" points="21"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="John Wall" position="G" primary_position="PG" jersey_number="2" id="6769d1ca-0581-48b0-b487-b5c87b8f696e">
+          <statistics minutes="35:29" field_goals_made="10" field_goals_att="15" field_goals_pct="66.7" three_points_made="4" three_points_att="6" three_points_pct="66.7" two_points_made="6" two_points_att="9" two_points_pct="0.667" blocked_att="2" free_throws_made="9" free_throws_att="10" free_throws_pct="90.0" offensive_rebounds="0" defensive_rebounds="4" rebounds="4" assists="6" turnovers="3" steals="2" blocks="1" assists_turnover_ratio="2.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-1" points="33"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Nets" market="Brooklyn" id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" points="94">
+    <scoring>
+      <quarter number="1" sequence="1" points="26"/>
+      <quarter number="2" sequence="2" points="31"/>
+      <quarter number="3" sequence="3" points="22"/>
+      <quarter number="4" sequence="4" points="15"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Marcus Thornton" position="G" primary_position="SG" jersey_number="10" id="d5ef3cfe-2ab9-4b77-823a-62678c13058f">
+          <statistics minutes="23:37" field_goals_made="7" field_goals_att="11" field_goals_pct="63.6" three_points_made="5" three_points_att="6" three_points_pct="83.3" two_points_made="2" two_points_att="5" two_points_pct="0.4" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="2" rebounds="3" assists="1" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-6" points="19"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Deron Williams" position="G" primary_position="PG" jersey_number="8" id="8edce943-917a-407a-825d-3f66cd1c107a">
+          <statistics minutes="35:20" field_goals_made="4" field_goals_att="14" field_goals_pct="28.6" three_points_made="2" three_points_att="7" three_points_pct="28.6" two_points_made="2" two_points_att="7" two_points_pct="0.286" blocked_att="1" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="7" rebounds="7" assists="7" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="3.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-5" points="14"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Deron Williams" position="G" primary_position="PG" jersey_number="8" id="8edce943-917a-407a-825d-3f66cd1c107a">
+          <statistics minutes="35:20" field_goals_made="4" field_goals_att="14" field_goals_pct="28.6" three_points_made="2" three_points_att="7" three_points_pct="28.6" two_points_made="2" two_points_att="7" two_points_pct="0.286" blocked_att="1" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="7" rebounds="7" assists="7" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="3.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-5" points="14"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-16 01:46:20 +0000 -->

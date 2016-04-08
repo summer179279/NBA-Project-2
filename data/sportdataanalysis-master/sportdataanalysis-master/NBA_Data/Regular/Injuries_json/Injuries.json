@@ -1,0 +1,580 @@
+{
+    "league": {
+        "@alias": "NBA",
+        "@id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+        "@name": "NBA",
+        "@xmlns": "http://feed.elasticstats.com/schema/basketball/injuries-v2.0.xsd",
+        "injuries": {
+            "team": [
+                {
+                    "@id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Charlotte",
+                    "@name": "Hornets",
+                    "player": [
+                        {
+                            "@first_name": "Gerald",
+                            "@full_name": "Gerald Henderson",
+                            "@id": "390c3ce6-7e5b-4aba-bd54-4dfb6add4767",
+                            "@jersey_number": "9",
+                            "@last_name": "Henderson",
+                            "@position": "G",
+                            "@primary_position": "SG",
+                            "injury": {
+                                "@comment": "Henderson had surgery on his wrist in May and hopes to be ready for training camp.",
+                                "@desc": "Wrist",
+                                "@id": "c6063398-74a6-4cb2-a46d-8e7bcbd8653e",
+                                "@start_date": "2014-05-23",
+                                "@status": "Unknown",
+                                "@update_date": "2014-06-09"
+                            }
+                        },
+                        {
+                            "@first_name": "Jeff",
+                            "@full_name": "Jeff Taylor",
+                            "@id": "394f9bf4-e739-444d-9e13-875fb3a9d007",
+                            "@jersey_number": "44",
+                            "@last_name": "Taylor",
+                            "@position": "G-F",
+                            "@primary_position": "SF",
+                            "injury": {
+                                "@comment": "Taylor is participating in team workouts and hopes to be ready by training camp.",
+                                "@desc": "Achilles",
+                                "@id": "dfa87d5e-a375-4918-bbca-12ff8b337c01",
+                                "@start_date": "2013-12-20",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-06-09"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Denver",
+                    "@name": "Nuggets",
+                    "player": [
+                        {
+                            "@first_name": "Danilo",
+                            "@full_name": "Danilo Gallinari",
+                            "@id": "47cd6421-0ce1-431e-9b9c-a8d9bfd0eb04",
+                            "@jersey_number": "8",
+                            "@last_name": "Gallinari",
+                            "@position": "F",
+                            "@primary_position": "SF",
+                            "injury": {
+                                "@comment": "Gallinari is moving without restriction four months removed from ACL surgery.",
+                                "@desc": "Knee",
+                                "@id": "e7ed17fb-3f22-4c33-b1ae-4bc3f135c1d7",
+                                "@start_date": "2013-04-04",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-05-22"
+                            }
+                        },
+                        {
+                            "@first_name": "Nate",
+                            "@full_name": "Nate Robinson",
+                            "@id": "47f88b06-686d-47c2-89bd-58e9406be8da",
+                            "@jersey_number": "10",
+                            "@last_name": "Robinson",
+                            "@position": "G",
+                            "@primary_position": "PG",
+                            "injury": {
+                                "@comment": "Robinson underwent surgery on torn left ACL on Jan. 31, 2014. He said in March that he plans to return to the Nuggets next season.",
+                                "@desc": "Knee",
+                                "@id": "c2f74836-bd2e-4692-a0a5-87dbeef1a68b",
+                                "@start_date": "2014-01-29",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-03-06"
+                            }
+                        },
+                        {
+                            "@first_name": "J.J.",
+                            "@full_name": "J.J. Hickson",
+                            "@id": "7ea5ebcb-e825-4b6e-bd46-13a45c88c09c",
+                            "@jersey_number": "7",
+                            "@last_name": "Hickson",
+                            "@position": "F",
+                            "@primary_position": "C",
+                            "injury": {
+                                "@comment": "Hickson (ACL surgery) expects to return to the court in January.",
+                                "@desc": "Knee",
+                                "@id": "7f51eb54-2e3d-4290-a39d-07a37a18e78a",
+                                "@start_date": "2014-03-21",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-05-17"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Chicago",
+                    "@name": "Bulls",
+                    "player": [
+                        {
+                            "@first_name": "Derrick",
+                            "@full_name": "Derrick Rose",
+                            "@id": "48341095-ae5a-4d61-bcc8-1b0ceed870b2",
+                            "@jersey_number": "1",
+                            "@last_name": "Rose",
+                            "@position": "G",
+                            "@primary_position": "PG",
+                            "injury": {
+                                "@comment": "Rose is expected to join Team USA this summer, according to national team coach Mike Krzyzewski.",
+                                "@desc": "Knee",
+                                "@id": "44b6a0ba-2a17-4f30-bbc6-cf0604f814f7",
+                                "@start_date": "2013-11-22",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-05-20"
+                            }
+                        },
+                        {
+                            "@first_name": "Joakim",
+                            "@full_name": "Joakim Noah",
+                            "@id": "b6eee153-eac4-41e5-afcb-ab46cf7a8ba8",
+                            "@jersey_number": "13",
+                            "@last_name": "Noah",
+                            "@position": "C",
+                            "@primary_position": "C",
+                            "injury": {
+                                "@comment": "Noah underwent arthroscopic left knee surgery on May 2 and will need to rehab for 8-12 weeks.",
+                                "@desc": "Knee",
+                                "@id": "45a80d64-160d-4d09-9958-e8309966f63e",
+                                "@start_date": "2014-05-02",
+                                "@status": "Out",
+                                "@update_date": "2014-05-03"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "New Orleans",
+                    "@name": "Pelicans",
+                    "player": [
+                        {
+                            "@first_name": "Ryan",
+                            "@full_name": "Ryan Anderson",
+                            "@id": "4cbbd39c-bece-43a6-80a7-fcd4e72a9e03",
+                            "@jersey_number": "33",
+                            "@last_name": "Anderson",
+                            "@position": "F",
+                            "@primary_position": "PF",
+                            "injury": {
+                                "@comment": "Anderson is expected to return to basketball activities in 4-6 months.",
+                                "@desc": "Neck",
+                                "@id": "873a0f57-c870-40a1-9f7f-071d890fba51",
+                                "@start_date": "2014-01-03",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-04-11"
+                            }
+                        },
+                        {
+                            "@first_name": "Jrue",
+                            "@full_name": "Jrue Holiday",
+                            "@id": "65700e81-3aa0-49a9-8a94-004f2cfb64e5",
+                            "@jersey_number": "11",
+                            "@last_name": "Holiday",
+                            "@position": "G",
+                            "@primary_position": "PG",
+                            "injury": {
+                                "@comment": "Holiday had successful surgery on his right tibia and will miss rest of season.",
+                                "@desc": "Leg",
+                                "@id": "982b5ae3-b433-42dc-8ea2-bc95d680854d",
+                                "@start_date": "2014-01-08",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-02-28"
+                            }
+                        },
+                        {
+                            "@first_name": "Jason",
+                            "@full_name": "Jason Smith",
+                            "@id": "7992dce6-a785-4b31-9655-abd5a6f028f0",
+                            "@jersey_number": "14",
+                            "@last_name": "Smith",
+                            "@position": "C-F",
+                            "@primary_position": "C",
+                            "injury": {
+                                "@comment": "Smith underwent surgery to remove loose bodies from his right knee on Jan. 29, 2014.",
+                                "@desc": "Knee surgery",
+                                "@id": "96cfe690-f8b8-49d1-9121-45ff13028237",
+                                "@start_date": "2014-01-18",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-02-03"
+                            }
+                        },
+                        {
+                            "@first_name": "Eric",
+                            "@full_name": "Eric Gordon",
+                            "@id": "f8d6c74c-e0bd-41ed-a814-f0b25259fe0a",
+                            "@jersey_number": "10",
+                            "@last_name": "Gordon",
+                            "@position": "G",
+                            "@primary_position": "SG",
+                            "injury": {
+                                "@comment": "Gordon is slated to get surgery on his left knee next week.",
+                                "@desc": "Knee",
+                                "@id": "f56b3e17-11c5-4fe6-b5f8-99463643ffc1",
+                                "@start_date": "2014-03-21",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-04-11"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Phoenix",
+                    "@name": "Suns",
+                    "player": {
+                        "@first_name": "Emeka",
+                        "@full_name": "Emeka Okafor",
+                        "@id": "6f3c2149-0d74-4ccd-ba58-097a37ae9504",
+                        "@jersey_number": "50",
+                        "@last_name": "Okafor",
+                        "@position": "C",
+                        "@primary_position": "C",
+                        "injury": {
+                            "@desc": "Neck",
+                            "@id": "789051c4-8b19-410d-86b3-46e597b1b22b",
+                            "@start_date": "2013-09-18",
+                            "@status": "Out Indefinitely",
+                            "@update_date": "2014-02-04"
+                        }
+                    }
+                },
+                {
+                    "@id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Cleveland",
+                    "@name": "Cavaliers",
+                    "player": {
+                        "@first_name": "Brendan",
+                        "@full_name": "Brendan Haywood",
+                        "@id": "7a303bc0-f105-4bcb-afe0-61d49dfe43a9",
+                        "@jersey_number": "0",
+                        "@last_name": "Haywood",
+                        "@position": "C",
+                        "@primary_position": "C",
+                        "injury": {
+                            "@comment": "Coach Steve Clifford said on Friday (3/14) that Haywood will not play for the rest of the season.",
+                            "@desc": "Foot",
+                            "@id": "5899c2e5-fc59-4760-ad6f-13b3f38bc91c",
+                            "@start_date": "2013-03-20",
+                            "@status": "Out For Season",
+                            "@update_date": "2014-03-15"
+                        }
+                    }
+                },
+                {
+                    "@id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Boston",
+                    "@name": "Celtics",
+                    "player": [
+                        {
+                            "@first_name": "Gerald",
+                            "@full_name": "Gerald Wallace",
+                            "@id": "7ac35d55-3283-48dc-9609-ed342b3eda56",
+                            "@jersey_number": "45",
+                            "@last_name": "Wallace",
+                            "@position": "F",
+                            "@primary_position": "SF",
+                            "injury": {
+                                "@comment": "Wallace underwent season ending surgery to repair his ankle and his torn left meniscus on Tuesday (3/4).",
+                                "@desc": "Knee",
+                                "@id": "1f813934-1a4c-46c4-ad94-949912518d1f",
+                                "@start_date": "2014-02-28",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-03-04"
+                            }
+                        },
+                        {
+                            "@first_name": "Vitor",
+                            "@full_name": "Vitor Faverani",
+                            "@id": "cd73d016-9a69-4163-ae8a-14140704c68d",
+                            "@jersey_number": "38",
+                            "@last_name": "Faverani",
+                            "@position": "C",
+                            "@primary_position": "C",
+                            "injury": {
+                                "@comment": "Faverani had successful knee surgery and will miss the rest of season.",
+                                "@desc": "Knee",
+                                "@id": "624b1ab7-396b-44d8-ba17-d699a7f9b511",
+                                "@start_date": "2014-02-05",
+                                "@status": "Out Indefinitely",
+                                "@update_date": "2014-03-07"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Sacramento",
+                    "@name": "Kings",
+                    "player": [
+                        {
+                            "@first_name": "Jason",
+                            "@full_name": "Jason Terry",
+                            "@id": "8641c4fe-b822-45e5-998a-13b85b30e215",
+                            "@jersey_number": "31",
+                            "@last_name": "Terry",
+                            "@position": "G",
+                            "@primary_position": "SG",
+                            "injury": {
+                                "@comment": "Terry is not expected to join Sacramento and will work on rehabbing his knee.",
+                                "@desc": "Knee",
+                                "@id": "84f0b746-645f-4e3c-9b3f-08067714a16d",
+                                "@start_date": "2014-02-22",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-02-22"
+                            }
+                        },
+                        {
+                            "@first_name": "Carl",
+                            "@full_name": "Carl Landry",
+                            "@id": "ba16b6ef-0c63-4580-8119-2a2d5600b160",
+                            "@jersey_number": "24",
+                            "@last_name": "Landry",
+                            "@position": "F",
+                            "@primary_position": "PF",
+                            "injury": {
+                                "@comment": "Landry underwent surgery Thursday (3/20) to repair the torn medial meniscus in his right knee.",
+                                "@desc": "Knee",
+                                "@id": "1e94c971-97b1-4a55-9e2d-5be27fd25c3e",
+                                "@start_date": "2014-03-01",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-03-20"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Brooklyn",
+                    "@name": "Nets",
+                    "player": [
+                        {
+                            "@first_name": "Deron",
+                            "@full_name": "Deron Williams",
+                            "@id": "8edce943-917a-407a-825d-3f66cd1c107a",
+                            "@jersey_number": "8",
+                            "@last_name": "Williams",
+                            "@position": "G",
+                            "@primary_position": "PG",
+                            "injury": {
+                                "@comment": "Williams had surgery on both ankles last month and hopes to resume full basketball activities in September.",
+                                "@desc": "Ankle",
+                                "@id": "8de7b131-b58c-40fc-b18a-2a12bd7b4409",
+                                "@start_date": "2014-05-22",
+                                "@status": "Out Indefinitely",
+                                "@update_date": "2014-06-09"
+                            }
+                        },
+                        {
+                            "@first_name": "Brook",
+                            "@full_name": "Brook Lopez",
+                            "@id": "c179fb5c-9845-4e37-aef7-6e00d97548eb",
+                            "@jersey_number": "11",
+                            "@last_name": "Lopez",
+                            "@position": "C",
+                            "@primary_position": "C",
+                            "injury": {
+                                "@comment": "Lopez was seen shooting baskets on Thursday (4/24) but is still not expected to return this season.",
+                                "@desc": "Foot",
+                                "@id": "0c487c51-5dd3-47fb-b103-5f0f92199b4a",
+                                "@start_date": "2013-12-21",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-04-24"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Milwaukee",
+                    "@name": "Bucks",
+                    "player": {
+                        "@first_name": "Carlos",
+                        "@full_name": "Carlos Delfino",
+                        "@id": "94303613-738d-45ef-aee1-d1a6b74545d6",
+                        "@jersey_number": "10",
+                        "@last_name": "Delfino",
+                        "@position": "G-F",
+                        "@primary_position": "SG",
+                        "injury": {
+                            "@comment": "Delfino hopes to play for Argentina in the World Cup this summer, but his availability is uncertain due to foot surgery he had in December.",
+                            "@desc": "Foot surgery",
+                            "@id": "445730c0-e17d-4d7b-baed-83c6370cb1d7",
+                            "@start_date": "2013-08-28",
+                            "@status": "Out For Season",
+                            "@update_date": "2014-05-07"
+                        }
+                    }
+                },
+                {
+                    "@id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Atlanta",
+                    "@name": "Hawks",
+                    "player": [
+                        {
+                            "@first_name": "Gustavo",
+                            "@full_name": "Gustavo Ayon",
+                            "@id": "aced2f8d-3cd1-4c52-a628-f6ed76f5e4ea",
+                            "@jersey_number": "14",
+                            "@last_name": "Ayon",
+                            "@position": "F-C",
+                            "@primary_position": "PF",
+                            "injury": {
+                                "@comment": "Ayon will have shoulder surgery and is out for the season.",
+                                "@desc": "Shoulder",
+                                "@id": "9d536313-cb91-4fde-a017-458dbb389e42",
+                                "@start_date": "2014-02-18",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-02-28"
+                            }
+                        },
+                        {
+                            "@first_name": "Al",
+                            "@full_name": "Al Horford",
+                            "@id": "cf3a87ec-c2f7-42e8-9698-6f8b2ba916a9",
+                            "@jersey_number": "15",
+                            "@last_name": "Horford",
+                            "@position": "C-F",
+                            "@primary_position": "C",
+                            "injury": {
+                                "@comment": "Horford hopes to be ready in time for training camp.",
+                                "@desc": "Torn Pectoral",
+                                "@id": "91e52bc3-377d-4ea7-8f3b-5de757ef72c8",
+                                "@start_date": "2013-12-26",
+                                "@status": "Out",
+                                "@update_date": "2014-06-09"
+                            }
+                        },
+                        {
+                            "@first_name": "John",
+                            "@full_name": "John Jenkins",
+                            "@id": "f4c21698-8e9b-4720-ac1e-5e07bd7c2e92",
+                            "@jersey_number": "12",
+                            "@last_name": "Jenkins",
+                            "@position": "G",
+                            "@primary_position": "SG",
+                            "injury": {
+                                "@comment": "Jenkins is expected to play in the Las Vegas Summer League.",
+                                "@desc": "Back",
+                                "@id": "8aceca1a-95c2-478b-8737-99df8f0df174",
+                                "@start_date": "2013-12-26",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-06-09"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "New York",
+                    "@name": "Knicks",
+                    "player": {
+                        "@first_name": "Kenyon",
+                        "@full_name": "Kenyon Martin",
+                        "@id": "b740683c-ab70-4bc2-a516-9fad8b66f2bd",
+                        "@jersey_number": "3",
+                        "@last_name": "Martin",
+                        "@position": "F",
+                        "@primary_position": "PF",
+                        "injury": {
+                            "@comment": "Martin plans to have surgery on his ankle and return to the NBA next season.",
+                            "@desc": "Ankle",
+                            "@id": "d56d4907-bb66-4b8b-aec6-4a5e6168a5d4",
+                            "@start_date": "2014-02-03",
+                            "@status": "Out",
+                            "@update_date": "2014-04-17"
+                        }
+                    }
+                },
+                {
+                    "@id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Memphis",
+                    "@name": "Grizzlies",
+                    "player": {
+                        "@first_name": "Quincy",
+                        "@full_name": "Quincy Pondexter",
+                        "@id": "e58c0cb2-4645-4297-abd9-02315fba4683",
+                        "@jersey_number": "20",
+                        "@last_name": "Pondexter",
+                        "@position": "F",
+                        "@primary_position": "SF",
+                        "injury": {
+                            "@comment": "Pondexter is expected to miss rest of the season with a stress fracture in his right foot.",
+                            "@desc": "Foot",
+                            "@id": "ac60b310-5da2-4d15-9f18-633e5956c54a",
+                            "@start_date": "2013-12-09",
+                            "@status": "Out For Season",
+                            "@update_date": "2013-12-09"
+                        }
+                    }
+                },
+                {
+                    "@id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Detroit",
+                    "@name": "Pistons",
+                    "player": {
+                        "@first_name": "Josh",
+                        "@full_name": "Josh Harrellson",
+                        "@id": "e8a19123-81c1-49b4-ac6d-6862e63427c8",
+                        "@jersey_number": "55",
+                        "@last_name": "Harrellson",
+                        "@position": "F-C",
+                        "@primary_position": "PF",
+                        "injury": {
+                            "@comment": "Harrellson has been ruled out for Monday's (3/3) game.",
+                            "@desc": "Knee",
+                            "@id": "e6682ce5-d3bf-43c1-aa8d-5ca016e535fd",
+                            "@start_date": "2014-02-07",
+                            "@status": "Out Indefinitely",
+                            "@update_date": "2014-03-03"
+                        }
+                    }
+                },
+                {
+                    "@id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+                    "@market": "Los Angeles",
+                    "@name": "Lakers",
+                    "player": [
+                        {
+                            "@first_name": "Xavier",
+                            "@full_name": "Xavier Henry",
+                            "@id": "f2b96713-fb76-4465-b096-f962855bad23",
+                            "@jersey_number": "7",
+                            "@last_name": "Henry",
+                            "@position": "F-G",
+                            "@primary_position": "SF",
+                            "injury": {
+                                "@comment": "Henry had successful surgery on his wrist and knee on Friday (4/11).",
+                                "@desc": "Knee",
+                                "@id": "4f3e3078-63dc-4dea-83a2-eb8907a9bc16",
+                                "@start_date": "2014-04-02",
+                                "@status": "Out For Season",
+                                "@update_date": "2014-04-11"
+                            }
+                        },
+                        {
+                            "@first_name": "Kobe",
+                            "@full_name": "Kobe Bryant",
+                            "@id": "fd1d76ee-9ec0-460c-b12b-29e584923cb6",
+                            "@jersey_number": "24",
+                            "@last_name": "Bryant",
+                            "@position": "G",
+                            "@primary_position": "SG",
+                            "injury": {
+                                "@comment": "Bryant has been cleared to run and shoot and Monday (4/21) marked the beginning of a six-month rehabilitation program.",
+                                "@desc": "Knee",
+                                "@id": "6d32edaa-872e-4f06-b603-10cbbc5e2b5f",
+                                "@start_date": "2014-04-21",
+                                "@status": "Day To Day",
+                                "@update_date": "2014-04-21"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

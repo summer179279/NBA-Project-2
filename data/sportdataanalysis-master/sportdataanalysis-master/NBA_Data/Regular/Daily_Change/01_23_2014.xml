@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:05:27 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2014-01-23T05:00:00+00:00" end_time="2014-01-24T04:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="e68c7b19-7c0e-49a6-920c-48668f7ddbcf" full_name="Solomon Hill" last_modified="2014-01-23T06:30:10+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="2c4605eb-3e83-4b5b-88fb-41a653c93049" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-24T03:32:44+00:00"/>
+        <game id="947ff8b0-e361-435d-8885-af55bb86522e" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-23T06:29:02+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="2c4605eb-3e83-4b5b-88fb-41a653c93049" last_modified="2014-01-24T03:32:44+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="947ff8b0-e361-435d-8885-af55bb86522e" last_modified="2014-01-23T06:29:02+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="356ded35-c24e-4376-9096-d7dfcb802181" last_modified="2014-01-24T06:37:08+00:00"/>
+      </results>
+    </games>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:05:27 +0000 -->

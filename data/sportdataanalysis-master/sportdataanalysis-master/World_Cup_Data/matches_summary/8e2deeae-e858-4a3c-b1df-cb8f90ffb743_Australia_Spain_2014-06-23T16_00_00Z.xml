@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:38:19Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="8e2deeae-e858-4a3c-b1df-cb8f90ffb743" status="closed" scratched="false" period="P2" scheduled="2014-06-23T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B"/>
+      <round week="26" number="3" type="table"/>
+      <home id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team" formation="4-3-3" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="115" ball_safe="103" corner_kicks="2" dangerous_attacks="63" fouls="15" free_kicks="15" goal_attempts="4" goal_kicks="7" offsides="0" saves="2" shots_total="4" substitutions="3" throw_ins="27" yellow_card="2" shots_on_target="0" shots_off_target="4" possessions="44"/>
+        <players>
+          <player id="2e2cf7c0-c545-41eb-a585-998ef92a45ef" country_code="AUS" position="M" started="false" tactical_position="6" tactical_order="8" first_name="Mark" last_name="Bresciano" country="Australia" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="a8dec716-46fc-47e8-b8f6-3a2a058190bc" country_code="AUS" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Maty" last_name="Ryan" country="Australia" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1176d5b3-c87f-4075-ad1c-f7c62af59562" country_code="AUS" position="M" started="false" tactical_position="8" tactical_order="10" first_name="Ben" last_name="Halloran" country="Australia" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d24e6c4c-c6e9-49fc-832f-2b144411ad22" country_code="AUS" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Bailey" last_name="Wright" country="Australia" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="941d6c2e-7f77-4f2d-9433-be94f885425f" country_code="AUS" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Massimo" last_name="Luongo" country="Australia" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19546276-811e-4310-a682-2849e0efabfa" country_code="AUS" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Mile" last_name="Jedinak" country="Australia" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e7279901-aa18-4841-931e-bc68e2c976be" country_code="AUS" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Thomas" last_name="Oar" country="Australia" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="863b9a76-ce3b-497b-9aaa-0e0a57fee6af" country_code="AUS" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Tim" last_name="Cahill" country="Australia" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19bd1b38-e49c-4201-a410-8c552dd3d4ef" country_code="AUS" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Matt" last_name="McKay" country="Australia" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="661c460e-18c2-41c0-8e98-41c3d2476ad7" country_code="AUS" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Oliver" last_name="Bozanic" country="Australia" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="58ae36df-c61a-4593-85ee-28f7c81a8672" country_code="AUS" position="F" started="false" tactical_position="0" tactical_order="0" first_name="James" last_name="Holland" country="Australia" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1816e5ba-28ce-4723-a702-9b5edab33bab" country_code="AUS" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mitch" last_name="Langerak" country="Australia" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="bb991157-3092-44b3-912b-9e5855ae801c" country_code="AUS" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ivan" last_name="Franjic" country="Australia" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="86e546e2-aa8b-46be-a535-81d089d3a372" country_code="AUS" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Alex" last_name="Wilkinson" country="Australia" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4ab94bff-252f-438f-87cc-2da7ee311ee3" country_code="AUS" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Adam" last_name="Taggart" country="Australia" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="89c187db-3f4d-42ec-82f4-e2ebd51ed3f2" country_code="AUS" position="M" started="false" tactical_position="8" tactical_order="11" first_name="James" last_name="Troisi" country="Australia" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="a251d90d-1fda-41cf-b377-ff68203d2c4d" country_code="AUS" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Mathew" last_name="Leckie" country="Australia" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="52995597-3367-45f3-bbe1-80cdb797a58a" country_code="AUS" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Ryan" last_name="McGowan" country="Australia" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="fbf302fe-aa1d-4bd4-a8b6-f9c8b760af04" country_code="AUS" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Eugene" last_name="Galekovic" country="Australia" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="675fef2c-6be3-456c-9c7e-cf34308504fa" country_code="AUS" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Mark" last_name="Milligan" country="Australia" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ad3f22d9-ac32-4b11-bea6-1880b8aa73bb" country_code="AUS" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Matthew" last_name="Spiranovic" country="Australia" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c13973c1-bb73-4e52-b35d-b2ee97767576" country_code="AUS" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Jason" last_name="Davidson" country="Australia" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1e91ffde-280b-4a00-90af-8d0a1ceb5652" country_code="AUS" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Dario" last_name="Vidosic" country="Australia" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team" formation="4-2-3-1" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="155" ball_safe="124" corner_kicks="6" dangerous_attacks="91" fouls="9" free_kicks="15" goal_attempts="7" goal_kicks="8" offsides="6" saves="0" shots_total="7" substitutions="3" throw_ins="17" yellow_card="1" shots_on_target="5" shots_off_target="2" possessions="56"/>
+        <players>
+          <player id="aa2b9f34-f711-458b-a959-289732fba289" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Javi" last_name="Martinez" country="Spain" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="33e99add-6f13-4a68-abee-d26d3815a0f2" country_code="ESP" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Iniesta" last_name="" country="Spain" jersey_number="6">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="20e3486b-831c-4c13-810d-63008f9f6fe3" country_code="ESP" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Costa" country="Spain" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7a076b2a-2918-43dd-8de2-38a5b88dfd5d" country_code="ESP" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Iker" last_name="Casillas" country="Spain" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="03d7e004-a738-417e-bfc8-6a0121748f3f" country_code="ESP" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Fernando" last_name="Torres" country="Spain" jersey_number="9">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="556210cb-0bdc-4cd8-b67f-a6fad49f89a7" country_code="ESP" position="M" started="false" tactical_position="5" tactical_order="8" first_name="Cesc" last_name="Fabregas" country="Spain" jersey_number="10">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="321949bd-a195-45ce-8d97-9b6686e75033" country_code="ESP" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Gerard" last_name="Pique" country="Spain" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="01061c85-99f9-41aa-be97-43b080d40e75" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Sergio" last_name="Busquets" country="Spain" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1406e911-55b5-4dcf-a2f1-cd7800c7c9a8" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Xavi" last_name="" country="Spain" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1f23107e-3777-47eb-bf30-954fe358a894" country_code="ESP" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Pepe" last_name="Reina" country="Spain" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0f439483-475c-4ebc-8ef6-bf6047340dc6" country_code="ESP" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Pedro" last_name="" country="Spain" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2fbefb2d-7a76-4413-af3a-76641c9d518c" country_code="ESP" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Raul" last_name="Albiol" country="Spain" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0030db97-73fc-483d-ad7e-230b2544ead1" country_code="ESP" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Koke" last_name="" country="Spain" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="931d019e-0f91-4c7f-b389-a971555a8dc0" country_code="ESP" position="M" started="false" tactical_position="6" tactical_order="6" first_name="David" last_name="Silva" country="Spain" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b" country_code="ESP" position="F" started="true" tactical_position="7" tactical_order="10" first_name="David" last_name="Villa" country="Spain" jersey_number="7">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1e9b4c1a-aa98-443c-9583-db3c8b6c8e9f" country_code="ESP" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Cesar" last_name="Azpilicueta" country="Spain" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4" country_code="ESP" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Sergio" last_name="Ramos" country="Spain" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="314252ba-4bc9-43da-b1bd-9793afbc4f74" country_code="ESP" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Jordi" last_name="Alba" country="Spain" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="086fa327-2bb3-4096-92f6-51d09dee3161" country_code="ESP" position="F" started="false" tactical_position="7" tactical_order="10" first_name="Juan" last_name="Mata" country="Spain" jersey_number="13">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="64454211-fb46-47fc-9ab0-fa005e3f6f4f" country_code="ESP" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Juanfran" last_name="" country="Spain" jersey_number="5">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0465e91e-7d90-4782-b6b9-28492099e6ad" country_code="ESP" position="G" started="false" tactical_position="0" tactical_order="0" first_name="David" last_name="De Gea" country="Spain" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1897c1dd-4fea-4808-9489-f2cb6c9d438f" country_code="ESP" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Xabi" last_name="Alonso" country="Spain" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="898df2e4-9341-43c4-94e3-96f6ef936508" country_code="ESP" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Santi" last_name="Cazorla" country="Spain" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="8c5f1637-5cb1-4c7c-a498-80f9706e3726" name="Arena da Baixada" country_code="BRA" city="Curitiba" capacity="39631" country="Brazil" coordinates="-25.448186,-49.276866"/>
+      <facts>
+        <fact id="f3a84714-606c-48dc-b67e-73b1a36fb98f" type="match_started" time="2014-06-23T16:00:12Z" updated_time="2014-06-23T16:00:07Z" scratch="false" clock="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>The match has started.</description>
+        </fact>
+        <fact id="8b749e71-d2fb-406f-bb61-1bd115db9887" type="period_started" time="2014-06-23T16:00:12Z" updated_time="2014-06-23T16:00:12Z" scratch="false" period="P1"/>
+        <fact id="ee8b7d1a-4a7c-40f8-8028-b0384f5de56e" type="throwin" time="2014-06-23T16:00:24Z" updated_time="2014-06-23T16:00:24Z" scratch="false" x="79" y="1" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="5df32d06-6de7-45a6-8416-cc8bdbada359" type="goal_kick" time="2014-06-23T16:00:38Z" updated_time="2014-06-23T16:00:38Z" scratch="false" x="95" y="50" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Goal kick for Spain at Arena da Baixada.</description>
+        </fact>
+        <fact id="040cfcf5-de54-45fb-bc26-011297cdd420" type="free_kick" time="2014-06-23T16:01:49Z" updated_time="2014-06-23T16:01:49Z" scratch="false" x="78" y="61" clock="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="007aa29c-292c-4977-89bd-c5b0a2df70f8" type="free_kick" time="2014-06-23T16:02:03Z" updated_time="2014-06-23T16:02:03Z" scratch="false" x="38" y="81" clock="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a free kick to Spain.</description>
+        </fact>
+        <fact id="03f09dcf-8572-4b29-983f-ebbeeb83133c" type="goal_kick" time="2014-06-23T16:03:48Z" updated_time="2014-06-23T16:03:48Z" scratch="false" x="95" y="50" clock="3" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah awards Spain a goal kick.</description>
+        </fact>
+        <fact id="9eae66da-bf42-44ec-b87e-f8201f811784" type="throwin" time="2014-06-23T16:04:52Z" updated_time="2014-06-23T16:04:52Z" scratch="false" x="65" y="2" clock="4" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a Australia throw-in in Spain's half.</description>
+        </fact>
+        <fact id="e3c3edf9-382e-40d4-b9be-2407ba7dbf07" type="free_kick" time="2014-06-23T16:05:08Z" updated_time="2014-06-23T16:05:08Z" scratch="false" x="66" y="16" clock="4" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Free kick Australia.</description>
+        </fact>
+        <fact id="e868f015-71d6-4d83-aec7-3cdfe592a7fc" type="shot_off_target" time="2014-06-23T16:04:30Z" updated_time="2014-06-23T16:04:30Z" scratch="false" x="79" y="47" clock="5" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="a251d90d-1fda-41cf-b377-ff68203d2c4d">
+          <description>In Curitiba Australia attack through Mathew Leckie. The finish is off target, however.</description>
+        </fact>
+        <fact id="389dbf7c-bb69-48aa-a4ad-b5af03057013" type="goal_kick" time="2014-06-23T16:04:30Z" updated_time="2014-06-23T16:04:30Z" scratch="false" x="95" y="50" clock="5" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball goes out of play for a Spain goal kick.</description>
+        </fact>
+        <fact id="b351ca22-4b9b-4dc9-9190-1acfe275a2d3" type="free_kick" time="2014-06-23T16:05:32Z" updated_time="2014-06-23T16:05:32Z" scratch="false" x="95" y="49" clock="5" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="4252c25d-7962-4bb6-a078-cd0ce9fd4ef6" type="free_kick" time="2014-06-23T16:06:17Z" updated_time="2014-06-23T16:06:17Z" scratch="false" x="43" y="72" clock="6" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="0196d014-8264-4568-a646-1d085a8b8f61" type="throwin" time="2014-06-23T16:07:26Z" updated_time="2014-06-23T16:07:26Z" scratch="false" x="68" y="1" clock="7" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a5fa574c-8050-4b02-b031-b47956e0e4ca" type="throwin" time="2014-06-23T16:07:47Z" updated_time="2014-06-23T16:07:47Z" scratch="false" x="69" y="2" clock="7" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="081224ba-a979-429c-b65c-2e2952784ed9" type="throwin" time="2014-06-23T16:08:03Z" updated_time="2014-06-23T16:08:03Z" scratch="false" x="75" y="1" clock="7" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="6bea4a87-368d-4365-9f21-6767c6607a0d" type="throwin" time="2014-06-23T16:08:53Z" updated_time="2014-06-23T16:08:53Z" scratch="false" x="30" y="98" clock="8" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a Spain throw-in in Australia's half.</description>
+        </fact>
+        <fact id="8d27be62-e6f8-4ff0-9480-b804b283e0e0" type="throwin" time="2014-06-23T16:09:09Z" updated_time="2014-06-23T16:09:09Z" scratch="false" x="23" y="99" clock="8" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Throw-in Australia.</description>
+        </fact>
+        <fact id="af4e6210-ea29-49e9-8715-1b1f34fa7c61" type="goal_kick" time="2014-06-23T16:09:46Z" updated_time="2014-06-23T16:09:46Z" scratch="false" x="95" y="50" clock="9" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have a goal kick.</description>
+        </fact>
+        <fact id="3615862f-952d-43b1-a5a5-165b11e7dc46" type="throwin" time="2014-06-23T16:10:28Z" updated_time="2014-06-23T16:10:28Z" scratch="false" x="21" y="99" clock="10" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Australia territory.</description>
+        </fact>
+        <fact id="8f9d69cf-3307-4539-8abc-c30339de0429" type="free_kick" time="2014-06-23T16:11:56Z" updated_time="2014-06-23T16:11:56Z" scratch="false" x="35" y="52" clock="11" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a free kick to Australia in their own half.</description>
+        </fact>
+        <fact id="430c7720-8de0-462e-b265-cc702edb9595" type="goal_kick" time="2014-06-23T16:12:43Z" updated_time="2014-06-23T16:12:43Z" scratch="false" x="5" y="50" clock="12" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah awards Australia a goal kick.</description>
+        </fact>
+        <fact id="069652d1-fc0d-4541-b0f3-c2fc242f5731" type="throwin" time="2014-06-23T16:13:59Z" updated_time="2014-06-23T16:13:59Z" scratch="false" x="33" y="99" clock="13" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Ball safe as Australia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="87bcd028-ccc1-4b77-9030-51fc789ce150" type="throwin" time="2014-06-23T16:14:37Z" updated_time="2014-06-23T16:14:37Z" scratch="false" x="30" y="1" clock="14" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Throw-in for Australia in their own half.</description>
+        </fact>
+        <fact id="9ffde811-d8b6-44ce-b1f1-8212199f06b5" type="offside" time="2014-06-23T16:15:40Z" updated_time="2014-06-23T16:15:40Z" scratch="false" x="14" y="30" clock="16" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b">
+          <description>In Curitiba Spain's David Villa is caught offside.</description>
+        </fact>
+        <fact id="d9e36bfe-d4a0-4b20-a668-6c72f6ebcc56" type="shot_blocked" time="2014-06-23T16:16:44Z" updated_time="2014-06-23T16:16:44Z" scratch="false" x="12" y="27" clock="17" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Santi Cazorla (Spain) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="8b998311-13d5-4a2f-8132-5720fa2df106" type="throwin" time="2014-06-23T16:17:42Z" updated_time="2014-06-23T16:17:42Z" scratch="false" x="36" y="2" clock="17" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Throw-in for Australia at Arena da Baixada.</description>
+        </fact>
+        <fact id="0921b431-a7e0-4fe8-a76b-4ca31865d6c1" type="throwin" time="2014-06-23T16:18:48Z" updated_time="2014-06-23T16:18:48Z" scratch="false" x="13" y="99" clock="18" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have a dangerous throw-in.</description>
+        </fact>
+        <fact id="d6ee1e1d-c36e-4fea-b402-bdafde5cc9d3" type="free_kick" time="2014-06-23T16:19:13Z" updated_time="2014-06-23T16:19:13Z" scratch="false" x="31" y="69" clock="19" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a free kick to Spain.</description>
+        </fact>
+        <fact id="72e4faa4-6627-4a43-8a98-d5d9d69c2656" type="goal_kick" time="2014-06-23T16:19:48Z" updated_time="2014-06-23T16:19:48Z" scratch="false" x="5" y="50" clock="19" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia have a goal kick.</description>
+        </fact>
+        <fact id="dfb0ad88-85de-40f3-9ded-c3d5b7df3777" type="offside" time="2014-06-23T16:20:26Z" updated_time="2014-06-23T16:20:26Z" scratch="false" x="5" y="57" clock="21" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b">
+          <description>Spain's David Villa is whistled for offside at Arena da Baixada.</description>
+        </fact>
+        <fact id="12e627ac-0201-4e0b-9d9f-2f2d60358e66" type="throwin" time="2014-06-23T16:22:08Z" updated_time="2014-06-23T16:22:08Z" scratch="false" x="12" y="2" clock="21" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain close to the penalty box.</description>
+        </fact>
+        <fact id="d07e2fca-3089-4de7-8229-cfaaf37201a0" type="keeper_save" time="2014-06-23T16:22:42Z" updated_time="2014-06-23T16:22:42Z" scratch="false" x="11" y="49" clock="22" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12"/>
+        <fact id="c04e3772-6af8-431f-8630-0825a4917b00" type="shot_on_target" time="2014-06-23T16:22:42Z" updated_time="2014-06-23T16:22:42Z" scratch="false" x="11" y="49" clock="23" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="314252ba-4bc9-43da-b1bd-9793afbc4f74">
+          <description>Spain push forward through Jordi Alba, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="fdb76741-4971-4308-83ad-d80788d73af1" type="throwin" time="2014-06-23T16:23:30Z" updated_time="2014-06-23T16:23:30Z" scratch="false" x="30" y="1" clock="23" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Australia territory.</description>
+        </fact>
+        <fact id="f03548e5-3faf-4a72-ad23-505fd78e642c" type="shot_blocked" time="2014-06-23T16:23:26Z" updated_time="2014-06-23T16:23:26Z" scratch="false" x="12" y="49" clock="24" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain push forward at Arena da Baixada and Fernando Torres gets in a strike. This is blocked, however, by a determined Australia defence.</description>
+        </fact>
+        <fact id="af58551d-0ada-4214-8498-8f9742b0dd31" type="offside" time="2014-06-23T16:26:04Z" updated_time="2014-06-23T16:26:04Z" scratch="false" x="33" y="75" clock="26" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b">
+          <description>Nawaf Shukrallah blows against Spain's David Villa for offside.</description>
+        </fact>
+        <fact id="512973f7-e84c-491b-b7ed-c16d2a935cb5" type="game_resumed" time="2014-06-23T16:26:17Z" updated_time="2014-06-23T16:26:17Z" scratch="false" clock="26">
+          <description>Play has been resumed at Arena da Baixada.</description>
+        </fact>
+        <fact id="2d7eb062-3eab-4fb2-a8a0-783aee2ea6c5" type="throwin" time="2014-06-23T16:26:48Z" updated_time="2014-06-23T16:26:48Z" scratch="false" x="55" y="99" clock="26" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain at Arena da Baixada.</description>
+        </fact>
+        <fact id="89200a08-5d0d-4048-8659-74c979472496" type="injury_return" time="2014-06-23T16:26:55Z" updated_time="2014-06-23T16:26:55Z" scratch="false" clock="26" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>Fernando Torres has recovered and rejoins the match in Curitiba.</description>
+        </fact>
+        <fact id="f2a0abab-de51-4b24-a0e7-a6dbe04e8b5d" type="throwin" time="2014-06-23T16:26:59Z" updated_time="2014-06-23T16:26:59Z" scratch="false" x="60" y="99" clock="26" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="ff7247c0-cb38-45ce-b059-3ee49cf5ac49" type="throwin" time="2014-06-23T16:27:06Z" updated_time="2014-06-23T16:27:06Z" scratch="false" x="81" y="100" clock="26" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a throw-in for Australia, close to Spain's area.</description>
+        </fact>
+        <fact id="be491d45-5d35-4e36-b702-5935623dceb8" type="injury" time="2014-06-23T16:26:15Z" updated_time="2014-06-23T16:26:15Z" scratch="false" x="33" y="75" clock="27" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>The match at Arena da Baixada has been interrupted briefly for a check on Fernando Torres, who is down injured.</description>
+        </fact>
+        <fact id="020b18e7-c778-41d8-a21c-18bf0eaad81e" type="free_kick" time="2014-06-23T16:28:04Z" updated_time="2014-06-23T16:28:04Z" scratch="false" x="41" y="42" clock="27" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="fa410abb-0891-42c7-8c6b-841d43824aa6" type="goal_kick" time="2014-06-23T16:29:14Z" updated_time="2014-06-23T16:29:14Z" scratch="false" x="5" y="50" clock="29" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Ball goes out of play for a Australia goal kick.</description>
+        </fact>
+        <fact id="21465f32-51d9-4f8d-84e8-a9356b9f6286" type="throwin" time="2014-06-23T16:29:43Z" updated_time="2014-06-23T16:29:43Z" scratch="false" x="72" y="1" clock="29" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="1cf5487f-86c4-4762-9095-1d67cb5f9969" type="throwin" time="2014-06-23T16:30:11Z" updated_time="2014-06-23T16:30:11Z" scratch="false" x="67" y="2" clock="30" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="a721a93c-03aa-41f4-a9af-1caf3edda7ec" type="shot_blocked" time="2014-06-23T16:31:32Z" updated_time="2014-06-23T16:31:32Z" scratch="false" x="4" y="100" clock="32" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain drive upfield and David Villa gets in a shot. The strike is blocked by a Australia defender.</description>
+        </fact>
+        <fact id="603b6e57-5402-4678-827b-56eb729d0c22" type="corner_kick" time="2014-06-23T16:31:48Z" updated_time="2014-06-23T16:31:48Z" scratch="false" x="5" y="90" clock="32" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="710b15c9-02c0-4719-a7f2-cfe226faac7d" type="free_kick" time="2014-06-23T16:32:22Z" updated_time="2014-06-23T16:32:22Z" scratch="false" x="11" y="56" clock="32" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="841cb302-aedf-4679-8da1-97cfe87fb9ea" type="throwin" time="2014-06-23T16:32:39Z" updated_time="2014-06-23T16:32:39Z" scratch="false" x="53" y="1" clock="32" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a Australia throw-in in Spain's half.</description>
+        </fact>
+        <fact id="382e15f3-8aaa-4936-804a-64dda7fae8ff" type="free_kick" time="2014-06-23T16:32:59Z" updated_time="2014-06-23T16:32:59Z" scratch="false" x="68" y="13" clock="32" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="0303f1e5-3303-44d7-99d7-7ef8983a44e0" type="throwin" time="2014-06-23T16:33:32Z" updated_time="2014-06-23T16:33:32Z" scratch="false" x="11" y="2" clock="33" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Ball safe as Australia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="27d8a069-2070-42b5-8a11-f59d5e5f3cc5" type="throwin" time="2014-06-23T16:34:07Z" updated_time="2014-06-23T16:34:07Z" scratch="false" x="55" y="98" clock="33" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a Australia throw-in in Spain's half.</description>
+        </fact>
+        <fact id="3a9084ad-781d-4eca-a360-df5a38bac71e" type="throwin" time="2014-06-23T16:34:32Z" updated_time="2014-06-23T16:34:32Z" scratch="false" x="71" y="99" clock="34" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="c4b6bda3-6130-439c-aa97-47326771b8e0" type="goal" time="2014-06-23T16:35:48Z" updated_time="2014-06-23T16:35:54Z" scratch="false" x="14" y="43" clock="36" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b" assist1_id="64454211-fb46-47fc-9ab0-fa005e3f6f4f">
+          <description>Juanfran with an assist there.</description>
+        </fact>
+        <fact id="cf953f9b-a1cc-44d0-be29-183bba4862d5" type="free_kick" time="2014-06-23T16:37:32Z" updated_time="2014-06-23T16:37:32Z" scratch="false" x="71" y="17" clock="37" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="9ee8fcd9-63a5-4c05-afba-dc5cf8f0f9ac" type="throwin" time="2014-06-23T16:38:07Z" updated_time="2014-06-23T16:38:07Z" scratch="false" x="39" y="98" clock="37" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="5b0dfa4b-b1f3-485d-98a4-69fce728e9cb" type="throwin" time="2014-06-23T16:39:46Z" updated_time="2014-06-23T16:39:46Z" scratch="false" x="59" y="2" clock="39" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="368780d4-5b8b-437c-bfa2-1090c2839cea" type="free_kick" time="2014-06-23T16:40:30Z" updated_time="2014-06-23T16:40:30Z" scratch="false" x="41" y="63" clock="40" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a free kick to Spain.</description>
+        </fact>
+        <fact id="99a0dd67-e5a1-4364-9004-de4c3ff97d6a" type="keeper_save" time="2014-06-23T16:40:45Z" updated_time="2014-06-23T16:40:45Z" scratch="false" x="4" y="94" clock="40" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12"/>
+        <fact id="2bb21596-239a-4fe0-b146-e6976be7976c" type="shot_on_target" time="2014-06-23T16:40:45Z" updated_time="2014-06-23T16:40:45Z" scratch="false" x="4" y="94" clock="41" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="0030db97-73fc-483d-ad7e-230b2544ead1">
+          <description>In Curitiba Spain drive forward through Koke. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="232fb03f-b672-4602-a142-9d77a16640d3" type="corner_kick" time="2014-06-23T16:41:06Z" updated_time="2014-06-23T16:41:06Z" scratch="false" x="5" y="90" clock="41" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="3a4000b8-d8ce-4bb8-8c8c-45090d3d1aa9" type="throwin" time="2014-06-23T16:41:13Z" updated_time="2014-06-23T16:41:13Z" scratch="false" x="35" y="1" clock="41" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Australia territory.</description>
+        </fact>
+        <fact id="a02593ca-5209-424b-aca4-f28dd93ff5d9" type="throwin" time="2014-06-23T16:41:55Z" updated_time="2014-06-23T16:41:55Z" scratch="false" x="38" y="1" clock="41" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a90cf97a-cf46-4c46-8942-e9790a2f4e0b" type="throwin" time="2014-06-23T16:42:16Z" updated_time="2014-06-23T16:42:16Z" scratch="false" x="76" y="98" clock="42" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="36ecb6e0-dbe3-4767-a4e9-c0e7bbe8faa5" type="free_kick" time="2014-06-23T16:42:35Z" updated_time="2014-06-23T16:42:35Z" scratch="false" x="66" y="79" clock="42" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Free kick Australia.</description>
+        </fact>
+        <fact id="28e95e5c-a827-401e-9b8f-62d23cc603a0" type="corner_kick" time="2014-06-23T16:45:17Z" updated_time="2014-06-23T16:45:17Z" scratch="false" x="5" y="90" clock="45" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="bd2021f8-421d-4728-b7c5-ee32feaf5ec2" type="throwin" time="2014-06-23T16:45:29Z" updated_time="2014-06-23T16:45:29Z" scratch="false" x="68" y="1" clock="45" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a Australia throw-in in Spain's half.</description>
+        </fact>
+        <fact id="c078e2bc-ffd6-434f-b61e-6b8f785cf7db" type="free_kick" time="2014-06-23T16:45:52Z" updated_time="2014-06-23T16:45:52Z" scratch="false" x="87" y="14" clock="45" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia capitalize from this dangerous free kick?</description>
+        </fact>
+        <fact id="759c57cc-aaac-4d81-a186-e675098a3129" type="period_over" time="2014-06-23T16:46:38Z" updated_time="2014-06-23T16:46:38Z" scratch="false" home_score="0" away_score="1" period="P1">
+          <description>The first-half has ended.</description>
+        </fact>
+        <fact id="3bbe0fca-37d1-4939-b91b-e7d32c95f6ba" type="period_started" time="2014-06-23T16:46:38Z" updated_time="2014-06-23T16:46:38Z" scratch="false" period="H"/>
+        <fact id="c3552e4f-9021-4357-9070-0934022449df" type="period_started" time="2014-06-23T17:02:54Z" updated_time="2014-06-23T17:02:54Z" scratch="false" period="P2"/>
+        <fact id="6e4b85c6-4c38-4f78-8ffc-5aca8230e9a7" type="throwin" time="2014-06-23T17:03:15Z" updated_time="2014-06-23T17:03:15Z" scratch="false" x="55" y="99" clock="45" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="3016e51e-a188-4239-a735-3e7078fa4d27" type="injury_time" time="2014-06-23T16:45:48Z" updated_time="2014-06-23T16:45:48Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>Nawaf Shukrallah will wait an extra 1 minutes before blowing the whistle to end the first half.</description>
+        </fact>
+        <fact id="521c5a59-8295-4589-a557-20a0d7a0a5bc" type="substitution" time="2014-06-23T17:02:30Z" updated_time="2014-06-23T17:02:30Z" scratch="false" clock="46" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_out_id="4ab94bff-252f-438f-87cc-2da7ee311ee3" player_in_id="1176d5b3-c87f-4075-ad1c-f7c62af59562">
+          <description>Ange Postecoglou (Australia) is making a first substitution, with Ben Halloran replacing Adam Taggart.</description>
+        </fact>
+        <fact id="724b530f-1c59-4a38-9d44-ff790e85c80f" type="throwin" time="2014-06-23T17:04:07Z" updated_time="2014-06-23T17:04:07Z" scratch="false" x="62" y="100" clock="46" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="a6a933b1-efc6-4c6d-b944-0254ad754ec6" type="free_kick" time="2014-06-23T17:04:27Z" updated_time="2014-06-23T17:04:27Z" scratch="false" x="85" y="80" clock="46" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="6bc2eae2-e4e1-4b58-ae74-beccfe7d8285" type="throwin" time="2014-06-23T17:05:32Z" updated_time="2014-06-23T17:05:32Z" scratch="false" x="59" y="2" clock="47" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="e80b0c85-af89-4505-bb05-d92a90319809" type="goal_kick" time="2014-06-23T17:07:18Z" updated_time="2014-06-23T17:07:18Z" scratch="false" x="95" y="50" clock="49" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Goal kick for Spain at Arena da Baixada.</description>
+        </fact>
+        <fact id="5e81b7f5-db5c-4b24-9c2c-23d1e224b47a" type="throwin" time="2014-06-23T17:08:13Z" updated_time="2014-06-23T17:08:13Z" scratch="false" x="61" y="1" clock="50" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="4eace227-48e4-4eeb-a100-6308aa28ad74" type="goal_kick" time="2014-06-23T17:09:53Z" updated_time="2014-06-23T17:09:53Z" scratch="false" x="5" y="50" clock="51" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Goal kick for Australia at Arena da Baixada.</description>
+        </fact>
+        <fact id="92fee099-2a2f-43a5-84a1-b344bcb6fe80" type="offside" time="2014-06-23T17:11:38Z" updated_time="2014-06-23T17:11:38Z" scratch="false" x="8" y="63" clock="54" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>Spain's Fernando Torres is whistled for offside at Arena da Baixada.</description>
+        </fact>
+        <fact id="4b18b3f5-eb8b-47b4-8316-31b511409e51" type="throwin" time="2014-06-23T17:13:02Z" updated_time="2014-06-23T17:13:02Z" scratch="false" x="68" y="2" clock="55" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="eb45490c-5bf8-495c-a4a3-8c400099bf5c" type="offside" time="2014-06-23T17:13:26Z" updated_time="2014-06-23T17:13:26Z" scratch="false" x="9" y="63" clock="56" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>Nawaf Shukrallah blows against Spain's Fernando Torres for offside.</description>
+        </fact>
+        <fact id="170e8cf1-e26e-4f1a-8da0-9c0caf272685" type="substitution" time="2014-06-23T17:14:18Z" updated_time="2014-06-23T17:14:18Z" scratch="false" clock="56" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b" player_in_id="086fa327-2bb3-4096-92f6-51d09dee3161">
+          <description>Vicente del Bosque is making the team's first substitution at Arena da Baixada with Juan Mata replacing David Villa.</description>
+        </fact>
+        <fact id="e63b08c5-3102-4e2b-81f0-9d17d53edbfd" type="throwin" time="2014-06-23T17:14:52Z" updated_time="2014-06-23T17:14:52Z" scratch="false" x="48" y="2" clock="56" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a Spain throw-in in Australia's half.</description>
+        </fact>
+        <fact id="95df5952-c07d-4c0e-af2c-8fcbbad883a7" type="injury" time="2014-06-23T17:16:05Z" updated_time="2014-06-23T17:18:40Z" scratch="false" x="94" y="4" clock="58" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="e7279901-aa18-4841-931e-bc68e2c976be">
+          <description>Play has been interrupted briefly in Curitiba to check on Thomas Oar, who is grimacing with pain.</description>
+        </fact>
+        <fact id="5db6fffe-1e23-436a-a86d-af205e24786e" type="game_resumed" time="2014-06-23T17:16:06Z" updated_time="2014-06-23T17:16:06Z" scratch="false" clock="58">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="ebcefb53-793d-44db-80e9-b50141e5fda1" type="corner_kick" time="2014-06-23T17:16:19Z" updated_time="2014-06-23T17:16:19Z" scratch="false" x="95" y="5" clock="59" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="7cae32eb-aa6c-43e9-9cca-89c2969bacdb" type="shot_off_target" time="2014-06-23T17:16:28Z" updated_time="2014-06-23T17:16:28Z" scratch="false" x="72" y="54" clock="59" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="19bd1b38-e49c-4201-a410-8c552dd3d4ef">
+          <description>Australia's Matt McKay gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="9e410e63-fafc-4fb0-9cf4-96ad5c301ab2" type="goal_kick" time="2014-06-23T17:16:28Z" updated_time="2014-06-23T17:16:28Z" scratch="false" x="95" y="50" clock="59" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah awards Spain a goal kick.</description>
+        </fact>
+        <fact id="a5497128-f2d8-40f6-b415-d942e3d7d4d3" type="free_kick" time="2014-06-23T17:17:36Z" updated_time="2014-06-23T17:17:36Z" scratch="false" x="56" y="78" clock="59" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a free kick to Australia.</description>
+        </fact>
+        <fact id="ef88c2ab-5ee3-46a4-8aac-1aafe29a3854" type="free_kick" time="2014-06-23T17:18:32Z" updated_time="2014-06-23T17:18:32Z" scratch="false" x="89" y="20" clock="60" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="3f5be7b9-167f-459f-91a8-826403926b0e" type="substitution" time="2014-06-23T17:18:40Z" updated_time="2014-06-23T17:18:40Z" scratch="false" clock="61" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_out_id="e7279901-aa18-4841-931e-bc68e2c976be" player_in_id="89c187db-3f4d-42ec-82f4-e2ebd51ed3f2">
+          <description>Thomas Oar (Australia) does not seem to be able to continue. He is replaced by James Troisi.</description>
+        </fact>
+        <fact id="0ad93e53-87dc-4b6e-952b-7e9ac98ee649" type="free_kick" time="2014-06-23T17:19:25Z" updated_time="2014-06-23T17:19:25Z" scratch="false" x="60" y="67" clock="61" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Free kick Australia.</description>
+        </fact>
+        <fact id="ae23cb81-970d-4494-87b8-90608069fe03" type="card" time="2014-06-23T17:19:35Z" updated_time="2014-06-23T17:19:35Z" scratch="false" clock="62" card="Y" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4">
+          <description>Sergio Ramos (Spain) has received a yellow card from Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="eb5881e9-a7e0-4b34-97e1-c8d524d4cee6" type="throwin" time="2014-06-23T17:20:20Z" updated_time="2014-06-23T17:20:20Z" scratch="false" x="26" y="98" clock="62" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a Spain throw-in in Australia's half.</description>
+        </fact>
+        <fact id="5ca0978b-6680-409c-bad6-9d7c297b0252" type="throwin" time="2014-06-23T17:22:04Z" updated_time="2014-06-23T17:22:04Z" scratch="false" x="73" y="0" clock="64" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="1261d20d-99fa-4505-9236-96ff2a2295a4" type="throwin" time="2014-06-23T17:22:48Z" updated_time="2014-06-23T17:22:48Z" scratch="false" x="55" y="98" clock="64" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="90d61cf4-5c7c-4e43-9e37-5b90afa1f2f5" type="goal_kick" time="2014-06-23T17:24:49Z" updated_time="2014-06-23T17:24:49Z" scratch="false" x="5" y="50" clock="66" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Ball goes out of play for a Australia goal kick.</description>
+        </fact>
+        <fact id="0965ab2e-82c6-4e92-a308-24f20928e2e0" type="free_kick" time="2014-06-23T17:25:38Z" updated_time="2014-06-23T17:25:38Z" scratch="false" x="32" y="63" clock="67" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a free kick to Australia in their own half.</description>
+        </fact>
+        <fact id="75bcd6ab-a6c0-4ea0-8bf8-021562244767" type="substitution" time="2014-06-23T17:25:21Z" updated_time="2014-06-23T17:25:21Z" scratch="false" clock="68" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="898df2e4-9341-43c4-94e3-96f6ef936508" player_in_id="556210cb-0bdc-4cd8-b67f-a6fad49f89a7">
+          <description>Cesc Fabregas is on a sub for Santi Cazorla for Spain.</description>
+        </fact>
+        <fact id="90913697-eba1-4481-ad5f-cd0b7834f74a" type="goal" time="2014-06-23T17:26:42Z" updated_time="2014-06-23T17:26:48Z" scratch="false" x="13" y="56" clock="69" home_score="0" away_score="2" penalty="false" owngoal="false" header="false" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f" assist1_id="33e99add-6f13-4a68-abee-d26d3815a0f2">
+          <description>That's a fine assist from Iniesta.</description>
+        </fact>
+        <fact id="23e4a28a-8593-41e2-8269-2ad2986ad676" type="throwin" time="2014-06-23T17:28:31Z" updated_time="2014-06-23T17:28:31Z" scratch="false" x="40" y="1" clock="70" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a Spain throw-in in Australia's half.</description>
+        </fact>
+        <fact id="611e7b77-216f-4663-a73b-7225bbe50ec9" type="corner_kick" time="2014-06-23T17:28:20Z" updated_time="2014-06-23T17:28:41Z" scratch="false" x="5" y="5" clock="71" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="9ab24a2f-65fb-4d7c-aaf4-9af0c17845f5" type="throwin" time="2014-06-23T17:29:03Z" updated_time="2014-06-23T17:29:03Z" scratch="false" x="39" y="98" clock="71" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Throw-in for Australia at Arena da Baixada.</description>
+        </fact>
+        <fact id="68ee245d-c954-4093-b77d-5c500e886583" type="throwin" time="2014-06-23T17:29:37Z" updated_time="2014-06-23T17:29:37Z" scratch="false" x="59" y="98" clock="71" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="8574e2a5-1fff-4485-a6b8-a1630000d83e" type="substitution" time="2014-06-23T17:29:16Z" updated_time="2014-06-23T17:29:16Z" scratch="false" clock="72" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_out_id="661c460e-18c2-41c0-8e98-41c3d2476ad7" player_in_id="2e2cf7c0-c545-41eb-a585-998ef92a45ef">
+          <description>Australia make their third substitution with Mark Bresciano replacing Oliver Bozanic.</description>
+        </fact>
+        <fact id="c4648713-8df3-4b8b-9b17-f893505b842c" type="shot_off_target" time="2014-06-23T17:29:53Z" updated_time="2014-06-23T17:29:53Z" scratch="false" x="79" y="40" clock="72" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="89c187db-3f4d-42ec-82f4-e2ebd51ed3f2">
+          <description>James Troisi for Australia gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="2668aadd-d58a-41b3-9bd0-4ceef3bb6808" type="goal_kick" time="2014-06-23T17:29:53Z" updated_time="2014-06-23T17:29:53Z" scratch="false" x="95" y="50" clock="72" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have a goal kick.</description>
+        </fact>
+        <fact id="f0077f73-1892-4322-a4f3-fbf4d7018e8c" type="offside" time="2014-06-23T17:31:03Z" updated_time="2014-06-23T17:31:03Z" scratch="false" x="15" y="37" clock="74" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="556210cb-0bdc-4cd8-b67f-a6fad49f89a7">
+          <description>In Curitiba Spain's Cesc Fabregas is caught offside.</description>
+        </fact>
+        <fact id="73807812-7a90-44b5-b637-2b850c38adfc" type="corner_kick" time="2014-06-23T17:32:45Z" updated_time="2014-06-23T17:32:45Z" scratch="false" x="5" y="5" clock="75" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="bd59a463-3643-4bb7-b09a-94c828a5cc22" type="corner_kick" time="2014-06-23T17:34:16Z" updated_time="2014-06-23T17:35:34Z" scratch="false" x="5" y="90" clock="77" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="426087e9-d2a9-4233-9e7d-a9e87269c7c6" type="free_kick" time="2014-06-23T17:35:57Z" updated_time="2014-06-23T17:35:57Z" scratch="false" x="59" y="83" clock="78" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="39b7b376-ac58-4bfc-be34-90184910053c" type="free_kick" time="2014-06-23T17:36:42Z" updated_time="2014-06-23T17:36:42Z" scratch="false" x="54" y="50" clock="78" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Nawaf Shukrallah signals a free kick to Australia.</description>
+        </fact>
+        <fact id="81b726ad-0a94-400c-8a17-2244a7fbcca5" type="goal" time="2014-06-23T17:39:38Z" updated_time="2014-06-23T17:39:48Z" scratch="false" clock="82" home_score="0" away_score="3" penalty="false" owngoal="false" header="false" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="086fa327-2bb3-4096-92f6-51d09dee3161" assist1_id="556210cb-0bdc-4cd8-b67f-a6fad49f89a7">
+          <description>Great play from Cesc Fabregas to set up the goal.</description>
+        </fact>
+        <fact id="8f52d4e4-5476-4d6c-b815-98087b03d845" type="substitution" time="2014-06-23T17:40:43Z" updated_time="2014-06-23T17:40:43Z" scratch="false" clock="83" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f" player_in_id="931d019e-0f91-4c7f-b389-a971555a8dc0">
+          <description>David Silva is replacing Xabi Alonso for Spain at Arena da Baixada.</description>
+        </fact>
+        <fact id="b9dfa9fb-55eb-44af-85c6-7386e65f566b" type="throwin" time="2014-06-23T17:41:14Z" updated_time="2014-06-23T17:41:14Z" scratch="false" x="66" y="99" clock="83" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Can Australia get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="2536356f-1a5e-43db-bcce-9771aa73fde7" type="injury" time="2014-06-23T17:42:18Z" updated_time="2014-06-23T17:42:18Z" scratch="false" x="41" y="54" clock="85" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="ad3f22d9-ac32-4b11-bea6-1880b8aa73bb">
+          <description>Attention is being given to Australia’s Matthew Spiranovic and play has been suspended briefly.</description>
+        </fact>
+        <fact id="fa688e0e-4cdf-46ff-a451-c5bf8483faf2" type="game_resumed" time="2014-06-23T17:42:59Z" updated_time="2014-06-23T17:42:59Z" scratch="false" clock="85">
+          <description>The match at Arena da Baixada is underway again.</description>
+        </fact>
+        <fact id="63977daf-ba44-4483-bddb-1e5c4f3cc17d" type="injury_return" time="2014-06-23T17:43:14Z" updated_time="2014-06-23T17:43:14Z" scratch="false" clock="85" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="ad3f22d9-ac32-4b11-bea6-1880b8aa73bb">
+          <description>Australia’s Matthew Spiranovic is on his feet again at Arena da Baixada.</description>
+        </fact>
+        <fact id="2402ca75-d76b-48fa-8fcc-d7d1d48fbd9a" type="free_kick" time="2014-06-23T17:43:39Z" updated_time="2014-06-23T17:43:39Z" scratch="false" x="61" y="70" clock="85" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="e0e812c2-8618-43d4-a616-f7afc33f44c2" type="corner_kick" time="2014-06-23T17:44:45Z" updated_time="2014-06-23T17:44:56Z" scratch="false" x="95" y="5" clock="87" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="d12c6955-b66f-4007-ad35-32c5c8a934e9" type="shot_off_target" time="2014-06-23T17:45:05Z" updated_time="2014-06-23T17:45:05Z" scratch="false" x="88" y="62" clock="87" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="ad3f22d9-ac32-4b11-bea6-1880b8aa73bb">
+          <description>Matthew Spiranovic of Australia gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="2101dcfc-a55e-4ad1-8d79-4e72fa804a12" type="goal_kick" time="2014-06-23T17:45:05Z" updated_time="2014-06-23T17:45:05Z" scratch="false" x="95" y="50" clock="87" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nawaf Shukrallah awards Spain a goal kick.</description>
+        </fact>
+        <fact id="822ac862-0f24-40d7-9026-ba9ee102c0e7" type="free_kick" time="2014-06-23T17:45:52Z" updated_time="2014-06-23T17:45:52Z" scratch="false" x="63" y="38" clock="87" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="8cc6a3f4-4039-4e09-abda-2a7ab39cc3c5" type="card" time="2014-06-23T17:45:48Z" updated_time="2014-06-23T17:45:48Z" scratch="false" clock="88" card="Y" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="ad3f22d9-ac32-4b11-bea6-1880b8aa73bb">
+          <description>Matthew Spiranovic for Australia has been booked by Nawaf Shukrallah and receives a first yellow card.</description>
+        </fact>
+        <fact id="8300591b-2694-4590-8454-9f4a61a11a92" type="throwin" time="2014-06-23T17:46:52Z" updated_time="2014-06-23T17:46:52Z" scratch="false" x="16" y="2" clock="88" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Throw-in for Australia at Arena da Baixada.</description>
+        </fact>
+        <fact id="d008c113-a1dc-4dbf-9039-8ffa02bc0a13" type="shot_off_target" time="2014-06-23T17:46:14Z" updated_time="2014-06-23T17:46:14Z" scratch="false" x="21" y="50" clock="89" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="931d019e-0f91-4c7f-b389-a971555a8dc0">
+          <description>Spain's David Silva breaks free at Arena da Baixada. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="7769cc80-48b8-443a-9f10-60fef9473c50" type="goal_kick" time="2014-06-23T17:46:14Z" updated_time="2014-06-23T17:46:14Z" scratch="false" x="5" y="50" clock="89" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Australia have a goal kick.</description>
+        </fact>
+        <fact id="428abc3b-b573-431f-bf6e-f61eb74248dd" type="throwin" time="2014-06-23T17:47:20Z" updated_time="2014-06-23T17:47:20Z" scratch="false" x="67" y="99" clock="89" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="9333cee1-9b86-47a8-a833-3e1fca6649a0" type="shot_blocked" time="2014-06-23T17:48:14Z" updated_time="2014-06-23T17:48:14Z" scratch="false" x="13" y="53" clock="90" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Important block from the Australia defence as Juan Mata fires in a strike for Spain.</description>
+        </fact>
+        <fact id="6f23e09b-b14d-4aff-aaae-588bfdf2309c" type="injury_time" time="2014-06-23T17:48:29Z" updated_time="2014-06-23T17:48:29Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>3 minutes of injury time will be added to the second half.</description>
+        </fact>
+        <fact id="81f9fed3-0ddb-40ff-86ca-52436c92a7f8" type="free_kick" time="2014-06-23T17:48:58Z" updated_time="2014-06-23T17:48:58Z" scratch="false" x="28" y="45" clock="90" injury_time="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="bafafd92-7b65-49b8-b075-56726e6f1eb9" type="card" time="2014-06-23T17:49:26Z" updated_time="2014-06-23T17:49:26Z" scratch="false" clock="90" injury_time="1" card="Y" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12" player_id="19546276-811e-4310-a682-2849e0efabfa">
+          <description>Mile Jedinak (Australia) has been booked and will miss the next match due to a suspension.</description>
+        </fact>
+        <fact id="e063c9e8-bc45-4d66-a700-9f8ce70d1bc2" type="shot_off_target" time="2014-06-23T17:50:14Z" updated_time="2014-06-23T17:50:14Z" scratch="false" x="28" y="45" clock="90" injury_time="2" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4">
+          <description>Spain's Sergio Ramos misses with an attempt on goal.</description>
+        </fact>
+        <fact id="04ba52f9-71bd-48a1-a26a-5d716db22e57" type="goal_kick" time="2014-06-23T17:50:14Z" updated_time="2014-06-23T17:50:14Z" scratch="false" x="5" y="50" clock="90" injury_time="2" team_id="1db0a670-8394-49f4-9049-d0ef1dfdce12">
+          <description>Ball goes out of play for a Australia goal kick.</description>
+        </fact>
+        <fact id="a4472fbb-6c56-4738-84b5-ef6b7f5bd699" type="period_over" time="2014-06-23T17:51:00Z" updated_time="2014-06-23T17:51:00Z" scratch="false" home_score="0" away_score="3" period="P2">
+          <description>Nawaf Shukrallah blows to end the match. The final score is 0-3.</description>
+        </fact>
+        <fact id="1d36525e-5693-4c73-8369-c6a6b7b5c053" type="match_ended" time="2014-06-23T17:51:00Z" updated_time="2014-06-23T17:51:00Z" scratch="false" home_score="0" away_score="3" winner_id="7ed29820-2a75-4440-a7ab-3fb004887f44" draw="false"/>
+      </facts>
+      <!-- 4768730/4741/4698 -->
+    </match>
+  </matches>
+</summary>

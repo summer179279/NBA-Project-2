@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-06-28T20:15:39Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="9ccf78a3-5c63-40d3-b618-007952b52738" status="closed" scratched="false" period="P" scheduled="2014-06-28T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="26" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" loser_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="9ccf78a3-5c63-40d3-b618-007952b52738" status="closed" number="1" home_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" away_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" home_score="4" away_score="3"/>
+      </round>
+      <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" formation="4-2-3-1" score="4" regular_score="1" penalty_score="3" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="0" number="3"/>
+          <penalty points="3" number="4"/>
+        </scoring>
+        <statistics attacks="132" ball_safe="129" corner_kicks="9" dangerous_attacks="77" fouls="27" free_kicks="24" goal_attempts="22" goal_kicks="9" offsides="2" saves="2" shots_total="22" substitutions="3" throw_ins="31" yellow_card="4" shots_on_target="10" shots_off_target="12" possessions="47"/>
+        <players>
+          <player id="2c674fe0-d706-4450-bf33-2e747265fbbf" country_code="BRA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Oscar" last_name="" country="Brazil" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="baff433f-1856-4420-b98f-4102bd835ac2" country_code="BRA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Julio Cesar" last_name="" country="Brazil" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4d72c82f-34bd-4725-be0f-b6f529f7f840" country_code="BRA" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Jo" last_name="" country="Brazil" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="423e9818-7882-422f-bd8c-babf53135cfc" country_code="BRA" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Neymar" last_name="" country="Brazil" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6" country_code="BRA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Fred" last_name="" country="Brazil" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0769b903-d74f-492b-815f-3b684b282a1a" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Hernanes" last_name="" country="Brazil" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2391fa91-c665-4ab1-8ec5-3b0d59bfbdf3" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dante" last_name="" country="Brazil" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2be00660-77db-4c8e-b704-f0ec23bf6564" country_code="BRA" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Willian" last_name="" country="Brazil" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0619d154-9b12-428e-a423-787eb2274bb7" country_code="BRA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Marcelo" last_name="" country="Brazil" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3c384bea-5bfb-4071-9179-97774689573b" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Maxwell" last_name="" country="Brazil" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0957db74-9775-4dc9-9cc1-df3d48bb2c93" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Luiz" last_name="Gustavo" country="Brazil" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="26301547-f620-4420-828f-2b091891e1c8" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Maicon" last_name="" country="Brazil" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="35b62918-6ee1-41c1-8272-ff02318e4189" country_code="BRA" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Hulk" last_name="" country="Brazil" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8e24463d-d0d2-4980-b098-00baa4119a25" country_code="BRA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Dani" last_name="Alves" country="Brazil" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1a3bd491-fc1c-4adf-8510-5211381349b2" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Victor" last_name="" country="Brazil" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="70edfb19-0496-4821-bf6a-c839057c10d2" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="David" last_name="Luiz" country="Brazil" jersey_number="4">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4f4b810b-3f0c-41f1-b821-643b86197b41" country_code="BRA" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Ramires" last_name="" country="Brazil" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="000a2eea-2ad2-4f9d-91ac-264d4f4029e3" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Thiago" last_name="Silva" country="Brazil" jersey_number="3">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="187285b3-9e1c-473b-9c41-15a47a1d6766" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Henrique" last_name="" country="Brazil" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Fernandinho" last_name="" country="Brazil" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="3fa8f2d3-f729-4c83-ae5a-c9f1d03f7021" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Jefferson" last_name="" country="Brazil" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="613a1283-a812-40bb-bdd9-a52b6f8836f1" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Paulinho" last_name="" country="Brazil" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="eef74fad-80fa-45a1-9809-18598b4efbea" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Bernard" last_name="" country="Brazil" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" formation="5-3-2" score="3" regular_score="1" penalty_score="2" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="0" number="3"/>
+          <penalty points="2" number="4"/>
+        </scoring>
+        <statistics attacks="131" ball_safe="138" corner_kicks="5" dangerous_attacks="57" fouls="23" free_kicks="29" goal_attempts="10" goal_kicks="14" offsides="1" saves="9" shots_total="10" substitutions="3" throw_ins="34" yellow_card="3" shots_on_target="4" shots_off_target="6" possessions="53"/>
+        <players>
+          <player id="5821a055-9e0f-4084-86ab-8d569a154794" country_code="CHL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jose" last_name="Fuenzalida" country="Chile" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b632e44e-1429-4595-8ca3-a39ee7bde8af" country_code="CHL" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Felipe" last_name="Gutierrez" country="Chile" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d2e450ae-4387-4812-a73e-ca624e1a16ff" country_code="CHL" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Charles" last_name="Aranguiz" country="Chile" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f64b0af4-4f3b-4906-b0bf-6e2144708c3e" country_code="CHL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Jorge Valdivia" last_name="" country="Chile" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4d63ec68-3746-4f32-b186-16663db470d6" country_code="CHL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Cristopher" last_name="Toselli" country="Chile" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e33301db-3ab3-401b-be57-404b2f6ba35d" country_code="CHL" position="D" started="true" tactical_position="4" tactical_order="6" first_name="Eugenio" last_name="Mena" country="Chile" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="592e55c3-0919-47ba-a0d4-0a8d7257f525" country_code="CHL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Carlos" last_name="Carmona" country="Chile" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7672d0bc-8ba2-4c2d-8d32-6171f6c7ffaa" country_code="CHL" position="M" started="true" tactical_position="6" tactical_order="9" first_name="Marcelo" last_name="Diaz" country="Chile" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7655e0b0-7997-4a38-89ac-7a3051405002" country_code="CHL" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Claudio" last_name="Bravo" country="Chile" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7389da24-007c-4b95-ae32-156ba050b626" country_code="CHL" position="M" started="true" tactical_position="2" tactical_order="2" first_name="Mauricio" last_name="Isla" country="Chile" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="86195b47-9a09-49e2-9488-b1e8e1c0507e" country_code="CHL" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Eduardo" last_name="Vargas" country="Chile" jersey_number="11">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="cfb0f3c6-43d9-4e72-b920-764ea0c3c338" country_code="CHL" position="M" started="true" tactical_position="3" tactical_order="3" first_name="Francisco" last_name="Silva" country="Chile" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ffac2545-22b8-4227-9ebb-16ffbf95323b" country_code="CHL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Johnny" last_name="Herrera" country="Chile" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f58bba9b-fa0f-436a-8b46-f57c0f0a952e" country_code="CHL" position="D" started="true" tactical_position="3" tactical_order="5" first_name="Gonzalo" last_name="Jara" country="Chile" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1bb14e64-ab8f-48be-b159-14c2ff394203" country_code="CHL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Fabian" last_name="Orellana" country="Chile" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="68f48991-086e-4ad3-ab8d-2dbd4b1c8a24" country_code="CHL" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Mauricio" last_name="Pinilla" country="Chile" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="69339392-4e73-4c55-ae28-b64e7107d56f" country_code="CHL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Jean" last_name="Beausejour" country="Chile" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="51001a8e-bdba-4d69-8351-b02172e91aaa" country_code="CHL" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Arturo" last_name="Vidal" country="Chile" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="c2ac037a-1aee-455e-a73a-bb0c148117b4" country_code="CHL" position="D" started="false" tactical_position="3" tactical_order="4" first_name="Jose" last_name="Rojas" country="Chile" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="e12279ec-dbf9-426c-b324-199069f0b2c4" country_code="CHL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Esteban" last_name="Paredes" country="Chile" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5c1fa032-7c51-4d30-acfd-6d4d87acd14c" country_code="CHL" position="M" started="true" tactical_position="3" tactical_order="4" first_name="Gary" last_name="Medel" country="Chile" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="e14d740c-2951-4005-ac96-be85c027ccad" country_code="CHL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Miiko" last_name="Albornoz" country="Chile" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="17f36d6c-04b8-442c-a05a-c254a7cca62e" country_code="CHL" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Alexis" last_name="Sanchez" country="Chile" jersey_number="7">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385"/>
+      <facts>
+        <fact id="f45c9b01-a47e-4b39-8f13-105b3de5bf8b" type="match_started" time="2014-06-28T16:01:47Z" updated_time="2014-06-28T16:01:47Z" scratch="false" clock="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>The match is underway at Mineirao Stadium.</description>
+        </fact>
+        <fact id="8d0dda0b-e81d-49c7-b8c0-ebffeb978929" type="period_started" time="2014-06-28T16:01:47Z" updated_time="2014-06-28T16:01:47Z" scratch="false" period="P1"/>
+        <fact id="c746e85a-4f97-483b-a829-b7c612087652" type="free_kick" time="2014-06-28T16:02:00Z" updated_time="2014-06-28T16:02:00Z" scratch="false" x="42" y="65" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick Chile.</description>
+        </fact>
+        <fact id="db5cef9c-8b42-40a2-8213-f7b9b1878929" type="throwin" time="2014-06-28T16:02:24Z" updated_time="2014-06-28T16:02:24Z" scratch="false" x="31" y="99" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="d7b6d1a8-9cda-4b67-93a5-a397366a85c9" type="free_kick" time="2014-06-28T16:02:36Z" updated_time="2014-06-28T16:02:36Z" scratch="false" x="21" y="86" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a free kick to Chile.</description>
+        </fact>
+        <fact id="7a724c2d-31cf-4c0a-bcd3-26368618b123" type="free_kick" time="2014-06-28T16:03:59Z" updated_time="2014-06-28T16:03:59Z" scratch="false" x="61" y="29" clock="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d7455ca1-c490-4646-8943-bc95483cbf79" type="free_kick" time="2014-06-28T16:04:13Z" updated_time="2014-06-28T16:04:13Z" scratch="false" x="55" y="68" clock="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="db6ed71f-c78a-4a51-a5d8-e9e97dc3bc84" type="injury" time="2014-06-28T16:04:25Z" updated_time="2014-06-28T16:04:33Z" scratch="false" x="55" y="68" clock="3" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="d2e450ae-4387-4812-a73e-ca624e1a16ff">
+          <description>The match at Mineirao Stadium has been interrupted briefly for a check on Charles Aranguiz, who is down injured.</description>
+        </fact>
+        <fact id="64685628-798c-40f4-a53a-9f6f6e0ee8b8" type="injury_return" time="2014-06-28T16:04:51Z" updated_time="2014-06-28T16:04:51Z" scratch="false" clock="3" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="d2e450ae-4387-4812-a73e-ca624e1a16ff">
+          <description>Chile’s Charles Aranguiz is on his feet again at Mineirao Stadium.</description>
+        </fact>
+        <fact id="1c3ee71e-23ae-4047-94ab-ce300622916e" type="game_resumed" time="2014-06-28T16:04:56Z" updated_time="2014-06-28T16:04:56Z" scratch="false" clock="3">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="a22087ee-d1aa-4aac-80e0-9d9c73589bdc" type="throwin" time="2014-06-28T16:05:11Z" updated_time="2014-06-28T16:05:11Z" scratch="false" x="19" y="1" clock="3" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="65b4a474-d6d6-4e69-8b9c-ed688dc37021" type="free_kick" time="2014-06-28T16:05:36Z" updated_time="2014-06-28T16:05:36Z" scratch="false" x="58" y="57" clock="3" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in the half of Chile.</description>
+        </fact>
+        <fact id="c271ea05-32d4-4c11-99b5-539fa165a42f" type="corner_kick" time="2014-06-28T16:06:51Z" updated_time="2014-06-28T16:06:51Z" scratch="false" x="95" y="5" clock="5" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Howard Webb.</description>
+        </fact>
+        <fact id="1a752c14-39d2-4d63-bac6-71c0c75fd304" type="shot_off_target" time="2014-06-28T16:07:02Z" updated_time="2014-06-28T16:07:07Z" scratch="false" x="80" y="27" clock="6" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="0619d154-9b12-428e-a423-787eb2274bb7">
+          <description>Brazil's Marcelo misses with an attempt on goal.</description>
+        </fact>
+        <fact id="77f42115-869b-49fc-839b-40b82e901e58" type="goal_kick" time="2014-06-28T16:07:02Z" updated_time="2014-06-28T16:07:02Z" scratch="false" x="95" y="50" clock="6" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb awards Chile a goal kick.</description>
+        </fact>
+        <fact id="9ead7bcb-09c0-48ef-80b4-bf90b1decbc8" type="shot_off_target" time="2014-06-28T16:07:46Z" updated_time="2014-06-28T16:07:52Z" scratch="false" x="23" y="51" clock="6" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="7672d0bc-8ba2-4c2d-8d32-6171f6c7ffaa">
+          <description>Chile are pushing forward but Marcelo Diaz's finish is wide of the goal.</description>
+        </fact>
+        <fact id="74715099-d056-486f-91e1-35bd19ce2196" type="goal_kick" time="2014-06-28T16:07:46Z" updated_time="2014-06-28T16:07:46Z" scratch="false" x="5" y="50" clock="6" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>It's a goal kick for the home team in Belo Horizonte.</description>
+        </fact>
+        <fact id="4fc89038-31ea-4712-91c8-b52d65c5aa8a" type="injury" time="2014-06-28T16:08:44Z" updated_time="2014-06-28T16:08:44Z" scratch="false" x="5" y="50" clock="7" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Attention is being given to Brazil’s Neymar and play has been suspended briefly.</description>
+        </fact>
+        <fact id="4f6962a1-1991-4c1e-8dfe-491ff754147d" type="game_resumed" time="2014-06-28T16:08:48Z" updated_time="2014-06-28T16:08:48Z" scratch="false" clock="7">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="fa897919-5f44-483d-97a5-7acdb84c2f24" type="throwin" time="2014-06-28T16:08:59Z" updated_time="2014-06-28T16:08:59Z" scratch="false" x="30" y="1" clock="7" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="6795103f-8290-4e79-8b99-f6b07bf0f19d" type="injury_return" time="2014-06-28T16:09:11Z" updated_time="2014-06-28T16:09:11Z" scratch="false" clock="7" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar for Brazil is back on the field again.</description>
+        </fact>
+        <fact id="04dc8c9d-2865-4440-b51b-ef9fe24c84b6" type="throwin" time="2014-06-28T16:10:03Z" updated_time="2014-06-28T16:10:03Z" scratch="false" x="58" y="99" clock="8" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="b36484c3-9d07-4a1e-b2ec-909cf87eb894" type="throwin" time="2014-06-28T16:10:33Z" updated_time="2014-06-28T16:10:33Z" scratch="false" x="31" y="99" clock="8" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile in the half of Brazil.</description>
+        </fact>
+        <fact id="c2689506-df7c-493c-84a1-85252e96008b" type="free_kick" time="2014-06-28T16:11:19Z" updated_time="2014-06-28T16:11:19Z" scratch="false" x="63" y="35" clock="9" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in their own half.</description>
+        </fact>
+        <fact id="a3bad2cd-8b95-4121-9003-b4711c2eac2e" type="free_kick" time="2014-06-28T16:12:46Z" updated_time="2014-06-28T16:12:46Z" scratch="false" x="66" y="16" clock="10" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="a23ae4cc-6656-4edb-b1b4-cdf3d4e57ddb" type="throwin" time="2014-06-28T16:14:31Z" updated_time="2014-06-28T16:14:31Z" scratch="false" x="30" y="2" clock="12" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="d1286f47-dcd9-4fde-9879-c9b8f9c3928e" type="free_kick" time="2014-06-28T16:15:09Z" updated_time="2014-06-28T16:15:09Z" scratch="false" x="79" y="35" clock="13" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>In Belo Horizonte a free kick has been awarded the home team.</description>
+        </fact>
+        <fact id="0dfa8c2c-b6a0-43c9-966a-6593d61b03c7" type="keeper_save" time="2014-06-28T16:16:25Z" updated_time="2014-06-28T16:16:25Z" scratch="false" x="84" y="18" clock="14" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="1adf44a7-e28c-4bc8-8c56-cc831351acbd" type="free_kick" time="2014-06-28T16:16:44Z" updated_time="2014-06-28T16:16:44Z" scratch="false" x="83" y="44" clock="14" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="fab270bf-1660-4d0e-a010-31f13d88affc" type="shot_on_target" time="2014-06-28T16:16:25Z" updated_time="2014-06-28T16:16:33Z" scratch="false" x="84" y="18" clock="15" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar gets his shot on target but fails to score for Brazil.</description>
+        </fact>
+        <fact id="27bcf76d-f1e5-4c3c-8c1c-afbf55731f73" type="throwin" time="2014-06-28T16:17:36Z" updated_time="2014-06-28T16:17:36Z" scratch="false" x="88" y="99" clock="15" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Chile needs to be cautious. Brazil have an attacking throw-in.</description>
+        </fact>
+        <fact id="6d8e4b00-2c8d-4a0c-8eaf-976925b96e8c" type="throwin" time="2014-06-28T16:17:48Z" updated_time="2014-06-28T16:17:48Z" scratch="false" x="83" y="100" clock="16" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil close to the penalty box.</description>
+        </fact>
+        <fact id="c54239fd-e4b3-4cb5-b64f-27732eb91299" type="free_kick" time="2014-06-28T16:17:56Z" updated_time="2014-06-28T16:17:56Z" scratch="false" x="84" y="83" clock="16" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="5b79ebeb-a3a1-4bdc-9132-fe57c300f3a1" type="card" time="2014-06-28T16:18:08Z" updated_time="2014-06-28T16:18:08Z" scratch="false" clock="17" card="Y" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="e33301db-3ab3-401b-be57-404b2f6ba35d">
+          <description>Eugenio Mena is booked for the away team and will be suspended from the next match.</description>
+        </fact>
+        <fact id="d04f5ca1-64ea-431f-86b4-cb356bcfbaf8" type="keeper_save" time="2014-06-28T16:18:58Z" updated_time="2014-06-28T16:18:58Z" scratch="false" x="96" y="12" clock="17" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="1187c565-e40e-4a0b-9d56-f3da1f6b93b8" type="shot_on_target" time="2014-06-28T16:18:58Z" updated_time="2014-06-28T16:18:58Z" scratch="false" x="96" y="12" clock="18" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>In Belo Horizonte Brazil drive forward through Hulk. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="b7b01577-d5cc-44ad-bc01-8282ae8277a7" type="corner_kick" time="2014-06-28T16:19:11Z" updated_time="2014-06-28T16:19:11Z" scratch="false" x="95" y="5" clock="18" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="edcd03f8-9bd0-4e3d-8b94-5b7d80cbefc7" type="goal" time="2014-06-28T16:19:23Z" updated_time="2014-06-28T16:19:23Z" scratch="false" x="87" y="61" clock="18" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="70edfb19-0496-4821-bf6a-c839057c10d2" assist1_id="000a2eea-2ad2-4f9d-91ac-264d4f4029e3">
+          <description>Thiago Silva with an assist there.</description>
+        </fact>
+        <fact id="9ab59ad6-af26-4f05-87a9-b4279b26686b" type="throwin" time="2014-06-28T16:21:04Z" updated_time="2014-06-28T16:21:04Z" scratch="false" x="40" y="98" clock="19" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Mineirao Stadium.</description>
+        </fact>
+        <fact id="5ea3500a-7fbf-4aec-9ce7-83c1a0feb5ea" type="free_kick" time="2014-06-28T16:21:39Z" updated_time="2014-06-28T16:21:39Z" scratch="false" x="60" y="48" clock="19" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="df41ca83-3f92-4c25-bb88-e10238734610" type="free_kick" time="2014-06-28T16:21:58Z" updated_time="2014-06-28T16:21:58Z" scratch="false" x="81" y="18" clock="20" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in their own half.</description>
+        </fact>
+        <fact id="8c0224c2-c824-48e7-a3ed-a25f4eef2ce1" type="throwin" time="2014-06-28T16:22:32Z" updated_time="2014-06-28T16:22:32Z" scratch="false" x="20" y="2" clock="20" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have a dangerous throw-in.</description>
+        </fact>
+        <fact id="6ecadff0-36ff-4639-9d76-699a82b98b14" type="free_kick" time="2014-06-28T16:22:49Z" updated_time="2014-06-28T16:22:49Z" scratch="false" x="21" y="21" clock="21" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>In Belo Horizonte a free kick has been awarded the away team.</description>
+        </fact>
+        <fact id="50b3e97b-e50c-476b-b5a1-99b23fa20d13" type="throwin" time="2014-06-28T16:23:43Z" updated_time="2014-06-28T16:23:43Z" scratch="false" x="28" y="2" clock="21" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a Chile throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="bf81f290-9eea-408e-b55a-92db716b5f29" type="free_kick" time="2014-06-28T16:24:11Z" updated_time="2014-06-28T16:24:11Z" scratch="false" x="57" y="52" clock="22" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="643f551f-f7f6-4347-ab5c-582195182332" type="throwin" time="2014-06-28T16:24:38Z" updated_time="2014-06-28T16:24:38Z" scratch="false" x="66" y="2" clock="22" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball safe as Chile is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="9043e7e2-0e7e-40bb-b3c7-81e7f4347ee4" type="throwin" time="2014-06-28T16:25:27Z" updated_time="2014-06-28T16:25:27Z" scratch="false" x="64" y="2" clock="23" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="27f1b44c-4e1d-4245-9ee1-5217cc5c1bf3" type="shot_off_target" time="2014-06-28T16:26:54Z" updated_time="2014-06-28T16:27:02Z" scratch="false" x="84" y="31" clock="26" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Brazil's Neymar gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="2711765f-8a81-4be6-b00c-7dbbf9447c5a" type="goal_kick" time="2014-06-28T16:26:55Z" updated_time="2014-06-28T16:26:55Z" scratch="false" x="95" y="50" clock="26" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Goal kick for Chile at Mineirao Stadium.</description>
+        </fact>
+        <fact id="0605c5f1-8005-4e18-aa72-2e2eb2c735cc" type="free_kick" time="2014-06-28T16:28:35Z" updated_time="2014-06-28T16:28:35Z" scratch="false" x="35" y="11" clock="26" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="37c40592-8753-43e9-b647-6bce7d3fee75" type="throwin" time="2014-06-28T16:29:41Z" updated_time="2014-06-28T16:29:41Z" scratch="false" x="66" y="1" clock="27" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="76b8d860-ad0f-47b5-896b-b56692419899" type="free_kick" time="2014-06-28T16:29:53Z" updated_time="2014-06-28T16:29:53Z" scratch="false" x="64" y="22" clock="28" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="698b2943-cc08-453d-be16-f33239c80f02" type="injury" time="2014-06-28T16:30:39Z" updated_time="2014-06-28T16:30:39Z" scratch="false" x="64" y="22" clock="29" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Play has been temporarily suspended for attention to Neymar for Brazil who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="39c84b5a-6803-49ec-9977-82ca9c877900" type="injury_return" time="2014-06-28T16:31:19Z" updated_time="2014-06-28T16:31:19Z" scratch="false" clock="29" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar has recovered and rejoins the match in Belo Horizonte.</description>
+        </fact>
+        <fact id="0708fb1e-519a-4253-8e8c-4322234cc7c2" type="game_resumed" time="2014-06-28T16:31:27Z" updated_time="2014-06-28T16:31:27Z" scratch="false" clock="29">
+          <description>Howard Webb has blown to resume play in Belo Horizonte.</description>
+        </fact>
+        <fact id="d78cfce5-2b2a-41a0-b700-5e706ab23e04" type="free_kick" time="2014-06-28T16:31:59Z" updated_time="2014-06-28T16:31:59Z" scratch="false" x="65" y="74" clock="30" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in their own half.</description>
+        </fact>
+        <fact id="6ac41ca9-eb1e-4b36-a58d-75197dc4df7f" type="free_kick" time="2014-06-28T16:32:17Z" updated_time="2014-06-28T16:32:17Z" scratch="false" x="62" y="51" clock="30" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in their own half.</description>
+        </fact>
+        <fact id="51b81060-e7ce-4c23-ba9f-c77b57cc01b5" type="throwin" time="2014-06-28T16:32:53Z" updated_time="2014-06-28T16:32:53Z" scratch="false" x="23" y="98" clock="31" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="acdd00c0-ddb5-49c3-9e17-8c93589e68b6" type="throwin" time="2014-06-28T16:33:13Z" updated_time="2014-06-28T16:33:13Z" scratch="false" x="9" y="0" clock="31" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb awards the home team a throw-in.</description>
+        </fact>
+        <fact id="f824b39a-0264-4f61-b4b5-7a63dd1622dd" type="goal" time="2014-06-28T16:33:40Z" updated_time="2014-06-28T16:36:46Z" scratch="false" clock="32" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="17f36d6c-04b8-442c-a05a-c254a7cca62e" assist1_id="86195b47-9a09-49e2-9488-b1e8e1c0507e">
+          <description>That's a fine assist from Eduardo Vargas.</description>
+        </fact>
+        <fact id="00ce60f3-6a6a-4be2-a35d-1d44cd1e9c71" type="goal_kick" time="2014-06-28T16:34:39Z" updated_time="2014-06-28T16:34:39Z" scratch="false" x="95" y="50" clock="32" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball goes out of play for a Chile goal kick.</description>
+        </fact>
+        <fact id="e6cca99a-1195-4715-92a4-2a8e9c88d3a9" type="throwin" time="2014-06-28T16:35:14Z" updated_time="2014-06-28T16:35:14Z" scratch="false" x="17" y="2" clock="33" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a throw-in for Chile, close to Brazil's area.</description>
+        </fact>
+        <fact id="be71a264-af8a-4035-82f7-3cf4725b8f70" type="goal_kick" time="2014-06-28T16:35:30Z" updated_time="2014-06-28T16:35:30Z" scratch="false" x="5" y="50" clock="33" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="f4efb801-98ef-482c-ad81-de8508fa6237" type="free_kick" time="2014-06-28T16:36:07Z" updated_time="2014-06-28T16:36:07Z" scratch="false" x="36" y="17" clock="34" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e2389b91-e219-487e-9ead-94c302ad6ea9" type="throwin" time="2014-06-28T16:36:26Z" updated_time="2014-06-28T16:36:26Z" scratch="false" x="65" y="98" clock="34" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a Brazil throw-in in Chile's half.</description>
+        </fact>
+        <fact id="639b0a77-4116-4517-b150-edb570173763" type="throwin" time="2014-06-28T16:36:38Z" updated_time="2014-06-28T16:36:38Z" scratch="false" x="92" y="99" clock="34" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil capitalize from this throw-in deep inside Chile's half?</description>
+        </fact>
+        <fact id="a5f0a162-49b5-4c6d-af9c-260081b89c36" type="shot_blocked" time="2014-06-28T16:37:17Z" updated_time="2014-06-28T16:37:17Z" scratch="false" x="96" y="92" clock="36" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil drive upfield and Neymar gets in a shot. The strike is blocked by a Chile defender.</description>
+        </fact>
+        <fact id="d09308c1-1ffb-4efb-850e-aa34e198aa74" type="corner_kick" time="2014-06-28T16:37:20Z" updated_time="2014-06-28T16:37:44Z" scratch="false" x="95" y="90" clock="36" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="2a8590a9-ba3e-4a14-b899-44ca638c9809" type="throwin" time="2014-06-28T16:37:48Z" updated_time="2014-06-28T16:37:48Z" scratch="false" x="30" y="98" clock="36" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Mineirao Stadium.</description>
+        </fact>
+        <fact id="e3bca162-6eff-4492-b96e-4776bae5b51c" type="corner_kick" time="2014-06-28T16:38:23Z" updated_time="2014-06-28T16:38:23Z" scratch="false" x="95" y="90" clock="37" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Howard Webb.</description>
+        </fact>
+        <fact id="d202a339-be1a-4db0-ad45-93460ce6570f" type="shot_blocked" time="2014-06-28T16:38:43Z" updated_time="2014-06-28T16:38:43Z" scratch="false" x="96" y="98" clock="37" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil push forward at Mineirao Stadium and Fred gets in a strike. This is blocked, however, by a determined Chile defence.</description>
+        </fact>
+        <fact id="109dec42-2dc1-4594-996a-ef8131ee9637" type="corner_kick" time="2014-06-28T16:38:50Z" updated_time="2014-06-28T16:38:50Z" scratch="false" x="95" y="90" clock="37" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="70721f1b-8ead-426c-b23a-9e478312059c" type="free_kick" time="2014-06-28T16:39:34Z" updated_time="2014-06-28T16:39:34Z" scratch="false" x="79" y="45" clock="37" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="ea9388e4-4e5b-480a-a71d-f0deee69a8bc" type="free_kick" time="2014-06-28T16:40:22Z" updated_time="2014-06-28T16:40:22Z" scratch="false" x="41" y="67" clock="38" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in their own half.</description>
+        </fact>
+        <fact id="ab98d803-aa11-4c98-8b5c-8cf7a06a0086" type="shot_off_target" time="2014-06-28T16:40:51Z" updated_time="2014-06-28T16:40:58Z" scratch="false" x="83" y="7" clock="39" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6">
+          <description>Fred of Brazil gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="244ca0e9-5bc6-4214-8fb0-d28ed6ca8dd4" type="goal_kick" time="2014-06-28T16:40:51Z" updated_time="2014-06-28T16:40:51Z" scratch="false" x="95" y="50" clock="39" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball goes out of play for a Chile goal kick.</description>
+        </fact>
+        <fact id="e9d84f60-4d98-41a1-a627-e9db8fbafcb3" type="free_kick" time="2014-06-28T16:41:22Z" updated_time="2014-06-28T16:41:22Z" scratch="false" x="62" y="53" clock="39" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in the half of Chile.</description>
+        </fact>
+        <fact id="d4e96f51-6695-41f4-813d-ac1c3bf3e24e" type="card" time="2014-06-28T16:41:32Z" updated_time="2014-06-28T16:41:32Z" scratch="false" clock="40" card="Y" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="cfb0f3c6-43d9-4e72-b920-764ea0c3c338">
+          <description>Francisco Silva (Chile) has been given a yellow card and will be suspended from the next match.</description>
+        </fact>
+        <fact id="941eae80-e97d-4131-8571-16a9341e42ce" type="goal_kick" time="2014-06-28T16:42:08Z" updated_time="2014-06-28T16:42:08Z" scratch="false" x="95" y="50" clock="40" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb awards Chile a goal kick.</description>
+        </fact>
+        <fact id="19e190a4-4012-485b-9cbc-de5959088efa" type="throwin" time="2014-06-28T16:42:44Z" updated_time="2014-06-28T16:42:44Z" scratch="false" x="30" y="1" clock="40" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile in the half of Brazil.</description>
+        </fact>
+        <fact id="7d206358-115d-4040-b9e7-840a173f89f6" type="keeper_save" time="2014-06-28T16:43:09Z" updated_time="2014-06-28T16:43:09Z" scratch="false" x="17" y="61" clock="41" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="3e417e79-eb34-40d3-8faa-3270a730131f" type="shot_on_target" time="2014-06-28T16:43:09Z" updated_time="2014-06-28T16:43:14Z" scratch="false" x="17" y="61" clock="42" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="51001a8e-bdba-4d69-8351-b02172e91aaa">
+          <description>Chile's Arturo Vidal is on target but unsuccessful.</description>
+        </fact>
+        <fact id="d76f2a16-8038-4111-8fc9-7954fadfe783" type="shot_on_target" time="2014-06-28T16:43:47Z" updated_time="2014-06-28T16:43:47Z" scratch="false" x="94" y="92" clock="42" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="8e24463d-d0d2-4980-b098-00baa4119a25">
+          <description>Dani Alves for Brazil drives towards goal at Mineirao Stadium. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="c0a17549-99dc-4904-aee7-9ed0b6b8207d" type="keeper_save" time="2014-06-28T16:43:47Z" updated_time="2014-06-28T16:43:47Z" scratch="false" x="94" y="92" clock="42" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="be8b6382-214a-4aaf-9c9a-993f421fe5f4" type="throwin" time="2014-06-28T16:44:16Z" updated_time="2014-06-28T16:44:16Z" scratch="false" x="94" y="100" clock="42" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in high up the field for Brazil in Belo Horizonte.</description>
+        </fact>
+        <fact id="5b08c8b8-b963-4789-9d21-7dfd7de5ae61" type="throwin" time="2014-06-28T16:44:33Z" updated_time="2014-06-28T16:44:33Z" scratch="false" x="83" y="99" clock="42" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil capitalize from this throw-in deep inside Chile's half?</description>
+        </fact>
+        <fact id="6d7d4cf2-6ccd-4ecf-ae0e-f82958caa71c" type="throwin" time="2014-06-28T16:44:44Z" updated_time="2014-06-28T16:44:44Z" scratch="false" x="84" y="99" clock="42" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in Chile.</description>
+        </fact>
+        <fact id="d3af9183-5dd7-4207-a6f9-66a180ab9380" type="corner_kick" time="2014-06-28T16:44:00Z" updated_time="2014-06-28T16:44:00Z" scratch="false" x="95" y="90" clock="43" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Howard Webb.</description>
+        </fact>
+        <fact id="965c22a1-e2cf-427f-9d58-6b946872a571" type="shot_blocked" time="2014-06-28T16:45:11Z" updated_time="2014-06-28T16:45:11Z" scratch="false" x="88" y="75" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Fred (Brazil) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="21815f96-23bd-45f7-954a-0d3f4c9d9e82" type="shot_off_target" time="2014-06-28T16:45:18Z" updated_time="2014-06-28T16:45:25Z" scratch="false" x="78" y="25" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>In Belo Horizonte Brazil attack through Hulk. The finish is off target, however.</description>
+        </fact>
+        <fact id="2dacb0d1-c6b4-4cc7-ae27-fca010913adf" type="goal_kick" time="2014-06-28T16:45:19Z" updated_time="2014-06-28T16:45:19Z" scratch="false" x="95" y="50" clock="44" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have a goal kick.</description>
+        </fact>
+        <fact id="1372e557-9ca8-4ba8-a9f1-4fe287b7775d" type="throwin" time="2014-06-28T16:46:12Z" updated_time="2014-06-28T16:46:12Z" scratch="false" x="81" y="2" clock="44" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a42260ad-2f99-4b6d-bdb4-f365b5c6dee0" type="shot_off_target" time="2014-06-28T16:46:08Z" updated_time="2014-06-28T16:46:22Z" scratch="false" x="77" y="63" clock="45" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6">
+          <description>Brazil's Fred breaks free at Mineirao Stadium. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="c3ca50ed-d0b5-4dfe-bb9f-87408ac88611" type="shot_blocked" time="2014-06-28T16:47:17Z" updated_time="2014-06-28T16:47:17Z" scratch="false" x="5" y="6" clock="45" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile's Alexis Sanchez gets in a shot but it is blocked by a Brazil defender.</description>
+        </fact>
+        <fact id="be69f681-ccc0-4a99-b2bb-ac2b76cf9466" type="corner_kick" time="2014-06-28T16:47:41Z" updated_time="2014-06-28T16:47:41Z" scratch="false" x="5" y="5" clock="45" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Corner awarded to Chile.</description>
+        </fact>
+        <fact id="c08b0f3c-7b5a-4191-a4f0-da69082fa2ea" type="injury_time" time="2014-06-28T16:46:50Z" updated_time="2014-06-28T16:46:50Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="8fd18adb-2048-40e7-9a11-606d2d3fc377" type="corner_kick" time="2014-06-28T16:48:09Z" updated_time="2014-06-28T16:48:09Z" scratch="false" x="5" y="5" clock="45" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have been awarded a corner by Howard Webb.</description>
+        </fact>
+        <fact id="50a033b4-6d85-48fa-8388-c65691e4222f" type="shot_off_target" time="2014-06-28T16:48:18Z" updated_time="2014-06-28T16:48:24Z" scratch="false" x="19" y="41" clock="45" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="e33301db-3ab3-401b-be57-404b2f6ba35d">
+          <description>Eugenio Mena for Chile gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="90721cee-c4eb-48f4-8c79-177badecc6dd" type="goal_kick" time="2014-06-28T16:48:18Z" updated_time="2014-06-28T16:48:18Z" scratch="false" x="5" y="50" clock="45" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>It's a goal kick for the home team in Belo Horizonte.</description>
+        </fact>
+        <fact id="a25d942b-1dad-4fc2-94b3-514936df05b1" type="period_over" time="2014-06-28T16:48:52Z" updated_time="2014-06-28T16:48:52Z" scratch="false" home_score="1" away_score="1" period="P1">
+          <description>Howard Webb blows to end the first-half.</description>
+        </fact>
+        <fact id="2a866d85-9a72-4eef-979a-5188600d4e94" type="period_started" time="2014-06-28T16:48:52Z" updated_time="2014-06-28T16:48:52Z" scratch="false" period="H"/>
+        <fact id="8b446f1f-14dd-41af-9a96-31a6d8ad501b" type="period_started" time="2014-06-28T17:05:55Z" updated_time="2014-06-28T17:05:55Z" scratch="false" period="P2"/>
+        <fact id="67f31a18-ac65-46d2-be9a-c47e175f6e54" type="free_kick" time="2014-06-28T17:07:02Z" updated_time="2014-06-28T17:07:02Z" scratch="false" x="21" y="24" clock="46" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick Chile.</description>
+        </fact>
+        <fact id="618efbaa-f279-4ccd-a4b6-c7b96a708477" type="shot_off_target" time="2014-06-28T17:09:47Z" updated_time="2014-06-28T17:09:52Z" scratch="false" x="77" y="47" clock="49" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851">
+          <description>Brazil are coming forward and Fernandinho gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="14b7acd7-b725-4a62-aea8-1706475c3410" type="goal_kick" time="2014-06-28T17:09:47Z" updated_time="2014-06-28T17:09:47Z" scratch="false" x="95" y="50" clock="49" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Goal kick for Chile at Mineirao Stadium.</description>
+        </fact>
+        <fact id="1736f184-0a8c-4590-8f54-efe89e18ea7a" type="throwin" time="2014-06-28T17:10:29Z" updated_time="2014-06-28T17:10:29Z" scratch="false" x="44" y="98" clock="49" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="92b5c8c7-eafb-4007-85d1-68031983e7f1" type="throwin" time="2014-06-28T17:11:47Z" updated_time="2014-06-28T17:11:47Z" scratch="false" x="28" y="98" clock="50" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="5d70a354-bb4d-431e-b9b8-bbd6387268e9" type="throwin" time="2014-06-28T17:12:26Z" updated_time="2014-06-28T17:12:26Z" scratch="false" x="32" y="1" clock="51" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball safe as Brazil is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="e1c7fa15-adc0-4a39-8965-7d49ff3b317a" type="throwin" time="2014-06-28T17:12:44Z" updated_time="2014-06-28T17:12:44Z" scratch="false" x="58" y="2" clock="51" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb awards the away team a throw-in.</description>
+        </fact>
+        <fact id="ee54acbf-e0a6-47bd-96fc-11a77146b8b6" type="throwin" time="2014-06-28T17:14:11Z" updated_time="2014-06-28T17:14:11Z" scratch="false" x="60" y="99" clock="53" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a Brazil throw-in in Chile's half.</description>
+        </fact>
+        <fact id="137ba230-24f8-4b4c-82c6-2ae995d1a79c" type="card" time="2014-06-28T17:15:34Z" updated_time="2014-06-28T17:15:34Z" scratch="false" clock="55" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>At Mineirao Stadium, Hulk has been yellow-carded for the home team.</description>
+        </fact>
+        <fact id="1ed51fe6-2004-4bc4-8bf4-82a2e9b94a78" type="substitution" time="2014-06-28T17:16:50Z" updated_time="2014-06-28T17:16:50Z" scratch="false" clock="56" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_out_id="86195b47-9a09-49e2-9488-b1e8e1c0507e" player_in_id="b632e44e-1429-4595-8ca3-a39ee7bde8af">
+          <description>Jorge Luis Sampaoli is making the team's first substitution at Mineirao Stadium with Felipe Gutierrez replacing Eduardo Vargas.</description>
+        </fact>
+        <fact id="6439c6f4-ebc8-428f-9e69-0b5db29f507e" type="corner_kick" time="2014-06-28T17:17:10Z" updated_time="2014-06-28T17:17:10Z" scratch="false" x="5" y="90" clock="56" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have been awarded a corner by Howard Webb.</description>
+        </fact>
+        <fact id="6f54c823-9a82-45c0-bb05-7b5a1046f90d" type="throwin" time="2014-06-28T17:17:22Z" updated_time="2014-06-28T17:17:22Z" scratch="false" x="59" y="1" clock="56" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in Chile.</description>
+        </fact>
+        <fact id="51e82dec-f8bf-4807-93f9-e32cc43185f7" type="free_kick" time="2014-06-28T17:17:50Z" updated_time="2014-06-28T17:17:50Z" scratch="false" x="30" y="67" clock="56" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in the half of Brazil.</description>
+        </fact>
+        <fact id="686a4012-92c0-4a77-9336-e803fef1cc30" type="throwin" time="2014-06-28T17:18:52Z" updated_time="2014-06-28T17:18:52Z" scratch="false" x="67" y="2" clock="57" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Chile's half?</description>
+        </fact>
+        <fact id="36b1c06a-5eab-4ea0-aea3-5bd124edbf72" type="free_kick" time="2014-06-28T17:19:26Z" updated_time="2014-06-28T17:19:26Z" scratch="false" x="84" y="23" clock="58" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="98e2227f-ffd0-4609-acbc-77e868fa6b15" type="free_kick" time="2014-06-28T17:20:09Z" updated_time="2014-06-28T17:20:09Z" scratch="false" x="40" y="23" clock="59" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>In Belo Horizonte a free kick has been awarded the away team.</description>
+        </fact>
+        <fact id="54f06611-b97d-4d40-9112-36703edc9575" type="card" time="2014-06-28T17:20:20Z" updated_time="2014-06-28T17:20:20Z" scratch="false" clock="60" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="0957db74-9775-4dc9-9cc1-df3d48bb2c93">
+          <description>Luiz Gustavo (Brazil) gets a yellow card. He will be suspended from the next match!</description>
+        </fact>
+        <fact id="601f39d1-b06b-4c98-92f0-928eb2ae470e" type="throwin" time="2014-06-28T17:21:04Z" updated_time="2014-06-28T17:21:04Z" scratch="false" x="38" y="1" clock="60" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="1b04e032-fe51-4190-b601-b0a707d3b644" type="free_kick" time="2014-06-28T17:21:26Z" updated_time="2014-06-28T17:21:26Z" scratch="false" x="37" y="69" clock="60" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a free kick to Chile.</description>
+        </fact>
+        <fact id="7e9e4510-98d8-45e3-b61b-24fd0d18ab57" type="free_kick" time="2014-06-28T17:21:54Z" updated_time="2014-06-28T17:21:54Z" scratch="false" x="21" y="1" clock="60" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="940dde73-b8cc-415e-aa33-b58888565a46" type="throwin" time="2014-06-28T17:22:30Z" updated_time="2014-06-28T17:22:30Z" scratch="false" x="27" y="98" clock="61" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>A throw-in for the away team on the opposite half.</description>
+        </fact>
+        <fact id="18b935cc-45da-4248-bcdb-05d89b587108" type="free_kick" time="2014-06-28T17:22:53Z" updated_time="2014-06-28T17:22:53Z" scratch="false" x="18" y="54" clock="61" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="c68743cb-8eb6-4d4c-958d-bf6da74ae3fc" type="throwin" time="2014-06-28T17:23:51Z" updated_time="2014-06-28T17:23:51Z" scratch="false" x="31" y="0" clock="62" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile in the half of Brazil.</description>
+        </fact>
+        <fact id="11572bdc-18c4-4d74-84de-324777f7bb15" type="throwin" time="2014-06-28T17:24:29Z" updated_time="2014-06-28T17:24:29Z" scratch="false" x="30" y="1" clock="63" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile in the half of Brazil.</description>
+        </fact>
+        <fact id="10011181-0987-452c-b768-5e4484c1b465" type="keeper_save" time="2014-06-28T17:24:52Z" updated_time="2014-06-28T17:24:52Z" scratch="false" x="4" y="2" clock="63" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="9b1dd037-6d68-4bf7-8aea-510b06751951" type="substitution" time="2014-06-28T17:24:05Z" updated_time="2014-06-28T17:24:05Z" scratch="false" clock="64" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6" player_in_id="4d72c82f-34bd-4725-be0f-b6f529f7f840">
+          <description>The home team replace Fred with Jo.</description>
+        </fact>
+        <fact id="0f06cfeb-ca9f-4554-9e24-534fbb03a9ad" type="shot_on_target" time="2014-06-28T17:24:52Z" updated_time="2014-06-28T17:25:02Z" scratch="false" x="4" y="2" clock="64" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="d2e450ae-4387-4812-a73e-ca624e1a16ff">
+          <description>Charles Aranguiz of Chile smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="9b32498d-ba10-4e46-96c6-d62793a90285" type="corner_kick" time="2014-06-28T17:25:06Z" updated_time="2014-06-28T17:25:15Z" scratch="false" x="5" y="5" clock="64" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Corner awarded to Chile.</description>
+        </fact>
+        <fact id="4e9ea0b4-c21d-47be-9e9e-e77602ba64de" type="throwin" time="2014-06-28T17:25:34Z" updated_time="2014-06-28T17:25:34Z" scratch="false" x="40" y="99" clock="64" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Mineirao Stadium.</description>
+        </fact>
+        <fact id="3c41c364-5263-4915-b23e-c9c74289d9cf" type="throwin" time="2014-06-28T17:26:07Z" updated_time="2014-06-28T17:26:07Z" scratch="false" x="72" y="99" clock="65" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb awards the away team a throw-in.</description>
+        </fact>
+        <fact id="6e16dd74-41c7-4bb5-9341-f645540d4544" type="throwin" time="2014-06-28T17:26:28Z" updated_time="2014-06-28T17:26:28Z" scratch="false" x="67" y="99" clock="65" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9cb92b8b-6a6d-40f1-8678-46320777da84" type="throwin" time="2014-06-28T17:28:15Z" updated_time="2014-06-28T17:28:15Z" scratch="false" x="67" y="0" clock="67" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Chile's half?</description>
+        </fact>
+        <fact id="3f4bf654-e016-43d8-b1a0-75cbdd429822" type="offside" time="2014-06-28T17:29:43Z" updated_time="2014-06-28T17:29:49Z" scratch="false" x="88" y="21" clock="69" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar for the home team is judged to be offside.</description>
+        </fact>
+        <fact id="69bf0557-dc55-438c-a707-91273c68c840" type="throwin" time="2014-06-28T17:30:20Z" updated_time="2014-06-28T17:30:20Z" scratch="false" x="22" y="1" clock="69" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball safe as Brazil is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="aeeb7dcc-3a92-44df-9473-8c8945e08cb7" type="throwin" time="2014-06-28T17:30:39Z" updated_time="2014-06-28T17:30:39Z" scratch="false" x="51" y="0" clock="69" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile in their own half.</description>
+        </fact>
+        <fact id="1d5617b7-35c1-4482-97d2-8124b06c018b" type="free_kick" time="2014-06-28T17:31:07Z" updated_time="2014-06-28T17:31:07Z" scratch="false" x="36" y="84" clock="70" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4099b435-8fb9-45ac-ac79-df1fc49e5dff" type="throwin" time="2014-06-28T17:31:49Z" updated_time="2014-06-28T17:31:49Z" scratch="false" x="72" y="98" clock="70" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in Chile.</description>
+        </fact>
+        <fact id="de04e306-3508-4524-9e8a-7563ea85d2bb" type="goal_kick" time="2014-06-28T17:32:31Z" updated_time="2014-06-28T17:32:31Z" scratch="false" x="5" y="50" clock="71" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="50a4bda9-069b-4747-adda-844f088380a4" type="substitution" time="2014-06-28T17:32:50Z" updated_time="2014-06-28T17:32:50Z" scratch="false" clock="72" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851" player_in_id="4f4b810b-3f0c-41f1-b821-643b86197b41">
+          <description>Brazil make their second substitution with Ramires replacing Fernandinho.</description>
+        </fact>
+        <fact id="5cd5f74a-dce8-4dc9-93e6-988741c97e07" type="throwin" time="2014-06-28T17:33:31Z" updated_time="2014-06-28T17:33:31Z" scratch="false" x="44" y="98" clock="72" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb awards the home team a throw-in.</description>
+        </fact>
+        <fact id="8cc9e9f3-8391-4427-93d3-647dbcd4c469" type="shot_off_target" time="2014-06-28T17:35:24Z" updated_time="2014-06-28T17:35:33Z" scratch="false" x="79" y="42" clock="75" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="4d72c82f-34bd-4725-be0f-b6f529f7f840">
+          <description>Brazil's Jo gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="60cbeb15-7c47-41c8-96ef-84c881d42cba" type="goal_kick" time="2014-06-28T17:35:25Z" updated_time="2014-06-28T17:35:25Z" scratch="false" x="95" y="50" clock="75" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball goes out of play for a Chile goal kick.</description>
+        </fact>
+        <fact id="3eed07a9-a72e-475b-96e2-90b2bb633184" type="shot_off_target" time="2014-06-28T17:36:45Z" updated_time="2014-06-28T17:36:45Z" scratch="false" x="78" y="32" clock="76" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Hulk of Brazil gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="48b1a07f-8e56-4601-b3db-b7360bc54f91" type="goal_kick" time="2014-06-28T17:36:46Z" updated_time="2014-06-28T17:36:46Z" scratch="false" x="95" y="50" clock="76" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb awards Chile a goal kick.</description>
+        </fact>
+        <fact id="9115491a-79c1-4c67-9834-b25022084f07" type="throwin" time="2014-06-28T17:34:54Z" updated_time="2014-06-28T17:38:12Z" scratch="false" x="55" y="2" clock="77" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball safe as Chile is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="80222c89-0523-4740-a7cc-22a8e05fe424" type="free_kick" time="2014-06-28T17:37:55Z" updated_time="2014-06-28T17:37:55Z" scratch="false" x="41" y="60" clock="77" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in their own half.</description>
+        </fact>
+        <fact id="fae29b15-a2a2-4ac5-b5c0-7d4397c14d23" type="free_kick" time="2014-06-28T17:39:01Z" updated_time="2014-06-28T17:39:01Z" scratch="false" x="39" y="33" clock="78" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in their own half.</description>
+        </fact>
+        <fact id="8e8af37a-7f1c-4268-8418-2405de31944c" type="keeper_save" time="2014-06-28T17:41:28Z" updated_time="2014-06-28T17:41:28Z" scratch="false" x="81" y="73" clock="80" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="12899475-cace-4608-a0e2-3f1438296efc" type="throwin" time="2014-06-28T17:41:53Z" updated_time="2014-06-28T17:41:53Z" scratch="false" x="72" y="98" clock="80" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="89099385-ac47-4a4a-8b35-eab55e8730e3" type="shot_on_target" time="2014-06-28T17:41:28Z" updated_time="2014-06-28T17:41:28Z" scratch="false" x="81" y="73" clock="81" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>In Belo Horizonte, Neymar (Brazil) gets his head to the ball but the strike is cleared by an untiring defence.</description>
+        </fact>
+        <fact id="6e7f6aa4-5559-4510-84bb-266492579636" type="throwin" time="2014-06-28T17:43:04Z" updated_time="2014-06-28T17:43:04Z" scratch="false" x="40" y="98" clock="82" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="1f21ddd4-1a0d-49db-891f-7e7444b4f5ac" type="keeper_save" time="2014-06-28T17:44:06Z" updated_time="2014-06-28T17:44:06Z" scratch="false" x="77" y="55" clock="83" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="b102bf9e-464a-433f-be4f-36a9f2cf882f" type="keeper_save" time="2014-06-28T17:44:10Z" updated_time="2014-06-28T17:44:10Z" scratch="false" x="77" y="55" clock="83" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="fe4ba74a-98f0-451f-b584-09f753f9548f" type="free_kick" time="2014-06-28T17:44:39Z" updated_time="2014-06-28T17:44:39Z" scratch="false" x="63" y="39" clock="83" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="e332b8e6-a609-49fd-815a-aedd159f100f" type="shot_on_target" time="2014-06-28T17:44:05Z" updated_time="2014-06-28T17:44:22Z" scratch="false" x="77" y="55" clock="84" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Brazil's Hulk gets in a shot on goal at Mineirao Stadium. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="67c24f22-d7a2-4107-9735-bb02b734efb7" type="shot_on_target" time="2014-06-28T17:44:10Z" updated_time="2014-06-28T17:44:29Z" scratch="false" x="77" y="55" clock="84" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="4d72c82f-34bd-4725-be0f-b6f529f7f840">
+          <description>Brazil push forward through Jo, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="7cd21232-7a0a-4bb3-9500-7417ad636feb" type="throwin" time="2014-06-28T17:47:12Z" updated_time="2014-06-28T17:47:12Z" scratch="false" x="57" y="1" clock="86" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Chile territory.</description>
+        </fact>
+        <fact id="6ed538e5-3d4a-4228-8de4-1b998e815671" type="substitution" time="2014-06-28T17:47:26Z" updated_time="2014-06-28T17:47:26Z" scratch="false" clock="87" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_out_id="51001a8e-bdba-4d69-8351-b02172e91aaa" player_in_id="68f48991-086e-4ad3-ab8d-2dbd4b1c8a24">
+          <description>Mauricio Pinilla is replacing Arturo Vidal for the away team.</description>
+        </fact>
+        <fact id="5e4404df-6a38-49af-8d69-2970322164d5" type="goal_kick" time="2014-06-28T17:48:11Z" updated_time="2014-06-28T17:48:11Z" scratch="false" x="95" y="50" clock="87" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Goal kick for Chile at Mineirao Stadium.</description>
+        </fact>
+        <fact id="620ba138-9ba9-4736-83e1-039922123bbe" type="throwin" time="2014-06-28T17:49:37Z" updated_time="2014-06-28T17:49:37Z" scratch="false" x="12" y="99" clock="88" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a throw-in for Chile, close to Brazil's area.</description>
+        </fact>
+        <fact id="9467d435-3eb2-4bad-8ae2-2bb1702bbc88" type="throwin" time="2014-06-28T17:50:20Z" updated_time="2014-06-28T17:50:20Z" scratch="false" x="72" y="2" clock="89" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile at Mineirao Stadium.</description>
+        </fact>
+        <fact id="60b3e00b-5fda-4bed-aba3-4f1c68684b80" type="injury_time" time="2014-06-28T17:50:32Z" updated_time="2014-06-28T17:50:32Z" scratch="false" clock="89" injury_time="3" period="P2">
+          <description>3 minutes will be added to the second half in Belo Horizonte.</description>
+        </fact>
+        <fact id="6e134086-9ef6-42b5-b67e-64b16ec31a2a" type="throwin" time="2014-06-28T17:51:26Z" updated_time="2014-06-28T17:51:26Z" scratch="false" x="20" y="2" clock="90" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball safe as Brazil is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="af59c927-610f-4961-8cc9-928624b78f8c" type="offside" time="2014-06-28T17:53:30Z" updated_time="2014-06-28T17:55:17Z" scratch="false" x="18" y="21" clock="90" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="7389da24-007c-4b95-ae32-156ba050b626">
+          <description>In Belo Horizonte Chile's Mauricio Isla is caught offside.</description>
+        </fact>
+        <fact id="ff215d9c-90dc-46ff-a1b1-b1bca6afc58d" type="period_over" time="2014-06-28T17:54:03Z" updated_time="2014-06-28T17:54:03Z" scratch="false" home_score="1" away_score="1" period="P2">
+          <description>It's 1-1 at the end of normal time.</description>
+        </fact>
+        <fact id="d7fca06d-9b8c-497a-b059-a45dc2d69e2b" type="period_started" time="2014-06-28T17:54:03Z" updated_time="2014-06-28T17:54:03Z" scratch="false" period="PX1"/>
+        <fact id="8f49264d-6536-47e8-91f2-07660f39684a" type="period_started" time="2014-06-28T18:02:04Z" updated_time="2014-06-28T18:02:04Z" scratch="false" period="X1"/>
+        <fact id="e221048b-d01f-4a7c-9342-b84af2913bf7" type="throwin" time="2014-06-28T18:02:19Z" updated_time="2014-06-28T18:02:19Z" scratch="false" x="28" y="98" clock="90" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="c80945e8-98f5-4265-b5d7-a37423af0ef0" type="free_kick" time="2014-06-28T18:02:43Z" updated_time="2014-06-28T18:02:43Z" scratch="false" x="90" y="23" clock="90" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>It's getting dangerous! Free kick for Brazil close to the penalty box.</description>
+        </fact>
+        <fact id="6dd980b8-a120-4c27-90a0-b2c2635109b4" type="throwin" time="2014-06-28T17:52:03Z" updated_time="2014-06-28T17:52:03Z" scratch="false" x="46" y="99" clock="90" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a Chile throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="a77f0986-2e77-4302-a830-b61379b330b1" type="shot_blocked" time="2014-06-28T17:52:34Z" updated_time="2014-06-28T17:52:34Z" scratch="false" x="6" y="90" clock="90" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="9b1362a4-5e65-43eb-96cc-5b1797622388" type="corner_kick" time="2014-06-28T17:52:50Z" updated_time="2014-06-28T17:52:50Z" scratch="false" x="5" y="90" clock="90" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have been awarded a corner by Howard Webb.</description>
+        </fact>
+        <fact id="a4efa6fd-ec21-4913-a690-499b53cbed0a" type="throwin" time="2014-06-28T17:53:01Z" updated_time="2014-06-28T17:53:01Z" scratch="false" x="25" y="1" clock="90" injury_time="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>A throw-in for the away team on the opposite half.</description>
+        </fact>
+        <fact id="47394f26-2ef6-472e-95a1-76d191e6d3e3" type="period_started" time="2014-06-28T18:02:04Z" updated_time="2014-06-28T18:02:04Z" scratch="false" period="X1">
+          <description>The first extra period has started.</description>
+        </fact>
+        <fact id="7740980b-576f-484f-9448-2f1938e6009c" type="shot_blocked" time="2014-06-28T18:03:42Z" updated_time="2014-06-28T18:03:42Z" scratch="false" x="97" y="7" clock="92" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Important block from the Chile defence as Neymar fires in a strike for Brazil.</description>
+        </fact>
+        <fact id="ee07772e-82d1-4621-bfe3-2309a69edced" type="corner_kick" time="2014-06-28T18:03:49Z" updated_time="2014-06-28T18:03:49Z" scratch="false" x="95" y="5" clock="92" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="aef9d397-299b-4663-89eb-38e1ae90e8be" type="free_kick" time="2014-06-28T18:04:23Z" updated_time="2014-06-28T18:04:23Z" scratch="false" x="74" y="66" clock="92" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="7ae1b90b-2b27-4459-82d3-340e3fb27fb4" type="free_kick" time="2014-06-28T18:06:00Z" updated_time="2014-06-28T18:06:00Z" scratch="false" x="43" y="35" clock="93" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in the half of Brazil.</description>
+        </fact>
+        <fact id="3054753a-8340-466d-a407-fdb2a4c6f0d8" type="card" time="2014-06-28T18:05:16Z" updated_time="2014-06-28T18:05:16Z" scratch="false" clock="94" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="4d72c82f-34bd-4725-be0f-b6f529f7f840">
+          <description>Jo (Brazil) has received a yellow card from Howard Webb.</description>
+        </fact>
+        <fact id="87fb5155-4a61-4944-8369-651171ea8955" type="shot_off_target" time="2014-06-28T18:06:52Z" updated_time="2014-06-28T18:06:59Z" scratch="false" x="18" y="53" clock="95" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="7672d0bc-8ba2-4c2d-8d32-6171f6c7ffaa">
+          <description>Chile are coming forward and Marcelo Diaz gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="5ab3ed3e-89ec-4337-a47e-3cd5ade99774" type="goal_kick" time="2014-06-28T18:06:52Z" updated_time="2014-06-28T18:06:52Z" scratch="false" x="5" y="50" clock="95" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>It's a goal kick for the home team in Belo Horizonte.</description>
+        </fact>
+        <fact id="beac5939-8bf3-4abe-8a02-c31ffa8553bf" type="free_kick" time="2014-06-28T18:07:32Z" updated_time="2014-06-28T18:07:32Z" scratch="false" x="82" y="64" clock="95" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in their own half.</description>
+        </fact>
+        <fact id="9c53e0a5-acd7-4c86-a164-1532117c6a26" type="throwin" time="2014-06-28T18:08:21Z" updated_time="2014-06-28T18:08:21Z" scratch="false" x="20" y="98" clock="96" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have a dangerous throw-in.</description>
+        </fact>
+        <fact id="70916d39-cebb-4c1a-85c4-46c62dbc8ef9" type="free_kick" time="2014-06-28T18:08:37Z" updated_time="2014-06-28T18:08:37Z" scratch="false" x="20" y="98" clock="96" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="0f373968-d366-4e28-b1d0-00896d3eb637" type="throwin" time="2014-06-28T18:09:14Z" updated_time="2014-06-28T18:09:14Z" scratch="false" x="55" y="99" clock="97" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in the half of Chile.</description>
+        </fact>
+        <fact id="e93adc44-394c-4053-ad7c-94b7ac65c1c4" type="throwin" time="2014-06-28T18:09:56Z" updated_time="2014-06-28T18:09:56Z" scratch="false" x="92" y="99" clock="97" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb awards the away team a throw-in.</description>
+        </fact>
+        <fact id="918f5de8-fac2-4a15-afd7-0b0998bda629" type="throwin" time="2014-06-28T18:10:53Z" updated_time="2014-06-28T18:10:53Z" scratch="false" x="45" y="100" clock="98" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="60ba6f18-8078-477f-816d-0c0554bdcd8a" type="throwin" time="2014-06-28T18:11:10Z" updated_time="2014-06-28T18:11:10Z" scratch="false" x="67" y="98" clock="99" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Chile territory.</description>
+        </fact>
+        <fact id="00c37054-81b4-417a-ae39-e117ea5aec77" type="keeper_save" time="2014-06-28T18:11:41Z" updated_time="2014-06-28T18:11:41Z" scratch="false" x="77" y="12" clock="99" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="92e6f779-6b00-485c-a82d-3aacebec24db" type="shot_on_target" time="2014-06-28T18:11:41Z" updated_time="2014-06-28T18:11:41Z" scratch="false" x="77" y="12" clock="100" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="4d72c82f-34bd-4725-be0f-b6f529f7f840">
+          <description>Brazil drive forward and Jo gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="257a759a-9c28-498e-8832-e86cc0fb8990" type="keeper_save" time="2014-06-28T18:13:11Z" updated_time="2014-06-28T18:13:11Z" scratch="false" x="92" y="84" clock="101" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="6119013c-5d3d-496b-ac64-3c47c259996b" type="free_kick" time="2014-06-28T18:13:26Z" updated_time="2014-06-28T18:13:26Z" scratch="false" x="37" y="33" clock="101" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="885a213f-95ec-44ed-ab5b-bacf358fd958" type="free_kick" time="2014-06-28T18:13:53Z" updated_time="2014-06-28T18:13:53Z" scratch="false" x="62" y="49" clock="101" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="6f589ee9-1a9c-4f07-8a95-113beca8bbd5" type="shot_on_target" time="2014-06-28T18:13:11Z" updated_time="2014-06-28T18:13:11Z" scratch="false" x="92" y="84" clock="102" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="2c674fe0-d706-4450-bf33-2e747265fbbf">
+          <description>Brazil push forward at Mineirao Stadium and Oscar gets in a great header. The attempt is cleared by the Chile defence.</description>
+        </fact>
+        <fact id="5c744929-71df-45a2-80b3-5fb14ce168bd" type="throwin" time="2014-06-28T18:13:39Z" updated_time="2014-06-28T18:14:24Z" scratch="false" x="92" y="99" clock="102" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a Chile throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="4ad9accd-592d-47b4-874d-5938c2663b85" type="card" time="2014-06-28T18:14:04Z" updated_time="2014-06-28T18:14:04Z" scratch="false" clock="102" card="Y" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="68f48991-086e-4ad3-ab8d-2dbd4b1c8a24">
+          <description>Chile's Mauricio Pinilla has been booked in Belo Horizonte.</description>
+        </fact>
+        <fact id="27370882-fdaf-45a4-bb9d-a143c13a2e0c" type="keeper_save" time="2014-06-28T18:14:57Z" updated_time="2014-06-28T18:14:57Z" scratch="false" x="84" y="69" clock="102" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="6ac99918-3d47-4e13-966c-4ad6b0ea038b" type="shot_on_target" time="2014-06-28T18:14:57Z" updated_time="2014-06-28T18:14:57Z" scratch="false" x="84" y="69" clock="103" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Hulk of Brazil smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="b98ed3c5-a365-446a-9585-21819895c1a0" type="free_kick" time="2014-06-28T18:15:23Z" updated_time="2014-06-28T18:15:23Z" scratch="false" x="45" y="29" clock="103" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick Chile.</description>
+        </fact>
+        <fact id="f83c625c-2cd2-44b7-b9e6-1c116cc86650" type="free_kick" time="2014-06-28T18:16:33Z" updated_time="2014-06-28T18:16:33Z" scratch="false" x="35" y="47" clock="104" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d5e0c76e-e02c-4d9d-bc94-cb0910236ff1" type="injury_time" time="2014-06-28T18:17:03Z" updated_time="2014-06-28T18:17:03Z" scratch="false" clock="104" injury_time="1" period="P1">
+          <description>1 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="b19345b8-2f31-4d10-b26d-2ff536e3816d" type="offside" time="2014-06-28T18:16:58Z" updated_time="2014-06-28T18:16:58Z" scratch="false" x="82" y="44" clock="105" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar for Brazil is whistled offside.</description>
+        </fact>
+        <fact id="18c5bef6-690c-4e0f-9498-7675b6dd58ee" type="free_kick" time="2014-06-28T18:17:33Z" updated_time="2014-06-28T18:17:33Z" scratch="false" x="24" y="77" clock="105" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>In Belo Horizonte a free kick has been awarded the away team.</description>
+        </fact>
+        <fact id="c7737982-aa57-4f04-a485-565bcf9b09ba" type="card" time="2014-06-28T18:18:08Z" updated_time="2014-06-28T18:18:08Z" scratch="false" clock="105" injury_time="1" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="8e24463d-d0d2-4980-b098-00baa4119a25">
+          <description>Dani Alves (Brazil) has received a first yellow card.</description>
+        </fact>
+        <fact id="d1fe05f3-d6d3-42b8-9299-104fe001db48" type="shot_off_target" time="2014-06-28T18:18:54Z" updated_time="2014-06-28T18:18:54Z" scratch="false" x="24" y="77" clock="105" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="17f36d6c-04b8-442c-a05a-c254a7cca62e">
+          <description>Chile's Alexis Sanchez misses with an attempt on goal.</description>
+        </fact>
+        <fact id="f3e2e469-722b-4120-9f8c-01330fc6079f" type="goal_kick" time="2014-06-28T18:18:55Z" updated_time="2014-06-28T18:18:55Z" scratch="false" x="5" y="50" clock="105" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>It's a goal kick for the home team in Belo Horizonte.</description>
+        </fact>
+        <fact id="ea43abb1-423a-4a19-a6b1-7637cd3f3634" type="period_over" time="2014-06-28T18:19:02Z" updated_time="2014-06-28T18:19:02Z" scratch="false" home_score="1" away_score="1" period="X1">
+          <description>It's 1-1 at the end of the first period.</description>
+        </fact>
+        <fact id="dbc2fcd6-315f-45f2-ae9b-837d0719a013" type="period_started" time="2014-06-28T18:19:02Z" updated_time="2014-06-28T18:19:02Z" scratch="false" period="PX2"/>
+        <fact id="f0106610-ca9f-4d27-b106-ab22e9c5d324" type="substitution" time="2014-06-28T18:21:26Z" updated_time="2014-06-28T18:21:26Z" scratch="false" clock="106" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="2c674fe0-d706-4450-bf33-2e747265fbbf" player_in_id="2be00660-77db-4c8e-b704-f0ec23bf6564">
+          <description>Willian is replacing Oscar for Brazil at Mineirao Stadium.</description>
+        </fact>
+        <fact id="16ad4521-baf1-432e-9625-ac29114aecd6" type="period_started" time="2014-06-28T18:22:17Z" updated_time="2014-06-28T18:22:17Z" scratch="false" period="X2">
+          <description>The second extra period has started.</description>
+        </fact>
+        <fact id="378a5141-de1f-470f-97b6-746625e1c6ca" type="period_started" time="2014-06-28T18:22:17Z" updated_time="2014-06-28T18:22:17Z" scratch="false" period="X2"/>
+        <fact id="0b4aec7d-f54e-4aa9-8a7b-57c306c12ebb" type="corner_kick" time="2014-06-28T18:23:14Z" updated_time="2014-06-28T18:23:14Z" scratch="false" x="95" y="5" clock="106" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Howard Webb.</description>
+        </fact>
+        <fact id="d7578170-cfc5-4b4a-95e7-1d2e724a5090" type="shot_off_target" time="2014-06-28T18:23:26Z" updated_time="2014-06-28T18:23:26Z" scratch="false" x="95" y="5" clock="107" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="4d72c82f-34bd-4725-be0f-b6f529f7f840">
+          <description>Brazil's Jo breaks free at Mineirao Stadium. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="0da787b0-4254-4634-94a4-018c26b3bfdc" type="goal_kick" time="2014-06-28T18:23:26Z" updated_time="2014-06-28T18:23:26Z" scratch="false" x="95" y="50" clock="107" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball goes out of play for a Chile goal kick.</description>
+        </fact>
+        <fact id="27c898a9-1918-47a0-988b-a1f9d7dabc3b" type="injury" time="2014-06-28T18:24:32Z" updated_time="2014-06-28T18:24:58Z" scratch="false" x="95" y="50" clock="107" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="5c1fa032-7c51-4d30-acfd-6d4d87acd14c">
+          <description>Gary Medel is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="448fd15d-0525-4b09-a123-5c7c705c6d81" type="game_resumed" time="2014-06-28T18:24:57Z" updated_time="2014-06-28T18:24:57Z" scratch="false" clock="107">
+          <description>The match in Belo Horizonte is underway once more.</description>
+        </fact>
+        <fact id="e59599f3-b909-4c60-9707-ba3453334277" type="substitution" time="2014-06-28T18:24:57Z" updated_time="2014-06-28T18:24:57Z" scratch="false" clock="108" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_out_id="5c1fa032-7c51-4d30-acfd-6d4d87acd14c" player_in_id="c2ac037a-1aee-455e-a73a-bb0c148117b4">
+          <description>Gary Medel, who was grimacing earlier, has been substituted. Jose Rojas is the substitute for Chile.</description>
+        </fact>
+        <fact id="0bf74610-56b2-4a19-968b-434fa074f4cf" type="throwin" time="2014-06-28T18:25:49Z" updated_time="2014-06-28T18:25:49Z" scratch="false" x="53" y="98" clock="108" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="2e60437d-8800-4294-9c98-289553c39a62" type="throwin" time="2014-06-28T18:26:13Z" updated_time="2014-06-28T18:26:13Z" scratch="false" x="82" y="2" clock="108" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile at Mineirao Stadium.</description>
+        </fact>
+        <fact id="7fbcde65-3b1c-48ef-8a95-29e74859aefd" type="free_kick" time="2014-06-28T18:27:17Z" updated_time="2014-06-28T18:27:17Z" scratch="false" x="61" y="55" clock="110" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick for Chile in their own half.</description>
+        </fact>
+        <fact id="a72dbc96-feb8-494e-8753-eb5db20f782b" type="free_kick" time="2014-06-28T18:27:54Z" updated_time="2014-06-28T18:27:54Z" scratch="false" x="64" y="45" clock="110" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="13ae7b82-f5b3-4550-abbe-bf5a3d8a0583" type="shot_off_target" time="2014-06-28T18:27:28Z" updated_time="2014-06-28T18:27:36Z" scratch="false" x="18" y="59" clock="111" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="68f48991-086e-4ad3-ab8d-2dbd4b1c8a24">
+          <description>Mauricio Pinilla for Chile gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="3fb7acad-0e2c-47ae-9614-7ffbf01321cc" type="goal_kick" time="2014-06-28T18:27:28Z" updated_time="2014-06-28T18:27:28Z" scratch="false" x="5" y="50" clock="111" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="f8b2b065-daf7-4757-bdf4-461d1d34c427" type="shot_off_target" time="2014-06-28T18:28:36Z" updated_time="2014-06-28T18:28:42Z" scratch="false" x="83" y="77" clock="112" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="8e24463d-d0d2-4980-b098-00baa4119a25">
+          <description>Brazil are pushing forward but Dani Alves's finish is wide of the goal.</description>
+        </fact>
+        <fact id="63e0e297-c0e6-4bb9-84e5-43996911e502" type="goal_kick" time="2014-06-28T18:28:36Z" updated_time="2014-06-28T18:28:36Z" scratch="false" x="95" y="50" clock="112" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Goal kick for Chile at Mineirao Stadium.</description>
+        </fact>
+        <fact id="f1a075c4-b03b-4d45-b4fd-157843a1aa74" type="free_kick" time="2014-06-28T18:29:23Z" updated_time="2014-06-28T18:29:30Z" scratch="false" x="65" y="75" clock="112" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>In Belo Horizonte a free kick has been awarded the home team.</description>
+        </fact>
+        <fact id="891eae77-cf33-4389-837c-1be18ccf4c55" type="shot_off_target" time="2014-06-28T18:30:01Z" updated_time="2014-06-28T18:30:06Z" scratch="false" x="19" y="53" clock="113" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="7672d0bc-8ba2-4c2d-8d32-6171f6c7ffaa">
+          <description>Chile are pushing forward but Marcelo Diaz's finish is wide of the goal.</description>
+        </fact>
+        <fact id="71769561-4640-4495-9fe0-8530a182bfa3" type="goal_kick" time="2014-06-28T18:30:01Z" updated_time="2014-06-28T18:30:01Z" scratch="false" x="5" y="50" clock="113" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb awards Brazil a goal kick.</description>
+        </fact>
+        <fact id="098b4287-19a1-4fb5-8d69-093f68492eae" type="free_kick" time="2014-06-28T18:31:17Z" updated_time="2014-06-28T18:31:17Z" scratch="false" x="61" y="81" clock="114" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Howard Webb signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="4bd4df4f-2979-4c95-af32-2d7ab69d2ab1" type="throwin" time="2014-06-28T18:32:29Z" updated_time="2014-06-28T18:32:29Z" scratch="false" x="79" y="99" clock="115" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Chile's half?</description>
+        </fact>
+        <fact id="036f6f4e-2c8e-4256-bbbc-707ff3aabd24" type="free_kick" time="2014-06-28T18:33:09Z" updated_time="2014-06-28T18:33:09Z" scratch="false" x="77" y="70" clock="115" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="f48f5813-8923-49bf-8967-f46f8535d563" type="free_kick" time="2014-06-28T18:34:25Z" updated_time="2014-06-28T18:34:25Z" scratch="false" x="58" y="38" clock="117" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in the half of Chile.</description>
+        </fact>
+        <fact id="78b7e967-f286-470d-a75a-85e1f417adca" type="throwin" time="2014-06-28T18:35:08Z" updated_time="2014-06-28T18:35:08Z" scratch="false" x="33" y="2" clock="117" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="948ffee1-de57-4a6d-8f9c-a08ba1a6d31a" type="shot_off_target" time="2014-06-28T18:36:19Z" updated_time="2014-06-28T18:36:40Z" scratch="false" x="76" y="65" clock="119" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Brazil's Hulk misses with an attempt on goal.</description>
+        </fact>
+        <fact id="209e3331-549d-4662-abfc-f0541dd462b7" type="goal_kick" time="2014-06-28T18:36:20Z" updated_time="2014-06-28T18:36:20Z" scratch="false" x="95" y="50" clock="119" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Howard Webb awards Chile a goal kick.</description>
+        </fact>
+        <fact id="43573906-2faf-4f96-b668-a793b215831d" type="throwin" time="2014-06-28T18:37:09Z" updated_time="2014-06-28T18:37:09Z" scratch="false" x="13" y="1" clock="119" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Brazil needs to be cautious. Chile have an attacking throw-in.</description>
+        </fact>
+        <fact id="c6159862-1880-41f7-a125-6f88390af246" type="shot_on_target" time="2014-06-28T18:37:06Z" updated_time="2014-06-28T18:37:16Z" scratch="false" x="21" y="41" clock="120" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="68f48991-086e-4ad3-ab8d-2dbd4b1c8a24">
+          <description>Chile drive into the zone and Mauricio Pinilla is presented with a brilliant opportunity. But his strike hits the upright!</description>
+        </fact>
+        <fact id="b05f8fb1-8908-44c3-9234-322809aed25b" type="corner_kick" time="2014-06-28T18:37:59Z" updated_time="2014-06-28T18:37:59Z" scratch="false" x="95" y="90" clock="120" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="2722cf09-e458-4763-83bb-eea2f986e981" type="injury_time" time="2014-06-28T18:38:08Z" updated_time="2014-06-28T18:38:08Z" scratch="false" clock="120" injury_time="2" period="P1">
+          <description>The first half is prolonged by 2 minutes of added time.</description>
+        </fact>
+        <fact id="5e61bb9b-3994-49d0-9b88-d472f72e7b1e" type="shot_off_target" time="2014-06-28T18:38:24Z" updated_time="2014-06-28T18:38:24Z" scratch="false" x="83" y="22" clock="120" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="4f4b810b-3f0c-41f1-b821-643b86197b41">
+          <description>Brazil are coming forward and Ramires gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="7b247479-3b97-4352-bb4f-e66482d82328" type="goal_kick" time="2014-06-28T18:38:24Z" updated_time="2014-06-28T18:38:24Z" scratch="false" x="95" y="50" clock="120" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Goal kick for Chile at Mineirao Stadium.</description>
+        </fact>
+        <fact id="8975a76e-c192-4645-a575-75b129124568" type="goal_kick" time="2014-06-28T18:39:02Z" updated_time="2014-06-28T18:39:02Z" scratch="false" x="5" y="50" clock="120" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="a4244e1a-0dc7-4238-bb76-a8e45d6bf4fd" type="period_over" time="2014-06-28T18:39:18Z" updated_time="2014-06-28T18:39:18Z" scratch="false" home_score="1" away_score="1" period="X2">
+          <description>It's 1-1 at the end of extra-time.</description>
+        </fact>
+        <fact id="47e286f6-89ed-4a2f-a8ca-d484ca0b74e9" type="period_started" time="2014-06-28T18:39:18Z" updated_time="2014-06-28T18:39:18Z" scratch="false" period="PP"/>
+        <fact id="0d103c08-eedc-4f10-aaa8-6a44a0daa114" type="period_started" time="2014-06-28T18:45:17Z" updated_time="2014-06-28T18:45:17Z" scratch="false" period="P">
+          <description>The match goes to penalties!</description>
+        </fact>
+        <fact id="e71ff8b9-e1cc-4ff6-9943-480cb8447497" type="period_started" time="2014-06-28T18:45:17Z" updated_time="2014-06-28T18:45:17Z" scratch="false" period="P"/>
+        <fact id="cf8ea6bd-9712-44ba-bc59-4bb394c64451" type="goal" time="2014-06-28T18:48:12Z" updated_time="2014-06-28T18:48:12Z" scratch="false" x="88" y="48" home_score="2" away_score="1" penalty="true" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="19c193fb-0472-4b74-bd6b-2d3f20d672df" type="goal" time="2014-06-28T18:51:14Z" updated_time="2014-06-28T18:51:14Z" scratch="false" x="88" y="48" home_score="3" away_score="1" penalty="true" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="4a352044-8e53-4994-a8da-70504af66c7a" type="goal" time="2014-06-28T18:52:00Z" updated_time="2014-06-28T18:52:00Z" scratch="false" x="10" y="48" home_score="3" away_score="2" penalty="true" owngoal="false" header="false" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="d99d583e-82a4-477b-8722-0b6d4987577c" type="goal" time="2014-06-28T18:53:40Z" updated_time="2014-06-28T18:53:40Z" scratch="false" x="10" y="48" home_score="3" away_score="3" penalty="true" owngoal="false" header="false" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="7572d127-e51f-4617-80d3-03129b084c82" type="goal" time="2014-06-28T18:54:36Z" updated_time="2014-06-28T18:54:36Z" scratch="false" x="88" y="48" home_score="4" away_score="3" penalty="true" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="9c621aba-df0f-426f-9a92-9896ee1d65af" type="period_over" time="2014-06-28T18:55:35Z" updated_time="2014-06-28T18:55:35Z" scratch="false" home_score="4" away_score="3" period="P">
+          <description>The penalty shootout is over. The final score is 4-3.</description>
+        </fact>
+        <fact id="31ad2f99-99f4-4af8-950d-af6617021f75" type="match_ended" time="2014-06-28T18:55:35Z" updated_time="2014-06-28T18:55:35Z" scratch="false" home_score="4" away_score="3" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" draw="false"/>
+      </facts>
+      <!-- 4768142/4748/4754 -->
+    </match>
+  </matches>
+</summary>

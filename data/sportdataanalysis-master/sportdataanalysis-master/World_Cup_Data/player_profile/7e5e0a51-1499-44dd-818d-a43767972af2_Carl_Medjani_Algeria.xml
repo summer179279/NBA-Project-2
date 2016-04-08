@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:16:40Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="7e5e0a51-1499-44dd-818d-a43767972af2" country_code="DZA" preferred_foot="R" height_in="72" weight_lb="182" height_cm="182" weight_kg="82" first_name="Carl" last_name="Medjani" country="Algeria">
+    <teams>
+      <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" country_code="DZA" position="M" is_manager="false" is_player="true" country="Algeria" jersey_number="12"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="3" matches_started="0" minutes_played="264" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="286" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+          <tournament_group id="3f8e0d22-25a0-4180-82e0-4a10a941b5b7" name="Super League"/>
+          <team id="b2c8948c-4c24-481e-a83c-615d16b284b6" name="Olympiacos FC" alias="OLY" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="16" matches_started="0" minutes_played="1424" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1"/>
+          <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1"/>
+          <team id="9061bfca-c615-416c-a1d6-f5e18c24de92" name="Valenciennes FC" alias="VAL" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="92" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="b2c8948c-4c24-481e-a83c-615d16b284b6" name="Olympiacos FC" alias="OLY" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 16709/1405951722 -->
+  </player>
+</profile>

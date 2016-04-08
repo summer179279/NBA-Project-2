@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-25 02:18:54 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="5ae04124-41d4-4705-a0bd-a24b785a91d3" status="closed" coverage="full" home_team="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ed056-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-24T23:30:00+00:00" duration="2:12" attendance="20030" lead_changes="10" times_tied="4" clock="00:00" quarter="4">
+  <team name="Heat" market="Miami" id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" points="93">
+    <scoring>
+      <quarter number="1" sequence="1" points="22"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="26"/>
+      <quarter number="4" sequence="4" points="21"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="LeBron James" position="F" primary_position="SF" jersey_number="6" id="0afbe608-940a-4d5d-a1f7-468718c67d91">
+          <statistics minutes="38:22" field_goals_made="13" field_goals_att="23" field_goals_pct="56.5" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="13" two_points_att="22" two_points_pct="0.591" blocked_att="0" free_throws_made="6" free_throws_att="9" free_throws_pct="66.7" offensive_rebounds="4" defensive_rebounds="2" rebounds="6" assists="5" turnovers="5" steals="4" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="4" points="32"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Chris Andersen" position="F-C" primary_position="PF" jersey_number="11" id="510c6cdf-1a1a-450e-8d38-eed8d9b55df9">
+          <statistics minutes="23:15" field_goals_made="4" field_goals_att="8" field_goals_pct="50.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="4" two_points_att="8" two_points_pct="0.5" blocked_att="1" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="5" defensive_rebounds="6" rebounds="11" assists="0" turnovers="1" steals="1" blocks="2" assists_turnover_ratio="0.0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="-11" points="13"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="LeBron James" position="F" primary_position="SF" jersey_number="6" id="0afbe608-940a-4d5d-a1f7-468718c67d91">
+          <statistics minutes="38:22" field_goals_made="13" field_goals_att="23" field_goals_pct="56.5" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="13" two_points_att="22" two_points_pct="0.591" blocked_att="0" free_throws_made="6" free_throws_att="9" free_throws_pct="66.7" offensive_rebounds="4" defensive_rebounds="2" rebounds="6" assists="5" turnovers="5" steals="4" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="4" points="32"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Trail Blazers" market="Portland" id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" points="91">
+    <scoring>
+      <quarter number="1" sequence="1" points="25"/>
+      <quarter number="2" sequence="2" points="17"/>
+      <quarter number="3" sequence="3" points="19"/>
+      <quarter number="4" sequence="4" points="30"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Damian Lillard" position="G" primary_position="PG" jersey_number="0" id="5382cf43-3a79-4a5a-a7fd-153906fe65dd">
+          <statistics minutes="40:18" field_goals_made="3" field_goals_att="15" field_goals_pct="20.0" three_points_made="1" three_points_att="8" three_points_pct="12.5" two_points_made="2" two_points_att="7" two_points_pct="0.286" blocked_att="2" free_throws_made="12" free_throws_att="14" free_throws_pct="85.7" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="6" turnovers="1" steals="2" blocks="0" assists_turnover_ratio="6.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-12" points="19"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Nicolas Batum" position="F" primary_position="SF" jersey_number="88" id="a89ac040-715d-4057-8fc0-9d71ad06fa0a">
+          <statistics minutes="40:03" field_goals_made="4" field_goals_att="8" field_goals_pct="50.0" three_points_made="3" three_points_att="7" three_points_pct="42.9" two_points_made="1" two_points_att="1" two_points_pct="1.0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="2" defensive_rebounds="8" rebounds="10" assists="3" turnovers="5" steals="1" blocks="0" assists_turnover_ratio="0.6" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="11"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Damian Lillard" position="G" primary_position="PG" jersey_number="0" id="5382cf43-3a79-4a5a-a7fd-153906fe65dd">
+          <statistics minutes="40:18" field_goals_made="3" field_goals_att="15" field_goals_pct="20.0" three_points_made="1" three_points_att="8" three_points_pct="12.5" two_points_made="2" two_points_att="7" two_points_pct="0.286" blocked_att="2" free_throws_made="12" free_throws_att="14" free_throws_pct="85.7" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="6" turnovers="1" steals="2" blocks="0" assists_turnover_ratio="6.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-12" points="19"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-25 02:18:56 +0000 -->

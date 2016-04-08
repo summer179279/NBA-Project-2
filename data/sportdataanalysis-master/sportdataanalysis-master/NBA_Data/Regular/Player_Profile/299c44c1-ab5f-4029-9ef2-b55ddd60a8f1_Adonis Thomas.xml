@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-30 15:00:47 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="299c44c1-ab5f-4029-9ef2-b55ddd60a8f1" status="ACT" full_name="Adonis Thomas" first_name="Adonis" last_name="Thomas" abbr_name="A.Thomas" height="79" weight="240" position="G-F" primary_position="SG" jersey_number="7" experience="0" college="Memphis" birth_place="Memphis, TN" birthdate="1993-03-25" updated="2014-04-17T00:17:47+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" name="76ers" market="Philadelphia" alias="PHI"/>
+  <draft year="2012"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" name="Magic" market="Orlando" alias="ORL">
+        <statistics>
+          <total games_played="4" games_started="0" minutes="24.0" field_goals_made="3" field_goals_att="9" three_points_made="0" three_points_att="3" blocked_att="1" free_throws_made="1" free_throws_att="1" offensive_rebounds="0" defensive_rebounds="3" assists="2" turnovers="0" steals="0" blocks="0" personal_fouls="2" tech_fouls="0" points="7" flagrant_fouls="0" free_throws_pct="1.0" two_points_pct="0.5" three_points_pct="0.0" field_goals_pct="0.333" rebounds="3" assists_turnover_ratio="0" two_points_made="3" two_points_att="6"/>
+          <average points="1.8" blocked_att="0.25" turnovers="0.0" free_throws_att="0.25" field_goals_att="2.25" off_rebounds="0.0" two_points_att="1.5" assists="0.5" blocks="0.0" personal_fouls="0.5" two_points_made="0.75" flagrant_fouls="0.0" rebounds="0.75" three_points_made="0.0" minutes="6.0" def_rebounds="0.75" free_throws_made="0.25" field_goals_made="0.75" steals="0.0" three_points_att="0.75"/>
+        </statistics>
+      </team>
+      <team id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" name="76ers" market="Philadelphia" alias="PHI">
+        <statistics>
+          <total games_played="2" games_started="1" minutes="13.0" field_goals_made="3" field_goals_att="5" three_points_made="1" three_points_att="2" blocked_att="0" free_throws_made="0" free_throws_att="0" offensive_rebounds="0" defensive_rebounds="0" assists="1" turnovers="1" steals="0" blocks="0" personal_fouls="4" tech_fouls="0" points="7" flagrant_fouls="0" free_throws_pct="0" two_points_pct="0.667" three_points_pct="0.5" field_goals_pct="0.6" rebounds="0" assists_turnover_ratio="1.0" two_points_made="2" two_points_att="3"/>
+          <average points="3.5" blocked_att="0.0" turnovers="0.5" free_throws_att="0.0" field_goals_att="2.5" off_rebounds="0.0" two_points_att="1.5" assists="0.5" blocks="0.0" personal_fouls="2.0" two_points_made="1.0" flagrant_fouls="0.0" rebounds="0.0" three_points_made="0.5" minutes="6.5" def_rebounds="0.0" free_throws_made="0.0" field_goals_made="1.5" steals="0.0" three_points_att="1.0"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-30 15:00:47 +0000 -->

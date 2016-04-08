@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:37:31Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="4145bac4-b104-464a-b24e-afac112ed1c3" country_code="KOR" preferred_foot="" height_in="73" weight_lb="0" height_cm="185" weight_kg="0" first_name="Seung Gyu" last_name="Kim" country="South Korea">
+    <teams>
+      <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" country_code="KOR" position="G" is_manager="false" is_player="true" country="South Korea" jersey_number="21"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="6705b18c-c544-485e-953c-20e10f9b5798" name="AFC Champions League"/>
+          <team id="479cda89-a9bb-4ade-aa96-ab0affe2d5e0" name="Ulsan Hyundai" alias="" country_code="KOR" country="South Korea" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 235686/1405922551 -->
+  </player>
+</profile>

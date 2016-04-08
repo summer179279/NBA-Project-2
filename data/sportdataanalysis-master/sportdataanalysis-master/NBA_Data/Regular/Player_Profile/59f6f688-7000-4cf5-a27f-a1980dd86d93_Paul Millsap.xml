@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:30:50 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="59f6f688-7000-4cf5-a27f-a1980dd86d93" status="ACT" full_name="Paul Millsap" first_name="Paul" last_name="Millsap" abbr_name="P.Millsap" height="80" weight="253" position="F" primary_position="PF" jersey_number="4" experience="7" college="Louisiana Tech" birth_place="Monroe, LA, USA" birthdate="1985-02-10" updated="2013-09-06T18:59:00+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL"/>
+  <draft team_id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" year="2006" round="2" pick="47"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL">
+        <statistics>
+          <total games_played="74" games_started="73" minutes="2482.0" field_goals_made="483" field_goals_att="1047" three_points_made="76" three_points_att="212" blocked_att="69" free_throws_made="286" free_throws_att="391" offensive_rebounds="154" defensive_rebounds="473" assists="232" turnovers="185" steals="129" blocks="78" personal_fouls="210" tech_fouls="1" points="1328" flagrant_fouls="0" free_throws_pct="0.731" two_points_pct="0.487" three_points_pct="0.358" field_goals_pct="0.461" rebounds="627" assists_turnover_ratio="1.25" two_points_made="407" two_points_att="835"/>
+          <average points="17.9" blocked_att="0.93" turnovers="2.5" free_throws_att="5.28" field_goals_att="14.15" off_rebounds="2.08" two_points_att="11.28" assists="3.1" blocks="1.05" personal_fouls="2.84" two_points_made="5.5" flagrant_fouls="0.0" rebounds="8.47" three_points_made="1.03" minutes="33.5" def_rebounds="6.39" free_throws_made="3.86" field_goals_made="6.53" steals="1.74" three_points_att="2.86"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:30:50 +0000 -->

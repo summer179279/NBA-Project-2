@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:19:01 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-10-05T04:00:00+00:00" end_time="2013-10-06T03:59:59+00:00">
+    <profiles>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="3bbe1893-51d8-4b7f-9459-4822b22c6d88" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-05T15:25:20+00:00"/>
+        <game id="6bd56608-e716-4e72-afa3-c9db96154dc6" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-06T01:29:16+00:00"/>
+        <game id="932ba84a-554d-461f-a6c0-baaa98b62fc8" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-06T02:48:08+00:00"/>
+      </schedule>
+    </games>
+    <standings>
+      <team id="583ec5fd-fb46-11e1-82cb-f4ce4684ea4c" name="Bulls" market="Chicago" last_modified="2013-10-26T02:51:30+00:00"/>
+      <team id="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" name="Pacers" market="Indiana" last_modified="2013-10-26T03:11:31+00:00"/>
+      <team id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" market="Houston" last_modified="2013-10-26T03:21:31+00:00"/>
+      <team id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" name="Pelicans" market="New Orleans" last_modified="2013-10-26T01:31:33+00:00"/>
+      <team id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" name="Thunder" market="Oklahoma City" last_modified="2013-10-24T04:31:31+00:00"/>
+    </standings>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:19:01 +0000 -->

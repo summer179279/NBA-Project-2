@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:34:00Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="561b07a5-0597-4dfb-a3f2-ee027341c7db" status="closed" scratched="false" period="P2" scheduled="2014-06-21T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F"/>
+      <round week="25" number="2" type="table"/>
+      <home id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="123" ball_safe="84" corner_kicks="10" dangerous_attacks="97" fouls="7" free_kicks="15" goal_attempts="16" goal_kicks="6" offsides="0" saves="3" shots_total="16" substitutions="3" throw_ins="26" yellow_card="0" shots_on_target="5" shots_off_target="11" possessions="70"/>
+      </home>
+      <away id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="54" ball_safe="82" corner_kicks="6" dangerous_attacks="35" fouls="14" free_kicks="7" goal_attempts="5" goal_kicks="22" offsides="1" saves="4" shots_total="5" substitutions="3" throw_ins="18" yellow_card="2" shots_on_target="3" shots_off_target="2" possessions="30"/>
+      </away>
+      <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385"/>
+      <!-- 4768774/4819/4766 -->
+    </match>
+  </matches>
+</boxscore>

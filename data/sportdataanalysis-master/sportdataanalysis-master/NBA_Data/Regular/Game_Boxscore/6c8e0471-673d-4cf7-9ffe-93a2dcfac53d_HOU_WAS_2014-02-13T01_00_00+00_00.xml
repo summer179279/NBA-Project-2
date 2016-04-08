@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-02-13 04:10:47 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="6c8e0471-673d-4cf7-9ffe-93a2dcfac53d" status="closed" coverage="full" home_team="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-02-13T01:00:00+00:00" duration="2:28" attendance="18314" lead_changes="6" times_tied="1" clock="00:00" quarter="4">
+  <team name="Rockets" market="Houston" id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" points="113">
+    <scoring>
+      <quarter number="1" sequence="1" points="38"/>
+      <quarter number="2" sequence="2" points="25"/>
+      <quarter number="3" sequence="3" points="30"/>
+      <quarter number="4" sequence="4" points="20"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="James Harden" position="G" primary_position="SG" jersey_number="13" id="a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc">
+          <statistics minutes="40:33" field_goals_made="8" field_goals_att="14" field_goals_pct="57.1" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="5" two_points_att="8" two_points_pct="0.625" blocked_att="0" free_throws_made="16" free_throws_att="16" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="5" rebounds="6" assists="6" turnovers="4" steals="1" blocks="0" assists_turnover_ratio="1.5" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="0" points="35"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Dwight Howard" position="C" primary_position="C" jersey_number="12" id="ae8df356-5e57-43e7-be4d-5ec7663312bd">
+          <statistics minutes="37:19" field_goals_made="7" field_goals_att="9" field_goals_pct="77.8" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="9" two_points_pct="0.778" blocked_att="1" free_throws_made="10" free_throws_att="16" free_throws_pct="62.5" offensive_rebounds="2" defensive_rebounds="14" rebounds="16" assists="1" turnovers="7" steals="2" blocks="3" assists_turnover_ratio="0.14" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="16" points="24"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="James Harden" position="G" primary_position="SG" jersey_number="13" id="a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc">
+          <statistics minutes="40:33" field_goals_made="8" field_goals_att="14" field_goals_pct="57.1" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="5" two_points_att="8" two_points_pct="0.625" blocked_att="0" free_throws_made="16" free_throws_att="16" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="5" rebounds="6" assists="6" turnovers="4" steals="1" blocks="0" assists_turnover_ratio="1.5" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="0" points="35"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Wizards" market="Washington" id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" points="112">
+    <scoring>
+      <quarter number="1" sequence="1" points="26"/>
+      <quarter number="2" sequence="2" points="28"/>
+      <quarter number="3" sequence="3" points="36"/>
+      <quarter number="4" sequence="4" points="22"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Trevor Ariza" position="F" primary_position="SF" jersey_number="1" id="9392d5b6-3dbf-4375-8fdd-4dafaae6ede4">
+          <statistics minutes="41:56" field_goals_made="11" field_goals_att="20" field_goals_pct="55.0" three_points_made="10" three_points_att="14" three_points_pct="71.4" two_points_made="1" two_points_att="6" two_points_pct="0.167" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="2" defensive_rebounds="9" rebounds="11" assists="3" turnovers="2" steals="3" blocks="1" assists_turnover_ratio="1.5" personal_fouls="6" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="32"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Trevor Ariza" position="F" primary_position="SF" jersey_number="1" id="9392d5b6-3dbf-4375-8fdd-4dafaae6ede4">
+          <statistics minutes="41:56" field_goals_made="11" field_goals_att="20" field_goals_pct="55.0" three_points_made="10" three_points_att="14" three_points_pct="71.4" two_points_made="1" two_points_att="6" two_points_pct="0.167" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="2" defensive_rebounds="9" rebounds="11" assists="3" turnovers="2" steals="3" blocks="1" assists_turnover_ratio="1.5" personal_fouls="6" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="32"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="John Wall" position="G" primary_position="PG" jersey_number="2" id="6769d1ca-0581-48b0-b487-b5c87b8f696e">
+          <statistics minutes="41:08" field_goals_made="6" field_goals_att="19" field_goals_pct="31.6" three_points_made="2" three_points_att="7" three_points_pct="28.6" two_points_made="4" two_points_att="12" two_points_pct="0.333" blocked_att="2" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="0" defensive_rebounds="1" rebounds="1" assists="14" turnovers="0" steals="3" blocks="0" assists_turnover_ratio="0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-6" points="19"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-02-13 04:10:48 +0000 -->

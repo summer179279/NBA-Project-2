@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:11:40Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="18a93da8-affb-4421-bdd6-9c1d8c10be9c" country_code="GRC" preferred_foot="B" height_in="72" weight_lb="165" height_cm="182" weight_kg="74" first_name="Panagiotis" last_name="Kone" country="Greece">
+    <teams>
+      <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" country_code="GRC" position="M" is_manager="false" is_player="true" country="Greece" jersey_number="8"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="171" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="92" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="28" matches_started="0" minutes_played="2380" yellow_cards="12" yellow_red_cards="1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="cd24a25b-3fc0-48fd-9c54-f793d51af976" name="Serie A"/>
+          <tournament id="4c08a075-b8a9-44ea-a1a0-7916ec5b472c" name="Serie A"/>
+          <team id="f1d9afbe-d318-46b1-b9a8-a83f2936ece7" name="Bologna FC" alias="BOL" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 19173/1405951714 -->
+  </player>
+</profile>

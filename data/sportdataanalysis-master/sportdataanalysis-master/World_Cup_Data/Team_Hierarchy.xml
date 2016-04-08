@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hierarchy generated="2014-07-17T10:52:27Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/teams-hierarchy.xsd">
+  <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International">
+    <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014">
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+      </tournament>
+      <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A" season_start="2014-06-11T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        <team id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team"/>
+        <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        <team id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team"/>
+      </tournament>
+      <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B" season_start="2014-06-12T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team"/>
+        <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        <team id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team"/>
+      </tournament>
+      <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team"/>
+        <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team"/>
+        <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team"/>
+        <team id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team"/>
+      </tournament>
+      <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team"/>
+        <team id="c655b728-adf8-4a6b-a091-f36765d518b3" name="England" alias="ENG" country_code="ENG" country="England" type="team"/>
+        <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+      </tournament>
+      <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team"/>
+        <team id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team"/>
+        <team id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team"/>
+        <team id="f68fcef3-42f2-4031-983e-81c0b79801d5" name="Honduras" alias="HON" country_code="HND" country="Honduras" type="team"/>
+      </tournament>
+      <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team"/>
+        <team id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team"/>
+        <team id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team"/>
+        <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+      </tournament>
+      <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G" season_start="2014-06-15T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        <team id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team"/>
+        <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team"/>
+        <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team"/>
+      </tournament>
+      <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H" season_start="2014-06-16T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014">
+        <coverage delayed_facts="false" live_facts="false" match_roster="false" match_stats="false" player_profile="false" season_stats="false" team_roster="false"/>
+        <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team"/>
+        <team id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team"/>
+        <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team"/>
+      </tournament>
+    </tournament_group>
+  </category>
+</hierarchy>

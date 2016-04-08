@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:13:42Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="c689750d-61fa-4df5-850d-7d30981bd2b3" country_code="BIH" preferred_foot="R" height_in="75" weight_lb="205" height_cm="190" weight_kg="92" first_name="Toni" last_name="Sunjic" country="Bosnia and Herzegovina">
+    <teams>
+      <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" country_code="BIH" position="D" is_manager="false" is_player="true" country="Bosnia and Herzegovina" jersey_number="15"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="25" matches_started="0" minutes_played="2114" yellow_cards="5" yellow_red_cards="1" red_cards="1" substitutions_out="2" substitutions_in="-1">
+          <category id="d1a50060-2ceb-45b6-ae08-b3a1ca38da86" name="Ukraine" country_code="UKR" country="Ukraine"/>
+          <tournament_group id="1a5bfc9a-57ed-49a6-9a9f-ac1e9f3fcc09" name="Premier League"/>
+          <tournament id="417d7be0-3b5b-4573-9b72-e8c037093f6a" name="Premier League"/>
+          <team id="1435377f-0dbd-4b95-aeec-7bd48d759cbf" name="FC Zorya Lugansk" alias="ZOR" country_code="UKR" country="Ukraine" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 55392/1405951576 -->
+  </player>
+</profile>

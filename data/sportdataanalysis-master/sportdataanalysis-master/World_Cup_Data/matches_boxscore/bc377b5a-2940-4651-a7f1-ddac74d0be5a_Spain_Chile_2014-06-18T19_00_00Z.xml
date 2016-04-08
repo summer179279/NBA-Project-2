@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:33:38Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="bc377b5a-2940-4651-a7f1-ddac74d0be5a" status="closed" scratched="false" period="P2" scheduled="2014-06-18T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B"/>
+      <round week="25" number="2" type="table"/>
+      <home id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="163" ball_safe="120" corner_kicks="7" dangerous_attacks="78" fouls="14" free_kicks="17" goal_attempts="13" goal_kicks="4" offsides="1" saves="1" shots_total="13" substitutions="3" throw_ins="39" yellow_card="1" shots_on_target="7" shots_off_target="6" possessions="63"/>
+      </home>
+      <away id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" formation="3-4-1-2" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="2" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="114" ball_safe="122" corner_kicks="1" dangerous_attacks="41" fouls="14" free_kicks="15" goal_attempts="5" goal_kicks="11" offsides="3" saves="7" shots_total="5" substitutions="3" throw_ins="27" yellow_card="2" shots_on_target="2" shots_off_target="3" possessions="37"/>
+      </away>
+      <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210"/>
+      <!-- 4768726/4698/4754 -->
+    </match>
+  </matches>
+</boxscore>

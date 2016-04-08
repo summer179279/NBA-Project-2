@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-04 06:10:47 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="bd2a893d-4f90-4794-983a-990474a564e5" status="closed" coverage="full" home_team="583ed102-fb46-11e1-82cb-f4ce4684ea4c" away_team="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-04T02:00:00+00:00" duration="2:32" attendance="15240" lead_changes="1" times_tied="1" clock="00:00" quarter="4">
+  <team name="Nuggets" market="Denver" id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" points="128">
+    <scoring>
+      <quarter number="1" sequence="1" points="25"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="34"/>
+      <quarter number="4" sequence="4" points="45"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Ty Lawson" position="G" primary_position="PG" jersey_number="3" id="95fd2469-00cc-481c-a42d-5ec9eaa80868">
+          <statistics minutes="40:16" field_goals_made="11" field_goals_att="16" field_goals_pct="68.8" three_points_made="3" three_points_att="4" three_points_pct="75.0" two_points_made="8" two_points_att="12" two_points_pct="0.667" blocked_att="0" free_throws_made="6" free_throws_att="7" free_throws_pct="85.7" offensive_rebounds="2" defensive_rebounds="2" rebounds="4" assists="11" turnovers="4" steals="4" blocks="0" assists_turnover_ratio="2.75" personal_fouls="6" tech_fouls="0" flagrant_fouls="0" pls_min="8" points="31"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Wilson Chandler" position="F" primary_position="SF" jersey_number="21" id="db90c8f4-5d2a-4ff9-8f57-1fc44a253dcf">
+          <statistics minutes="37:34" field_goals_made="11" field_goals_att="22" field_goals_pct="50.0" three_points_made="2" three_points_att="11" three_points_pct="18.2" two_points_made="9" two_points_att="11" two_points_pct="0.818" blocked_att="0" free_throws_made="1" free_throws_att="3" free_throws_pct="33.3" offensive_rebounds="1" defensive_rebounds="9" rebounds="10" assists="2" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="0.67" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="8" points="25"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Ty Lawson" position="G" primary_position="PG" jersey_number="3" id="95fd2469-00cc-481c-a42d-5ec9eaa80868">
+          <statistics minutes="40:16" field_goals_made="11" field_goals_att="16" field_goals_pct="68.8" three_points_made="3" three_points_att="4" three_points_pct="75.0" two_points_made="8" two_points_att="12" two_points_pct="0.667" blocked_att="0" free_throws_made="6" free_throws_att="7" free_throws_pct="85.7" offensive_rebounds="2" defensive_rebounds="2" rebounds="4" assists="11" turnovers="4" steals="4" blocks="0" assists_turnover_ratio="2.75" personal_fouls="6" tech_fouls="0" flagrant_fouls="0" pls_min="8" points="31"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Timberwolves" market="Minnesota" id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" points="132">
+    <scoring>
+      <quarter number="1" sequence="1" points="40"/>
+      <quarter number="2" sequence="2" points="26"/>
+      <quarter number="3" sequence="3" points="32"/>
+      <quarter number="4" sequence="4" points="34"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Kevin Love" position="F-C" primary_position="PF" jersey_number="42" id="7d615ccd-db96-42a3-9a6c-7f18ea25634e">
+          <statistics minutes="37:55" field_goals_made="10" field_goals_att="21" field_goals_pct="47.6" three_points_made="2" three_points_att="6" three_points_pct="33.3" two_points_made="8" two_points_att="15" two_points_pct="0.533" blocked_att="1" free_throws_made="11" free_throws_att="13" free_throws_pct="84.6" offensive_rebounds="3" defensive_rebounds="16" rebounds="19" assists="4" turnovers="4" steals="2" blocks="0" assists_turnover_ratio="1.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-3" points="33"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kevin Love" position="F-C" primary_position="PF" jersey_number="42" id="7d615ccd-db96-42a3-9a6c-7f18ea25634e">
+          <statistics minutes="37:55" field_goals_made="10" field_goals_att="21" field_goals_pct="47.6" three_points_made="2" three_points_att="6" three_points_pct="33.3" two_points_made="8" two_points_att="15" two_points_pct="0.533" blocked_att="1" free_throws_made="11" free_throws_att="13" free_throws_pct="84.6" offensive_rebounds="3" defensive_rebounds="16" rebounds="19" assists="4" turnovers="4" steals="2" blocks="0" assists_turnover_ratio="1.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-3" points="33"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Jose Barea" position="G" primary_position="PG" jersey_number="11" id="b6cdfbf4-fd3f-46f3-b889-732b3bae1da8">
+          <statistics minutes="26:26" field_goals_made="4" field_goals_att="10" field_goals_pct="40.0" three_points_made="1" three_points_att="1" three_points_pct="100.0" two_points_made="3" two_points_att="9" two_points_pct="0.333" blocked_att="0" free_throws_made="7" free_throws_att="8" free_throws_pct="87.5" offensive_rebounds="1" defensive_rebounds="1" rebounds="2" assists="5" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="2.5" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="16"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-04 06:10:49 +0000 -->

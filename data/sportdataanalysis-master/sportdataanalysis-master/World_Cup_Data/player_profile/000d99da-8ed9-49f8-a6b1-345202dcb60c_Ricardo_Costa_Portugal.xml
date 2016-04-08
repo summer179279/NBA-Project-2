@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:15:44Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="000d99da-8ed9-49f8-a6b1-345202dcb60c" country_code="PRT" preferred_foot="R" height_in="72" weight_lb="180" height_cm="182" weight_kg="81" first_name="Ricardo" last_name="Costa" country="Portugal">
+    <teams>
+      <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" country_code="PRT" position="D" is_manager="false" is_player="true" country="Portugal" jersey_number="13"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="134" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="157" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="20" matches_started="0" minutes_played="1713" yellow_cards="6" yellow_red_cards="1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division"/>
+          <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division"/>
+          <team id="c1fafa3a-a8df-45d2-ab96-4e29d2d978d4" name="Valencia CF" alias="VAL" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="9" matches_started="0" minutes_played="720" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="2">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="c1fafa3a-a8df-45d2-ab96-4e29d2d978d4" name="Valencia CF" alias="VAL" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="4ba865fd-363d-4df6-8afd-39ffacf0b0c7" name="Copa del Rey"/>
+          <tournament id="948da02b-65e0-4ee2-bdeb-63fa9488b792" name="Copa del Rey"/>
+          <team id="c1fafa3a-a8df-45d2-ab96-4e29d2d978d4" name="Valencia CF" alias="VAL" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 5883/1405951655 -->
+  </player>
+</profile>

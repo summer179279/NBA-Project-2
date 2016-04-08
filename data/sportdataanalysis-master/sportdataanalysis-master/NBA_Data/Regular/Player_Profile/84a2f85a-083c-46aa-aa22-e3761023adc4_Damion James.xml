@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-06-16 16:42:18 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="84a2f85a-083c-46aa-aa22-e3761023adc4" status="ACT" full_name="Damion James" first_name="Damion" last_name="James" abbr_name="D.James" height="79" weight="225" position="F" primary_position="SF" jersey_number="7" experience="3" college="Texas" birth_place="Hobbs, NM, USA" birthdate="1987-10-07" updated="2014-04-04T02:39:46+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" name="Spurs" market="San Antonio" alias="SAS"/>
+  <draft team_id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" year="2010" round="1" pick="24"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" name="Spurs" market="San Antonio" alias="SAS">
+        <statistics>
+          <total games_played="5" games_started="1" minutes="50.0" field_goals_made="2" field_goals_att="9" three_points_made="0" three_points_att="2" blocked_att="0" free_throws_made="2" free_throws_att="2" offensive_rebounds="1" defensive_rebounds="11" assists="3" turnovers="1" steals="0" blocks="1" personal_fouls="3" tech_fouls="0" points="6" flagrant_fouls="0" free_throws_pct="1.0" two_points_pct="0.286" three_points_pct="0.0" field_goals_pct="0.222" rebounds="12" assists_turnover_ratio="3.0" two_points_made="2" two_points_att="7"/>
+          <average points="1.2" blocked_att="0.0" turnovers="0.2" free_throws_att="0.4" field_goals_att="1.8" off_rebounds="0.2" two_points_att="1.4" assists="0.6" blocks="0.2" personal_fouls="0.6" two_points_made="0.4" flagrant_fouls="0.0" rebounds="2.4" three_points_made="0.0" minutes="10.0" def_rebounds="2.2" free_throws_made="0.4" field_goals_made="0.4" steals="0.0" three_points_att="0.4"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-06-16 16:42:18 +0000 -->

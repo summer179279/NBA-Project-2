@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:28:13Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="b89d883f-5261-473e-90f3-047323e1aaf2" country_code="RUS" preferred_foot="R" height_in="74" weight_lb="182" height_cm="187" weight_kg="82" first_name="Vasily" last_name="Berezutskiy" country="Russian Federation">
+    <teams>
+      <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" country_code="RUS" position="D" is_manager="false" is_player="true" country="Russian Federation" jersey_number="14"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="9" matches_started="0" minutes_played="810" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="23" matches_started="0" minutes_played="2070" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="7c438e06-e68e-4e8b-93a9-5727f91b98ac" name="CSKA Moscow" alias="CSK" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="96" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="7c438e06-e68e-4e8b-93a9-5727f91b98ac" name="CSKA Moscow" alias="CSK" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="c13a193d-b4c3-46aa-ba72-ac105ce80465" name="Russian Cup"/>
+          <tournament id="56cb709d-d596-4ee8-9442-40d70515a22f" name="Russian Cup"/>
+          <team id="7c438e06-e68e-4e8b-93a9-5727f91b98ac" name="CSKA Moscow" alias="CSK" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 13278/1405922850 -->
+  </player>
+</profile>

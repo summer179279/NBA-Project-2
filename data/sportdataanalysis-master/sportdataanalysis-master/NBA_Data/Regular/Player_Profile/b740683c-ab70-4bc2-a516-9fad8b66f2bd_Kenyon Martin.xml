@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 17:00:53 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="b740683c-ab70-4bc2-a516-9fad8b66f2bd" status="ACT" full_name="Kenyon Martin" first_name="Kenyon" last_name="Martin" abbr_name="K.Martin" height="81" weight="225" position="F" primary_position="PF" jersey_number="3" experience="13" college="Cincinnati" birth_place="Saginaw, MI, USA" birthdate="1977-12-30" updated="2013-10-16T18:41:08+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" name="Knicks" market="New York" alias="NYK"/>
+  <draft team_id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" year="2000" round="1" pick="1"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" name="Knicks" market="New York" alias="NYK">
+        <statistics>
+          <total games_played="32" games_started="15" minutes="633.0" field_goals_made="63" field_goals_att="123" three_points_made="0" three_points_att="1" blocked_att="6" free_throws_made="11" free_throws_att="19" offensive_rebounds="36" defensive_rebounds="98" assists="50" turnovers="26" steals="25" blocks="27" personal_fouls="85" tech_fouls="4" points="137" flagrant_fouls="2" free_throws_pct="0.579" two_points_pct="0.516" three_points_pct="0.0" field_goals_pct="0.512" rebounds="134" assists_turnover_ratio="1.92" two_points_made="63" two_points_att="122"/>
+          <average points="4.3" blocked_att="0.19" turnovers="0.81" free_throws_att="0.59" field_goals_att="3.84" off_rebounds="1.13" two_points_att="3.81" assists="1.6" blocks="0.84" personal_fouls="2.66" two_points_made="1.97" flagrant_fouls="0.06" rebounds="4.19" three_points_made="0.0" minutes="19.8" def_rebounds="3.06" free_throws_made="0.34" field_goals_made="1.97" steals="0.78" three_points_att="0.03"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 17:00:53 +0000 -->

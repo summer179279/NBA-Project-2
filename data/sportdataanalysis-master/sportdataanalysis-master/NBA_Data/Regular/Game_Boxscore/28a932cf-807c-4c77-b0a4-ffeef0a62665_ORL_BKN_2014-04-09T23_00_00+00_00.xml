@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-10 02:30:45 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="28a932cf-807c-4c77-b0a4-ffeef0a62665" status="closed" coverage="full" home_team="583ed157-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-04-09T23:00:00+00:00" duration="2:19" attendance="16085" lead_changes="16" times_tied="7" clock="00:00" quarter="4">
+  <team name="Magic" market="Orlando" id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" points="115">
+    <scoring>
+      <quarter number="1" sequence="1" points="20"/>
+      <quarter number="2" sequence="2" points="35"/>
+      <quarter number="3" sequence="3" points="28"/>
+      <quarter number="4" sequence="4" points="32"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Arron Afflalo" position="G-F" primary_position="SG" jersey_number="4" id="4287b809-4c78-4433-9790-b1d5fdef46e8">
+          <statistics minutes="33:15" field_goals_made="9" field_goals_att="16" field_goals_pct="56.3" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="7" two_points_att="11" two_points_pct="0.636" blocked_att="0" free_throws_made="5" free_throws_att="8" free_throws_pct="62.5" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="5" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="5.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-14" points="25"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Dewayne Dedmon" position="C" primary_position="C" jersey_number="3" id="b8a77045-a325-4ac1-ad9c-d065ec1f41a4">
+          <statistics minutes="19:37" field_goals_made="2" field_goals_att="3" field_goals_pct="66.7" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="2" two_points_att="3" two_points_pct="0.667" blocked_att="0" free_throws_made="0" free_throws_att="1" free_throws_pct="0.0" offensive_rebounds="2" defensive_rebounds="7" rebounds="9" assists="0" turnovers="0" steals="1" blocks="2" assists_turnover_ratio="0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="4"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Jameer Nelson" position="G" primary_position="PG" jersey_number="14" id="5d3681c6-9c73-4895-9b59-b4851069469f">
+          <statistics minutes="28:42" field_goals_made="4" field_goals_att="9" field_goals_pct="44.4" three_points_made="2" three_points_att="6" three_points_pct="33.3" two_points_made="2" two_points_att="3" two_points_pct="0.667" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="4" rebounds="5" assists="7" turnovers="4" steals="1" blocks="0" assists_turnover_ratio="1.75" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-10" points="14"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Nets" market="Brooklyn" id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" points="111">
+    <scoring>
+      <quarter number="1" sequence="1" points="22"/>
+      <quarter number="2" sequence="2" points="21"/>
+      <quarter number="3" sequence="3" points="35"/>
+      <quarter number="4" sequence="4" points="33"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Joe Johnson" position="G-F" primary_position="SG" jersey_number="7" id="2c14656f-1be0-4bd5-9a1f-e9684a89a489">
+          <statistics minutes="36:33" field_goals_made="11" field_goals_att="19" field_goals_pct="57.9" three_points_made="2" three_points_att="6" three_points_pct="33.3" two_points_made="9" two_points_att="13" two_points_pct="0.692" blocked_att="1" free_throws_made="7" free_throws_att="8" free_throws_pct="87.5" offensive_rebounds="2" defensive_rebounds="2" rebounds="4" assists="5" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="2.5" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-9" points="31"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Mirza Teletovic" position="F" primary_position="PF" jersey_number="33" id="0abf221a-5fea-4c98-9547-f19e917210be">
+          <statistics minutes="31:39" field_goals_made="5" field_goals_att="17" field_goals_pct="29.4" three_points_made="5" three_points_att="12" three_points_pct="41.7" two_points_made="0" two_points_att="5" two_points_pct="0.0" blocked_att="2" free_throws_made="2" free_throws_att="4" free_throws_pct="50.0" offensive_rebounds="3" defensive_rebounds="6" rebounds="9" assists="0" turnovers="1" steals="1" blocks="0" assists_turnover_ratio="0.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="11" points="17"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Kevin Garnett" position="F" primary_position="PF" jersey_number="2" id="82e44ba0-efd4-41de-b998-056d2865cebf">
+          <statistics minutes="16:32" field_goals_made="2" field_goals_att="2" field_goals_pct="100.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="2" two_points_att="2" two_points_pct="1.0" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="2" defensive_rebounds="6" rebounds="8" assists="6" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="6.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="5"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-04-10 02:30:46 +0000 -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-11-22 04:44:14 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-11-21T05:00:00+00:00" end_time="2013-11-22T04:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="a90a5752-ae6b-491a-8ff6-43acd5b12aa9" full_name="Ray McCallum Jr." last_modified="2013-11-21T20:55:28+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="221f8142-e44b-4150-a703-02ba80e0c551" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-22T03:32:39+00:00"/>
+        <game id="aadc7378-bdb6-4bcb-8cf8-054fac54c553" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-21T05:47:47+00:00"/>
+        <game id="b58fcdad-990e-4b65-a08c-038098c708f2" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-22T04:12:39+00:00"/>
+        <game id="d106539d-8e28-4034-8486-f2b97385da0e" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-21T06:35:03+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="aadc7378-bdb6-4bcb-8cf8-054fac54c553" last_modified="2013-11-21T05:47:47+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="b58fcdad-990e-4b65-a08c-038098c708f2" last_modified="2013-11-22T04:12:39+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="d106539d-8e28-4034-8486-f2b97385da0e" last_modified="2013-11-21T06:35:04+00:00"/>
+      </results>
+    </games>
+    <standings>
+      <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" last_modified="2013-11-21T06:42:19+00:00"/>
+      <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis" last_modified="2013-11-21T06:42:18+00:00"/>
+      <team id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" market="Houston" last_modified="2013-11-21T05:52:19+00:00"/>
+      <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" last_modified="2013-11-22T04:14:16+00:00"/>
+      <team id="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" name="Mavericks" market="Dallas" last_modified="2013-11-21T05:52:19+00:00"/>
+      <team id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" name="Thunder" market="Oklahoma City" last_modified="2013-11-22T04:14:16+00:00"/>
+    </standings>
+  </changelog>
+</league>
+<!-- Generation ended @ 2013-11-22 04:44:14 +0000 -->

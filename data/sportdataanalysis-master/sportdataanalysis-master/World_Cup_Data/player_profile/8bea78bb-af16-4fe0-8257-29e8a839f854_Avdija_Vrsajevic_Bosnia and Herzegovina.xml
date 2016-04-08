@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:12:40Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="8bea78bb-af16-4fe0-8257-29e8a839f854" country_code="BIH" preferred_foot="R" height_in="71" weight_lb="165" height_cm="180" weight_kg="74" first_name="Avdija" last_name="Vrsajevic" country="Bosnia and Herzegovina">
+    <teams>
+      <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" country_code="BIH" position="D" is_manager="false" is_player="true" country="Bosnia and Herzegovina" jersey_number="2"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="7" matches_started="0" minutes_played="410" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="3">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="08ad1f39-9301-4082-bb3c-83c10b28f2e1" name="HNK Hajduk Split" alias="HSP" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 29758/1405951576 -->
+  </player>
+</profile>

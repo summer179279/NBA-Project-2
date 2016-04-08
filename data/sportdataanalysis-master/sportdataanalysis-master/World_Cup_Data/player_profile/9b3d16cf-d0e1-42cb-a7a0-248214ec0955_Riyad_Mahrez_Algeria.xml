@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:16:28Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="9b3d16cf-d0e1-42cb-a7a0-248214ec0955" country_code="DZA" preferred_foot="B" height_in="70" weight_lb="134" height_cm="177" weight_kg="60" first_name="Riyad" last_name="Mahrez" country="Algeria">
+    <teams>
+      <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" country_code="DZA" position="F" is_manager="false" is_player="true" country="Algeria" jersey_number="21"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="71" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="984021cb-f247-4345-8c28-149c873429e0" name="Coupe de la Ligue"/>
+          <tournament id="d47f400e-998b-454c-8c85-c0b16da458eb" name="Coupe de la Ligue"/>
+          <team id="548b2b0e-fdd6-40da-b4e8-ead0e9e50944" name="AC Havre" alias="" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="17" matches_started="0" minutes_played="1280" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="8" substitutions_in="2">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="3fd6e5b0-092a-430c-adea-b68f6a1db17c" name="Ligue 2"/>
+          <tournament id="1d7f4228-15ae-43f9-9aaa-f875af8cc404" name="Ligue 2"/>
+          <team id="548b2b0e-fdd6-40da-b4e8-ead0e9e50944" name="AC Havre" alias="" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="19" matches_started="0" minutes_played="1161" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="7">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship"/>
+          <team id="23c0db27-44ff-4c9e-b5d7-7a08f607d673" name="Leicester City" alias="LEI" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 158213/1405951623 -->
+  </player>
+</profile>

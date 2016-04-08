@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:41:47Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="6d0589e4-694e-4aba-b36c-f193df8c00a8" status="closed" scratched="false" period="X2" scheduled="2014-07-01T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="909737d8-0424-435d-917a-3a05484322b4" loser_id="45f3d732-c627-40cc-ae79-160a581876ca" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="6d0589e4-694e-4aba-b36c-f193df8c00a8" status="closed" number="1" home_id="909737d8-0424-435d-917a-3a05484322b4" away_id="45f3d732-c627-40cc-ae79-160a581876ca" home_score="1" away_score="0"/>
+      </round>
+      <home id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" formation="4-3-1-2" score="1" regular_score="1" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="1" number="3"/>
+        </scoring>
+        <statistics attacks="204" ball_safe="133" corner_kicks="13" dangerous_attacks="130" fouls="19" free_kicks="29" goal_attempts="16" goal_kicks="10" offsides="1" saves="5" shots_total="16" substitutions="3" throw_ins="39" yellow_card="3" shots_on_target="8" shots_off_target="8" possessions="62"/>
+        <players>
+          <player id="b7adbc34-9f79-4049-8507-2d5d45d20151" country_code="ARG" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Ezequiel" last_name="Garay" country="Argentina" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7eaac413-6c2e-4435-a30f-49d878b558cb" country_code="ARG" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mariano" last_name="Andujar" country="Argentina" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ceca1fbe-ea2f-4a58-be64-0f51ad290033" country_code="ARG" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Javier" last_name="Mascherano" country="Argentina" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="510e2de1-90a4-4874-b08f-5e92855730d3" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Hugo" last_name="Campagnaro" country="Argentina" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d7764fea-7fb8-456f-8f0f-74995bad08a7" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Maxi" last_name="Rodriguez" country="Argentina" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3e942b96-1ff3-46de-888c-752a1edb9b1d" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Augusto" last_name="Fernandez" country="Argentina" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4e25fe01-ec85-45ce-80e6-d0dc128ef300" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ricardo" last_name="Alvarez" country="Argentina" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b5b3069b-1df6-4d10-be51-41e84067ae43" country_code="ARG" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Sergio" last_name="Aguero" country="Argentina" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2" country_code="ARG" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Gonzalo" last_name="Higuain" country="Argentina" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="95593c5c-388a-4ce7-b55a-62f40c460227" country_code="ARG" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Enzo" last_name="Perez" country="Argentina" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="66e83d67-9ccf-4d8b-aee1-4aa2c29db114" country_code="ARG" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Agustin" last_name="Orion" country="Argentina" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7353d6d6-e649-4bd4-af2e-7f98164fbe27" country_code="ARG" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Rodrigo Sebastian" last_name="Palacio" country="Argentina" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5d951bd1-8e42-4bb0-96ca-0ac8a949b0ea" country_code="ARG" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Pablo" last_name="Zabaleta" country="Argentina" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8588a877-dbeb-493b-a91e-717783604eed" country_code="ARG" position="M" started="true" tactical_position="5" tactical_order="6" first_name="Fernando" last_name="Gago" country="Argentina" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab" country_code="ARG" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Marcos" last_name="Rojo" country="Argentina" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0345958c-46ed-40bf-8773-de1be386e09f" country_code="ARG" position="D" started="false" tactical_position="4" tactical_order="5" first_name="Jose" last_name="Basanta" country="Argentina" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4f1ece83-f8fc-4c57-ab79-0cff09aebf88" country_code="ARG" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Federico" last_name="Fernandez" country="Argentina" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0b77f38d-6ec6-4d73-aaf2-bf2e046b7984" country_code="ARG" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Martin" last_name="Demichelis" country="Argentina" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="22291f86-10b1-4e7b-9dc5-345e18f49b8b" country_code="ARG" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Ezequiel" last_name="Lavezzi" country="Argentina" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="b84654c1-de9e-44b1-90e5-a61c88796651" country_code="ARG" position="F" started="true" tactical_position="6" tactical_order="9" first_name="Lionel" last_name="Messi" country="Argentina" jersey_number="10">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="160d2d49-2c27-4094-b600-e2627bdd6b4e" country_code="ARG" position="M" started="true" tactical_position="7" tactical_order="8" first_name="Angel" last_name="Di Maria" country="Argentina" jersey_number="7">
+            <statistics goal="1" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13409dae-ec11-496c-a3ed-033f8d2c0c55" country_code="ARG" position="M" started="false" tactical_position="5" tactical_order="6" first_name="Lucas" last_name="Biglia" country="Argentina" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="2c8919e1-0434-46f5-b3b4-1561c1735940" country_code="ARG" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Sergio" last_name="Romero" country="Argentina" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team" formation="4-2-3-1" score="0" regular_score="0" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="0" number="3"/>
+        </scoring>
+        <statistics attacks="150" ball_safe="165" corner_kicks="5" dangerous_attacks="63" fouls="28" free_kicks="20" goal_attempts="11" goal_kicks="19" offsides="1" saves="7" shots_total="11" substitutions="3" throw_ins="25" yellow_card="2" shots_on_target="6" shots_off_target="5" possessions="38"/>
+        <players>
+          <player id="060ab1b3-7b27-41be-8e3a-45aa58abf4c2" country_code="CHE" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Josip" last_name="Drmic" country="Switzerland" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="514ad874-f73a-413a-9384-da341b047955" country_code="CHE" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Johan" last_name="Djourou" country="Switzerland" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5034cbf4-8a60-4d1c-9b08-8c3fc1440554" country_code="CHE" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Gelson" last_name="Fernandes" country="Switzerland" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="b7ca9cc9-d15c-4bdc-9c51-146d09d3ea39" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Steve" last_name="von Bergen" country="Switzerland" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1bb8019e-dca6-4233-8c8e-48147f9d7ced" country_code="CHE" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Fabian" last_name="Schar" country="Switzerland" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="12ab0fff-3512-4ac3-8270-e95a16089d41" country_code="CHE" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Yann" last_name="Sommer" country="Switzerland" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9d7865ca-3793-4413-82ff-083430ba1f1b" country_code="CHE" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Granit" last_name="Xhaka" country="Switzerland" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="217ebd8f-41e9-411d-b5f1-b78137a89bcb" country_code="CHE" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Diego" last_name="Benaglio" country="Switzerland" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="da8dd27a-15e8-4760-b59d-fa6e4f4e1347" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Lang" country="Switzerland" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="50513a81-1856-4a9a-9a9c-8658f543bbda" country_code="CHE" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Gokhan" last_name="Inler" country="Switzerland" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14996835-57dd-4561-9caa-e0ca3567bc9c" country_code="CHE" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Haris" last_name="Seferovic" country="Switzerland" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1cc043af-4310-41ff-85c8-b0bb415e4ca5" country_code="CHE" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Tranquillo" last_name="Barnetta" country="Switzerland" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="073271b8-1602-4b10-a671-1bb2563539e5" country_code="CHE" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Admir" last_name="Mehmedi" country="Switzerland" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="29e1b880-e2f6-438f-905a-d86cd236c9e5" country_code="CHE" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Blerim" last_name="Dzemaili" country="Switzerland" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1a0cee30-9221-4fbb-9179-146601c3eec8" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Philippe" last_name="Senderos" country="Switzerland" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8" country_code="CHE" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Xherdan" last_name="Shaqiri" country="Switzerland" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="329f4c13-a5b1-4b7c-9cf8-1fa38166d2da" country_code="CHE" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Stephan" last_name="Lichtsteiner" country="Switzerland" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19acbeff-10d6-4db3-ab79-54e83b6a0d62" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Reto" last_name="Ziegler" country="Switzerland" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cfc6233c-8fd0-41dd-bb06-e9831c0e0cf2" country_code="CHE" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Valon" last_name="Behrami" country="Switzerland" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1d928915-decd-45f6-a9d9-67295770c0be" country_code="CHE" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Ricardo" last_name="Rodriguez" country="Switzerland" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e35d11ed-2168-41f2-986d-af25e0889c13" country_code="CHE" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Roman" last_name="Burki" country="Switzerland" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0d9e6f25-7c8e-406b-b000-2757a7fc7284" country_code="CHE" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Mario" last_name="Gavranovic" country="Switzerland" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="057da333-5669-448a-a9f5-785f63d913b5" country_code="CHE" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Valentin" last_name="Stocker" country="Switzerland" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372"/>
+      <facts>
+        <fact id="424b68c7-a083-4d46-81b7-20c16a076c47" type="match_started" time="2014-07-01T16:00:07Z" updated_time="2014-07-01T16:00:07Z" scratch="false" clock="1" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>The match has started.</description>
+        </fact>
+        <fact id="c03215cc-b614-4994-984e-84ee3a61c0b5" type="period_started" time="2014-07-01T16:00:07Z" updated_time="2014-07-01T16:00:07Z" scratch="false" period="P1"/>
+        <fact id="751c714e-3272-4d68-8b80-fc1339d8e30e" type="throwin" time="2014-07-01T16:00:36Z" updated_time="2014-07-01T16:00:36Z" scratch="false" x="40" y="99" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="54c05b33-68d9-4cd1-83da-1d95e46e7bc7" type="throwin" time="2014-07-01T16:00:52Z" updated_time="2014-07-01T16:00:52Z" scratch="false" x="34" y="99" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="8efc29da-ced1-426d-8630-3742f28557f7" type="free_kick" time="2014-07-01T16:02:19Z" updated_time="2014-07-01T16:02:19Z" scratch="false" x="42" y="61" clock="2" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="5b6b7753-3b00-47bc-9330-216f5110dada" type="throwin" time="2014-07-01T16:02:57Z" updated_time="2014-07-01T16:02:57Z" scratch="false" x="87" y="2" clock="2" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have a dangerous throw-in.</description>
+        </fact>
+        <fact id="04d4aff1-b0f7-41d7-9e41-c344be0dcd16" type="throwin" time="2014-07-01T16:03:09Z" updated_time="2014-07-01T16:03:09Z" scratch="false" x="88" y="1" clock="3" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina capitalize from this throw-in deep inside Switzerland's half?</description>
+        </fact>
+        <fact id="0c066f97-138d-4e33-b8ee-c79e71305a72" type="free_kick" time="2014-07-01T16:03:26Z" updated_time="2014-07-01T16:03:26Z" scratch="false" x="74" y="10" clock="3" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d528587e-26b4-476b-ae1a-bc03887e0ea0" type="goal_kick" time="2014-07-01T16:03:51Z" updated_time="2014-07-01T16:03:51Z" scratch="false" x="5" y="50" clock="3" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Goal kick for Argentina at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="c845ba2d-fa90-43ab-9d12-cb49c1ae9ae8" type="throwin" time="2014-07-01T16:04:23Z" updated_time="2014-07-01T16:04:23Z" scratch="false" x="41" y="98" clock="4" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="7204f668-3f55-4990-9d10-d933b351caf9" type="throwin" time="2014-07-01T16:04:48Z" updated_time="2014-07-01T16:04:48Z" scratch="false" x="76" y="1" clock="4" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="a70674b1-4c0d-4442-a481-68eca4cbc387" type="free_kick" time="2014-07-01T16:05:14Z" updated_time="2014-07-01T16:05:14Z" scratch="false" x="69" y="9" clock="5" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="a83a07a9-dea5-4649-a750-b78210220381" type="throwin" time="2014-07-01T16:06:17Z" updated_time="2014-07-01T16:06:17Z" scratch="false" x="69" y="98" clock="6" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a Argentina throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="44d37463-27e0-4c73-8ee6-802b2dd12a2d" type="throwin" time="2014-07-01T16:06:48Z" updated_time="2014-07-01T16:06:48Z" scratch="false" x="68" y="2" clock="6" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball safe as Switzerland is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="a8d7315a-865b-4d55-b9a7-4829700a08fb" type="corner_kick" time="2014-07-01T16:08:11Z" updated_time="2014-07-01T16:08:11Z" scratch="false" x="5" y="90" clock="8" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="e8eb1183-3841-4a5b-80e3-be6623fc514f" type="free_kick" time="2014-07-01T16:08:44Z" updated_time="2014-07-01T16:08:44Z" scratch="false" x="60" y="51" clock="8" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="bec64731-bd37-4783-9d6b-e9f9c13e65dd" type="shot_off_target" time="2014-07-01T16:08:21Z" updated_time="2014-07-01T16:08:21Z" scratch="false" x="21" y="35" clock="9" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="50513a81-1856-4a9a-9a9c-8658f543bbda">
+          <description>Switzerland's Gokhan Inler gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="0b5d1dd8-9324-4fdb-b3df-ea05c4979b94" type="goal_kick" time="2014-07-01T16:08:21Z" updated_time="2014-07-01T16:08:21Z" scratch="false" x="5" y="50" clock="9" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball goes out of play for a Argentina goal kick.</description>
+        </fact>
+        <fact id="02e23a20-66f0-4b2b-b172-0f46eca8f64d" type="throwin" time="2014-07-01T16:09:23Z" updated_time="2014-07-01T16:09:23Z" scratch="false" x="62" y="99" clock="9" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="952bd005-ed23-433d-b956-7763ee7fb12e" type="free_kick" time="2014-07-01T16:09:43Z" updated_time="2014-07-01T16:09:43Z" scratch="false" x="67" y="20" clock="9" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="78cb7e68-a3a7-4852-928d-42ae9f8ad8c5" type="throwin" time="2014-07-01T16:10:33Z" updated_time="2014-07-01T16:10:33Z" scratch="false" x="60" y="99" clock="10" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a Argentina throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="31d8617c-8d0c-4717-a2a0-a902c552aa13" type="throwin" time="2014-07-01T16:12:02Z" updated_time="2014-07-01T16:12:02Z" scratch="false" x="54" y="1" clock="11" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="3ea6ce2e-f6e0-4b5b-b17a-4091c67d010b" type="throwin" time="2014-07-01T16:12:42Z" updated_time="2014-07-01T16:12:42Z" scratch="false" x="70" y="1" clock="12" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="826cdb64-147d-487a-8608-cbcbbbb5c4a1" type="throwin" time="2014-07-01T16:13:09Z" updated_time="2014-07-01T16:13:09Z" scratch="false" x="38" y="79" clock="13" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a Switzerland throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="c62e2509-5f0f-492f-ab0a-9a5671012d2c" type="goal_kick" time="2014-07-01T16:13:46Z" updated_time="2014-07-01T16:13:46Z" scratch="false" x="95" y="50" clock="13" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="3543bdfd-27d1-4bd8-ba65-34d8502f94ca" type="free_kick" time="2014-07-01T16:14:43Z" updated_time="2014-07-01T16:14:43Z" scratch="false" x="62" y="52" clock="14" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="f6f45a47-7a8b-4101-9f57-6e9c80a9bf92" type="throwin" time="2014-07-01T16:16:24Z" updated_time="2014-07-01T16:16:24Z" scratch="false" x="39" y="1" clock="16" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="87293efb-6d08-4111-b8c8-0b6276c94f11" type="throwin" time="2014-07-01T16:16:46Z" updated_time="2014-07-01T16:16:46Z" scratch="false" x="39" y="99" clock="16" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="931c8a35-42df-4f9b-99da-d5f26ee01a4c" type="free_kick" time="2014-07-01T16:17:16Z" updated_time="2014-07-01T16:17:16Z" scratch="false" x="40" y="33" clock="17" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="45771121-90d2-43cc-afaf-b192f1281ee7" type="goal_kick" time="2014-07-01T16:17:31Z" updated_time="2014-07-01T16:17:31Z" scratch="false" x="95" y="50" clock="17" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="43426d42-61ad-4b15-87c4-b11c891293cd" type="free_kick" time="2014-07-01T16:18:06Z" updated_time="2014-07-01T16:18:06Z" scratch="false" x="35" y="37" clock="17" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c8bc4a02-22ca-4253-a7b2-acdfeb792a34" type="throwin" time="2014-07-01T16:18:35Z" updated_time="2014-07-01T16:18:35Z" scratch="false" x="58" y="98" clock="18" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="4623f424-e569-4c69-9e9d-b6b9c11c0268" type="throwin" time="2014-07-01T16:19:40Z" updated_time="2014-07-01T16:19:40Z" scratch="false" x="41" y="2" clock="19" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="409435f0-2030-4b40-a153-e2180265ba28" type="throwin" time="2014-07-01T16:19:56Z" updated_time="2014-07-01T16:19:56Z" scratch="false" x="28" y="1" clock="19" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="0d2b65f3-1002-48ca-8c8e-4d1a2772f77f" type="free_kick" time="2014-07-01T16:20:13Z" updated_time="2014-07-01T16:20:13Z" scratch="false" x="44" y="10" clock="20" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="44e5cb96-f2e7-4ba0-a97a-28c4e2626f40" type="throwin" time="2014-07-01T16:20:42Z" updated_time="2014-07-01T16:20:42Z" scratch="false" x="40" y="2" clock="20" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a Switzerland throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="293c21bc-0dc4-4e0c-97a7-e75e2b29fd72" type="free_kick" time="2014-07-01T16:21:18Z" updated_time="2014-07-01T16:21:18Z" scratch="false" x="39" y="46" clock="21" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="ef5bced3-1aa8-44de-b1e8-8d09ca1720bc" type="goal_kick" time="2014-07-01T16:21:58Z" updated_time="2014-07-01T16:21:58Z" scratch="false" x="5" y="50" clock="21" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Goal kick for Argentina at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="a331d1b5-2b1e-448a-a4ce-d88539731d5f" type="throwin" time="2014-07-01T16:23:12Z" updated_time="2014-07-01T16:23:12Z" scratch="false" x="68" y="99" clock="23" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="56a1bcca-165a-4a82-9ecc-c23c46caad48" type="free_kick" time="2014-07-01T16:23:37Z" updated_time="2014-07-01T16:23:37Z" scratch="false" x="60" y="43" clock="23" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="e96b89f9-da25-4359-97b0-bb97b693bd38" type="free_kick" time="2014-07-01T16:23:57Z" updated_time="2014-07-01T16:23:57Z" scratch="false" x="75" y="75" clock="23" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="6dc7c879-61e8-440b-9951-f96c590b1e65" type="shot_off_target" time="2014-07-01T16:24:54Z" updated_time="2014-07-01T16:24:54Z" scratch="false" x="90" y="41" clock="25" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>Gonzalo Higuain (Argentina) wins the ball in the air but heads wide.</description>
+        </fact>
+        <fact id="f11861a8-c51f-4814-bb56-8b282acb37f1" type="goal_kick" time="2014-07-01T16:24:54Z" updated_time="2014-07-01T16:24:54Z" scratch="false" x="95" y="50" clock="25" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="1dba9ab7-a32d-4d44-8a59-2b0b9a9289fa" type="free_kick" time="2014-07-01T16:25:34Z" updated_time="2014-07-01T16:25:34Z" scratch="false" x="37" y="24" clock="25" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="539acc79-44c6-4e60-bd86-d65e45cd8f0e" type="corner_kick" time="2014-07-01T16:26:44Z" updated_time="2014-07-01T16:26:44Z" scratch="false" x="5" y="5" clock="27" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Corner awarded to Switzerland.</description>
+        </fact>
+        <fact id="fa236e16-bb31-48d1-859b-b40b4f0bd848" type="corner_kick" time="2014-07-01T16:27:03Z" updated_time="2014-07-01T16:28:08Z" scratch="false" x="5" y="5" clock="27" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="e97eae07-5525-43f2-8ecc-6fa29ad87e20" type="keeper_save" time="2014-07-01T16:27:13Z" updated_time="2014-07-01T16:27:13Z" scratch="false" x="13" y="61" clock="27" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="9ca6d360-7355-4e90-be7f-396de236efc7" type="keeper_save" time="2014-07-01T16:27:20Z" updated_time="2014-07-01T16:27:20Z" scratch="false" x="27" y="50" clock="27" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="2a27d74d-e47d-4808-be95-b7f1be099e95" type="shot_on_target" time="2014-07-01T16:27:13Z" updated_time="2014-07-01T16:29:42Z" scratch="false" x="13" y="61" clock="28" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="9d7865ca-3793-4413-82ff-083430ba1f1b">
+          <description>In Sao Paulo Switzerland drive forward through Granit Xhaka. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="fabb7bba-1895-4cad-a646-ec8ed74a0479" type="shot_on_target" time="2014-07-01T16:27:20Z" updated_time="2014-07-01T16:28:38Z" scratch="false" x="27" y="50" clock="28" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="329f4c13-a5b1-4b7c-9cf8-1fa38166d2da">
+          <description>Stephan Lichtsteiner gets his shot on target but fails to score for Switzerland.</description>
+        </fact>
+        <fact id="7c43dbff-5ac9-419e-88e7-809331d2bff2" type="keeper_save" time="2014-07-01T16:28:24Z" updated_time="2014-07-01T16:28:24Z" scratch="false" x="93" y="59" clock="28" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="73bfa588-f187-471a-8fec-9945ad4bca57" type="shot_on_target" time="2014-07-01T16:28:24Z" updated_time="2014-07-01T16:28:24Z" scratch="false" x="93" y="59" clock="29" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="22291f86-10b1-4e7b-9dc5-345e18f49b8b">
+          <description>Ezequiel Lavezzi for Argentina drives towards goal at Arena de Sao Paulo . But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="0874049f-163e-4ac3-a513-bfb82146e4a8" type="corner_kick" time="2014-07-01T16:29:24Z" updated_time="2014-07-01T16:29:24Z" scratch="false" x="95" y="90" clock="29" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="1f248ffa-72d2-4d7b-8d53-98f07e963bc0" type="shot_off_target" time="2014-07-01T16:29:35Z" updated_time="2014-07-01T16:29:35Z" scratch="false" x="89" y="39" clock="30" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b7adbc34-9f79-4049-8507-2d5d45d20151">
+          <description>Ezequiel Garay (Argentina) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="7285a099-b21f-4487-bcde-14be5195b63c" type="goal_kick" time="2014-07-01T16:29:35Z" updated_time="2014-07-01T16:29:35Z" scratch="false" x="95" y="50" clock="30" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="e20704e9-d006-4aa6-9215-829eb5b25944" type="free_kick" time="2014-07-01T16:30:13Z" updated_time="2014-07-01T16:30:13Z" scratch="false" x="65" y="32" clock="30" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="549f1483-5300-4f97-aae5-fe7319c5a6b9" type="throwin" time="2014-07-01T16:31:50Z" updated_time="2014-07-01T16:31:50Z" scratch="false" x="86" y="99" clock="31" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a throw-in for Argentina, close to Switzerland's area.</description>
+        </fact>
+        <fact id="b8c8a5c2-a1fe-4a51-8b0a-d5a5d482e876" type="shot_blocked" time="2014-07-01T16:31:41Z" updated_time="2014-07-01T16:31:41Z" scratch="false" x="91" y="57" clock="32" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina push forward at Arena de Sao Paulo  and Angel Di Maria gets in a strike. This is blocked, however, by a determined Switzerland defence.</description>
+        </fact>
+        <fact id="3d7eff8c-366f-4989-839c-8fd5d4abe529" type="free_kick" time="2014-07-01T16:32:43Z" updated_time="2014-07-01T16:32:43Z" scratch="false" x="57" y="47" clock="32" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland in their own half.</description>
+        </fact>
+        <fact id="e7bc8559-7d4c-4c8b-bc7b-0caeeb2bb3f0" type="free_kick" time="2014-07-01T16:33:46Z" updated_time="2014-07-01T16:33:46Z" scratch="false" x="21" y="8" clock="33" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="2d7408f8-c517-45ea-a4c8-9e195cc2e049" type="keeper_save" time="2014-07-01T16:34:58Z" updated_time="2014-07-01T16:34:58Z" scratch="false" x="16" y="55" clock="34" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="254aa1ab-62e3-45f3-ba04-14d4d4a7fe72" type="throwin" time="2014-07-01T16:35:03Z" updated_time="2014-07-01T16:35:03Z" scratch="false" x="19" y="99" clock="34" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Argentina needs to be cautious. Switzerland have an attacking throw-in.</description>
+        </fact>
+        <fact id="7cdea64c-5008-4ba4-b3d5-20e628de3553" type="shot_on_target" time="2014-07-01T16:34:57Z" updated_time="2014-07-01T16:34:57Z" scratch="false" x="16" y="55" clock="35" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8">
+          <description>Xherdan Shaqiri of Switzerland smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="0cb64f33-b782-42c5-998d-5382a15a91f5" type="free_kick" time="2014-07-01T16:35:31Z" updated_time="2014-07-01T16:35:31Z" scratch="false" x="42" y="22" clock="35" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a7616190-74a5-401f-b2fd-527d4a8f31c6" type="card" time="2014-07-01T16:35:36Z" updated_time="2014-07-01T16:35:36Z" scratch="false" clock="36" card="Y" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="9d7865ca-3793-4413-82ff-083430ba1f1b">
+          <description>Granit Xhaka (Switzerland) has received a yellow card from Jonas Eriksson.</description>
+        </fact>
+        <fact id="d39f060d-2000-4b62-9b8f-68848b2f8636" type="throwin" time="2014-07-01T16:36:17Z" updated_time="2014-07-01T16:36:17Z" scratch="false" x="70" y="99" clock="36" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="08ff6a11-0ef5-4c67-a7fd-1c9cc3bd75c9" type="throwin" time="2014-07-01T16:36:42Z" updated_time="2014-07-01T16:36:42Z" scratch="false" x="29" y="100" clock="36" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a Switzerland throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="035420b6-5cec-44a7-a661-5e6edc7bf2c1" type="goal_kick" time="2014-07-01T16:36:54Z" updated_time="2014-07-01T16:36:54Z" scratch="false" x="5" y="50" clock="36" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball goes out of play for a Argentina goal kick.</description>
+        </fact>
+        <fact id="7d2c4723-a05c-4c62-9e4a-6270e0152fbc" type="throwin" time="2014-07-01T16:37:47Z" updated_time="2014-07-01T16:37:47Z" scratch="false" x="42" y="1" clock="37" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="1c59962c-1166-410a-8d94-ffec6e201f1c" type="keeper_save" time="2014-07-01T16:38:26Z" updated_time="2014-07-01T16:38:26Z" scratch="false" x="28" y="55" clock="38" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="2a5adc6a-56bd-4d63-937f-413508f83e0c" type="shot_on_target" time="2014-07-01T16:38:26Z" updated_time="2014-07-01T16:38:26Z" scratch="false" x="28" y="55" clock="39" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="060ab1b3-7b27-41be-8e3a-45aa58abf4c2">
+          <description>Switzerland's Josip Drmic is on target but unsuccessful.</description>
+        </fact>
+        <fact id="6577cbc4-d5df-4ac8-a318-9c2248be4b3d" type="free_kick" time="2014-07-01T16:39:44Z" updated_time="2014-07-01T16:39:44Z" scratch="false" x="44" y="28" clock="39" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="f4cf46c1-d963-45bd-a386-6ab54137fd29" type="offside" time="2014-07-01T16:39:14Z" updated_time="2014-07-01T16:39:14Z" scratch="false" x="82" y="25" clock="40" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="22291f86-10b1-4e7b-9dc5-345e18f49b8b">
+          <description>In Sao Paulo Argentina's Ezequiel Lavezzi is caught offside.</description>
+        </fact>
+        <fact id="df943be9-2af3-44a5-88de-eda9279229f8" type="keeper_save" time="2014-07-01T16:40:38Z" updated_time="2014-07-01T16:40:38Z" scratch="false" x="92" y="69" clock="40" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="32422cf1-57c2-40ef-968d-211c2a79ae28" type="free_kick" time="2014-07-01T16:40:55Z" updated_time="2014-07-01T16:40:55Z" scratch="false" x="39" y="18" clock="40" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Free kick Switzerland.</description>
+        </fact>
+        <fact id="8e7bf0ce-fc83-4673-93f7-0f7ff1464542" type="shot_on_target" time="2014-07-01T16:40:38Z" updated_time="2014-07-01T16:40:38Z" scratch="false" x="92" y="69" clock="41" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Argentina drive forward and Angel Di Maria gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="c8d6af2f-5063-4fde-9953-6d6ee6defa46" type="free_kick" time="2014-07-01T16:41:34Z" updated_time="2014-07-01T16:41:34Z" scratch="false" x="17" y="79" clock="41" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="662b53d4-f5ba-4265-a9c3-23ac6c38081e" type="corner_kick" time="2014-07-01T16:45:10Z" updated_time="2014-07-01T16:45:10Z" scratch="false" x="5" y="90" clock="45" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="5cfdd93d-3b22-4d0d-ba11-6df40367a728" type="period_over" time="2014-07-01T16:45:19Z" updated_time="2014-07-01T16:45:19Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The first-half is over at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="7f556bce-4102-400a-887f-d578ab9c1290" type="period_started" time="2014-07-01T16:45:19Z" updated_time="2014-07-01T16:45:19Z" scratch="false" period="H"/>
+        <fact id="c01e95a9-9c53-44c8-9d33-467440d84552" type="period_started" time="2014-07-01T17:00:49Z" updated_time="2014-07-01T17:00:49Z" scratch="false" period="P2"/>
+        <fact id="58fb29e2-0884-4293-a1d5-f2cf1466339a" type="throwin" time="2014-07-01T17:01:02Z" updated_time="2014-07-01T17:01:02Z" scratch="false" x="35" y="1" clock="45" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="d0e6c608-68ff-4c84-891b-e7ad24dbd8fc" type="free_kick" time="2014-07-01T17:01:21Z" updated_time="2014-07-01T17:01:21Z" scratch="false" x="25" y="36" clock="45" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="7e44af06-65ed-4217-b22d-3a8247716456" type="shot_blocked" time="2014-07-01T17:01:59Z" updated_time="2014-07-01T17:01:59Z" scratch="false" x="95" y="5" clock="47" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Gonzalo Higuain (Argentina) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="0fcc4a57-e2af-496f-bc93-1705ffd899f7" type="corner_kick" time="2014-07-01T17:02:16Z" updated_time="2014-07-01T17:02:16Z" scratch="false" x="95" y="5" clock="47" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="0847ce8e-c331-49cc-9118-7d0dbc337fb9" type="corner_kick" time="2014-07-01T17:02:45Z" updated_time="2014-07-01T17:02:45Z" scratch="false" x="95" y="90" clock="47" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="f74bb607-a841-45b7-a921-332d9bad0c59" type="free_kick" time="2014-07-01T17:03:04Z" updated_time="2014-07-01T17:03:04Z" scratch="false" x="79" y="73" clock="47" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="1eadf417-ee32-49a8-a2a0-e579c9eaeab6" type="free_kick" time="2014-07-01T17:04:28Z" updated_time="2014-07-01T17:04:28Z" scratch="false" x="25" y="24" clock="48" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="952932f9-abc5-4506-9780-b383a16d5a72" type="keeper_save" time="2014-07-01T17:05:38Z" updated_time="2014-07-01T17:05:38Z" scratch="false" x="15" y="54" clock="49" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="1b13893d-74f2-4ae8-aaf1-324ef8c41cef" type="shot_on_target" time="2014-07-01T17:05:38Z" updated_time="2014-07-01T17:05:38Z" scratch="false" x="15" y="54" clock="50" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8">
+          <description>Switzerland's Xherdan Shaqiri gets in a shot on goal at Arena de Sao Paulo . But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="c79e06ee-8edb-4e8b-8227-326d41052555" type="shot_off_target" time="2014-07-01T17:06:02Z" updated_time="2014-07-01T17:06:02Z" scratch="false" x="16" y="44" clock="51" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="060ab1b3-7b27-41be-8e3a-45aa58abf4c2">
+          <description>Switzerland are coming forward and Josip Drmic gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="a8ae96fd-e4b8-4f3a-b58a-4da8e3e6b6a1" type="goal_kick" time="2014-07-01T17:06:02Z" updated_time="2014-07-01T17:06:02Z" scratch="false" x="5" y="50" clock="51" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have a goal kick.</description>
+        </fact>
+        <fact id="2b2c7ff8-04b8-483d-98ef-a938a4f5751c" type="throwin" time="2014-07-01T17:07:38Z" updated_time="2014-07-01T17:07:38Z" scratch="false" x="76" y="2" clock="51" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="f24c81f6-2a78-48d9-86fe-70002ba732c6" type="shot_blocked" time="2014-07-01T17:07:18Z" updated_time="2014-07-01T17:07:18Z" scratch="false" x="84" y="41" clock="52" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina drive upfield and Angel Di Maria gets in a shot. The strike is blocked by a Switzerland defender.</description>
+        </fact>
+        <fact id="baa0657c-7d5f-4885-9838-0446c121f370" type="shot_off_target" time="2014-07-01T17:08:18Z" updated_time="2014-07-01T17:08:18Z" scratch="false" x="33" y="79" clock="53" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="1d928915-decd-45f6-a9d9-67295770c0be">
+          <description>In Sao Paulo Switzerland attack through Ricardo Rodriguez. The finish is off target, however.</description>
+        </fact>
+        <fact id="82054a9d-db53-4253-938e-5554faa8c0cb" type="goal_kick" time="2014-07-01T17:08:18Z" updated_time="2014-07-01T17:08:18Z" scratch="false" x="5" y="50" clock="53" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson awards Argentina a goal kick.</description>
+        </fact>
+        <fact id="485f0cdf-65c7-4a5f-abbb-6bac9b6cac15" type="goal_kick" time="2014-07-01T17:09:14Z" updated_time="2014-07-01T17:09:14Z" scratch="false" x="95" y="50" clock="53" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball goes out of play for a Switzerland goal kick.</description>
+        </fact>
+        <fact id="ecd6b4c4-dc13-434e-bfb8-9177cc95813d" type="throwin" time="2014-07-01T17:09:55Z" updated_time="2014-07-01T17:09:55Z" scratch="false" x="31" y="100" clock="54" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="08b77cad-b7a1-4081-8d67-f5a46a71cb7f" type="throwin" time="2014-07-01T17:10:16Z" updated_time="2014-07-01T17:10:16Z" scratch="false" x="74" y="1" clock="54" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="472bcaa9-e36b-4126-a6de-c21eda462b2e" type="free_kick" time="2014-07-01T17:11:13Z" updated_time="2014-07-01T17:11:13Z" scratch="false" x="47" y="76" clock="55" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Free kick Switzerland.</description>
+        </fact>
+        <fact id="7b41938c-3d65-424e-85e3-7354ff014e71" type="throwin" time="2014-07-01T17:12:26Z" updated_time="2014-07-01T17:12:26Z" scratch="false" x="72" y="99" clock="56" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="82cc32be-5b73-4707-9a47-135a3ce4e2db" type="goal_kick" time="2014-07-01T17:12:38Z" updated_time="2014-07-01T17:12:38Z" scratch="false" x="95" y="50" clock="56" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Goal kick for Switzerland at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="271fc467-bb09-4b22-af00-59c566777a2e" type="shot_blocked" time="2014-07-01T17:12:05Z" updated_time="2014-07-01T17:12:05Z" scratch="false" x="87" y="57" clock="57" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>In Sao Paulo, Angel Di Maria of Argentina is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="2678e6b9-b90d-4992-8ceb-679f2051d350" type="throwin" time="2014-07-01T17:13:35Z" updated_time="2014-07-01T17:13:35Z" scratch="false" x="14" y="1" clock="57" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in Argentina.</description>
+        </fact>
+        <fact id="9d180bb8-13e4-4172-9b34-15836b8f8873" type="keeper_save" time="2014-07-01T17:14:03Z" updated_time="2014-07-01T17:14:03Z" scratch="false" x="85" y="45" clock="58" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="a2d036b0-6296-47e8-b2f7-b22cc4a976fb" type="shot_on_target" time="2014-07-01T17:14:03Z" updated_time="2014-07-01T17:14:03Z" scratch="false" x="85" y="45" clock="59" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab">
+          <description>Argentina push forward through Marcos Rojo, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="87c59af7-3423-40e0-a240-9ad74365d967" type="corner_kick" time="2014-07-01T17:14:49Z" updated_time="2014-07-01T17:14:49Z" scratch="false" x="95" y="5" clock="59" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="73c12f2b-99ed-49d2-9b3a-4d5de0a0f7f5" type="goal_kick" time="2014-07-01T17:15:07Z" updated_time="2014-07-01T17:15:07Z" scratch="false" x="95" y="50" clock="59" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="3093916c-320c-46e8-b5bc-7d76b200bbe3" type="free_kick" time="2014-07-01T17:15:55Z" updated_time="2014-07-01T17:15:55Z" scratch="false" x="70" y="36" clock="60" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="c110f03a-2091-46d2-8d46-7e52cc082bd2" type="throwin" time="2014-07-01T17:16:49Z" updated_time="2014-07-01T17:16:49Z" scratch="false" x="65" y="99" clock="60" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="2119f0de-6468-4831-a242-aec612281824" type="throwin" time="2014-07-01T17:17:12Z" updated_time="2014-07-01T17:17:12Z" scratch="false" x="70" y="99" clock="61" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a Argentina throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="16ea89f8-14a4-4c41-b2b7-4a67f459ed96" type="keeper_save" time="2014-07-01T17:17:43Z" updated_time="2014-07-01T17:17:43Z" scratch="false" x="97" y="7" clock="61" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="5ccb9e02-8af2-4198-b027-2d1e522e485b" type="shot_on_target" time="2014-07-01T17:17:42Z" updated_time="2014-07-01T17:17:42Z" scratch="false" x="97" y="7" clock="62" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="712c6cf6-3368-4406-b4a9-3c29b7a2c3b2">
+          <description>Gonzalo Higuain (Argentina) gets in a header on goal but the attempt is cleared.</description>
+        </fact>
+        <fact id="267db66b-f44d-46a8-af46-f09d282affc0" type="corner_kick" time="2014-07-01T17:17:54Z" updated_time="2014-07-01T17:17:58Z" scratch="false" x="95" y="90" clock="62" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="038653ec-cd48-425a-873b-f7e20fdb30b7" type="throwin" time="2014-07-01T17:18:07Z" updated_time="2014-07-01T17:18:07Z" scratch="false" x="55" y="98" clock="62" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="abdda71e-5ba8-44fe-b021-55a529788182" type="throwin" time="2014-07-01T17:18:46Z" updated_time="2014-07-01T17:18:46Z" scratch="false" x="64" y="2" clock="62" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a Argentina throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="37bc7263-43ab-428b-a6ad-c23a4aa407dc" type="shot_blocked" time="2014-07-01T17:18:40Z" updated_time="2014-07-01T17:18:40Z" scratch="false" x="83" y="73" clock="63" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ezequiel Lavezzi (Argentina) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="9f23c78d-584b-46cc-a3fc-8eaf64fe49a6" type="corner_kick" time="2014-07-01T17:20:04Z" updated_time="2014-07-01T17:20:04Z" scratch="false" x="95" y="5" clock="64" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="0736623c-9435-4f75-ba49-526eb8312beb" type="throwin" time="2014-07-01T17:20:44Z" updated_time="2014-07-01T17:20:44Z" scratch="false" x="89" y="1" clock="64" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina close to the penalty box.</description>
+        </fact>
+        <fact id="f36532ef-3543-442f-83eb-a0641da68bd9" type="substitution" time="2014-07-01T17:21:08Z" updated_time="2014-07-01T17:21:08Z" scratch="false" clock="65" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_out_id="9d7865ca-3793-4413-82ff-083430ba1f1b" player_in_id="5034cbf4-8a60-4d1c-9b08-8c3fc1440554">
+          <description>Switzerland make their first substitution with Gelson Fernandes replacing Granit Xhaka.</description>
+        </fact>
+        <fact id="6a1c050a-acc3-47ba-a228-1ded61fafe39" type="throwin" time="2014-07-01T17:21:39Z" updated_time="2014-07-01T17:21:39Z" scratch="false" x="59" y="2" clock="65" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="80552e7c-6a84-46f5-bf45-58c3bc8070a7" type="throwin" time="2014-07-01T17:21:49Z" updated_time="2014-07-01T17:21:49Z" scratch="false" x="79" y="0" clock="65" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="d7d0b2c2-7070-484c-892b-156e5f849689" type="free_kick" time="2014-07-01T17:22:07Z" updated_time="2014-07-01T17:22:07Z" scratch="false" x="75" y="41" clock="66" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="04a40872-cc3c-40d8-ad94-51f5a5ee0c13" type="shot_off_target" time="2014-07-01T17:22:52Z" updated_time="2014-07-01T17:22:52Z" scratch="false" x="80" y="49" clock="67" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Lionel Messi for Argentina gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="66f13b40-e92e-42d7-8ff4-3a36231def2e" type="goal_kick" time="2014-07-01T17:22:52Z" updated_time="2014-07-01T17:22:52Z" scratch="false" x="95" y="50" clock="67" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Goal kick for Switzerland at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="fe422596-d814-4448-9cce-a270a653e641" type="throwin" time="2014-07-01T17:24:03Z" updated_time="2014-07-01T17:24:03Z" scratch="false" x="17" y="99" clock="68" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland close to the penalty box.</description>
+        </fact>
+        <fact id="328a7212-9b2b-43c9-949c-c42e53f35461" type="free_kick" time="2014-07-01T17:24:28Z" updated_time="2014-07-01T17:24:28Z" scratch="false" x="18" y="53" clock="68" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b818744f-7764-4386-9e49-ab85650764a4" type="goal_kick" time="2014-07-01T17:26:07Z" updated_time="2014-07-01T17:26:07Z" scratch="false" x="95" y="50" clock="70" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="d68f970d-6f53-4cb8-94a7-4ad5f90cb73e" type="throwin" time="2014-07-01T17:26:42Z" updated_time="2014-07-01T17:26:42Z" scratch="false" x="57" y="1" clock="70" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="c7b775ca-e6b2-4fd6-9c08-790a3a626076" type="throwin" time="2014-07-01T17:27:03Z" updated_time="2014-07-01T17:27:03Z" scratch="false" x="31" y="1" clock="71" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="02c2bba2-0a96-40c7-abab-2b91eba847d5" type="throwin" time="2014-07-01T17:27:53Z" updated_time="2014-07-01T17:27:53Z" scratch="false" x="32" y="99" clock="72" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="1f055875-c921-40b2-b879-09dd34dcd98a" type="throwin" time="2014-07-01T17:28:00Z" updated_time="2014-07-01T17:28:00Z" scratch="false" x="9" y="98" clock="72" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a throw-in for Switzerland, close to Argentina's area.</description>
+        </fact>
+        <fact id="ee4c3a2c-08be-478c-96cf-e83a5b5aa3ed" type="free_kick" time="2014-07-01T17:28:21Z" updated_time="2014-07-01T17:28:21Z" scratch="false" x="32" y="28" clock="72" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="c84e3171-5b06-455c-89c9-3c14e9f732d9" type="card" time="2014-07-01T17:28:27Z" updated_time="2014-07-01T17:28:27Z" scratch="false" clock="73" card="Y" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="5034cbf4-8a60-4d1c-9b08-8c3fc1440554">
+          <description>Switzerland's Gelson Fernandes has been booked in Sao Paulo.</description>
+        </fact>
+        <fact id="7bc8d984-d509-4cd5-b444-73199f479198" type="free_kick" time="2014-07-01T17:29:37Z" updated_time="2014-07-01T17:29:37Z" scratch="false" x="68" y="44" clock="73" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="8b2582e9-55bb-4d03-8111-a37a161647d5" type="substitution" time="2014-07-01T17:29:09Z" updated_time="2014-07-01T17:29:09Z" scratch="false" clock="74" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="22291f86-10b1-4e7b-9dc5-345e18f49b8b" player_in_id="7353d6d6-e649-4bd4-af2e-7f98164fbe27">
+          <description>Alejandro Sabella (Argentina) is making a first substitution, with Rodrigo Sebastian Palacio replacing Ezequiel Lavezzi.</description>
+        </fact>
+        <fact id="6335ec10-9f79-4e89-ab7d-fdc668846824" type="shot_off_target" time="2014-07-01T17:30:23Z" updated_time="2014-07-01T17:30:23Z" scratch="false" x="88" y="78" clock="75" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="7353d6d6-e649-4bd4-af2e-7f98164fbe27">
+          <description>Argentina surge into the attack at Arena de Sao Paulo  but Rodrigo Sebastian Palacio’s header is off-target.</description>
+        </fact>
+        <fact id="221d8768-a683-4a9e-9331-af60dab8061e" type="goal_kick" time="2014-07-01T17:30:23Z" updated_time="2014-07-01T17:30:23Z" scratch="false" x="95" y="50" clock="75" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball goes out of play for a Switzerland goal kick.</description>
+        </fact>
+        <fact id="db36e84b-a2f2-4cbd-b380-052cb74aa52b" type="shot_off_target" time="2014-07-01T17:31:38Z" updated_time="2014-07-01T17:31:38Z" scratch="false" x="82" y="59" clock="76" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="8588a877-dbeb-493b-a91e-717783604eed">
+          <description>Argentina's Fernando Gago breaks free at Arena de Sao Paulo . But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="0d0efa97-489b-4118-9ea6-2384a292b32e" type="goal_kick" time="2014-07-01T17:31:38Z" updated_time="2014-07-01T17:31:38Z" scratch="false" x="95" y="50" clock="76" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball goes out of play for a Switzerland goal kick.</description>
+        </fact>
+        <fact id="69b4d2e3-7478-4db6-a2c6-e3eb2de7d9ca" type="keeper_save" time="2014-07-01T17:33:09Z" updated_time="2014-07-01T17:33:09Z" scratch="false" x="96" y="6" clock="77" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="262498f5-8f2c-49a2-84c1-29f4e895219f" type="shot_on_target" time="2014-07-01T17:33:09Z" updated_time="2014-07-01T17:33:09Z" scratch="false" x="96" y="6" clock="78" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Lionel Messi gets his shot on target but fails to score for Argentina.</description>
+        </fact>
+        <fact id="5d3d43e8-a682-4560-a00b-8efa9c4371fb" type="injury" time="2014-07-01T17:33:31Z" updated_time="2014-07-01T17:33:31Z" scratch="false" x="96" y="7" clock="78" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="217ebd8f-41e9-411d-b5f1-b78137a89bcb">
+          <description>The match at Arena de Sao Paulo  has been interrupted briefly for a check on Diego Benaglio, who is down injured.</description>
+        </fact>
+        <fact id="55249540-6355-42ab-a405-04dcc1bf5d2a" type="game_resumed" time="2014-07-01T17:34:17Z" updated_time="2014-07-01T17:34:17Z" scratch="false" clock="78">
+          <description>The match at Arena de Sao Paulo  is underway again.</description>
+        </fact>
+        <fact id="f1c8478c-72cd-4c9e-bffc-5def21932454" type="injury_return" time="2014-07-01T17:34:18Z" updated_time="2014-07-01T17:34:18Z" scratch="false" clock="78" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="217ebd8f-41e9-411d-b5f1-b78137a89bcb">
+          <description>Switzerland’s Diego Benaglio is on his feet again at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="a70f769e-b6a1-46c5-9bc9-76dc237f20c2" type="goal_kick" time="2014-07-01T17:34:46Z" updated_time="2014-07-01T17:34:46Z" scratch="false" x="95" y="50" clock="78" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="0747a76b-1dbd-4bab-9f5e-ae8e9c93d609" type="corner_kick" time="2014-07-01T17:34:37Z" updated_time="2014-07-01T17:34:37Z" scratch="false" x="95" y="5" clock="79" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="006abf6c-8ecb-4ed8-afe9-2f3d6f19cf31" type="free_kick" time="2014-07-01T17:36:00Z" updated_time="2014-07-01T17:36:00Z" scratch="false" x="71" y="51" clock="80" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="ff72d876-2449-4696-bfe7-d042817a2f9b" type="free_kick" time="2014-07-01T17:36:56Z" updated_time="2014-07-01T17:36:56Z" scratch="false" x="58" y="45" clock="81" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="8220551f-29c2-4798-b1fe-b59d1b27252a" type="substitution" time="2014-07-01T17:37:28Z" updated_time="2014-07-01T17:37:28Z" scratch="false" clock="82" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_out_id="060ab1b3-7b27-41be-8e3a-45aa58abf4c2" player_in_id="14996835-57dd-4561-9caa-e0ca3567bc9c">
+          <description>Ottmar Hitzfeld is making the team's second substitution at Arena de Sao Paulo  with Haris Seferovic replacing Josip Drmic.</description>
+        </fact>
+        <fact id="692f0e8e-21d0-4f1a-9ce4-398fbfd6fc6b" type="throwin" time="2014-07-01T17:37:56Z" updated_time="2014-07-01T17:37:56Z" scratch="false" x="38" y="99" clock="82" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="6df4a99f-aac4-41e6-9f6a-577b980db603" type="free_kick" time="2014-07-01T17:38:32Z" updated_time="2014-07-01T17:38:32Z" scratch="false" x="21" y="77" clock="82" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="064c1752-7876-4499-bb63-c1562404688b" type="throwin" time="2014-07-01T17:39:20Z" updated_time="2014-07-01T17:39:20Z" scratch="false" x="58" y="99" clock="83" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="5e341a0a-1ba6-499e-b73e-ca7dd2d41cd9" type="shot_blocked" time="2014-07-01T17:39:43Z" updated_time="2014-07-01T17:39:43Z" scratch="false" x="95" y="3" clock="84" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina's Angel Di Maria gets in a shot but it is blocked by a Switzerland defender.</description>
+        </fact>
+        <fact id="a7269673-50c5-4c67-8520-e91bec3a353f" type="corner_kick" time="2014-07-01T17:39:53Z" updated_time="2014-07-01T17:39:53Z" scratch="false" x="95" y="5" clock="84" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="99555e77-d2ef-4607-8214-04ef71cbd26e" type="shot_off_target" time="2014-07-01T17:40:18Z" updated_time="2014-07-01T17:40:18Z" scratch="false" x="79" y="24" clock="85" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab">
+          <description>Argentina's Marcos Rojo breaks free at Arena de Sao Paulo . But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="0ae15b30-c0a2-4924-9d3c-114a5bccac55" type="goal_kick" time="2014-07-01T17:40:19Z" updated_time="2014-07-01T17:40:19Z" scratch="false" x="95" y="50" clock="85" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Goal kick for Switzerland at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="002bfb63-5a75-410d-a91a-6499c53aff12" type="free_kick" time="2014-07-01T17:40:59Z" updated_time="2014-07-01T17:40:59Z" scratch="false" x="37" y="47" clock="85" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="22d06e91-a2b4-4189-b459-88b3d485435e" type="free_kick" time="2014-07-01T17:41:59Z" updated_time="2014-07-01T17:41:59Z" scratch="false" x="59" y="28" clock="86" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="d6452c28-c02a-496c-ba0d-922ad5de481e" type="free_kick" time="2014-07-01T17:42:48Z" updated_time="2014-07-01T17:42:48Z" scratch="false" x="83" y="32" clock="86" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland in their own half.</description>
+        </fact>
+        <fact id="2f92e0f4-5d1e-4238-a0dd-7e8dfa625712" type="throwin" time="2014-07-01T17:43:27Z" updated_time="2014-07-01T17:43:27Z" scratch="false" x="20" y="2" clock="87" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a dangerous throw-in.</description>
+        </fact>
+        <fact id="637c99e3-c150-4edf-aa5b-9af2c2f5e60f" type="offside" time="2014-07-01T17:44:21Z" updated_time="2014-07-01T17:44:21Z" scratch="false" x="19" y="17" clock="89" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8">
+          <description>Switzerland's Xherdan Shaqiri is whistled for offside at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="1e9644c2-9ae7-4d98-b90f-5dc66f88b2c7" type="corner_kick" time="2014-07-01T17:44:53Z" updated_time="2014-07-01T17:44:53Z" scratch="false" x="95" y="5" clock="89" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="2cfccb0c-4ac0-4a8f-9147-9fa92ffccb62" type="free_kick" time="2014-07-01T17:45:06Z" updated_time="2014-07-01T17:45:06Z" scratch="false" x="63" y="66" clock="89" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="dfbd3fcf-7cdc-4dcf-b632-536fdeaea093" type="card" time="2014-07-01T17:45:31Z" updated_time="2014-07-01T17:45:31Z" scratch="false" clock="90" card="Y" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab">
+          <description>Marcos Rojo (Argentina) gets a yellow card. He will be suspended from the next match!</description>
+        </fact>
+        <fact id="fcb56b56-4fdd-492c-9102-42330cf65e2b" type="injury_time" time="2014-07-01T17:46:12Z" updated_time="2014-07-01T17:46:12Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>The second half is prolonged by 3 minutes of added time.</description>
+        </fact>
+        <fact id="b097cdf1-2689-4bd5-8106-67351f10b4e7" type="free_kick" time="2014-07-01T17:46:16Z" updated_time="2014-07-01T17:46:16Z" scratch="false" x="28" y="84" clock="90" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Free kick Switzerland.</description>
+        </fact>
+        <fact id="bd4a1e61-2b35-48fb-a0d6-0fab6fd89ad3" type="goal_kick" time="2014-07-01T17:47:11Z" updated_time="2014-07-01T17:47:11Z" scratch="false" x="5" y="50" clock="90" injury_time="1" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have a goal kick.</description>
+        </fact>
+        <fact id="78d37d77-4ec8-40d3-ac02-c71d77c7a508" type="throwin" time="2014-07-01T17:48:27Z" updated_time="2014-07-01T17:48:27Z" scratch="false" x="40" y="1" clock="90" injury_time="2" team_id="909737d8-0424-435d-917a-3a05484322b4"/>
+        <fact id="1086118d-6eff-4b48-9e53-652fe840cb41" type="period_over" time="2014-07-01T17:48:54Z" updated_time="2014-07-01T17:48:54Z" scratch="false" home_score="0" away_score="0" period="P2">
+          <description>It's 0-0 at the end of normal time.</description>
+        </fact>
+        <fact id="1d4e3b4c-892c-4391-a8dd-f14e673b8e40" type="period_started" time="2014-07-01T17:48:54Z" updated_time="2014-07-01T17:48:54Z" scratch="false" period="PX1"/>
+        <fact id="51a769e8-0298-4c14-980d-2811a07a5295" type="period_started" time="2014-07-01T17:54:28Z" updated_time="2014-07-01T17:54:28Z" scratch="false" period="X1">
+          <description>The first extra period is now underway.</description>
+        </fact>
+        <fact id="c39e3447-326f-4d6d-a5bc-83db1a48220a" type="period_started" time="2014-07-01T17:54:28Z" updated_time="2014-07-01T17:54:28Z" scratch="false" period="X1"/>
+        <fact id="0c4b738d-1995-4741-a998-a9cf5f6e170a" type="shot_off_target" time="2014-07-01T17:47:10Z" updated_time="2014-07-01T17:47:10Z" scratch="false" x="11" y="55" clock="90" injury_time="1" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="1bb8019e-dca6-4233-8c8e-48147f9d7ced">
+          <description>Fabian Schar (Switzerland) is first to the ball but his header is off-target.</description>
+        </fact>
+        <fact id="86564f00-d67f-482d-b6c7-37e44bc0513c" type="throwin" time="2014-07-01T17:47:57Z" updated_time="2014-07-01T17:47:57Z" scratch="false" x="45" y="99" clock="90" injury_time="2" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a Switzerland throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="dffeb3c9-9b72-4eea-b3c4-9ae722a32c96" type="shot_blocked" time="2014-07-01T17:55:14Z" updated_time="2014-07-01T17:55:14Z" scratch="false" x="96" y="96" clock="91" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Rodrigo Sebastian Palacio (Argentina) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="a615840b-6f8d-4553-a52d-fc7c1f991006" type="corner_kick" time="2014-07-01T17:55:26Z" updated_time="2014-07-01T17:55:26Z" scratch="false" x="95" y="90" clock="91" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="c290180e-5a63-4f9a-97f0-562a763bef43" type="throwin" time="2014-07-01T17:55:51Z" updated_time="2014-07-01T17:55:51Z" scratch="false" x="88" y="0" clock="91" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Switzerland needs to be cautious. Argentina have an attacking throw-in.</description>
+        </fact>
+        <fact id="1cbc4bdd-660d-4402-9708-0c10d023019d" type="goal_kick" time="2014-07-01T17:56:21Z" updated_time="2014-07-01T17:56:21Z" scratch="false" x="95" y="50" clock="91" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="e28cb7d5-3a6c-44ca-a8bb-36250d110c3f" type="corner_kick" time="2014-07-01T17:55:43Z" updated_time="2014-07-01T17:55:43Z" scratch="false" x="95" y="90" clock="92" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="d5da6ffe-f0d3-4eef-8e31-0aa7b0d6c1bb" type="throwin" time="2014-07-01T17:57:17Z" updated_time="2014-07-01T17:57:17Z" scratch="false" x="18" y="99" clock="92" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland capitalize from this throw-in deep inside Argentina's half?</description>
+        </fact>
+        <fact id="cd98b35c-89f8-4b62-9a34-2458f7a6fe4e" type="throwin" time="2014-07-01T17:57:21Z" updated_time="2014-07-01T17:57:21Z" scratch="false" x="21" y="99" clock="92" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina in their own half.</description>
+        </fact>
+        <fact id="0280687c-2cd3-4ffb-9bc5-734d80e8bd4d" type="free_kick" time="2014-07-01T17:57:42Z" updated_time="2014-07-01T17:57:42Z" scratch="false" x="70" y="83" clock="93" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="bf50dd0a-d03e-462c-8924-8b0b4fd3e36a" type="keeper_save" time="2014-07-01T17:58:19Z" updated_time="2014-07-01T17:58:19Z" scratch="false" x="88" y="34" clock="93" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="b28f492d-87c6-4639-9f29-f827fad7458a" type="shot_on_target" time="2014-07-01T17:58:19Z" updated_time="2014-07-01T17:58:19Z" scratch="false" x="88" y="34" clock="94" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="7353d6d6-e649-4bd4-af2e-7f98164fbe27">
+          <description>Argentina push upfield and Rodrigo Sebastian Palacio gets his head to the ball. The attempt is cleared by an alert Switzerland defence.</description>
+        </fact>
+        <fact id="6352070f-610b-40cc-89ee-985a316b08d9" type="throwin" time="2014-07-01T17:59:09Z" updated_time="2014-07-01T17:59:09Z" scratch="false" x="43" y="99" clock="94" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Throw-in for Argentina at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="6ffdaeef-c2b8-418a-a663-943f23da6bba" type="throwin" time="2014-07-01T17:59:25Z" updated_time="2014-07-01T17:59:25Z" scratch="false" x="36" y="98" clock="94" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland to take a throw-in in Argentina territory.</description>
+        </fact>
+        <fact id="cdb06759-3040-4bf8-8a06-9c2055378590" type="free_kick" time="2014-07-01T17:59:33Z" updated_time="2014-07-01T17:59:33Z" scratch="false" x="25" y="70" clock="95" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="7146b629-9807-40fc-b2d6-1deb6c3aa1ce" type="shot_off_target" time="2014-07-01T18:00:42Z" updated_time="2014-07-01T18:00:42Z" scratch="false" x="11" y="47" clock="97" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8">
+          <description>In Sao Paulo Switzerland attack through Xherdan Shaqiri. The finish is off target, however.</description>
+        </fact>
+        <fact id="24a2d015-fab8-4348-9a60-ef036f771b8e" type="goal_kick" time="2014-07-01T18:00:42Z" updated_time="2014-07-01T18:00:42Z" scratch="false" x="5" y="50" clock="97" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball goes out of play for a Argentina goal kick.</description>
+        </fact>
+        <fact id="476382e6-6e78-4c00-aebc-b89f767e840e" type="goal_kick" time="2014-07-01T18:01:34Z" updated_time="2014-07-01T18:01:34Z" scratch="false" x="95" y="50" clock="97" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="e461dfc5-3f76-4d9c-ba6e-9ac632c4862c" type="throwin" time="2014-07-01T18:02:25Z" updated_time="2014-07-01T18:02:25Z" scratch="false" x="46" y="1" clock="97" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland get the ball into an attacking position from this throw-in in Argentina's half?</description>
+        </fact>
+        <fact id="95f83365-a92c-4243-9430-6eff0a99bc37" type="free_kick" time="2014-07-01T18:02:51Z" updated_time="2014-07-01T18:02:51Z" scratch="false" x="55" y="20" clock="98" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6d4e590d-29c6-4cdf-a736-59c776e63aed" type="goal_kick" time="2014-07-01T18:05:23Z" updated_time="2014-07-01T18:05:23Z" scratch="false" x="95" y="50" clock="100" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Goal kick for Switzerland at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="e56726d3-4af6-491a-b00a-efd36dc70ac6" type="free_kick" time="2014-07-01T18:05:58Z" updated_time="2014-07-01T18:05:58Z" scratch="false" x="37" y="74" clock="101" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina in their own half.</description>
+        </fact>
+        <fact id="bbcc1930-cac6-403a-8cb4-ceabc9c78f30" type="throwin" time="2014-07-01T18:06:54Z" updated_time="2014-07-01T18:06:54Z" scratch="false" x="61" y="1" clock="102" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a Argentina throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="6d51335a-c393-4536-85ef-2e350b6a9a1f" type="shot_blocked" time="2014-07-01T18:06:50Z" updated_time="2014-07-01T18:06:50Z" scratch="false" x="21" y="37" clock="103" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland drive upfield and Haris Seferovic gets in a shot. The strike is blocked by a Argentina defender.</description>
+        </fact>
+        <fact id="eee17a7a-6cc5-41c2-a15a-0222f76b4d1a" type="throwin" time="2014-07-01T18:09:14Z" updated_time="2014-07-01T18:09:14Z" scratch="false" x="20" y="2" clock="104" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland capitalize from this throw-in deep inside Argentina's half?</description>
+        </fact>
+        <fact id="41beee67-3c4f-4e36-98c0-b147a09994df" type="substitution" time="2014-07-01T18:10:21Z" updated_time="2014-07-01T18:10:21Z" scratch="false" clock="105" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab" player_in_id="0345958c-46ed-40bf-8773-de1be386e09f">
+          <description>Jose Basanta is replacing Marcos Rojo for Argentina at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="10b10506-d462-4477-a6ba-a46f3950b102" type="goal_kick" time="2014-07-01T18:14:54Z" updated_time="2014-07-01T18:14:54Z" scratch="false" x="5" y="50" clock="105" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have a goal kick.</description>
+        </fact>
+        <fact id="4fa4d538-77b4-402a-ab62-0511821b789b" type="throwin" time="2014-07-01T18:15:22Z" updated_time="2014-07-01T18:15:22Z" scratch="false" x="54" y="99" clock="105" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in Switzerland.</description>
+        </fact>
+        <fact id="c0af7029-6e79-4ae1-b23f-7b43eb9e8154" type="injury_time" time="2014-07-01T18:10:54Z" updated_time="2014-07-01T18:10:54Z" scratch="false" clock="105" injury_time="1" period="P1">
+          <description>1 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="d1459dbb-3c21-45a4-9cb5-4e3bd1621577" type="shot_blocked" time="2014-07-01T18:11:16Z" updated_time="2014-07-01T18:11:16Z" scratch="false" x="74" y="25" clock="105" injury_time="1" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Angel Di Maria (Argentina) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="c5467ef0-2daf-4296-9e83-cb868af03a9c" type="period_over" time="2014-07-01T18:11:19Z" updated_time="2014-07-01T18:11:19Z" scratch="false" home_score="0" away_score="0" period="X1">
+          <description>It's 0-0 at the end of the first period.</description>
+        </fact>
+        <fact id="15510d3e-5659-476f-9949-17ace34db9cb" type="period_started" time="2014-07-01T18:11:19Z" updated_time="2014-07-01T18:11:19Z" scratch="false" period="PX2"/>
+        <fact id="816baba5-2f62-487c-aa50-4ada11e0eacf" type="substitution" time="2014-07-01T18:14:05Z" updated_time="2014-07-01T18:14:05Z" scratch="false" clock="106" team_id="909737d8-0424-435d-917a-3a05484322b4" player_out_id="8588a877-dbeb-493b-a91e-717783604eed" player_in_id="13409dae-ec11-496c-a3ed-033f8d2c0c55">
+          <description>Lucas Biglia is replacing Fernando Gago for Argentina at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="fcae7a31-5b21-45e6-a90c-f71f71a66216" type="period_started" time="2014-07-01T18:14:31Z" updated_time="2014-07-01T18:14:31Z" scratch="false" period="X2">
+          <description>The second extra period is now underway.</description>
+        </fact>
+        <fact id="7a26e92c-f53b-4baa-8334-eadecccc0347" type="period_started" time="2014-07-01T18:14:31Z" updated_time="2014-07-01T18:14:31Z" scratch="false" period="X2"/>
+        <fact id="7c2dd3f8-9dd0-4ad1-acce-974f5cf66d03" type="throwin" time="2014-07-01T18:15:52Z" updated_time="2014-07-01T18:15:52Z" scratch="false" x="61" y="98" clock="106" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Can Argentina get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="5b2010f9-cc7e-49c4-8a24-2f99327f1792" type="free_kick" time="2014-07-01T18:16:31Z" updated_time="2014-07-01T18:16:31Z" scratch="false" x="57" y="82" clock="106" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Free kick Argentina.</description>
+        </fact>
+        <fact id="cf523702-0675-423c-9180-a10645b85d97" type="keeper_save" time="2014-07-01T18:17:47Z" updated_time="2014-07-01T18:17:47Z" scratch="false" x="98" y="97" clock="108" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="d8b681e9-150c-4fb7-a190-eb3fb6054b74" type="free_kick" time="2014-07-01T18:18:27Z" updated_time="2014-07-01T18:18:27Z" scratch="false" x="56" y="50" clock="108" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a free kick to Argentina.</description>
+        </fact>
+        <fact id="a9ca061a-c75f-4042-90d5-f32926dfb174" type="shot_on_target" time="2014-07-01T18:17:47Z" updated_time="2014-07-01T18:17:47Z" scratch="false" x="98" y="97" clock="109" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Argentina's Angel Di Maria is on target but unsuccessful.</description>
+        </fact>
+        <fact id="1a0dca32-e15e-49fb-b730-2274cd9e2eee" type="corner_kick" time="2014-07-01T18:18:04Z" updated_time="2014-07-01T18:18:04Z" scratch="false" x="95" y="90" clock="109" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Corner awarded to Argentina.</description>
+        </fact>
+        <fact id="6ca36c8e-af26-4238-9658-dc2eb0fe8bab" type="shot_blocked" time="2014-07-01T18:20:06Z" updated_time="2014-07-01T18:20:06Z" scratch="false" x="85" y="60" clock="111" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Javier Mascherano (Argentina) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="bf2920ea-bd33-4243-8431-7e3e91fdc4ae" type="corner_kick" time="2014-07-01T18:21:25Z" updated_time="2014-07-01T18:21:25Z" scratch="false" x="95" y="5" clock="112" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="24e203c5-4327-42a2-927f-2b37ec4dfeec" type="shot_off_target" time="2014-07-01T18:21:33Z" updated_time="2014-07-01T18:21:33Z" scratch="false" x="83" y="69" clock="112" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Angel Di Maria of Argentina gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="274f86db-b0c6-430c-a8f8-cef594425143" type="goal_kick" time="2014-07-01T18:21:34Z" updated_time="2014-07-01T18:21:34Z" scratch="false" x="95" y="50" clock="112" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Goal kick for Switzerland at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="2c11c218-a6a8-4fb8-a87e-ab771f32a636" type="substitution" time="2014-07-01T18:22:09Z" updated_time="2014-07-01T18:22:09Z" scratch="false" clock="113" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_out_id="073271b8-1602-4b10-a671-1bb2563539e5" player_in_id="29e1b880-e2f6-438f-905a-d86cd236c9e5">
+          <description>Blerim Dzemaili is on a sub for Admir Mehmedi for Switzerland.</description>
+        </fact>
+        <fact id="ed9a198c-ce8e-4be2-801d-87e06ce9e8e1" type="throwin" time="2014-07-01T18:22:34Z" updated_time="2014-07-01T18:22:34Z" scratch="false" x="33" y="2" clock="113" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball safe as Argentina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="4e48f05d-d6a9-4244-9198-ff99fe7c448c" type="throwin" time="2014-07-01T18:22:53Z" updated_time="2014-07-01T18:22:53Z" scratch="false" x="80" y="98" clock="113" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a throw-in for Argentina, close to Switzerland's area.</description>
+        </fact>
+        <fact id="66b836cd-726a-496b-b3ae-5f202e4f1d6e" type="throwin" time="2014-07-01T18:23:11Z" updated_time="2014-07-01T18:23:11Z" scratch="false" x="60" y="99" clock="113" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="d038b93d-67a3-4b77-b519-f0ee0aa14969" type="free_kick" time="2014-07-01T18:23:40Z" updated_time="2014-07-01T18:23:40Z" scratch="false" x="77" y="46" clock="114" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e387f305-0fef-472f-9209-c980ff337bbb" type="throwin" time="2014-07-01T18:24:09Z" updated_time="2014-07-01T18:24:09Z" scratch="false" x="15" y="1" clock="114" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Argentina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="2a9cd165-350c-424e-a1b3-e53036777010" type="throwin" time="2014-07-01T18:25:26Z" updated_time="2014-07-01T18:25:26Z" scratch="false" x="33" y="1" clock="115" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a Switzerland throw-in in Argentina's half.</description>
+        </fact>
+        <fact id="6af008c1-568e-4622-acb7-ab85c9a0c06f" type="throwin" time="2014-07-01T18:25:57Z" updated_time="2014-07-01T18:25:57Z" scratch="false" x="62" y="2" clock="116" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Jonas Eriksson signals a Argentina throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="6cd44962-e4ad-49da-909a-d328802a47fd" type="goal_kick" time="2014-07-01T18:26:21Z" updated_time="2014-07-01T18:26:21Z" scratch="false" x="95" y="50" clock="116" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="9976f5a7-12a3-44c6-a7ea-ca863de5d55a" type="goal" time="2014-07-01T18:27:06Z" updated_time="2014-07-01T18:27:13Z" scratch="false" x="87" y="56" clock="118" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e" assist1_id="b84654c1-de9e-44b1-90e5-a61c88796651">
+          <description>Great play from Lionel Messi to set up the goal.</description>
+        </fact>
+        <fact id="02affa23-5875-4e53-8a77-55591c5dd298" type="card" time="2014-07-01T18:29:33Z" updated_time="2014-07-01T18:29:33Z" scratch="false" clock="120" card="Y" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Angel Di Maria for Argentina has been booked by Jonas Eriksson and receives a first yellow card.</description>
+        </fact>
+        <fact id="2fc450b5-4d86-4ef1-a2a8-f9ec9283d973" type="free_kick" time="2014-07-01T18:29:38Z" updated_time="2014-07-01T18:29:38Z" scratch="false" x="37" y="89" clock="120" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="cf9072bc-f63c-46a6-a9b4-39b93d85701c" type="corner_kick" time="2014-07-01T18:30:07Z" updated_time="2014-07-01T18:30:07Z" scratch="false" x="5" y="90" clock="120" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Corner awarded to Switzerland.</description>
+        </fact>
+        <fact id="55896c3d-e4d7-4347-b898-0ef24957f998" type="shot_on_target" time="2014-07-01T18:30:31Z" updated_time="2014-07-01T18:30:55Z" scratch="false" x="6" y="49" clock="120" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="29e1b880-e2f6-438f-905a-d86cd236c9e5">
+          <description>Switzerland's Blerim Dzemaili gets in a shot on goal at Arena de Sao Paulo . But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="6d68bb3e-37b2-42c2-9cad-c3fd88dde325" type="shot_blocked" time="2014-07-01T18:34:30Z" updated_time="2014-07-01T18:35:27Z" scratch="false" x="13" y="62" clock="120" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Important block from the Argentina defence as Xherdan Shaqiri fires in a strike for Switzerland.</description>
+        </fact>
+        <fact id="48067186-b492-43b1-abbf-d7ef535b7334" type="goal_kick" time="2014-07-01T18:30:34Z" updated_time="2014-07-01T18:30:34Z" scratch="false" x="5" y="50" clock="120" injury_time="1" team_id="909737d8-0424-435d-917a-3a05484322b4">
+          <description>Ball goes out of play for a Argentina goal kick.</description>
+        </fact>
+        <fact id="f24daff0-3080-4aa3-a1b2-e8f2a24a88e5" type="injury_time" time="2014-07-01T18:30:39Z" updated_time="2014-07-01T18:30:39Z" scratch="false" clock="120" injury_time="3" period="P1">
+          <description>The fourth official's board shows 3 minutes, which will be added to the first half.</description>
+        </fact>
+        <fact id="3ff2a00d-9231-4516-b0b0-016f39cd31ff" type="free_kick" time="2014-07-01T18:31:13Z" updated_time="2014-07-01T18:31:13Z" scratch="false" x="58" y="28" clock="120" injury_time="1" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland in their own half.</description>
+        </fact>
+        <fact id="25025fd2-796f-423b-b55a-51b3b288ecc3" type="shot_off_target" time="2014-07-01T18:32:18Z" updated_time="2014-07-01T18:32:18Z" scratch="false" x="75" y="41" clock="120" injury_time="2" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="160d2d49-2c27-4094-b600-e2627bdd6b4e">
+          <description>Argentina's Angel Di Maria misses with an attempt on goal.</description>
+        </fact>
+        <fact id="e65721c3-20d1-4605-9eab-01e0e4131ea9" type="goal_kick" time="2014-07-01T18:32:18Z" updated_time="2014-07-01T18:32:18Z" scratch="false" x="95" y="50" clock="120" injury_time="2" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="477a770c-ff56-4c2b-9476-59fdf2378f0a" type="free_kick" time="2014-07-01T18:32:33Z" updated_time="2014-07-01T18:32:33Z" scratch="false" x="13" y="62" clock="120" injury_time="3" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Jonas Eriksson signals a free kick to Switzerland just outside Argentina's area.</description>
+        </fact>
+        <fact id="bc9bf595-353a-453d-b3db-d1da05eb5199" type="card" time="2014-07-01T18:32:50Z" updated_time="2014-07-01T18:32:50Z" scratch="false" clock="120" injury_time="3" card="Y" team_id="909737d8-0424-435d-917a-3a05484322b4" player_id="b7adbc34-9f79-4049-8507-2d5d45d20151">
+          <description>Ezequiel Garay for Argentina has been booked by Jonas Eriksson and receives a first yellow card.</description>
+        </fact>
+        <fact id="a44687c8-1cab-45e4-99de-8c5780460fb2" type="period_over" time="2014-07-01T18:34:36Z" updated_time="2014-07-01T18:34:36Z" scratch="false" home_score="1" away_score="0" period="X2">
+          <description>Extra-time is over. The score is 1-0.</description>
+        </fact>
+        <fact id="52a51470-076d-4240-be1f-19515dc34be0" type="match_ended" time="2014-07-01T18:34:36Z" updated_time="2014-07-01T18:34:36Z" scratch="false" home_score="1" away_score="0" winner_id="909737d8-0424-435d-917a-3a05484322b4" draw="false"/>
+      </facts>
+      <!-- 4768156/4819/4699 -->
+    </match>
+  </matches>
+</summary>

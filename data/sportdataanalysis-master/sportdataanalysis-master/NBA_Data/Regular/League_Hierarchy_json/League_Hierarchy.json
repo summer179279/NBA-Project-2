@@ -1,0 +1,546 @@
+{
+    "league": {
+        "@alias": "NBA",
+        "@id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+        "@name": "NBA",
+        "@xmlns": "http://feed.elasticstats.com/schema/basketball/nba/hierarchy-v2.0.xsd",
+        "conference": [
+            {
+                "@alias": "EASTERN",
+                "@id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+                "@name": "EASTERN CONFERENCE",
+                "division": [
+                    {
+                        "@alias": "SOUTHEAST",
+                        "@id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+                        "@name": "Southeast",
+                        "team": [
+                            {
+                                "@alias": "WAS",
+                                "@id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Washington",
+                                "@name": "Wizards",
+                                "venue": {
+                                    "@address": "601 F St. N.W.",
+                                    "@capacity": "20290",
+                                    "@city": "Washington",
+                                    "@country": "USA",
+                                    "@id": "f62d5b49-d646-56e9-ba60-a875a00830f8",
+                                    "@name": "Verizon Center",
+                                    "@state": "DC",
+                                    "@zip": "20004"
+                                }
+                            },
+                            {
+                                "@alias": "CHA",
+                                "@id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Charlotte",
+                                "@name": "Hornets",
+                                "venue": {
+                                    "@address": "330 E. Trade St.",
+                                    "@capacity": "19026",
+                                    "@city": "Charlotte",
+                                    "@country": "USA",
+                                    "@id": "a380f011-6e5d-5430-9f37-209e1e8a9b6f",
+                                    "@name": "Time Warner Cable Arena",
+                                    "@state": "NC",
+                                    "@zip": "28202"
+                                }
+                            },
+                            {
+                                "@alias": "ATL",
+                                "@id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Atlanta",
+                                "@name": "Hawks",
+                                "venue": {
+                                    "@address": "One Philips Drive",
+                                    "@capacity": "18118",
+                                    "@city": "Atlanta",
+                                    "@country": "USA",
+                                    "@id": "fd21f639-8a47-51ac-a5dd-590629d445cf",
+                                    "@name": "Philips Arena",
+                                    "@state": "GA",
+                                    "@zip": "30303"
+                                }
+                            },
+                            {
+                                "@alias": "MIA",
+                                "@id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Miami",
+                                "@name": "Heat",
+                                "venue": {
+                                    "@address": "601 Biscayne Blvd.",
+                                    "@capacity": "19600",
+                                    "@city": "Miami",
+                                    "@country": "USA",
+                                    "@id": "b67d5f09-28b2-5bc6-9097-af312007d2f4",
+                                    "@name": "American Airlines Arena",
+                                    "@state": "FL",
+                                    "@zip": "33132"
+                                }
+                            },
+                            {
+                                "@alias": "ORL",
+                                "@id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Orlando",
+                                "@name": "Magic",
+                                "venue": {
+                                    "@address": "400 W. Church St.",
+                                    "@capacity": "18846",
+                                    "@city": "Orlando",
+                                    "@country": "USA",
+                                    "@id": "aecd8da6-0404-599c-a792-4b33fb084a2a",
+                                    "@name": "Amway Center",
+                                    "@state": "FL",
+                                    "@zip": "32801"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@alias": "ATLANTIC",
+                        "@id": "582d6502-9a93-4a8d-8785-69374d732875",
+                        "@name": "Atlantic",
+                        "team": [
+                            {
+                                "@alias": "NYK",
+                                "@id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "New York",
+                                "@name": "Knicks",
+                                "venue": {
+                                    "@address": "Four Pennsylvania Plaza",
+                                    "@capacity": "19812",
+                                    "@city": "New York",
+                                    "@country": "USA",
+                                    "@id": "583152aa-de75-5bea-ac92-ac5b8a51f9f9",
+                                    "@name": "Madison Square Garden",
+                                    "@state": "NY",
+                                    "@zip": "10001"
+                                }
+                            },
+                            {
+                                "@alias": "PHI",
+                                "@id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Philadelphia",
+                                "@name": "76ers",
+                                "venue": {
+                                    "@address": "3601 S. Broad St.",
+                                    "@capacity": "20328",
+                                    "@city": "Philadelphia",
+                                    "@country": "USA",
+                                    "@id": "b3dca541-859e-5301-bf90-4ec677a514a9",
+                                    "@name": "Wells Fargo Center",
+                                    "@state": "PA",
+                                    "@zip": "19148"
+                                }
+                            },
+                            {
+                                "@alias": "BKN",
+                                "@id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Brooklyn",
+                                "@name": "Nets",
+                                "venue": {
+                                    "@address": "620 Atlantic Avenue.",
+                                    "@capacity": "18200",
+                                    "@city": "Brooklyn",
+                                    "@country": "USA",
+                                    "@id": "7a330bcd-ac0f-50ca-bc29-2460e5c476b3",
+                                    "@name": "Barclays Center",
+                                    "@state": "NY",
+                                    "@zip": "11217"
+                                }
+                            },
+                            {
+                                "@alias": "BOS",
+                                "@id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Boston",
+                                "@name": "Celtics",
+                                "venue": {
+                                    "@address": "100 Legends Way",
+                                    "@capacity": "17565",
+                                    "@city": "Boston",
+                                    "@country": "USA",
+                                    "@id": "7d69b080-91ca-53c9-9302-45c1a72c5549",
+                                    "@name": "TD Garden",
+                                    "@state": "MA",
+                                    "@zip": "02114"
+                                }
+                            },
+                            {
+                                "@alias": "TOR",
+                                "@id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Toronto",
+                                "@name": "Raptors",
+                                "venue": {
+                                    "@address": "40 Bay St.",
+                                    "@capacity": "19800",
+                                    "@city": "Toronto",
+                                    "@country": "CAN",
+                                    "@id": "62cc9661-7b13-56e7-bf4a-bba7ad7be8da",
+                                    "@name": "Air Canada Centre",
+                                    "@state": "ON",
+                                    "@zip": "M5J 2X2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@alias": "CENTRAL",
+                        "@id": "f3aaf23a-1ceb-46ef-8fef-9403692e801b",
+                        "@name": "Central",
+                        "team": [
+                            {
+                                "@alias": "CHI",
+                                "@id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Chicago",
+                                "@name": "Bulls",
+                                "venue": {
+                                    "@address": "1901 W. Madison St.",
+                                    "@capacity": "20917",
+                                    "@city": "Chicago",
+                                    "@country": "USA",
+                                    "@id": "38911649-acfd-551a-949b-68f0fcaa44e7",
+                                    "@name": "United Center",
+                                    "@state": "IL",
+                                    "@zip": "60612"
+                                }
+                            },
+                            {
+                                "@alias": "CLE",
+                                "@id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Cleveland",
+                                "@name": "Cavaliers",
+                                "venue": {
+                                    "@address": "One Center Court",
+                                    "@capacity": "20562",
+                                    "@city": "Cleveland",
+                                    "@country": "USA",
+                                    "@id": "42cddf7a-0e1f-5f91-ae6f-c620582fdb01",
+                                    "@name": "Quicken Loans Arena",
+                                    "@state": "OH",
+                                    "@zip": "44115"
+                                }
+                            },
+                            {
+                                "@alias": "IND",
+                                "@id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Indiana",
+                                "@name": "Pacers",
+                                "venue": {
+                                    "@address": "125 S. Pennsylvania St.",
+                                    "@capacity": "18165",
+                                    "@city": "Indianapolis",
+                                    "@country": "USA",
+                                    "@id": "24bb478e-eb31-5f8a-8c8d-07f513169ec1",
+                                    "@name": "Bankers Life Fieldhouse",
+                                    "@state": "IN",
+                                    "@zip": "46204"
+                                }
+                            },
+                            {
+                                "@alias": "DET",
+                                "@id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Detroit",
+                                "@name": "Pistons",
+                                "venue": {
+                                    "@address": "Six Championship Drive",
+                                    "@capacity": "22076",
+                                    "@city": "Auburn Hills",
+                                    "@country": "USA",
+                                    "@id": "e83899a5-a6dd-58f8-bd42-34b4857ee714",
+                                    "@name": "The Palace of Auburn Hills",
+                                    "@state": "MI",
+                                    "@zip": "48326"
+                                }
+                            },
+                            {
+                                "@alias": "MIL",
+                                "@id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Milwaukee",
+                                "@name": "Bucks",
+                                "venue": {
+                                    "@address": "1001 N Fourth St",
+                                    "@capacity": "19000",
+                                    "@city": "Milwaukee",
+                                    "@country": "USA",
+                                    "@id": "9bb9599c-17dd-4253-82bb-96fae950a32f",
+                                    "@name": "BMO Harris Bradley Center",
+                                    "@state": "WI",
+                                    "@zip": "53203"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "@alias": "WESTERN",
+                "@id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+                "@name": "WESTERN CONFERENCE",
+                "division": [
+                    {
+                        "@alias": "NORTHWEST",
+                        "@id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+                        "@name": "Northwest",
+                        "team": [
+                            {
+                                "@alias": "MIN",
+                                "@id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Minnesota",
+                                "@name": "Timberwolves",
+                                "venue": {
+                                    "@address": "600 First Ave. North",
+                                    "@capacity": "19356",
+                                    "@city": "Minneapolis",
+                                    "@country": "USA",
+                                    "@id": "7aed802e-3562-5b73-af1b-3859529f9b95",
+                                    "@name": "Target Center",
+                                    "@state": "MN",
+                                    "@zip": "55403"
+                                }
+                            },
+                            {
+                                "@alias": "UTA",
+                                "@id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Utah",
+                                "@name": "Jazz",
+                                "venue": {
+                                    "@address": "301 W. South Temple St.",
+                                    "@capacity": "19911",
+                                    "@city": "Salt Lake City",
+                                    "@country": "USA",
+                                    "@id": "53bac75a-a667-52b5-a416-b80718ae4ed2",
+                                    "@name": "EnergySolutions Arena",
+                                    "@state": "UT",
+                                    "@zip": "84101"
+                                }
+                            },
+                            {
+                                "@alias": "OKC",
+                                "@id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Oklahoma City",
+                                "@name": "Thunder",
+                                "venue": {
+                                    "@address": "100 W. Reno Ave.",
+                                    "@capacity": "18203",
+                                    "@city": "Oklahoma City",
+                                    "@country": "USA",
+                                    "@id": "a13af216-4409-5021-8dd5-255cc71bffc3",
+                                    "@name": "Chesapeake Energy Arena",
+                                    "@state": "OK",
+                                    "@zip": "73102"
+                                }
+                            },
+                            {
+                                "@alias": "POR",
+                                "@id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Portland",
+                                "@name": "Trail Blazers",
+                                "venue": {
+                                    "@address": "1 Center Court",
+                                    "@capacity": "19980",
+                                    "@city": "Portland",
+                                    "@country": "USA",
+                                    "@id": "1d1f74a2-7b35-56f0-8cbd-552c51cb2c14",
+                                    "@name": "Moda Center",
+                                    "@state": "OR",
+                                    "@zip": "97227"
+                                }
+                            },
+                            {
+                                "@alias": "DEN",
+                                "@id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Denver",
+                                "@name": "Nuggets",
+                                "venue": {
+                                    "@address": "1000 Chopper Circle",
+                                    "@capacity": "19155",
+                                    "@city": "Denver",
+                                    "@country": "USA",
+                                    "@id": "1a28ef88-76c9-5bcc-b4ee-51d30ca98f4f",
+                                    "@name": "Pepsi Center",
+                                    "@state": "CO",
+                                    "@zip": "80204"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@alias": "SOUTHWEST",
+                        "@id": "1d29f94c-9587-494b-a232-feb20a40eb4c",
+                        "@name": "Southwest",
+                        "team": [
+                            {
+                                "@alias": "MEM",
+                                "@id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Memphis",
+                                "@name": "Grizzlies",
+                                "venue": {
+                                    "@address": "191 Beale St",
+                                    "@capacity": "18119",
+                                    "@city": "Memphis",
+                                    "@country": "USA",
+                                    "@id": "7657c204-a20b-527a-99cb-dc29218462aa",
+                                    "@name": "FedEx Forum",
+                                    "@state": "TN",
+                                    "@zip": "38103"
+                                }
+                            },
+                            {
+                                "@alias": "HOU",
+                                "@id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Houston",
+                                "@name": "Rockets",
+                                "venue": {
+                                    "@address": "1510 Polk St.",
+                                    "@capacity": "18043",
+                                    "@city": "Houston",
+                                    "@country": "USA",
+                                    "@id": "5b239206-57ce-50aa-baaa-627f3349dfdc",
+                                    "@name": "Toyota Center",
+                                    "@state": "TX",
+                                    "@zip": "77002"
+                                }
+                            },
+                            {
+                                "@alias": "NOP",
+                                "@id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "New Orleans",
+                                "@name": "Pelicans",
+                                "venue": {
+                                    "@address": "1501 Girod St.",
+                                    "@capacity": "17188",
+                                    "@city": "New Orleans",
+                                    "@country": "USA",
+                                    "@id": "6ec47e31-f778-5319-b6c4-3254e076ba0e",
+                                    "@name": "Smoothie King Center",
+                                    "@state": "LA",
+                                    "@zip": "70113"
+                                }
+                            },
+                            {
+                                "@alias": "SAS",
+                                "@id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "San Antonio",
+                                "@name": "Spurs",
+                                "venue": {
+                                    "@address": "One AT&T Center Parkway",
+                                    "@capacity": "18581",
+                                    "@city": "San Antonio",
+                                    "@country": "USA",
+                                    "@id": "8a7580c0-4052-54d5-85cd-85aab6200acf",
+                                    "@name": "AT&T Center",
+                                    "@state": "TX",
+                                    "@zip": "78219"
+                                }
+                            },
+                            {
+                                "@alias": "DAL",
+                                "@id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Dallas",
+                                "@name": "Mavericks",
+                                "venue": {
+                                    "@address": "2500 Victory Ave.",
+                                    "@capacity": "19200",
+                                    "@city": "Dallas",
+                                    "@country": "USA",
+                                    "@id": "401ba62f-19b5-5bfc-84d6-021772943311",
+                                    "@name": "American Airlines Center",
+                                    "@state": "TX",
+                                    "@zip": "75219"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@alias": "PACIFIC",
+                        "@id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+                        "@name": "Pacific",
+                        "team": [
+                            {
+                                "@alias": "GSW",
+                                "@id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Golden State",
+                                "@name": "Warriors",
+                                "venue": {
+                                    "@address": "7000 Coliseum Way",
+                                    "@capacity": "19596",
+                                    "@city": "Oakland",
+                                    "@country": "USA",
+                                    "@id": "e25e21f2-1d67-5f13-910b-81fc8629eea7",
+                                    "@name": "Oracle Arena",
+                                    "@state": "CA",
+                                    "@zip": "94621"
+                                }
+                            },
+                            {
+                                "@alias": "LAL",
+                                "@id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Los Angeles",
+                                "@name": "Lakers",
+                                "venue": {
+                                    "@address": "1111 S. Figueroa St.",
+                                    "@capacity": "18997",
+                                    "@city": "Los Angeles",
+                                    "@country": "USA",
+                                    "@id": "792ec100-691e-5e16-8ef8-79b2b6ee38ba",
+                                    "@name": "Staples Center",
+                                    "@state": "CA",
+                                    "@zip": "90015"
+                                }
+                            },
+                            {
+                                "@alias": "LAC",
+                                "@id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Los Angeles",
+                                "@name": "Clippers",
+                                "venue": {
+                                    "@address": "1111 S. Figueroa St.",
+                                    "@capacity": "18997",
+                                    "@city": "Los Angeles",
+                                    "@country": "USA",
+                                    "@id": "792ec100-691e-5e16-8ef8-79b2b6ee38ba",
+                                    "@name": "Staples Center",
+                                    "@state": "CA",
+                                    "@zip": "90015"
+                                }
+                            },
+                            {
+                                "@alias": "PHX",
+                                "@id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Phoenix",
+                                "@name": "Suns",
+                                "venue": {
+                                    "@address": "201 E. Jefferson St.",
+                                    "@capacity": "18422",
+                                    "@city": "Phoenix",
+                                    "@country": "USA",
+                                    "@id": "1d2e59b2-2479-5f84-a6a7-e82f65dd8442",
+                                    "@name": "US Airways Center",
+                                    "@state": "AZ",
+                                    "@zip": "85004"
+                                }
+                            },
+                            {
+                                "@alias": "SAC",
+                                "@id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+                                "@market": "Sacramento",
+                                "@name": "Kings",
+                                "venue": {
+                                    "@address": "One Sports Parkway",
+                                    "@capacity": "17317",
+                                    "@city": "Sacramento",
+                                    "@country": "USA",
+                                    "@id": "446e0f70-beea-5104-903f-fb65985711a1",
+                                    "@name": "Sleep Train Arena",
+                                    "@state": "CA",
+                                    "@zip": "95834"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

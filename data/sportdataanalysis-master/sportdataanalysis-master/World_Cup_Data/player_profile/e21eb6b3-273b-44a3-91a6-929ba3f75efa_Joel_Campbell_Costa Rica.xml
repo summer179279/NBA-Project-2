@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:10:19Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="e21eb6b3-273b-44a3-91a6-929ba3f75efa" country_code="CRI" preferred_foot="L" height_in="70" weight_lb="154" height_cm="177" weight_kg="69" first_name="Joel" last_name="Campbell" country="Costa Rica">
+    <teams>
+      <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" country_code="CRI" position="F" is_manager="false" is_player="true" country="Costa Rica" jersey_number="9"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="106" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="25f72edd-dbf5-4790-afa7-5fbb0dafeb37" name="WC Qualif., CONCACAF"/>
+          <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="5" matches_started="0" minutes_played="415" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="8" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="32" matches_started="0" minutes_played="2357" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="6" substitutions_in="7">
+          <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+          <tournament_group id="3f8e0d22-25a0-4180-82e0-4a10a941b5b7" name="Super League"/>
+          <team id="b2c8948c-4c24-481e-a83c-615d16b284b6" name="Olympiacos FC" alias="OLY" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+          <tournament_group id="a28cdcae-1249-4b95-9a7a-05cd246fe762" name="Greece Cup"/>
+          <tournament id="7c52bcaf-281a-47eb-80e6-d843aefe3ca9" name="Greece Cup"/>
+          <team id="b2c8948c-4c24-481e-a83c-615d16b284b6" name="Olympiacos FC" alias="OLY" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="354" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="b2c8948c-4c24-481e-a83c-615d16b284b6" name="Olympiacos FC" alias="OLY" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 154508/1405951678 -->
+  </player>
+</profile>

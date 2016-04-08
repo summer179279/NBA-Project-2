@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:15:30Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="b887c1a8-da18-452d-8c05-7502b7b54b36" country_code="PRT" preferred_foot="L" height_in="70" weight_lb="174" height_cm="177" weight_kg="78" first_name="Miguel" last_name="Veloso" country="Portugal">
+    <teams>
+      <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" country_code="PRT" position="M" is_manager="false" is_player="true" country="Portugal" jersey_number="4"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="3" matches_played="12" matches_started="0" minutes_played="944" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="226" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="8" matches_started="0" minutes_played="720" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="fb78bcfc-5df9-4d3f-9097-944b1fa305aa" name="FC Dynamo Kiev" alias="DYK" country_code="UKR" country="Ukraine" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="20" matches_started="0" minutes_played="1598" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="6" substitutions_in="2">
+          <category id="d1a50060-2ceb-45b6-ae08-b3a1ca38da86" name="Ukraine" country_code="UKR" country="Ukraine"/>
+          <tournament_group id="1a5bfc9a-57ed-49a6-9a9f-ac1e9f3fcc09" name="Premier League"/>
+          <tournament id="417d7be0-3b5b-4573-9b72-e8c037093f6a" name="Premier League"/>
+          <team id="fb78bcfc-5df9-4d3f-9097-944b1fa305aa" name="FC Dynamo Kiev" alias="DYK" country_code="UKR" country="Ukraine" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="466" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 6557/1405951655 -->
+  </player>
+</profile>

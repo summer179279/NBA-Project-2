@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:35:49Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="03702fc0-6f31-4b66-aeef-ffff98cc033b" status="closed" scratched="false" period="P2" scheduled="2014-06-13T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B"/>
+      <round week="24" number="1" type="table"/>
+      <home id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="109" ball_safe="92" corner_kicks="4" dangerous_attacks="68" fouls="6" free_kicks="21" goal_attempts="9" goal_kicks="2" offsides="5" saves="5" shots_total="9" substitutions="3" throw_ins="20" yellow_card="1" shots_on_target="5" shots_off_target="4" possessions="58"/>
+        <players>
+          <player id="33e99add-6f13-4a68-abee-d26d3815a0f2" country_code="ESP" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Iniesta" last_name="" country="Spain" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0030db97-73fc-483d-ad7e-230b2544ead1" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Koke" last_name="" country="Spain" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="556210cb-0bdc-4cd8-b67f-a6fad49f89a7" country_code="ESP" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Cesc" last_name="Fabregas" country="Spain" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0f439483-475c-4ebc-8ef6-bf6047340dc6" country_code="ESP" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Pedro" last_name="" country="Spain" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="03d7e004-a738-417e-bfc8-6a0121748f3f" country_code="ESP" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Fernando" last_name="Torres" country="Spain" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1406e911-55b5-4dcf-a2f1-cd7800c7c9a8" country_code="ESP" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Xavi" last_name="" country="Spain" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1897c1dd-4fea-4808-9489-f2cb6c9d438f" country_code="ESP" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Xabi" last_name="Alonso" country="Spain" jersey_number="14">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4" country_code="ESP" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Sergio" last_name="Ramos" country="Spain" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1f23107e-3777-47eb-bf30-954fe358a894" country_code="ESP" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Pepe" last_name="Reina" country="Spain" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="64454211-fb46-47fc-9ab0-fa005e3f6f4f" country_code="ESP" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Juanfran" last_name="" country="Spain" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="931d019e-0f91-4c7f-b389-a971555a8dc0" country_code="ESP" position="M" started="true" tactical_position="8" tactical_order="9" first_name="David" last_name="Silva" country="Spain" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="321949bd-a195-45ce-8d97-9b6686e75033" country_code="ESP" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Gerard" last_name="Pique" country="Spain" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2fbefb2d-7a76-4413-af3a-76641c9d518c" country_code="ESP" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Raul" last_name="Albiol" country="Spain" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="086fa327-2bb3-4096-92f6-51d09dee3161" country_code="ESP" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Juan" last_name="Mata" country="Spain" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7a076b2a-2918-43dd-8de2-38a5b88dfd5d" country_code="ESP" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Iker" last_name="Casillas" country="Spain" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b" country_code="ESP" position="F" started="false" tactical_position="0" tactical_order="0" first_name="David" last_name="Villa" country="Spain" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1e9b4c1a-aa98-443c-9583-db3c8b6c8e9f" country_code="ESP" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Cesar" last_name="Azpilicueta" country="Spain" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0465e91e-7d90-4782-b6b9-28492099e6ad" country_code="ESP" position="G" started="false" tactical_position="0" tactical_order="0" first_name="David" last_name="De Gea" country="Spain" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="01061c85-99f9-41aa-be97-43b080d40e75" country_code="ESP" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Sergio" last_name="Busquets" country="Spain" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="20e3486b-831c-4c13-810d-63008f9f6fe3" country_code="ESP" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Diego" last_name="Costa" country="Spain" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="898df2e4-9341-43c4-94e3-96f6ef936508" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Santi" last_name="Cazorla" country="Spain" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="314252ba-4bc9-43da-b1bd-9793afbc4f74" country_code="ESP" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Jordi" last_name="Alba" country="Spain" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aa2b9f34-f711-458b-a959-289732fba289" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Javi" last_name="Martinez" country="Spain" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" formation="3-4-1-2" score="5" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="4" number="2"/>
+        </scoring>
+        <statistics attacks="100" ball_safe="106" corner_kicks="1" dangerous_attacks="59" fouls="15" free_kicks="11" goal_attempts="11" goal_kicks="7" offsides="6" saves="4" shots_total="11" substitutions="3" throw_ins="19" yellow_card="3" shots_on_target="10" shots_off_target="1" possessions="42"/>
+        <players>
+          <player id="3394ff61-9c81-40fd-9ad2-6702c13f4f84" country_code="NLD" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Michel" last_name="Vorm" country="Netherlands" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9be514df-cfbc-4d76-b3a5-6962ca6185d6" country_code="NLD" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Klaas Jan" last_name="Huntelaar" country="Netherlands" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="416dfd68-1083-43b5-b058-543d956a563a" country_code="NLD" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Leroy" last_name="Fer" country="Netherlands" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="73305964-ec0f-4e39-9df8-8203b6e7098b" country_code="NLD" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Wesley" last_name="Sneijder" country="Netherlands" jersey_number="10">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b258a9f6-6bfb-4ea1-b97b-93b4b0d07189" country_code="NLD" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Jeremain" last_name="Lens" country="Netherlands" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="104270b2-4837-435d-b11d-332ee7fad3d4" country_code="NLD" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Tim" last_name="Krul" country="Netherlands" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="419b9fdb-8b52-4c1d-b572-8bf1a479b808" country_code="NLD" position="D" started="true" tactical_position="5" tactical_order="5" first_name="Daryl" last_name="Janmaat" country="Netherlands" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a038d0fa-3511-4490-9931-f89aa41d908d" country_code="NLD" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Jordy" last_name="Clasie" country="Netherlands" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="85cab2e1-b3d8-437e-a043-1bf47ffb84ce" country_code="NLD" position="D" started="false" tactical_position="3" tactical_order="2" first_name="Joel" last_name="Veltman" country="Netherlands" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="59cb3d64-b2e9-4db7-b563-39d72cf2d3f9" country_code="NLD" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Terence" last_name="Kongolo" country="Netherlands" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1cec5ec3-efba-4444-975f-08be5158a46e" country_code="NLD" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Ron" last_name="Vlaar" country="Netherlands" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="40afdb1d-1918-405a-bd37-2259bf94a0e3" country_code="NLD" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Jasper" last_name="Cillessen" country="Netherlands" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="756727a8-5320-4bfc-a982-234969c5c26c" country_code="NLD" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Dirk" last_name="Kuyt" country="Netherlands" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5484db29-b13f-4c63-a2fd-7d65ce861306" country_code="NLD" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Nigel" last_name="de Jong" country="Netherlands" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2a035783-07b8-44dc-94fe-d9c472d70ce2" country_code="NLD" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Arjen" last_name="Robben" country="Netherlands" jersey_number="11">
+            <statistics goal="2" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="03b0e119-b657-46fe-8476-1758c6a454a4" country_code="NLD" position="D" started="true" tactical_position="7" tactical_order="8" first_name="Daley" last_name="Blind" country="Netherlands" jersey_number="5">
+            <statistics goal="0" goal_assist="2" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a9971c76-9e77-48b7-a0cf-10d194b0835e" country_code="NLD" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Memphis" last_name="Depay" country="Netherlands" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aecb95f5-fe69-41dd-afc9-d633dd4d9c74" country_code="NLD" position="D" started="true" tactical_position="3" tactical_order="2" first_name="Stefan" last_name="de Vrij" country="Netherlands" jersey_number="3">
+            <statistics goal="1" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="3ec352ed-f5fd-472d-8f95-51dd53fda084" country_code="NLD" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Paul" last_name="Verhaegh" country="Netherlands" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c00a42de-9e85-4725-96a2-a4c595431970" country_code="NLD" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Robin" last_name="van Persie" country="Netherlands" jersey_number="9">
+            <statistics goal="2" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="6e42c12d-0514-4060-a1db-df736ee958d0" country_code="NLD" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Georginio" last_name="Wijnaldum" country="Netherlands" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="07b22bf6-8944-4f7d-a421-01b26422fc36" country_code="NLD" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Bruno" last_name="Martins Indi" country="Netherlands" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="04447c49-e348-4c0a-99e2-966fe01d2d72" country_code="NLD" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Jonathan" last_name="de Guzman" country="Netherlands" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157"/>
+      <facts>
+        <fact id="dad9a3e4-8657-4150-b90f-20721ccf5e79" type="match_started" time="2014-06-13T19:00:43Z" updated_time="2014-06-13T19:00:43Z" scratch="false" clock="1" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>The first-half is now underway.</description>
+        </fact>
+        <fact id="b919f740-4478-4052-b7ff-2d08d490cddc" type="period_started" time="2014-06-13T19:00:43Z" updated_time="2014-06-13T19:00:43Z" scratch="false" period="P1"/>
+        <fact id="eebeb1f2-d0b6-404d-881f-73e5914dcdd2" type="free_kick" time="2014-06-13T19:01:08Z" updated_time="2014-06-13T19:01:08Z" scratch="false" x="65" y="56" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain.</description>
+        </fact>
+        <fact id="ef2b58f3-08f8-44ab-a899-7388df310910" type="throwin" time="2014-06-13T19:03:50Z" updated_time="2014-06-13T19:03:50Z" scratch="false" x="54" y="98" clock="3" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a Spain throw-in in Netherlands's half.</description>
+        </fact>
+        <fact id="772b2586-0b30-4718-a1c5-33c4649c66c1" type="throwin" time="2014-06-13T19:04:35Z" updated_time="2014-06-13T19:04:35Z" scratch="false" x="41" y="99" clock="3" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="cbda7ab2-04e0-42fa-a6bb-d3d42a5fc303" type="throwin" time="2014-06-13T19:04:53Z" updated_time="2014-06-13T19:04:53Z" scratch="false" x="31" y="99" clock="4" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="97358ddb-8ad6-4686-a356-d3dc20b29c85" type="free_kick" time="2014-06-13T19:05:37Z" updated_time="2014-06-13T19:05:37Z" scratch="false" x="69" y="37" clock="4" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="a7ee32fb-7009-4d04-8b02-7bc0ec799231" type="free_kick" time="2014-06-13T19:06:15Z" updated_time="2014-06-13T19:06:15Z" scratch="false" x="65" y="22" clock="5" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="1c5e9090-9af5-4abf-bc77-f431a57df361" type="free_kick" time="2014-06-13T19:06:43Z" updated_time="2014-06-13T19:06:43Z" scratch="false" x="67" y="67" clock="6" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Nicola Rizzoli signals a free kick to Netherlands in their own half.</description>
+        </fact>
+        <fact id="0351a416-3958-4d10-a7f5-4d3d69361cd8" type="keeper_save" time="2014-06-13T19:08:20Z" updated_time="2014-06-13T19:08:20Z" scratch="false" x="23" y="62" clock="7" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="b544333c-a5f9-4d39-a685-a570ab7fd150" type="shot_on_target" time="2014-06-13T19:08:19Z" updated_time="2014-06-13T19:08:26Z" scratch="false" x="23" y="62" clock="8" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="73305964-ec0f-4e39-9df8-8203b6e7098b">
+          <description>Netherlands's Wesley Sneijder gets in a shot on goal at Arena Fonte Nova. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="2a42b129-7101-4f10-82ad-a6ed1ecf08be" type="throwin" time="2014-06-13T19:09:35Z" updated_time="2014-06-13T19:09:35Z" scratch="false" x="71" y="1" clock="8" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in for Netherlands at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="c6595a17-a258-45ec-b60a-48fd24b52e54" type="shot_off_target" time="2014-06-13T19:10:40Z" updated_time="2014-06-13T19:10:46Z" scratch="false" x="79" y="28" clock="10" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="33e99add-6f13-4a68-abee-d26d3815a0f2">
+          <description>Iniesta of Spain gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="90c2ae2b-6a55-4080-8114-d94a95831649" type="goal_kick" time="2014-06-13T19:10:40Z" updated_time="2014-06-13T19:10:40Z" scratch="false" x="95" y="50" clock="10" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Goal kick for Netherlands at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="c4d81dbe-5294-44d5-a238-24f0d8afb197" type="throwin" time="2014-06-13T19:13:34Z" updated_time="2014-06-13T19:13:34Z" scratch="false" x="81" y="2" clock="12" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a throw-in for Spain, close to Netherlands's area.</description>
+        </fact>
+        <fact id="4b3092f9-6d88-48a1-ae6e-61568adcd7b9" type="shot_blocked" time="2014-06-13T19:13:29Z" updated_time="2014-06-13T19:13:29Z" scratch="false" x="82" y="41" clock="13" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Diego Costa (Spain) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="549f6338-cdd1-4212-851a-de2aea6c3e8c" type="goal_kick" time="2014-06-13T19:14:40Z" updated_time="2014-06-13T19:14:40Z" scratch="false" x="95" y="50" clock="13" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands have a goal kick.</description>
+        </fact>
+        <fact id="9e21c8f2-d2ef-4dd3-ba9f-df6b35109165" type="free_kick" time="2014-06-13T19:15:15Z" updated_time="2014-06-13T19:15:15Z" scratch="false" x="36" y="57" clock="14" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="3f6c8917-4dfa-4a7d-881f-fccf2d96fd28" type="free_kick" time="2014-06-13T19:16:05Z" updated_time="2014-06-13T19:16:05Z" scratch="false" x="36" y="70" clock="15" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4a20b059-8608-407f-bb6d-d0911abb6537" type="free_kick" time="2014-06-13T19:16:52Z" updated_time="2014-06-13T19:16:52Z" scratch="false" x="20" y="35" clock="16" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e4b832b1-f95a-4038-b045-76c8a4314ee0" type="throwin" time="2014-06-13T19:17:24Z" updated_time="2014-06-13T19:17:24Z" scratch="false" x="63" y="99" clock="16" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in Netherlands.</description>
+        </fact>
+        <fact id="4e504aa7-d63f-4611-97bb-7bf9b180f9a6" type="shot_off_target" time="2014-06-13T19:18:34Z" updated_time="2014-06-13T19:18:42Z" scratch="false" x="82" y="61" clock="18" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="20e3486b-831c-4c13-810d-63008f9f6fe3">
+          <description>Spain's Diego Costa breaks free at Arena Fonte Nova. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="452915a6-be20-4057-b7b2-4095b3221adc" type="goal_kick" time="2014-06-13T19:18:35Z" updated_time="2014-06-13T19:18:35Z" scratch="false" x="95" y="50" clock="18" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Ball goes out of play for a Netherlands goal kick.</description>
+        </fact>
+        <fact id="781bc171-1fa7-4464-87ba-7ebc16da637b" type="goal_kick" time="2014-06-13T19:19:12Z" updated_time="2014-06-13T19:19:12Z" scratch="false" x="5" y="50" clock="18" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli awards Spain a goal kick.</description>
+        </fact>
+        <fact id="be95c099-6e7a-4783-b1f8-2e0924584ebf" type="shot_blocked" time="2014-06-13T19:20:28Z" updated_time="2014-06-13T19:20:28Z" scratch="false" x="79" y="43" clock="20" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain drive upfield and David Silva gets in a shot. The strike is blocked by a Netherlands defender.</description>
+        </fact>
+        <fact id="25c9cc3f-e41b-48de-ba57-bcdb8cc06236" type="corner_kick" time="2014-06-13T19:22:54Z" updated_time="2014-06-13T19:22:54Z" scratch="false" x="95" y="5" clock="22" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have been awarded a corner by Nicola Rizzoli.</description>
+        </fact>
+        <fact id="2675b255-9957-472a-96c7-f5813b8a42e5" type="shot_off_target" time="2014-06-13T19:23:07Z" updated_time="2014-06-13T19:23:17Z" scratch="false" x="95" y="5" clock="23" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="321949bd-a195-45ce-8d97-9b6686e75033">
+          <description>Spain surge into the attack at Arena Fonte Nova but Gerard Pique’s header is off-target.</description>
+        </fact>
+        <fact id="7ccf5ad0-4dda-435d-873c-ef29e60a605b" type="goal_kick" time="2014-06-13T19:23:08Z" updated_time="2014-06-13T19:23:08Z" scratch="false" x="95" y="50" clock="23" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Nicola Rizzoli awards Netherlands a goal kick.</description>
+        </fact>
+        <fact id="0ad0466a-e84a-4572-bfd1-1d0284a1e3e8" type="throwin" time="2014-06-13T19:23:43Z" updated_time="2014-06-13T19:23:43Z" scratch="false" x="82" y="1" clock="23" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Netherlands needs to be cautious. Spain have an attacking throw-in.</description>
+        </fact>
+        <fact id="633db948-6616-4066-832f-972189042b20" type="throwin" time="2014-06-13T19:24:44Z" updated_time="2014-06-13T19:24:44Z" scratch="false" x="36" y="100" clock="24" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Can Netherlands get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="b66932d8-d1c7-4366-b347-d4823af9d8d2" type="free_kick" time="2014-06-13T19:25:31Z" updated_time="2014-06-13T19:25:31Z" scratch="false" x="36" y="54" clock="24" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="1e5bec0b-9899-4a7b-9be0-0831ba432226" type="card" time="2014-06-13T19:25:39Z" updated_time="2014-06-13T19:25:39Z" scratch="false" clock="25" card="Y" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="04447c49-e348-4c0a-99e2-966fe01d2d72">
+          <description>Jonathan de Guzman (Netherlands) has received a first yellow card.</description>
+        </fact>
+        <fact id="02e5b38c-9a81-4e19-96bf-bbdb7e3a0bd4" type="penalty_awarded" time="2014-06-13T19:26:37Z" updated_time="2014-06-13T19:26:37Z" scratch="false" clock="26" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have been given a penalty...</description>
+        </fact>
+        <fact id="641baff5-4c1c-4391-977b-f029d02c1be1" type="goal" time="2014-06-13T19:27:32Z" updated_time="2014-06-13T19:27:32Z" scratch="false" x="88" y="48" clock="27" home_score="1" away_score="0" penalty="true" owngoal="false" header="false" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f">
+          <description>It's advantage Spain in Salvador as Xabi Alonso scores from the spot to make it 1-0.</description>
+        </fact>
+        <fact id="dafe8efa-25e7-4e64-a571-4ecdc8eceb80" type="offside" time="2014-06-13T19:28:20Z" updated_time="2014-06-13T19:28:26Z" scratch="false" x="17" y="36" clock="28" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>Netherlands's Robin van Persie is whistled for offside at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="4aeb5e6e-6e64-4833-bffd-7eacde845d20" type="throwin" time="2014-06-13T19:29:07Z" updated_time="2014-06-13T19:29:07Z" scratch="false" x="70" y="2" clock="28" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Netherlands territory.</description>
+        </fact>
+        <fact id="291a495c-d7ef-4e42-adab-b7e222ef1711" type="offside" time="2014-06-13T19:30:43Z" updated_time="2014-06-13T19:30:53Z" scratch="false" x="22" y="12" clock="30" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>Robin van Persie for Netherlands is whistled offside.</description>
+        </fact>
+        <fact id="ddbf114c-40cb-4c4d-a6ba-8cc77843b555" type="throwin" time="2014-06-13T19:31:38Z" updated_time="2014-06-13T19:31:38Z" scratch="false" x="18" y="98" clock="30" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in for Netherlands close to the penalty box.</description>
+        </fact>
+        <fact id="6a441b97-03bb-4010-b027-ac51b6bfab9a" type="throwin" time="2014-06-13T19:32:41Z" updated_time="2014-06-13T19:32:41Z" scratch="false" x="21" y="1" clock="31" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="1625dc19-0e59-4bbb-be66-17fd2c457c66" type="throwin" time="2014-06-13T19:33:32Z" updated_time="2014-06-13T19:33:32Z" scratch="false" x="13" y="99" clock="32" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands have a dangerous throw-in.</description>
+        </fact>
+        <fact id="d2546aac-5e4a-4150-a86c-5005fb1ceb80" type="throwin" time="2014-06-13T19:34:11Z" updated_time="2014-06-13T19:34:11Z" scratch="false" x="19" y="98" clock="33" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Can Netherlands capitalize from this throw-in deep inside Spain's half?</description>
+        </fact>
+        <fact id="61e97c85-a55c-492f-b0b3-461576a8a1e2" type="keeper_save" time="2014-06-13T19:34:59Z" updated_time="2014-06-13T19:34:59Z" scratch="false" x="20" y="51" clock="34" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="ba5ac8b6-1e9d-4b03-bb62-81c8ef1960be" type="free_kick" time="2014-06-13T19:35:14Z" updated_time="2014-06-13T19:35:14Z" scratch="false" x="35" y="52" clock="34" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="862fb3bb-bd56-4e8e-8e35-a1a16c841605" type="shot_on_target" time="2014-06-13T19:34:59Z" updated_time="2014-06-13T19:35:10Z" scratch="false" x="20" y="51" clock="35" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="2a035783-07b8-44dc-94fe-d9c472d70ce2">
+          <description>Netherlands's Arjen Robben is on target but unsuccessful.</description>
+        </fact>
+        <fact id="54b7731c-3b4d-4386-9500-9ac9ae5da750" type="throwin" time="2014-06-13T19:35:59Z" updated_time="2014-06-13T19:35:59Z" scratch="false" x="68" y="99" clock="35" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6"/>
+        <fact id="5fef4211-0e3a-461f-80be-a75f63e49294" type="offside" time="2014-06-13T19:36:18Z" updated_time="2014-06-13T19:36:27Z" scratch="false" x="22" y="58" clock="36" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>Robin van Persie of Netherlands is pulled up for offside.</description>
+        </fact>
+        <fact id="fa60c439-fb06-4bb5-bbef-6f019b8acafb" type="free_kick" time="2014-06-13T19:37:17Z" updated_time="2014-06-13T19:37:17Z" scratch="false" x="58" y="41" clock="36" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="76f6e237-c2d1-4269-b8f8-777e09de5c08" type="throwin" time="2014-06-13T19:38:31Z" updated_time="2014-06-13T19:38:31Z" scratch="false" x="88" y="1" clock="37" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="5b3fa763-2fd1-4758-85d7-514317ebc6e1" type="goal_kick" time="2014-06-13T19:38:57Z" updated_time="2014-06-13T19:38:57Z" scratch="false" x="95" y="50" clock="38" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands have a goal kick.</description>
+        </fact>
+        <fact id="8be661ea-a7de-4cc5-8f20-3d693936e270" type="offside" time="2014-06-13T19:39:32Z" updated_time="2014-06-13T19:39:40Z" scratch="false" x="21" y="76" clock="39" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="2a035783-07b8-44dc-94fe-d9c472d70ce2">
+          <description>In Salvador Netherlands's Arjen Robben is caught offside.</description>
+        </fact>
+        <fact id="664df90f-4bba-49db-b887-d8300b8bf871" type="free_kick" time="2014-06-13T19:40:43Z" updated_time="2014-06-13T19:40:43Z" scratch="false" x="62" y="37" clock="40" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain.</description>
+        </fact>
+        <fact id="13e79e7b-d9a9-4f7d-a99d-d5b250ee7328" type="card" time="2014-06-13T19:40:57Z" updated_time="2014-06-13T19:40:57Z" scratch="false" clock="41" card="Y" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="aecb95f5-fe69-41dd-afc9-d633dd4d9c74">
+          <description>Netherlands's Stefan de Vrij has been booked in Salvador.</description>
+        </fact>
+        <fact id="c1a58f4c-4d3d-409a-a136-9399df46f531" type="offside" time="2014-06-13T19:41:28Z" updated_time="2014-06-13T19:44:42Z" scratch="false" x="79" y="62" clock="41" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="20e3486b-831c-4c13-810d-63008f9f6fe3">
+          <description>Spain's Diego Costa has run offside.</description>
+        </fact>
+        <fact id="19407394-c7b3-4960-a82f-e8b16a75685a" type="throwin" time="2014-06-13T19:41:45Z" updated_time="2014-06-13T19:41:45Z" scratch="false" x="53" y="99" clock="41" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in for Netherlands in their own half.</description>
+        </fact>
+        <fact id="183d64fd-4d80-415c-8c7e-07d3bd8b5ba8" type="keeper_save" time="2014-06-13T19:43:12Z" updated_time="2014-06-13T19:43:12Z" scratch="false" x="81" y="43" clock="42" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6"/>
+        <fact id="cb388532-5cb4-4d06-8be0-f3588efa5ecb" type="shot_on_target" time="2014-06-13T19:43:12Z" updated_time="2014-06-13T19:43:12Z" scratch="false" x="81" y="43" clock="43" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="931d019e-0f91-4c7f-b389-a971555a8dc0">
+          <description>David Silva for Spain drives towards goal at Arena Fonte Nova. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="dbf95188-e2fb-45fb-9a21-4648dad6d5dc" type="corner_kick" time="2014-06-13T19:43:20Z" updated_time="2014-06-13T19:43:25Z" scratch="false" x="95" y="5" clock="43" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="44071259-6fa4-4f82-847d-e10182b11a55" type="throwin" time="2014-06-13T19:43:51Z" updated_time="2014-06-13T19:43:51Z" scratch="false" x="54" y="99" clock="43" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Ball safe as Netherlands is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="8d12ad65-d3a5-4cb5-a26f-c0457d34efc8" type="goal" time="2014-06-13T19:44:25Z" updated_time="2014-06-13T19:44:25Z" scratch="false" clock="44" home_score="1" away_score="1" penalty="false" owngoal="false" header="true" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970" assist1_id="03b0e119-b657-46fe-8476-1758c6a454a4">
+          <description>Great play from Daley Blind to set up the goal.</description>
+        </fact>
+        <fact id="423e4d50-f9c5-4af4-9237-cd36d88fe76e" type="throwin" time="2014-06-13T19:45:35Z" updated_time="2014-06-13T19:45:35Z" scratch="false" x="52" y="0" clock="44" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a Spain throw-in in Netherlands's half.</description>
+        </fact>
+        <fact id="3f72b509-a344-4ad5-9438-d94765b3fc7d" type="period_over" time="2014-06-13T19:47:00Z" updated_time="2014-06-13T19:47:00Z" scratch="false" home_score="1" away_score="1" period="P1">
+          <description>The ref's whistle signals the end of the first-half.</description>
+        </fact>
+        <fact id="6ad30d73-e7f1-4dbd-b101-cb2b877af928" type="period_started" time="2014-06-13T19:47:00Z" updated_time="2014-06-13T19:47:00Z" scratch="false" period="H"/>
+        <fact id="4d24136d-7977-49e2-bd5a-bb7d5bd9fb90" type="period_started" time="2014-06-13T20:02:40Z" updated_time="2014-06-13T20:02:40Z" scratch="false" period="P2"/>
+        <fact id="ce49c13c-7ff3-495a-9823-47011ef68590" type="free_kick" time="2014-06-13T20:04:29Z" updated_time="2014-06-13T20:04:29Z" scratch="false" x="35" y="13" clock="46" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="265c1207-65a4-4d56-a934-b2a542942bcb" type="throwin" time="2014-06-13T20:04:37Z" updated_time="2014-06-13T20:04:37Z" scratch="false" x="77" y="99" clock="46" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Netherlands territory.</description>
+        </fact>
+        <fact id="d2225fdc-36f0-4ccf-86f2-80f72f8ae606" type="throwin" time="2014-06-13T20:04:59Z" updated_time="2014-06-13T20:04:59Z" scratch="false" x="84" y="98" clock="47" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Netherlands needs to be cautious. Spain have an attacking throw-in.</description>
+        </fact>
+        <fact id="4a41aa95-17fc-4706-bdcc-a8a6cf8a9e72" type="throwin" time="2014-06-13T20:06:11Z" updated_time="2014-06-13T20:06:11Z" scratch="false" x="62" y="2" clock="48" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Can Spain get the ball into an attacking position from this throw-in in Netherlands's half?</description>
+        </fact>
+        <fact id="098486f2-b01d-4b80-8a40-725a4350db19" type="keeper_save" time="2014-06-13T20:06:49Z" updated_time="2014-06-13T20:06:49Z" scratch="false" x="80" y="54" clock="49" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6"/>
+        <fact id="30b90ffd-862b-4519-8099-5bcfa75fac32" type="throwin" time="2014-06-13T20:07:23Z" updated_time="2014-06-13T20:07:23Z" scratch="false" x="40" y="2" clock="49" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="74f698b2-c135-4d90-8dd8-6e4dc73dc050" type="shot_on_target" time="2014-06-13T20:06:49Z" updated_time="2014-06-13T20:06:57Z" scratch="false" x="80" y="54" clock="50" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="33e99add-6f13-4a68-abee-d26d3815a0f2">
+          <description>Iniesta gets his shot on target but fails to score for Spain.</description>
+        </fact>
+        <fact id="96bf59ec-f204-4315-9065-794245581800" type="throwin" time="2014-06-13T20:08:16Z" updated_time="2014-06-13T20:08:16Z" scratch="false" x="35" y="98" clock="50" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Can Netherlands get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="2007b0c0-1124-40d7-9bf8-f5300449cb9a" type="throwin" time="2014-06-13T20:09:26Z" updated_time="2014-06-13T20:09:26Z" scratch="false" x="47" y="1" clock="51" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="9c1f67ef-3dad-4f45-bd6f-41522142bea7" type="goal" time="2014-06-13T20:09:55Z" updated_time="2014-06-13T20:09:55Z" scratch="false" clock="53" home_score="1" away_score="2" penalty="false" owngoal="false" header="false" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="2a035783-07b8-44dc-94fe-d9c472d70ce2" assist1_id="03b0e119-b657-46fe-8476-1758c6a454a4">
+          <description>Daley Blind with an assist there.</description>
+        </fact>
+        <fact id="61c27890-f5d2-4ca6-b70f-c94404e406cb" type="injury" time="2014-06-13T20:11:40Z" updated_time="2014-06-13T20:11:40Z" scratch="false" x="95" y="91" clock="54" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="03b0e119-b657-46fe-8476-1758c6a454a4">
+          <description>The match has been stopped briefly for attention to the injured Daley Blind.</description>
+        </fact>
+        <fact id="ab0de067-6345-4d12-ae7d-98a573112c7b" type="injury_return" time="2014-06-13T20:12:09Z" updated_time="2014-06-13T20:12:09Z" scratch="false" clock="54" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="03b0e119-b657-46fe-8476-1758c6a454a4">
+          <description>Daley Blind is back on the pitch.</description>
+        </fact>
+        <fact id="8f2502d4-4991-4272-baaf-4411c06c0b03" type="game_resumed" time="2014-06-13T20:12:28Z" updated_time="2014-06-13T20:12:28Z" scratch="false" clock="54">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="fa2f945b-4c38-4166-98bb-12ac4f38f42e" type="free_kick" time="2014-06-13T20:12:39Z" updated_time="2014-06-13T20:12:39Z" scratch="false" x="95" y="90" clock="54" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e015ef01-45c0-4d6e-a9bd-2b204e7cedb2" type="corner_kick" time="2014-06-13T20:12:34Z" updated_time="2014-06-13T20:12:34Z" scratch="false" x="95" y="90" clock="55" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="f368b179-8b24-4d17-a590-a7a25acb4cad" type="throwin" time="2014-06-13T20:15:21Z" updated_time="2014-06-13T20:15:21Z" scratch="false" x="53" y="1" clock="57" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Netherlands territory.</description>
+        </fact>
+        <fact id="253c4dd3-aa5f-40fb-87f2-99ab190bcc94" type="offside" time="2014-06-13T20:14:52Z" updated_time="2014-06-13T20:15:00Z" scratch="false" x="83" y="22" clock="58" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="20e3486b-831c-4c13-810d-63008f9f6fe3">
+          <description>Spain drive forward but Diego Costa is judged offside.</description>
+        </fact>
+        <fact id="db2ebc0a-fbac-4f59-9e72-f47545d537d1" type="throwin" time="2014-06-13T20:16:35Z" updated_time="2014-06-13T20:16:35Z" scratch="false" x="41" y="99" clock="58" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Nicola Rizzoli signals a Netherlands throw-in in Spain's half.</description>
+        </fact>
+        <fact id="7ae18b94-fe64-4b9d-95e2-a9d7c7803f27" type="shot_off_target" time="2014-06-13T20:17:45Z" updated_time="2014-06-13T20:17:45Z" scratch="false" x="21" y="62" clock="60" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>In Salvador Netherlands attack through Robin van Persie. The finish is off target, however.</description>
+        </fact>
+        <fact id="5afe781f-4a09-4806-b018-faf87d150977" type="throwin" time="2014-06-13T20:17:51Z" updated_time="2014-06-13T20:17:51Z" scratch="false" x="22" y="99" clock="60" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="4ccf1c53-6836-4e73-96e7-819d69fcd469" type="offside" time="2014-06-13T20:19:10Z" updated_time="2014-06-13T20:20:44Z" scratch="false" x="40" y="21" clock="62" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>Nicola Rizzoli blows against Netherlands's Robin van Persie for offside.</description>
+        </fact>
+        <fact id="79136d61-b581-4b99-9f96-3b5aea796a22" type="substitution" time="2014-06-13T20:19:30Z" updated_time="2014-06-13T20:19:30Z" scratch="false" clock="62" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_out_id="04447c49-e348-4c0a-99e2-966fe01d2d72" player_in_id="6e42c12d-0514-4060-a1db-df736ee958d0">
+          <description>Louis van Gaal is making the team's first substitution at Arena Fonte Nova with Georginio Wijnaldum replacing Jonathan de Guzman.</description>
+        </fact>
+        <fact id="ae82c808-9f1f-4140-b169-7947b97f841d" type="substitution" time="2014-06-13T20:19:44Z" updated_time="2014-06-13T20:19:44Z" scratch="false" clock="62" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="20e3486b-831c-4c13-810d-63008f9f6fe3" player_in_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>Vicente del Bosque (Spain) is making a first substitution, with Fernando Torres replacing Diego Costa.</description>
+        </fact>
+        <fact id="5b03163f-2522-46e1-b4e1-c04e647dd95a" type="substitution" time="2014-06-13T20:20:24Z" updated_time="2014-06-13T20:20:24Z" scratch="false" clock="63" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f" player_in_id="0f439483-475c-4ebc-8ef6-bf6047340dc6">
+          <description>Pedro is on a sub for Xabi Alonso for Spain.</description>
+        </fact>
+        <fact id="06045b5d-5958-4783-ae99-7e708d4756d8" type="free_kick" time="2014-06-13T20:20:58Z" updated_time="2014-06-13T20:20:58Z" scratch="false" x="24" y="83" clock="63" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Free kick Netherlands.</description>
+        </fact>
+        <fact id="b0d95f64-6a8c-4f70-8b82-312e19b6a962" type="goal" time="2014-06-13T20:22:13Z" updated_time="2014-06-13T20:25:56Z" scratch="false" clock="64" home_score="1" away_score="3" penalty="false" owngoal="false" header="false" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="aecb95f5-fe69-41dd-afc9-d633dd4d9c74" assist1_id="73305964-ec0f-4e39-9df8-8203b6e7098b">
+          <description>Wesley Sneijder instrumental with a fine assist.</description>
+        </fact>
+        <fact id="69f63950-a0eb-40eb-b3a8-09ad6f15b23d" type="free_kick" time="2014-06-13T20:23:11Z" updated_time="2014-06-13T20:23:11Z" scratch="false" x="35" y="21" clock="65" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="d94725d9-674d-4842-af9f-b0867730d240" type="card" time="2014-06-13T20:26:15Z" updated_time="2014-06-13T20:27:07Z" scratch="false" clock="65" card="Y" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="7a076b2a-2918-43dd-8de2-38a5b88dfd5d">
+          <description>Iker Casillas (Spain) has received a yellow card from Nicola Rizzoli.</description>
+        </fact>
+        <fact id="a4a322bd-ba1a-425e-a406-65a2d14fe3a3" type="card" time="2014-06-13T20:23:36Z" updated_time="2014-06-13T20:23:36Z" scratch="false" clock="66" card="Y" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>Robin van Persie (Netherlands) gets a yellow card.</description>
+        </fact>
+        <fact id="c016d01a-0c9a-462d-b665-ffd545158b79" type="shot_blocked" time="2014-06-13T20:24:34Z" updated_time="2014-06-13T20:25:53Z" scratch="false" x="76" y="27" clock="67" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>David Silva (Spain) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="5b922d14-955b-494b-8de8-9dbe63fb1c50" type="keeper_save" time="2014-06-13T20:24:46Z" updated_time="2014-06-13T20:24:46Z" scratch="false" x="76" y="27" clock="67" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6"/>
+        <fact id="9347bfea-4fc4-4de7-9a2f-eedd6a5c75c5" type="throwin" time="2014-06-13T20:25:36Z" updated_time="2014-06-13T20:25:36Z" scratch="false" x="29" y="0" clock="67" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="cc188204-dce3-44f4-bd6e-caede87662fb" type="shot_on_target" time="2014-06-13T20:24:45Z" updated_time="2014-06-13T20:26:43Z" scratch="false" x="76" y="27" clock="68" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="0f439483-475c-4ebc-8ef6-bf6047340dc6">
+          <description>Spain push forward through Pedro, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="c14e4688-6694-4fb7-8381-a06c84df2326" type="offside" time="2014-06-13T20:24:49Z" updated_time="2014-06-13T20:27:03Z" scratch="false" x="76" y="27" clock="68" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="931d019e-0f91-4c7f-b389-a971555a8dc0">
+          <description>Spain drive forward but David Silva is judged offside.</description>
+        </fact>
+        <fact id="a0881ad6-d41e-4e86-8f2f-9f48e4975324" type="shot_on_target" time="2014-06-13T20:26:42Z" updated_time="2014-06-13T20:26:47Z" scratch="false" x="21" y="40" clock="69" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>In Salvador Netherlands drive forward through Robin van Persie. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="ca133dbf-776c-4010-8119-5d0056d00446" type="keeper_save" time="2014-06-13T20:26:42Z" updated_time="2014-06-13T20:26:42Z" scratch="false" x="21" y="40" clock="69" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="3224b48d-26df-4269-88dd-0c6bfd88d32f" type="goal_kick" time="2014-06-13T20:26:54Z" updated_time="2014-06-13T20:26:54Z" scratch="false" x="5" y="50" clock="69" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball goes out of play for a Spain goal kick.</description>
+        </fact>
+        <fact id="83665edf-32d0-4a71-9f7a-ccbc2032aee7" type="offside" time="2014-06-13T20:27:26Z" updated_time="2014-06-13T20:27:32Z" scratch="false" x="61" y="39" clock="70" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>Spain's Fernando Torres is whistled for offside at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="cd63b850-425b-40ea-8077-f61217956028" type="throwin" time="2014-06-13T20:28:02Z" updated_time="2014-06-13T20:28:02Z" scratch="false" x="63" y="99" clock="70" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in for Netherlands at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="03825cce-5040-4a68-bf84-3d9424200459" type="throwin" time="2014-06-13T20:28:18Z" updated_time="2014-06-13T20:28:18Z" scratch="false" x="43" y="98" clock="70" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Can Netherlands get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="8df9ba70-f6bd-41c4-a63b-3de64290029d" type="throwin" time="2014-06-13T20:29:08Z" updated_time="2014-06-13T20:29:08Z" scratch="false" x="55" y="1" clock="71" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in for Netherlands in their own half.</description>
+        </fact>
+        <fact id="25d72451-b82c-4690-b41e-34b8bcb4d67d" type="goal" time="2014-06-13T20:29:49Z" updated_time="2014-06-13T20:29:49Z" scratch="false" x="18" y="55" clock="72" home_score="1" away_score="4" penalty="false" owngoal="false" header="false" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="c00a42de-9e85-4725-96a2-a4c595431970">
+          <description>Great finish from Robin van Persie to give Netherlands a 1-4 lead.</description>
+        </fact>
+        <fact id="3c0812b2-4c63-48c5-a81a-7607d232e241" type="free_kick" time="2014-06-13T20:32:17Z" updated_time="2014-06-13T20:32:17Z" scratch="false" x="79" y="49" clock="74" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain.</description>
+        </fact>
+        <fact id="cec472fc-eb9f-4fc6-b89e-06fbe887e1c3" type="shot_off_target" time="2014-06-13T20:33:26Z" updated_time="2014-06-13T20:33:33Z" scratch="false" x="79" y="49" clock="76" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4">
+          <description>Sergio Ramos for Spain gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="d64ab0f4-acc4-4b8d-a1b9-7b04cd856025" type="goal_kick" time="2014-06-13T20:33:26Z" updated_time="2014-06-13T20:33:26Z" scratch="false" x="95" y="50" clock="76" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Goal kick for Netherlands at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="7740b006-59aa-431f-9bdd-3aba1dbee5fa" type="substitution" time="2014-06-13T20:34:06Z" updated_time="2014-06-13T20:34:06Z" scratch="false" clock="77" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_out_id="aecb95f5-fe69-41dd-afc9-d633dd4d9c74" player_in_id="85cab2e1-b3d8-437e-a043-1bf47ffb84ce">
+          <description>Netherlands make their second substitution with Joel Veltman replacing Stefan de Vrij.</description>
+        </fact>
+        <fact id="a0d96c7c-7561-4246-a36d-7659d8d446d8" type="goal_kick" time="2014-06-13T20:35:01Z" updated_time="2014-06-13T20:35:01Z" scratch="false" x="95" y="50" clock="77" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Ball goes out of play for a Netherlands goal kick.</description>
+        </fact>
+        <fact id="696b64d5-028b-4cb8-93eb-30bbca995549" type="substitution" time="2014-06-13T20:35:25Z" updated_time="2014-06-13T20:35:25Z" scratch="false" clock="78" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="931d019e-0f91-4c7f-b389-a971555a8dc0" player_in_id="556210cb-0bdc-4cd8-b67f-a6fad49f89a7">
+          <description>Cesc Fabregas is replacing David Silva for Spain at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="48ab65f4-7fee-403e-8eb2-e8410cb585f6" type="substitution" time="2014-06-13T20:35:58Z" updated_time="2014-06-13T20:35:58Z" scratch="false" clock="79" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_out_id="c00a42de-9e85-4725-96a2-a4c595431970" player_in_id="b258a9f6-6bfb-4ea1-b97b-93b4b0d07189">
+          <description>Netherlands make their third substitution with Jeremain Lens replacing Robin van Persie.</description>
+        </fact>
+        <fact id="1bc04eef-e811-4126-a0b4-445b9027d175" type="offside" time="2014-06-13T20:36:28Z" updated_time="2014-06-13T20:36:28Z" scratch="false" x="34" y="31" clock="79" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6"/>
+        <fact id="93fcad71-70b6-4190-9c3c-08c35bd73fee" type="throwin" time="2014-06-13T20:36:43Z" updated_time="2014-06-13T20:36:43Z" scratch="false" x="79" y="98" clock="79" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a Spain throw-in in Netherlands's half.</description>
+        </fact>
+        <fact id="84e5a9b5-d8d0-400d-8521-3efecc59cd5b" type="goal" time="2014-06-13T20:37:23Z" updated_time="2014-06-13T20:37:23Z" scratch="false" clock="80" home_score="1" away_score="5" penalty="false" owngoal="false" header="false" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="2a035783-07b8-44dc-94fe-d9c472d70ce2">
+          <description>Netherlands take a comfortable 1-5 lead thanks to Arjen Robben.</description>
+        </fact>
+        <fact id="e02320b6-bf6b-4232-96c2-f5bb90ae9d51" type="throwin" time="2014-06-13T20:38:48Z" updated_time="2014-06-13T20:38:48Z" scratch="false" x="7" y="1" clock="81" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Can Netherlands capitalize from this throw-in deep inside Spain's half?</description>
+        </fact>
+        <fact id="7122a84a-0293-4b7a-9e3b-e354147d2fd4" type="throwin" time="2014-06-13T20:39:05Z" updated_time="2014-06-13T20:39:05Z" scratch="false" x="22" y="0" clock="81" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="9cb94ace-f4fa-4b64-9111-c52aa93bb0d3" type="keeper_save" time="2014-06-13T20:40:37Z" updated_time="2014-06-13T20:40:37Z" scratch="false" x="95" y="5" clock="82" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6"/>
+        <fact id="ce2461a0-95ed-4c4f-92fe-284d2b1f4a91" type="corner_kick" time="2014-06-13T20:40:25Z" updated_time="2014-06-13T20:41:14Z" scratch="false" x="95" y="5" clock="83" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="b94031fd-46a1-4624-ab45-c5ca67a0e6fc" type="shot_on_target" time="2014-06-13T20:40:37Z" updated_time="2014-06-13T20:40:37Z" scratch="false" x="95" y="5" clock="83" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>In Salvador, Fernando Torres (Spain) gets his head to the ball but the strike is cleared by an untiring defence.</description>
+        </fact>
+        <fact id="3d34aa0e-48d3-4d89-a93f-d0bcfe1e70d4" type="free_kick" time="2014-06-13T20:42:23Z" updated_time="2014-06-13T20:42:23Z" scratch="false" x="66" y="29" clock="84" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="4394b851-ee37-4123-8574-84405da8e484" type="free_kick" time="2014-06-13T20:43:34Z" updated_time="2014-06-13T20:43:34Z" scratch="false" x="64" y="11" clock="85" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a free kick to Spain.</description>
+        </fact>
+        <fact id="ad67c9c0-6446-4051-b23d-7fd403923cfb" type="offside" time="2014-06-13T20:42:54Z" updated_time="2014-06-13T20:43:04Z" scratch="false" x="77" y="27" clock="86" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>Nicola Rizzoli blows against Spain's Fernando Torres for offside.</description>
+        </fact>
+        <fact id="7d2e450d-7a5b-4203-9269-52bef44607c0" type="keeper_save" time="2014-06-13T20:44:17Z" updated_time="2014-06-13T20:44:17Z" scratch="false" x="17" y="37" clock="86" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="0a3c83b0-4bb4-4a0c-a21e-ecd7d80a9ee3" type="keeper_save" time="2014-06-13T20:44:25Z" updated_time="2014-06-13T20:44:25Z" scratch="false" x="17" y="37" clock="86" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="f8c709f2-9fea-4b3c-b25b-089a70a4793a" type="throwin" time="2014-06-13T20:44:34Z" updated_time="2014-06-13T20:44:34Z" scratch="false" x="10" y="1" clock="86" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in for Netherlands close to the penalty box.</description>
+        </fact>
+        <fact id="407a49dd-e49a-46db-9b47-741d509f6759" type="shot_on_target" time="2014-06-13T20:44:17Z" updated_time="2014-06-13T20:45:03Z" scratch="false" x="17" y="37" clock="87" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="2a035783-07b8-44dc-94fe-d9c472d70ce2">
+          <description>Netherlands drive forward and Arjen Robben gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="c297bab9-6187-44f7-b3ef-7b9389acacac" type="shot_on_target" time="2014-06-13T20:44:25Z" updated_time="2014-06-13T20:44:57Z" scratch="false" x="17" y="37" clock="87" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" player_id="2a035783-07b8-44dc-94fe-d9c472d70ce2">
+          <description>In Salvador Netherlands drive forward through Arjen Robben. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="542e4f94-8b22-4c55-b862-e7bba05b38da" type="corner_kick" time="2014-06-13T20:44:28Z" updated_time="2014-06-13T20:51:11Z" scratch="false" x="5" y="5" clock="87" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands have been awarded a corner by Nicola Rizzoli.</description>
+        </fact>
+        <fact id="9dac5ee9-f512-4698-843a-660420d6070a" type="free_kick" time="2014-06-13T20:45:19Z" updated_time="2014-06-13T20:45:19Z" scratch="false" x="38" y="45" clock="87" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6646b709-b524-4954-8701-85b344a82496" type="shot_blocked" time="2014-06-13T20:45:39Z" updated_time="2014-06-13T20:45:43Z" scratch="false" x="20" y="41" clock="88" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands's Wesley Sneijder gets in a shot but it is blocked by a Spain defender.</description>
+        </fact>
+        <fact id="fed23876-dd9c-4ede-8900-ac8b61c75227" type="free_kick" time="2014-06-13T20:46:04Z" updated_time="2014-06-13T20:46:04Z" scratch="false" x="36" y="18" clock="88" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Free kick Netherlands.</description>
+        </fact>
+        <fact id="c997f5cb-5b0e-4d85-9a66-72696e17f1f8" type="throwin" time="2014-06-13T20:46:47Z" updated_time="2014-06-13T20:46:47Z" scratch="false" x="81" y="1" clock="89" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Nicola Rizzoli signals a throw-in for Spain, close to Netherlands's area.</description>
+        </fact>
+        <fact id="0a8b2441-7c2c-4887-8dda-1955843b6cd1" type="throwin" time="2014-06-13T20:46:56Z" updated_time="2014-06-13T20:46:56Z" scratch="false" x="85" y="2" clock="89" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Throw-in for Netherlands in their own half.</description>
+        </fact>
+        <fact id="90eac618-b415-4b15-b5f3-85cdaa4e5074" type="injury_time" time="2014-06-13T20:48:05Z" updated_time="2014-06-13T20:48:05Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>4 minutes will be added to the second half.</description>
+        </fact>
+        <fact id="7b38fab6-28d8-4910-9eb1-b74811168b99" type="free_kick" time="2014-06-13T20:48:54Z" updated_time="2014-06-13T20:48:54Z" scratch="false" x="36" y="68" clock="90" injury_time="1" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Nicola Rizzoli signals a free kick to Netherlands.</description>
+        </fact>
+        <fact id="2b4a9d8f-5efc-47fd-88da-3fce86c67706" type="throwin" time="2014-06-13T20:49:14Z" updated_time="2014-06-13T20:49:14Z" scratch="false" x="21" y="1" clock="90" injury_time="1" team_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6">
+          <description>Netherlands to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="27b73fcc-ea76-4cdc-a4c5-72865a67746c" type="throwin" time="2014-06-13T20:50:59Z" updated_time="2014-06-13T20:50:59Z" scratch="false" x="43" y="1" clock="90" injury_time="3" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a5ecdf80-06cb-4009-a673-576a97275cee" type="period_over" time="2014-06-13T20:51:28Z" updated_time="2014-06-13T20:51:28Z" scratch="false" home_score="1" away_score="5" period="P2">
+          <description>It's 1-5 as the referee blows for full-time.</description>
+        </fact>
+        <fact id="9925b900-e4f3-4cf7-9908-e6d16431806a" type="match_ended" time="2014-06-13T20:51:28Z" updated_time="2014-06-13T20:51:28Z" scratch="false" home_score="1" away_score="5" winner_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" draw="false"/>
+      </facts>
+      <!-- 4768722/4698/4705 -->
+    </match>
+  </matches>
+</summary>

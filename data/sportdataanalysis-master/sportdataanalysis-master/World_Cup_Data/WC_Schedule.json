@@ -1,0 +1,3850 @@
+{
+    "schedule": {
+        "@generated": "2014-07-16T07:11:49Z",
+        "@xmlns": "http://feed.elasticstats.com/schema/soccer/sr/v2/matches-schedule.xsd",
+        "matches": {
+            "match": [
+                {
+                    "@id": "dc3acf1b-dfb9-43bc-b7c9-f42626b66b51",
+                    "@scheduled": "2014-06-12T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CRO",
+                        "@country": "Croatia",
+                        "@country_code": "HRV",
+                        "@id": "4305ef43-d8e4-401b-916f-9a32cbcc9ade",
+                        "@name": "Croatia",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BRA",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@name": "Brazil",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "43462e5c-730c-4353-803f-e3b2255ac38f",
+                        "@name": "World Cup, Group A",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "62601",
+                        "@city": "Sao Paulo",
+                        "@coordinates": "-23.545531,-46.473372",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc",
+                        "@name": "Arena de Sao Paulo "
+                    }
+                },
+                {
+                    "@id": "d4f14940-be18-4d2d-8464-b0fea10f2e79",
+                    "@scheduled": "2014-06-13T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CMR",
+                        "@country": "Cameroon",
+                        "@country_code": "CMR",
+                        "@id": "9947cfb1-6a86-4f8f-9330-9b21af2553ff",
+                        "@name": "Cameroon",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "MEX",
+                        "@country": "Mexico",
+                        "@country_code": "MEX",
+                        "@id": "0d6a26e4-3afa-49d7-bc95-61536650fbdd",
+                        "@name": "Mexico",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "43462e5c-730c-4353-803f-e3b2255ac38f",
+                        "@name": "World Cup, Group A",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39971",
+                        "@city": "Natal",
+                        "@coordinates": "-5.826733,-35.212467",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b9894f99-1373-4311-937a-214a6eda8f6f",
+                        "@name": "Estadio das Dunas"
+                    }
+                },
+                {
+                    "@id": "03702fc0-6f31-4b66-aeef-ffff98cc033b",
+                    "@scheduled": "2014-06-13T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "NED",
+                        "@country": "Netherlands",
+                        "@country_code": "NLD",
+                        "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@name": "Netherlands",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ESP",
+                        "@country": "Spain",
+                        "@country_code": "ESP",
+                        "@id": "7ed29820-2a75-4440-a7ab-3fb004887f44",
+                        "@name": "Spain",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "ec3d8d28-a8f8-43bd-9dab-ddbf50089b99",
+                        "@name": "World Cup, Group B",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-12T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "51900",
+                        "@city": "Salvador",
+                        "@coordinates": "-12.978746,-38.504157",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "5c14d74b-e8f2-49eb-b8d3-216ad33e1564",
+                        "@name": "Arena Fonte Nova"
+                    }
+                },
+                {
+                    "@id": "af79d0ae-ff8f-46a8-ae6f-08cdb16d8cd0",
+                    "@scheduled": "2014-06-13T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "AUS",
+                        "@country": "Australia",
+                        "@country_code": "AUS",
+                        "@id": "1db0a670-8394-49f4-9049-d0ef1dfdce12",
+                        "@name": "Australia",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "CHI",
+                        "@country": "Chile",
+                        "@country_code": "CHL",
+                        "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                        "@name": "Chile",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "ec3d8d28-a8f8-43bd-9dab-ddbf50089b99",
+                        "@name": "World Cup, Group B",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-12T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "41112",
+                        "@city": "Cuiaba",
+                        "@coordinates": "-15.603673,-56.121513",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "4c0b330a-71e2-470d-8aac-ea37466aef75",
+                        "@name": "Arena Pantanal"
+                    }
+                },
+                {
+                    "@id": "191cc03e-4e54-4f43-8de7-9e90d50b4d17",
+                    "@scheduled": "2014-06-14T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GRE",
+                        "@country": "Greece",
+                        "@country_code": "GRC",
+                        "@id": "56915cf9-6045-49c9-aba1-4e7691f23cce",
+                        "@name": "Greece",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "COL",
+                        "@country": "Colombia",
+                        "@country_code": "COL",
+                        "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                        "@name": "Colombia",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "17cca73b-821e-4e49-9878-2afbec69e087",
+                        "@name": "World Cup, Group C",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "58170",
+                        "@city": "Belo Horizonte",
+                        "@coordinates": "-19.865822,-43.971385",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "ac65449d-f356-47d3-8fe4-3feff7f699fe",
+                        "@name": "Mineirao Stadium"
+                    }
+                },
+                {
+                    "@id": "c4d7aece-bfdb-4c2d-a821-fbb38210fbaf",
+                    "@scheduled": "2014-06-14T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CRC",
+                        "@country": "Costa Rica",
+                        "@country_code": "CRI",
+                        "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                        "@name": "Costa Rica",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "URU",
+                        "@country": "Uruguay",
+                        "@country_code": "URY",
+                        "@id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                        "@name": "Uruguay",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "faa645e0-2fb7-4c7f-8ce3-1f419368844d",
+                        "@name": "World Cup, Group D",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "60342",
+                        "@city": "Fortaleza",
+                        "@coordinates": "-3.807487,-38.522542",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "153b06c6-e5fd-4b6f-98f0-b60f0404e2c5",
+                        "@name": "Estadio Castelao"
+                    }
+                },
+                {
+                    "@id": "cf413059-955b-4470-b368-b24407e7c019",
+                    "@scheduled": "2014-06-14T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ITA",
+                        "@country": "Italy",
+                        "@country_code": "ITA",
+                        "@id": "fdf11341-914c-4a67-bd55-07749823deab",
+                        "@name": "Italy",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ENG",
+                        "@country": "England",
+                        "@country_code": "ENG",
+                        "@id": "c655b728-adf8-4a6b-a091-f36765d518b3",
+                        "@name": "England",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "faa645e0-2fb7-4c7f-8ce3-1f419368844d",
+                        "@name": "World Cup, Group D",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "40549",
+                        "@city": "Manaus",
+                        "@coordinates": "-3.083260,-60.028107",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "27a95916-e1f4-4174-aa96-876d7ebe4f19",
+                        "@name": "Arena Amazonia"
+                    }
+                },
+                {
+                    "@id": "dbe1746f-6275-41f8-afff-f293e4baa277",
+                    "@scheduled": "2014-06-15T01:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "JPN",
+                        "@country": "Japan",
+                        "@country_code": "JPN",
+                        "@id": "d7a081db-1427-4144-ae22-94e8d24b1139",
+                        "@name": "Japan",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "CIV",
+                        "@country": "C\u00f4te D'Ivoire",
+                        "@country_code": "CIV",
+                        "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                        "@name": "Ivory Coast",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "17cca73b-821e-4e49-9878-2afbec69e087",
+                        "@name": "World Cup, Group C",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "42610",
+                        "@city": "Recife",
+                        "@coordinates": "-8.040753,-35.008257",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "f521ee31-11fb-4359-8c96-15dbd787751f",
+                        "@name": "Arena Pernambuco"
+                    }
+                },
+                {
+                    "@id": "9613c694-9001-4448-872f-d5a02cb44137",
+                    "@scheduled": "2014-06-15T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ECU",
+                        "@country": "Ecuador",
+                        "@country_code": "ECU",
+                        "@id": "221a5554-3961-426d-ae64-76061bceeeba",
+                        "@name": "Ecuador",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "SUI",
+                        "@country": "Switzerland",
+                        "@country_code": "CHE",
+                        "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                        "@name": "Switzerland",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "8af5357f-3a38-46b2-83f8-0dcc1a183294",
+                        "@name": "World Cup, Group E",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "69349",
+                        "@city": "Brasilia",
+                        "@coordinates": "-15.783550,-47.899249",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b7f38726-c569-4cf2-8dc7-f07059bfa7ec",
+                        "@name": "Estadio Nacional de Brasilia "
+                    }
+                },
+                {
+                    "@id": "98135852-fb73-4551-8856-fa0fac50182c",
+                    "@scheduled": "2014-06-15T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "HON",
+                        "@country": "Honduras",
+                        "@country_code": "HND",
+                        "@id": "f68fcef3-42f2-4031-983e-81c0b79801d5",
+                        "@name": "Honduras",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "FRA",
+                        "@country": "France",
+                        "@country_code": "FRA",
+                        "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                        "@name": "France",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "8af5357f-3a38-46b2-83f8-0dcc1a183294",
+                        "@name": "World Cup, Group E",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "43394",
+                        "@city": "Porto Alegre",
+                        "@coordinates": "-30.065417,-51.235891",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "d060ef40-9286-4712-8586-cc594cb60875",
+                        "@name": "Estadio Beira-Rio"
+                    }
+                },
+                {
+                    "@id": "25ecdac9-453a-4057-9858-fe214e10a391",
+                    "@scheduled": "2014-06-15T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "BIH",
+                        "@country": "Bosnia and Herzegovina",
+                        "@country_code": "BIH",
+                        "@id": "10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c",
+                        "@name": "Bosnia and Herzegovina",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ARG",
+                        "@country": "Argentina",
+                        "@country_code": "ARG",
+                        "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@name": "Argentina",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "24"
+                    },
+                    "tournament": {
+                        "@id": "bd395852-e5f3-4c55-a678-3e5184a77b6b",
+                        "@name": "World Cup, Group F",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "74738",
+                        "@city": "Rio de Janeiro",
+                        "@coordinates": "-22.912172,-43.230210",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "58ce7d9a-05e0-49a2-b1ac-bfa8131db618",
+                        "@name": "Estadio do Maracana"
+                    }
+                },
+                {
+                    "@id": "33f6fb10-e9d7-4904-8940-7f7f01b60d21",
+                    "@scheduled": "2014-06-16T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "POR",
+                        "@country": "Portugal",
+                        "@country_code": "PRT",
+                        "@id": "d49ecca2-07bc-417f-bf19-e653c81e07e3",
+                        "@name": "Portugal",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "GER",
+                        "@country": "Germany",
+                        "@country_code": "DEU",
+                        "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@name": "Germany",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f60c1a8b-fa39-4b7c-a653-4f23e351b6da",
+                        "@name": "World Cup, Group G",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-15T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "51900",
+                        "@city": "Salvador",
+                        "@coordinates": "-12.978746,-38.504157",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "5c14d74b-e8f2-49eb-b8d3-216ad33e1564",
+                        "@name": "Arena Fonte Nova"
+                    }
+                },
+                {
+                    "@id": "45ecc96a-01ed-4cee-a138-81f2b9573a0b",
+                    "@scheduled": "2014-06-16T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "NGR",
+                        "@country": "Nigeria",
+                        "@country_code": "NGA",
+                        "@id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                        "@name": "Nigeria",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "IRI",
+                        "@country": "Iran",
+                        "@country_code": "IRN",
+                        "@id": "1f395131-4c51-4ecf-8b7b-7a7502232310",
+                        "@name": "Iran",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "bd395852-e5f3-4c55-a678-3e5184a77b6b",
+                        "@name": "World Cup, Group F",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39631",
+                        "@city": "Curitiba",
+                        "@coordinates": "-25.448186,-49.276866",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8c5f1637-5cb1-4c7c-a498-80f9706e3726",
+                        "@name": "Arena da Baixada"
+                    }
+                },
+                {
+                    "@id": "0e3ca2d9-6285-45e5-a1da-f3ce1a77d80a",
+                    "@scheduled": "2014-06-16T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "USA",
+                        "@country": "United States",
+                        "@country_code": "USA",
+                        "@id": "79a99f09-13ca-45c4-b3f0-2a61f94e0651",
+                        "@name": "USA",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "GHA",
+                        "@country": "Ghana",
+                        "@country_code": "GHA",
+                        "@id": "9fe2410e-fa8c-4466-9926-ce8a71bf8020",
+                        "@name": "Ghana",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f60c1a8b-fa39-4b7c-a653-4f23e351b6da",
+                        "@name": "World Cup, Group G",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-15T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39971",
+                        "@city": "Natal",
+                        "@coordinates": "-5.826733,-35.212467",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b9894f99-1373-4311-937a-214a6eda8f6f",
+                        "@name": "Estadio das Dunas"
+                    }
+                },
+                {
+                    "@id": "6679d81b-5056-4fe7-9e7d-96afc9b608d8",
+                    "@scheduled": "2014-06-17T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ALG",
+                        "@country": "Algeria",
+                        "@country_code": "DZA",
+                        "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                        "@name": "Algeria",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BEL",
+                        "@country": "Belgium",
+                        "@country_code": "BEL",
+                        "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                        "@name": "Belgium",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f21062b5-f255-4df8-946b-a402e9e3d0d9",
+                        "@name": "World Cup, Group H",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-16T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "58170",
+                        "@city": "Belo Horizonte",
+                        "@coordinates": "-19.865822,-43.971385",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "ac65449d-f356-47d3-8fe4-3feff7f699fe",
+                        "@name": "Mineirao Stadium"
+                    }
+                },
+                {
+                    "@id": "839afcad-8196-4862-8ae1-495a8f2e351e",
+                    "@scheduled": "2014-06-17T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "MEX",
+                        "@country": "Mexico",
+                        "@country_code": "MEX",
+                        "@id": "0d6a26e4-3afa-49d7-bc95-61536650fbdd",
+                        "@name": "Mexico",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BRA",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@name": "Brazil",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "43462e5c-730c-4353-803f-e3b2255ac38f",
+                        "@name": "World Cup, Group A",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "60342",
+                        "@city": "Fortaleza",
+                        "@coordinates": "-3.807487,-38.522542",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "153b06c6-e5fd-4b6f-98f0-b60f0404e2c5",
+                        "@name": "Estadio Castelao"
+                    }
+                },
+                {
+                    "@id": "06422ac7-f6a5-4ed5-ab00-417c4902665c",
+                    "@scheduled": "2014-06-17T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "KOR",
+                        "@country": "South Korea",
+                        "@country_code": "KOR",
+                        "@id": "76ae54ed-2efb-4e78-bc26-06a9edf67be6",
+                        "@name": "South Korea",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "RUS",
+                        "@country": "Russian Federation",
+                        "@country_code": "RUS",
+                        "@id": "48b3da4c-4de4-44d7-beca-daceccfa51a1",
+                        "@name": "Russia",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "1",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f21062b5-f255-4df8-946b-a402e9e3d0d9",
+                        "@name": "World Cup, Group H",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-16T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "41112",
+                        "@city": "Cuiaba",
+                        "@coordinates": "-15.603673,-56.121513",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "4c0b330a-71e2-470d-8aac-ea37466aef75",
+                        "@name": "Arena Pantanal"
+                    }
+                },
+                {
+                    "@id": "1b595125-220f-4619-aad2-d1d0659a84f1",
+                    "@scheduled": "2014-06-18T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "NED",
+                        "@country": "Netherlands",
+                        "@country_code": "NLD",
+                        "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@name": "Netherlands",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "AUS",
+                        "@country": "Australia",
+                        "@country_code": "AUS",
+                        "@id": "1db0a670-8394-49f4-9049-d0ef1dfdce12",
+                        "@name": "Australia",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "ec3d8d28-a8f8-43bd-9dab-ddbf50089b99",
+                        "@name": "World Cup, Group B",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-12T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "43394",
+                        "@city": "Porto Alegre",
+                        "@coordinates": "-30.065417,-51.235891",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "d060ef40-9286-4712-8586-cc594cb60875",
+                        "@name": "Estadio Beira-Rio"
+                    }
+                },
+                {
+                    "@id": "bc377b5a-2940-4651-a7f1-ddac74d0be5a",
+                    "@scheduled": "2014-06-18T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CHI",
+                        "@country": "Chile",
+                        "@country_code": "CHL",
+                        "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                        "@name": "Chile",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ESP",
+                        "@country": "Spain",
+                        "@country_code": "ESP",
+                        "@id": "7ed29820-2a75-4440-a7ab-3fb004887f44",
+                        "@name": "Spain",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "ec3d8d28-a8f8-43bd-9dab-ddbf50089b99",
+                        "@name": "World Cup, Group B",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-12T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "74738",
+                        "@city": "Rio de Janeiro",
+                        "@coordinates": "-22.912172,-43.230210",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "58ce7d9a-05e0-49a2-b1ac-bfa8131db618",
+                        "@name": "Estadio do Maracana"
+                    }
+                },
+                {
+                    "@id": "d512e77e-f3a8-417c-bca3-d4e893e5133b",
+                    "@scheduled": "2014-06-18T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CRO",
+                        "@country": "Croatia",
+                        "@country_code": "HRV",
+                        "@id": "4305ef43-d8e4-401b-916f-9a32cbcc9ade",
+                        "@name": "Croatia",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "CMR",
+                        "@country": "Cameroon",
+                        "@country_code": "CMR",
+                        "@id": "9947cfb1-6a86-4f8f-9330-9b21af2553ff",
+                        "@name": "Cameroon",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "43462e5c-730c-4353-803f-e3b2255ac38f",
+                        "@name": "World Cup, Group A",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "40549",
+                        "@city": "Manaus",
+                        "@coordinates": "-3.083260,-60.028107",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "27a95916-e1f4-4174-aa96-876d7ebe4f19",
+                        "@name": "Arena Amazonia"
+                    }
+                },
+                {
+                    "@id": "1f0adb6d-83ce-4606-a203-3881183024a0",
+                    "@scheduled": "2014-06-19T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CIV",
+                        "@country": "C\u00f4te D'Ivoire",
+                        "@country_code": "CIV",
+                        "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                        "@name": "Ivory Coast",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "COL",
+                        "@country": "Colombia",
+                        "@country_code": "COL",
+                        "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                        "@name": "Colombia",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "17cca73b-821e-4e49-9878-2afbec69e087",
+                        "@name": "World Cup, Group C",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "69349",
+                        "@city": "Brasilia",
+                        "@coordinates": "-15.783550,-47.899249",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b7f38726-c569-4cf2-8dc7-f07059bfa7ec",
+                        "@name": "Estadio Nacional de Brasilia "
+                    }
+                },
+                {
+                    "@id": "457c04a5-ce7c-4429-8d51-59ae1d237eb1",
+                    "@scheduled": "2014-06-19T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ENG",
+                        "@country": "England",
+                        "@country_code": "ENG",
+                        "@id": "c655b728-adf8-4a6b-a091-f36765d518b3",
+                        "@name": "England",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "URU",
+                        "@country": "Uruguay",
+                        "@country_code": "URY",
+                        "@id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                        "@name": "Uruguay",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "faa645e0-2fb7-4c7f-8ce3-1f419368844d",
+                        "@name": "World Cup, Group D",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "62601",
+                        "@city": "Sao Paulo",
+                        "@coordinates": "-23.545531,-46.473372",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc",
+                        "@name": "Arena de Sao Paulo "
+                    }
+                },
+                {
+                    "@id": "6a0c97db-8c26-43fa-b146-2277afe5cc1e",
+                    "@scheduled": "2014-06-19T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GRE",
+                        "@country": "Greece",
+                        "@country_code": "GRC",
+                        "@id": "56915cf9-6045-49c9-aba1-4e7691f23cce",
+                        "@name": "Greece",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "JPN",
+                        "@country": "Japan",
+                        "@country_code": "JPN",
+                        "@id": "d7a081db-1427-4144-ae22-94e8d24b1139",
+                        "@name": "Japan",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "17cca73b-821e-4e49-9878-2afbec69e087",
+                        "@name": "World Cup, Group C",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39971",
+                        "@city": "Natal",
+                        "@coordinates": "-5.826733,-35.212467",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b9894f99-1373-4311-937a-214a6eda8f6f",
+                        "@name": "Estadio das Dunas"
+                    }
+                },
+                {
+                    "@id": "3b9ccb92-eeb7-48b6-b3c3-712dfaa2d970",
+                    "@scheduled": "2014-06-20T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CRC",
+                        "@country": "Costa Rica",
+                        "@country_code": "CRI",
+                        "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                        "@name": "Costa Rica",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ITA",
+                        "@country": "Italy",
+                        "@country_code": "ITA",
+                        "@id": "fdf11341-914c-4a67-bd55-07749823deab",
+                        "@name": "Italy",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "faa645e0-2fb7-4c7f-8ce3-1f419368844d",
+                        "@name": "World Cup, Group D",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "42610",
+                        "@city": "Recife",
+                        "@coordinates": "-8.040753,-35.008257",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "f521ee31-11fb-4359-8c96-15dbd787751f",
+                        "@name": "Arena Pernambuco"
+                    }
+                },
+                {
+                    "@id": "09c306c1-075c-443b-8422-846f7fce00d1",
+                    "@scheduled": "2014-06-20T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "FRA",
+                        "@country": "France",
+                        "@country_code": "FRA",
+                        "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                        "@name": "France",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "SUI",
+                        "@country": "Switzerland",
+                        "@country_code": "CHE",
+                        "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                        "@name": "Switzerland",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "8af5357f-3a38-46b2-83f8-0dcc1a183294",
+                        "@name": "World Cup, Group E",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "51900",
+                        "@city": "Salvador",
+                        "@coordinates": "-12.978746,-38.504157",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "5c14d74b-e8f2-49eb-b8d3-216ad33e1564",
+                        "@name": "Arena Fonte Nova"
+                    }
+                },
+                {
+                    "@id": "3a447e9d-bfe0-4d25-b788-78a9099d9c2c",
+                    "@scheduled": "2014-06-20T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ECU",
+                        "@country": "Ecuador",
+                        "@country_code": "ECU",
+                        "@id": "221a5554-3961-426d-ae64-76061bceeeba",
+                        "@name": "Ecuador",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "HON",
+                        "@country": "Honduras",
+                        "@country_code": "HND",
+                        "@id": "f68fcef3-42f2-4031-983e-81c0b79801d5",
+                        "@name": "Honduras",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "8af5357f-3a38-46b2-83f8-0dcc1a183294",
+                        "@name": "World Cup, Group E",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39631",
+                        "@city": "Curitiba",
+                        "@coordinates": "-25.448186,-49.276866",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8c5f1637-5cb1-4c7c-a498-80f9706e3726",
+                        "@name": "Arena da Baixada"
+                    }
+                },
+                {
+                    "@id": "561b07a5-0597-4dfb-a3f2-ee027341c7db",
+                    "@scheduled": "2014-06-21T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "IRI",
+                        "@country": "Iran",
+                        "@country_code": "IRN",
+                        "@id": "1f395131-4c51-4ecf-8b7b-7a7502232310",
+                        "@name": "Iran",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ARG",
+                        "@country": "Argentina",
+                        "@country_code": "ARG",
+                        "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@name": "Argentina",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "bd395852-e5f3-4c55-a678-3e5184a77b6b",
+                        "@name": "World Cup, Group F",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "58170",
+                        "@city": "Belo Horizonte",
+                        "@coordinates": "-19.865822,-43.971385",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "ac65449d-f356-47d3-8fe4-3feff7f699fe",
+                        "@name": "Mineirao Stadium"
+                    }
+                },
+                {
+                    "@id": "915db875-3167-453b-88a7-49e09af91e2b",
+                    "@scheduled": "2014-06-21T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GHA",
+                        "@country": "Ghana",
+                        "@country_code": "GHA",
+                        "@id": "9fe2410e-fa8c-4466-9926-ce8a71bf8020",
+                        "@name": "Ghana",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "GER",
+                        "@country": "Germany",
+                        "@country_code": "DEU",
+                        "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@name": "Germany",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f60c1a8b-fa39-4b7c-a653-4f23e351b6da",
+                        "@name": "World Cup, Group G",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-15T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "60342",
+                        "@city": "Fortaleza",
+                        "@coordinates": "-3.807487,-38.522542",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "153b06c6-e5fd-4b6f-98f0-b60f0404e2c5",
+                        "@name": "Estadio Castelao"
+                    }
+                },
+                {
+                    "@id": "569d6be7-68a7-4332-a10e-b48842e6a65d",
+                    "@scheduled": "2014-06-21T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "BIH",
+                        "@country": "Bosnia and Herzegovina",
+                        "@country_code": "BIH",
+                        "@id": "10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c",
+                        "@name": "Bosnia and Herzegovina",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "NGR",
+                        "@country": "Nigeria",
+                        "@country_code": "NGA",
+                        "@id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                        "@name": "Nigeria",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "bd395852-e5f3-4c55-a678-3e5184a77b6b",
+                        "@name": "World Cup, Group F",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "41112",
+                        "@city": "Cuiaba",
+                        "@coordinates": "-15.603673,-56.121513",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "4c0b330a-71e2-470d-8aac-ea37466aef75",
+                        "@name": "Arena Pantanal"
+                    }
+                },
+                {
+                    "@id": "1b7f9a66-1ac3-426d-b2b1-410b0103d34b",
+                    "@scheduled": "2014-06-22T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "RUS",
+                        "@country": "Russian Federation",
+                        "@country_code": "RUS",
+                        "@id": "48b3da4c-4de4-44d7-beca-daceccfa51a1",
+                        "@name": "Russia",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BEL",
+                        "@country": "Belgium",
+                        "@country_code": "BEL",
+                        "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                        "@name": "Belgium",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f21062b5-f255-4df8-946b-a402e9e3d0d9",
+                        "@name": "World Cup, Group H",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-16T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "74738",
+                        "@city": "Rio de Janeiro",
+                        "@coordinates": "-22.912172,-43.230210",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "58ce7d9a-05e0-49a2-b1ac-bfa8131db618",
+                        "@name": "Estadio do Maracana"
+                    }
+                },
+                {
+                    "@id": "8f7484e2-ddea-4a26-91c2-f1a5a35d05cb",
+                    "@scheduled": "2014-06-22T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ALG",
+                        "@country": "Algeria",
+                        "@country_code": "DZA",
+                        "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                        "@name": "Algeria",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "KOR",
+                        "@country": "South Korea",
+                        "@country_code": "KOR",
+                        "@id": "76ae54ed-2efb-4e78-bc26-06a9edf67be6",
+                        "@name": "South Korea",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f21062b5-f255-4df8-946b-a402e9e3d0d9",
+                        "@name": "World Cup, Group H",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-16T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "43394",
+                        "@city": "Porto Alegre",
+                        "@coordinates": "-30.065417,-51.235891",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "d060ef40-9286-4712-8586-cc594cb60875",
+                        "@name": "Estadio Beira-Rio"
+                    }
+                },
+                {
+                    "@id": "3c65639a-4fc0-4d60-9917-97d263a7dd61",
+                    "@scheduled": "2014-06-22T22:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "POR",
+                        "@country": "Portugal",
+                        "@country_code": "PRT",
+                        "@id": "d49ecca2-07bc-417f-bf19-e653c81e07e3",
+                        "@name": "Portugal",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "USA",
+                        "@country": "United States",
+                        "@country_code": "USA",
+                        "@id": "79a99f09-13ca-45c4-b3f0-2a61f94e0651",
+                        "@name": "USA",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "2",
+                        "@type": "table",
+                        "@week": "25"
+                    },
+                    "tournament": {
+                        "@id": "f60c1a8b-fa39-4b7c-a653-4f23e351b6da",
+                        "@name": "World Cup, Group G",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-15T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "40549",
+                        "@city": "Manaus",
+                        "@coordinates": "-3.083260,-60.028107",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "27a95916-e1f4-4174-aa96-876d7ebe4f19",
+                        "@name": "Arena Amazonia"
+                    }
+                },
+                {
+                    "@id": "8e2deeae-e858-4a3c-b1df-cb8f90ffb743",
+                    "@scheduled": "2014-06-23T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ESP",
+                        "@country": "Spain",
+                        "@country_code": "ESP",
+                        "@id": "7ed29820-2a75-4440-a7ab-3fb004887f44",
+                        "@name": "Spain",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "AUS",
+                        "@country": "Australia",
+                        "@country_code": "AUS",
+                        "@id": "1db0a670-8394-49f4-9049-d0ef1dfdce12",
+                        "@name": "Australia",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "ec3d8d28-a8f8-43bd-9dab-ddbf50089b99",
+                        "@name": "World Cup, Group B",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-12T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39631",
+                        "@city": "Curitiba",
+                        "@coordinates": "-25.448186,-49.276866",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8c5f1637-5cb1-4c7c-a498-80f9706e3726",
+                        "@name": "Arena da Baixada"
+                    }
+                },
+                {
+                    "@id": "19666fae-210c-4fe0-8c15-632ad763bedf",
+                    "@scheduled": "2014-06-23T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CHI",
+                        "@country": "Chile",
+                        "@country_code": "CHL",
+                        "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                        "@name": "Chile",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "NED",
+                        "@country": "Netherlands",
+                        "@country_code": "NLD",
+                        "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@name": "Netherlands",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "ec3d8d28-a8f8-43bd-9dab-ddbf50089b99",
+                        "@name": "World Cup, Group B",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-12T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "62601",
+                        "@city": "Sao Paulo",
+                        "@coordinates": "-23.545531,-46.473372",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc",
+                        "@name": "Arena de Sao Paulo "
+                    }
+                },
+                {
+                    "@id": "dc7425cf-73b1-411e-82dd-1b79c0b003f1",
+                    "@scheduled": "2014-06-23T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "MEX",
+                        "@country": "Mexico",
+                        "@country_code": "MEX",
+                        "@id": "0d6a26e4-3afa-49d7-bc95-61536650fbdd",
+                        "@name": "Mexico",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "CRO",
+                        "@country": "Croatia",
+                        "@country_code": "HRV",
+                        "@id": "4305ef43-d8e4-401b-916f-9a32cbcc9ade",
+                        "@name": "Croatia",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "43462e5c-730c-4353-803f-e3b2255ac38f",
+                        "@name": "World Cup, Group A",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "42610",
+                        "@city": "Recife",
+                        "@coordinates": "-8.040753,-35.008257",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "f521ee31-11fb-4359-8c96-15dbd787751f",
+                        "@name": "Arena Pernambuco"
+                    }
+                },
+                {
+                    "@id": "379510f1-98fd-4402-93f5-5ce4791122f8",
+                    "@scheduled": "2014-06-23T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "BRA",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@name": "Brazil",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "CMR",
+                        "@country": "Cameroon",
+                        "@country_code": "CMR",
+                        "@id": "9947cfb1-6a86-4f8f-9330-9b21af2553ff",
+                        "@name": "Cameroon",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "43462e5c-730c-4353-803f-e3b2255ac38f",
+                        "@name": "World Cup, Group A",
+                        "@season": "2014",
+                        "@season_end": "2014-06-24T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "69349",
+                        "@city": "Brasilia",
+                        "@coordinates": "-15.783550,-47.899249",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b7f38726-c569-4cf2-8dc7-f07059bfa7ec",
+                        "@name": "Estadio Nacional de Brasilia "
+                    }
+                },
+                {
+                    "@id": "7c9e28c1-a383-42c9-9f42-75247cb4d0bf",
+                    "@scheduled": "2014-06-24T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ENG",
+                        "@country": "England",
+                        "@country_code": "ENG",
+                        "@id": "c655b728-adf8-4a6b-a091-f36765d518b3",
+                        "@name": "England",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "CRC",
+                        "@country": "Costa Rica",
+                        "@country_code": "CRI",
+                        "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                        "@name": "Costa Rica",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "faa645e0-2fb7-4c7f-8ce3-1f419368844d",
+                        "@name": "World Cup, Group D",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "58170",
+                        "@city": "Belo Horizonte",
+                        "@coordinates": "-19.865822,-43.971385",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "ac65449d-f356-47d3-8fe4-3feff7f699fe",
+                        "@name": "Mineirao Stadium"
+                    }
+                },
+                {
+                    "@id": "6f0fba5f-ac4f-4076-a0be-7bcd1cfd4897",
+                    "@scheduled": "2014-06-24T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "URU",
+                        "@country": "Uruguay",
+                        "@country_code": "URY",
+                        "@id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                        "@name": "Uruguay",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ITA",
+                        "@country": "Italy",
+                        "@country_code": "ITA",
+                        "@id": "fdf11341-914c-4a67-bd55-07749823deab",
+                        "@name": "Italy",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "faa645e0-2fb7-4c7f-8ce3-1f419368844d",
+                        "@name": "World Cup, Group D",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39971",
+                        "@city": "Natal",
+                        "@coordinates": "-5.826733,-35.212467",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b9894f99-1373-4311-937a-214a6eda8f6f",
+                        "@name": "Estadio das Dunas"
+                    }
+                },
+                {
+                    "@id": "ed14e4da-7f06-4b18-84df-5e92f599c28a",
+                    "@scheduled": "2014-06-24T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "COL",
+                        "@country": "Colombia",
+                        "@country_code": "COL",
+                        "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                        "@name": "Colombia",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "JPN",
+                        "@country": "Japan",
+                        "@country_code": "JPN",
+                        "@id": "d7a081db-1427-4144-ae22-94e8d24b1139",
+                        "@name": "Japan",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "17cca73b-821e-4e49-9878-2afbec69e087",
+                        "@name": "World Cup, Group C",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "41112",
+                        "@city": "Cuiaba",
+                        "@coordinates": "-15.603673,-56.121513",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "4c0b330a-71e2-470d-8aac-ea37466aef75",
+                        "@name": "Arena Pantanal"
+                    }
+                },
+                {
+                    "@id": "947b56b8-8cef-441a-9788-cbd543f9651a",
+                    "@scheduled": "2014-06-24T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CIV",
+                        "@country": "C\u00f4te D'Ivoire",
+                        "@country_code": "CIV",
+                        "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                        "@name": "Ivory Coast",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "GRE",
+                        "@country": "Greece",
+                        "@country_code": "GRC",
+                        "@id": "56915cf9-6045-49c9-aba1-4e7691f23cce",
+                        "@name": "Greece",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "17cca73b-821e-4e49-9878-2afbec69e087",
+                        "@name": "World Cup, Group C",
+                        "@season": "2014",
+                        "@season_end": "2014-06-25T21:59:00Z",
+                        "@season_start": "2014-06-13T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "60342",
+                        "@city": "Fortaleza",
+                        "@coordinates": "-3.807487,-38.522542",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "153b06c6-e5fd-4b6f-98f0-b60f0404e2c5",
+                        "@name": "Estadio Castelao"
+                    }
+                },
+                {
+                    "@id": "dc9583c4-da5f-4d39-bfbe-aa71a50564a5",
+                    "@scheduled": "2014-06-25T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "IRI",
+                        "@country": "Iran",
+                        "@country_code": "IRN",
+                        "@id": "1f395131-4c51-4ecf-8b7b-7a7502232310",
+                        "@name": "Iran",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BIH",
+                        "@country": "Bosnia and Herzegovina",
+                        "@country_code": "BIH",
+                        "@id": "10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c",
+                        "@name": "Bosnia and Herzegovina",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "bd395852-e5f3-4c55-a678-3e5184a77b6b",
+                        "@name": "World Cup, Group F",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "51900",
+                        "@city": "Salvador",
+                        "@coordinates": "-12.978746,-38.504157",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "5c14d74b-e8f2-49eb-b8d3-216ad33e1564",
+                        "@name": "Arena Fonte Nova"
+                    }
+                },
+                {
+                    "@id": "1f6a203e-35e1-4b5d-83a1-62eaaec30f1e",
+                    "@scheduled": "2014-06-25T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ARG",
+                        "@country": "Argentina",
+                        "@country_code": "ARG",
+                        "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@name": "Argentina",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "NGR",
+                        "@country": "Nigeria",
+                        "@country_code": "NGA",
+                        "@id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                        "@name": "Nigeria",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "bd395852-e5f3-4c55-a678-3e5184a77b6b",
+                        "@name": "World Cup, Group F",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "43394",
+                        "@city": "Porto Alegre",
+                        "@coordinates": "-30.065417,-51.235891",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "d060ef40-9286-4712-8586-cc594cb60875",
+                        "@name": "Estadio Beira-Rio"
+                    }
+                },
+                {
+                    "@id": "9a6bb503-32d1-4a20-9061-c52af97b6838",
+                    "@scheduled": "2014-06-25T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "SUI",
+                        "@country": "Switzerland",
+                        "@country_code": "CHE",
+                        "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                        "@name": "Switzerland",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "HON",
+                        "@country": "Honduras",
+                        "@country_code": "HND",
+                        "@id": "f68fcef3-42f2-4031-983e-81c0b79801d5",
+                        "@name": "Honduras",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "8af5357f-3a38-46b2-83f8-0dcc1a183294",
+                        "@name": "World Cup, Group E",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "40549",
+                        "@city": "Manaus",
+                        "@coordinates": "-3.083260,-60.028107",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "27a95916-e1f4-4174-aa96-876d7ebe4f19",
+                        "@name": "Arena Amazonia"
+                    }
+                },
+                {
+                    "@id": "21de3e84-9956-4ebf-98ae-22f40cf245a0",
+                    "@scheduled": "2014-06-25T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "FRA",
+                        "@country": "France",
+                        "@country_code": "FRA",
+                        "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                        "@name": "France",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ECU",
+                        "@country": "Ecuador",
+                        "@country_code": "ECU",
+                        "@id": "221a5554-3961-426d-ae64-76061bceeeba",
+                        "@name": "Ecuador",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "8af5357f-3a38-46b2-83f8-0dcc1a183294",
+                        "@name": "World Cup, Group E",
+                        "@season": "2014",
+                        "@season_end": "2014-06-26T21:59:00Z",
+                        "@season_start": "2014-06-14T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "74738",
+                        "@city": "Rio de Janeiro",
+                        "@coordinates": "-22.912172,-43.230210",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "58ce7d9a-05e0-49a2-b1ac-bfa8131db618",
+                        "@name": "Estadio do Maracana"
+                    }
+                },
+                {
+                    "@id": "5a897135-5ea8-4939-a6d9-c408d366f31f",
+                    "@scheduled": "2014-06-26T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GER",
+                        "@country": "Germany",
+                        "@country_code": "DEU",
+                        "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@name": "Germany",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "USA",
+                        "@country": "United States",
+                        "@country_code": "USA",
+                        "@id": "79a99f09-13ca-45c4-b3f0-2a61f94e0651",
+                        "@name": "USA",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "f60c1a8b-fa39-4b7c-a653-4f23e351b6da",
+                        "@name": "World Cup, Group G",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-15T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "42610",
+                        "@city": "Recife",
+                        "@coordinates": "-8.040753,-35.008257",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "f521ee31-11fb-4359-8c96-15dbd787751f",
+                        "@name": "Arena Pernambuco"
+                    }
+                },
+                {
+                    "@id": "547c9036-93b3-418c-8f82-bc48244701d0",
+                    "@scheduled": "2014-06-26T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GHA",
+                        "@country": "Ghana",
+                        "@country_code": "GHA",
+                        "@id": "9fe2410e-fa8c-4466-9926-ce8a71bf8020",
+                        "@name": "Ghana",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "POR",
+                        "@country": "Portugal",
+                        "@country_code": "PRT",
+                        "@id": "d49ecca2-07bc-417f-bf19-e653c81e07e3",
+                        "@name": "Portugal",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "f60c1a8b-fa39-4b7c-a653-4f23e351b6da",
+                        "@name": "World Cup, Group G",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-15T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "69349",
+                        "@city": "Brasilia",
+                        "@coordinates": "-15.783550,-47.899249",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b7f38726-c569-4cf2-8dc7-f07059bfa7ec",
+                        "@name": "Estadio Nacional de Brasilia "
+                    }
+                },
+                {
+                    "@id": "c3cadf94-429b-44bf-927c-e7d76ade548c",
+                    "@scheduled": "2014-06-26T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "BEL",
+                        "@country": "Belgium",
+                        "@country_code": "BEL",
+                        "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                        "@name": "Belgium",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "KOR",
+                        "@country": "South Korea",
+                        "@country_code": "KOR",
+                        "@id": "76ae54ed-2efb-4e78-bc26-06a9edf67be6",
+                        "@name": "South Korea",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "f21062b5-f255-4df8-946b-a402e9e3d0d9",
+                        "@name": "World Cup, Group H",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-16T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "62601",
+                        "@city": "Sao Paulo",
+                        "@coordinates": "-23.545531,-46.473372",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc",
+                        "@name": "Arena de Sao Paulo "
+                    }
+                },
+                {
+                    "@id": "836943d5-1798-4bbc-960a-b695acce0040",
+                    "@scheduled": "2014-06-26T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "RUS",
+                        "@country": "Russian Federation",
+                        "@country_code": "RUS",
+                        "@id": "48b3da4c-4de4-44d7-beca-daceccfa51a1",
+                        "@name": "Russia",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ALG",
+                        "@country": "Algeria",
+                        "@country_code": "DZA",
+                        "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                        "@name": "Algeria",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@number": "3",
+                        "@type": "table",
+                        "@week": "26"
+                    },
+                    "tournament": {
+                        "@id": "f21062b5-f255-4df8-946b-a402e9e3d0d9",
+                        "@name": "World Cup, Group H",
+                        "@season": "2014",
+                        "@season_end": "2014-06-27T21:59:00Z",
+                        "@season_start": "2014-06-16T22:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "39631",
+                        "@city": "Curitiba",
+                        "@coordinates": "-25.448186,-49.276866",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8c5f1637-5cb1-4c7c-a498-80f9706e3726",
+                        "@name": "Arena da Baixada"
+                    }
+                },
+                {
+                    "@id": "9ccf78a3-5c63-40d3-b618-007952b52738",
+                    "@scheduled": "2014-06-28T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CHI",
+                        "@country": "Chile",
+                        "@country_code": "CHL",
+                        "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                        "@name": "Chile",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BRA",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@name": "Brazil",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "26",
+                        "@winner_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                            "@away_score": "3",
+                            "@home_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                            "@home_score": "4",
+                            "@match_id": "9ccf78a3-5c63-40d3-b618-007952b52738",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "58170",
+                        "@city": "Belo Horizonte",
+                        "@coordinates": "-19.865822,-43.971385",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "ac65449d-f356-47d3-8fe4-3feff7f699fe",
+                        "@name": "Mineirao Stadium"
+                    }
+                },
+                {
+                    "@id": "364f95a0-3d91-4b59-91df-554075bb18b9",
+                    "@scheduled": "2014-06-28T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "URU",
+                        "@country": "Uruguay",
+                        "@country_code": "URY",
+                        "@id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                        "@name": "Uruguay",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "COL",
+                        "@country": "Colombia",
+                        "@country_code": "COL",
+                        "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                        "@name": "Colombia",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "26",
+                        "@winner_id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                            "@away_score": "0",
+                            "@home_id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                            "@home_score": "2",
+                            "@match_id": "364f95a0-3d91-4b59-91df-554075bb18b9",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "74738",
+                        "@city": "Rio de Janeiro",
+                        "@coordinates": "-22.912172,-43.230210",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "58ce7d9a-05e0-49a2-b1ac-bfa8131db618",
+                        "@name": "Estadio do Maracana"
+                    }
+                },
+                {
+                    "@id": "2339574a-5064-4384-9ff5-5f76dca518a8",
+                    "@scheduled": "2014-06-29T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "MEX",
+                        "@country": "Mexico",
+                        "@country_code": "MEX",
+                        "@id": "0d6a26e4-3afa-49d7-bc95-61536650fbdd",
+                        "@name": "Mexico",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "NED",
+                        "@country": "Netherlands",
+                        "@country_code": "NLD",
+                        "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@name": "Netherlands",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "0d6a26e4-3afa-49d7-bc95-61536650fbdd",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "26",
+                        "@winner_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "0d6a26e4-3afa-49d7-bc95-61536650fbdd",
+                            "@away_score": "1",
+                            "@home_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                            "@home_score": "2",
+                            "@match_id": "2339574a-5064-4384-9ff5-5f76dca518a8",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "60342",
+                        "@city": "Fortaleza",
+                        "@coordinates": "-3.807487,-38.522542",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "153b06c6-e5fd-4b6f-98f0-b60f0404e2c5",
+                        "@name": "Estadio Castelao"
+                    }
+                },
+                {
+                    "@id": "c3023920-3391-46a5-86ff-07557542b967",
+                    "@scheduled": "2014-06-29T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GRE",
+                        "@country": "Greece",
+                        "@country_code": "GRC",
+                        "@id": "56915cf9-6045-49c9-aba1-4e7691f23cce",
+                        "@name": "Greece",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "CRC",
+                        "@country": "Costa Rica",
+                        "@country_code": "CRI",
+                        "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                        "@name": "Costa Rica",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "56915cf9-6045-49c9-aba1-4e7691f23cce",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "26",
+                        "@winner_id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "56915cf9-6045-49c9-aba1-4e7691f23cce",
+                            "@away_score": "4",
+                            "@home_id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                            "@home_score": "6",
+                            "@match_id": "c3023920-3391-46a5-86ff-07557542b967",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "42610",
+                        "@city": "Recife",
+                        "@coordinates": "-8.040753,-35.008257",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "f521ee31-11fb-4359-8c96-15dbd787751f",
+                        "@name": "Arena Pernambuco"
+                    }
+                },
+                {
+                    "@id": "29d2c31a-bda2-46cd-bc43-9e445280aa4d",
+                    "@scheduled": "2014-06-30T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "NGR",
+                        "@country": "Nigeria",
+                        "@country_code": "NGA",
+                        "@id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                        "@name": "Nigeria",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "FRA",
+                        "@country": "France",
+                        "@country_code": "FRA",
+                        "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                        "@name": "France",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                            "@away_score": "0",
+                            "@home_id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                            "@home_score": "2",
+                            "@match_id": "29d2c31a-bda2-46cd-bc43-9e445280aa4d",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "69349",
+                        "@city": "Brasilia",
+                        "@coordinates": "-15.783550,-47.899249",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b7f38726-c569-4cf2-8dc7-f07059bfa7ec",
+                        "@name": "Estadio Nacional de Brasilia "
+                    }
+                },
+                {
+                    "@id": "e04c7f31-d868-4782-8eb1-ca962bf66aa4",
+                    "@scheduled": "2014-06-30T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ALG",
+                        "@country": "Algeria",
+                        "@country_code": "DZA",
+                        "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                        "@name": "Algeria",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "GER",
+                        "@country": "Germany",
+                        "@country_code": "DEU",
+                        "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@name": "Germany",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                            "@away_score": "1",
+                            "@home_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                            "@home_score": "2",
+                            "@match_id": "e04c7f31-d868-4782-8eb1-ca962bf66aa4",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "43394",
+                        "@city": "Porto Alegre",
+                        "@coordinates": "-30.065417,-51.235891",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "d060ef40-9286-4712-8586-cc594cb60875",
+                        "@name": "Estadio Beira-Rio"
+                    }
+                },
+                {
+                    "@id": "6d0589e4-694e-4aba-b36c-f193df8c00a8",
+                    "@scheduled": "2014-07-01T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "SUI",
+                        "@country": "Switzerland",
+                        "@country_code": "CHE",
+                        "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                        "@name": "Switzerland",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ARG",
+                        "@country": "Argentina",
+                        "@country_code": "ARG",
+                        "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@name": "Argentina",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                            "@away_score": "0",
+                            "@home_id": "909737d8-0424-435d-917a-3a05484322b4",
+                            "@home_score": "1",
+                            "@match_id": "6d0589e4-694e-4aba-b36c-f193df8c00a8",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "62601",
+                        "@city": "Sao Paulo",
+                        "@coordinates": "-23.545531,-46.473372",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc",
+                        "@name": "Arena de Sao Paulo "
+                    }
+                },
+                {
+                    "@id": "76ea9597-7cd1-4861-be27-e6c5f0b6612e",
+                    "@scheduled": "2014-07-01T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "USA",
+                        "@country": "United States",
+                        "@country_code": "USA",
+                        "@id": "79a99f09-13ca-45c4-b3f0-2a61f94e0651",
+                        "@name": "USA",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BEL",
+                        "@country": "Belgium",
+                        "@country_code": "BEL",
+                        "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                        "@name": "Belgium",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "79a99f09-13ca-45c4-b3f0-2a61f94e0651",
+                        "@loser_points": "0",
+                        "@name": "1/8",
+                        "@number": "4",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "79a99f09-13ca-45c4-b3f0-2a61f94e0651",
+                            "@away_score": "1",
+                            "@home_id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                            "@home_score": "2",
+                            "@match_id": "76ea9597-7cd1-4861-be27-e6c5f0b6612e",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "51900",
+                        "@city": "Salvador",
+                        "@coordinates": "-12.978746,-38.504157",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "5c14d74b-e8f2-49eb-b8d3-216ad33e1564",
+                        "@name": "Arena Fonte Nova"
+                    }
+                },
+                {
+                    "@id": "5834846e-ed52-4a3a-aeba-e346a7c2060b",
+                    "@scheduled": "2014-07-04T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GER",
+                        "@country": "Germany",
+                        "@country_code": "DEU",
+                        "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@name": "Germany",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "FRA",
+                        "@country": "France",
+                        "@country_code": "FRA",
+                        "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                        "@name": "France",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                        "@loser_points": "0",
+                        "@name": "QF",
+                        "@number": "3",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                            "@away_score": "1",
+                            "@home_id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                            "@home_score": "0",
+                            "@match_id": "5834846e-ed52-4a3a-aeba-e346a7c2060b",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "74738",
+                        "@city": "Rio de Janeiro",
+                        "@coordinates": "-22.912172,-43.230210",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "58ce7d9a-05e0-49a2-b1ac-bfa8131db618",
+                        "@name": "Estadio do Maracana"
+                    }
+                },
+                {
+                    "@id": "644d6686-6b41-4bf4-822f-43fd5f6b5dfc",
+                    "@scheduled": "2014-07-04T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "COL",
+                        "@country": "Colombia",
+                        "@country_code": "COL",
+                        "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                        "@name": "Colombia",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BRA",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@name": "Brazil",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                        "@loser_points": "0",
+                        "@name": "QF",
+                        "@number": "3",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                            "@away_score": "1",
+                            "@home_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                            "@home_score": "2",
+                            "@match_id": "644d6686-6b41-4bf4-822f-43fd5f6b5dfc",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "60342",
+                        "@city": "Fortaleza",
+                        "@coordinates": "-3.807487,-38.522542",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "153b06c6-e5fd-4b6f-98f0-b60f0404e2c5",
+                        "@name": "Estadio Castelao"
+                    }
+                },
+                {
+                    "@id": "ea1e025c-1fcf-47f4-a782-70e4e791f338",
+                    "@scheduled": "2014-07-05T16:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "BEL",
+                        "@country": "Belgium",
+                        "@country_code": "BEL",
+                        "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                        "@name": "Belgium",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "ARG",
+                        "@country": "Argentina",
+                        "@country_code": "ARG",
+                        "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@name": "Argentina",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                        "@loser_points": "0",
+                        "@name": "QF",
+                        "@number": "3",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                            "@away_score": "0",
+                            "@home_id": "909737d8-0424-435d-917a-3a05484322b4",
+                            "@home_score": "1",
+                            "@match_id": "ea1e025c-1fcf-47f4-a782-70e4e791f338",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "69349",
+                        "@city": "Brasilia",
+                        "@coordinates": "-15.783550,-47.899249",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b7f38726-c569-4cf2-8dc7-f07059bfa7ec",
+                        "@name": "Estadio Nacional de Brasilia "
+                    }
+                },
+                {
+                    "@id": "2711d14d-f2ea-4751-a400-6cdbd9b61b5e",
+                    "@scheduled": "2014-07-05T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "CRC",
+                        "@country": "Costa Rica",
+                        "@country_code": "CRI",
+                        "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                        "@name": "Costa Rica",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "NED",
+                        "@country": "Netherlands",
+                        "@country_code": "NLD",
+                        "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@name": "Netherlands",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                        "@loser_points": "0",
+                        "@name": "QF",
+                        "@number": "3",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "27",
+                        "@winner_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                            "@away_score": "3",
+                            "@home_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                            "@home_score": "4",
+                            "@match_id": "2711d14d-f2ea-4751-a400-6cdbd9b61b5e",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "51900",
+                        "@city": "Salvador",
+                        "@coordinates": "-12.978746,-38.504157",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "5c14d74b-e8f2-49eb-b8d3-216ad33e1564",
+                        "@name": "Arena Fonte Nova"
+                    }
+                },
+                {
+                    "@id": "9403f149-fd67-4590-9b1b-2de4cf70dcce",
+                    "@scheduled": "2014-07-08T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "GER",
+                        "@country": "Germany",
+                        "@country_code": "DEU",
+                        "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@name": "Germany",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BRA",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@name": "Brazil",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@loser_points": "0",
+                        "@name": "SF",
+                        "@number": "2",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "28",
+                        "@winner_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                            "@away_score": "7",
+                            "@home_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                            "@home_score": "1",
+                            "@match_id": "9403f149-fd67-4590-9b1b-2de4cf70dcce",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "58170",
+                        "@city": "Belo Horizonte",
+                        "@coordinates": "-19.865822,-43.971385",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "ac65449d-f356-47d3-8fe4-3feff7f699fe",
+                        "@name": "Mineirao Stadium"
+                    }
+                },
+                {
+                    "@id": "ae54d136-d119-429f-9a02-79854d68510b",
+                    "@scheduled": "2014-07-09T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ARG",
+                        "@country": "Argentina",
+                        "@country_code": "ARG",
+                        "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@name": "Argentina",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "NED",
+                        "@country": "Netherlands",
+                        "@country_code": "NLD",
+                        "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@name": "Netherlands",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@loser_points": "0",
+                        "@name": "SF",
+                        "@number": "2",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "28",
+                        "@winner_id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "909737d8-0424-435d-917a-3a05484322b4",
+                            "@away_score": "4",
+                            "@home_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                            "@home_score": "2",
+                            "@match_id": "ae54d136-d119-429f-9a02-79854d68510b",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "62601",
+                        "@city": "Sao Paulo",
+                        "@coordinates": "-23.545531,-46.473372",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc",
+                        "@name": "Arena de Sao Paulo "
+                    }
+                },
+                {
+                    "@id": "75e2e884-ce2d-4dbf-8b7f-1dfe169fb7e6",
+                    "@scheduled": "2014-07-12T20:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "NED",
+                        "@country": "Netherlands",
+                        "@country_code": "NLD",
+                        "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@name": "Netherlands",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "BRA",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@name": "Brazil",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                        "@loser_points": "0",
+                        "@name": "3rd",
+                        "@number": "20",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "28",
+                        "@winner_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                            "@away_score": "3",
+                            "@home_id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                            "@home_score": "0",
+                            "@match_id": "75e2e884-ce2d-4dbf-8b7f-1dfe169fb7e6",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "69349",
+                        "@city": "Brasilia",
+                        "@coordinates": "-15.783550,-47.899249",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "b7f38726-c569-4cf2-8dc7-f07059bfa7ec",
+                        "@name": "Estadio Nacional de Brasilia "
+                    }
+                },
+                {
+                    "@id": "22653ed5-0b2c-4e30-b10c-c6d51619b52b",
+                    "@scheduled": "2014-07-13T19:00:00Z",
+                    "@scratched": "false",
+                    "@status": "closed",
+                    "away": {
+                        "@alias": "ARG",
+                        "@country": "Argentina",
+                        "@country_code": "ARG",
+                        "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@name": "Argentina",
+                        "@type": "team"
+                    },
+                    "category": {
+                        "@country": "International",
+                        "@country_code": "XZ",
+                        "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                        "@name": "International"
+                    },
+                    "home": {
+                        "@alias": "GER",
+                        "@country": "Germany",
+                        "@country_code": "DEU",
+                        "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@name": "Germany",
+                        "@type": "team"
+                    },
+                    "round": {
+                        "@aggregate": "false",
+                        "@loser_id": "909737d8-0424-435d-917a-3a05484322b4",
+                        "@loser_points": "0",
+                        "@name": "F",
+                        "@number": "1",
+                        "@scheduled_legs": "1",
+                        "@type": "cup",
+                        "@week": "28",
+                        "@winner_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                        "@winner_points": "1",
+                        "leg": {
+                            "@away_id": "909737d8-0424-435d-917a-3a05484322b4",
+                            "@away_score": "0",
+                            "@home_id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                            "@home_score": "1",
+                            "@match_id": "22653ed5-0b2c-4e30-b10c-c6d51619b52b",
+                            "@number": "1",
+                            "@status": "closed"
+                        }
+                    },
+                    "tournament": {
+                        "@id": "9fb7b7d4-ecc4-462f-8a21-881644527030",
+                        "@name": "World Cup, Knockout stage",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T23:59:00Z",
+                        "@season_start": "2014-06-28T00:00:00Z"
+                    },
+                    "tournament_group": {
+                        "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                        "@name": "World Championship",
+                        "@season": "2014",
+                        "@season_end": "2014-07-14T21:59:00Z",
+                        "@season_start": "2014-06-11T22:00:00Z"
+                    },
+                    "venue": {
+                        "@capacity": "74738",
+                        "@city": "Rio de Janeiro",
+                        "@coordinates": "-22.912172,-43.230210",
+                        "@country": "Brazil",
+                        "@country_code": "BRA",
+                        "@id": "58ce7d9a-05e0-49a2-b1ac-bfa8131db618",
+                        "@name": "Estadio do Maracana"
+                    }
+                }
+            ]
+        }
+    }
+}

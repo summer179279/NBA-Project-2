@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:51:05 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="f0ba938e-d631-48d3-9618-e0090a68a02d" status="ACT" full_name="Quincy Miller" first_name="Quincy" last_name="Miller" abbr_name="Q.Miller" height="81" weight="210" position="F" primary_position="SF" jersey_number="30" experience="1" college="Baylor" birth_place="North Chicago, IL, USA" birthdate="1992-11-18" updated="2013-07-23T14:15:44+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" alias="DEN"/>
+  <draft team_id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" year="2012" round="2" pick="38"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver" alias="DEN">
+        <statistics>
+          <total games_played="52" games_started="16" minutes="789.0" field_goals_made="94" field_goals_att="256" three_points_made="30" three_points_att="94" blocked_att="17" free_throws_made="39" free_throws_att="55" offensive_rebounds="36" defensive_rebounds="111" assists="26" turnovers="48" steals="22" blocks="32" personal_fouls="70" tech_fouls="0" points="257" flagrant_fouls="0" free_throws_pct="0.709" two_points_pct="0.395" three_points_pct="0.319" field_goals_pct="0.367" rebounds="147" assists_turnover_ratio="0.54" two_points_made="64" two_points_att="162"/>
+          <average points="4.9" blocked_att="0.33" turnovers="0.92" free_throws_att="1.06" field_goals_att="4.92" off_rebounds="0.69" two_points_att="3.12" assists="0.5" blocks="0.62" personal_fouls="1.35" two_points_made="1.23" flagrant_fouls="0.0" rebounds="2.83" three_points_made="0.58" minutes="15.2" def_rebounds="2.13" free_throws_made="0.75" field_goals_made="1.81" steals="0.42" three_points_att="1.81"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:51:05 +0000 -->

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-07 21:22:20 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="f5163a3f-f880-4c2c-ac9b-00db844246b2" status="ACT" full_name="Chris Bosh" first_name="Chris" last_name="Bosh" abbr_name="C.Bosh" height="83" weight="235" position="C-F" primary_position="C" jersey_number="1" experience="10" college="Georgia Tech" birth_place="Dallas, TX, USA" birthdate="1984-03-24" updated="2014-02-27T21:54:50+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" name="Heat" market="Miami" alias="MIA"/>
+  <draft team_id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" year="2003" round="1" pick="4"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" name="Heat" market="Miami" alias="MIA">
+        <statistics>
+          <total games_played="79" games_started="79" minutes="2531.0" field_goals_made="492" field_goals_att="953" three_points_made="74" three_points_att="218" blocked_att="32" free_throws_made="223" free_throws_att="272" offensive_rebounds="98" defensive_rebounds="424" assists="87" turnovers="125" steals="80" blocks="78" personal_fouls="192" tech_fouls="3" points="1281" flagrant_fouls="0" free_throws_pct="0.82" two_points_pct="0.569" three_points_pct="0.339" field_goals_pct="0.516" rebounds="522" assists_turnover_ratio="0.7" two_points_made="418" two_points_att="735"/>
+          <average points="16.2" blocked_att="0.41" turnovers="1.58" free_throws_att="3.44" field_goals_att="12.06" off_rebounds="1.24" two_points_att="9.3" assists="1.1" blocks="0.99" personal_fouls="2.43" two_points_made="5.29" flagrant_fouls="0.0" rebounds="6.61" three_points_made="0.94" minutes="32.0" def_rebounds="5.37" free_throws_made="2.82" field_goals_made="6.23" steals="1.01" three_points_att="2.76"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-07-07 21:22:20 +0000 -->

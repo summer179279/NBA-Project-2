@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:21:21Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="b7adbc34-9f79-4049-8507-2d5d45d20151" country_code="ARG" preferred_foot="R" height_in="74" weight_lb="182" height_cm="187" weight_kg="82" first_name="Ezequiel" last_name="Garay" country="Argentina">
+    <teams>
+      <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" country_code="ARG" position="D" is_manager="false" is_player="true" country="Argentina" jersey_number="2"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="7" matches_started="0" minutes_played="630" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="8" matches_started="0" minutes_played="750" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="3e85e074-47dc-40bd-b8d5-9c9ed8b0b443" name="Benfica Lisbon" alias="BEN" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="6" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="27" matches_started="0" minutes_played="2424" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="ed663318-5add-4c8c-b3e4-af451d330fb9" name="Primeira Liga"/>
+          <team id="3e85e074-47dc-40bd-b8d5-9c9ed8b0b443" name="Benfica Lisbon" alias="BEN" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="360" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="1c458580-c792-414e-b248-10203d03a826" name="Taca de Portugal"/>
+          <tournament id="5ae3c6f5-a098-4fce-adb8-248bd7f943bb" name="Taca de Portugal"/>
+          <team id="3e85e074-47dc-40bd-b8d5-9c9ed8b0b443" name="Benfica Lisbon" alias="BEN" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="233" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="452c7239-70ec-4449-8b6e-2624845089b8" name="League Cup"/>
+          <team id="3e85e074-47dc-40bd-b8d5-9c9ed8b0b443" name="Benfica Lisbon" alias="BEN" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="6" matches_started="0" minutes_played="540" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="3e85e074-47dc-40bd-b8d5-9c9ed8b0b443" name="Benfica Lisbon" alias="BEN" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 14914/1405922803 -->
+  </player>
+</profile>

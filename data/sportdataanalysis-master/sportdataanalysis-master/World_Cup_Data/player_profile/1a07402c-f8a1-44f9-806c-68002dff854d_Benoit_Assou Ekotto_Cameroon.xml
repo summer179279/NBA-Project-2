@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:30:11Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="1a07402c-f8a1-44f9-806c-68002dff854d" country_code="CMR" preferred_foot="L" height_in="70" weight_lb="152" height_cm="177" weight_kg="68" first_name="Benoit" last_name="Assou Ekotto" country="Cameroon">
+    <teams>
+      <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" country_code="CMR" position="D" is_manager="false" is_player="true" country="Cameroon" jersey_number="2"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="65da41c2-5231-42a1-acb9-7fe295b12fc7" name="Queens Park Rangers" alias="QPR" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="9fa72432-b059-4a30-9519-699e84fe85ca" name="Prem League Asia Trophy"/>
+          <tournament id="f99c995b-6e78-4281-84ad-79fcd7279e54" name="Premier League Asia Trophy"/>
+          <team id="e5de594d-65ce-432d-9704-4e3f7bb4a339" name="Tottenham Hotspur" alias="TOT" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="31" matches_started="0" minutes_played="2716" yellow_cards="4" yellow_red_cards="1" red_cards="-1" substitutions_out="4" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="86eacef9-75ae-4c3e-b308-db5190e25dc0" name="Championship"/>
+          <team id="65da41c2-5231-42a1-acb9-7fe295b12fc7" name="Queens Park Rangers" alias="QPR" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 3413/1405922536 -->
+  </player>
+</profile>

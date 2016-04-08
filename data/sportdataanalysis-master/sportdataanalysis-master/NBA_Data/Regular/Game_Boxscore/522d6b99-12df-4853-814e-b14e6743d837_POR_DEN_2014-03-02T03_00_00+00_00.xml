@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-02 06:00:48 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="522d6b99-12df-4853-814e-b14e6743d837" status="closed" coverage="full" home_team="583ed056-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ed102-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-02T03:00:00+00:00" duration="2:21" attendance="20068" lead_changes="4" times_tied="2" clock="00:00" quarter="4">
+  <team name="Trail Blazers" market="Portland" id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" points="102">
+    <scoring>
+      <quarter number="1" sequence="1" points="32"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="28"/>
+      <quarter number="4" sequence="4" points="18"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Robin Lopez" position="C" primary_position="C" jersey_number="42" id="e521ef3c-7892-4f14-a560-df320872d59a">
+          <statistics minutes="31:36" field_goals_made="5" field_goals_att="9" field_goals_pct="55.6" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="5" two_points_att="9" two_points_pct="0.556" blocked_att="0" free_throws_made="8" free_throws_att="8" free_throws_pct="100.0" offensive_rebounds="3" defensive_rebounds="6" rebounds="9" assists="2" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="2.0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="10" points="18"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Nicolas Batum" position="F" primary_position="SF" jersey_number="88" id="a89ac040-715d-4057-8fc0-9d71ad06fa0a">
+          <statistics minutes="36:04" field_goals_made="3" field_goals_att="10" field_goals_pct="30.0" three_points_made="1" three_points_att="5" three_points_pct="20.0" two_points_made="2" two_points_att="5" two_points_pct="0.4" blocked_att="1" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="15" rebounds="16" assists="6" turnovers="4" steals="1" blocks="0" assists_turnover_ratio="1.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="6" points="9"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Nicolas Batum" position="F" primary_position="SF" jersey_number="88" id="a89ac040-715d-4057-8fc0-9d71ad06fa0a">
+          <statistics minutes="36:04" field_goals_made="3" field_goals_att="10" field_goals_pct="30.0" three_points_made="1" three_points_att="5" three_points_pct="20.0" two_points_made="2" two_points_att="5" two_points_pct="0.4" blocked_att="1" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="15" rebounds="16" assists="6" turnovers="4" steals="1" blocks="0" assists_turnover_ratio="1.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="6" points="9"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Nuggets" market="Denver" id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" points="96">
+    <scoring>
+      <quarter number="1" sequence="1" points="24"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="25"/>
+      <quarter number="4" sequence="4" points="23"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Evan Fournier" position="G" primary_position="SG" jersey_number="94" id="b736d95c-8474-48b2-9000-24ce926eace3">
+          <statistics minutes="32:25" field_goals_made="4" field_goals_att="9" field_goals_pct="44.4" three_points_made="1" three_points_att="5" three_points_pct="20.0" two_points_made="3" two_points_att="4" two_points_pct="0.75" blocked_att="0" free_throws_made="7" free_throws_att="8" free_throws_pct="87.5" offensive_rebounds="1" defensive_rebounds="6" rebounds="7" assists="4" turnovers="0" steals="2" blocks="0" assists_turnover_ratio="0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="6" points="16"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kenneth Faried" position="F" primary_position="PF" jersey_number="35" id="6ee485e1-534f-4d07-9492-c30b1ae9d607">
+          <statistics minutes="31:49" field_goals_made="5" field_goals_att="12" field_goals_pct="41.7" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="5" two_points_att="12" two_points_pct="0.417" blocked_att="2" free_throws_made="6" free_throws_att="7" free_throws_pct="85.7" offensive_rebounds="5" defensive_rebounds="5" rebounds="10" assists="2" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="2.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-5" points="16"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Evan Fournier" position="G" primary_position="SG" jersey_number="94" id="b736d95c-8474-48b2-9000-24ce926eace3">
+          <statistics minutes="32:25" field_goals_made="4" field_goals_att="9" field_goals_pct="44.4" three_points_made="1" three_points_att="5" three_points_pct="20.0" two_points_made="3" two_points_att="4" two_points_pct="0.75" blocked_att="0" free_throws_made="7" free_throws_att="8" free_throws_pct="87.5" offensive_rebounds="1" defensive_rebounds="6" rebounds="7" assists="4" turnovers="0" steals="2" blocks="0" assists_turnover_ratio="0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="6" points="16"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-02 06:00:48 +0000 -->

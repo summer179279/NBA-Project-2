@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:23:09Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="6d45e36b-f057-4bdd-8466-761fe563d87f" country_code="DEU" preferred_foot="R" height_in="72" weight_lb="149" height_cm="182" weight_kg="67" first_name="Julian" last_name="Draxler" country="Germany">
+    <teams>
+      <team id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" country_code="DEU" position="M" is_manager="false" is_player="true" country="Germany" jersey_number="14"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="110" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="3">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="2" matches_started="0" minutes_played="174" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="60512f08-0c2e-4a73-8aa8-0ba97354311f" name="DFB Pokal"/>
+          <tournament id="b6e34a03-7dfa-4c28-9ecc-b738122be8b5" name="DFB Pokal"/>
+          <team id="36f416b4-961d-40c1-9fe3-13ddfb068579" name="FC Schalke 04" alias="S04" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="6" matches_played="26" matches_started="0" minutes_played="2152" yellow_cards="5" yellow_red_cards="-1" red_cards="-1" substitutions_out="10" substitutions_in="1">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga"/>
+          <team id="36f416b4-961d-40c1-9fe3-13ddfb068579" name="FC Schalke 04" alias="S04" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="4" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="10" matches_started="0" minutes_played="774" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="36f416b4-961d-40c1-9fe3-13ddfb068579" name="FC Schalke 04" alias="S04" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 142680/1405922618 -->
+  </player>
+</profile>

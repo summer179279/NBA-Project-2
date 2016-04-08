@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:28:41Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="661c460e-18c2-41c0-8e98-41c3d2476ad7" country_code="AUS" preferred_foot="L" height_in="72" weight_lb="167" height_cm="182" weight_kg="75" first_name="Oliver" last_name="Bozanic" country="Australia">
+    <teams>
+      <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" country_code="AUS" position="M" is_manager="false" is_player="true" country="Australia" jersey_number="13"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="111" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="46" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+          <tournament_group id="6c6db68b-9b4b-43a3-b8a3-8e6704b3da80" name="Schweizer Cup"/>
+          <tournament id="19663fc4-8d80-45ee-96a8-de40b95bbd7b" name="Schweizer Cup"/>
+          <team id="2bcbc745-68cc-4489-9fdb-721b30a46310" name="FC Luzern" alias="LUZ" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="28" matches_started="0" minutes_played="1929" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="9" substitutions_in="6">
+          <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+          <tournament_group id="2a457785-6abb-45af-968d-81e14d9cd42a" name="Super League"/>
+          <tournament id="2449e1bd-35bf-442f-81b4-2ee268a050ca" name="Super League"/>
+          <team id="2bcbc745-68cc-4489-9fdb-721b30a46310" name="FC Luzern" alias="LUZ" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 26936/1405922838 -->
+  </player>
+</profile>

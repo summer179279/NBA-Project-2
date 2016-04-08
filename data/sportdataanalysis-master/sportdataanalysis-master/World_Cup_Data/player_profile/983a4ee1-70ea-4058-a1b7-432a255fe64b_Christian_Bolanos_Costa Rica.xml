@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:11:14Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="983a4ee1-70ea-4058-a1b7-432a255fe64b" country_code="CRI" preferred_foot="R" height_in="70" weight_lb="147" height_cm="177" weight_kg="66" first_name="Christian" last_name="Bolanos" country="Costa Rica">
+    <teams>
+      <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" country_code="CRI" position="M" is_manager="false" is_player="true" country="Costa Rica" jersey_number="7"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="5" matches_started="0" minutes_played="413" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="159" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="25f72edd-dbf5-4790-afa7-5fbb0dafeb37" name="WC Qualif., CONCACAF"/>
+          <team id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="6" matches_started="0" minutes_played="313" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="4">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="d6b06f26-6710-48d6-99ff-3d2c52373ebb" name="FC Copenhagen" alias="FCC" country_code="DNK" country="Denmark" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="22" matches_started="0" minutes_played="1353" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="12" substitutions_in="5">
+          <category id="44a9cc8d-d1a6-4834-8340-d0ba3ff6a825" name="Denmark" country_code="DNK" country="Denmark"/>
+          <tournament_group id="c563045a-1b31-4208-a1c4-97634a62e036" name="Superligaen"/>
+          <tournament id="e1865345-e040-4131-adb8-df8b92ff9df3" name="Superligaen"/>
+          <team id="d6b06f26-6710-48d6-99ff-3d2c52373ebb" name="FC Copenhagen" alias="FCC" country_code="DNK" country="Denmark" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="157" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="44a9cc8d-d1a6-4834-8340-d0ba3ff6a825" name="Denmark" country_code="DNK" country="Denmark"/>
+          <tournament_group id="8e853893-bb8e-406a-93fe-274f8cdea21e" name="DBU Pokalen"/>
+          <tournament id="b38bdd35-cb2c-4c4a-89ef-335315c456fb" name="DBU Pokalen"/>
+          <team id="d6b06f26-6710-48d6-99ff-3d2c52373ebb" name="FC Copenhagen" alias="FCC" country_code="DNK" country="Denmark" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 11381/1405951678 -->
+  </player>
+</profile>

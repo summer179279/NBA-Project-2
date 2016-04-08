@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:38:14Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="3c65639a-4fc0-4d60-9917-97d263a7dd61" status="closed" scratched="false" period="P2" scheduled="2014-06-22T22:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G"/>
+      <round week="25" number="2" type="table"/>
+      <home id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" formation="4-2-3-1" score="2" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="79" ball_safe="80" corner_kicks="6" dangerous_attacks="35" fouls="11" free_kicks="18" goal_attempts="10" goal_kicks="14" offsides="1" saves="4" shots_total="10" substitutions="3" throw_ins="15" yellow_card="1" shots_on_target="5" shots_off_target="5" possessions="46"/>
+        <players>
+          <player id="58fae309-af83-46ee-99ea-59421f1e9a17" country_code="USA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="John Anthony" last_name="Brooks" country="United States" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1c9a5732-2508-43d7-be83-1fdc5e7cc7c8" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Mix" last_name="Diskerud" country="United States" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2aeacd39-3f9c-42af-957e-9df8573973c4" country_code="USA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Kyle" last_name="Beckerman" country="United States" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8eea7287-6ca1-42f9-b5fd-641b7f700016" country_code="USA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Aron" last_name="Johannsson" country="United States" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e5563330-66f6-4f3b-be61-f52c6714c3c4" country_code="USA" position="D" started="false" tactical_position="5" tactical_order="8" first_name="DeAndre" last_name="Yedlin" country="United States" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="3acd13a3-eb74-4116-9933-b23c49ca5464" country_code="USA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Tim" last_name="Howard" country="United States" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0328f4e4-a62f-46d0-9c53-081b7cb7d9e9" country_code="USA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jozy" last_name="Altidore" country="United States" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1c0dab95-831d-42a5-b796-a76c73d3fe52" country_code="USA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Jermaine" last_name="Jones" country="United States" jersey_number="13">
+            <statistics goal="1" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6589af3e-2247-41f5-b40a-7ef9c16690a4" country_code="USA" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Alejandro" last_name="Bedoya" country="United States" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="9a285c9d-8a7b-403a-8828-d2dea32bf822" country_code="USA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Matt" last_name="Besler" country="United States" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="11cb9025-83a5-45f8-a4dc-a6f62eb0e930" country_code="USA" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Chris" last_name="Wondolowski" country="United States" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5c376e14-9d2d-4f68-9d44-217ed1617563" country_code="USA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Timothy" last_name="Chandler" country="United States" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ee46734e-0e74-4f6e-bf1d-1de7c23ff618" country_code="USA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Michael" last_name="Bradley" country="United States" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4c712e71-6e7c-4a76-adfa-67975c05a8d8" country_code="USA" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Graham" last_name="Zusi" country="United States" jersey_number="19">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="01ab4727-0c6f-4fdc-8efb-2b9c97e26561" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Julian" last_name="Green" country="United States" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3e6d40a1-4a89-4596-85d9-fbad55e08b91" country_code="USA" position="D" started="false" tactical_position="7" tactical_order="10" first_name="Omar" last_name="Gonzalez" country="United States" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="20437cc7-925c-45a6-8a48-abae08f58e8f" country_code="USA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Nick" last_name="Rimando" country="United States" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0" country_code="USA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Fabian" last_name="Johnson" country="United States" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="46c6eccd-d923-4a22-901e-522a2f69f25a" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Brad" last_name="Davis" country="United States" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2d6c63df-bd7c-4a32-9b52-51204157296f" country_code="USA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Brad" last_name="Guzan" country="United States" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4666f663-32d9-4b9d-ad4e-5bc861eae2bd" country_code="USA" position="M" started="true" tactical_position="4" tactical_order="5" first_name="DaMarcus" last_name="Beasley" country="United States" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e342e841-b09b-4c3f-929c-8f0dd4ec437a" country_code="USA" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Clint" last_name="Dempsey" country="United States" jersey_number="8">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="25441ac7-584c-41a9-a255-c7ac5f1e8e2f" country_code="USA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Geoff" last_name="Cameron" country="United States" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team" formation="4-3-3" score="2" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="83" ball_safe="75" corner_kicks="4" dangerous_attacks="50" fouls="14" free_kicks="12" goal_attempts="17" goal_kicks="8" offsides="4" saves="3" shots_total="17" substitutions="3" throw_ins="16" yellow_card="0" shots_on_target="7" shots_off_target="10" possessions="54"/>
+        <players>
+          <player id="3ed3668b-1445-4702-8e86-7f8b98ebcb95" country_code="PRT" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Rafa Silva" last_name="" country="Portugal" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="12a05993-0eac-42bc-86cf-2d13958536c5" country_code="PRT" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Joao" last_name="Pereira" country="Portugal" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2a2f2c3b-c005-4648-9b6e-66ba71b2b4bd" country_code="PRT" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Vieirinha" last_name="" country="Portugal" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5b80be7b-8e42-430b-8a13-e58514344279" country_code="PRT" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Helder" last_name="Postiga" country="Portugal" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="c29e8d7b-ff8f-413e-98ee-69d8b1ffd95a" country_code="PRT" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Bruno" last_name="Alves" country="Portugal" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="fe955020-0e2c-4cd2-914e-c8ea89fb2664" country_code="PRT" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Fabio" last_name="Coentrao" country="Portugal" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1b99177c-9e04-46aa-abf5-8d01a02d64b4" country_code="PRT" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Joao" last_name="Moutinho" country="Portugal" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2fc9bb0c-925a-4b30-88c9-ee0e115dad60" country_code="PRT" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ruben" last_name="Amorim" country="Portugal" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="46b82de5-b1ca-41f7-93b0-e2686c41d91c" country_code="PRT" position="M" started="false" tactical_position="4" tactical_order="5" first_name="William" last_name="Carvalho" country="Portugal" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4410102a-246a-4e90-8366-396576319fb0" country_code="PRT" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Andre" last_name="Almeida" country="Portugal" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="02013139-01a2-44ee-97e1-25bb26b5b420" country_code="PRT" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Nani" last_name="" country="Portugal" jersey_number="17">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="28838af3-7780-4da3-a9d2-723f789a71d7" country_code="PRT" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Beto" last_name="" country="Portugal" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="000d99da-8ed9-49f8-a6b1-345202dcb60c" country_code="PRT" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Ricardo" last_name="Costa" country="Portugal" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4eaeb09e-bc91-4678-8454-b44bec90cc91" country_code="PRT" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Rui" last_name="Patricio" country="Portugal" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="311a7e3c-5727-4bd3-898c-dfb9691b903d" country_code="PRT" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Pepe" last_name="" country="Portugal" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b887c1a8-da18-452d-8c05-7502b7b54b36" country_code="PRT" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Miguel" last_name="Veloso" country="Portugal" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5e5db9fc-dd0b-4c9c-81a3-656d73414572" country_code="PRT" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Hugo" last_name="Almeida" country="Portugal" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="77cbc3f1-d349-442d-aeec-420e399d5d9c" country_code="PRT" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Raul" last_name="Meireles" country="Portugal" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0e52c949-72bd-48c2-a6bd-9f2fd89091c3" country_code="PRT" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Silvestre" last_name="Varela" country="Portugal" jersey_number="18">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="e4b3f188-278a-478a-b7c5-605840333c3f" country_code="PRT" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Luis" last_name="Neto" country="Portugal" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d659b35a-58ab-4407-b366-a223cb54ea52" country_code="PRT" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Eder" last_name="" country="Portugal" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="e32745de-db22-4515-80f2-ac13d0353ae5" country_code="PRT" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Cristiano Ronaldo" last_name="" country="Portugal" jersey_number="7">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cd5537e-552f-498b-8499-6ef8c93b0cb7" country_code="PRT" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Eduardo" last_name="" country="Portugal" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="27a95916-e1f4-4174-aa96-876d7ebe4f19" name="Arena Amazonia" country_code="BRA" city="Manaus" capacity="40549" country="Brazil" coordinates="-3.083260,-60.028107"/>
+      <facts>
+        <fact id="80df5681-538c-4547-92c9-689a8cea85c3" type="match_started" time="2014-06-22T22:00:10Z" updated_time="2014-06-22T22:00:10Z" scratch="false" clock="1" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>The match is underway in Manaus.</description>
+        </fact>
+        <fact id="635656d6-99a7-4909-a06b-14c1b607049c" type="period_started" time="2014-06-22T22:00:10Z" updated_time="2014-06-22T22:00:10Z" scratch="false" period="P1"/>
+        <fact id="b43485a4-23e1-4bea-a592-7ba395fc2cf8" type="goal_kick" time="2014-06-22T22:00:45Z" updated_time="2014-06-22T22:00:45Z" scratch="false" x="95" y="50" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a goal kick.</description>
+        </fact>
+        <fact id="f28c53c1-87ae-4f97-b93f-6031a4c93184" type="throwin" time="2014-06-22T22:01:34Z" updated_time="2014-06-22T22:01:34Z" scratch="false" x="13" y="2" clock="1" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="714289a1-1803-4b28-a504-332eba67951e" type="free_kick" time="2014-06-22T22:01:53Z" updated_time="2014-06-22T22:01:53Z" scratch="false" x="13" y="2" clock="1" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4f29dbef-1fff-4400-ba57-90860632c5d6" type="throwin" time="2014-06-22T22:02:21Z" updated_time="2014-06-22T22:02:21Z" scratch="false" x="69" y="1" clock="2" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in Portugal.</description>
+        </fact>
+        <fact id="9e1f7cfc-e614-47c7-a4d7-f1d348cdf249" type="throwin" time="2014-06-22T22:02:46Z" updated_time="2014-06-22T22:02:46Z" scratch="false" x="63" y="0" clock="2" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal in their own half.</description>
+        </fact>
+        <fact id="5ed1abc0-0961-4075-8008-c32a1f92b7d0" type="throwin" time="2014-06-22T22:03:46Z" updated_time="2014-06-22T22:03:46Z" scratch="false" x="37" y="1" clock="3" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="6db51caa-5733-498d-b5aa-c0103b05c750" type="free_kick" time="2014-06-22T22:04:03Z" updated_time="2014-06-22T22:04:03Z" scratch="false" x="64" y="31" clock="3" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana signals a free kick to USA.</description>
+        </fact>
+        <fact id="e1760344-e035-4ff2-8060-7e82e18a0e26" type="goal" time="2014-06-22T22:05:05Z" updated_time="2014-06-22T22:05:05Z" scratch="false" x="16" y="34" clock="5" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="02013139-01a2-44ee-97e1-25bb26b5b420">
+          <description>Portugal take a 0-1 lead thanks to Nani.</description>
+        </fact>
+        <fact id="6b3e000f-bfc2-4814-8b75-addf529f288e" type="corner_kick" time="2014-06-22T22:07:28Z" updated_time="2014-06-22T22:07:28Z" scratch="false" x="5" y="90" clock="7" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="90b20e02-be7a-4578-9dce-f8597a8ea59e" type="free_kick" time="2014-06-22T22:08:52Z" updated_time="2014-06-22T22:08:52Z" scratch="false" x="33" y="36" clock="8" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="ad4c43a1-6e52-466d-896f-3e06f23985be" type="shot_blocked" time="2014-06-22T22:10:15Z" updated_time="2014-06-22T22:10:15Z" scratch="false" x="93" y="94" clock="10" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Fabian Johnson (USA) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="02b8ca91-1b8c-475a-be61-7d6d48e09c5d" type="throwin" time="2014-06-22T22:10:49Z" updated_time="2014-06-22T22:10:49Z" scratch="false" x="66" y="98" clock="10" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana signals a USA throw-in in Portugal's half.</description>
+        </fact>
+        <fact id="3e48c2d7-46f6-4f53-8e4e-17e012dc6c53" type="throwin" time="2014-06-22T22:11:04Z" updated_time="2014-06-22T22:11:04Z" scratch="false" x="44" y="1" clock="10" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Amazonia.</description>
+        </fact>
+        <fact id="c24a4656-702c-4a4a-90d8-95f60566bb25" type="corner_kick" time="2014-06-22T22:10:27Z" updated_time="2014-06-22T22:10:27Z" scratch="false" x="95" y="90" clock="11" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Corner awarded to USA.</description>
+        </fact>
+        <fact id="5b8808a1-2032-4e05-83a7-9a017056ed3f" type="free_kick" time="2014-06-22T22:11:55Z" updated_time="2014-06-22T22:11:55Z" scratch="false" x="76" y="67" clock="11" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Free kick USA.</description>
+        </fact>
+        <fact id="1063d17c-9c0a-49ae-a7fb-b31d7fb4a8d0" type="shot_off_target" time="2014-06-22T22:13:08Z" updated_time="2014-06-22T22:13:08Z" scratch="false" x="77" y="69" clock="13" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>USA's Clint Dempsey misses with an attempt on goal.</description>
+        </fact>
+        <fact id="8ddcd64e-0731-4ff3-8366-40bceceabc4e" type="goal_kick" time="2014-06-22T22:13:09Z" updated_time="2014-06-22T22:13:09Z" scratch="false" x="95" y="50" clock="13" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Goal kick for Portugal at Arena Amazonia.</description>
+        </fact>
+        <fact id="3945301f-f55c-4d33-8efa-163ec44ef9ad" type="injury" time="2014-06-22T22:13:59Z" updated_time="2014-06-22T22:15:50Z" scratch="false" x="90" y="52" clock="14" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="77cbc3f1-d349-442d-aeec-420e399d5d9c">
+          <description>Raul Meireles is down and play has been interrupted for a few moments.</description>
+        </fact>
+        <fact id="cc87e1df-0a8e-4bee-ba2d-4d4b92332c1f" type="substitution" time="2014-06-22T22:15:41Z" updated_time="2014-06-22T22:15:41Z" scratch="false" clock="15" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_out_id="5b80be7b-8e42-430b-8a13-e58514344279" player_in_id="d659b35a-58ab-4407-b366-a223cb54ea52">
+          <description>Eder (Portugal) has replaced the possibly injured Helder Postiga.</description>
+        </fact>
+        <fact id="b467fe54-0195-4d44-a0cd-56bd1b0154e9" type="game_resumed" time="2014-06-22T22:15:41Z" updated_time="2014-06-22T22:15:41Z" scratch="false" clock="15">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="3ca94866-bf79-4439-8bd6-a77d301b5cf0" type="injury_return" time="2014-06-22T22:15:50Z" updated_time="2014-06-22T22:15:50Z" scratch="false" clock="15" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="77cbc3f1-d349-442d-aeec-420e399d5d9c">
+          <description>Raul Meireles is back on the pitch.</description>
+        </fact>
+        <fact id="fa903cb3-0ad5-4277-916a-71c68463fa9b" type="keeper_save" time="2014-06-22T22:17:05Z" updated_time="2014-06-22T22:17:05Z" scratch="false" x="94" y="93" clock="16" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="dd8ba171-dcc6-45de-8780-8eefcf3c8e62" type="shot_on_target" time="2014-06-22T22:17:05Z" updated_time="2014-06-22T22:17:05Z" scratch="false" x="94" y="93" clock="17" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>USA drive forward and Clint Dempsey gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="39d61502-792d-4977-bb2e-0c9be536f32c" type="corner_kick" time="2014-06-22T22:17:15Z" updated_time="2014-06-22T22:17:15Z" scratch="false" x="95" y="90" clock="17" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Corner awarded to USA.</description>
+        </fact>
+        <fact id="287c5e68-978f-4686-ac24-791df4dd0d2a" type="shot_off_target" time="2014-06-22T22:17:32Z" updated_time="2014-06-22T22:17:37Z" scratch="false" x="95" y="90" clock="18" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>USA's Clint Dempsey breaks free at Arena Amazonia. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="58771d6d-abde-4586-ba46-abfbae74e9a3" type="goal_kick" time="2014-06-22T22:17:32Z" updated_time="2014-06-22T22:17:32Z" scratch="false" x="95" y="50" clock="18" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ball goes out of play for a Portugal goal kick.</description>
+        </fact>
+        <fact id="629da580-ab22-4ad2-853a-6919b5e56d48" type="throwin" time="2014-06-22T22:19:48Z" updated_time="2014-06-22T22:19:48Z" scratch="false" x="15" y="98" clock="19" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a dangerous throw-in.</description>
+        </fact>
+        <fact id="14c11061-e4f2-4e01-89b7-a8f32db0b437" type="throwin" time="2014-06-22T22:20:05Z" updated_time="2014-06-22T22:20:05Z" scratch="false" x="26" y="99" clock="19" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Can Portugal get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="984d3d5c-1b8c-465e-a69c-3d7b78b8072a" type="free_kick" time="2014-06-22T22:20:54Z" updated_time="2014-06-22T22:21:17Z" scratch="false" x="44" y="63" clock="21" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="b27695b4-afef-438d-99a0-0faba08cad41" type="throwin" time="2014-06-22T22:21:57Z" updated_time="2014-06-22T22:21:57Z" scratch="false" x="87" y="1" clock="21" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in Portugal.</description>
+        </fact>
+        <fact id="3ae804e7-3427-4e63-8a06-f397093bc6a8" type="shot_off_target" time="2014-06-22T22:21:23Z" updated_time="2014-06-22T22:21:29Z" scratch="false" x="44" y="63" clock="22" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="1b99177c-9e04-46aa-abf5-8d01a02d64b4">
+          <description>Portugal are pushing forward but Joao Moutinho's finish is wide of the goal.</description>
+        </fact>
+        <fact id="70daeedf-d84f-48aa-8bbb-460f332a3ba2" type="goal_kick" time="2014-06-22T22:21:23Z" updated_time="2014-06-22T22:21:23Z" scratch="false" x="5" y="50" clock="22" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana awards USA a goal kick.</description>
+        </fact>
+        <fact id="e1c5b27f-8dc8-40bb-83f4-3a9884af7f23" type="throwin" time="2014-06-22T22:22:19Z" updated_time="2014-06-22T22:22:19Z" scratch="false" x="56" y="1" clock="22" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal in their own half.</description>
+        </fact>
+        <fact id="9a1c95e2-9628-4524-b73c-f938289215f1" type="free_kick" time="2014-06-22T22:24:02Z" updated_time="2014-06-22T22:24:02Z" scratch="false" x="34" y="48" clock="23" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Free kick Portugal.</description>
+        </fact>
+        <fact id="6f31e014-6787-4ab6-83af-c2d33d1ade92" type="shot_off_target" time="2014-06-22T22:23:35Z" updated_time="2014-06-22T22:23:40Z" scratch="false" x="81" y="58" clock="24" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="ee46734e-0e74-4f6e-bf1d-1de7c23ff618">
+          <description>USA are coming forward and Michael Bradley gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="b30ab054-c8b5-46a2-abe9-e268fbeced55" type="goal_kick" time="2014-06-22T22:23:35Z" updated_time="2014-06-22T22:23:35Z" scratch="false" x="95" y="50" clock="24" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana awards Portugal a goal kick.</description>
+        </fact>
+        <fact id="902ad26a-5d8f-4014-a405-fa18caf65fdc" type="throwin" time="2014-06-22T22:24:14Z" updated_time="2014-06-22T22:24:14Z" scratch="false" x="35" y="0" clock="24" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="8348bf1c-48f5-4520-a9ee-0ec2f346698d" type="goal_kick" time="2014-06-22T22:25:46Z" updated_time="2014-06-22T22:25:46Z" scratch="false" x="5" y="50" clock="25" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="806c86a2-82fd-4ab6-97b9-83442801be01" type="shot_blocked" time="2014-06-22T22:27:03Z" updated_time="2014-06-22T22:27:03Z" scratch="false" x="96" y="95" clock="27" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Clint Dempsey (USA) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="e2645128-039c-401f-8975-182ab6b8d667" type="corner_kick" time="2014-06-22T22:27:21Z" updated_time="2014-06-22T22:27:21Z" scratch="false" x="95" y="90" clock="27" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="8ae42e9e-109d-4eb5-8278-a99b17ded038" type="throwin" time="2014-06-22T22:27:35Z" updated_time="2014-06-22T22:27:35Z" scratch="false" x="75" y="2" clock="27" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="30189158-6b43-486a-89be-9c903c5f66ea" type="shot_off_target" time="2014-06-22T22:28:14Z" updated_time="2014-06-22T22:28:31Z" scratch="false" x="79" y="46" clock="29" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="ee46734e-0e74-4f6e-bf1d-1de7c23ff618">
+          <description>Michael Bradley of USA gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="94ccdcc6-de8e-462e-b36e-984e3d8a70f3" type="goal_kick" time="2014-06-22T22:28:14Z" updated_time="2014-06-22T22:28:14Z" scratch="false" x="95" y="50" clock="29" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Goal kick for Portugal at Arena Amazonia.</description>
+        </fact>
+        <fact id="98309e7e-1e01-42bb-a665-8196083a14c7" type="free_kick" time="2014-06-22T22:29:13Z" updated_time="2014-06-22T22:29:13Z" scratch="false" x="5" y="81" clock="29" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="af12f6a7-fee8-49cd-b105-738bd0508a32" type="free_kick" time="2014-06-22T22:29:47Z" updated_time="2014-06-22T22:29:47Z" scratch="false" x="17" y="51" clock="29" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e9ed3831-c698-418a-a97b-1947db3e5b95" type="throwin" time="2014-06-22T22:30:19Z" updated_time="2014-06-22T22:30:19Z" scratch="false" x="67" y="99" clock="30" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="edd4a938-fc22-462c-8a5c-ed0f59fc273f" type="free_kick" time="2014-06-22T22:30:35Z" updated_time="2014-06-22T22:30:35Z" scratch="false" x="64" y="60" clock="30" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="781341f8-86bb-49a6-a64c-cfc1b554b07a" type="goal_kick" time="2014-06-22T22:31:39Z" updated_time="2014-06-22T22:31:39Z" scratch="false" x="95" y="50" clock="31" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a goal kick.</description>
+        </fact>
+        <fact id="531beac8-9230-4ff5-b0cb-43dc9f238e00" type="throwin" time="2014-06-22T22:32:05Z" updated_time="2014-06-22T22:32:05Z" scratch="false" x="37" y="99" clock="31" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a Portugal throw-in in USA's half.</description>
+        </fact>
+        <fact id="eb68822e-7e60-4953-93f1-abe81f065160" type="shot_off_target" time="2014-06-22T22:31:31Z" updated_time="2014-06-22T22:31:52Z" scratch="false" x="77" y="53" clock="32" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0">
+          <description>In Manaus USA attack through Fabian Johnson. The finish is off target, however.</description>
+        </fact>
+        <fact id="00644644-e597-43e6-9396-72548169f3ad" type="throwin" time="2014-06-22T22:32:24Z" updated_time="2014-06-22T22:32:24Z" scratch="false" x="36" y="99" clock="32" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Can Portugal get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="39ba2179-e098-4fe3-b0ab-00cd42ae9bc7" type="free_kick" time="2014-06-22T22:33:03Z" updated_time="2014-06-22T22:33:03Z" scratch="false" x="19" y="31" clock="32" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="9a0f4571-e7b4-4147-afce-64a62c8a7469" type="shot_blocked" time="2014-06-22T22:33:58Z" updated_time="2014-06-22T22:34:16Z" scratch="false" x="23" y="41" clock="34" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Miguel Veloso (Portugal) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="0c53584e-c7d0-4029-b727-9e165a435bc9" type="offside" time="2014-06-22T22:34:03Z" updated_time="2014-06-22T22:34:22Z" scratch="false" x="20" y="62" clock="34" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>In Manaus Portugal's Cristiano Ronaldo is caught offside.</description>
+        </fact>
+        <fact id="be6aac99-0213-441a-b18d-cd4b8638a1a6" type="keeper_save" time="2014-06-22T22:34:59Z" updated_time="2014-06-22T22:34:59Z" scratch="false" x="77" y="45" clock="34" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="71978629-45e6-498c-b258-f8fc17530df7" type="shot_on_target" time="2014-06-22T22:34:59Z" updated_time="2014-06-22T22:35:07Z" scratch="false" x="77" y="45" clock="35" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>USA's Jermaine Jones gets in a shot on goal at Arena Amazonia. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="aa9a39fa-8925-4062-9295-04a1a6a134b8" type="keeper_save" time="2014-06-22T22:35:49Z" updated_time="2014-06-22T22:35:49Z" scratch="false" x="24" y="44" clock="35" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="71481177-a18a-4c68-bc80-1f4be2095102" type="shot_on_target" time="2014-06-22T22:35:49Z" updated_time="2014-06-22T22:35:56Z" scratch="false" x="24" y="44" clock="36" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo gets his shot on target but fails to score for Portugal.</description>
+        </fact>
+        <fact id="baa12c72-0ef2-4f7a-b570-e20be2b14967" type="offside" time="2014-06-22T22:36:49Z" updated_time="2014-06-22T22:36:56Z" scratch="false" x="81" y="83" clock="37" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0">
+          <description>Nestor Pitana blows against USA's Fabian Johnson for offside.</description>
+        </fact>
+        <fact id="fa47eae5-6ba6-431e-91d0-11b6ad225fd2" type="injury" time="2014-06-22T22:39:04Z" updated_time="2014-06-22T22:39:08Z" scratch="false" x="55" y="47" clock="39" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Attention is being given to USA’s Jermaine Jones and play has been suspended briefly.</description>
+        </fact>
+        <fact id="567e7bd4-658a-431a-84be-d4ab98c46290" type="injury_return" time="2014-06-22T22:39:18Z" updated_time="2014-06-22T22:39:18Z" scratch="false" clock="39" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Jermaine Jones has recovered and rejoins the match in Manaus.</description>
+        </fact>
+        <fact id="75a83851-3f47-4c7c-a92b-0680c6d6e660" type="game_resumed" time="2014-06-22T22:40:17Z" updated_time="2014-06-22T22:40:17Z" scratch="false" clock="40">
+          <description>The match at Arena Amazonia is underway again.</description>
+        </fact>
+        <fact id="84f8db49-af60-43cd-997d-4af404ae6f11" type="keeper_save" time="2014-06-22T22:41:49Z" updated_time="2014-06-22T22:41:49Z" scratch="false" x="20" y="35" clock="41" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="f731e39a-6c2c-48e9-8a35-99c3d144da81" type="free_kick" time="2014-06-22T22:41:52Z" updated_time="2014-06-22T22:41:52Z" scratch="false" x="20" y="35" clock="41" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Free kick in a good position for Portugal!</description>
+        </fact>
+        <fact id="ea48e804-bf9c-4bfc-95c8-dfa423d9f882" type="shot_on_target" time="2014-06-22T22:41:48Z" updated_time="2014-06-22T22:42:07Z" scratch="false" x="20" y="35" clock="42" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="02013139-01a2-44ee-97e1-25bb26b5b420">
+          <description>Portugal's Nani is on target but unsuccessful.</description>
+        </fact>
+        <fact id="5e177f7c-2865-4be2-988d-3282add7d539" type="shot_off_target" time="2014-06-22T22:42:53Z" updated_time="2014-06-22T22:43:02Z" scratch="false" x="20" y="35" clock="43" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal's Cristiano Ronaldo gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="035c7fae-157d-4672-b87d-8678ba2b21f0" type="goal_kick" time="2014-06-22T22:42:53Z" updated_time="2014-06-22T22:42:53Z" scratch="false" x="5" y="50" clock="43" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="03e42f06-efe9-4eb5-b35a-a0719bb7fc0e" type="throwin" time="2014-06-22T22:43:30Z" updated_time="2014-06-22T22:43:30Z" scratch="false" x="61" y="98" clock="43" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="e345dbb9-4178-4a72-82c5-087be536bcd1" type="throwin" time="2014-06-22T22:43:40Z" updated_time="2014-06-22T22:43:40Z" scratch="false" x="71" y="98" clock="43" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Portugal's half?</description>
+        </fact>
+        <fact id="3c510c7d-e3de-44e8-b02c-e8710968d064" type="keeper_save" time="2014-06-22T22:44:52Z" updated_time="2014-06-22T22:44:52Z" scratch="false" x="3" y="96" clock="44" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="09c723ca-e869-4296-91a1-a8106889698e" type="shot_on_target" time="2014-06-22T22:44:37Z" updated_time="2014-06-22T22:45:33Z" scratch="false" x="22" y="25" clock="45" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="02013139-01a2-44ee-97e1-25bb26b5b420">
+          <description>Nani hits the post! Very nearly a goal there for Portugal!</description>
+        </fact>
+        <fact id="0bd9c160-3cdf-4039-b1bb-51fd154dbfbc" type="shot_on_target" time="2014-06-22T22:44:52Z" updated_time="2014-06-22T22:44:52Z" scratch="false" x="3" y="96" clock="45" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="d659b35a-58ab-4407-b366-a223cb54ea52">
+          <description>Eder for Portugal drives towards goal at Arena Amazonia. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="ed4458a0-4267-4217-b2ae-3d677635f5e7" type="corner_kick" time="2014-06-22T22:45:08Z" updated_time="2014-06-22T22:45:08Z" scratch="false" x="5" y="90" clock="45" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Corner awarded to Portugal.</description>
+        </fact>
+        <fact id="171b7f51-1f11-40ae-aa54-ea4907f1ea0e" type="shot_off_target" time="2014-06-22T22:45:21Z" updated_time="2014-06-22T22:45:21Z" scratch="false" x="5" y="90" clock="45" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo (Portugal) wins the ball in the air but heads wide.</description>
+        </fact>
+        <fact id="3b25a5d4-3558-44c7-b1ac-7f4c175d79b4" type="goal_kick" time="2014-06-22T22:45:21Z" updated_time="2014-06-22T22:45:21Z" scratch="false" x="5" y="50" clock="45" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="90a216d7-93ef-4d93-a792-e068a6d97d87" type="throwin" time="2014-06-22T22:45:57Z" updated_time="2014-06-22T22:45:57Z" scratch="false" x="28" y="1" clock="45" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Amazonia.</description>
+        </fact>
+        <fact id="a8627f77-a826-45f2-ae2c-135462a957b7" type="period_started" time="2014-06-22T22:47:16Z" updated_time="2014-06-22T22:47:16Z" scratch="false" period="H"/>
+        <fact id="3601904f-33d4-4e1d-948e-b4d3660c606f" type="period_started" time="2014-06-22T23:03:17Z" updated_time="2014-06-22T23:03:17Z" scratch="false" period="P2"/>
+        <fact id="42430859-6b50-48f7-b9cd-2a2ae7f0630f" type="throwin" time="2014-06-22T23:03:31Z" updated_time="2014-06-22T23:03:31Z" scratch="false" x="63" y="1" clock="45" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="aa53cff0-34b4-4788-beee-1c7168a05aab" type="free_kick" time="2014-06-22T23:03:51Z" updated_time="2014-06-22T23:03:51Z" scratch="false" x="63" y="1" clock="45" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="d6efd561-78a8-460b-9d75-bc1a2d74d51b" type="injury_time" time="2014-06-22T22:45:25Z" updated_time="2014-06-22T22:45:25Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="9d170ad7-6349-4cfe-b67b-810a91a312ce" type="free_kick" time="2014-06-22T22:46:38Z" updated_time="2014-06-22T22:46:38Z" scratch="false" x="64" y="69" clock="45" injury_time="1" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="2134298b-bfbd-47d4-8c42-76c16a2e8e2e" type="period_over" time="2014-06-22T22:47:16Z" updated_time="2014-06-22T22:47:16Z" scratch="false" home_score="0" away_score="1" period="P1">
+          <description>The first half has been concluded at Arena Amazonia.</description>
+        </fact>
+        <fact id="38147097-9c2c-4d4a-81ea-b66590d239b1" type="substitution" time="2014-06-22T23:03:48Z" updated_time="2014-06-22T23:03:48Z" scratch="false" clock="46" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_out_id="4410102a-246a-4e90-8366-396576319fb0" player_in_id="46b82de5-b1ca-41f7-93b0-e2686c41d91c">
+          <description>Portugal make their second substitution with William Carvalho replacing Andre Almeida.</description>
+        </fact>
+        <fact id="599a6b49-a616-4095-a21f-c3a507d05b27" type="free_kick" time="2014-06-22T23:04:52Z" updated_time="2014-06-22T23:04:52Z" scratch="false" x="19" y="23" clock="46" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c85f5f60-e1ec-436d-a2f2-505563e06acf" type="shot_blocked" time="2014-06-22T23:04:49Z" updated_time="2014-06-22T23:05:01Z" scratch="false" x="18" y="63" clock="47" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Important block from the USA defence as Cristiano Ronaldo fires in a strike for Portugal.</description>
+        </fact>
+        <fact id="2f9419e1-406e-4033-b968-60229bb22a89" type="free_kick" time="2014-06-22T23:05:38Z" updated_time="2014-06-22T23:05:38Z" scratch="false" x="64" y="83" clock="47" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6c672d23-9945-4507-abf4-4cc49988a869" type="shot_off_target" time="2014-06-22T23:05:58Z" updated_time="2014-06-22T23:05:58Z" scratch="false" x="22" y="41" clock="48" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="d659b35a-58ab-4407-b366-a223cb54ea52">
+          <description>Eder for Portugal gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="d2dd5122-6960-442a-8dcd-ca215b68e82f" type="goal_kick" time="2014-06-22T23:05:58Z" updated_time="2014-06-22T23:05:58Z" scratch="false" x="5" y="50" clock="48" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana awards USA a goal kick.</description>
+        </fact>
+        <fact id="af18e847-d0e4-4aea-a7bc-f20b13e933f8" type="keeper_save" time="2014-06-22T23:06:37Z" updated_time="2014-06-22T23:06:37Z" scratch="false" x="97" y="93" clock="48" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="729dda47-93af-4a20-8b0a-75a37d9e9df1" type="shot_on_target" time="2014-06-22T23:06:37Z" updated_time="2014-06-22T23:06:37Z" scratch="false" x="97" y="93" clock="49" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0">
+          <description>Fabian Johnson of USA smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="8053de0c-82ff-430a-b5cd-076e64f700c2" type="corner_kick" time="2014-06-22T23:06:48Z" updated_time="2014-06-22T23:06:48Z" scratch="false" x="95" y="90" clock="49" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="f6408a1b-3594-4dc4-950e-44fc9642aa87" type="goal_kick" time="2014-06-22T23:07:54Z" updated_time="2014-06-22T23:07:54Z" scratch="false" x="5" y="50" clock="49" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Amazonia.</description>
+        </fact>
+        <fact id="a113faf6-4677-40a2-8e87-c4f8cb7bd067" type="throwin" time="2014-06-22T23:08:34Z" updated_time="2014-06-22T23:08:34Z" scratch="false" x="25" y="99" clock="50" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a Portugal throw-in in USA's half.</description>
+        </fact>
+        <fact id="914f3d2a-52c3-43a1-a49d-0f1fa4a35e05" type="shot_blocked" time="2014-06-22T23:09:10Z" updated_time="2014-06-22T23:09:10Z" scratch="false" x="2" y="94" clock="51" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal's Eder gets in a shot but it is blocked by a USA defender.</description>
+        </fact>
+        <fact id="489a4521-d0fb-4539-b042-48c1385a1f59" type="free_kick" time="2014-06-22T23:09:57Z" updated_time="2014-06-22T23:09:57Z" scratch="false" x="35" y="69" clock="51" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="ce20d7e5-a66b-453c-989f-e6ef9a1015b6" type="game_resumed" time="2014-06-22T23:09:59Z" updated_time="2014-06-22T23:09:59Z" scratch="false" clock="51">
+          <description>The match in Manaus is underway once more.</description>
+        </fact>
+        <fact id="7b624626-d245-4c4a-bd33-b62cf7edec03" type="injury_return" time="2014-06-22T23:10:07Z" updated_time="2014-06-22T23:10:07Z" scratch="false" clock="51" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="c9b3d5d2-aa39-47ea-945d-0670d11cb6c5" type="injury" time="2014-06-22T23:09:49Z" updated_time="2014-06-22T23:09:49Z" scratch="false" x="3" y="91" clock="52" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="f57b6649-07af-437b-93c7-6e627f681eb0" type="corner_kick" time="2014-06-22T23:09:52Z" updated_time="2014-06-22T23:14:05Z" scratch="false" x="5" y="90" clock="52" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="4d7ae8ab-65ab-4a04-8b31-f7cae74da54e" type="throwin" time="2014-06-22T23:11:22Z" updated_time="2014-06-22T23:11:22Z" scratch="false" x="21" y="98" clock="53" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a Portugal throw-in in USA's half.</description>
+        </fact>
+        <fact id="b9099501-82db-464a-bfef-07113f9b97f7" type="throwin" time="2014-06-22T23:12:25Z" updated_time="2014-06-22T23:12:25Z" scratch="false" x="66" y="100" clock="54" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="c9885164-95b9-4aa5-92fc-53db9dcce6be" type="free_kick" time="2014-06-22T23:13:54Z" updated_time="2014-06-22T23:13:54Z" scratch="false" x="95" y="90" clock="55" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0bb9dfea-9c4d-4907-b905-ca4a971849e7" type="shot_blocked" time="2014-06-22T23:13:22Z" updated_time="2014-06-22T23:13:51Z" scratch="false" x="94" y="92" clock="56" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA push forward at Arena Amazonia and Michael Bradley gets in a strike. This is blocked, however, by a determined Portugal defence.</description>
+        </fact>
+        <fact id="8049228e-d092-4396-af62-dd77be50440e" type="corner_kick" time="2014-06-22T23:13:37Z" updated_time="2014-06-22T23:13:45Z" scratch="false" x="95" y="90" clock="56" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Corner awarded to USA.</description>
+        </fact>
+        <fact id="e490762e-ded1-42ea-bda3-ea5771d54d8d" type="goal_kick" time="2014-06-22T23:16:13Z" updated_time="2014-06-22T23:16:13Z" scratch="false" x="95" y="50" clock="57" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana awards Portugal a goal kick.</description>
+        </fact>
+        <fact id="99026045-74c3-4a9d-927d-f836e4679124" type="free_kick" time="2014-06-22T23:17:09Z" updated_time="2014-06-22T23:17:09Z" scratch="false" x="38" y="43" clock="58" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="f6dc604a-4bd3-411a-9e53-fc0062c25aee" type="shot_blocked" time="2014-06-22T23:17:47Z" updated_time="2014-06-22T23:17:56Z" scratch="false" x="82" y="79" clock="60" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>In Manaus, Jermaine Jones of USA is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="ffb3e7a6-8bd3-4558-a144-934f6daaf070" type="throwin" time="2014-06-22T23:18:24Z" updated_time="2014-06-22T23:18:24Z" scratch="false" x="66" y="98" clock="60" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Portugal's half?</description>
+        </fact>
+        <fact id="e4a9c671-2c6b-40dd-8bce-0d89e626e229" type="shot_blocked" time="2014-06-22T23:19:42Z" updated_time="2014-06-22T23:19:46Z" scratch="false" x="79" y="38" clock="62" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA drive upfield and Kyle Beckerman gets in a shot. The strike is blocked by a Portugal defender.</description>
+        </fact>
+        <fact id="4a1b6c1f-4dda-4e00-bcfd-b5d3276a2ef1" type="shot_off_target" time="2014-06-22T23:20:06Z" updated_time="2014-06-22T23:20:12Z" scratch="false" x="12" y="26" clock="62" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal's Cristiano Ronaldo breaks free at Arena Amazonia. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="583cd09d-1654-4c57-a1d4-620af6aa596f" type="goal_kick" time="2014-06-22T23:20:06Z" updated_time="2014-06-22T23:20:06Z" scratch="false" x="5" y="50" clock="62" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="5f3df101-0818-43c3-a817-40f7723ca6c9" type="corner_kick" time="2014-06-22T23:21:12Z" updated_time="2014-06-22T23:21:12Z" scratch="false" x="95" y="90" clock="63" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have been awarded a corner by Nestor Pitana.</description>
+        </fact>
+        <fact id="95b9aa1e-07bd-4efe-9a27-d0317a28f3bb" type="goal" time="2014-06-22T23:21:35Z" updated_time="2014-06-22T23:21:35Z" scratch="false" x="81" y="52" clock="64" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Jermaine Jones grabs a goal to bring things level at 1-1 at Arena Amazonia.</description>
+        </fact>
+        <fact id="2547919b-354c-494d-bb63-e4dbaff069d3" type="shot_off_target" time="2014-06-22T23:22:50Z" updated_time="2014-06-22T23:22:50Z" scratch="false" x="12" y="65" clock="65" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="7806779e-b1eb-480b-b287-63b5668c3645" type="goal_kick" time="2014-06-22T23:22:50Z" updated_time="2014-06-22T23:22:50Z" scratch="false" x="5" y="50" clock="65" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Amazonia.</description>
+        </fact>
+        <fact id="d0bd22bf-48b5-479d-b746-57db1359937b" type="keeper_save" time="2014-06-22T23:23:58Z" updated_time="2014-06-22T23:23:58Z" scratch="false" x="18" y="59" clock="65" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="0d4cc980-b49d-4f52-8722-2c3836dacff4" type="goal_kick" time="2014-06-22T23:24:08Z" updated_time="2014-06-22T23:24:08Z" scratch="false" x="5" y="50" clock="65" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="a751dd68-1bb2-4412-91de-c113ca7ac04a" type="shot_on_target" time="2014-06-22T23:23:57Z" updated_time="2014-06-22T23:24:17Z" scratch="false" x="18" y="59" clock="66" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="77cbc3f1-d349-442d-aeec-420e399d5d9c">
+          <description>Portugal push forward through Raul Meireles, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="7c6750d7-108f-4310-88ee-28291b53a19b" type="free_kick" time="2014-06-22T23:24:46Z" updated_time="2014-06-22T23:24:46Z" scratch="false" x="42" y="47" clock="66" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="939f6e5e-a316-4838-a6a8-247bab531006" type="throwin" time="2014-06-22T23:25:39Z" updated_time="2014-06-22T23:25:39Z" scratch="false" x="8" y="2" clock="67" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal close to the penalty box.</description>
+        </fact>
+        <fact id="af0f62e9-2112-4aa1-bb04-49e7234d770d" type="offside" time="2014-06-22T23:25:57Z" updated_time="2014-06-22T23:26:04Z" scratch="false" x="6" y="21" clock="68" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="77cbc3f1-d349-442d-aeec-420e399d5d9c">
+          <description>Portugal drive forward but Raul Meireles is judged offside.</description>
+        </fact>
+        <fact id="9a90a11c-e2f8-4f8b-a772-90bbca5c0805" type="substitution" time="2014-06-22T23:26:26Z" updated_time="2014-06-22T23:26:26Z" scratch="false" clock="68" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_out_id="77cbc3f1-d349-442d-aeec-420e399d5d9c" player_in_id="0e52c949-72bd-48c2-a6bd-9f2fd89091c3">
+          <description>Paulo Bento (Portugal) is making a third substitution, with Silvestre Varela replacing Raul Meireles.</description>
+        </fact>
+        <fact id="c86b6454-9abc-4b52-bf53-14d981c6063b" type="throwin" time="2014-06-22T23:27:24Z" updated_time="2014-06-22T23:27:24Z" scratch="false" x="23" y="99" clock="69" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="b5f6f7ea-2d9a-459a-a2bf-a45e2ff165ba" type="free_kick" time="2014-06-22T23:27:56Z" updated_time="2014-06-22T23:27:56Z" scratch="false" x="17" y="49" clock="69" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="8f626943-04f1-4940-b2ea-2bd3be2198d5" type="goal_kick" time="2014-06-22T23:28:19Z" updated_time="2014-06-22T23:28:19Z" scratch="false" x="95" y="50" clock="70" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Goal kick for Portugal at Arena Amazonia.</description>
+        </fact>
+        <fact id="050ccf4a-02d0-4459-b2a0-32977eaaa3b0" type="goal_kick" time="2014-06-22T23:29:05Z" updated_time="2014-06-22T23:29:05Z" scratch="false" x="5" y="50" clock="70" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="6db871f4-8e1e-46d6-bc73-b492d6c06a17" type="substitution" time="2014-06-22T23:29:19Z" updated_time="2014-06-22T23:29:19Z" scratch="false" clock="71" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="6589af3e-2247-41f5-b40a-7ef9c16690a4" player_in_id="e5563330-66f6-4f3b-be61-f52c6714c3c4">
+          <description>Jurgen Klinsmann is making the team's first substitution at Arena Amazonia with DeAndre Yedlin replacing Alejandro Bedoya.</description>
+        </fact>
+        <fact id="5f1d9002-df73-4a61-b798-88f76fdfebfc" type="offside" time="2014-06-22T23:30:15Z" updated_time="2014-06-22T23:30:21Z" scratch="false" x="16" y="22" clock="72" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal's Cristiano Ronaldo is whistled for offside at Arena Amazonia.</description>
+        </fact>
+        <fact id="b87ac9da-31cf-4472-8d5d-ec93a867a24d" type="throwin" time="2014-06-22T23:30:39Z" updated_time="2014-06-22T23:30:39Z" scratch="false" x="36" y="2" clock="72" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a Portugal throw-in in USA's half.</description>
+        </fact>
+        <fact id="84562506-1525-479d-a577-8f50901fd251" type="free_kick" time="2014-06-22T23:31:53Z" updated_time="2014-06-22T23:31:53Z" scratch="false" x="64" y="70" clock="73" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="dd5accd7-0d1d-47e1-8b19-2dbd7af14eb7" type="free_kick" time="2014-06-22T23:32:39Z" updated_time="2014-06-22T23:32:39Z" scratch="false" x="30" y="81" clock="74" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nestor Pitana signals a free kick to Portugal.</description>
+        </fact>
+        <fact id="a7cdbbc5-3fd6-48c9-8a9d-2147528041d2" type="card" time="2014-06-22T23:32:48Z" updated_time="2014-06-22T23:32:48Z" scratch="false" clock="75" card="Y" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Jermaine Jones for USA has been booked by Nestor Pitana and receives a first yellow card.</description>
+        </fact>
+        <fact id="9077c53f-a3e6-481f-94a1-88ae08f8ed89" type="free_kick" time="2014-06-22T23:33:22Z" updated_time="2014-06-22T23:33:22Z" scratch="false" x="21" y="52" clock="75" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="1e0d6e62-b536-4cb9-978e-accd940ff6a9" type="free_kick" time="2014-06-22T23:34:59Z" updated_time="2014-06-22T23:34:59Z" scratch="false" x="40" y="44" clock="76" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="f5c14f7b-d0a5-466e-b368-17c5f8f67964" type="injury" time="2014-06-22T23:35:16Z" updated_time="2014-06-22T23:35:16Z" scratch="false" x="40" y="44" clock="77" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="9a285c9d-8a7b-403a-8828-d2dea32bf822">
+          <description>Play has been temporarily suspended for attention to Matt Besler for USA who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="c79526c1-1cf5-4b62-82c7-23e73cd10db5" type="game_resumed" time="2014-06-22T23:36:34Z" updated_time="2014-06-22T23:36:34Z" scratch="false" clock="78">
+          <description>Nestor Pitana has blown to resume play in Manaus.</description>
+        </fact>
+        <fact id="9735ac62-3334-405f-a406-f79f2b927f9d" type="injury_return" time="2014-06-22T23:36:41Z" updated_time="2014-06-22T23:36:41Z" scratch="false" clock="78" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="9a285c9d-8a7b-403a-8828-d2dea32bf822">
+          <description>USA's Matt Besler looks ok and returns to the pitch.</description>
+        </fact>
+        <fact id="cbe91e98-c91d-46e2-9e85-d9ba11233cb1" type="shot_off_target" time="2014-06-22T23:38:05Z" updated_time="2014-06-22T23:38:05Z" scratch="false" x="17" y="17" clock="80" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="02013139-01a2-44ee-97e1-25bb26b5b420">
+          <description>In Manaus Portugal attack through Nani. The finish is off target, however.</description>
+        </fact>
+        <fact id="19f036e4-3606-41b9-b4c2-f1d0880b8c25" type="goal_kick" time="2014-06-22T23:38:06Z" updated_time="2014-06-22T23:38:06Z" scratch="false" x="5" y="50" clock="80" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="24e99db9-ba86-4354-8dbc-61d3a47ff5f6" type="goal" time="2014-06-22T23:39:17Z" updated_time="2014-06-22T23:39:17Z" scratch="false" x="82" y="51" clock="81" home_score="2" away_score="1" penalty="false" owngoal="false" header="false" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a" assist1_id="4c712e71-6e7c-4a76-adfa-67975c05a8d8">
+          <description>Graham Zusi with an assist there.</description>
+        </fact>
+        <fact id="0f87c6d2-6647-4b08-9715-66286d55740d" type="shot_blocked" time="2014-06-22T23:40:15Z" updated_time="2014-06-22T23:40:15Z" scratch="false" x="21" y="38" clock="82" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Eder (Portugal) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="073ff077-445d-4f6d-b89f-a01328b0d59a" type="injury" time="2014-06-22T23:40:24Z" updated_time="2014-06-22T23:40:28Z" scratch="false" x="19" y="22" clock="83" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="4666f663-32d9-4b9d-ad4e-5bc861eae2bd">
+          <description>DaMarcus Beasley is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="12c077d5-0436-4ab5-825b-7139bf250860" type="throwin" time="2014-06-22T23:41:31Z" updated_time="2014-06-22T23:41:31Z" scratch="false" x="15" y="1" clock="83" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Amazonia.</description>
+        </fact>
+        <fact id="51511943-d995-4e51-a897-d7553b6369bc" type="game_resumed" time="2014-06-22T23:41:44Z" updated_time="2014-06-22T23:41:44Z" scratch="false" clock="83">
+          <description>The match is underway again.</description>
+        </fact>
+        <fact id="08cc5894-2108-47b4-81ea-11762a5b3814" type="throwin" time="2014-06-22T23:41:59Z" updated_time="2014-06-22T23:41:59Z" scratch="false" x="84" y="1" clock="83" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Portugal needs to be cautious. USA have an attacking throw-in.</description>
+        </fact>
+        <fact id="c398064b-2537-4cd1-8100-69b959781453" type="injury_return" time="2014-06-22T23:42:07Z" updated_time="2014-06-22T23:42:07Z" scratch="false" clock="83" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="4666f663-32d9-4b9d-ad4e-5bc861eae2bd">
+          <description>DaMarcus Beasley is back on his feet again.</description>
+        </fact>
+        <fact id="091ad760-b0fc-4be3-a069-eeef9a8b7e33" type="free_kick" time="2014-06-22T23:42:50Z" updated_time="2014-06-22T23:42:50Z" scratch="false" x="23" y="78" clock="84" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Free kick Portugal.</description>
+        </fact>
+        <fact id="c1ca970f-7344-4fa8-99f6-69957999471a" type="shot_blocked" time="2014-06-22T23:43:38Z" updated_time="2014-06-22T23:43:38Z" scratch="false" x="23" y="44" clock="86" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="66dbee2d-dc7b-4234-80d0-64e8ed4a1d7b" type="offside" time="2014-06-22T23:43:55Z" updated_time="2014-06-22T23:43:55Z" scratch="false" x="23" y="44" clock="86" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Nestor Pitana blows against Portugal's Cristiano Ronaldo for offside.</description>
+        </fact>
+        <fact id="0dc5b7ed-733e-4856-b34c-5764bf1a9a2b" type="substitution" time="2014-06-22T23:44:40Z" updated_time="2014-06-22T23:44:40Z" scratch="false" clock="87" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a" player_in_id="11cb9025-83a5-45f8-a4dc-a6f62eb0e930">
+          <description>Chris Wondolowski is on a sub for Clint Dempsey for USA.</description>
+        </fact>
+        <fact id="ce6dc683-b76a-400a-a90d-39293e890e54" type="corner_kick" time="2014-06-22T23:45:54Z" updated_time="2014-06-22T23:45:54Z" scratch="false" x="5" y="5" clock="88" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Corner awarded to Portugal.</description>
+        </fact>
+        <fact id="844f4ea9-49d4-4569-80e3-0e327b6d4d75" type="throwin" time="2014-06-22T23:47:06Z" updated_time="2014-06-22T23:47:06Z" scratch="false" x="51" y="99" clock="88" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="8f58847c-3dc1-4fc1-9aa8-a2489a1c855a" type="shot_off_target" time="2014-06-22T23:46:34Z" updated_time="2014-06-22T23:46:34Z" scratch="false" x="9" y="16" clock="89" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo's header is off-target for Portugal.</description>
+        </fact>
+        <fact id="2d154271-1df2-4062-af3c-41de0347982e" type="goal_kick" time="2014-06-22T23:46:35Z" updated_time="2014-06-22T23:46:35Z" scratch="false" x="5" y="50" clock="89" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Nestor Pitana awards USA a goal kick.</description>
+        </fact>
+        <fact id="742873a2-4d58-45d8-afeb-c68335d237c0" type="throwin" time="2014-06-22T23:47:38Z" updated_time="2014-06-22T23:47:38Z" scratch="false" x="11" y="1" clock="89" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in USA.</description>
+        </fact>
+        <fact id="fcb0a0fe-310b-43cc-aa8e-9dba13fc5639" type="shot_off_target" time="2014-06-22T23:48:11Z" updated_time="2014-06-22T23:48:22Z" scratch="false" x="17" y="82" clock="90" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="c29e8d7b-ff8f-413e-98ee-69d8b1ffd95a">
+          <description>Portugal are pushing forward but Bruno Alves's finish is wide of the goal.</description>
+        </fact>
+        <fact id="8bf1819f-77a8-46dd-9bec-ca2852528f0f" type="goal_kick" time="2014-06-22T23:48:11Z" updated_time="2014-06-22T23:48:11Z" scratch="false" x="5" y="50" clock="90" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="ce850dd6-ffc1-4ac5-91e1-4881d88e2bd0" type="substitution" time="2014-06-22T23:48:41Z" updated_time="2014-06-22T23:48:41Z" scratch="false" clock="90" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="4c712e71-6e7c-4a76-adfa-67975c05a8d8" player_in_id="3e6d40a1-4a89-4596-85d9-fbad55e08b91">
+          <description>Omar Gonzalez is on a sub for Graham Zusi for USA.</description>
+        </fact>
+        <fact id="bebcd8b8-2959-48aa-898b-f9583d0a49d1" type="injury_time" time="2014-06-22T23:49:04Z" updated_time="2014-06-22T23:49:04Z" scratch="false" clock="90" injury_time="5" period="P2">
+          <description>The fourth official's board shows 5 minutes, which will be added to the second half.</description>
+        </fact>
+        <fact id="cb3149ab-3ada-46ce-ac0c-f83106f459fa" type="shot_off_target" time="2014-06-22T23:51:26Z" updated_time="2014-06-22T23:51:26Z" scratch="false" x="20" y="73" clock="90" injury_time="3" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal attack but Cristiano Ronaldo's header doesn't find the target.</description>
+        </fact>
+        <fact id="1f44f0a3-3eef-4dad-8a58-3d9fd044f94a" type="goal_kick" time="2014-06-22T23:51:27Z" updated_time="2014-06-22T23:51:27Z" scratch="false" x="5" y="50" clock="90" injury_time="3" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Amazonia.</description>
+        </fact>
+        <fact id="392bb8a1-d1d7-4245-be04-cedfce748327" type="throwin" time="2014-06-22T23:52:23Z" updated_time="2014-06-22T23:52:23Z" scratch="false" x="84" y="99" clock="90" injury_time="4" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal in their own half.</description>
+        </fact>
+        <fact id="d3597cb4-d363-4822-a315-c89b409e20c3" type="goal" time="2014-06-22T23:53:05Z" updated_time="2014-06-22T23:53:05Z" scratch="false" clock="90" injury_time="4" home_score="2" away_score="2" penalty="false" owngoal="false" header="true" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="0e52c949-72bd-48c2-a6bd-9f2fd89091c3" assist1_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo instrumental with a fine assist.</description>
+        </fact>
+        <fact id="b42e9800-44f3-40cd-89e2-c406f2b59ab0" type="period_over" time="2014-06-22T23:53:50Z" updated_time="2014-06-22T23:53:50Z" scratch="false" home_score="2" away_score="2" period="P2">
+          <description>Nestor Pitana blows to end the match. The final score is 2-2.</description>
+        </fact>
+        <fact id="1a8f445a-de2a-4e91-b631-6a562584170b" type="match_ended" time="2014-06-22T23:53:50Z" updated_time="2014-06-22T23:53:50Z" scratch="false" home_score="2" away_score="2" winner_id="" draw="true"/>
+      </facts>
+      <!-- 4768788/4724/4704 -->
+    </match>
+  </matches>
+</summary>

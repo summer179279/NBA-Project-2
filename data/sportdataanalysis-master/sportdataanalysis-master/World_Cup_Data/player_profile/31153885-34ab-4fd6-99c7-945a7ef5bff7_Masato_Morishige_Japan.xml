@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:32:01Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="31153885-34ab-4fd6-99c7-945a7ef5bff7" country_code="JPN" preferred_foot="R" height_in="70" weight_lb="158" height_cm="177" weight_kg="71" first_name="Masato" last_name="Morishige" country="Japan">
+    <teams>
+      <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" country_code="JPN" position="D" is_manager="false" is_player="true" country="Japan" jersey_number="6"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 24292/1405922463 -->
+  </player>
+</profile>

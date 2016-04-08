@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-15 02:46:16 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="15934c3a-cc82-4057-a313-2188db1edb1a" status="closed" coverage="full" home_team="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ed056-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-15T00:00:00+00:00" duration="2:08" attendance="16913" lead_changes="18" times_tied="14" clock="00:00" quarter="4">
+  <team name="Pelicans" market="New Orleans" id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" points="103">
+    <scoring>
+      <quarter number="1" sequence="1" points="26"/>
+      <quarter number="2" sequence="2" points="29"/>
+      <quarter number="3" sequence="3" points="26"/>
+      <quarter number="4" sequence="4" points="22"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Anthony Davis" position="F-C" primary_position="PF" jersey_number="23" id="ea8826b8-1f76-4eab-b61e-ffcb176880f3">
+          <statistics minutes="39:53" field_goals_made="15" field_goals_att="27" field_goals_pct="55.6" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="15" two_points_att="27" two_points_pct="0.556" blocked_att="2" free_throws_made="6" free_throws_att="6" free_throws_pct="100.0" offensive_rebounds="3" defensive_rebounds="6" rebounds="9" assists="1" turnovers="2" steals="1" blocks="2" assists_turnover_ratio="0.5" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="-11" points="36"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Anthony Davis" position="F-C" primary_position="PF" jersey_number="23" id="ea8826b8-1f76-4eab-b61e-ffcb176880f3">
+          <statistics minutes="39:53" field_goals_made="15" field_goals_att="27" field_goals_pct="55.6" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="15" two_points_att="27" two_points_pct="0.556" blocked_att="2" free_throws_made="6" free_throws_att="6" free_throws_pct="100.0" offensive_rebounds="3" defensive_rebounds="6" rebounds="9" assists="1" turnovers="2" steals="1" blocks="2" assists_turnover_ratio="0.5" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="-11" points="36"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Tyreke Evans" position="F-G" primary_position="SF" jersey_number="1" id="f4526ee7-400d-496b-91cb-6e210595b845">
+          <statistics minutes="35:10" field_goals_made="7" field_goals_att="12" field_goals_pct="58.3" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="12" two_points_pct="0.583" blocked_att="1" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="8" turnovers="1" steals="1" blocks="0" assists_turnover_ratio="8.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" points="16"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Trail Blazers" market="Portland" id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" points="111">
+    <scoring>
+      <quarter number="1" sequence="1" points="29"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="27"/>
+      <quarter number="4" sequence="4" points="31"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Damian Lillard" position="G" primary_position="PG" jersey_number="0" id="5382cf43-3a79-4a5a-a7fd-153906fe65dd">
+          <statistics minutes="41:29" field_goals_made="8" field_goals_att="17" field_goals_pct="47.1" three_points_made="3" three_points_att="8" three_points_pct="37.5" two_points_made="5" two_points_att="9" two_points_pct="0.556" blocked_att="0" free_throws_made="8" free_throws_att="10" free_throws_pct="80.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="5" turnovers="3" steals="0" blocks="1" assists_turnover_ratio="1.67" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="9" points="27"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Nicolas Batum" position="F" primary_position="SF" jersey_number="88" id="a89ac040-715d-4057-8fc0-9d71ad06fa0a">
+          <statistics minutes="45:11" field_goals_made="8" field_goals_att="16" field_goals_pct="50.0" three_points_made="4" three_points_att="8" three_points_pct="50.0" two_points_made="4" two_points_att="8" two_points_pct="0.5" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="3" defensive_rebounds="15" rebounds="18" assists="5" turnovers="4" steals="1" blocks="0" assists_turnover_ratio="1.25" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="14" points="22"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Damian Lillard" position="G" primary_position="PG" jersey_number="0" id="5382cf43-3a79-4a5a-a7fd-153906fe65dd">
+          <statistics minutes="41:29" field_goals_made="8" field_goals_att="17" field_goals_pct="47.1" three_points_made="3" three_points_att="8" three_points_pct="37.5" two_points_made="5" two_points_att="9" two_points_pct="0.556" blocked_att="0" free_throws_made="8" free_throws_att="10" free_throws_pct="80.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="5" turnovers="3" steals="0" blocks="1" assists_turnover_ratio="1.67" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="9" points="27"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-15 02:46:17 +0000 -->

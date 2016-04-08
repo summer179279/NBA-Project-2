@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:21:17Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="3e942b96-1ff3-46de-888c-752a1edb9b1d" country_code="ARG" preferred_foot="R" height_in="69" weight_lb="156" height_cm="175" weight_kg="70" first_name="Augusto" last_name="Fernandez" country="Argentina">
+    <teams>
+      <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" country_code="ARG" position="M" is_manager="false" is_player="true" country="Argentina" jersey_number="13"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="71" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="1" matches_started="0" minutes_played="82" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="5" matches_played="33" matches_started="0" minutes_played="2335" yellow_cards="6" yellow_red_cards="-1" red_cards="-1" substitutions_out="20" substitutions_in="4">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division"/>
+          <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division"/>
+          <team id="9e069213-67cd-466e-adb0-626540e7d7a0" name="Celta de Vigo" alias="CEV" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 34118/1405922803 -->
+  </player>
+</profile>

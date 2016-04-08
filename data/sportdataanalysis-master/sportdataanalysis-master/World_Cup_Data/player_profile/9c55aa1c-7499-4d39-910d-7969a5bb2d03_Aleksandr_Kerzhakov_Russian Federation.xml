@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:28:32Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="9c55aa1c-7499-4d39-910d-7969a5bb2d03" country_code="RUS" preferred_foot="R" height_in="69" weight_lb="167" height_cm="175" weight_kg="75" first_name="Aleksandr" last_name="Kerzhakov" country="Russian Federation">
+    <teams>
+      <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" country_code="RUS" position="F" is_manager="false" is_player="true" country="Russian Federation" jersey_number="11"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="100" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="10" matches_started="0" minutes_played="796" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="6" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="19" matches_started="0" minutes_played="1115" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="6" substitutions_in="8">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="21068a55-b3c2-42dd-aa6f-44ef776e9e3d" name="Zenit St Petersburg" alias="ZEN" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="11" matches_started="0" minutes_played="633" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="5">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="21068a55-b3c2-42dd-aa6f-44ef776e9e3d" name="Zenit St Petersburg" alias="ZEN" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="189" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 10909/1405922755 -->
+  </player>
+</profile>

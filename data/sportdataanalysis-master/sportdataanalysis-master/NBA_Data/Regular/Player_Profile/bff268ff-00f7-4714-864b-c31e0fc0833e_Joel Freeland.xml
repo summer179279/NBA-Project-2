@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-07 21:22:18 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="bff268ff-00f7-4714-864b-c31e0fc0833e" status="ACT" full_name="Joel Freeland" first_name="Joel" last_name="Freeland" abbr_name="J.Freeland" height="82" weight="225" position="C-F" primary_position="C" jersey_number="19" experience="1" college="Farnborough College, England" birth_place="Farnham, Surrey, GBR" birthdate="1987-02-07" updated="2014-02-27T22:03:20+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" alias="POR"/>
+  <draft team_id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" year="2006" round="1" pick="30"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" alias="POR">
+        <statistics>
+          <total games_played="52" games_started="0" minutes="727.0" field_goals_made="77" field_goals_att="162" three_points_made="0" three_points_att="2" blocked_att="9" free_throws_made="20" free_throws_att="29" offensive_rebounds="88" defensive_rebounds="120" assists="36" turnovers="32" steals="10" blocks="22" personal_fouls="95" tech_fouls="1" points="174" flagrant_fouls="0" free_throws_pct="0.69" two_points_pct="0.481" three_points_pct="0.0" field_goals_pct="0.475" rebounds="208" assists_turnover_ratio="1.13" two_points_made="77" two_points_att="160"/>
+          <average points="3.3" blocked_att="0.17" turnovers="0.62" free_throws_att="0.56" field_goals_att="3.12" off_rebounds="1.69" two_points_att="3.08" assists="0.7" blocks="0.42" personal_fouls="1.83" two_points_made="1.48" flagrant_fouls="0.0" rebounds="4.0" three_points_made="0.0" minutes="14.0" def_rebounds="2.31" free_throws_made="0.38" field_goals_made="1.48" steals="0.19" three_points_att="0.04"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-07-07 21:22:18 +0000 -->

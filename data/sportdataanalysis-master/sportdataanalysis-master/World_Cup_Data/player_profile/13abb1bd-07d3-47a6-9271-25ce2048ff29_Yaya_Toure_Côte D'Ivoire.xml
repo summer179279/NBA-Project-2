@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:17:13Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="13abb1bd-07d3-47a6-9271-25ce2048ff29" country_code="CIV" preferred_foot="R" height_in="75" weight_lb="198" height_cm="190" weight_kg="89" first_name="Yaya" last_name="Toure" country="Côte D'Ivoire">
+    <teams>
+      <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" country_code="CIV" position="M" is_manager="false" is_player="true" country="Côte D'Ivoire" jersey_number="19"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="20" goal_frequency="0" goal_average="0.0" goal_assists="8" matches_played="35" matches_started="0" minutes_played="2927" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="10" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="fdc32c0e-2a6a-4bbe-b855-41fef6369bfe" name="Premier League"/>
+          <tournament id="d8ddadd3-9a93-46bc-82b2-bc88c08b7255" name="Premier League"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="259" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="7" matches_started="0" minutes_played="556" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="2" matches_started="0" minutes_played="134" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="be7dab9e-eeeb-450f-9361-25fdf7916eb3" name="Audi Cup"/>
+          <tournament id="a395f040-6ba8-4b56-8567-3ece18804298" name="Audi Cup"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="151" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="9fa72432-b059-4a30-9519-699e84fe85ca" name="Prem League Asia Trophy"/>
+          <tournament id="f99c995b-6e78-4281-84ad-79fcd7279e54" name="Premier League Asia Trophy"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="2" matches_started="0" minutes_played="156" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="8cf07e0d-a6db-45fa-a67c-c10b43449a69" name="League Cup"/>
+          <tournament id="3512b79f-bc4f-49f1-8c1b-e8d5e35c801e" name="League Cup"/>
+          <team id="4472bef8-8d80-4c13-86b6-b1c60e021724" name="Manchester City" alias="MC" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 14468/1405922880 -->
+  </player>
+</profile>

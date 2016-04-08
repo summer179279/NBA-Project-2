@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:07:41 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2014-03-16T04:00:00+00:00" end_time="2014-03-17T03:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="6fa41995-a8ae-417f-8246-db0e8b6c360a" full_name="Mustafa Shakur" last_modified="2014-03-31T17:44:07+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="1982d8b5-b817-4915-a419-2e74e253d9c0" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-03-16T19:56:01+00:00"/>
+        <game id="4e95fda3-cb71-4890-b504-5b91bb51853f" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-03-16T19:43:08+00:00"/>
+        <game id="5eaed9db-4e22-4222-9364-f62fc1a4a760" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-03-17T01:30:01+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="852ce596-cecf-4fc3-ade5-1e49f4c44239" last_modified="2014-03-17T21:41:26+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="b9dfd065-9527-4a11-a49d-aa9205771377" last_modified="2014-03-18T21:53:31+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="8b3a8bf7-4e57-4a4f-bfb7-cb6dcda959f6" last_modified="2014-05-14T16:01:20+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="05ed94dd-c81e-4c4e-8dbc-88a3760cfd75" last_modified="2014-03-17T21:38:43+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="4e95fda3-cb71-4890-b504-5b91bb51853f"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="1982d8b5-b817-4915-a419-2e74e253d9c0" last_modified="2014-03-16T19:56:01+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="78105a7b-670c-47b8-9f6b-aa358e1ce110" last_modified="2014-03-17T21:35:19+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="5eaed9db-4e22-4222-9364-f62fc1a4a760" last_modified="2014-03-17T01:30:03+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="ab9d7748-4ab1-4641-aba8-2ebcf6e4bb25"/>
+      </results>
+    </games>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:07:41 +0000 -->

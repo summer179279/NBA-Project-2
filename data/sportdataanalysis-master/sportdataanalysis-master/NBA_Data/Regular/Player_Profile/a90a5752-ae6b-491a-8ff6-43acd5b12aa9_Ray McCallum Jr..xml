@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-17 05:20:50 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="a90a5752-ae6b-491a-8ff6-43acd5b12aa9" status="ACT" full_name="Ray McCallum Jr." first_name="Ray" last_name="McCallum Jr." abbr_name="R.McCallum Jr." height="75" weight="190" position="G" primary_position="PG" jersey_number="3" experience="0" college="Detroit" birth_place="Detroit, MI, USA" birthdate="1991-06-21" updated="2014-01-21T19:59:57+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" alias="SAC"/>
+  <draft team_id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="2" pick="36"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" alias="SAC">
+        <statistics>
+          <total games_played="45" games_started="10" minutes="897.0" field_goals_made="113" field_goals_att="300" three_points_made="22" three_points_att="59" blocked_att="22" free_throws_made="32" free_throws_att="43" offensive_rebounds="18" defensive_rebounds="61" assists="120" turnovers="39" steals="22" blocks="9" personal_fouls="69" tech_fouls="0" points="280" flagrant_fouls="0" free_throws_pct="0.744" two_points_pct="0.378" three_points_pct="0.373" field_goals_pct="0.377" rebounds="79" assists_turnover_ratio="3.08" two_points_made="91" two_points_att="241"/>
+          <average points="6.2" blocked_att="0.49" turnovers="0.87" free_throws_att="0.96" field_goals_att="6.67" off_rebounds="0.4" two_points_att="5.36" assists="2.7" blocks="0.2" personal_fouls="1.53" two_points_made="2.02" flagrant_fouls="0.0" rebounds="1.76" three_points_made="0.49" minutes="19.9" def_rebounds="1.36" free_throws_made="0.71" field_goals_made="2.51" steals="0.49" three_points_att="1.31"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-04-17 05:20:50 +0000 -->

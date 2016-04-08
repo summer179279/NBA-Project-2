@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:23:54Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="70304e90-895e-4193-b692-6b1f92950fbf" country_code="IRN" preferred_foot="R" height_in="75" weight_lb="176" height_cm="190" weight_kg="79" first_name="Alireza" last_name="Haghighi" country="Iran">
+    <teams>
+      <team id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" country_code="IRN" position="G" is_manager="false" is_player="true" country="Iran" jersey_number="12"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="13b1a427-d0ff-4e29-87e2-0ef224ea6be6" name="WC Qualification"/>
+          <team id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="12" matches_started="0" minutes_played="1004" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="41a5d148-0107-44be-81a0-a524a1b7e8fb" name="Portugal" country_code="PRT" country="Portugal"/>
+          <tournament_group id="41b6cac3-1f34-4804-9b5f-459b757f1641" name="Segunda Liga"/>
+          <tournament id="0ca09f5b-5d79-486a-bcc6-a7ff545fc101" name="Segunda Liga"/>
+          <team id="1c49dd54-ba74-4422-b5f2-b9b0d97612f7" name="SC Covilha" alias="" country_code="PRT" country="Portugal" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 196480/1405923359 -->
+  </player>
+</profile>

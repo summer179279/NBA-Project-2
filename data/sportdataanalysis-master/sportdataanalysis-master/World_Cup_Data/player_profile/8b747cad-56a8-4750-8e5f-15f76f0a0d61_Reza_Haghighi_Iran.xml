@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:24:02Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="8b747cad-56a8-4750-8e5f-15f76f0a0d61" country_code="IRN" preferred_foot="" height_in="74" weight_lb="0" height_cm="187" weight_kg="0" first_name="Reza" last_name="Haghighi" country="Iran">
+    <teams>
+      <team id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" country_code="IRN" position="M" is_manager="false" is_player="true" country="Iran" jersey_number="8"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="2" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 223350/1405923360 -->
+  </player>
+</profile>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-11-20 04:42:17 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-11-19T05:00:00+00:00" end_time="2013-11-20T04:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="ff76cdb2-9e72-4ba9-956f-9d99033cbe13" full_name="Tony Allen" last_modified="2013-11-19T22:44:32+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="055cc677-2ccd-4dbf-8066-8a4744d096ee" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-20T03:17:00+00:00"/>
+        <game id="79005d50-6077-444e-947a-0afe18567cee" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-20T03:44:47+00:00"/>
+        <game id="84809d89-e4ee-4f94-9854-98b29c130851" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-20T03:10:56+00:00"/>
+        <game id="b033660c-2959-4c03-82d9-eef8b6ac2a21" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-20T02:30:57+00:00"/>
+        <game id="eaf42c47-4123-4603-bbd5-112d13770f25" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-19T06:14:07+00:00"/>
+        <game id="fcdb377c-e650-40d6-a869-58d7eaac84fe" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-20T03:10:53+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="79005d50-6077-444e-947a-0afe18567cee" last_modified="2013-11-20T03:44:47+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="eaf42c47-4123-4603-bbd5-112d13770f25" last_modified="2013-11-19T06:14:07+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="055cc677-2ccd-4dbf-8066-8a4744d096ee" last_modified="2013-11-20T03:17:00+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="b033660c-2959-4c03-82d9-eef8b6ac2a21" last_modified="2013-11-20T02:30:57+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="fcdb377c-e650-40d6-a869-58d7eaac84fe" last_modified="2013-11-20T03:10:54+00:00"/>
+      </results>
+    </games>
+    <standings>
+      <team id="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" name="Knicks" market="New York" last_modified="2013-11-20T03:22:20+00:00"/>
+      <team id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" name="Wizards" market="Washington" last_modified="2013-11-20T02:32:19+00:00"/>
+      <team id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" name="Pistons" market="Detroit" last_modified="2013-11-20T03:22:20+00:00"/>
+      <team id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" market="Minnesota" last_modified="2013-11-20T02:32:19+00:00"/>
+      <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis" last_modified="2013-11-19T06:19:32+00:00"/>
+      <team id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" market="Houston" last_modified="2013-11-20T03:52:17+00:00"/>
+      <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" last_modified="2013-11-20T03:12:22+00:00"/>
+      <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" last_modified="2013-11-20T03:52:17+00:00"/>
+      <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" last_modified="2013-11-19T06:19:32+00:00"/>
+      <team id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" name="Heat" market="Miami" last_modified="2013-11-20T03:12:23+00:00"/>
+    </standings>
+  </changelog>
+</league>
+<!-- Generation ended @ 2013-11-20 04:42:17 +0000 -->

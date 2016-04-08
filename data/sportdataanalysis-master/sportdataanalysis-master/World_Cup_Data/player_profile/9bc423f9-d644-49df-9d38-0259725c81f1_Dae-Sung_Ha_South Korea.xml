@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:37:11Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="9bc423f9-d644-49df-9d38-0259725c81f1" country_code="KOR" preferred_foot="R" height_in="70" weight_lb="0" height_cm="177" weight_kg="0" first_name="Dae-Sung" last_name="Ha" country="South Korea">
+    <teams>
+      <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" country_code="KOR" position="M" is_manager="false" is_player="true" country="South Korea" jersey_number="8"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="6705b18c-c544-485e-953c-20e10f9b5798" name="AFC Champions League"/>
+          <team id="640ba0bd-0b7f-4c61-ba11-243307f533b6" name="Beijing Guoan FC" alias="" country_code="CHN" country="China" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 222718/1405922550 -->
+  </player>
+</profile>

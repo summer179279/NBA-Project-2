@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:41:37Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="29d2c31a-bda2-46cd-bc43-9e445280aa4d" status="closed" scratched="false" period="P2" scheduled="2014-06-30T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" loser_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="29d2c31a-bda2-46cd-bc43-9e445280aa4d" status="closed" number="1" home_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" away_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" home_score="2" away_score="0"/>
+      </round>
+      <home id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" formation="4-3-3" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="112" ball_safe="103" corner_kicks="12" dangerous_attacks="76" fouls="12" free_kicks="17" goal_attempts="11" goal_kicks="6" offsides="3" saves="3" shots_total="11" substitutions="2" throw_ins="21" yellow_card="1" shots_on_target="6" shots_off_target="5" possessions="49"/>
+        <players>
+          <player id="0a1ab76a-8aa5-4d1f-9235-a8e01db66076" country_code="FRA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Laurent" last_name="Koscielny" country="France" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c9de37f7-cd23-4045-bea2-0634891d7b94" country_code="FRA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Paul" last_name="Pogba" country="France" jersey_number="19">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="18e314fd-a184-44d7-92e1-453883687ffe" country_code="FRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Mamadou" last_name="Sakho" country="France" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a206449f-9bbb-4b11-983b-60ef64330b07" country_code="FRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Eliaquim" last_name="Mangala" country="France" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="18ff4125-c7a7-4cdb-8fc4-70caf0381d12" country_code="FRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mickael" last_name="Landreau" country="France" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19971399-cfe1-4a68-90d9-44ba215f6d31" country_code="FRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Remy" last_name="Cabella" country="France" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8039f66e-9605-4ead-b470-9e104f3f0223" country_code="FRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Bacary" last_name="Sagna" country="France" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="08862528-470e-4af0-a337-77e285293259" country_code="FRA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Loic" last_name="Remy" country="France" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="69031066-777d-4c70-b341-010036ada614" country_code="FRA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Mathieu" last_name="Valbuena" country="France" jersey_number="8">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0438d2f4-6e42-406a-8d6b-230bb8e6b049" country_code="FRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Morgan" last_name="Schneiderlin" country="France" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="88e58104-4b86-4a8a-8824-5adf9ea6e5b3" country_code="FRA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Raphael" last_name="Varane" country="France" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde" country_code="FRA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Karim" last_name="Benzema" country="France" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1246bbaa-dc4d-451c-a948-3a3505c742e6" country_code="FRA" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Blaise" last_name="Matuidi" country="France" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1dac127c-a7fd-4ccd-a3ea-f7c38591845e" country_code="FRA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Hugo" last_name="Lloris" country="France" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5f4cd917-0baf-43b0-af5c-c248f2d4d8a8" country_code="FRA" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Antoine" last_name="Griezmann" country="France" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="276bee31-b14b-4811-8ba2-f6156185a5f6" country_code="FRA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Yohan" last_name="Cabaye" country="France" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="420f1db5-59fa-45e4-8c1c-787a4c106af6" country_code="FRA" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Olivier" last_name="Giroud" country="France" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0f947d92-13e7-4809-b2b4-88a63551f432" country_code="FRA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Patrice" last_name="Evra" country="France" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0c558460-ef74-48a1-a008-5c5b5e32f668" country_code="FRA" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Moussa" last_name="Sissoko" country="France" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0962d335-279a-49cb-b1eb-841cca80045f" country_code="FRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Lucas" last_name="Digne" country="France" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0081aa4c-11a5-4482-b64a-9b39b23b044e" country_code="FRA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Mathieu" last_name="Debuchy" country="France" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="23309a2b-0177-4dff-a9ce-e816e778d0e7" country_code="FRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Stephane" last_name="Ruffier" country="France" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="41bc4c09-ad53-4837-992a-4f24661b5ffb" country_code="FRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Antonio" last_name="Mavuba" country="France" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="112" ball_safe="100" corner_kicks="9" dangerous_attacks="72" fouls="15" free_kicks="15" goal_attempts="5" goal_kicks="8" offsides="2" saves="4" shots_total="5" substitutions="2" throw_ins="21" yellow_card="0" shots_on_target="3" shots_off_target="2" possessions="51"/>
+        <players>
+          <player id="b21a2120-cac8-425f-9e8a-03e9ccb50aed" country_code="NGA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Babatunde" country="Nigeria" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="773fa96e-06ec-4c04-941d-f425cd94037e" country_code="NGA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ebenezer" last_name="Odunlami" country="Nigeria" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b2002dc5-03a2-46d6-9a32-f537e7957328" country_code="NGA" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Reuben Shalu" last_name="Gabriel" country="Nigeria" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="c49abd39-a6e7-4513-9e14-2bb1aec824d6" country_code="NGA" position="F" started="false" tactical_position="7" tactical_order="10" first_name="Uche" last_name="Nwofor" country="Nigeria" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="2bc36ba8-d56b-4fdc-93a0-13afe352ba15" country_code="NGA" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Ahmed" last_name="Musa" country="Nigeria" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="66631b63-c99e-4f61-a098-de3e02b697e8" country_code="NGA" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Victor" last_name="Moses" country="Nigeria" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1cb69e08-8e13-4745-8102-b5b3a7d00248" country_code="NGA" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Peter" last_name="Odemwingie" country="Nigeria" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f7ea2e94-ec5a-4284-92e6-d47702115524" country_code="NGA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Godfrey" last_name="Oboabona" country="Nigeria" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c5835bd0-30b3-489c-8e5b-0960e8d02b61" country_code="NGA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Uchebo" country="Nigeria" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d07ff856-de5e-4718-a671-aae38a2ac69e" country_code="NGA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Joseph" last_name="Yobo" country="Nigeria" jersey_number="2">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0785dc29-ddb8-4923-8a3f-2728e93d14a2" country_code="NGA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Vincent" last_name="Enyeama" country="Nigeria" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b4724ede-318a-47d4-b01b-6afa41dd8e58" country_code="NGA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ramon Olamilekan" last_name="Azeez" country="Nigeria" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aa8dd74a-ae39-48c5-83f2-0528b2126bb0" country_code="NGA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Azubuike Emmanuel" last_name="Egwueke" country="Nigeria" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14ae8ed5-3186-4fb5-93da-aba212c607d2" country_code="NGA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Kenneth" last_name="Omeruo" country="Nigeria" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="fb4c2b76-1daa-40ec-86f5-b063771f2ee0" country_code="NGA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Chigozie" last_name="Agbim" country="Nigeria" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7cea667a-f5f5-4bc0-a537-8050b2c38eea" country_code="NGA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Emmanuel" last_name="Emenike" country="Nigeria" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="30e14633-237c-4082-926b-e554518d081c" country_code="NGA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Ogenyi Eddy" last_name="Onazi" country="Nigeria" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="6881b9ff-7a43-4165-84f6-a6c73c7c967f" country_code="NGA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="John Obi" last_name="Mikel" country="Nigeria" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1da10ba8-7c5c-4b7e-8145-27bbb9ac8e1d" country_code="NGA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Shola" last_name="Ameobi" country="Nigeria" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="723c19a9-2479-4773-9113-3aa2ccf7ce63" country_code="NGA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Christantus Ejike" last_name="Uzoenyi" country="Nigeria" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a10841c0-633a-49f4-9676-35f0a45c9627" country_code="NGA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Austin" last_name="Ejide" country="Nigeria" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3a8ce543-1fb4-4c01-a976-4595d78c5060" country_code="NGA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Efe Eric" last_name="Ambrose" country="Nigeria" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="bd9a2d38-18b7-498f-8670-48aa26185a66" country_code="NGA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Juwon" last_name="Oshaniwa" country="Nigeria" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249"/>
+      <facts>
+        <fact id="2a187a50-d2e0-4793-965b-d273a8f457f1" type="match_started" time="2014-06-30T16:00:04Z" updated_time="2014-06-30T16:00:04Z" scratch="false" clock="1" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>The whistle has gone to start the match.</description>
+        </fact>
+        <fact id="dc120993-501e-4e61-80f6-aa0c51857efe" type="period_started" time="2014-06-30T16:00:04Z" updated_time="2014-06-30T16:00:04Z" scratch="false" period="P1"/>
+        <fact id="2717cf02-66fe-4c44-8a0d-37c16444e071" type="throwin" time="2014-06-30T16:00:58Z" updated_time="2014-06-30T16:00:58Z" scratch="false" x="35" y="99" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in France.</description>
+        </fact>
+        <fact id="4e9ac184-a5da-4865-9360-042652ee274e" type="free_kick" time="2014-06-30T16:01:20Z" updated_time="2014-06-30T16:01:20Z" scratch="false" x="31" y="77" clock="1" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a3e28282-6d42-4b05-966d-024fb8fc92b5" type="throwin" time="2014-06-30T16:02:03Z" updated_time="2014-06-30T16:02:03Z" scratch="false" x="41" y="1" clock="1" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a Nigeria throw-in in France's half.</description>
+        </fact>
+        <fact id="13e5614a-abcf-4287-8a5f-d910e4cd69cf" type="throwin" time="2014-06-30T16:02:29Z" updated_time="2014-06-30T16:02:29Z" scratch="false" x="24" y="1" clock="2" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="eca24ae2-3211-4ea8-b9fd-0c188f06b0b3" type="corner_kick" time="2014-06-30T16:03:09Z" updated_time="2014-06-30T16:03:09Z" scratch="false" x="5" y="5" clock="3" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="53d32e08-8f50-4bf4-b468-846524352f98" type="throwin" time="2014-06-30T16:03:12Z" updated_time="2014-06-30T16:03:12Z" scratch="false" x="31" y="1" clock="3" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Can Nigeria get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="59224e6c-6550-4117-a25a-3d80825d85af" type="corner_kick" time="2014-06-30T16:04:14Z" updated_time="2014-06-30T16:04:14Z" scratch="false" x="95" y="5" clock="4" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="0f8a14fb-9548-4d5d-b396-d89396d1083f" type="shot_off_target" time="2014-06-30T16:04:26Z" updated_time="2014-06-30T16:04:33Z" scratch="false" x="95" y="5" clock="5" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="420f1db5-59fa-45e4-8c1c-787a4c106af6">
+          <description>France's Olivier Giroud attacks the ball with his head but his effort fails to hit the target.</description>
+        </fact>
+        <fact id="1864b183-1878-403c-b100-0deeb1942d2e" type="goal_kick" time="2014-06-30T16:04:27Z" updated_time="2014-06-30T16:04:27Z" scratch="false" x="95" y="50" clock="5" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Goal kick for Nigeria at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="e62db7cd-db59-4458-a366-eaedd55a6cf8" type="throwin" time="2014-06-30T16:06:42Z" updated_time="2014-06-30T16:06:42Z" scratch="false" x="79" y="98" clock="6" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France get the ball into an attacking position from this throw-in in Nigeria's half?</description>
+        </fact>
+        <fact id="278f6687-ffef-4af4-ac8d-5a76fe101201" type="throwin" time="2014-06-30T16:07:10Z" updated_time="2014-06-30T16:07:10Z" scratch="false" x="85" y="99" clock="7" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="57bb8380-3753-4da6-b8d4-8b9c11bc26ea" type="free_kick" time="2014-06-30T16:07:31Z" updated_time="2014-06-30T16:07:31Z" scratch="false" x="63" y="63" clock="7" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a free kick to Nigeria in their own half.</description>
+        </fact>
+        <fact id="47a089ba-7257-4fa6-a2ff-dcb70ba2a240" type="goal_kick" time="2014-06-30T16:08:17Z" updated_time="2014-06-30T16:08:17Z" scratch="false" x="5" y="50" clock="8" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have a goal kick.</description>
+        </fact>
+        <fact id="e41f7404-1049-4f71-896d-fdc52159d005" type="throwin" time="2014-06-30T16:09:03Z" updated_time="2014-06-30T16:09:03Z" scratch="false" x="64" y="98" clock="8" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a France throw-in in Nigeria's half.</description>
+        </fact>
+        <fact id="8baca42e-dc1f-4e19-adb6-56c6fefec89b" type="shot_blocked" time="2014-06-30T16:09:28Z" updated_time="2014-06-30T16:09:38Z" scratch="false" x="22" y="34" clock="10" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>In Brasilia, Emmanuel Emenike of Nigeria is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="e612920a-b195-45c2-865a-3b9ae879c9f4" type="throwin" time="2014-06-30T16:11:31Z" updated_time="2014-06-30T16:11:31Z" scratch="false" x="47" y="98" clock="11" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="57621c05-8819-4413-976a-67730f3ed0cd" type="free_kick" time="2014-06-30T16:12:03Z" updated_time="2014-06-30T16:12:03Z" scratch="false" x="18" y="85" clock="11" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>France will need to be alert as they defend a dangerous free kick from Nigeria.</description>
+        </fact>
+        <fact id="7b841c0b-9730-46b9-a801-65ffb5a29423" type="injury" time="2014-06-30T16:12:40Z" updated_time="2014-06-30T16:12:40Z" scratch="false" x="18" y="85" clock="13" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>Ogenyi Eddy Onazi is down and play has been interrupted for a few moments.</description>
+        </fact>
+        <fact id="cede279d-aba6-4100-ab9a-e6b70e364b87" type="game_resumed" time="2014-06-30T16:13:53Z" updated_time="2014-06-30T16:13:53Z" scratch="false" clock="13">
+          <description>The match is underway again.</description>
+        </fact>
+        <fact id="66d3c09a-44d7-4085-8960-d05e50124a2e" type="keeper_save" time="2014-06-30T16:14:17Z" updated_time="2014-06-30T16:14:17Z" scratch="false" x="23" y="34" clock="14" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="fcea6ab0-2e19-4376-a401-ed1449ea3acd" type="shot_on_target" time="2014-06-30T16:14:17Z" updated_time="2014-06-30T16:14:26Z" scratch="false" x="23" y="34" clock="15" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>In Brasilia, Emmanuel Emenike (Nigeria) gets his head to the ball but the strike is cleared by an untiring defence.</description>
+        </fact>
+        <fact id="a33a955b-dbba-4b59-a416-d0c233f33823" type="shot_off_target" time="2014-06-30T16:14:43Z" updated_time="2014-06-30T16:14:48Z" scratch="false" x="82" y="26" clock="15" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="420f1db5-59fa-45e4-8c1c-787a4c106af6">
+          <description>Olivier Giroud of France gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="5c2575c3-d2f9-4419-bb1f-cfdc3e5929a6" type="goal_kick" time="2014-06-30T16:14:43Z" updated_time="2014-06-30T16:14:43Z" scratch="false" x="95" y="50" clock="15" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball goes out of play for a Nigeria goal kick.</description>
+        </fact>
+        <fact id="7fb7db3b-e1cb-4279-a994-19d449165e63" type="injury_return" time="2014-06-30T16:15:28Z" updated_time="2014-06-30T16:15:28Z" scratch="false" clock="15" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>Nigeria's Ogenyi Eddy Onazi looks ok and returns to the pitch.</description>
+        </fact>
+        <fact id="4df67232-401c-4e03-b14c-036c78e223b0" type="free_kick" time="2014-06-30T16:15:44Z" updated_time="2014-06-30T16:15:44Z" scratch="false" x="22" y="56" clock="15" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Free kick Nigeria.</description>
+        </fact>
+        <fact id="5ddbdf41-f251-47d8-9240-716b31dbd46e" type="shot_off_target" time="2014-06-30T16:17:01Z" updated_time="2014-06-30T16:17:01Z" scratch="false" x="22" y="56" clock="17" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>In Brasilia Nigeria attack through Emmanuel Emenike. The finish is off target, however.</description>
+        </fact>
+        <fact id="512aa2a6-b6b9-476b-97ce-b69ebd6c1e62" type="goal_kick" time="2014-06-30T16:17:01Z" updated_time="2014-06-30T16:17:01Z" scratch="false" x="5" y="50" clock="17" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger awards France a goal kick.</description>
+        </fact>
+        <fact id="6c3e1057-b17a-448a-a61d-730ad5d6206b" type="free_kick" time="2014-06-30T16:17:24Z" updated_time="2014-06-30T16:17:24Z" scratch="false" x="49" y="66" clock="17" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a free kick to Nigeria.</description>
+        </fact>
+        <fact id="c9a0ebed-9bea-481a-b0f7-d3513b9c2b68" type="throwin" time="2014-06-30T16:18:53Z" updated_time="2014-06-30T16:18:53Z" scratch="false" x="57" y="99" clock="18" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in for Nigeria in their own half.</description>
+        </fact>
+        <fact id="a6a3994d-f924-4dec-bb58-175768116be9" type="offside" time="2014-06-30T16:18:41Z" updated_time="2014-06-30T16:20:00Z" scratch="false" x="21" y="76" clock="19" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Nigeria drive forward but Emmanuel Emenike is judged offside.</description>
+        </fact>
+        <fact id="cff0375d-f0f6-4b2b-a23c-e7d0ccc0e2b7" type="free_kick" time="2014-06-30T16:19:16Z" updated_time="2014-06-30T16:19:16Z" scratch="false" x="61" y="82" clock="19" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a free kick to France.</description>
+        </fact>
+        <fact id="0fd5feb4-2a75-4f5c-9b33-e18d2a807c37" type="offside" time="2014-06-30T16:19:42Z" updated_time="2014-06-30T16:19:42Z" scratch="false" x="85" y="84" clock="20" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>Karim Benzema for France is whistled offside.</description>
+        </fact>
+        <fact id="8e7deb0e-b65c-4a12-becf-4a8d3551dd3f" type="throwin" time="2014-06-30T16:20:07Z" updated_time="2014-06-30T16:20:07Z" scratch="false" x="42" y="99" clock="20" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Ball safe as France is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="45236427-c748-41af-9cb8-7e1b8a29413f" type="throwin" time="2014-06-30T16:20:21Z" updated_time="2014-06-30T16:20:21Z" scratch="false" x="65" y="98" clock="20" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France to take a throw-in in Nigeria territory.</description>
+        </fact>
+        <fact id="187b0599-6758-40c5-b831-ff4ad04e7c0a" type="free_kick" time="2014-06-30T16:20:52Z" updated_time="2014-06-30T16:20:52Z" scratch="false" x="88" y="19" clock="20" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a free kick to Nigeria in their own half.</description>
+        </fact>
+        <fact id="127ccf9c-266f-407e-89e7-a36d4c634a38" type="free_kick" time="2014-06-30T16:21:20Z" updated_time="2014-06-30T16:21:20Z" scratch="false" x="41" y="57" clock="21" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Free kick Nigeria.</description>
+        </fact>
+        <fact id="d7d3ff94-e6e2-41bd-bde7-f52abfa6c024" type="keeper_save" time="2014-06-30T16:21:55Z" updated_time="2014-06-30T16:21:55Z" scratch="false" x="94" y="89" clock="21" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="4340ffa6-267f-4b02-970e-728f9d08056d" type="shot_on_target" time="2014-06-30T16:21:55Z" updated_time="2014-06-30T16:21:55Z" scratch="false" x="94" y="89" clock="22" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="c9de37f7-cd23-4045-bea2-0634891d7b94">
+          <description>Paul Pogba for France drives towards goal at Estadio Nacional de Brasilia . But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="40635907-fdf4-47d7-b1d7-a8ae13be0671" type="corner_kick" time="2014-06-30T16:22:10Z" updated_time="2014-06-30T16:22:10Z" scratch="false" x="95" y="90" clock="22" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="8665ffcc-d43a-477f-b199-d577e2b7a2b7" type="corner_kick" time="2014-06-30T16:22:42Z" updated_time="2014-06-30T16:22:42Z" scratch="false" x="95" y="5" clock="23" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="e7cb0069-3e32-4ec1-a984-d809de50ba02" type="corner_kick" time="2014-06-30T16:23:41Z" updated_time="2014-06-30T16:23:41Z" scratch="false" x="5" y="5" clock="24" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="332d1db9-dfa4-44ad-b25e-891e1ac9dea2" type="shot_blocked" time="2014-06-30T16:23:51Z" updated_time="2014-06-30T16:24:18Z" scratch="false" x="22" y="55" clock="24" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Important block from the France defence as Ogenyi Eddy Onazi fires in a strike for Nigeria.</description>
+        </fact>
+        <fact id="8bc7114a-f531-4556-88fe-05b60e9a9d61" type="free_kick" time="2014-06-30T16:24:04Z" updated_time="2014-06-30T16:24:04Z" scratch="false" x="18" y="17" clock="24" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="41452f02-2075-4440-a4b1-32012a358aa7" type="throwin" time="2014-06-30T16:24:40Z" updated_time="2014-06-30T16:24:40Z" scratch="false" x="93" y="99" clock="24" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have a dangerous throw-in.</description>
+        </fact>
+        <fact id="8ef0c34f-a424-4b57-8df8-d935277dbaf3" type="throwin" time="2014-06-30T16:24:50Z" updated_time="2014-06-30T16:24:50Z" scratch="false" x="82" y="99" clock="24" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="c507f716-75e5-4d94-98b3-aab2d1bebd53" type="corner_kick" time="2014-06-30T16:26:05Z" updated_time="2014-06-30T16:26:05Z" scratch="false" x="5" y="5" clock="26" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="c0637c77-eec7-45f3-ad55-59b198952502" type="free_kick" time="2014-06-30T16:26:25Z" updated_time="2014-06-30T16:26:25Z" scratch="false" x="59" y="46" clock="26" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a free kick to France.</description>
+        </fact>
+        <fact id="6e6b4d14-5575-4ed1-b8f7-33d19b052912" type="throwin" time="2014-06-30T16:26:48Z" updated_time="2014-06-30T16:26:48Z" scratch="false" x="80" y="2" clock="26" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in for Nigeria at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="114d7553-2cb8-46ca-85ec-df4881a7f6c0" type="goal_kick" time="2014-06-30T16:27:46Z" updated_time="2014-06-30T16:27:46Z" scratch="false" x="95" y="50" clock="27" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger awards Nigeria a goal kick.</description>
+        </fact>
+        <fact id="ccab3cb7-6d04-47dc-bbda-14d2973f5946" type="shot_blocked" time="2014-06-30T16:27:27Z" updated_time="2014-06-30T16:27:33Z" scratch="false" x="79" y="73" clock="28" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France's Paul Pogba gets in a shot but it is blocked by a Nigeria defender.</description>
+        </fact>
+        <fact id="e4c1665d-036a-4861-9faa-1e20c6b639c3" type="free_kick" time="2014-06-30T16:28:19Z" updated_time="2014-06-30T16:28:19Z" scratch="false" x="55" y="45" clock="28" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d21850eb-693a-46c3-b360-092622d1d166" type="throwin" time="2014-06-30T16:28:35Z" updated_time="2014-06-30T16:28:35Z" scratch="false" x="32" y="98" clock="28" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in France.</description>
+        </fact>
+        <fact id="26f10bee-077a-4661-9686-f6d919862cbe" type="throwin" time="2014-06-30T16:29:45Z" updated_time="2014-06-30T16:29:45Z" scratch="false" x="21" y="2" clock="29" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Can Nigeria get the ball into an attacking position from this throw-in in France's half?</description>
+        </fact>
+        <fact id="aa12f2d3-18a8-42b4-9240-68e152f79fa4" type="shot_blocked" time="2014-06-30T16:29:42Z" updated_time="2014-06-30T16:29:53Z" scratch="false" x="23" y="31" clock="30" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter Odemwingie (Nigeria) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="6b619f3c-2065-4d11-82b2-90643634a90d" type="free_kick" time="2014-06-30T16:30:42Z" updated_time="2014-06-30T16:30:42Z" scratch="false" x="7" y="44" clock="30" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a free kick to France in their own half.</description>
+        </fact>
+        <fact id="d4d5c5c5-91c4-4ed7-957d-a3da44d4a0b6" type="corner_kick" time="2014-06-30T16:30:33Z" updated_time="2014-06-30T16:30:33Z" scratch="false" x="5" y="5" clock="31" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Corner awarded to Nigeria.</description>
+        </fact>
+        <fact id="ff4cf418-4e7b-4cf6-8c7f-d7898b61cdbc" type="throwin" time="2014-06-30T16:31:46Z" updated_time="2014-06-30T16:31:46Z" scratch="false" x="94" y="99" clock="31" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France capitalize from this throw-in deep inside Nigeria's half?</description>
+        </fact>
+        <fact id="ba238492-beda-451b-a8d0-54244d17fe3d" type="corner_kick" time="2014-06-30T16:31:36Z" updated_time="2014-06-30T16:31:36Z" scratch="false" x="95" y="5" clock="32" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="98f6fd64-51ee-4c0f-af91-85efeae3d68b" type="shot_off_target" time="2014-06-30T16:33:10Z" updated_time="2014-06-30T16:33:10Z" scratch="false" x="89" y="82" clock="34" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="0081aa4c-11a5-4482-b64a-9b39b23b044e">
+          <description>Mathieu Debuchy for France gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="b02ed37a-207b-4334-817f-4ecac8df68b4" type="goal_kick" time="2014-06-30T16:33:10Z" updated_time="2014-06-30T16:33:10Z" scratch="false" x="95" y="50" clock="34" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have a goal kick.</description>
+        </fact>
+        <fact id="639817f1-998d-42eb-bc31-9ee0184555c9" type="offside" time="2014-06-30T16:34:09Z" updated_time="2014-06-30T16:38:30Z" scratch="false" x="88" y="76" clock="35" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="276bee31-b14b-4811-8ba2-f6156185a5f6">
+          <description>In Brasilia France's Yohan Cabaye is caught offside.</description>
+        </fact>
+        <fact id="23624ee6-969c-4ace-ac49-76737f4b0790" type="throwin" time="2014-06-30T16:36:29Z" updated_time="2014-06-30T16:36:29Z" scratch="false" x="31" y="1" clock="36" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France in their own half.</description>
+        </fact>
+        <fact id="a9641670-f6a8-4227-ba0f-b28d287836c8" type="corner_kick" time="2014-06-30T16:37:55Z" updated_time="2014-06-30T16:37:55Z" scratch="false" x="5" y="90" clock="38" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="b415f89a-bc87-46b5-b704-12640c7ff79f" type="goal_kick" time="2014-06-30T16:38:11Z" updated_time="2014-06-30T16:38:11Z" scratch="false" x="5" y="50" clock="38" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Ball goes out of play for a France goal kick.</description>
+        </fact>
+        <fact id="f5f90f51-8731-4132-ad42-5a3331e1e154" type="throwin" time="2014-06-30T16:38:41Z" updated_time="2014-06-30T16:38:41Z" scratch="false" x="69" y="2" clock="38" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball safe as Nigeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="efd40b47-ce3e-4892-9ed8-ca1f5214f097" type="throwin" time="2014-06-30T16:38:53Z" updated_time="2014-06-30T16:38:53Z" scratch="false" x="44" y="2" clock="38" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France in their own half.</description>
+        </fact>
+        <fact id="3c0faac4-a55e-4c5b-8b64-3e88be83765d" type="shot_off_target" time="2014-06-30T16:39:14Z" updated_time="2014-06-30T16:39:14Z" scratch="false" x="87" y="63" clock="40" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="0081aa4c-11a5-4482-b64a-9b39b23b044e">
+          <description>France's Mathieu Debuchy misses with an attempt on goal.</description>
+        </fact>
+        <fact id="c0be96a2-c3d5-4cd5-bc29-04cc8553bdaa" type="goal_kick" time="2014-06-30T16:39:14Z" updated_time="2014-06-30T16:39:14Z" scratch="false" x="95" y="50" clock="40" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Goal kick for Nigeria at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="02cec892-5984-4549-a3c5-30a8f26fbd18" type="throwin" time="2014-06-30T16:41:43Z" updated_time="2014-06-30T16:41:43Z" scratch="false" x="85" y="2" clock="41" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in Nigeria.</description>
+        </fact>
+        <fact id="f210956e-2fe3-449f-b22f-c100c505aec6" type="throwin" time="2014-06-30T16:42:04Z" updated_time="2014-06-30T16:42:04Z" scratch="false" x="44" y="1" clock="42" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="c671e35a-0334-4419-a869-af235017fa28" type="throwin" time="2014-06-30T16:42:40Z" updated_time="2014-06-30T16:42:40Z" scratch="false" x="79" y="2" clock="42" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a France throw-in in Nigeria's half.</description>
+        </fact>
+        <fact id="320f7eb2-fcd9-4526-86c5-d009cfc10cbb" type="keeper_save" time="2014-06-30T16:43:41Z" updated_time="2014-06-30T16:43:41Z" scratch="false" x="21" y="22" clock="43" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="ce14963d-a1ee-45b0-8d70-93b043a9c557" type="free_kick" time="2014-06-30T16:43:45Z" updated_time="2014-06-30T16:43:45Z" scratch="false" x="14" y="46" clock="43" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a free kick to France in their own half.</description>
+        </fact>
+        <fact id="598e448a-24de-42a4-a3aa-1fda2070e2ab" type="shot_on_target" time="2014-06-30T16:43:41Z" updated_time="2014-06-30T16:43:41Z" scratch="false" x="21" y="22" clock="44" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Nigeria drive forward and Emmanuel Emenike gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="fdb417c1-6f0a-4a6d-949d-bf9c33c85a70" type="throwin" time="2014-06-30T16:45:28Z" updated_time="2014-06-30T16:45:28Z" scratch="false" x="44" y="1" clock="45" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="dbe942b1-0672-44cf-bfca-d324a98035f4" type="goal_kick" time="2014-06-30T16:45:45Z" updated_time="2014-06-30T16:45:45Z" scratch="false" x="5" y="50" clock="45" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have a goal kick.</description>
+        </fact>
+        <fact id="09ffe6e1-76b5-4fb6-93c4-a6fd6a74020a" type="offside" time="2014-06-30T16:47:22Z" updated_time="2014-06-30T17:02:02Z" scratch="false" x="82" y="55" clock="45" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="0a1ab76a-8aa5-4d1f-9235-a8e01db66076">
+          <description>France's Laurent Koscielny has run offside.</description>
+        </fact>
+        <fact id="da8c6fd8-a8f2-4270-ba32-037c75abb813" type="injury_time" time="2014-06-30T16:45:20Z" updated_time="2014-06-30T16:45:20Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="e2936089-d788-4472-b959-4128fcdca104" type="period_started" time="2014-06-30T16:47:30Z" updated_time="2014-06-30T16:47:30Z" scratch="false" period="H"/>
+        <fact id="13969a98-00ad-4295-b1fa-7374d810ecf5" type="period_started" time="2014-06-30T17:02:50Z" updated_time="2014-06-30T17:02:50Z" scratch="false" period="P2"/>
+        <fact id="4438085a-5c58-4019-8add-ec81dd24cf18" type="throwin" time="2014-06-30T17:03:13Z" updated_time="2014-06-30T17:03:13Z" scratch="false" x="25" y="1" clock="45" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="3d8cd551-e0de-4f3a-a9c2-d6580fb40d59" type="throwin" time="2014-06-30T16:46:21Z" updated_time="2014-06-30T16:46:21Z" scratch="false" x="50" y="99" clock="45" injury_time="1" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France get the ball into an attacking position from this throw-in in Nigeria's half?</description>
+        </fact>
+        <fact id="2953e7ff-87c1-47b4-bab1-ec30f629a2f1" type="free_kick" time="2014-06-30T16:46:44Z" updated_time="2014-06-30T16:46:44Z" scratch="false" x="78" y="84" clock="45" injury_time="1" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Free kick France.</description>
+        </fact>
+        <fact id="6e86a951-7851-40b7-ad86-61c945491bc3" type="period_over" time="2014-06-30T16:47:30Z" updated_time="2014-06-30T16:47:30Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The first-half is over.</description>
+        </fact>
+        <fact id="c5f55f5d-9c4f-416f-86ae-523ee5956424" type="goal_kick" time="2014-06-30T17:04:24Z" updated_time="2014-06-30T17:04:24Z" scratch="false" x="95" y="50" clock="46" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball goes out of play for a Nigeria goal kick.</description>
+        </fact>
+        <fact id="33dccdb3-3a43-49a3-9933-86091470da33" type="throwin" time="2014-06-30T17:05:26Z" updated_time="2014-06-30T17:05:26Z" scratch="false" x="33" y="98" clock="47" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a Nigeria throw-in in France's half.</description>
+        </fact>
+        <fact id="79cbbe7b-d740-4931-a191-18a9c121bee3" type="corner_kick" time="2014-06-30T17:05:01Z" updated_time="2014-06-30T17:05:01Z" scratch="false" x="5" y="5" clock="48" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="0887435f-1b86-4cf7-970b-20261cdf4e12" type="throwin" time="2014-06-30T17:06:00Z" updated_time="2014-06-30T17:06:00Z" scratch="false" x="79" y="98" clock="48" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Can France get the ball into an attacking position from this throw-in in Nigeria's half?</description>
+        </fact>
+        <fact id="df4c3cd4-adc3-45da-95ac-2bddc87a6d06" type="game_resumed" time="2014-06-30T17:07:16Z" updated_time="2014-06-30T17:07:16Z" scratch="false" clock="49">
+          <description>The match in Brasilia is underway once more.</description>
+        </fact>
+        <fact id="a5510d80-0d39-4c8e-928b-70b431d9a295" type="injury" time="2014-06-30T17:06:39Z" updated_time="2014-06-30T17:07:00Z" scratch="false" x="79" y="98" clock="50" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="bd9a2d38-18b7-498f-8670-48aa26185a66">
+          <description>Juwon Oshaniwa is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="580a3c36-6e81-42e1-9ffe-957a2f3494c6" type="corner_kick" time="2014-06-30T17:07:44Z" updated_time="2014-06-30T17:07:44Z" scratch="false" x="95" y="5" clock="50" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="f5dc4edd-2a1c-4f13-88a5-6cca83af1a2d" type="injury_return" time="2014-06-30T17:07:57Z" updated_time="2014-06-30T17:07:57Z" scratch="false" clock="50" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="bd9a2d38-18b7-498f-8670-48aa26185a66">
+          <description>Juwon Oshaniwa for Nigeria is back on the field again.</description>
+        </fact>
+        <fact id="6e6d0245-24e4-454b-8c4b-236734a30c38" type="offside" time="2014-06-30T17:09:24Z" updated_time="2014-06-30T17:09:24Z" scratch="false" x="10" y="18" clock="52" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Emmanuel Emenike of Nigeria is pulled up for offside.</description>
+        </fact>
+        <fact id="4ed74e9d-af0c-4f76-84ad-a04ceae3b875" type="injury" time="2014-06-30T17:10:35Z" updated_time="2014-06-30T17:10:35Z" scratch="false" x="10" y="18" clock="53" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="88e58104-4b86-4a8a-8824-5adf9ea6e5b3">
+          <description>The match has been stopped briefly for attention to the injured Raphael Varane.</description>
+        </fact>
+        <fact id="472b2e2b-a9b9-409a-bd33-0fc7ef414cc6" type="game_resumed" time="2014-06-30T17:10:49Z" updated_time="2014-06-30T17:10:49Z" scratch="false" clock="53">
+          <description>Mark Geiger has blown to resume play in Brasilia.</description>
+        </fact>
+        <fact id="39878a92-d9de-4a0f-9f9e-4cbc4e22d2c3" type="free_kick" time="2014-06-30T17:11:26Z" updated_time="2014-06-30T17:11:26Z" scratch="false" x="42" y="35" clock="53" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="6f535603-cc55-412a-adfc-86a3f7d419a5" type="card" time="2014-06-30T17:11:40Z" updated_time="2014-06-30T17:24:43Z" scratch="false" clock="54" card="Y" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="1246bbaa-dc4d-451c-a948-3a3505c742e6">
+          <description>Blaise Matuidi for France has been booked by Mark Geiger and receives a first yellow card.</description>
+        </fact>
+        <fact id="85c3c641-86cd-4bb1-8ff4-d59267af8902" type="injury" time="2014-06-30T17:12:02Z" updated_time="2014-06-30T17:16:17Z" scratch="false" x="42" y="35" clock="54" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>The match at Estadio Nacional de Brasilia  has been interrupted briefly for a check on Ogenyi Eddy Onazi, who is down injured.</description>
+        </fact>
+        <fact id="e917a596-f0c6-4cd2-a0ae-f850a84e85f3" type="injury_return" time="2014-06-30T17:12:12Z" updated_time="2014-06-30T17:12:12Z" scratch="false" clock="54" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="88e58104-4b86-4a8a-8824-5adf9ea6e5b3">
+          <description>France's Raphael Varane is back in action after a slight knock.</description>
+        </fact>
+        <fact id="6db639b0-3fce-47ac-92e6-787841c31f07" type="game_resumed" time="2014-06-30T17:14:01Z" updated_time="2014-06-30T17:14:01Z" scratch="false" clock="56">
+          <description>Play has been resumed at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="65b0a3d4-d123-463e-a5cd-8bf3cba04675" type="throwin" time="2014-06-30T17:14:24Z" updated_time="2014-06-30T17:14:24Z" scratch="false" x="5" y="2" clock="56" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in for Nigeria close to the penalty box.</description>
+        </fact>
+        <fact id="1dd96a95-30a6-424b-85e0-de1afebf3ecb" type="corner_kick" time="2014-06-30T17:15:06Z" updated_time="2014-06-30T17:15:06Z" scratch="false" x="5" y="5" clock="58" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Corner awarded to Nigeria.</description>
+        </fact>
+        <fact id="b267e84c-32b0-4a8a-9229-154f1d5fef64" type="free_kick" time="2014-06-30T17:16:08Z" updated_time="2014-06-30T17:16:08Z" scratch="false" x="79" y="99" clock="58" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6545a432-d385-4986-be67-cf2ecabe7d0f" type="substitution" time="2014-06-30T17:16:17Z" updated_time="2014-06-30T17:16:17Z" scratch="false" clock="59" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_out_id="30e14633-237c-4082-926b-e554518d081c" player_in_id="b2002dc5-03a2-46d6-9a32-f537e7957328">
+          <description>Stephen Keshi (Nigeria) is making a first change, with Reuben Shalu Gabriel replacing the possibly injured Ogenyi Eddy Onazi.</description>
+        </fact>
+        <fact id="08bff660-5fdb-4768-9585-b974f9adbd90" type="shot_off_target" time="2014-06-30T17:17:09Z" updated_time="2014-06-30T17:17:09Z" scratch="false" x="19" y="86" clock="60" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Nigeria's Emmanuel Emenike breaks free at Estadio Nacional de Brasilia . But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="55850468-e216-444c-94af-5ea1456ff539" type="goal_kick" time="2014-06-30T17:17:09Z" updated_time="2014-06-30T17:17:09Z" scratch="false" x="5" y="50" clock="60" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Goal kick for France at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="71b3f626-7193-4040-8ae6-c3c75fa66e95" type="throwin" time="2014-06-30T17:19:07Z" updated_time="2014-06-30T17:19:07Z" scratch="false" x="14" y="2" clock="61" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a throw-in for Nigeria, close to France's area.</description>
+        </fact>
+        <fact id="265c58ab-7d87-45f5-86b6-0e78f2a4c76e" type="substitution" time="2014-06-30T17:19:22Z" updated_time="2014-06-30T17:19:22Z" scratch="false" clock="62" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_out_id="420f1db5-59fa-45e4-8c1c-787a4c106af6" player_in_id="5f4cd917-0baf-43b0-af5c-c248f2d4d8a8">
+          <description>Antoine Griezmann is on a sub for Olivier Giroud for France.</description>
+        </fact>
+        <fact id="e7bd30d4-fa66-488f-8698-f303510a5f57" type="free_kick" time="2014-06-30T17:20:10Z" updated_time="2014-06-30T17:20:10Z" scratch="false" x="22" y="15" clock="62" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a free kick to Nigeria.</description>
+        </fact>
+        <fact id="a15ee290-7836-48e7-b031-75fff21d2e21" type="free_kick" time="2014-06-30T17:20:31Z" updated_time="2014-06-30T17:20:31Z" scratch="false" x="38" y="71" clock="63" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="56c852af-055d-44d8-b77e-a36eea88da37" type="shot_on_target" time="2014-06-30T17:21:32Z" updated_time="2014-06-30T17:21:32Z" scratch="false" x="20" y="41" clock="64" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="1cb69e08-8e13-4745-8102-b5b3a7d00248">
+          <description>Nigeria's Peter Odemwingie is on target but unsuccessful.</description>
+        </fact>
+        <fact id="e5299177-5196-4c43-8c80-82c2412a3b4e" type="keeper_save" time="2014-06-30T17:21:33Z" updated_time="2014-06-30T17:21:33Z" scratch="false" x="20" y="41" clock="64" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="19414ec9-556e-45c4-96f4-4bf1b9fcc567" type="free_kick" time="2014-06-30T17:22:55Z" updated_time="2014-06-30T17:22:55Z" scratch="false" x="60" y="31" clock="65" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Free kick France.</description>
+        </fact>
+        <fact id="f6ebf770-0cce-4861-ab0a-aa39a5c18de0" type="throwin" time="2014-06-30T17:23:41Z" updated_time="2014-06-30T17:23:41Z" scratch="false" x="86" y="1" clock="66" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Nigeria needs to be cautious. France have an attacking throw-in.</description>
+        </fact>
+        <fact id="cf579733-e2af-4735-ac70-eb91bba9fa46" type="throwin" time="2014-06-30T17:23:54Z" updated_time="2014-06-30T17:23:54Z" scratch="false" x="86" y="99" clock="66" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a throw-in for France, close to Nigeria's area.</description>
+        </fact>
+        <fact id="94621fc1-be5a-4744-945d-10c0892ecbce" type="free_kick" time="2014-06-30T17:24:20Z" updated_time="2014-06-30T17:24:20Z" scratch="false" x="64" y="58" clock="66" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Free kick France.</description>
+        </fact>
+        <fact id="db06d262-ecd7-4269-830a-3d2f0a2b3557" type="corner_kick" time="2014-06-30T17:25:52Z" updated_time="2014-06-30T17:25:52Z" scratch="false" x="5" y="5" clock="68" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="3f047b2a-041f-4aa6-a984-05ddd212c3f3" type="throwin" time="2014-06-30T17:26:00Z" updated_time="2014-06-30T17:26:00Z" scratch="false" x="20" y="98" clock="68" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="60570b13-3b0d-438a-9803-d90c99573e2c" type="keeper_save" time="2014-06-30T17:26:53Z" updated_time="2014-06-30T17:26:53Z" scratch="false" x="78" y="47" clock="69" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="63cfcf12-82af-4a20-9b09-3bc344c3fedb" type="free_kick" time="2014-06-30T17:26:58Z" updated_time="2014-06-30T17:26:58Z" scratch="false" x="64" y="54" clock="69" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a free kick to Nigeria in their own half.</description>
+        </fact>
+        <fact id="ed826af0-afed-4df9-89fd-85fdd90b36d7" type="shot_on_target" time="2014-06-30T17:26:53Z" updated_time="2014-06-30T17:26:53Z" scratch="false" x="78" y="47" clock="70" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>Karim Benzema of France smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="5fa1f3c8-3ae6-4052-89cc-4d5d56671366" type="game_resumed" time="2014-06-30T17:28:23Z" updated_time="2014-06-30T17:28:23Z" scratch="false" clock="70">
+          <description>The match at Estadio Nacional de Brasilia  is underway again.</description>
+        </fact>
+        <fact id="e7dcafce-5a24-4622-9f14-93c870c690ed" type="injury" time="2014-06-30T17:28:02Z" updated_time="2014-06-30T17:28:02Z" scratch="false" x="64" y="54" clock="71" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="3a8ce543-1fb4-4c01-a976-4595d78c5060">
+          <description>Attention is being given to Nigeria’s Efe Eric Ambrose and play has been suspended briefly.</description>
+        </fact>
+        <fact id="3852f623-c618-48bd-8f36-c136f1f87962" type="throwin" time="2014-06-30T17:29:01Z" updated_time="2014-06-30T17:29:01Z" scratch="false" x="63" y="99" clock="71" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball safe as Nigeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="cb735477-777c-49df-a3f2-7166db3e429c" type="injury_return" time="2014-06-30T17:29:47Z" updated_time="2014-06-30T17:29:47Z" scratch="false" clock="72" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="3a8ce543-1fb4-4c01-a976-4595d78c5060">
+          <description>Nigeria’s Efe Eric Ambrose is on his feet again at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="ce1e6f3a-e67f-4144-ab6b-28d9f432d12b" type="throwin" time="2014-06-30T17:29:49Z" updated_time="2014-06-30T17:29:49Z" scratch="false" x="70" y="1" clock="72" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in for Nigeria at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="dc80cdb1-d244-4a00-85f6-4ea8317004c3" type="shot_off_target" time="2014-06-30T17:30:30Z" updated_time="2014-06-30T17:30:36Z" scratch="false" x="78" y="41" clock="73" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>France's Karim Benzema gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="c03f914b-5182-4ff0-9e1c-9f69be4b0aee" type="goal_kick" time="2014-06-30T17:30:31Z" updated_time="2014-06-30T17:30:31Z" scratch="false" x="95" y="50" clock="73" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger awards Nigeria a goal kick.</description>
+        </fact>
+        <fact id="f4c06b55-b8a4-4f68-843d-34934e5982a8" type="free_kick" time="2014-06-30T17:31:01Z" updated_time="2014-06-30T17:31:01Z" scratch="false" x="55" y="59" clock="73" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="340ec5d1-b066-4191-83aa-d059cf27fd61" type="goal_kick" time="2014-06-30T17:31:51Z" updated_time="2014-06-30T17:31:51Z" scratch="false" x="95" y="50" clock="74" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball goes out of play for a Nigeria goal kick.</description>
+        </fact>
+        <fact id="5aa101f6-f079-4339-8a26-21b20ac81092" type="corner_kick" time="2014-06-30T17:33:01Z" updated_time="2014-06-30T17:33:01Z" scratch="false" x="95" y="90" clock="76" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="885c0e0b-1418-4641-8f32-c01ab0917e23" type="corner_kick" time="2014-06-30T17:33:42Z" updated_time="2014-06-30T17:33:42Z" scratch="false" x="95" y="5" clock="76" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="3fa6a960-b68a-4925-9d22-35067dfd08ce" type="throwin" time="2014-06-30T17:34:06Z" updated_time="2014-06-30T17:34:06Z" scratch="false" x="50" y="2" clock="76" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a France throw-in in Nigeria's half.</description>
+        </fact>
+        <fact id="8db12f8c-eefd-4df0-94b5-73e8d77086ad" type="throwin" time="2014-06-30T17:34:29Z" updated_time="2014-06-30T17:34:29Z" scratch="false" x="78" y="2" clock="76" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in Nigeria.</description>
+        </fact>
+        <fact id="b62197c9-24cf-49cb-8d15-91abe65420f2" type="shot_blocked" time="2014-06-30T17:33:56Z" updated_time="2014-06-30T17:34:14Z" scratch="false" x="95" y="5" clock="77" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France drive upfield and Karim Benzema gets in a shot. The strike is blocked by a Nigeria defender.</description>
+        </fact>
+        <fact id="f8041fa6-5a5f-46f7-8c55-5a784120ab9f" type="shot_on_target" time="2014-06-30T17:34:01Z" updated_time="2014-06-30T17:34:20Z" scratch="false" x="82" y="39" clock="77" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="276bee31-b14b-4811-8ba2-f6156185a5f6">
+          <description>Yohan Cabaye (France) gets in a great strike – straight into the post! Ohhhh so close!</description>
+        </fact>
+        <fact id="2d154d44-97f2-45f9-991c-75e9f7ae03b9" type="throwin" time="2014-06-30T17:34:57Z" updated_time="2014-06-30T17:34:57Z" scratch="false" x="54" y="2" clock="77" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in for Nigeria in their own half.</description>
+        </fact>
+        <fact id="dd72fd53-3156-41e3-8578-06c95d9a18b6" type="free_kick" time="2014-06-30T17:35:24Z" updated_time="2014-06-30T17:35:24Z" scratch="false" x="66" y="47" clock="77" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a free kick to France.</description>
+        </fact>
+        <fact id="5fae5568-3f5b-4e0e-bdf2-50e3ec1fb536" type="keeper_save" time="2014-06-30T17:36:03Z" updated_time="2014-06-30T17:36:03Z" scratch="false" x="97" y="8" clock="78" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="57d07438-417f-4bab-b745-d218d0bcbf01" type="shot_on_target" time="2014-06-30T17:36:03Z" updated_time="2014-06-30T17:36:03Z" scratch="false" x="97" y="8" clock="79" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="33510d5c-8c15-4c97-82b1-7e9e21cd4fde">
+          <description>Karim Benzema (France) strikes at Estadio Nacional de Brasilia  but his header is cleared.</description>
+        </fact>
+        <fact id="a65c390a-47cf-45e9-8857-87f9ad50a0ae" type="corner_kick" time="2014-06-30T17:36:20Z" updated_time="2014-06-30T17:36:20Z" scratch="false" x="95" y="5" clock="79" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="1111e544-66bb-4936-a4a1-de23da736cae" type="goal" time="2014-06-30T17:36:38Z" updated_time="2014-06-30T17:36:38Z" scratch="false" x="80" y="58" clock="79" home_score="1" away_score="0" penalty="false" owngoal="false" header="true" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="c9de37f7-cd23-4045-bea2-0634891d7b94">
+          <description>Goal! France take a 1-0 lead through a well-placed header from Paul Pogba.</description>
+        </fact>
+        <fact id="6ee770fe-b078-47dc-8b69-409d04e4e526" type="throwin" time="2014-06-30T17:37:50Z" updated_time="2014-06-30T17:37:50Z" scratch="false" x="21" y="100" clock="80" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria to take a throw-in in France territory.</description>
+        </fact>
+        <fact id="a70e7927-0308-4a79-bab3-8585f9eefae2" type="free_kick" time="2014-06-30T17:38:55Z" updated_time="2014-06-30T17:38:55Z" scratch="false" x="30" y="29" clock="81" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a free kick to France in their own half.</description>
+        </fact>
+        <fact id="c95978a3-330d-48f8-9237-b6175cc65824" type="keeper_save" time="2014-06-30T17:41:09Z" updated_time="2014-06-30T17:41:09Z" scratch="false" x="94" y="94" clock="83" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="e2d1b025-7c91-4c0a-b610-4a31c363b9b2" type="shot_on_target" time="2014-06-30T17:41:09Z" updated_time="2014-06-30T17:41:09Z" scratch="false" x="94" y="94" clock="84" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="5f4cd917-0baf-43b0-af5c-c248f2d4d8a8">
+          <description>France's Antoine Griezmann gets in a shot on goal at Estadio Nacional de Brasilia . But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="19cfef8e-9d33-4e64-a737-d6223453690e" type="corner_kick" time="2014-06-30T17:41:30Z" updated_time="2014-06-30T17:41:30Z" scratch="false" x="95" y="5" clock="84" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="933cd042-6cd8-470b-b5fd-a63abdaf8ccf" type="shot_blocked" time="2014-06-30T17:42:22Z" updated_time="2014-06-30T17:42:22Z" scratch="false" x="8" y="9" clock="85" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Victor Moses (Nigeria) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="06c87857-d163-4e6a-a9ee-5132e77e25ba" type="corner_kick" time="2014-06-30T17:42:37Z" updated_time="2014-06-30T17:42:37Z" scratch="false" x="5" y="5" clock="85" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="2f3e0ad2-b2eb-467c-8761-abc7ac476622" type="free_kick" time="2014-06-30T17:43:00Z" updated_time="2014-06-30T17:43:00Z" scratch="false" x="58" y="66" clock="85" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Mark Geiger signals a free kick to France.</description>
+        </fact>
+        <fact id="a022e050-fffb-49ce-b9dc-32378a455fb0" type="throwin" time="2014-06-30T17:44:30Z" updated_time="2014-06-30T17:44:30Z" scratch="false" x="31" y="0" clock="86" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="4a4add7b-e1fc-4bfb-a796-12768c4cd918" type="corner_kick" time="2014-06-30T17:44:02Z" updated_time="2014-06-30T17:44:02Z" scratch="false" x="95" y="90" clock="87" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554"/>
+        <fact id="064cb988-918d-47e0-915b-82e65243428f" type="throwin" time="2014-06-30T17:45:10Z" updated_time="2014-06-30T17:45:10Z" scratch="false" x="30" y="99" clock="87" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Mark Geiger signals a Nigeria throw-in in France's half.</description>
+        </fact>
+        <fact id="772d25cf-209e-4ecd-8935-79ae38d150ce" type="free_kick" time="2014-06-30T17:45:49Z" updated_time="2014-06-30T17:45:49Z" scratch="false" x="63" y="31" clock="88" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Free kick France.</description>
+        </fact>
+        <fact id="3744e410-aee3-4417-a87b-104ffe12f149" type="substitution" time="2014-06-30T17:46:13Z" updated_time="2014-06-30T17:46:13Z" scratch="false" clock="89" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_out_id="66631b63-c99e-4f61-a098-de3e02b697e8" player_in_id="c49abd39-a6e7-4513-9e14-2bb1aec824d6">
+          <description>Stephen Keshi is making the team's second substitution at Estadio Nacional de Brasilia  with Uche Nwofor replacing Victor Moses.</description>
+        </fact>
+        <fact id="1f718e84-bed3-4383-8159-54a364199ad9" type="throwin" time="2014-06-30T17:47:09Z" updated_time="2014-06-30T17:47:09Z" scratch="false" x="82" y="1" clock="89" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Throw-in for France close to the penalty box.</description>
+        </fact>
+        <fact id="878dc6e0-fd20-4927-b2db-b63b0200e038" type="corner_kick" time="2014-06-30T17:46:56Z" updated_time="2014-06-30T17:46:56Z" scratch="false" x="95" y="90" clock="90" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="4bd98a0a-f3c8-4873-accd-d663b075e4d5" type="injury_time" time="2014-06-30T17:47:40Z" updated_time="2014-06-30T17:47:40Z" scratch="false" clock="90" injury_time="5" period="P2">
+          <description>The fourth official's board shows 5 minutes, which will be added to the second half.</description>
+        </fact>
+        <fact id="53d36d8e-1676-4f54-8db1-a16c38eb017e" type="corner_kick" time="2014-06-30T17:48:27Z" updated_time="2014-06-30T17:48:27Z" scratch="false" x="95" y="90" clock="90" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Corner awarded to France.</description>
+        </fact>
+        <fact id="7b74098d-0c7d-4a6b-8cc9-fbddc406c207" type="goal" time="2014-06-30T17:48:44Z" updated_time="2014-06-30T18:55:15Z" scratch="false" clock="90" injury_time="2" home_score="2" away_score="0" penalty="false" owngoal="true" header="false" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_id="d07ff856-de5e-4718-a671-aae38a2ac69e" assist1_id="69031066-777d-4c70-b341-010036ada614">
+          <description>Own goal! Joseph Yobo scores in his own net to make it 2-0.</description>
+        </fact>
+        <fact id="66a3e810-5bc2-41eb-8df6-8ab818aa6408" type="goal_kick" time="2014-06-30T17:49:58Z" updated_time="2014-06-30T17:49:58Z" scratch="false" x="5" y="50" clock="90" injury_time="2" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>Goal kick for France at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="cc19da5a-fbe9-4b3e-af16-93662b2e47fc" type="substitution" time="2014-06-30T17:50:32Z" updated_time="2014-06-30T17:50:32Z" scratch="false" clock="90" injury_time="3" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" player_out_id="69031066-777d-4c70-b341-010036ada614" player_in_id="0c558460-ef74-48a1-a008-5c5b5e32f668">
+          <description>France make their second substitution with Moussa Sissoko replacing Mathieu Valbuena.</description>
+        </fact>
+        <fact id="6c5731fd-98a3-4eb9-a405-b4d863daee70" type="free_kick" time="2014-06-30T17:51:27Z" updated_time="2014-06-30T17:51:27Z" scratch="false" x="39" y="45" clock="90" injury_time="3" team_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554">
+          <description>France awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e13c6dc6-5386-45b8-90cc-6e418fb2429f" type="period_over" time="2014-06-30T17:52:35Z" updated_time="2014-06-30T17:52:35Z" scratch="false" home_score="2" away_score="0" period="P2">
+          <description>Full-time! The final score is 2-0.</description>
+        </fact>
+        <fact id="33d238ab-cf11-4d1a-9f41-9143d8000870" type="match_ended" time="2014-06-30T17:52:35Z" updated_time="2014-06-30T17:52:35Z" scratch="false" home_score="2" away_score="0" winner_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" draw="false"/>
+      </facts>
+      <!-- 4768152/4481/4785 -->
+    </match>
+  </matches>
+</summary>

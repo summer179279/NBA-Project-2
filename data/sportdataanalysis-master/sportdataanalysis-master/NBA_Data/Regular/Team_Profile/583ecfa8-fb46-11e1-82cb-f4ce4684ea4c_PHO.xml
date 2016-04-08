@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-25 16:34:36 +0000 -->
+<team xmlns="http://feed.elasticstats.com/schema/basketball/team-v2.0.xsd" id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" name="Suns" alias="PHX" market="Phoenix" founded="1968">
+  <venue id="1d2e59b2-2479-5f84-a6a7-e82f65dd8442" name="US Airways Center" capacity="18422" address="201 E. Jefferson St." city="Phoenix" state="AZ" zip="85004" country="USA"/>
+  <hierarchy>
+    <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+    <conference id="7fe7e212-de01-4f8f-a31d-b9f0a95731e3" name="WESTERN CONFERENCE" alias="WESTERN"/>
+    <division id="f074cb3e-90cf-42e1-8067-cdbcd99ec230" name="Pacific" alias="PACIFIC"/>
+  </hierarchy>
+  <coaches>
+    <coach id="c9aef2fb-e8f1-4cd0-8917-ccdbf05c1bd9" full_name="Jeff Hornacek" first_name="Jeff" last_name="Hornacek" position="Head Coach" experience="1"/>
+  </coaches>
+  <players>
+    <player id="11da94f7-02c0-4bc9-9da3-8e8994f46fb6" status="ACT" full_name="Gerald Green" first_name="Gerald" last_name="Green" abbr_name="G.Green" height="80" weight="210" position="G-F" primary_position="SG" jersey_number="14" experience="6" college="Gulf Shores Academy (TX)" birth_place="Houston, TX, USA" birthdate="1986-01-26" updated="2013-09-06T19:45:31+00:00">
+      <draft team_id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" year="2005" round="1" pick="18"/>
+    </player>
+    <player id="228a967c-1b1a-407e-adc6-c1432bb50e6a" status="ACT" full_name="Tyler Ennis" first_name="Tyler" last_name="Ennis" abbr_name="T.Ennis" height="74" weight="180" position="G" primary_position="PG" jersey_number="0" experience="0" college="Syracuse" birth_place="Brampton, ON, CAN" birthdate="1994-08-24" updated="2014-07-14T20:36:12+00:00">
+      <draft team_id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="1" pick="18"/>
+    </player>
+    <player id="25c4a949-c310-4bd3-af3f-10441215b323" status="ACT" full_name="Markieff Morris" first_name="Markieff" last_name="Morris" abbr_name="Mk.Morris" height="82" weight="245" position="F" primary_position="PF" jersey_number="11" experience="2" college="Kansas" birth_place="Philadelphia, PA, USA" birthdate="1989-09-02" updated="2013-11-14T17:39:28+00:00">
+      <draft team_id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" year="2011" round="1" pick="13"/>
+    </player>
+    <player id="2ec7092d-e988-4576-ab8b-e3197448fa5d" status="ACT" full_name="T.J. Warren" first_name="T.J." last_name="Warren" abbr_name="T.Warren" height="80" weight="215" position="F" primary_position="SF" jersey_number="0" experience="0" college="North Carolina State" birth_place="Durham, NC, USA" birthdate="1993-09-15" updated="2014-07-14T20:38:15+00:00">
+      <draft team_id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="1" pick="14"/>
+    </player>
+    <player id="2facd6c5-10c6-4481-a20f-a885b3f84460" status="ACT" full_name="Alex Len" first_name="Alex" last_name="Len" abbr_name="A.Len" height="85" weight="255" position="C" primary_position="C" jersey_number="21" experience="0" college="Maryland" birth_place="Antratsyt, UA, UKR" birthdate="1993-06-16" updated="2013-10-18T20:58:45+00:00">
+      <draft team_id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="1" pick="5"/>
+    </player>
+    <player id="33a91bda-9f4d-4f80-97d8-9bc574f6afc2" status="ACT" full_name="Anthony Tolliver" first_name="Anthony" last_name="Tolliver" abbr_name="A.Tolliver" height="80" weight="240" position="F" primary_position="PF" jersey_number="43" experience="5" college="Creighton" birth_place="Springfield, MO, USA" birthdate="1985-06-01" updated="2014-07-16T18:27:47+00:00">
+      <draft year="2007"/>
+    </player>
+    <player id="41c51f09-4fc0-4322-b566-0b10a2f17e56" status="ACT" full_name="Leandro Barbosa" first_name="Leandro" last_name="Barbosa" abbr_name="L.Barbosa" height="75" weight="193" position="G" primary_position="SG" jersey_number="10" experience="10" college="Palmeiras (Brazil)" birth_place="Sao Paulo" birthdate="1982-11-28" updated="2014-01-14T03:13:35+00:00">
+      <draft team_id="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" year="2003" round="1" pick="28"/>
+    </player>
+    <player id="439e37ba-cbc2-4c95-9d4c-2a2e43bb11c2" status="ACT" full_name="Shavlik Randolph" first_name="Shavlik" last_name="Randolph" abbr_name="S.Randolph" height="81" weight="235" position="F" primary_position="PF" jersey_number="43" experience="6" college="Duke" birth_place="Raleigh, NC, USA" birthdate="1983-11-24" updated="2014-03-18T01:50:13+00:00">
+      <draft year="2005"/>
+    </player>
+    <player id="4d7cb358-0fec-482f-9f57-92c39e8bf214" status="ACT" full_name="Marcus Morris" first_name="Marcus" last_name="Morris" abbr_name="Mc.Morris" height="81" weight="235" position="F" primary_position="PF" jersey_number="15" experience="2" college="Kansas" birth_place="Philadelphia, PA, USA" birthdate="1989-09-02" updated="2013-11-14T17:39:23+00:00">
+      <draft team_id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" year="2011" round="1" pick="14"/>
+    </player>
+    <player id="55a8550a-3b5d-437a-b3fc-a4b6937c3e71" status="ACT" full_name="Archie Goodwin" first_name="Archie" last_name="Goodwin" abbr_name="A.Goodwin" height="77" weight="198" position="G" primary_position="SG" jersey_number="20" experience="0" college="Kentucky" birth_place="Little Rock, AR, USA" birthdate="1994-08-17" updated="2014-02-10T14:00:51+00:00">
+      <draft team_id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="1" pick="29"/>
+    </player>
+    <player id="6f3c2149-0d74-4ccd-ba58-097a37ae9504" status="ACT" full_name="Emeka Okafor" first_name="Emeka" last_name="Okafor" abbr_name="E.Okafor" height="82" weight="255" position="C" primary_position="C" jersey_number="50" experience="9" college="Connecticut" birth_place="Houston, TX, USA" birthdate="1982-09-28" updated="2013-11-01T15:08:16+00:00">
+      <draft team_id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" year="2004" round="1" pick="2"/>
+      <injuries>
+        <injury id="789051c4-8b19-410d-86b3-46e597b1b22b" desc="Neck" status="Out Indefinitely" start_date="2013-09-18" update_date="2014-02-04"/>
+      </injuries>
+    </player>
+    <player id="73e55440-d981-48e6-9639-d2ed7276f22d" status="ACT" full_name="Miles Plumlee" first_name="Miles" last_name="Plumlee" abbr_name="M.Plumlee" height="83" weight="255" position="C-F" primary_position="C" jersey_number="22" experience="1" college="Duke" birth_place="Fort Wayne, IN, USA" birthdate="1988-09-01" updated="2013-10-01T21:20:56+00:00">
+      <draft team_id="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" year="2012" round="1" pick="26"/>
+    </player>
+    <player id="7b0f360a-ff81-429e-acd7-849be494083c" status="ACT" full_name="Alec Brown" first_name="Alec" last_name="Brown" abbr_name="A.Brown" height="85" weight="230" position="C" primary_position="C" jersey_number="0" experience="0" college="Green Bay" birth_place="Winona, MN" birthdate="1991-02-12" updated="2014-06-27T21:03:14+00:00">
+      <draft team_id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="2nd" pick="50th"/>
+    </player>
+    <player id="8cee3c73-f765-4000-882d-0c6d0b8acbe3" status="ACT" full_name="Eric Bledsoe" first_name="Eric" last_name="Bledsoe" abbr_name="E.Bledsoe" height="73" weight="195" position="G" primary_position="PG" jersey_number="2" experience="3" college="Kentucky" birth_place="Birmingham, AL, USA" birthdate="1989-12-09" updated="2013-09-06T19:41:34+00:00">
+      <draft team_id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" year="2010" round="1" pick="18"/>
+    </player>
+    <player id="b4282659-dd1a-4042-a075-7df4890858e7" status="ACT" full_name="Bogdan Bogdanovic" first_name="Bogdan" last_name="Bogdanovic" abbr_name="B.Bogdanovic" height="78" weight="210" position="G" primary_position="SG" jersey_number="0" experience="0" birth_place="Belgrade, SRB" birthdate="1992-08-18" updated="2014-07-14T20:35:47+00:00">
+      <draft team_id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="1st" pick="27th"/>
+    </player>
+    <player id="bda5388e-a657-4e2c-8e12-6ed474518d25" status="ACT" full_name="Isaiah Thomas" first_name="Isaiah" last_name="Thomas" abbr_name="I.Thomas" height="69" weight="185" position="G" primary_position="PG" jersey_number="0" experience="2" college="Washington" birth_place="Tacoma, WA, USA" birthdate="1989-02-07" updated="2014-07-14T20:37:21+00:00">
+      <draft team_id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" year="2011" round="2" pick="60"/>
+    </player>
+    <player id="da7d17aa-f245-4710-820c-99d29a7458b4" status="ACT" full_name="P.J. Tucker" first_name="P.J." last_name="Tucker" abbr_name="P.Tucker" height="78" weight="224" position="F-G" primary_position="SF" jersey_number="17" experience="2" college="Texas" birth_place="Raleigh, NC, USA" birthdate="1985-05-05" updated="2014-03-14T18:27:35+00:00">
+      <draft team_id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" year="2006" round="2" pick="35"/>
+    </player>
+    <player id="fea7b92a-0124-4775-8747-e4828f0dab8b" status="ACT" full_name="Goran Dragic" first_name="Goran" last_name="Dragic" abbr_name="G.Dragic" height="75" weight="190" position="G" primary_position="PG" jersey_number="1" experience="5" college="Union Olimpija" birth_place="Ljubljana,, SVN" birthdate="1986-05-06" updated="2013-07-22T15:50:23+00:00">
+      <draft team_id="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" year="2008" round="2" pick="45"/>
+    </player>
+  </players>
+</team>
+<!-- Generation ended @ 2014-07-25 16:34:36 +0000 -->

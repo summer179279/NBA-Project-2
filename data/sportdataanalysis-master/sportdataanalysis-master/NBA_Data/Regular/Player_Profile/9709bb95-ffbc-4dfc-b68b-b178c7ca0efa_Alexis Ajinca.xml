@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:40:53 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="9709bb95-ffbc-4dfc-b68b-b178c7ca0efa" status="ACT" full_name="Alexis Ajinca" first_name="Alexis" last_name="Ajinca" abbr_name="A.Ajinca" height="86" weight="248" position="C" primary_position="C" jersey_number="42" experience="3" birth_place="Saint-Etienne,, FRA" birthdate="1988-05-06" updated="2013-12-28T01:23:47+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" name="Pelicans" market="New Orleans" alias="NOP"/>
+  <draft team_id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" year="2008" round="1" pick="20"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" name="Pelicans" market="New Orleans" alias="NOP">
+        <statistics>
+          <total games_played="56" games_started="30" minutes="951.0" field_goals_made="136" field_goals_att="249" three_points_made="0" three_points_att="1" blocked_att="15" free_throws_made="56" free_throws_att="67" offensive_rebounds="94" defensive_rebounds="183" assists="40" turnovers="63" steals="23" blocks="46" personal_fouls="187" tech_fouls="0" points="328" flagrant_fouls="0" free_throws_pct="0.836" two_points_pct="0.548" three_points_pct="0.0" field_goals_pct="0.546" rebounds="277" assists_turnover_ratio="0.63" two_points_made="136" two_points_att="248"/>
+          <average points="5.9" blocked_att="0.27" turnovers="1.13" free_throws_att="1.2" field_goals_att="4.45" off_rebounds="1.68" two_points_att="4.43" assists="0.7" blocks="0.82" personal_fouls="3.34" two_points_made="2.43" flagrant_fouls="0.0" rebounds="4.95" three_points_made="0.0" minutes="17.0" def_rebounds="3.27" free_throws_made="1.0" field_goals_made="2.43" steals="0.41" three_points_att="0.02"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:40:53 +0000 -->

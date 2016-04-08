@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:20:25 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-11-07T05:00:00+00:00" end_time="2013-11-08T04:59:59+00:00">
+    <profiles>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="c7eb45f8-706d-422f-b012-08147f63f023" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-07T05:19:50+00:00"/>
+        <game id="d7faf5e6-0172-44f2-9214-aff9ac810760" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-08T04:42:31+00:00"/>
+        <game id="fbb86f22-f150-4459-bf88-ccd4dba14137" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-08T03:07:19+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="fbb86f22-f150-4459-bf88-ccd4dba14137" last_modified="2013-11-08T03:07:19+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="d7faf5e6-0172-44f2-9214-aff9ac810760" last_modified="2013-12-11T20:45:55+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="c7eb45f8-706d-422f-b012-08147f63f023" last_modified="2013-12-09T22:16:36+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="13097fdd-a479-480d-8f36-f679eb394f57" last_modified="2013-11-08T05:38:23+00:00"/>
+      </results>
+    </games>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:20:25 +0000 -->

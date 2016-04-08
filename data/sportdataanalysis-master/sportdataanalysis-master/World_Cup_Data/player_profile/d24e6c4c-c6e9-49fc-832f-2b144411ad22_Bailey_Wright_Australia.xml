@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:29:37Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="d24e6c4c-c6e9-49fc-832f-2b144411ad22" country_code="AUS" preferred_foot="R" height_in="68" weight_lb="187" height_cm="172" weight_kg="84" first_name="Bailey" last_name="Wright" country="Australia">
+    <teams>
+      <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" country_code="AUS" position="D" is_manager="false" is_player="true" country="Australia" jersey_number="8"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="4" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="45" matches_started="0" minutes_played="4050" yellow_cards="9" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="1af74217-6839-4313-bd13-0c2e0e5d4a73" name="League One"/>
+          <team id="c0d31ca5-1378-4419-8261-18860645ec21" name="Preston North End" alias="PRE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="270" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="198e85c7-8f71-40a7-920a-ee6562be7c5d" name="FA Cup"/>
+          <tournament id="a3802834-d780-422f-8205-6430735a4944" name="FA Cup"/>
+          <team id="c0d31ca5-1378-4419-8261-18860645ec21" name="Preston North End" alias="PRE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="fa1d2f2c-6189-4afd-9906-c623877e12e1" name="England" country_code="ENG" country="England"/>
+          <tournament_group id="8cf07e0d-a6db-45fa-a67c-c10b43449a69" name="League Cup"/>
+          <tournament id="3512b79f-bc4f-49f1-8c1b-e8d5e35c801e" name="League Cup"/>
+          <team id="c0d31ca5-1378-4419-8261-18860645ec21" name="Preston North End" alias="PRE" country_code="ENG" country="England" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 113955/1405922838 -->
+  </player>
+</profile>

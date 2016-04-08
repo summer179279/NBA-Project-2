@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:35:34Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="9403f149-fd67-4590-9b1b-2de4cf70dcce" status="closed" scratched="false" period="P2" scheduled="2014-07-08T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="28" number="2" type="cup" name="SF" scheduled_legs="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" loser_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="9403f149-fd67-4590-9b1b-2de4cf70dcce" status="closed" number="1" home_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" away_id="686950a8-4f89-4ed2-a32b-f0a564660859" home_score="1" away_score="7"/>
+      </round>
+      <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" formation="4-2-3-1" score="1" regular_score="1" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="83" ball_safe="76" corner_kicks="7" dangerous_attacks="62" fouls="11" free_kicks="13" goal_attempts="13" goal_kicks="4" offsides="3" saves="3" shots_total="13" substitutions="3" throw_ins="18" yellow_card="1" shots_on_target="8" shots_off_target="5" possessions="54"/>
+      </home>
+      <away id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-2-3-1" score="7" regular_score="7" penalty_score="" winner="true">
+        <scoring>
+          <half points="5" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="84" ball_safe="86" corner_kicks="5" dangerous_attacks="42" fouls="13" free_kicks="15" goal_attempts="12" goal_kicks="9" offsides="0" saves="7" shots_total="12" substitutions="3" throw_ins="20" yellow_card="0" shots_on_target="10" shots_off_target="2" possessions="46"/>
+      </away>
+      <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385"/>
+      <!-- 4768172/4748/4711 -->
+    </match>
+  </matches>
+</boxscore>

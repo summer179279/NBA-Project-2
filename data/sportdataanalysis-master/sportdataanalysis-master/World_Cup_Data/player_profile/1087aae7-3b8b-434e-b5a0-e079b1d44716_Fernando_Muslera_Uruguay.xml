@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:14:45Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="1087aae7-3b8b-434e-b5a0-e079b1d44716" country_code="URY" preferred_foot="R" height_in="74" weight_lb="163" height_cm="187" weight_kg="73" first_name="Fernando" last_name="Muslera" country="Uruguay">
+    <teams>
+      <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" country_code="URY" position="G" is_manager="false" is_player="true" country="Uruguay" jersey_number="1"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="360" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="11" matches_started="0" minutes_played="990" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="cc4b58e2-9d0d-4a0b-a189-0f10d4e4f0ff" name="Turkiye Kupasi"/>
+          <team id="11940ded-4f34-49ee-a8dd-ea9402fb34df" name="Galatasaray Istanbul" alias="GAL" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="29" matches_started="0" minutes_played="2585" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig"/>
+          <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig"/>
+          <team id="11940ded-4f34-49ee-a8dd-ea9402fb34df" name="Galatasaray Istanbul" alias="GAL" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="6" matches_started="0" minutes_played="540" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="11940ded-4f34-49ee-a8dd-ea9402fb34df" name="Galatasaray Istanbul" alias="GAL" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="390" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="f287e0ed-70ba-483d-be9c-3b0e763c5e7b" name="Confederations Cup"/>
+          <team id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 28381/1405922749 -->
+  </player>
+</profile>

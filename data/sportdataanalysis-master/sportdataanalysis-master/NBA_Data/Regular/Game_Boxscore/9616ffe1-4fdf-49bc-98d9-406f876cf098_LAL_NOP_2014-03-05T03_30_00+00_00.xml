@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-05 06:30:45 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="9616ffe1-4fdf-49bc-98d9-406f876cf098" status="closed" coverage="full" home_team="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-05T03:30:00+00:00" duration="2:16" attendance="18436" lead_changes="1" times_tied="2" clock="00:00" quarter="4">
+  <team name="Lakers" market="Los Angeles" id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" points="125">
+    <scoring>
+      <quarter number="1" sequence="1" points="23"/>
+      <quarter number="2" sequence="2" points="28"/>
+      <quarter number="3" sequence="3" points="34"/>
+      <quarter number="4" sequence="4" points="40"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Pau Gasol" position="C-F" primary_position="PF" jersey_number="16" id="4aafa7e4-d271-42d2-8979-bdefcd221d30">
+          <statistics minutes="32:13" field_goals_made="10" field_goals_att="15" field_goals_pct="66.7" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="10" two_points_att="15" two_points_pct="0.667" blocked_att="0" free_throws_made="9" free_throws_att="14" free_throws_pct="64.3" offensive_rebounds="5" defensive_rebounds="7" rebounds="12" assists="4" turnovers="2" steals="0" blocks="1" assists_turnover_ratio="2.0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" pls_min="-8" points="29"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Pau Gasol" position="C-F" primary_position="PF" jersey_number="16" id="4aafa7e4-d271-42d2-8979-bdefcd221d30">
+          <statistics minutes="32:13" field_goals_made="10" field_goals_att="15" field_goals_pct="66.7" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="10" two_points_att="15" two_points_pct="0.667" blocked_att="0" free_throws_made="9" free_throws_att="14" free_throws_pct="64.3" offensive_rebounds="5" defensive_rebounds="7" rebounds="12" assists="4" turnovers="2" steals="0" blocks="1" assists_turnover_ratio="2.0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" pls_min="-8" points="29"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Kendall Marshall" position="G" primary_position="PG" jersey_number="12" id="9fd789bc-0aa4-4028-b114-5014deacfbe2">
+          <statistics minutes="21:55" field_goals_made="0" field_goals_att="4" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="4" two_points_pct="0.0" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="1" rebounds="1" assists="10" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="5.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="0"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Pelicans" market="New Orleans" id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" points="132">
+    <scoring>
+      <quarter number="1" sequence="1" points="35"/>
+      <quarter number="2" sequence="2" points="32"/>
+      <quarter number="3" sequence="3" points="28"/>
+      <quarter number="4" sequence="4" points="37"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Anthony Davis" position="F-C" primary_position="PF" jersey_number="23" id="ea8826b8-1f76-4eab-b61e-ffcb176880f3">
+          <statistics minutes="42:27" field_goals_made="10" field_goals_att="16" field_goals_pct="62.5" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="10" two_points_att="16" two_points_pct="0.625" blocked_att="0" free_throws_made="8" free_throws_att="11" free_throws_pct="72.7" offensive_rebounds="3" defensive_rebounds="12" rebounds="15" assists="3" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="3.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="28"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Anthony Davis" position="F-C" primary_position="PF" jersey_number="23" id="ea8826b8-1f76-4eab-b61e-ffcb176880f3">
+          <statistics minutes="42:27" field_goals_made="10" field_goals_att="16" field_goals_pct="62.5" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="10" two_points_att="16" two_points_pct="0.625" blocked_att="0" free_throws_made="8" free_throws_att="11" free_throws_pct="72.7" offensive_rebounds="3" defensive_rebounds="12" rebounds="15" assists="3" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="3.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="28"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Tyreke Evans" position="F-G" primary_position="SF" jersey_number="1" id="f4526ee7-400d-496b-91cb-6e210595b845">
+          <statistics minutes="43:24" field_goals_made="8" field_goals_att="17" field_goals_pct="47.1" three_points_made="0" three_points_att="4" three_points_pct="0.0" two_points_made="8" two_points_att="13" two_points_pct="0.615" blocked_att="2" free_throws_made="8" free_throws_att="10" free_throws_pct="80.0" offensive_rebounds="2" defensive_rebounds="5" rebounds="7" assists="11" turnovers="4" steals="1" blocks="1" assists_turnover_ratio="2.75" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="24"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-05 06:30:46 +0000 -->

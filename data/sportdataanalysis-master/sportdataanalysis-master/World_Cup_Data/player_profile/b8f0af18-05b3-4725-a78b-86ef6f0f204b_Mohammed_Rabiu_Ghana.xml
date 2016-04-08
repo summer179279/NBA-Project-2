@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:26:01Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="b8f0af18-05b3-4725-a78b-86ef6f0f204b" country_code="GHA" preferred_foot="R" height_in="73" weight_lb="167" height_cm="185" weight_kg="75" first_name="Mohammed" last_name="Rabiu" country="Ghana">
+    <teams>
+      <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" country_code="GHA" position="M" is_manager="false" is_player="true" country="Ghana" jersey_number="17"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="225" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="10" matches_started="0" minutes_played="305" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="8">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="1717b644-9d3e-455c-8f31-d924c0c9928d" name="FC Kuban Krasnodar" alias="KUB" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="20" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="1717b644-9d3e-455c-8f31-d924c0c9928d" name="FC Kuban Krasnodar" alias="KUB" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1"/>
+          <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1"/>
+          <team id="1c3e22c3-6c09-4eba-91b7-263c3ee75c2b" name="Evian TG FC" alias="EVI" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 52706/1405922604 -->
+  </player>
+</profile>

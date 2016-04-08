@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:50:51 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="df6f21d3-5221-42e2-945b-8fe7cebdf03e" status="ACT" full_name="Moe Harkless" first_name="Moe" last_name="Harkless" abbr_name="M.Harkless" height="81" weight="220" position="F" primary_position="SF" jersey_number="21" experience="1" college="St. John's (N.Y.)" birth_place="New York City, NY, USA" birthdate="1993-05-11" updated="2013-11-08T21:14:48+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" name="Magic" market="Orlando" alias="ORL"/>
+  <draft team_id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" year="2012" round="1" pick="15"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" name="Magic" market="Orlando" alias="ORL">
+        <statistics>
+          <total games_played="80" games_started="41" minutes="1950.0" field_goals_made="224" field_goals_att="483" three_points_made="59" three_points_att="154" blocked_att="44" free_throws_made="85" free_throws_att="143" offensive_rebounds="69" defensive_rebounds="195" assists="80" turnovers="86" steals="97" blocks="50" personal_fouls="140" tech_fouls="1" points="592" flagrant_fouls="0" free_throws_pct="0.594" two_points_pct="0.502" three_points_pct="0.383" field_goals_pct="0.464" rebounds="264" assists_turnover_ratio="0.93" two_points_made="165" two_points_att="329"/>
+          <average points="7.4" blocked_att="0.55" turnovers="1.08" free_throws_att="1.79" field_goals_att="6.04" off_rebounds="0.86" two_points_att="4.11" assists="1.0" blocks="0.63" personal_fouls="1.75" two_points_made="2.06" flagrant_fouls="0.0" rebounds="3.3" three_points_made="0.74" minutes="24.4" def_rebounds="2.44" free_throws_made="1.06" field_goals_made="2.8" steals="1.21" three_points_att="1.93"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:50:51 +0000 -->

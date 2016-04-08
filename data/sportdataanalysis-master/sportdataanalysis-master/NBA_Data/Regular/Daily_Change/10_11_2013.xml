@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-10-12 03:44:26 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-10-11T04:00:00+00:00" end_time="2013-10-12T03:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="193aaf99-08bf-4cde-b11d-1fc36b302afd" full_name="Charlie Westbrook" last_modified="2013-10-11T18:57:50+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="03d69856-9da3-4404-8ba7-34df1bc6935a" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-11T14:45:16+00:00"/>
+        <game id="2fa43b54-3eb4-4016-99a2-a628bdafe588" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-12T03:28:45+00:00"/>
+        <game id="5549dc3a-cf6f-4a32-b45d-dd1fd19c5506" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-12T01:44:35+00:00"/>
+        <game id="865686ea-d230-4b86-8c58-ec5cae0b7a2d" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-12T02:51:02+00:00"/>
+        <game id="ac6fa7db-7f3a-4765-9877-0c5ff0825bcf" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-11T04:49:10+00:00"/>
+        <game id="df84e818-f813-4759-a78b-2ad1d994edd0" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-12T02:10:19+00:00"/>
+        <game id="f90ec7f0-610c-4370-a0a7-8b0738a6a052" season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" last_modified="2013-10-12T02:10:58+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" id="df84e818-f813-4759-a78b-2ad1d994edd0" last_modified="2013-10-12T02:10:19+00:00"/>
+        <game season_id="b68b1b17-1f2c-458f-9bdf-1b08dc33c1ed" id="ac6fa7db-7f3a-4765-9877-0c5ff0825bcf" last_modified="2013-10-11T04:49:11+00:00"/>
+      </results>
+    </games>
+    <standings>
+      <team id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" name="Magic" market="Orlando" last_modified="2013-10-12T02:14:22+00:00"/>
+      <team id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" name="Lakers" market="Los Angeles" last_modified="2013-10-11T04:54:22+00:00"/>
+      <team id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" name="Jazz" market="Utah" last_modified="2013-10-12T03:34:23+00:00"/>
+      <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" last_modified="2013-10-11T04:54:22+00:00"/>
+      <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" last_modified="2013-10-12T03:34:23+00:00"/>
+      <team id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" name="Bobcats" market="Charlotte" last_modified="2013-10-12T02:54:26+00:00"/>
+      <team id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" name="Heat" market="Miami" last_modified="2013-10-12T02:54:26+00:00"/>
+      <team id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" name="Cavaliers" market="Cleveland" last_modified="2013-10-12T02:14:26+00:00"/>
+    </standings>
+  </changelog>
+</league>
+<!-- Generation ended @ 2013-10-12 03:44:26 +0000 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-07 16:38:55 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="82458fb9-427c-4e35-93d2-8f43bdc30078" status="closed" coverage="full" home_team="583ec825-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ece50-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-04-07T01:00:00+00:00" duration="2:02" attendance="19596" lead_changes="1" times_tied="1" clock="00:00" quarter="4">
+  <team name="Warriors" market="Golden State" id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" points="130">
+    <scoring>
+      <quarter number="1" sequence="1" points="35"/>
+      <quarter number="2" sequence="2" points="31"/>
+      <quarter number="3" sequence="3" points="35"/>
+      <quarter number="4" sequence="4" points="29"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Klay Thompson" position="G" primary_position="SG" jersey_number="11" id="4e152a06-673e-4701-b115-aa7e2cd00d2d">
+          <statistics minutes="30:36" field_goals_made="11" field_goals_att="20" field_goals_pct="55.0" three_points_made="7" three_points_att="10" three_points_pct="70.0" two_points_made="4" two_points_att="10" two_points_pct="0.4" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="1" turnovers="0" steals="1" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="28" points="33"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Andrew Bogut" position="C" primary_position="C" jersey_number="12" id="26734851-dce6-4e5b-8291-594a7ebd6658">
+          <statistics minutes="22:32" field_goals_made="3" field_goals_att="4" field_goals_pct="75.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="3" two_points_att="4" two_points_pct="0.75" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="10" rebounds="11" assists="2" turnovers="1" steals="1" blocks="0" assists_turnover_ratio="2.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="16" points="6"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Stephen Curry" position="G" primary_position="PG" jersey_number="30" id="8ec91366-faea-4196-bbfd-b8fab7434795">
+          <statistics minutes="29:28" field_goals_made="12" field_goals_att="18" field_goals_pct="66.7" three_points_made="5" three_points_att="10" three_points_pct="50.0" two_points_made="7" two_points_att="8" two_points_pct="0.875" blocked_att="1" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="1" rebounds="1" assists="16" turnovers="5" steals="3" blocks="0" assists_turnover_ratio="3.2" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="31" points="31"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Jazz" market="Utah" id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" points="102">
+    <scoring>
+      <quarter number="1" sequence="1" points="22"/>
+      <quarter number="2" sequence="2" points="30"/>
+      <quarter number="3" sequence="3" points="21"/>
+      <quarter number="4" sequence="4" points="29"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Trey Burke" position="G" primary_position="PG" jersey_number="3" id="572261e2-8ad9-4198-969d-16cad41fdef3">
+          <statistics minutes="40:12" field_goals_made="10" field_goals_att="21" field_goals_pct="47.6" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="8" two_points_att="16" two_points_pct="0.5" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="15" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="5.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-18" points="24"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Enes Kanter" position="C" primary_position="C" jersey_number="0" id="5fb038ef-a3bf-4f52-afce-4f5bd074bb88">
+          <statistics minutes="22:47" field_goals_made="4" field_goals_att="11" field_goals_pct="36.4" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="4" two_points_att="11" two_points_pct="0.364" blocked_att="0" free_throws_made="0" free_throws_att="2" free_throws_pct="0.0" offensive_rebounds="4" defensive_rebounds="8" rebounds="12" assists="1" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-1" points="8"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Trey Burke" position="G" primary_position="PG" jersey_number="3" id="572261e2-8ad9-4198-969d-16cad41fdef3">
+          <statistics minutes="40:12" field_goals_made="10" field_goals_att="21" field_goals_pct="47.6" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="8" two_points_att="16" two_points_pct="0.5" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="15" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="5.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-18" points="24"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-04-07 16:38:56 +0000 -->

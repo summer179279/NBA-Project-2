@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:10:17Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="1f23107e-3777-47eb-bf30-954fe358a894" country_code="ESP" preferred_foot="R" height_in="73" weight_lb="187" height_cm="185" weight_kg="84" first_name="Pepe" last_name="Reina" country="Spain">
+    <teams>
+      <team id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" country_code="ESP" position="G" is_manager="false" is_player="true" country="Spain" jersey_number="23"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="314" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="bc005a50-3e93-41ea-bede-1fec2c388700" name="SSC Napoli" alias="NAP" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="f287e0ed-70ba-483d-be9c-3b0e763c5e7b" name="Confederations Cup"/>
+          <team id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="30" matches_started="0" minutes_played="2599" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="cd24a25b-3fc0-48fd-9c54-f793d51af976" name="Serie A"/>
+          <tournament id="4c08a075-b8a9-44ea-a1a0-7916ec5b472c" name="Serie A"/>
+          <team id="bc005a50-3e93-41ea-bede-1fec2c388700" name="SSC Napoli" alias="NAP" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="450" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="bc005a50-3e93-41ea-bede-1fec2c388700" name="SSC Napoli" alias="NAP" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="360" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="f1dcc4d9-fba5-481f-9bc4-3620f1d772cf" name="Coppa Italia"/>
+          <tournament id="f8bac078-4d26-4c88-bd19-35a2fc3c7ecb" name="Coppa Italia"/>
+          <team id="bc005a50-3e93-41ea-bede-1fec2c388700" name="SSC Napoli" alias="NAP" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 26937/1405922851 -->
+  </player>
+</profile>

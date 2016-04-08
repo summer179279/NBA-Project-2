@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:31:52Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="b32dac4d-ec7a-4bc8-abba-e3829f6ba108" country_code="JPN" preferred_foot="R" height_in="70" weight_lb="165" height_cm="177" weight_kg="74" first_name="Yasuhito" last_name="Endo" country="Japan">
+    <teams>
+      <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" country_code="JPN" position="M" is_manager="false" is_player="true" country="Japan" jersey_number="7"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="80" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="3" matches_started="0" minutes_played="257" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="f287e0ed-70ba-483d-be9c-3b0e763c5e7b" name="Confederations Cup"/>
+          <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 15583/1405922463 -->
+  </player>
+</profile>

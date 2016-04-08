@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:38:00Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="569d6be7-68a7-4332-a10e-b48842e6a65d" status="closed" scratched="false" period="P2" scheduled="2014-06-21T22:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F"/>
+      <round week="25" number="2" type="table"/>
+      <home id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="85" ball_safe="93" corner_kicks="4" dangerous_attacks="45" fouls="8" free_kicks="9" goal_attempts="18" goal_kicks="15" offsides="3" saves="7" shots_total="18" substitutions="2" throw_ins="14" yellow_card="1" shots_on_target="10" shots_off_target="8" possessions="40"/>
+        <players>
+          <player id="1cb69e08-8e13-4745-8102-b5b3a7d00248" country_code="NGA" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Peter" last_name="Odemwingie" country="Nigeria" jersey_number="8">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aa8dd74a-ae39-48c5-83f2-0528b2126bb0" country_code="NGA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Azubuike Emmanuel" last_name="Egwueke" country="Nigeria" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d07ff856-de5e-4718-a671-aae38a2ac69e" country_code="NGA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Joseph" last_name="Yobo" country="Nigeria" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a10841c0-633a-49f4-9676-35f0a45c9627" country_code="NGA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Austin" last_name="Ejide" country="Nigeria" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2bc36ba8-d56b-4fdc-93a0-13afe352ba15" country_code="NGA" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Ahmed" last_name="Musa" country="Nigeria" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="b4724ede-318a-47d4-b01b-6afa41dd8e58" country_code="NGA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ramon Olamilekan" last_name="Azeez" country="Nigeria" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c5835bd0-30b3-489c-8e5b-0960e8d02b61" country_code="NGA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Uchebo" country="Nigeria" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14ae8ed5-3186-4fb5-93da-aba212c607d2" country_code="NGA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Kenneth" last_name="Omeruo" country="Nigeria" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c49abd39-a6e7-4513-9e14-2bb1aec824d6" country_code="NGA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Uche" last_name="Nwofor" country="Nigeria" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="723c19a9-2479-4773-9113-3aa2ccf7ce63" country_code="NGA" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Christantus Ejike" last_name="Uzoenyi" country="Nigeria" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="f7ea2e94-ec5a-4284-92e6-d47702115524" country_code="NGA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Godfrey" last_name="Oboabona" country="Nigeria" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1da10ba8-7c5c-4b7e-8145-27bbb9ac8e1d" country_code="NGA" position="F" started="false" tactical_position="5" tactical_order="8" first_name="Shola" last_name="Ameobi" country="Nigeria" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="30e14633-237c-4082-926b-e554518d081c" country_code="NGA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Ogenyi Eddy" last_name="Onazi" country="Nigeria" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0785dc29-ddb8-4923-8a3f-2728e93d14a2" country_code="NGA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Vincent" last_name="Enyeama" country="Nigeria" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b21a2120-cac8-425f-9e8a-03e9ccb50aed" country_code="NGA" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Michael" last_name="Babatunde" country="Nigeria" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="6881b9ff-7a43-4165-84f6-a6c73c7c967f" country_code="NGA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="John Obi" last_name="Mikel" country="Nigeria" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="773fa96e-06ec-4c04-941d-f425cd94037e" country_code="NGA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ebenezer" last_name="Odunlami" country="Nigeria" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7cea667a-f5f5-4bc0-a537-8050b2c38eea" country_code="NGA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Emmanuel" last_name="Emenike" country="Nigeria" jersey_number="9">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b2002dc5-03a2-46d6-9a32-f537e7957328" country_code="NGA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Reuben Shalu" last_name="Gabriel" country="Nigeria" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="fb4c2b76-1daa-40ec-86f5-b063771f2ee0" country_code="NGA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Chigozie" last_name="Agbim" country="Nigeria" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3a8ce543-1fb4-4c01-a976-4595d78c5060" country_code="NGA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Efe Eric" last_name="Ambrose" country="Nigeria" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="bd9a2d38-18b7-498f-8670-48aa26185a66" country_code="NGA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Juwon" last_name="Oshaniwa" country="Nigeria" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="66631b63-c99e-4f61-a098-de3e02b697e8" country_code="NGA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Victor" last_name="Moses" country="Nigeria" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="96" ball_safe="84" corner_kicks="4" dangerous_attacks="67" fouls="7" free_kicks="11" goal_attempts="16" goal_kicks="10" offsides="2" saves="9" shots_total="16" substitutions="3" throw_ins="19" yellow_card="1" shots_on_target="7" shots_off_target="9" possessions="60"/>
+        <players>
+          <player id="da0dc95f-ef8c-4a47-98c4-8f43a1620935" country_code="BIH" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Izet" last_name="Hajrovic" country="Bosnia and Herzegovina" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="05045dbc-38c5-4582-8d5d-4a9bb7b4f64d" country_code="BIH" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Asmir" last_name="Avdukic" country="Bosnia and Herzegovina" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="30b150f1-67f5-459c-8728-5b0b8689c587" country_code="BIH" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Miralem" last_name="Pjanic" country="Bosnia and Herzegovina" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8bea78bb-af16-4fe0-8257-29e8a839f854" country_code="BIH" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Avdija" last_name="Vrsajevic" country="Bosnia and Herzegovina" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="beb109d5-0437-40e4-932f-85a59e974bab" country_code="BIH" position="F" started="false" tactical_position="5" tactical_order="8" first_name="Vedad" last_name="Ibisevic" country="Bosnia and Herzegovina" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4fdab686-bdbd-41e8-a7bb-ba0190756977" country_code="BIH" position="M" started="false" tactical_position="4" tactical_order="5" first_name="Tino-Sven" last_name="Susic" country="Bosnia and Herzegovina" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="23fde050-6bad-4060-8804-b4eec2a9160b" country_code="BIH" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Emir" last_name="Spahic" country="Bosnia and Herzegovina" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2112a7fe-1c78-45d4-aa5b-4ba017b1a00e" country_code="BIH" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ermin" last_name="Bicakcic" country="Bosnia and Herzegovina" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5d18b39f-6467-432e-b2b6-308307cb03cd" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Edin" last_name="Visca" country="Bosnia and Herzegovina" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="640b06bc-6ec0-4ce4-8ab1-a592d6de1501" country_code="BIH" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ognjen" last_name="Vranjes" country="Bosnia and Herzegovina" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="86b1aca2-d7f9-4c8e-a3a5-bc1eb6a6ecdb" country_code="BIH" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Sejad" last_name="Salihovic" country="Bosnia and Herzegovina" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5d09dd58-c350-4368-a870-17896dc8f1a0" country_code="BIH" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Jasmin" last_name="Fejzic" country="Bosnia and Herzegovina" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0072a85a-b626-46b3-8057-74617e41ec16" country_code="BIH" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Sead" last_name="Kolasinac" country="Bosnia and Herzegovina" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="184cb8b4-8623-4ec4-b427-a8aaa9ac2af8" country_code="BIH" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Zvjezdan" last_name="Misimovic" country="Bosnia and Herzegovina" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c689750d-61fa-4df5-850d-7d30981bd2b3" country_code="BIH" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Toni" last_name="Sunjic" country="Bosnia and Herzegovina" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e0e310a6-5d3a-4f78-b569-c2d07bbd2d74" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Anel" last_name="Hadzic" country="Bosnia and Herzegovina" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="57735191-460d-45e6-a022-b9627bad379c" country_code="BIH" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Asmir" last_name="Begovic" country="Bosnia and Herzegovina" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8b554257-313f-4562-a191-8f62decada73" country_code="BIH" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Muhamed" last_name="Besic" country="Bosnia and Herzegovina" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="27111803-b28e-4034-aa6b-96ba5ac77e80" country_code="BIH" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Edin" last_name="Dzeko" country="Bosnia and Herzegovina" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="541aaf2c-c68b-470f-b92e-c49f81f6c66f" country_code="BIH" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Senijad" last_name="Ibricic" country="Bosnia and Herzegovina" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5aa7836c-0d2c-4b20-82b3-4cf50cc87cc5" country_code="BIH" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Senad" last_name="Lulic" country="Bosnia and Herzegovina" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="19687783-ffdf-4885-af08-9cd2fda86200" country_code="BIH" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Haris" last_name="Medunjanin" country="Bosnia and Herzegovina" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="b77fdfd0-642b-45c6-bc78-44331bd348a8" country_code="BIH" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Mensur" last_name="Mujdza" country="Bosnia and Herzegovina" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513"/>
+      <facts>
+        <fact id="da318974-320b-4551-bac5-6af8a92cb418" type="match_started" time="2014-06-21T22:00:09Z" updated_time="2014-06-21T22:00:09Z" scratch="false" clock="1" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>The first-half is now underway.</description>
+        </fact>
+        <fact id="e22f00f9-2b11-4904-b997-c0f893b7410e" type="period_started" time="2014-06-21T22:00:09Z" updated_time="2014-06-21T22:00:09Z" scratch="false" period="P1"/>
+        <fact id="95c3861c-ed0c-4f13-8235-d372fe8924ab" type="throwin" time="2014-06-21T22:01:22Z" updated_time="2014-06-21T22:01:22Z" scratch="false" x="64" y="100" clock="1" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina at Arena Pantanal.</description>
+        </fact>
+        <fact id="a6a23992-b04b-4bfc-a6ea-242de9dec145" type="corner_kick" time="2014-06-21T22:02:49Z" updated_time="2014-06-21T22:02:49Z" scratch="false" x="95" y="90" clock="3" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Corner awarded to Nigeria.</description>
+        </fact>
+        <fact id="912e3255-4fb9-4f01-a494-208960d8543c" type="shot_off_target" time="2014-06-21T22:02:59Z" updated_time="2014-06-21T22:03:09Z" scratch="false" x="76" y="46" clock="3" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>Ogenyi Eddy Onazi for Nigeria gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="1bf3d190-5692-4171-b06c-9706645920aa" type="goal_kick" time="2014-06-21T22:02:59Z" updated_time="2014-06-21T22:02:59Z" scratch="false" x="95" y="50" clock="3" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have a goal kick.</description>
+        </fact>
+        <fact id="1a023352-462a-4535-a3c1-1e722b3d6685" type="offside" time="2014-06-21T22:04:00Z" updated_time="2014-06-21T22:04:06Z" scratch="false" x="20" y="55" clock="4" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="30b150f1-67f5-459c-8728-5b0b8689c587">
+          <description>Bosnia &amp; Herzegovina drive forward but Miralem Pjanic is judged offside.</description>
+        </fact>
+        <fact id="f0f057e0-2057-49f0-a7af-cbe7e9e86012" type="goal_kick" time="2014-06-21T22:05:01Z" updated_time="2014-06-21T22:05:01Z" scratch="false" x="95" y="50" clock="4" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary awards Bosnia &amp; Herzegovina a goal kick.</description>
+        </fact>
+        <fact id="c6ce9aea-43e1-4de2-b088-89729f81fdb2" type="free_kick" time="2014-06-21T22:05:43Z" updated_time="2014-06-21T22:05:43Z" scratch="false" x="80" y="49" clock="5" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="ff2514a2-7460-4194-b7e9-675c7f0d200c" type="card" time="2014-06-21T22:05:54Z" updated_time="2014-06-21T22:05:54Z" scratch="false" clock="6" card="Y" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="19687783-ffdf-4885-af08-9cd2fda86200">
+          <description>Haris Medunjanin for Bosnia &amp; Herzegovina has been booked by Peter O'Leary and receives a first yellow card.</description>
+        </fact>
+        <fact id="86b54a6f-ed3f-4d93-9a28-a313c9241aeb" type="shot_off_target" time="2014-06-21T22:06:47Z" updated_time="2014-06-21T22:07:04Z" scratch="false" x="80" y="49" clock="7" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="1cb69e08-8e13-4745-8102-b5b3a7d00248">
+          <description>Nigeria are coming forward and Peter Odemwingie gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="b4c42107-8597-4b73-bffc-97133c055648" type="goal_kick" time="2014-06-21T22:06:47Z" updated_time="2014-06-21T22:06:47Z" scratch="false" x="95" y="50" clock="7" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Ball goes out of play for a Bosnia &amp; Herzegovina goal kick.</description>
+        </fact>
+        <fact id="8c996d34-4761-4071-9b49-3cd74d628454" type="shot_off_target" time="2014-06-21T22:07:44Z" updated_time="2014-06-21T22:07:52Z" scratch="false" x="21" y="59" clock="8" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="30b150f1-67f5-459c-8728-5b0b8689c587">
+          <description>Bosnia &amp; Herzegovina's Miralem Pjanic misses with an attempt on goal.</description>
+        </fact>
+        <fact id="7c54f1c0-b93e-4c0d-995d-fa3609ee97c2" type="goal_kick" time="2014-06-21T22:07:45Z" updated_time="2014-06-21T22:07:45Z" scratch="false" x="5" y="50" clock="8" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Goal kick for Nigeria at Arena Pantanal.</description>
+        </fact>
+        <fact id="01c14264-c922-4651-9b95-8b02521e4b9a" type="free_kick" time="2014-06-21T22:09:36Z" updated_time="2014-06-21T22:09:36Z" scratch="false" x="23" y="89" clock="9" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="2d184342-acde-44dd-b8af-f595bcb00f99" type="shot_off_target" time="2014-06-21T22:10:43Z" updated_time="2014-06-21T22:10:51Z" scratch="false" x="79" y="48" clock="11" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="6881b9ff-7a43-4165-84f6-a6c73c7c967f">
+          <description>Nigeria are pushing forward but John Obi Mikel's finish is wide of the goal.</description>
+        </fact>
+        <fact id="7574b0fe-5cb8-426f-9951-7e481dc98bc6" type="goal_kick" time="2014-06-21T22:10:44Z" updated_time="2014-06-21T22:10:44Z" scratch="false" x="95" y="50" clock="11" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Goal kick for Bosnia &amp; Herzegovina at Arena Pantanal.</description>
+        </fact>
+        <fact id="3eac6f85-069c-4baf-abe2-cb7620db8001" type="throwin" time="2014-06-21T22:11:29Z" updated_time="2014-06-21T22:11:29Z" scratch="false" x="47" y="99" clock="11" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in Nigeria.</description>
+        </fact>
+        <fact id="6fcdfab2-6605-4675-80f2-872b7242bf67" type="throwin" time="2014-06-21T22:12:07Z" updated_time="2014-06-21T22:12:07Z" scratch="false" x="39" y="98" clock="11" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Can Bosnia &amp; Herzegovina get the ball into an attacking position from this throw-in in Nigeria's half?</description>
+        </fact>
+        <fact id="bec72a2a-d732-4d3d-a90e-f4acd77b3c5a" type="offside" time="2014-06-21T22:13:07Z" updated_time="2014-06-21T22:14:06Z" scratch="false" x="82" y="13" clock="13" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>Nigeria's Ogenyi Eddy Onazi is whistled for offside at Arena Pantanal.</description>
+        </fact>
+        <fact id="f11350d9-d0c6-4d98-bfb6-df089083f160" type="keeper_save" time="2014-06-21T22:13:54Z" updated_time="2014-06-21T22:13:54Z" scratch="false" x="86" y="68" clock="13" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="99b16204-9b6e-4dfb-86c6-9d06a5988d6e" type="shot_on_target" time="2014-06-21T22:13:54Z" updated_time="2014-06-21T22:14:00Z" scratch="false" x="86" y="68" clock="14" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>Ogenyi Eddy Onazi for Nigeria drives towards goal at Arena Pantanal. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="e2e839b8-50bb-4ddb-8de1-900ddb2ac533" type="free_kick" time="2014-06-21T22:14:19Z" updated_time="2014-06-21T22:14:19Z" scratch="false" x="36" y="54" clock="14" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Free kick Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="a5111e09-df88-474e-97bf-b25f1b154f0c" type="free_kick" time="2014-06-21T22:15:30Z" updated_time="2014-06-21T22:15:30Z" scratch="false" x="41" y="49" clock="15" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4c51c98a-8586-4546-8739-6083ef85b6c5" type="shot_off_target" time="2014-06-21T22:16:02Z" updated_time="2014-06-21T22:16:08Z" scratch="false" x="82" y="76" clock="16" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Emmanuel Emenike of Nigeria gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="7ecc7932-b8c8-4a02-8694-cb055cc2abe5" type="throwin" time="2014-06-21T22:17:27Z" updated_time="2014-06-21T22:17:27Z" scratch="false" x="87" y="98" clock="17" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Can Nigeria capitalize from this throw-in deep inside Bosnia &amp; Herzegovina's half?</description>
+        </fact>
+        <fact id="8dbe65c1-ae2c-4562-99c3-5e9d5d99f965" type="corner_kick" time="2014-06-21T22:18:34Z" updated_time="2014-06-21T22:18:34Z" scratch="false" x="5" y="5" clock="19" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have been awarded a corner by Peter O'Leary.</description>
+        </fact>
+        <fact id="e4929168-88fe-422a-b5f6-3249d2395368" type="shot_off_target" time="2014-06-21T22:18:46Z" updated_time="2014-06-21T22:19:01Z" scratch="false" x="20" y="70" clock="19" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="184cb8b4-8623-4ec4-b427-a8aaa9ac2af8">
+          <description>Bosnia &amp; Herzegovina's Zvjezdan Misimovic breaks free at Arena Pantanal. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="d0238261-c548-46e7-87a7-bcd0cd05aafc" type="goal_kick" time="2014-06-21T22:18:46Z" updated_time="2014-06-21T22:18:46Z" scratch="false" x="5" y="50" clock="19" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary awards Nigeria a goal kick.</description>
+        </fact>
+        <fact id="69cf4ca9-9e13-4dd3-9ca6-35837e3637ec" type="keeper_save" time="2014-06-21T22:19:39Z" updated_time="2014-06-21T22:19:39Z" scratch="false" x="80" y="28" clock="19" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="730c9a73-cc69-46e4-a48d-744f98ec7395" type="shot_on_target" time="2014-06-21T22:19:39Z" updated_time="2014-06-21T22:19:46Z" scratch="false" x="80" y="28" clock="20" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="2bc36ba8-d56b-4fdc-93a0-13afe352ba15">
+          <description>Nigeria's Ahmed Musa is on target but unsuccessful.</description>
+        </fact>
+        <fact id="81e85790-a2b8-46f9-a31f-4b937fd835f2" type="offside" time="2014-06-21T22:20:31Z" updated_time="2014-06-21T22:20:37Z" scratch="false" x="21" y="45" clock="21" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Edin Dzeko of Bosnia &amp; Herzegovina is pulled up for offside.</description>
+        </fact>
+        <fact id="8b188461-539c-4e8d-82f6-32729209bccd" type="throwin" time="2014-06-21T22:21:20Z" updated_time="2014-06-21T22:21:20Z" scratch="false" x="83" y="2" clock="21" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="3aa09898-a8a1-4958-bb3a-a95e3d9b7944" type="keeper_save" time="2014-06-21T22:22:32Z" updated_time="2014-06-21T22:22:32Z" scratch="false" x="21" y="39" clock="22" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="ffb620e4-9056-4b2d-8880-807bba25c569" type="shot_on_target" time="2014-06-21T22:22:31Z" updated_time="2014-06-21T22:22:38Z" scratch="false" x="21" y="39" clock="23" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="da0dc95f-ef8c-4a47-98c4-8f43a1620935">
+          <description>In Cuiaba Bosnia &amp; Herzegovina drive forward through Izet Hajrovic. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="7beeef7c-f971-4656-a235-ed89bdecdb28" type="keeper_save" time="2014-06-21T22:23:48Z" updated_time="2014-06-21T22:23:48Z" scratch="false" x="3" y="7" clock="23" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="e609729e-900c-4abd-b4ce-1b50617bbef3" type="shot_on_target" time="2014-06-21T22:23:48Z" updated_time="2014-06-21T22:23:48Z" scratch="false" x="3" y="7" clock="24" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Bosnia &amp; Herzegovina's Edin Dzeko gets in a shot on goal at Arena Pantanal. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="8211dc9e-1b0b-49ca-ba1b-7a22e09e98db" type="corner_kick" time="2014-06-21T22:23:58Z" updated_time="2014-06-21T22:23:58Z" scratch="false" x="5" y="5" clock="24" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have been awarded a corner by Peter O'Leary.</description>
+        </fact>
+        <fact id="362cd427-edde-4b0e-acac-7546dfb6d892" type="goal_kick" time="2014-06-21T22:25:02Z" updated_time="2014-06-21T22:25:02Z" scratch="false" x="5" y="50" clock="24" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have a goal kick.</description>
+        </fact>
+        <fact id="137b9139-b976-48d1-94ee-bd2bc62fe703" type="throwin" time="2014-06-21T22:25:47Z" updated_time="2014-06-21T22:25:47Z" scratch="false" x="34" y="0" clock="25" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a Bosnia &amp; Herzegovina throw-in in Nigeria's half.</description>
+        </fact>
+        <fact id="5fb32338-b4f5-4d47-9723-b129ec137eee" type="shot_off_target" time="2014-06-21T22:26:26Z" updated_time="2014-06-21T22:26:31Z" scratch="false" x="83" y="74" clock="27" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>Ogenyi Eddy Onazi of Nigeria gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="9068b6a5-aa51-4998-be78-1e40d537a8f1" type="goal_kick" time="2014-06-21T22:26:26Z" updated_time="2014-06-21T22:26:26Z" scratch="false" x="95" y="50" clock="27" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Ball goes out of play for a Bosnia &amp; Herzegovina goal kick.</description>
+        </fact>
+        <fact id="b1fc8067-fce7-47ee-a53d-97de4490986d" type="keeper_save" time="2014-06-21T22:27:21Z" updated_time="2014-06-21T22:27:21Z" scratch="false" x="22" y="38" clock="27" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="796da19a-9041-4e69-b4d3-95e706bee883" type="shot_on_target" time="2014-06-21T22:27:21Z" updated_time="2014-06-21T22:27:27Z" scratch="false" x="22" y="38" clock="28" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="30b150f1-67f5-459c-8728-5b0b8689c587">
+          <description>Miralem Pjanic gets his shot on target but fails to score for Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="feda9890-e922-4b94-9035-a9afbe1047c0" type="goal" time="2014-06-21T22:29:29Z" updated_time="2014-06-21T22:29:29Z" scratch="false" clock="29" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="1cb69e08-8e13-4745-8102-b5b3a7d00248" assist1_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Emmanuel Emenike instrumental with a fine assist.</description>
+        </fact>
+        <fact id="f2b9c39d-bd96-4e81-9e35-c1bcdb1bbb4a" type="keeper_save" time="2014-06-21T22:32:21Z" updated_time="2014-06-21T22:32:21Z" scratch="false" x="78" y="66" clock="32" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="7e4a6899-e373-454f-8994-eb7aa0a3fdb8" type="shot_on_target" time="2014-06-21T22:32:21Z" updated_time="2014-06-21T22:32:27Z" scratch="false" x="78" y="66" clock="33" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="1cb69e08-8e13-4745-8102-b5b3a7d00248">
+          <description>Nigeria push forward through Peter Odemwingie, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="d5a06cb6-cfe3-409f-a47d-71084c62cea0" type="keeper_save" time="2014-06-21T22:33:16Z" updated_time="2014-06-21T22:33:16Z" scratch="false" x="24" y="61" clock="33" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="90dcdc5b-9efb-4161-bf4a-3858fc51301b" type="throwin" time="2014-06-21T22:33:47Z" updated_time="2014-06-21T22:33:47Z" scratch="false" x="73" y="1" clock="33" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="78ffa3eb-ceb9-4149-a5a6-b539e92f8926" type="shot_on_target" time="2014-06-21T22:33:15Z" updated_time="2014-06-21T22:33:22Z" scratch="false" x="24" y="61" clock="34" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Bosnia &amp; Herzegovina push forward at Arena Pantanal and Edin Dzeko gets in a great header. The attempt is cleared by the Nigeria defence.</description>
+        </fact>
+        <fact id="290498f6-02c5-4695-948d-110c26b32e3a" type="goal_kick" time="2014-06-21T22:34:37Z" updated_time="2014-06-21T22:34:37Z" scratch="false" x="95" y="50" clock="34" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have a goal kick.</description>
+        </fact>
+        <fact id="91d838ac-7b2e-4286-ad4d-117d31d13bba" type="throwin" time="2014-06-21T22:35:18Z" updated_time="2014-06-21T22:35:18Z" scratch="false" x="36" y="99" clock="35" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball safe as Nigeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="6e55f161-e1fd-4a0c-a85c-6ad73833ceab" type="injury" time="2014-06-21T22:35:32Z" updated_time="2014-06-21T22:35:36Z" scratch="false" x="36" y="99" clock="36" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>The match at Arena Pantanal has been interrupted briefly for a check on Emmanuel Emenike, who is down injured.</description>
+        </fact>
+        <fact id="a9c045f6-d2bb-4fc0-a6c1-1a6a13610ba1" type="game_resumed" time="2014-06-21T22:36:24Z" updated_time="2014-06-21T22:36:24Z" scratch="false" clock="36">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="d0d445f3-6550-4648-a2b4-383e5ef2975d" type="injury_return" time="2014-06-21T22:36:27Z" updated_time="2014-06-21T22:36:27Z" scratch="false" clock="36" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Emmanuel Emenike for Nigeria is back on the field again.</description>
+        </fact>
+        <fact id="72da280c-0843-47be-8776-40e6be464913" type="throwin" time="2014-06-21T22:37:02Z" updated_time="2014-06-21T22:37:02Z" scratch="false" x="70" y="99" clock="36" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria to take a throw-in in Bosnia &amp; Herzegovina territory.</description>
+        </fact>
+        <fact id="6a350cfa-534a-4091-83fa-daf4c73eb97e" type="throwin" time="2014-06-21T22:37:25Z" updated_time="2014-06-21T22:37:25Z" scratch="false" x="82" y="99" clock="37" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary signals a throw-in for Nigeria, close to Bosnia &amp; Herzegovina's area.</description>
+        </fact>
+        <fact id="56936eff-df01-4ccb-80ce-d31ddbbfd040" type="corner_kick" time="2014-06-21T22:38:01Z" updated_time="2014-06-21T22:38:01Z" scratch="false" x="95" y="90" clock="38" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Corner awarded to Nigeria.</description>
+        </fact>
+        <fact id="9c8cf727-91d6-4a57-bb05-2e3cc7c48758" type="keeper_save" time="2014-06-21T22:38:21Z" updated_time="2014-06-21T22:38:21Z" scratch="false" x="91" y="76" clock="38" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="cf3634ed-4d6b-4273-9673-4970506d4e96" type="shot_on_target" time="2014-06-21T22:38:21Z" updated_time="2014-06-21T22:38:31Z" scratch="false" x="91" y="76" clock="39" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Emmanuel Emenike for Nigeria drives towards goal at Arena Pantanal. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="adf3cfc6-ed5f-46b2-9ee5-56e5656531ec" type="shot_off_target" time="2014-06-21T22:39:37Z" updated_time="2014-06-21T22:39:46Z" scratch="false" x="24" y="26" clock="40" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="19687783-ffdf-4885-af08-9cd2fda86200">
+          <description>Bosnia &amp; Herzegovina's Haris Medunjanin gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="b38e6768-54fb-41cb-9fcd-9a3fbf07059b" type="goal_kick" time="2014-06-21T22:39:37Z" updated_time="2014-06-21T22:39:37Z" scratch="false" x="5" y="50" clock="40" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Goal kick for Nigeria at Arena Pantanal.</description>
+        </fact>
+        <fact id="b34cdfe0-712e-4bb2-8867-ee5505354abf" type="throwin" time="2014-06-21T22:41:02Z" updated_time="2014-06-21T22:41:02Z" scratch="false" x="61" y="98" clock="40" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="8ca9b222-8331-4a9f-b96b-f8030418b945" type="throwin" time="2014-06-21T22:41:59Z" updated_time="2014-06-21T22:41:59Z" scratch="false" x="60" y="1" clock="41" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria to take a throw-in in Bosnia &amp; Herzegovina territory.</description>
+        </fact>
+        <fact id="052faea9-11bf-47d6-8845-3118bee53bc9" type="throwin" time="2014-06-21T22:42:25Z" updated_time="2014-06-21T22:42:25Z" scratch="false" x="78" y="1" clock="42" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary signals a Nigeria throw-in in Bosnia &amp; Herzegovina's half.</description>
+        </fact>
+        <fact id="001c334a-09ac-44f1-b4d8-e958f9850114" type="throwin" time="2014-06-21T22:44:06Z" updated_time="2014-06-21T22:44:06Z" scratch="false" x="19" y="1" clock="43" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina close to the penalty box.</description>
+        </fact>
+        <fact id="00ca3bfe-eb14-4e24-ba99-642e7cc74509" type="shot_off_target" time="2014-06-21T22:44:28Z" updated_time="2014-06-21T22:44:34Z" scratch="false" x="24" y="45" clock="45" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>In Cuiaba Bosnia &amp; Herzegovina attack through Edin Dzeko. The finish is off target, however.</description>
+        </fact>
+        <fact id="62675619-2070-4ea8-859f-80c31ee67bf1" type="goal_kick" time="2014-06-21T22:44:28Z" updated_time="2014-06-21T22:44:28Z" scratch="false" x="5" y="50" clock="45" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary awards Nigeria a goal kick.</description>
+        </fact>
+        <fact id="f882a40b-9994-4b7b-8400-eeceb8f3bca5" type="offside" time="2014-06-21T22:45:25Z" updated_time="2014-06-21T22:45:30Z" scratch="false" x="83" y="70" clock="45" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="2bc36ba8-d56b-4fdc-93a0-13afe352ba15">
+          <description>Nigeria's Ahmed Musa has run offside.</description>
+        </fact>
+        <fact id="17781ed5-8d35-4240-9e5b-a046e7cc3836" type="shot_off_target" time="2014-06-21T22:45:48Z" updated_time="2014-06-21T22:45:54Z" scratch="false" x="16" y="78" clock="45" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Bosnia &amp; Herzegovina's Edin Dzeko breaks free at Arena Pantanal. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="310f63f1-42c4-48f5-8d10-1fdf267d64a6" type="goal_kick" time="2014-06-21T22:45:48Z" updated_time="2014-06-21T22:45:48Z" scratch="false" x="5" y="50" clock="45" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball goes out of play for a Nigeria goal kick.</description>
+        </fact>
+        <fact id="bf45f980-8578-4526-8089-62d1a988c927" type="period_over" time="2014-06-21T22:46:19Z" updated_time="2014-06-21T22:46:19Z" scratch="false" home_score="1" away_score="0" period="P1">
+          <description>The first half has been concluded at Arena Pantanal.</description>
+        </fact>
+        <fact id="667bc280-8cb3-43de-916f-65e8a16d0d11" type="period_started" time="2014-06-21T22:46:19Z" updated_time="2014-06-21T22:46:19Z" scratch="false" period="H"/>
+        <fact id="1b319dc2-0dbe-4700-8724-c1e917d8a415" type="period_started" time="2014-06-21T23:01:18Z" updated_time="2014-06-21T23:01:18Z" scratch="false" period="P2"/>
+        <fact id="b91ce037-c8af-498f-8ef8-424b28b54201" type="goal_kick" time="2014-06-21T23:01:45Z" updated_time="2014-06-21T23:01:45Z" scratch="false" x="5" y="50" clock="45" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball goes out of play for a Nigeria goal kick.</description>
+        </fact>
+        <fact id="f62b5cda-1690-48ff-abde-ef68c886d1dd" type="injury_time" time="2014-06-21T22:45:42Z" updated_time="2014-06-21T22:45:42Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>The first half is prolonged by 1 minutes of added time.</description>
+        </fact>
+        <fact id="bc375eb6-06c4-4bf7-9a14-79c24f36f1c7" type="throwin" time="2014-06-21T23:03:53Z" updated_time="2014-06-21T23:03:53Z" scratch="false" x="65" y="98" clock="47" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="e2000438-1b9b-4c20-9a00-21545240eb0b" type="shot_off_target" time="2014-06-21T23:03:23Z" updated_time="2014-06-21T23:03:29Z" scratch="false" x="20" y="33" clock="48" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Bosnia &amp; Herzegovina are coming forward and Edin Dzeko gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="e0f00f28-390d-4e9f-bcfb-7d03ac681004" type="goal_kick" time="2014-06-21T23:03:23Z" updated_time="2014-06-21T23:03:23Z" scratch="false" x="5" y="50" clock="48" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary awards Nigeria a goal kick.</description>
+        </fact>
+        <fact id="b772d95a-40e7-4a2d-8a02-5b9f92762315" type="throwin" time="2014-06-21T23:04:41Z" updated_time="2014-06-21T23:04:41Z" scratch="false" x="26" y="99" clock="48" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Can Bosnia &amp; Herzegovina get the ball into an attacking position from this throw-in in Nigeria's half?</description>
+        </fact>
+        <fact id="bd448a90-6e4c-4b74-829d-848dbc339b17" type="goal_kick" time="2014-06-21T23:05:21Z" updated_time="2014-06-21T23:05:21Z" scratch="false" x="5" y="50" clock="49" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Goal kick for Nigeria at Arena Pantanal.</description>
+        </fact>
+        <fact id="6d71a014-97fb-4a2e-95f6-517b692fe845" type="free_kick" time="2014-06-21T23:08:22Z" updated_time="2014-06-21T23:08:22Z" scratch="false" x="76" y="75" clock="52" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a free kick to Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="d2698be6-b215-4e56-b66f-c60ca65c90a8" type="keeper_save" time="2014-06-21T23:11:06Z" updated_time="2014-06-21T23:11:06Z" scratch="false" x="79" y="57" clock="54" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="2b3cdcb1-1252-40a1-a85a-7e4beb9d47ec" type="shot_on_target" time="2014-06-21T23:11:05Z" updated_time="2014-06-21T23:11:23Z" scratch="false" x="79" y="57" clock="55" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed">
+          <description>Nigeria's Michael Babatunde gets in a shot on goal at Arena Pantanal. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="3153c392-7214-4f97-b5b0-f25283429a76" type="free_kick" time="2014-06-21T23:11:43Z" updated_time="2014-06-21T23:11:43Z" scratch="false" x="62" y="42" clock="55" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a free kick to Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="39647638-900d-4307-a33b-5ba5dec7736c" type="shot_off_target" time="2014-06-21T23:12:19Z" updated_time="2014-06-21T23:12:31Z" scratch="false" x="86" y="51" clock="56" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="30e14633-237c-4082-926b-e554518d081c">
+          <description>Nigeria are pushing forward but Ogenyi Eddy Onazi's finish is wide of the goal.</description>
+        </fact>
+        <fact id="9f4d13ac-6afa-4861-8388-50ac661bc5ca" type="goal_kick" time="2014-06-21T23:12:19Z" updated_time="2014-06-21T23:12:19Z" scratch="false" x="95" y="50" clock="56" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have a goal kick.</description>
+        </fact>
+        <fact id="35b026c1-9610-4c2c-8425-a40fc010b827" type="substitution" time="2014-06-21T23:12:41Z" updated_time="2014-06-21T23:12:41Z" scratch="false" clock="57" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_out_id="da0dc95f-ef8c-4a47-98c4-8f43a1620935" player_in_id="beb109d5-0437-40e4-932f-85a59e974bab">
+          <description>Vedad Ibisevic is replacing Izet Hajrovic for Bosnia &amp; Herzegovina at Arena Pantanal.</description>
+        </fact>
+        <fact id="1b284f7e-fa9b-482c-90ce-f461e5aef622" type="free_kick" time="2014-06-21T23:13:43Z" updated_time="2014-06-21T23:13:43Z" scratch="false" x="42" y="19" clock="57" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="f246b496-49fa-4b87-89bb-6bf0d0cdfd5c" type="substitution" time="2014-06-21T23:14:02Z" updated_time="2014-06-21T23:14:02Z" scratch="false" clock="58" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_out_id="5aa7836c-0d2c-4b20-82b3-4cf50cc87cc5" player_in_id="86b1aca2-d7f9-4c8e-a3a5-bc1eb6a6ecdb">
+          <description>Bosnia &amp; Herzegovina make their second substitution with Sejad Salihovic replacing Senad Lulic.</description>
+        </fact>
+        <fact id="667c4b06-153a-4f78-9d82-4b8e95c55951" type="throwin" time="2014-06-21T23:15:16Z" updated_time="2014-06-21T23:15:16Z" scratch="false" x="93" y="99" clock="58" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Bosnia &amp; Herzegovina needs to be cautious. Nigeria have an attacking throw-in.</description>
+        </fact>
+        <fact id="aa6caa07-89a4-410e-b83a-b5aa6d0804f7" type="offside" time="2014-06-21T23:14:40Z" updated_time="2014-06-21T23:14:46Z" scratch="false" x="89" y="22" clock="59" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed">
+          <description>Michael Babatunde for Nigeria is whistled offside.</description>
+        </fact>
+        <fact id="0b85c260-55f7-4e76-bfc6-30e5e501ea2c" type="throwin" time="2014-06-21T23:16:17Z" updated_time="2014-06-21T23:16:17Z" scratch="false" x="84" y="98" clock="59" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have a dangerous throw-in.</description>
+        </fact>
+        <fact id="c66f905d-c782-402c-bf1c-2db5e3548604" type="keeper_save" time="2014-06-21T23:16:50Z" updated_time="2014-06-21T23:16:50Z" scratch="false" x="76" y="44" clock="60" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="9909ce5a-eae2-4739-a368-8a5e9a87f289" type="keeper_save" time="2014-06-21T23:17:13Z" updated_time="2014-06-21T23:17:13Z" scratch="false" x="96" y="6" clock="60" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="8e34cba1-9563-4d32-bd32-da9e80849701" type="shot_on_target" time="2014-06-21T23:16:49Z" updated_time="2014-06-21T23:16:53Z" scratch="false" x="76" y="44" clock="61" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed">
+          <description>In Cuiaba Nigeria drive forward through Michael Babatunde. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="ba9e0a7d-928d-4e8e-9cb9-65a2077cd4f4" type="shot_on_target" time="2014-06-21T23:17:13Z" updated_time="2014-06-21T23:17:41Z" scratch="false" x="96" y="6" clock="61" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed">
+          <description>Michael Babatunde gets his shot on target but fails to score for Nigeria.</description>
+        </fact>
+        <fact id="094c8e42-a681-42a9-9f70-4bba33238afe" type="corner_kick" time="2014-06-21T23:17:16Z" updated_time="2014-06-21T23:17:24Z" scratch="false" x="95" y="5" clock="61" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have been awarded a corner by Peter O'Leary.</description>
+        </fact>
+        <fact id="d60eda7a-42ff-4a28-be74-32d562ffd3ce" type="goal_kick" time="2014-06-21T23:17:28Z" updated_time="2014-06-21T23:17:28Z" scratch="false" x="95" y="50" clock="61" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary awards Bosnia &amp; Herzegovina a goal kick.</description>
+        </fact>
+        <fact id="bbc6826b-94d3-43ac-bf71-021a7f541803" type="goal_kick" time="2014-06-21T23:18:04Z" updated_time="2014-06-21T23:18:04Z" scratch="false" x="5" y="50" clock="61" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have a goal kick.</description>
+        </fact>
+        <fact id="daa60c08-0426-4a8e-9f41-33d94bef2a51" type="shot_blocked" time="2014-06-21T23:18:56Z" updated_time="2014-06-21T23:19:07Z" scratch="false" x="78" y="41" clock="63" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ahmed Musa (Nigeria) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="1660433c-f027-4eb8-8d09-971e7d6e6102" type="throwin" time="2014-06-21T23:19:24Z" updated_time="2014-06-21T23:19:24Z" scratch="false" x="34" y="1" clock="63" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Can Bosnia &amp; Herzegovina get the ball into an attacking position from this throw-in in Nigeria's half?</description>
+        </fact>
+        <fact id="62d59343-dd38-4a9d-a74f-f5829ff42435" type="throwin" time="2014-06-21T23:20:06Z" updated_time="2014-06-21T23:20:06Z" scratch="false" x="20" y="99" clock="63" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have a dangerous throw-in.</description>
+        </fact>
+        <fact id="1c26b3de-939a-4e6f-9078-91a000c1884b" type="substitution" time="2014-06-21T23:19:38Z" updated_time="2014-06-21T23:19:38Z" scratch="false" clock="64" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_out_id="19687783-ffdf-4885-af08-9cd2fda86200" player_in_id="4fdab686-bdbd-41e8-a7bb-ba0190756977">
+          <description>Tino-Sven Susic is on a sub for Haris Medunjanin for Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="580edbe5-d2b8-46de-b15c-214d407cf0e6" type="throwin" time="2014-06-21T23:20:37Z" updated_time="2014-06-21T23:20:37Z" scratch="false" x="18" y="99" clock="64" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Throw-in for Nigeria at Arena Pantanal.</description>
+        </fact>
+        <fact id="ade7d216-018b-459b-94bc-5074387cb797" type="substitution" time="2014-06-21T23:20:50Z" updated_time="2014-06-21T23:20:50Z" scratch="false" clock="65" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_out_id="2bc36ba8-d56b-4fdc-93a0-13afe352ba15" player_in_id="1da10ba8-7c5c-4b7e-8145-27bbb9ac8e1d">
+          <description>Shola Ameobi is on a sub for Ahmed Musa for Nigeria.</description>
+        </fact>
+        <fact id="9fb53ab0-f952-4fb8-9375-b4738b78e405" type="shot_on_target" time="2014-06-21T23:21:20Z" updated_time="2014-06-21T23:21:20Z" scratch="false" x="97" y="96" clock="65" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Emmanuel Emenike of Nigeria smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="dfca4995-6d0d-4933-9518-0421361627c8" type="keeper_save" time="2014-06-21T23:21:20Z" updated_time="2014-06-21T23:21:20Z" scratch="false" x="97" y="96" clock="65" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="321fd547-4098-468a-8752-074389808509" type="corner_kick" time="2014-06-21T23:21:40Z" updated_time="2014-06-21T23:22:42Z" scratch="false" x="95" y="90" clock="66" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Corner awarded to Nigeria.</description>
+        </fact>
+        <fact id="a96224d8-c4c9-4e77-a290-44df73b042fb" type="shot_off_target" time="2014-06-21T23:22:53Z" updated_time="2014-06-21T23:23:02Z" scratch="false" x="20" y="42" clock="67" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>In Cuiaba Bosnia &amp; Herzegovina attack through Edin Dzeko. The finish is off target, however.</description>
+        </fact>
+        <fact id="eb9346cb-f3ef-41ee-aafe-320724125b64" type="free_kick" time="2014-06-21T23:23:30Z" updated_time="2014-06-21T23:23:30Z" scratch="false" x="70" y="30" clock="67" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Free kick Nigeria.</description>
+        </fact>
+        <fact id="d9dc74ce-0a62-40e2-b413-c21828e63258" type="free_kick" time="2014-06-21T23:24:15Z" updated_time="2014-06-21T23:24:15Z" scratch="false" x="36" y="66" clock="67" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="711b1b2e-527b-4903-8d29-bc53ff54d644" type="game_resumed" time="2014-06-21T23:24:58Z" updated_time="2014-06-21T23:24:58Z" scratch="false" clock="68">
+          <description>Play has been resumed at Arena Pantanal.</description>
+        </fact>
+        <fact id="7801fdf5-cade-4a79-99ab-7e202d16c410" type="injury_return" time="2014-06-21T23:25:04Z" updated_time="2014-06-21T23:25:04Z" scratch="false" clock="68" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed">
+          <description>Michael Babatunde has recovered and rejoins the match in Cuiaba.</description>
+        </fact>
+        <fact id="61922b3b-ac54-4faa-98db-ca26a8c0bc61" type="goal_kick" time="2014-06-21T23:25:11Z" updated_time="2014-06-21T23:25:11Z" scratch="false" x="5" y="50" clock="68" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball goes out of play for a Nigeria goal kick.</description>
+        </fact>
+        <fact id="fe2f2200-609b-4c7a-8a2d-6855302ff631" type="injury" time="2014-06-21T23:24:27Z" updated_time="2014-06-21T23:24:27Z" scratch="false" x="37" y="30" clock="69" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed">
+          <description>Michael Babatunde is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="c198e826-7353-43a2-9d9a-8060b006cd5c" type="throwin" time="2014-06-21T23:28:15Z" updated_time="2014-06-21T23:28:15Z" scratch="false" x="19" y="2" clock="71" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Nigeria needs to be cautious. Bosnia &amp; Herzegovina have an attacking throw-in.</description>
+        </fact>
+        <fact id="5cd1d9d6-0d71-461f-aa92-75abdbd7fbca" type="injury" time="2014-06-21T23:28:31Z" updated_time="2014-06-21T23:30:34Z" scratch="false" x="13" y="53" clock="72" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed">
+          <description>Michael Babatunde is down and play has been interrupted for a few moments.</description>
+        </fact>
+        <fact id="d4d7f46d-9565-4a92-bfd0-184f32392f9d" type="game_resumed" time="2014-06-21T23:29:28Z" updated_time="2014-06-21T23:29:28Z" scratch="false" clock="73">
+          <description>The match is underway again.</description>
+        </fact>
+        <fact id="d6430308-7228-42fb-9212-b05c9080625a" type="throwin" time="2014-06-21T23:29:39Z" updated_time="2014-06-21T23:29:39Z" scratch="false" x="44" y="1" clock="73" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a Bosnia &amp; Herzegovina throw-in in Nigeria's half.</description>
+        </fact>
+        <fact id="bb6fc69b-425f-44c8-a935-f1102a0f7e66" type="corner_kick" time="2014-06-21T23:30:07Z" updated_time="2014-06-21T23:30:13Z" scratch="false" x="5" y="90" clock="74" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Corner awarded to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="5724be40-0949-49bd-9fe2-c4d45e1d524e" type="shot_off_target" time="2014-06-21T23:30:22Z" updated_time="2014-06-21T23:30:22Z" scratch="false" x="5" y="90" clock="74" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="beb109d5-0437-40e4-932f-85a59e974bab">
+          <description>In Cuiaba, Vedad Ibisevic (Bosnia &amp; Herzegovina) misses the target with a header.</description>
+        </fact>
+        <fact id="ba951096-8291-4a8f-990f-0014d9f57a0e" type="goal_kick" time="2014-06-21T23:30:22Z" updated_time="2014-06-21T23:30:22Z" scratch="false" x="5" y="50" clock="74" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Goal kick for Nigeria at Arena Pantanal.</description>
+        </fact>
+        <fact id="91afac11-2223-4bb7-90a2-128e4c2eac3a" type="substitution" time="2014-06-21T23:30:34Z" updated_time="2014-06-21T23:30:34Z" scratch="false" clock="75" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_out_id="b21a2120-cac8-425f-9e8a-03e9ccb50aed" player_in_id="723c19a9-2479-4773-9113-3aa2ccf7ce63">
+          <description>Michael Babatunde (Nigeria) does not seem to be able to continue. He is replaced by Christantus Ejike Uzoenyi.</description>
+        </fact>
+        <fact id="18f19766-8d12-4e7c-9ebd-41baefee54bc" type="keeper_save" time="2014-06-21T23:32:42Z" updated_time="2014-06-21T23:32:42Z" scratch="false" x="21" y="70" clock="76" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="f942a8b1-94b9-4a96-894f-ad1e3f82a7a1" type="throwin" time="2014-06-21T23:33:05Z" updated_time="2014-06-21T23:33:05Z" scratch="false" x="52" y="100" clock="76" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria to take a throw-in in Bosnia &amp; Herzegovina territory.</description>
+        </fact>
+        <fact id="f8f52b6f-eecc-4222-975a-f25a05343c9a" type="shot_on_target" time="2014-06-21T23:32:42Z" updated_time="2014-06-21T23:32:47Z" scratch="false" x="21" y="70" clock="77" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="30b150f1-67f5-459c-8728-5b0b8689c587">
+          <description>Miralem Pjanic for Bosnia &amp; Herzegovina drives towards goal at Arena Pantanal. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="7a4dd6bb-016c-4371-917a-358b7cd566f5" type="throwin" time="2014-06-21T23:33:27Z" updated_time="2014-06-21T23:33:27Z" scratch="false" x="80" y="99" clock="77" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Can Nigeria capitalize from this throw-in deep inside Bosnia &amp; Herzegovina's half?</description>
+        </fact>
+        <fact id="1b83bf75-2c77-4223-8837-9adf249c58ef" type="free_kick" time="2014-06-21T23:33:47Z" updated_time="2014-06-21T23:33:47Z" scratch="false" x="79" y="63" clock="77" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Free kick Nigeria.</description>
+        </fact>
+        <fact id="9ecab840-9cae-4ff2-a332-2e9cc287b44c" type="goal_kick" time="2014-06-21T23:35:11Z" updated_time="2014-06-21T23:35:11Z" scratch="false" x="5" y="50" clock="78" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary awards Nigeria a goal kick.</description>
+        </fact>
+        <fact id="bed8dd24-1620-42b2-8d08-c70ec9dcbaff" type="shot_off_target" time="2014-06-21T23:34:40Z" updated_time="2014-06-21T23:34:46Z" scratch="false" x="79" y="63" clock="79" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="723c19a9-2479-4773-9113-3aa2ccf7ce63">
+          <description>Christantus Ejike Uzoenyi for Nigeria gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="f1342100-39e6-4897-aab2-687ff549666c" type="goal_kick" time="2014-06-21T23:34:40Z" updated_time="2014-06-21T23:34:40Z" scratch="false" x="95" y="50" clock="79" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Ball goes out of play for a Bosnia &amp; Herzegovina goal kick.</description>
+        </fact>
+        <fact id="5b1afb34-12d6-4727-adbc-2568f510683b" type="free_kick" time="2014-06-21T23:36:30Z" updated_time="2014-06-21T23:36:30Z" scratch="false" x="77" y="32" clock="80" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary signals a free kick to Nigeria.</description>
+        </fact>
+        <fact id="eea8f03f-beda-4f06-b773-816f0fe500a4" type="keeper_save" time="2014-06-21T23:37:03Z" updated_time="2014-06-21T23:37:03Z" scratch="false" x="79" y="60" clock="80" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c"/>
+        <fact id="fcc9cc7c-75b3-49ba-9666-577405a2ab79" type="free_kick" time="2014-06-21T23:37:13Z" updated_time="2014-06-21T23:37:13Z" scratch="false" x="79" y="60" clock="80" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a free kick to Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="f411522b-5c6b-415b-9446-8471844b2eaa" type="shot_on_target" time="2014-06-21T23:37:03Z" updated_time="2014-06-21T23:37:03Z" scratch="false" x="79" y="60" clock="81" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="6bf47122-6fca-4544-9995-d7e591feb157" type="shot_blocked" time="2014-06-21T23:37:09Z" updated_time="2014-06-21T23:37:09Z" scratch="false" x="79" y="60" clock="81" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="428f2023-cd0f-4f07-b3a9-e170b7f27845" type="throwin" time="2014-06-21T23:37:40Z" updated_time="2014-06-21T23:37:40Z" scratch="false" x="43" y="99" clock="81" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="bf77fead-22e2-40f4-b8e1-aa88c9ea1fc3" type="card" time="2014-06-21T23:37:27Z" updated_time="2014-06-21T23:37:27Z" scratch="false" clock="82" card="Y" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="6881b9ff-7a43-4165-84f6-a6c73c7c967f">
+          <description>John Obi Mikel (Nigeria) has received a yellow card from Peter O'Leary.</description>
+        </fact>
+        <fact id="c7d9ffb4-84f9-4c76-a7f0-367f803cc150" type="shot_blocked" time="2014-06-21T23:38:21Z" updated_time="2014-06-21T23:38:24Z" scratch="false" x="23" y="66" clock="83" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Muhamed Besic (Bosnia &amp; Herzegovina) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="3af074d3-32fd-4657-a119-6d25d93474f3" type="shot_off_target" time="2014-06-21T23:38:46Z" updated_time="2014-06-21T23:38:53Z" scratch="false" x="79" y="69" clock="83" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Nigeria's Emmanuel Emenike misses with an attempt on goal.</description>
+        </fact>
+        <fact id="43e1073d-84a7-4e55-96f7-1ac9848ea668" type="goal_kick" time="2014-06-21T23:38:46Z" updated_time="2014-06-21T23:38:46Z" scratch="false" x="95" y="50" clock="83" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Goal kick for Bosnia &amp; Herzegovina at Arena Pantanal.</description>
+        </fact>
+        <fact id="ebabd089-f1f7-43c5-bb02-047de13f5cf9" type="goal_kick" time="2014-06-21T23:39:22Z" updated_time="2014-06-21T23:39:22Z" scratch="false" x="5" y="50" clock="83" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Nigeria have a goal kick.</description>
+        </fact>
+        <fact id="ef41be66-b52b-4e7b-b0f5-cb32eae59bef" type="game_resumed" time="2014-06-21T23:40:09Z" updated_time="2014-06-21T23:40:09Z" scratch="false" clock="83">
+          <description>The match at Arena Pantanal is underway again.</description>
+        </fact>
+        <fact id="40b01222-907f-4a02-b5dd-db91adba275a" type="injury" time="2014-06-21T23:39:29Z" updated_time="2014-06-21T23:39:29Z" scratch="false" x="5" y="50" clock="84" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Peter O'Leary waits before resuming play because Emmanuel Emenike for Nigeria is still down.</description>
+        </fact>
+        <fact id="f659a093-d0c2-4334-87f0-5d90acfe8cdf" type="injury_return" time="2014-06-21T23:40:38Z" updated_time="2014-06-21T23:40:38Z" scratch="false" clock="84" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" player_id="7cea667a-f5f5-4bc0-a537-8050b2c38eea">
+          <description>Emmanuel Emenike returns to the field for Nigeria after picking up a slight injury.</description>
+        </fact>
+        <fact id="a1db3b52-3b26-4673-874c-f90ff08da106" type="throwin" time="2014-06-21T23:40:53Z" updated_time="2014-06-21T23:40:53Z" scratch="false" x="25" y="1" clock="84" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Ball safe as Nigeria is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="15964301-2328-44b4-a263-e9db8eefd8a7" type="free_kick" time="2014-06-21T23:41:26Z" updated_time="2014-06-21T23:41:26Z" scratch="false" x="45" y="47" clock="85" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="6021bbb4-6636-4e5d-9d77-1321c233106e" type="throwin" time="2014-06-21T23:42:02Z" updated_time="2014-06-21T23:42:02Z" scratch="false" x="65" y="99" clock="85" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in for Bosnia &amp; Herzegovina in their own half.</description>
+        </fact>
+        <fact id="00e496ae-9065-459f-87b1-3ccc9973b0d1" type="free_kick" time="2014-06-21T23:42:35Z" updated_time="2014-06-21T23:42:35Z" scratch="false" x="79" y="23" clock="86" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Free kick Nigeria.</description>
+        </fact>
+        <fact id="4b35742f-f14d-45bf-acbb-b2fce5259a2f" type="throwin" time="2014-06-21T23:44:16Z" updated_time="2014-06-21T23:44:16Z" scratch="false" x="51" y="2" clock="87" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Ball safe as Bosnia &amp; Herzegovina is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="aba0874f-e01c-414d-b8da-81b456f13878" type="free_kick" time="2014-06-21T23:44:35Z" updated_time="2014-06-21T23:44:35Z" scratch="false" x="40" y="60" clock="88" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a free kick to Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="7eec8772-3d51-4dd1-8eca-3651284fb469" type="throwin" time="2014-06-21T23:45:11Z" updated_time="2014-06-21T23:45:11Z" scratch="false" x="22" y="1" clock="88" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Peter O'Leary signals a Bosnia &amp; Herzegovina throw-in in Nigeria's half.</description>
+        </fact>
+        <fact id="c8846856-e212-40ca-915f-5c0979bcb3cb" type="shot_off_target" time="2014-06-21T23:45:33Z" updated_time="2014-06-21T23:45:41Z" scratch="false" x="15" y="35" clock="90" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="184cb8b4-8623-4ec4-b427-a8aaa9ac2af8">
+          <description>Bosnia &amp; Herzegovina are pushing forward but Zvjezdan Misimovic's finish is wide of the goal.</description>
+        </fact>
+        <fact id="60193557-ad84-4f46-ab14-e9bb3741d686" type="goal_kick" time="2014-06-21T23:45:34Z" updated_time="2014-06-21T23:45:34Z" scratch="false" x="5" y="50" clock="90" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d">
+          <description>Peter O'Leary awards Nigeria a goal kick.</description>
+        </fact>
+        <fact id="9237ebec-0daf-4795-9ebf-a36ddde3ac5a" type="shot_blocked" time="2014-06-21T23:46:17Z" updated_time="2014-06-21T23:46:28Z" scratch="false" x="21" y="48" clock="90" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Important block from the Nigeria defence as Vedad Ibisevic fires in a strike for Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="62f026c4-600c-4386-b4e7-e4a99078f0d5" type="injury_time" time="2014-06-21T23:46:33Z" updated_time="2014-06-21T23:46:33Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>3 minutes will be added to the second half in Cuiaba.</description>
+        </fact>
+        <fact id="29087194-0c9c-4297-88f6-5c0f6c6c1976" type="corner_kick" time="2014-06-21T23:46:39Z" updated_time="2014-06-21T23:46:59Z" scratch="false" x="5" y="5" clock="90" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina have been awarded a corner by Peter O'Leary.</description>
+        </fact>
+        <fact id="f0fefcbb-b48e-4afe-a91b-0b0583b819d0" type="shot_on_target" time="2014-06-21T23:46:47Z" updated_time="2014-06-21T23:46:51Z" scratch="false" x="5" y="5" clock="90" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Bosnia &amp; Herzegovina's Edin Dzeko goes close with his head but his effort is blocked.</description>
+        </fact>
+        <fact id="6cc1fae4-0b3c-4d7b-828a-4e22602573c8" type="keeper_save" time="2014-06-21T23:46:47Z" updated_time="2014-06-21T23:46:47Z" scratch="false" x="5" y="5" clock="90" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="1af5b38a-df36-44dd-8ea0-2f6e1ac5a309" type="throwin" time="2014-06-21T23:47:08Z" updated_time="2014-06-21T23:47:08Z" scratch="false" x="49" y="99" clock="90" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Bosnia &amp; Herzegovina to take a throw-in in Nigeria territory.</description>
+        </fact>
+        <fact id="5188a340-f59d-41e6-9083-05a5fbda9fb2" type="injury" time="2014-06-21T23:47:26Z" updated_time="2014-06-21T23:47:26Z" scratch="false" x="49" y="99" clock="90" injury_time="1" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="bb97c5cf-7b89-4bfd-b865-42d11efe9777" type="game_resumed" time="2014-06-21T23:47:41Z" updated_time="2014-06-21T23:47:41Z" scratch="false" clock="90" injury_time="1">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="01425a49-229d-4504-8403-b83d6f56b794" type="injury_return" time="2014-06-21T23:47:45Z" updated_time="2014-06-21T23:47:45Z" scratch="false" clock="90" injury_time="1" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="ef08ea41-233f-4843-a498-29df7520a7ee" type="throwin" time="2014-06-21T23:48:14Z" updated_time="2014-06-21T23:48:14Z" scratch="false" x="70" y="98" clock="90" injury_time="1" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Throw-in Bosnia &amp; Herzegovina.</description>
+        </fact>
+        <fact id="7bbc6f1d-2131-46e6-a42b-af57cf65a065" type="shot_on_target" time="2014-06-21T23:48:49Z" updated_time="2014-06-21T23:48:53Z" scratch="false" x="21" y="44" clock="90" injury_time="2" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" player_id="27111803-b28e-4034-aa6b-96ba5ac77e80">
+          <description>Bosnia &amp; Herzegovina drive into the zone and Edin Dzeko is presented with a brilliant opportunity. But his strike hits the upright!</description>
+        </fact>
+        <fact id="174e599d-91ff-4364-a20c-df063d6d8632" type="keeper_save" time="2014-06-21T23:48:49Z" updated_time="2014-06-21T23:48:49Z" scratch="false" x="21" y="44" clock="90" injury_time="2" team_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d"/>
+        <fact id="8d6d0f37-a7c6-458a-bcff-d2eab7e95461" type="throwin" time="2014-06-21T23:48:58Z" updated_time="2014-06-21T23:48:58Z" scratch="false" x="25" y="2" clock="90" injury_time="2" team_id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c">
+          <description>Can Bosnia &amp; Herzegovina get the ball into an attacking position from this throw-in in Nigeria's half?</description>
+        </fact>
+        <fact id="7bd41011-625a-4a4a-a0e9-407aca1225bd" type="period_over" time="2014-06-21T23:49:28Z" updated_time="2014-06-21T23:49:28Z" scratch="false" home_score="1" away_score="0" period="P2">
+          <description>Peter O'Leary blows to end the match. The final score is 1-0.</description>
+        </fact>
+        <fact id="0042f038-26c3-4906-a85c-912ec473a6b0" type="match_ended" time="2014-06-21T23:49:28Z" updated_time="2014-06-21T23:49:28Z" scratch="false" home_score="1" away_score="0" winner_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" draw="false"/>
+      </facts>
+      <!-- 4768776/4785/4479 -->
+    </match>
+  </matches>
+</summary>

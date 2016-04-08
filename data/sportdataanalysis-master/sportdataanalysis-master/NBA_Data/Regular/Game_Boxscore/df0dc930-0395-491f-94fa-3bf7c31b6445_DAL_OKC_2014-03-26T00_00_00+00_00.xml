@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-26 16:48:55 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="df0dc930-0395-491f-94fa-3bf7c31b6445" status="closed" coverage="full" home_team="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-26T00:00:00+00:00" duration="3:06" attendance="19607" lead_changes="16" times_tied="10" clock="00:00" quarter="5">
+  <team name="Mavericks" market="Dallas" id="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" points="128">
+    <scoring>
+      <quarter number="1" sequence="1" points="28"/>
+      <quarter number="2" sequence="2" points="31"/>
+      <quarter number="3" sequence="3" points="25"/>
+      <quarter number="4" sequence="4" points="27"/>
+      <overtime number="1" sequence="5" points="17"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Dirk Nowitzki" position="F" primary_position="PF" jersey_number="41" id="b4fb962d-4f36-4b82-89e3-dec4733329c3">
+          <statistics minutes="38:45" field_goals_made="11" field_goals_att="23" field_goals_pct="47.8" three_points_made="2" three_points_att="8" three_points_pct="25.0" two_points_made="9" two_points_att="15" two_points_pct="0.6" blocked_att="0" free_throws_made="8" free_throws_att="8" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="9" rebounds="10" assists="6" turnovers="6" steals="4" blocks="1" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="15" points="32"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Dirk Nowitzki" position="F" primary_position="PF" jersey_number="41" id="b4fb962d-4f36-4b82-89e3-dec4733329c3">
+          <statistics minutes="38:45" field_goals_made="11" field_goals_att="23" field_goals_pct="47.8" three_points_made="2" three_points_att="8" three_points_pct="25.0" two_points_made="9" two_points_att="15" two_points_pct="0.6" blocked_att="0" free_throws_made="8" free_throws_att="8" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="9" rebounds="10" assists="6" turnovers="6" steals="4" blocks="1" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="15" points="32"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Jose Calderon" position="G" primary_position="PG" jersey_number="8" id="48f84650-080a-42e5-adfb-3074d6f17037">
+          <statistics minutes="36:59" field_goals_made="7" field_goals_att="10" field_goals_pct="70.0" three_points_made="6" three_points_att="9" three_points_pct="66.7" two_points_made="1" two_points_att="1" two_points_pct="1.0" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="4" rebounds="4" assists="8" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="21" points="22"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Thunder" market="Oklahoma City" id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" points="119">
+    <scoring>
+      <quarter number="1" sequence="1" points="24"/>
+      <quarter number="2" sequence="2" points="36"/>
+      <quarter number="3" sequence="3" points="29"/>
+      <quarter number="4" sequence="4" points="22"/>
+      <overtime number="1" sequence="5" points="8"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Kevin Durant" position="F" primary_position="SF" jersey_number="35" id="53f2fa48-e61b-49fb-843d-8a3e872257eb">
+          <statistics minutes="50:30" field_goals_made="15" field_goals_att="27" field_goals_pct="55.6" three_points_made="5" three_points_att="11" three_points_pct="45.5" two_points_made="10" two_points_att="16" two_points_pct="0.625" blocked_att="0" free_throws_made="8" free_throws_att="8" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="4" rebounds="5" assists="6" turnovers="5" steals="1" blocks="0" assists_turnover_ratio="1.2" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-13" points="43"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Nick Collison" position="F-C" primary_position="PF" jersey_number="4" id="fe441eff-9b77-4c71-9da7-1bbf46ea9c0d">
+          <statistics minutes="22:28" field_goals_made="3" field_goals_att="7" field_goals_pct="42.9" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="3" two_points_att="7" two_points_pct="0.429" blocked_att="1" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="4" defensive_rebounds="3" rebounds="7" assists="1" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="0.5" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="5" points="7"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Reggie Jackson" position="G" primary_position="PG" jersey_number="15" id="7b745dde-a011-45a8-98a8-460a9facb3ce">
+          <statistics minutes="41:25" field_goals_made="5" field_goals_att="11" field_goals_pct="45.5" three_points_made="0" three_points_att="4" three_points_pct="0.0" two_points_made="5" two_points_att="7" two_points_pct="0.714" blocked_att="0" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="5" rebounds="5" assists="8" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="4.0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="-9" points="11"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-26 16:48:55 +0000 -->

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" charset="UTF-8" href="/xslt/basketball/summary-v2.0.xsl"?>
+<!-- Generation started @ 2014-07-27 09:16:36 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="a6231cd0-b008-410d-9f54-d3857c584965" status="created" coverage="full" home_team="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec928-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-01-30T00:30:00+00:00">
+  <venue id="fd21f639-8a47-51ac-a5dd-590629d445cf" name="Philips Arena" capacity="18118" address="One Philips Drive" city="Atlanta" state="GA" zip="30303" country="USA"/>
+  <team name="Hawks" market="Atlanta" id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" points="0">
+    <scoring>
+    </scoring>
+    <players>
+      <player full_name="Jeff Teague" first_name="Jeff" last_name="Teague" position="G" primary_position="PG" jersey_number="0" id="9cf99a61-6b51-4aed-8940-0480dc512b36" active="true">
+        <injuries>
+          <injury desc="Ankle" status="Day To Day" id="b30c9983-7e09-49ba-8bb5-20a5081f6969" start_date="2014-01-24"/>
+        </injuries>
+      </player>
+      <player full_name="John Jenkins" first_name="John" last_name="Jenkins" position="G" primary_position="SG" jersey_number="12" id="f4c21698-8e9b-4720-ac1e-5e07bd7c2e92" active="true">
+        <injuries>
+          <injury desc="Back" status="Day To Day" id="8aceca1a-95c2-478b-8737-99df8f0df174" start_date="2013-12-26" update_date="2014-01-17"/>
+        </injuries>
+      </player>
+      <player full_name="Al Horford" first_name="Al" last_name="Horford" position="C-F" primary_position="C" jersey_number="15" id="cf3a87ec-c2f7-42e8-9698-6f8b2ba916a9" active="true">
+        <injuries>
+          <injury desc="Shoulder" status="Out Indefinitely" id="91e52bc3-377d-4ea7-8f3b-5de757ef72c8" start_date="2013-12-26" update_date="2013-12-30"/>
+        </injuries>
+      </player>
+      <player full_name="Pero Antic" first_name="Pero" last_name="Antic" position="C" primary_position="C" jersey_number="6" id="59b4d7a8-9ac8-436d-a76a-45335ca6dd68" active="true">
+        <injuries>
+          <injury comment="Targeting Early-to-Mid February Return" desc="Ankle" status="Out" id="288eef7e-f95e-4276-86bc-6b9521d2083a" start_date="2014-01-23"/>
+        </injuries>
+      </player>
+      <player full_name="Elton Brand" first_name="Elton" last_name="Brand" position="F-C" primary_position="PF" jersey_number="42" id="28512bba-0a6b-4ec2-816a-72f2b43036e1" active="true">
+      </player>
+      <player full_name="Mike Scott" first_name="Mike" last_name="Scott" position="F" primary_position="PF" jersey_number="32" id="e3c8bfbe-086f-4bbf-be9b-38accc5d5037" active="true">
+      </player>
+      <player full_name="Gustavo Ayon" first_name="Gustavo" last_name="Ayon" position="F-C" primary_position="C" jersey_number="14" id="aced2f8d-3cd1-4c52-a628-f6ed76f5e4ea" active="true">
+      </player>
+      <player full_name="James Nunnally" first_name="James" last_name="Nunnally" position="F" primary_position="SF" jersey_number="2" id="2e663dab-1632-462a-a113-dbe35ef65f2e" active="true">
+      </player>
+      <player full_name="Dennis Schroder" first_name="Dennis" last_name="Schroder" position="G" primary_position="PG" jersey_number="17" id="a2c6a907-282f-4172-9d60-42d03987da0e" active="true">
+      </player>
+      <player full_name="Paul Millsap" first_name="Paul" last_name="Millsap" position="F" primary_position="PF" jersey_number="4" id="59f6f688-7000-4cf5-a27f-a1980dd86d93" active="true">
+      </player>
+      <player full_name="DeMarre Carroll" first_name="DeMarre" last_name="Carroll" position="F" primary_position="SF" jersey_number="5" id="664afb4f-3fc1-4e25-bcb8-bab2c0c3c33b" active="true">
+      </player>
+      <player full_name="Jared Cunningham" first_name="Jared" last_name="Cunningham" position="G" primary_position="SG" jersey_number="7" id="4b9ea469-6408-431c-862e-662aefecea7b" active="true">
+      </player>
+      <player full_name="Louis Williams" first_name="Louis" last_name="Williams" position="G" primary_position="SG" jersey_number="3" id="2629c593-5f7c-4d34-aec7-6b949572af2a" active="true">
+      </player>
+      <player full_name="Kyle Korver" first_name="Kyle" last_name="Korver" position="G-F" primary_position="SF" jersey_number="26" id="ba1b12c1-ee81-47d2-9f02-56110ff2a318" active="true">
+      </player>
+      <player full_name="Shelvin Mack" first_name="Shelvin" last_name="Mack" position="G" primary_position="PG" jersey_number="8" id="ee6b8f67-08cc-4d6f-ac8a-9f7c2432cb80" active="true">
+      </player>
+    </players>
+  </team>
+  <team name="Pistons" market="Detroit" id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" points="0">
+    <scoring>
+    </scoring>
+    <players>
+      <player full_name="Brandon Jennings" first_name="Brandon" last_name="Jennings" position="G" primary_position="PG" jersey_number="7" id="bb084342-fc44-4035-82c4-2789174b723e" active="true">
+      </player>
+      <player full_name="Rodney Stuckey" first_name="Rodney" last_name="Stuckey" position="G" primary_position="PG" jersey_number="3" id="b4a94a3a-8563-49bd-97d2-98161cfb6c8d" active="true">
+      </player>
+      <player full_name="Luigi Datome" first_name="Luigi" last_name="Datome" position="F" primary_position="SF" jersey_number="13" id="9f99add1-37be-47c6-8b19-a38bfdf9c702" active="true">
+      </player>
+      <player full_name="Tony Mitchell" first_name="Tony" last_name="Mitchell" position="F" primary_position="PF" jersey_number="9" id="c7e039f2-899a-441d-88d0-871afe193485" active="true">
+      </player>
+      <player full_name="Peyton Siva" first_name="Peyton" last_name="Siva" position="G" primary_position="PG" jersey_number="34" id="246a3ea8-462d-4eeb-802d-e464cde2ce0c" active="true">
+      </player>
+      <player full_name="Kyle Singler" first_name="Kyle" last_name="Singler" position="F" primary_position="SF" jersey_number="25" id="d022ab89-4d55-4732-8509-bcd47602fff0" active="true">
+      </player>
+      <player full_name="Andre Drummond" first_name="Andre" last_name="Drummond" position="C" primary_position="C" jersey_number="0" id="440b769d-2b8b-477f-80d7-cb21d83c0d52" active="true">
+      </player>
+      <player full_name="Charlie Villanueva" first_name="Charlie" last_name="Villanueva" position="F" primary_position="PF" jersey_number="31" id="505e3ec9-de9a-4256-95cd-7f997f16fe51" active="true">
+      </player>
+      <player full_name="Josh Harrellson" first_name="Josh" last_name="Harrellson" position="F-C" primary_position="C" jersey_number="55" id="e8a19123-81c1-49b4-ac6d-6862e63427c8" active="true">
+      </player>
+      <player full_name="Chauncey Billups" first_name="Chauncey" last_name="Billups" position="G" primary_position="PG" jersey_number="1" id="2cd8fe73-59a9-41c6-b384-cc6b54197279" active="true">
+      </player>
+      <player full_name="Josh Smith" first_name="Josh" last_name="Smith" position="F" primary_position="PF" jersey_number="6" id="7838f72d-0e86-45f7-86ab-2077498d208a" active="true">
+      </player>
+      <player full_name="Kentavious Caldwell-Pope" first_name="Kentavious" last_name="Caldwell-Pope" position="G" primary_position="SG" jersey_number="5" id="cecc054e-b9ec-4c71-8bbb-5ee665a8c3a9" active="true">
+      </player>
+      <player full_name="Will Bynum" first_name="Will" last_name="Bynum" position="G" primary_position="PG" jersey_number="12" id="6ef9e6c3-f6c5-4569-80d7-97c79b180e81" active="true">
+      </player>
+      <player full_name="Jonas Jerebko" first_name="Jonas" last_name="Jerebko" position="F" primary_position="PF" jersey_number="33" id="5d1f696c-7656-4b96-b116-66344a7dda71" active="true">
+      </player>
+      <player full_name="Greg Monroe" first_name="Greg" last_name="Monroe" position="F-C" primary_position="C" jersey_number="10" id="762d218c-cdbd-4886-9252-10cd99284c7a" active="true">
+      </player>
+    </players>
+  </team>
+</game>
+<!-- Generation ended @ 2014-07-27 09:16:36 +0000 -->

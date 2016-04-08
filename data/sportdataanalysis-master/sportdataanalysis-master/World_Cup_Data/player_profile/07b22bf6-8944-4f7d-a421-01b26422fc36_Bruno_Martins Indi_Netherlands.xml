@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:40:06Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="07b22bf6-8944-4f7d-a421-01b26422fc36" country_code="NLD" preferred_foot="L" height_in="71" weight_lb="156" height_cm="180" weight_kg="70" first_name="Bruno" last_name="Martins Indi" country="Netherlands">
+    <teams>
+      <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" country_code="NLD" position="D" is_manager="false" is_player="true" country="Netherlands" jersey_number="4"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="8" matches_started="0" minutes_played="650" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="322" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="210" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="cd00e95a-f750-4053-9eab-04b3b1278ca7" name="KNVB beker"/>
+          <tournament id="4777a2ca-fea5-428e-9f43-e2c6b06be0d1" name="KNVB beker"/>
+          <team id="394936fd-bf8f-4fea-889d-91f193dc8156" name="Feyenoord Rotterdam" alias="FEY" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="394936fd-bf8f-4fea-889d-91f193dc8156" name="Feyenoord Rotterdam" alias="FEY" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="26" matches_started="0" minutes_played="2282" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie"/>
+          <team id="394936fd-bf8f-4fea-889d-91f193dc8156" name="Feyenoord Rotterdam" alias="FEY" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 116947/1405922607 -->
+  </player>
+</profile>

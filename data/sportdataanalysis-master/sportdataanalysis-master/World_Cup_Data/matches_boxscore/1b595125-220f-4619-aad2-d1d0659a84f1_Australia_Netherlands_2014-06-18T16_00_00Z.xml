@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:33:35Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="1b595125-220f-4619-aad2-d1d0659a84f1" status="closed" scratched="false" period="P2" scheduled="2014-06-18T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B"/>
+      <round week="25" number="2" type="table"/>
+      <home id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team" formation="4-2-3-1" score="2" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="129" ball_safe="106" corner_kicks="3" dangerous_attacks="69" fouls="20" free_kicks="25" goal_attempts="6" goal_kicks="7" offsides="1" saves="7" shots_total="6" substitutions="3" throw_ins="25" yellow_card="1" shots_on_target="4" shots_off_target="2" possessions="48"/>
+      </home>
+      <away id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" formation="3-5-2" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="135" ball_safe="123" corner_kicks="2" dangerous_attacks="55" fouls="24" free_kicks="21" goal_attempts="11" goal_kicks="5" offsides="1" saves="2" shots_total="11" substitutions="3" throw_ins="23" yellow_card="1" shots_on_target="10" shots_off_target="1" possessions="52"/>
+      </away>
+      <venue id="d060ef40-9286-4712-8586-cc594cb60875" name="Estadio Beira-Rio" country_code="BRA" city="Porto Alegre" capacity="43394" country="Brazil" coordinates="-30.065417,-51.235891"/>
+      <!-- 4768728/4741/4705 -->
+    </match>
+  </matches>
+</boxscore>

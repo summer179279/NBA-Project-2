@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:31:02Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="3d32fe26-bde1-4033-8518-04b3d6eb4242" country_code="CMR" preferred_foot="B" height_in="74" weight_lb="185" height_cm="187" weight_kg="83" first_name="Eric Maxim" last_name="Choupo Moting" country="Cameroon">
+    <teams>
+      <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" country_code="CMR" position="F" is_manager="false" is_player="true" country="Cameroon" jersey_number="13"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="27" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="246" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="75" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="60512f08-0c2e-4a73-8aa8-0ba97354311f" name="DFB Pokal"/>
+          <tournament id="b6e34a03-7dfa-4c28-9ecc-b738122be8b5" name="DFB Pokal"/>
+          <team id="f74755fd-a61b-4007-bdd8-13345e77acb0" name="1 FSV Mainz 05" alias="MAI" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+        <statistic goals="10" goal_frequency="0" goal_average="0.0" goal_assists="3" matches_played="32" matches_started="0" minutes_played="2035" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="7" substitutions_in="13">
+          <category id="7ba3e936-0d68-46b5-99eb-d0c98e021e91" name="Germany" country_code="DEU" country="Germany"/>
+          <tournament_group id="d8901247-b449-4b53-be9d-6acde655cc44" name="Bundesliga"/>
+          <team id="f74755fd-a61b-4007-bdd8-13345e77acb0" name="1 FSV Mainz 05" alias="MAI" country_code="DEU" country="Germany" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 21626/1405922469 -->
+  </player>
+</profile>

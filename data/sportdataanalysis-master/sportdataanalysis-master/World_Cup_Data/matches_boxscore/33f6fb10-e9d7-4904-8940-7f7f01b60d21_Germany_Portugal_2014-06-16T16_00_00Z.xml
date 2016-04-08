@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:33:17Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="33f6fb10-e9d7-4904-8940-7f7f01b60d21" status="closed" scratched="false" period="P2" scheduled="2014-06-16T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G"/>
+      <round week="25" number="1" type="table"/>
+      <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-3-3" score="4" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="3" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="135" ball_safe="108" corner_kicks="4" dangerous_attacks="70" fouls="8" free_kicks="12" goal_attempts="9" goal_kicks="9" offsides="2" red_card="0" saves="4" shots_total="9" substitutions="3" throw_ins="15" yellow_card="0" shots_on_target="6" shots_off_target="3" possessions="57"/>
+      </home>
+      <away id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team" formation="4-3-3" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="119" ball_safe="99" corner_kicks="6" dangerous_attacks="62" fouls="11" free_kicks="10" goal_attempts="7" goal_kicks="6" offsides="1" red_card="1" saves="2" shots_total="7" substitutions="3" throw_ins="24" yellow_card="1" shots_on_target="4" shots_off_target="3" possessions="43"/>
+      </away>
+      <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157"/>
+      <!-- 4768782/4711/4704 -->
+    </match>
+  </matches>
+</boxscore>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:10:02Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="d1cdd983-e9b1-4b58-9b5d-54500d70a300" country_code="HRV" preferred_foot="L" height_in="66" weight_lb="143" height_cm="167" weight_kg="64" first_name="Danijel" last_name="Pranjic" country="Croatia">
+    <teams>
+      <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" country_code="HRV" position="M" is_manager="false" is_player="true" country="Croatia" jersey_number="3"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="2" matches_started="0" minutes_played="164" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="195" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+          <tournament_group id="a28cdcae-1249-4b95-9a7a-05cd246fe762" name="Greece Cup"/>
+          <tournament id="7c52bcaf-281a-47eb-80e6-d843aefe3ca9" name="Greece Cup"/>
+          <team id="70e377bf-b42f-4c44-a5db-b009c5283b60" name="Panathinaikos Athen" alias="PAN" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="28" matches_started="0" minutes_played="2323" yellow_cards="6" yellow_red_cards="-1" red_cards="-1" substitutions_out="6" substitutions_in="2">
+          <category id="6c960722-2eca-41ef-ae5d-41464d26f99a" name="Greece" country_code="GRC" country="Greece"/>
+          <tournament_group id="3f8e0d22-25a0-4180-82e0-4a10a941b5b7" name="Super League"/>
+          <team id="70e377bf-b42f-4c44-a5db-b009c5283b60" name="Panathinaikos Athen" alias="PAN" country_code="GRC" country="Greece" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="88" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 10082/1405951279 -->
+  </player>
+</profile>

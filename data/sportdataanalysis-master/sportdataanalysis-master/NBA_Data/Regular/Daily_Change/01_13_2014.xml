@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:04:59 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2014-01-13T05:00:00+00:00" end_time="2014-01-14T04:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="14d86dbd-5e05-4a2e-951b-96d4e1e2e8f1" full_name="Dwight Buycks" last_modified="2014-01-13T22:45:21+00:00"/>
+        <player id="41c51f09-4fc0-4322-b566-0b10a2f17e56" full_name="Leandro Barbosa" last_modified="2014-01-14T03:13:35+00:00"/>
+        <player id="b477595a-2614-4e8e-9636-451b890ad3e5" full_name="Jamaal Franklin" last_modified="2014-01-13T15:21:12+00:00"/>
+        <player id="c459fa73-7b5b-44d5-9698-344b44cde2b8" full_name="Shabazz Muhammad" last_modified="2014-01-13T17:34:28+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="2b7ea6f3-2904-4311-b89f-498b5668d2c9" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-14T04:39:07+00:00"/>
+        <game id="4fd8f287-4a53-427a-bbe5-deaa6fc131bf" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-14T03:24:53+00:00"/>
+        <game id="5b21d495-cf38-4886-ae56-adddb126cc54" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-14T04:05:45+00:00"/>
+        <game id="6e217e2e-ffe0-4a96-b8a0-65d9d0ef68d9" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-14T03:00:47+00:00"/>
+        <game id="8a9986cb-34d4-4685-95d2-d1e32762e3f9" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-14T03:37:35+00:00"/>
+        <game id="d2972434-046a-4c1d-9193-d5eab108fbff" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-14T03:50:10+00:00"/>
+        <game id="d5467402-af8a-4cae-a3b5-5d1b8af268e6" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-14T02:40:20+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="5b21d495-cf38-4886-ae56-adddb126cc54" last_modified="2014-01-14T04:05:46+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="6e217e2e-ffe0-4a96-b8a0-65d9d0ef68d9" last_modified="2014-01-14T03:00:47+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="4fd8f287-4a53-427a-bbe5-deaa6fc131bf" last_modified="2014-01-31T22:49:13+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="d5467402-af8a-4cae-a3b5-5d1b8af268e6" last_modified="2014-01-21T20:26:04+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="8a9986cb-34d4-4685-95d2-d1e32762e3f9" last_modified="2014-01-14T03:37:36+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="2b7ea6f3-2904-4311-b89f-498b5668d2c9" last_modified="2014-01-14T04:39:07+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="bdfcd7c2-7376-49bf-934e-7eafb579afb5" last_modified="2014-01-13T19:54:39+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="d2972434-046a-4c1d-9193-d5eab108fbff" last_modified="2014-03-05T22:36:51+00:00"/>
+      </results>
+    </games>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:04:59 +0000 -->

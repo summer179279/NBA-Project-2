@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:17:12Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="09195153-fb21-4b9b-b6dd-6c35b45efb62" country_code="DZA" preferred_foot="R" height_in="70" weight_lb="160" height_cm="177" weight_kg="72" first_name="Saphir Sliti" last_name="Taider" country="Algeria">
+    <teams>
+      <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" country_code="DZA" position="M" is_manager="false" is_player="true" country="Algeria" jersey_number="19"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="5" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="168" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="f1dcc4d9-fba5-481f-9bc4-3620f1d772cf" name="Coppa Italia"/>
+          <tournament id="f8bac078-4d26-4c88-bd19-35a2fc3c7ecb" name="Coppa Italia"/>
+          <team id="d6a7681b-1d8c-45ac-b0eb-f6612c7a8312" name="Inter Milan" alias="INT" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="25" matches_started="0" minutes_played="1050" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="10" substitutions_in="12">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="cd24a25b-3fc0-48fd-9c54-f793d51af976" name="Serie A"/>
+          <tournament id="4c08a075-b8a9-44ea-a1a0-7916ec5b472c" name="Serie A"/>
+          <team id="d6a7681b-1d8c-45ac-b0eb-f6612c7a8312" name="Inter Milan" alias="INT" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 113370/1405951492 -->
+  </player>
+</profile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-06-06 18:30:57 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="ee2644c1-1260-4bf4-9c70-7c5b0cee4770" status="ACT" full_name="Garrett Temple" first_name="Garrett" last_name="Temple" abbr_name="G.Temple" height="78" weight="195" position="G" primary_position="SG" jersey_number="17" experience="3" college="Louisiana State" birth_place="Baton Rouge, LA, USA" birthdate="1986-05-08" updated="2013-07-19T20:33:51+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" name="Wizards" market="Washington" alias="WAS"/>
+  <draft year="2009"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" name="Wizards" market="Washington" alias="WAS">
+        <statistics>
+          <total games_played="75" games_started="0" minutes="638.0" field_goals_made="51" field_goals_att="141" three_points_made="6" three_points_att="29" blocked_att="7" free_throws_made="30" free_throws_att="43" offensive_rebounds="21" defensive_rebounds="47" assists="72" turnovers="42" steals="35" blocks="11" personal_fouls="72" tech_fouls="0" points="138" flagrant_fouls="0" free_throws_pct="0.698" two_points_pct="0.402" three_points_pct="0.207" field_goals_pct="0.362" rebounds="68" assists_turnover_ratio="1.71" two_points_made="45" two_points_att="112"/>
+          <average points="1.8" blocked_att="0.09" turnovers="0.56" free_throws_att="0.57" field_goals_att="1.88" off_rebounds="0.28" two_points_att="1.49" assists="1.0" blocks="0.15" personal_fouls="0.96" two_points_made="0.6" flagrant_fouls="0.0" rebounds="0.91" three_points_made="0.08" minutes="8.5" def_rebounds="0.63" free_throws_made="0.4" field_goals_made="0.68" steals="0.47" three_points_att="0.39"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-06-06 18:30:57 +0000 -->

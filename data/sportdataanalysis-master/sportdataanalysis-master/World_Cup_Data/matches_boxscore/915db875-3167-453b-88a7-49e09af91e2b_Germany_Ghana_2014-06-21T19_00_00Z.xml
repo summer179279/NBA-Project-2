@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:34:03Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="915db875-3167-453b-88a7-49e09af91e2b" status="closed" scratched="false" period="P2" scheduled="2014-06-21T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G"/>
+      <round week="25" number="2" type="table"/>
+      <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-3-3" score="2" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="139" ball_safe="115" corner_kicks="7" dangerous_attacks="79" fouls="13" free_kicks="21" goal_attempts="10" goal_kicks="10" offsides="1" saves="5" shots_total="10" substitutions="3" throw_ins="18" yellow_card="0" shots_on_target="5" shots_off_target="5" possessions="60"/>
+      </home>
+      <away id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team" formation="4-2-3-1" score="2" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="129" ball_safe="113" corner_kicks="3" dangerous_attacks="60" fouls="16" free_kicks="14" goal_attempts="14" goal_kicks="7" offsides="5" saves="3" shots_total="14" substitutions="3" throw_ins="25" yellow_card="1" shots_on_target="7" shots_off_target="7" possessions="40"/>
+      </away>
+      <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542"/>
+      <!-- 4768786/4711/4764 -->
+    </match>
+  </matches>
+</boxscore>

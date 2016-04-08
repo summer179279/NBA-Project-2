@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-02-24 22:20:45 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="6f215e2f-dca0-4762-8990-1b336848197e" status="closed" coverage="full" home_team="583ed102-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-02-24T01:00:00+00:00" duration="2:16" attendance="16263" lead_changes="6" times_tied="4" clock="00:00" quarter="4">
+  <team name="Nuggets" market="Denver" id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" points="95">
+    <scoring>
+      <quarter number="1" sequence="1" points="27"/>
+      <quarter number="2" sequence="2" points="25"/>
+      <quarter number="3" sequence="3" points="18"/>
+      <quarter number="4" sequence="4" points="25"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Randy Foye" position="G" primary_position="SG" jersey_number="4" id="701c8530-7906-42b0-a016-3ddf366ca957">
+          <statistics minutes="33:57" field_goals_made="8" field_goals_att="18" field_goals_pct="44.4" three_points_made="6" three_points_att="11" three_points_pct="54.5" two_points_made="2" two_points_att="7" two_points_pct="0.286" blocked_att="0" free_throws_made="5" free_throws_att="5" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="5" rebounds="6" assists="1" turnovers="0" steals="0" blocks="1" assists_turnover_ratio="0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="27"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="J.J. Hickson" position="F" primary_position="C" jersey_number="7" id="7ea5ebcb-e825-4b6e-bd46-13a45c88c09c">
+          <statistics minutes="16:14" field_goals_made="0" field_goals_att="2" field_goals_pct="0.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="0" two_points_att="2" two_points_pct="0.0" blocked_att="0" free_throws_made="1" free_throws_att="6" free_throws_pct="16.7" offensive_rebounds="0" defensive_rebounds="6" rebounds="6" assists="3" turnovers="3" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="1" points="1"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Aaron Brooks" position="G" primary_position="PG" jersey_number="0" id="b838cbad-0877-4189-ba3d-039962da7ebd">
+          <statistics minutes="31:55" field_goals_made="3" field_goals_att="12" field_goals_pct="25.0" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="1" two_points_att="7" two_points_pct="0.143" blocked_att="2" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="2" defensive_rebounds="0" rebounds="2" assists="8" turnovers="5" steals="2" blocks="0" assists_turnover_ratio="1.6" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-30" points="9"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Kings" market="Sacramento" id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" points="109">
+    <scoring>
+      <quarter number="1" sequence="1" points="27"/>
+      <quarter number="2" sequence="2" points="21"/>
+      <quarter number="3" sequence="3" points="39"/>
+      <quarter number="4" sequence="4" points="22"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Isaiah Thomas" position="G" primary_position="PG" jersey_number="22" id="bda5388e-a657-4e2c-8e12-6ed474518d25">
+          <statistics minutes="41:50" field_goals_made="12" field_goals_att="16" field_goals_pct="75.0" three_points_made="4" three_points_att="5" three_points_pct="80.0" two_points_made="8" two_points_att="11" two_points_pct="0.727" blocked_att="0" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="6" turnovers="6" steals="3" blocks="0" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="26" points="33"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Rudy Gay" position="F" primary_position="SF" jersey_number="8" id="79d56fd7-f4ed-4905-9d04-dff4b5352334">
+          <statistics minutes="37:57" field_goals_made="12" field_goals_att="23" field_goals_pct="52.2" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="12" two_points_att="21" two_points_pct="0.571" blocked_att="2" free_throws_made="8" free_throws_att="9" free_throws_pct="88.9" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="3" turnovers="1" steals="3" blocks="1" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="19" points="32"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Isaiah Thomas" position="G" primary_position="PG" jersey_number="22" id="bda5388e-a657-4e2c-8e12-6ed474518d25">
+          <statistics minutes="41:50" field_goals_made="12" field_goals_att="16" field_goals_pct="75.0" three_points_made="4" three_points_att="5" three_points_pct="80.0" two_points_made="8" two_points_att="11" two_points_pct="0.727" blocked_att="0" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="6" turnovers="6" steals="3" blocks="0" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="26" points="33"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-02-24 22:20:46 +0000 -->

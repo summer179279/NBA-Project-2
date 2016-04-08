@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:38:45Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="20437cc7-925c-45a6-8a48-abae08f58e8f" country_code="USA" preferred_foot="R" height_in="70" weight_lb="189" height_cm="177" weight_kg="85" first_name="Nick" last_name="Rimando" country="United States">
+    <teams>
+      <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" country_code="USA" position="G" is_manager="false" is_player="true" country="United States" jersey_number="22"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="18" matches_started="0" minutes_played="1620" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="dfc18161-31f9-4fca-8d6b-8d6df641c6fc" name="USA" country_code="USA" country="United States"/>
+          <tournament_group id="b4360831-aaa9-46a4-8319-62006d308eb6" name="Major League Soccer"/>
+          <team id="b78b9f61-0697-4347-a1b6-b7685a130eb1" name="Real Salt Lake" alias="SAL" country_code="USA" country="United States" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="25f72edd-dbf5-4790-afa7-5fbb0dafeb37" name="WC Qualif., CONCACAF"/>
+          <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 48822/1405922562 -->
+  </player>
+</profile>

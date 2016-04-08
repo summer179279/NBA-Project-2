@@ -1,0 +1,3074 @@
+{
+    "leaders": {
+        "@generated": "2014-07-21T14:01:46Z",
+        "@xmlns": "http://feed.elasticstats.com/schema/soccer/sr/v2/players-leader.xsd",
+        "category": {
+            "@country": "International",
+            "@country_code": "XZ",
+            "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+            "@name": "International",
+            "tournament_group": {
+                "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                "@name": "World Championship",
+                "@season": "2014",
+                "@season_end": "2014-07-14T21:59:00Z",
+                "@season_start": "2014-06-11T22:00:00Z",
+                "top_assists": {
+                    "player": [
+                        {
+                            "@country": "Colombia",
+                            "@country_code": "COL",
+                            "@first_name": "Juan",
+                            "@id": "58c40d06-7dc1-42c0-8de6-6edb98224652",
+                            "@last_name": "Cuadrado",
+                            "@position": "F",
+                            "@rank": "1",
+                            "teams": {
+                                "team": {
+                                    "@alias": "COL",
+                                    "@assists": "4",
+                                    "@country": "Colombia",
+                                    "@country_code": "COL",
+                                    "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                                    "@matches": "5",
+                                    "@name": "Colombia",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "4",
+                                "@matches": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Daley",
+                            "@id": "03b0e119-b657-46fe-8476-1758c6a454a4",
+                            "@last_name": "Blind",
+                            "@position": "D",
+                            "@rank": "2",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "3",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "7",
+                                    "@name": "Netherlands",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "3",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Toni",
+                            "@id": "0e28c29b-d344-4825-9128-0580ec64c448",
+                            "@last_name": "Kroos",
+                            "@position": "M",
+                            "@rank": "3",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@assists": "3",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "3",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Thomas",
+                            "@id": "5b9aac82-f07e-411d-a4aa-8e645130b2cc",
+                            "@last_name": "Muller",
+                            "@position": "M",
+                            "@rank": "4",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@assists": "3",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "3",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Belgium",
+                            "@country_code": "BEL",
+                            "@first_name": "Eden",
+                            "@id": "00b12235-3f25-4a5e-b19e-2e6fc68902f6",
+                            "@last_name": "Hazard",
+                            "@position": "M",
+                            "@rank": "5",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BEL",
+                                    "@assists": "2",
+                                    "@country": "Belgium",
+                                    "@country_code": "BEL",
+                                    "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                                    "@matches": "5",
+                                    "@name": "Belgium",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "5",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Philipp",
+                            "@id": "3dd7d6c6-cd58-4cb2-a28a-1a340e9774b9",
+                            "@last_name": "Lahm",
+                            "@position": "D",
+                            "@rank": "6",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@assists": "2",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Belgium",
+                            "@country_code": "BEL",
+                            "@first_name": "Kevin",
+                            "@id": "3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b",
+                            "@last_name": "De Bruyne",
+                            "@position": "M",
+                            "@rank": "7",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BEL",
+                                    "@assists": "2",
+                                    "@country": "Belgium",
+                                    "@country_code": "BEL",
+                                    "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                                    "@matches": "4",
+                                    "@name": "Belgium",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Costa Rica",
+                            "@country_code": "CRI",
+                            "@first_name": "Christian",
+                            "@id": "983a4ee1-70ea-4058-a1b7-432a255fe64b",
+                            "@last_name": "Bolanos",
+                            "@position": "M",
+                            "@rank": "8",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CRC",
+                                    "@assists": "2",
+                                    "@country": "Costa Rica",
+                                    "@country_code": "CRI",
+                                    "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                                    "@matches": "5",
+                                    "@name": "Costa Rica",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "5",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Ecuador",
+                            "@country_code": "ECU",
+                            "@first_name": "Walter",
+                            "@id": "b97f4484-63e6-4d94-b1d1-9aec6fbdf5d3",
+                            "@last_name": "Ayovi",
+                            "@position": "M",
+                            "@rank": "9",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ECU",
+                                    "@assists": "2",
+                                    "@country": "Ecuador",
+                                    "@country_code": "ECU",
+                                    "@id": "221a5554-3961-426d-ae64-76061bceeeba",
+                                    "@matches": "3",
+                                    "@name": "Ecuador",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "David",
+                            "@id": "70edfb19-0496-4821-bf6a-c839057c10d2",
+                            "@last_name": "Luiz",
+                            "@position": "D",
+                            "@rank": "10",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@assists": "2",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "7",
+                                    "@name": "Brazil",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Wesley",
+                            "@id": "73305964-ec0f-4e39-9df8-8203b6e7098b",
+                            "@last_name": "Sneijder",
+                            "@position": "M",
+                            "@rank": "11",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "2",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "6",
+                                    "@name": "Netherlands",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "6",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Italy",
+                            "@country_code": "ITA",
+                            "@first_name": "Antonio",
+                            "@id": "57e93e3c-67b8-4b01-a55a-110ba9970774",
+                            "@last_name": "Candreva",
+                            "@position": "M",
+                            "@rank": "12",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ITA",
+                                    "@assists": "2",
+                                    "@country": "Italy",
+                                    "@country_code": "ITA",
+                                    "@id": "fdf11341-914c-4a67-bd55-07749823deab",
+                                    "@matches": "2",
+                                    "@name": "Italy",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "2",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Daryl",
+                            "@id": "419b9fdb-8b52-4c1d-b572-8bf1a479b808",
+                            "@last_name": "Janmaat",
+                            "@position": "D",
+                            "@rank": "13",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "2",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "5",
+                                    "@name": "Netherlands",
+                                    "@substituted_in": "2",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "5",
+                                "@substituted_in": "2"
+                            }
+                        },
+                        {
+                            "@country": "Switzerland",
+                            "@country_code": "CHE",
+                            "@first_name": "Josip",
+                            "@id": "060ab1b3-7b27-41be-8e3a-45aa58abf4c2",
+                            "@last_name": "Drmic",
+                            "@position": "F",
+                            "@rank": "14",
+                            "teams": {
+                                "team": {
+                                    "@alias": "SUI",
+                                    "@assists": "2",
+                                    "@country": "Switzerland",
+                                    "@country_code": "CHE",
+                                    "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                                    "@matches": "4",
+                                    "@name": "Switzerland",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "4",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "C\u00f4te D'Ivoire",
+                            "@country_code": "CIV",
+                            "@first_name": "Serge",
+                            "@id": "c90f039a-036a-4da2-91d9-e4813456ec42",
+                            "@last_name": "Aurier",
+                            "@position": "D",
+                            "@rank": "15",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CIV",
+                                    "@assists": "2",
+                                    "@country": "C\u00f4te D'Ivoire",
+                                    "@country_code": "CIV",
+                                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                                    "@matches": "3",
+                                    "@name": "Ivory Coast",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Colombia",
+                            "@country_code": "COL",
+                            "@first_name": "James",
+                            "@id": "8a3fc0a1-57ce-44cb-8a62-646ec1371cf2",
+                            "@last_name": "Rodriguez",
+                            "@position": "F",
+                            "@rank": "16",
+                            "teams": {
+                                "team": {
+                                    "@alias": "COL",
+                                    "@assists": "2",
+                                    "@country": "Colombia",
+                                    "@country_code": "COL",
+                                    "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                                    "@matches": "5",
+                                    "@name": "Colombia",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "5",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "France",
+                            "@country_code": "FRA",
+                            "@first_name": "Karim",
+                            "@id": "33510d5c-8c15-4c97-82b1-7e9e21cd4fde",
+                            "@last_name": "Benzema",
+                            "@position": "F",
+                            "@rank": "17",
+                            "teams": {
+                                "team": {
+                                    "@alias": "FRA",
+                                    "@assists": "2",
+                                    "@country": "France",
+                                    "@country_code": "FRA",
+                                    "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                                    "@matches": "5",
+                                    "@name": "France",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Chile",
+                            "@country_code": "CHL",
+                            "@first_name": "Alexis",
+                            "@id": "17f36d6c-04b8-442c-a05a-c254a7cca62e",
+                            "@last_name": "Sanchez",
+                            "@position": "F",
+                            "@rank": "18",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CHI",
+                                    "@assists": "2",
+                                    "@country": "Chile",
+                                    "@country_code": "CHL",
+                                    "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                                    "@matches": "4",
+                                    "@name": "Chile",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Algeria",
+                            "@country_code": "DZA",
+                            "@first_name": "Sofiane",
+                            "@id": "15377708-6dc7-4079-a61e-6fcdadf962d7",
+                            "@last_name": "Feghouli",
+                            "@position": "M",
+                            "@rank": "19",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ALG",
+                                    "@assists": "2",
+                                    "@country": "Algeria",
+                                    "@country_code": "DZA",
+                                    "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                                    "@matches": "4",
+                                    "@name": "Algeria",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "United States",
+                            "@country_code": "USA",
+                            "@first_name": "Graham",
+                            "@id": "4c712e71-6e7c-4a76-adfa-67975c05a8d8",
+                            "@last_name": "Zusi",
+                            "@position": "M",
+                            "@rank": "20",
+                            "teams": {
+                                "team": {
+                                    "@alias": "USA",
+                                    "@assists": "2",
+                                    "@country": "United States",
+                                    "@country_code": "USA",
+                                    "@id": "79a99f09-13ca-45c4-b3f0-2a61f94e0651",
+                                    "@matches": "4",
+                                    "@name": "USA",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "4",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Colombia",
+                            "@country_code": "COL",
+                            "@first_name": "Abel",
+                            "@id": "a287a558-7735-48d2-ac42-1c6f48101107",
+                            "@last_name": "Aguilar",
+                            "@position": "M",
+                            "@rank": "21",
+                            "teams": {
+                                "team": {
+                                    "@alias": "COL",
+                                    "@assists": "2",
+                                    "@country": "Colombia",
+                                    "@country_code": "COL",
+                                    "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                                    "@matches": "3",
+                                    "@name": "Colombia",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Switzerland",
+                            "@country_code": "CHE",
+                            "@first_name": "Ricardo",
+                            "@id": "1d928915-decd-45f6-a9d9-67295770c0be",
+                            "@last_name": "Rodriguez",
+                            "@position": "D",
+                            "@rank": "22",
+                            "teams": {
+                                "team": {
+                                    "@alias": "SUI",
+                                    "@assists": "2",
+                                    "@country": "Switzerland",
+                                    "@country_code": "CHE",
+                                    "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                                    "@matches": "4",
+                                    "@name": "Switzerland",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Nigeria",
+                            "@country_code": "NGA",
+                            "@first_name": "Emmanuel",
+                            "@id": "7cea667a-f5f5-4bc0-a537-8050b2c38eea",
+                            "@last_name": "Emenike",
+                            "@position": "F",
+                            "@rank": "23",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NGR",
+                                    "@assists": "2",
+                                    "@country": "Nigeria",
+                                    "@country_code": "NGA",
+                                    "@id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                                    "@matches": "4",
+                                    "@name": "Nigeria",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@matches": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Spain",
+                            "@country_code": "ESP",
+                            "@first_name": "Cesc",
+                            "@id": "556210cb-0bdc-4cd8-b67f-a6fad49f89a7",
+                            "@last_name": "Fabregas",
+                            "@position": "M",
+                            "@rank": "24",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ESP",
+                                    "@assists": "1",
+                                    "@country": "Spain",
+                                    "@country_code": "ESP",
+                                    "@id": "7ed29820-2a75-4440-a7ab-3fb004887f44",
+                                    "@matches": "2",
+                                    "@name": "Spain",
+                                    "@substituted_in": "2",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@matches": "2",
+                                "@substituted_in": "2"
+                            }
+                        },
+                        {
+                            "@country": "C\u00f4te D'Ivoire",
+                            "@country_code": "CIV",
+                            "@first_name": "Gervinho",
+                            "@id": "051b496a-4ba2-45fa-a767-d39933ed1f13",
+                            "@last_name": "",
+                            "@position": "F",
+                            "@rank": "25",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CIV",
+                                    "@assists": "1",
+                                    "@country": "C\u00f4te D'Ivoire",
+                                    "@country_code": "CIV",
+                                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                                    "@matches": "3",
+                                    "@name": "Ivory Coast",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@matches": "3",
+                                "@substituted_in": "0"
+                            }
+                        }
+                    ]
+                },
+                "top_cards": {
+                    "player": [
+                        {
+                            "@country": "Ecuador",
+                            "@country_code": "ECU",
+                            "@first_name": "Antonio",
+                            "@id": "919209bc-f821-4336-9564-f26dede06974",
+                            "@last_name": "Valencia",
+                            "@position": "M",
+                            "@rank": "1",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ECU",
+                                    "@country": "Ecuador",
+                                    "@country_code": "ECU",
+                                    "@id": "221a5554-3961-426d-ae64-76061bceeeba",
+                                    "@matches": "3",
+                                    "@name": "Ecuador",
+                                    "@red_cards": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "1",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "1",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "1",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Uruguay",
+                            "@country_code": "URY",
+                            "@first_name": "Maxi",
+                            "@id": "459ea752-d2fc-45c1-a6dd-5a758276aa6e",
+                            "@last_name": "Pereira",
+                            "@position": "D",
+                            "@rank": "2",
+                            "teams": {
+                                "team": {
+                                    "@alias": "URU",
+                                    "@country": "Uruguay",
+                                    "@country_code": "URY",
+                                    "@id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                                    "@matches": "3",
+                                    "@name": "Uruguay",
+                                    "@red_cards": "1",
+                                    "@substituted_in": "1",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "1",
+                                "@substituted_in": "1",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Croatia",
+                            "@country_code": "HRV",
+                            "@first_name": "Ante",
+                            "@id": "b1302711-5764-4c0c-bbd1-6b82ba70baaf",
+                            "@last_name": "Rebic",
+                            "@position": "F",
+                            "@rank": "3",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CRO",
+                                    "@country": "Croatia",
+                                    "@country_code": "HRV",
+                                    "@id": "4305ef43-d8e4-401b-916f-9a32cbcc9ade",
+                                    "@matches": "3",
+                                    "@name": "Croatia",
+                                    "@red_cards": "1",
+                                    "@substituted_in": "3",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "1",
+                                "@substituted_in": "3",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Italy",
+                            "@country_code": "ITA",
+                            "@first_name": "Claudio",
+                            "@id": "0bac8ca7-fa52-40be-916d-36f86595622b",
+                            "@last_name": "Marchisio",
+                            "@position": "M",
+                            "@rank": "4",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ITA",
+                                    "@country": "Italy",
+                                    "@country_code": "ITA",
+                                    "@id": "fdf11341-914c-4a67-bd55-07749823deab",
+                                    "@matches": "3",
+                                    "@name": "Italy",
+                                    "@red_cards": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "1",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Cameroon",
+                            "@country_code": "CMR",
+                            "@first_name": "Alex",
+                            "@id": "7264daee-7bda-44d0-9c14-8c502a100128",
+                            "@last_name": "Song",
+                            "@position": "M",
+                            "@rank": "5",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CMR",
+                                    "@country": "Cameroon",
+                                    "@country_code": "CMR",
+                                    "@id": "9947cfb1-6a86-4f8f-9330-9b21af2553ff",
+                                    "@matches": "2",
+                                    "@name": "Cameroon",
+                                    "@red_cards": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "2",
+                                "@red_cards": "1",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Portugal",
+                            "@country_code": "PRT",
+                            "@first_name": "Pepe",
+                            "@id": "311a7e3c-5727-4bd3-898c-dfb9691b903d",
+                            "@last_name": "",
+                            "@position": "D",
+                            "@rank": "6",
+                            "teams": {
+                                "team": {
+                                    "@alias": "POR",
+                                    "@country": "Portugal",
+                                    "@country_code": "PRT",
+                                    "@id": "d49ecca2-07bc-417f-bf19-e653c81e07e3",
+                                    "@matches": "2",
+                                    "@name": "Portugal",
+                                    "@red_cards": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "2",
+                                "@red_cards": "1",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Belgium",
+                            "@country_code": "BEL",
+                            "@first_name": "Steven",
+                            "@id": "8c11f8ea-9262-4a67-a2d5-ce41813f6c43",
+                            "@last_name": "Defour",
+                            "@position": "M",
+                            "@rank": "7",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BEL",
+                                    "@country": "Belgium",
+                                    "@country_code": "BEL",
+                                    "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                                    "@matches": "1",
+                                    "@name": "Belgium",
+                                    "@red_cards": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "1",
+                                "@red_cards": "1",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Greece",
+                            "@country_code": "GRC",
+                            "@first_name": "Kostas",
+                            "@id": "991a779f-2536-45fe-8235-9c2bdeec6e64",
+                            "@last_name": "Katsouranis",
+                            "@position": "M",
+                            "@rank": "8",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GRE",
+                                    "@country": "Greece",
+                                    "@country_code": "GRC",
+                                    "@id": "56915cf9-6045-49c9-aba1-4e7691f23cce",
+                                    "@matches": "3",
+                                    "@name": "Greece",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "1",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "1"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "0",
+                                "@substituted_in": "1",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "1"
+                            }
+                        },
+                        {
+                            "@country": "Honduras",
+                            "@country_code": "HND",
+                            "@first_name": "Wilson",
+                            "@id": "041e5145-fc61-467c-aed6-1cff95dbd571",
+                            "@last_name": "Palacios",
+                            "@position": "M",
+                            "@rank": "9",
+                            "teams": {
+                                "team": {
+                                    "@alias": "HON",
+                                    "@country": "Honduras",
+                                    "@country_code": "HND",
+                                    "@id": "f68fcef3-42f2-4031-983e-81c0b79801d5",
+                                    "@matches": "2",
+                                    "@name": "Honduras",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "1"
+                                }
+                            },
+                            "total": {
+                                "@matches": "2",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "1"
+                            }
+                        },
+                        {
+                            "@country": "Costa Rica",
+                            "@country_code": "CRI",
+                            "@first_name": "Oscar",
+                            "@id": "2b3ea9d1-71ee-47f8-9fe3-976310bd04be",
+                            "@last_name": "Duarte",
+                            "@position": "D",
+                            "@rank": "10",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CRC",
+                                    "@country": "Costa Rica",
+                                    "@country_code": "CRI",
+                                    "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                                    "@matches": "4",
+                                    "@name": "Costa Rica",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "0",
+                                    "@yellowred_cards": "1"
+                                }
+                            },
+                            "total": {
+                                "@matches": "4",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "0",
+                                "@yellowred_cards": "1"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "Thiago",
+                            "@id": "000a2eea-2ad2-4f9d-91ac-264d4f4029e3",
+                            "@last_name": "Silva",
+                            "@position": "D",
+                            "@rank": "11",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "6",
+                                    "@name": "Brazil",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "3",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "6",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "3",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Chile",
+                            "@country_code": "CHL",
+                            "@first_name": "Eugenio",
+                            "@id": "e33301db-3ab3-401b-be57-404b2f6ba35d",
+                            "@last_name": "Mena",
+                            "@position": "D",
+                            "@rank": "12",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CHI",
+                                    "@country": "Chile",
+                                    "@country_code": "CHL",
+                                    "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                                    "@matches": "4",
+                                    "@name": "Chile",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "4",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Chile",
+                            "@country_code": "CHL",
+                            "@first_name": "Francisco",
+                            "@id": "cfb0f3c6-43d9-4e72-b920-764ea0c3c338",
+                            "@last_name": "Silva",
+                            "@position": "M",
+                            "@rank": "13",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CHI",
+                                    "@country": "Chile",
+                                    "@country_code": "CHL",
+                                    "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                                    "@matches": "3",
+                                    "@name": "Chile",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Benedikt",
+                            "@id": "8571ae58-b5a1-46a1-aaaf-e9188add8e16",
+                            "@last_name": "Howedes",
+                            "@position": "D",
+                            "@rank": "14",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "7",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "Luiz",
+                            "@id": "0957db74-9775-4dc9-9cc1-df3d48bb2c93",
+                            "@last_name": "Gustavo",
+                            "@position": "M",
+                            "@rank": "15",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "6",
+                                    "@name": "Brazil",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "6",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Belgium",
+                            "@country_code": "BEL",
+                            "@first_name": "Toby",
+                            "@id": "033007fe-172d-4261-a780-578f7ce319d1",
+                            "@last_name": "Alderweireld",
+                            "@position": "D",
+                            "@rank": "16",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BEL",
+                                    "@country": "Belgium",
+                                    "@country_code": "BEL",
+                                    "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                                    "@matches": "4",
+                                    "@name": "Belgium",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "4",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Costa Rica",
+                            "@country_code": "CRI",
+                            "@first_name": "Giancarlo",
+                            "@id": "3afc4a85-ad85-4631-950d-2309c3a1acd8",
+                            "@last_name": "Gonzalez",
+                            "@position": "D",
+                            "@rank": "17",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CRC",
+                                    "@country": "Costa Rica",
+                                    "@country_code": "CRI",
+                                    "@id": "9a48caf7-0a32-4742-89c5-1d7af11bfffb",
+                                    "@matches": "5",
+                                    "@name": "Costa Rica",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "5",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Klaas Jan",
+                            "@id": "9be514df-cfbc-4d76-b3a5-6962ca6185d6",
+                            "@last_name": "Huntelaar",
+                            "@position": "F",
+                            "@rank": "18",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "3",
+                                    "@name": "Netherlands",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "3",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "0",
+                                "@substituted_in": "3",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Mexico",
+                            "@country_code": "MEX",
+                            "@first_name": "Paul",
+                            "@id": "539a7078-2a72-4612-b4f3-2f004547d94d",
+                            "@last_name": "Aguilar",
+                            "@position": "D",
+                            "@rank": "19",
+                            "teams": {
+                                "team": {
+                                    "@alias": "MEX",
+                                    "@country": "Mexico",
+                                    "@country_code": "MEX",
+                                    "@id": "0d6a26e4-3afa-49d7-bc95-61536650fbdd",
+                                    "@matches": "4",
+                                    "@name": "Mexico",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "4",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Argentina",
+                            "@country_code": "ARG",
+                            "@first_name": "Marcos",
+                            "@id": "eb53ec6d-a06c-4a21-a94f-d82a0e09a5ab",
+                            "@last_name": "Rojo",
+                            "@position": "D",
+                            "@rank": "20",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ARG",
+                                    "@country": "Argentina",
+                                    "@country_code": "ARG",
+                                    "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                                    "@matches": "6",
+                                    "@name": "Argentina",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "6",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Bastian",
+                            "@id": "6868e658-bc23-4084-a774-6e762d00f9a5",
+                            "@last_name": "Schweinsteiger",
+                            "@position": "M",
+                            "@rank": "21",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "6",
+                                    "@name": "Germany",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "1",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "6",
+                                "@red_cards": "0",
+                                "@substituted_in": "1",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Jonathan",
+                            "@id": "04447c49-e348-4c0a-99e2-966fe01d2d72",
+                            "@last_name": "de Guzman",
+                            "@position": "M",
+                            "@rank": "22",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "3",
+                                    "@name": "Netherlands",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Ghana",
+                            "@country_code": "GHA",
+                            "@first_name": "Sulley",
+                            "@id": "843958ab-5f87-4fbc-8117-dc2eb315655c",
+                            "@last_name": "Muntari",
+                            "@position": "M",
+                            "@rank": "23",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GHA",
+                                    "@country": "Ghana",
+                                    "@country_code": "GHA",
+                                    "@id": "9fe2410e-fa8c-4466-9926-ce8a71bf8020",
+                                    "@matches": "2",
+                                    "@name": "Ghana",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "2",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Bruno",
+                            "@id": "07b22bf6-8944-4f7d-a421-01b26422fc36",
+                            "@last_name": "Martins Indi",
+                            "@position": "D",
+                            "@rank": "24",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "6",
+                                    "@name": "Netherlands",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "1",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "6",
+                                "@red_cards": "0",
+                                "@substituted_in": "1",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        },
+                        {
+                            "@country": "Australia",
+                            "@country_code": "AUS",
+                            "@first_name": "Mile",
+                            "@id": "19546276-811e-4310-a682-2849e0efabfa",
+                            "@last_name": "Jedinak",
+                            "@position": "M",
+                            "@rank": "25",
+                            "teams": {
+                                "team": {
+                                    "@alias": "AUS",
+                                    "@country": "Australia",
+                                    "@country_code": "AUS",
+                                    "@id": "1db0a670-8394-49f4-9049-d0ef1dfdce12",
+                                    "@matches": "3",
+                                    "@name": "Australia",
+                                    "@red_cards": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team",
+                                    "@yellow_cards": "2",
+                                    "@yellowred_cards": "0"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@red_cards": "0",
+                                "@substituted_in": "0",
+                                "@yellow_cards": "2",
+                                "@yellowred_cards": "0"
+                            }
+                        }
+                    ]
+                },
+                "top_goals": {
+                    "player": [
+                        {
+                            "@country": "Colombia",
+                            "@country_code": "COL",
+                            "@first_name": "James",
+                            "@id": "8a3fc0a1-57ce-44cb-8a62-646ec1371cf2",
+                            "@last_name": "Rodriguez",
+                            "@position": "F",
+                            "@rank": "1",
+                            "teams": {
+                                "team": {
+                                    "@alias": "COL",
+                                    "@country": "Colombia",
+                                    "@country_code": "COL",
+                                    "@goals": "6",
+                                    "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                                    "@matches": "5",
+                                    "@name": "Colombia",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "6",
+                                "@matches": "5",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Thomas",
+                            "@id": "5b9aac82-f07e-411d-a4aa-8e645130b2cc",
+                            "@last_name": "Muller",
+                            "@position": "M",
+                            "@rank": "2",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "5",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "5",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "Neymar",
+                            "@id": "423e9818-7882-422f-bd8c-babf53135cfc",
+                            "@last_name": "",
+                            "@position": "F",
+                            "@rank": "3",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@goals": "4",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "5",
+                                    "@name": "Brazil",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "4",
+                                "@matches": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Robin",
+                            "@id": "c00a42de-9e85-4725-96a2-a4c595431970",
+                            "@last_name": "van Persie",
+                            "@position": "F",
+                            "@rank": "4",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "4",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "6",
+                                    "@name": "Netherlands",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "4",
+                                "@matches": "6",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Argentina",
+                            "@country_code": "ARG",
+                            "@first_name": "Lionel",
+                            "@id": "b84654c1-de9e-44b1-90e5-a61c88796651",
+                            "@last_name": "Messi",
+                            "@position": "F",
+                            "@rank": "5",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ARG",
+                                    "@country": "Argentina",
+                                    "@country_code": "ARG",
+                                    "@goals": "4",
+                                    "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                                    "@matches": "7",
+                                    "@name": "Argentina",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "4",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Andre",
+                            "@id": "23e5f012-4cdf-4548-8788-b2b8170601ef",
+                            "@last_name": "Schurrle",
+                            "@position": "M",
+                            "@rank": "6",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "3",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "6",
+                                    "@name": "Germany",
+                                    "@substituted_in": "6",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "3",
+                                "@matches": "6",
+                                "@substituted_in": "6"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Arjen",
+                            "@id": "2a035783-07b8-44dc-94fe-d9c472d70ce2",
+                            "@last_name": "Robben",
+                            "@position": "M",
+                            "@rank": "7",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "3",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "7",
+                                    "@name": "Netherlands",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "3",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "France",
+                            "@country_code": "FRA",
+                            "@first_name": "Karim",
+                            "@id": "33510d5c-8c15-4c97-82b1-7e9e21cd4fde",
+                            "@last_name": "Benzema",
+                            "@position": "F",
+                            "@rank": "8",
+                            "teams": {
+                                "team": {
+                                    "@alias": "FRA",
+                                    "@country": "France",
+                                    "@country_code": "FRA",
+                                    "@goals": "3",
+                                    "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                                    "@matches": "5",
+                                    "@name": "France",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "3",
+                                "@matches": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Ecuador",
+                            "@country_code": "ECU",
+                            "@first_name": "Enner",
+                            "@id": "a7f8343a-bbc7-4299-a0c7-0a06eacab8a9",
+                            "@last_name": "Valencia",
+                            "@position": "F",
+                            "@rank": "9",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ECU",
+                                    "@country": "Ecuador",
+                                    "@country_code": "ECU",
+                                    "@goals": "3",
+                                    "@id": "221a5554-3961-426d-ae64-76061bceeeba",
+                                    "@matches": "3",
+                                    "@name": "Ecuador",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "3",
+                                "@matches": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Switzerland",
+                            "@country_code": "CHE",
+                            "@first_name": "Xherdan",
+                            "@id": "07850aa6-f8b9-4bd2-a40c-17c12c1270f8",
+                            "@last_name": "Shaqiri",
+                            "@position": "M",
+                            "@rank": "10",
+                            "teams": {
+                                "team": {
+                                    "@alias": "SUI",
+                                    "@country": "Switzerland",
+                                    "@country_code": "CHE",
+                                    "@goals": "3",
+                                    "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                                    "@matches": "4",
+                                    "@name": "Switzerland",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "3",
+                                "@matches": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "C\u00f4te D'Ivoire",
+                            "@country_code": "CIV",
+                            "@first_name": "Gervinho",
+                            "@id": "051b496a-4ba2-45fa-a767-d39933ed1f13",
+                            "@last_name": "",
+                            "@position": "F",
+                            "@rank": "11",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CIV",
+                                    "@country": "C\u00f4te D'Ivoire",
+                                    "@country_code": "CIV",
+                                    "@goals": "2",
+                                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                                    "@matches": "3",
+                                    "@name": "Ivory Coast",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "C\u00f4te D'Ivoire",
+                            "@country_code": "CIV",
+                            "@first_name": "Wilfried",
+                            "@id": "2274c0e2-0939-42ae-928e-e50c770d33db",
+                            "@last_name": "Bony",
+                            "@position": "F",
+                            "@rank": "12",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CIV",
+                                    "@country": "C\u00f4te D'Ivoire",
+                                    "@country_code": "CIV",
+                                    "@goals": "2",
+                                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                                    "@matches": "3",
+                                    "@name": "Ivory Coast",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Algeria",
+                            "@country_code": "DZA",
+                            "@first_name": "Abdelmoumene",
+                            "@id": "0831009f-b4af-432d-9f94-51c2435c74f2",
+                            "@last_name": "Djabou",
+                            "@position": "M",
+                            "@rank": "13",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ALG",
+                                    "@country": "Algeria",
+                                    "@country_code": "DZA",
+                                    "@goals": "2",
+                                    "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                                    "@matches": "3",
+                                    "@name": "Algeria",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Colombia",
+                            "@country_code": "COL",
+                            "@first_name": "Jackson",
+                            "@id": "0cd81bf8-add9-449e-a95f-ad3cc9eb1876",
+                            "@last_name": "Martinez",
+                            "@position": "F",
+                            "@rank": "14",
+                            "teams": {
+                                "team": {
+                                    "@alias": "COL",
+                                    "@country": "Colombia",
+                                    "@country_code": "COL",
+                                    "@goals": "2",
+                                    "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                                    "@matches": "3",
+                                    "@name": "Colombia",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Croatia",
+                            "@country_code": "HRV",
+                            "@first_name": "Mario",
+                            "@id": "50ccf166-db57-4d7b-a6fe-67b8659a6e63",
+                            "@last_name": "Mandzukic",
+                            "@position": "F",
+                            "@rank": "15",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CRO",
+                                    "@country": "Croatia",
+                                    "@country_code": "HRV",
+                                    "@goals": "2",
+                                    "@id": "4305ef43-d8e4-401b-916f-9a32cbcc9ade",
+                                    "@matches": "2",
+                                    "@name": "Croatia",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "2",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "David",
+                            "@id": "70edfb19-0496-4821-bf6a-c839057c10d2",
+                            "@last_name": "Luiz",
+                            "@position": "D",
+                            "@rank": "16",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@goals": "2",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "7",
+                                    "@name": "Brazil",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Uruguay",
+                            "@country_code": "URY",
+                            "@first_name": "Luis",
+                            "@id": "7f893698-5482-4742-8fcf-7716e6c594e4",
+                            "@last_name": "Suarez",
+                            "@position": "F",
+                            "@rank": "17",
+                            "teams": {
+                                "team": {
+                                    "@alias": "URU",
+                                    "@country": "Uruguay",
+                                    "@country_code": "URY",
+                                    "@goals": "2",
+                                    "@id": "6ea57d79-b740-4e32-b135-474dd53db2df",
+                                    "@matches": "2",
+                                    "@name": "Uruguay",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "2",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Croatia",
+                            "@country_code": "HRV",
+                            "@first_name": "Ivan",
+                            "@id": "13625a84-7ec4-4774-bc49-9a24a1eaf8bd",
+                            "@last_name": "Perisic",
+                            "@position": "M",
+                            "@rank": "18",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CRO",
+                                    "@country": "Croatia",
+                                    "@country_code": "HRV",
+                                    "@goals": "2",
+                                    "@id": "4305ef43-d8e4-401b-916f-9a32cbcc9ade",
+                                    "@matches": "3",
+                                    "@name": "Croatia",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Australia",
+                            "@country_code": "AUS",
+                            "@first_name": "Tim",
+                            "@id": "863b9a76-ce3b-497b-9aaa-0e0a57fee6af",
+                            "@last_name": "Cahill",
+                            "@position": "M",
+                            "@rank": "19",
+                            "teams": {
+                                "team": {
+                                    "@alias": "AUS",
+                                    "@country": "Australia",
+                                    "@country_code": "AUS",
+                                    "@goals": "2",
+                                    "@id": "1db0a670-8394-49f4-9049-d0ef1dfdce12",
+                                    "@matches": "2",
+                                    "@name": "Australia",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "2",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Memphis",
+                            "@id": "a9971c76-9e77-48b7-a0cf-10d194b0835e",
+                            "@last_name": "Depay",
+                            "@position": "F",
+                            "@rank": "20",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "2",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "4",
+                                    "@name": "Netherlands",
+                                    "@substituted_in": "3",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "4",
+                                "@substituted_in": "3"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Toni",
+                            "@id": "0e28c29b-d344-4825-9128-0580ec64c448",
+                            "@last_name": "Kroos",
+                            "@position": "M",
+                            "@rank": "21",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "2",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "7",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Algeria",
+                            "@country_code": "DZA",
+                            "@first_name": "Islam",
+                            "@id": "0cc698a0-ac5b-4fa9-a482-48f814fd88e9",
+                            "@last_name": "Slimani",
+                            "@position": "F",
+                            "@rank": "22",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ALG",
+                                    "@country": "Algeria",
+                                    "@country_code": "DZA",
+                                    "@goals": "2",
+                                    "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                                    "@matches": "4",
+                                    "@name": "Algeria",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "4",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Mats",
+                            "@id": "1bb4289a-a716-42e1-a2c2-14e90e877628",
+                            "@last_name": "Hummels",
+                            "@position": "D",
+                            "@rank": "23",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "2",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "6",
+                                    "@name": "Germany",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "6",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Miroslav",
+                            "@id": "8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce",
+                            "@last_name": "Klose",
+                            "@position": "F",
+                            "@rank": "24",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "2",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "5",
+                                    "@name": "Germany",
+                                    "@substituted_in": "2",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "5",
+                                "@substituted_in": "2"
+                            }
+                        },
+                        {
+                            "@country": "Nigeria",
+                            "@country_code": "NGA",
+                            "@first_name": "Ahmed",
+                            "@id": "2bc36ba8-d56b-4fdc-93a0-13afe352ba15",
+                            "@last_name": "Musa",
+                            "@position": "F",
+                            "@rank": "25",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NGR",
+                                    "@country": "Nigeria",
+                                    "@country_code": "NGA",
+                                    "@goals": "2",
+                                    "@id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                                    "@matches": "4",
+                                    "@name": "Nigeria",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@goals": "2",
+                                "@matches": "4",
+                                "@substituted_in": "0"
+                            }
+                        }
+                    ]
+                },
+                "top_own_goals": {
+                    "player": [
+                        {
+                            "@country": "Ghana",
+                            "@country_code": "GHA",
+                            "@first_name": "John",
+                            "@id": "d9cbac68-a227-413e-b6d0-2d81b356cc3a",
+                            "@last_name": "Boye",
+                            "@position": "D",
+                            "@rank": "1",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GHA",
+                                    "@country": "Ghana",
+                                    "@country_code": "GHA",
+                                    "@id": "9fe2410e-fa8c-4466-9926-ce8a71bf8020",
+                                    "@matches": "3",
+                                    "@name": "Ghana",
+                                    "@own_goals": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@own_goals": "1",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Honduras",
+                            "@country_code": "HND",
+                            "@first_name": "Noel",
+                            "@id": "81edd078-7458-491d-b40d-86d3b3f8cad1",
+                            "@last_name": "Valladares",
+                            "@position": "G",
+                            "@rank": "2",
+                            "teams": {
+                                "team": {
+                                    "@alias": "HON",
+                                    "@country": "Honduras",
+                                    "@country_code": "HND",
+                                    "@id": "f68fcef3-42f2-4031-983e-81c0b79801d5",
+                                    "@matches": "3",
+                                    "@name": "Honduras",
+                                    "@own_goals": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@matches": "3",
+                                "@own_goals": "1",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "Marcelo",
+                            "@id": "0619d154-9b12-428e-a423-787eb2274bb7",
+                            "@last_name": "",
+                            "@position": "D",
+                            "@rank": "3",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "6",
+                                    "@name": "Brazil",
+                                    "@own_goals": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@matches": "6",
+                                "@own_goals": "1",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Bosnia and Herzegovina",
+                            "@country_code": "BIH",
+                            "@first_name": "Sead",
+                            "@id": "0072a85a-b626-46b3-8057-74617e41ec16",
+                            "@last_name": "Kolasinac",
+                            "@position": "D",
+                            "@rank": "4",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BIH",
+                                    "@country": "Bosnia and Herzegovina",
+                                    "@country_code": "BIH",
+                                    "@id": "10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c",
+                                    "@matches": "2",
+                                    "@name": "Bosnia & Herzegovina",
+                                    "@own_goals": "1",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@matches": "2",
+                                "@own_goals": "1",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Nigeria",
+                            "@country_code": "NGA",
+                            "@first_name": "Joseph",
+                            "@id": "d07ff856-de5e-4718-a671-aae38a2ac69e",
+                            "@last_name": "Yobo",
+                            "@position": "D",
+                            "@rank": "5",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NGR",
+                                    "@country": "Nigeria",
+                                    "@country_code": "NGA",
+                                    "@id": "f52b6f82-1dfe-44cf-92bd-67e4104d5b0d",
+                                    "@matches": "4",
+                                    "@name": "Nigeria",
+                                    "@own_goals": "1",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@matches": "4",
+                                "@own_goals": "1",
+                                "@substituted_in": "1"
+                            }
+                        }
+                    ]
+                },
+                "top_points": {
+                    "player": [
+                        {
+                            "@country": "Colombia",
+                            "@country_code": "COL",
+                            "@first_name": "James",
+                            "@id": "8a3fc0a1-57ce-44cb-8a62-646ec1371cf2",
+                            "@last_name": "Rodriguez",
+                            "@position": "F",
+                            "@rank": "1",
+                            "teams": {
+                                "team": {
+                                    "@alias": "COL",
+                                    "@assists": "2",
+                                    "@country": "Colombia",
+                                    "@country_code": "COL",
+                                    "@goals": "6",
+                                    "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                                    "@matches": "5",
+                                    "@name": "Colombia",
+                                    "@points": "0",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@goals": "6",
+                                "@matches": "5",
+                                "@points": "8",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Thomas",
+                            "@id": "5b9aac82-f07e-411d-a4aa-8e645130b2cc",
+                            "@last_name": "Muller",
+                            "@position": "M",
+                            "@rank": "2",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@assists": "3",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "5",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "3",
+                                "@goals": "5",
+                                "@matches": "7",
+                                "@points": "8",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "France",
+                            "@country_code": "FRA",
+                            "@first_name": "Karim",
+                            "@id": "33510d5c-8c15-4c97-82b1-7e9e21cd4fde",
+                            "@last_name": "Benzema",
+                            "@position": "F",
+                            "@rank": "3",
+                            "teams": {
+                                "team": {
+                                    "@alias": "FRA",
+                                    "@assists": "2",
+                                    "@country": "France",
+                                    "@country_code": "FRA",
+                                    "@goals": "3",
+                                    "@id": "9c5d9f4f-0c03-40b7-a7a0-3948b70d6554",
+                                    "@matches": "5",
+                                    "@name": "France",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@goals": "3",
+                                "@matches": "5",
+                                "@points": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "Neymar",
+                            "@id": "423e9818-7882-422f-bd8c-babf53135cfc",
+                            "@last_name": "",
+                            "@position": "F",
+                            "@rank": "4",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@assists": "1",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@goals": "4",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "5",
+                                    "@name": "Brazil",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "4",
+                                "@matches": "5",
+                                "@points": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Argentina",
+                            "@country_code": "ARG",
+                            "@first_name": "Lionel",
+                            "@id": "b84654c1-de9e-44b1-90e5-a61c88796651",
+                            "@last_name": "Messi",
+                            "@position": "F",
+                            "@rank": "5",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ARG",
+                                    "@assists": "1",
+                                    "@country": "Argentina",
+                                    "@country_code": "ARG",
+                                    "@goals": "4",
+                                    "@id": "909737d8-0424-435d-917a-3a05484322b4",
+                                    "@matches": "7",
+                                    "@name": "Argentina",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "4",
+                                "@matches": "7",
+                                "@points": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Colombia",
+                            "@country_code": "COL",
+                            "@first_name": "Juan",
+                            "@id": "58c40d06-7dc1-42c0-8de6-6edb98224652",
+                            "@last_name": "Cuadrado",
+                            "@position": "F",
+                            "@rank": "6",
+                            "teams": {
+                                "team": {
+                                    "@alias": "COL",
+                                    "@assists": "4",
+                                    "@country": "Colombia",
+                                    "@country_code": "COL",
+                                    "@goals": "1",
+                                    "@id": "42fafe63-cc2f-40c2-a196-b5cc6dbdfa87",
+                                    "@matches": "5",
+                                    "@name": "Colombia",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "4",
+                                "@goals": "1",
+                                "@matches": "5",
+                                "@points": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Toni",
+                            "@id": "0e28c29b-d344-4825-9128-0580ec64c448",
+                            "@last_name": "Kroos",
+                            "@position": "M",
+                            "@rank": "7",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@assists": "3",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "2",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "7",
+                                    "@name": "Germany",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "3",
+                                "@goals": "2",
+                                "@matches": "7",
+                                "@points": "5",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Chile",
+                            "@country_code": "CHL",
+                            "@first_name": "Alexis",
+                            "@id": "17f36d6c-04b8-442c-a05a-c254a7cca62e",
+                            "@last_name": "Sanchez",
+                            "@position": "F",
+                            "@rank": "8",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CHI",
+                                    "@assists": "2",
+                                    "@country": "Chile",
+                                    "@country_code": "CHL",
+                                    "@goals": "2",
+                                    "@id": "32bd8a9f-9334-41c2-81b1-7ccbe15356f0",
+                                    "@matches": "4",
+                                    "@name": "Chile",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@goals": "2",
+                                "@matches": "4",
+                                "@points": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Germany",
+                            "@country_code": "DEU",
+                            "@first_name": "Andre",
+                            "@id": "23e5f012-4cdf-4548-8788-b2b8170601ef",
+                            "@last_name": "Schurrle",
+                            "@position": "M",
+                            "@rank": "9",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GER",
+                                    "@assists": "1",
+                                    "@country": "Germany",
+                                    "@country_code": "DEU",
+                                    "@goals": "3",
+                                    "@id": "686950a8-4f89-4ed2-a32b-f0a564660859",
+                                    "@matches": "6",
+                                    "@name": "Germany",
+                                    "@points": "0",
+                                    "@substituted_in": "6",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "3",
+                                "@matches": "6",
+                                "@points": "4",
+                                "@substituted_in": "6"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Daley",
+                            "@id": "03b0e119-b657-46fe-8476-1758c6a454a4",
+                            "@last_name": "Blind",
+                            "@position": "D",
+                            "@rank": "10",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "3",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "1",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "7",
+                                    "@name": "Netherlands",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "3",
+                                "@goals": "1",
+                                "@matches": "7",
+                                "@points": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "David",
+                            "@id": "70edfb19-0496-4821-bf6a-c839057c10d2",
+                            "@last_name": "Luiz",
+                            "@position": "D",
+                            "@rank": "11",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@assists": "2",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@goals": "2",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "7",
+                                    "@name": "Brazil",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@goals": "2",
+                                "@matches": "7",
+                                "@points": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Arjen",
+                            "@id": "2a035783-07b8-44dc-94fe-d9c472d70ce2",
+                            "@last_name": "Robben",
+                            "@position": "M",
+                            "@rank": "12",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "1",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "3",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "7",
+                                    "@name": "Netherlands",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "3",
+                                "@matches": "7",
+                                "@points": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Robin",
+                            "@id": "c00a42de-9e85-4725-96a2-a4c595431970",
+                            "@last_name": "van Persie",
+                            "@position": "F",
+                            "@rank": "13",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "0",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "4",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "6",
+                                    "@name": "Netherlands",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "0",
+                                "@goals": "4",
+                                "@matches": "6",
+                                "@points": "4",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Algeria",
+                            "@country_code": "DZA",
+                            "@first_name": "Abdelmoumene",
+                            "@id": "0831009f-b4af-432d-9f94-51c2435c74f2",
+                            "@last_name": "Djabou",
+                            "@position": "M",
+                            "@rank": "14",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ALG",
+                                    "@assists": "1",
+                                    "@country": "Algeria",
+                                    "@country_code": "DZA",
+                                    "@goals": "2",
+                                    "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                                    "@matches": "3",
+                                    "@name": "Algeria",
+                                    "@points": "0",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@points": "3",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Ecuador",
+                            "@country_code": "ECU",
+                            "@first_name": "Enner",
+                            "@id": "a7f8343a-bbc7-4299-a0c7-0a06eacab8a9",
+                            "@last_name": "Valencia",
+                            "@position": "F",
+                            "@rank": "15",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ECU",
+                                    "@assists": "0",
+                                    "@country": "Ecuador",
+                                    "@country_code": "ECU",
+                                    "@goals": "3",
+                                    "@id": "221a5554-3961-426d-ae64-76061bceeeba",
+                                    "@matches": "3",
+                                    "@name": "Ecuador",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "0",
+                                "@goals": "3",
+                                "@matches": "3",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Wesley",
+                            "@id": "73305964-ec0f-4e39-9df8-8203b6e7098b",
+                            "@last_name": "Sneijder",
+                            "@position": "M",
+                            "@rank": "16",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "2",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "1",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "6",
+                                    "@name": "Netherlands",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@goals": "1",
+                                "@matches": "6",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Algeria",
+                            "@country_code": "DZA",
+                            "@first_name": "Islam",
+                            "@id": "0cc698a0-ac5b-4fa9-a482-48f814fd88e9",
+                            "@last_name": "Slimani",
+                            "@position": "F",
+                            "@rank": "17",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ALG",
+                                    "@assists": "1",
+                                    "@country": "Algeria",
+                                    "@country_code": "DZA",
+                                    "@goals": "2",
+                                    "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                                    "@matches": "4",
+                                    "@name": "Algeria",
+                                    "@points": "0",
+                                    "@substituted_in": "1",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "2",
+                                "@matches": "4",
+                                "@points": "3",
+                                "@substituted_in": "1"
+                            }
+                        },
+                        {
+                            "@country": "Algeria",
+                            "@country_code": "DZA",
+                            "@first_name": "Sofiane",
+                            "@id": "15377708-6dc7-4079-a61e-6fcdadf962d7",
+                            "@last_name": "Feghouli",
+                            "@position": "M",
+                            "@rank": "18",
+                            "teams": {
+                                "team": {
+                                    "@alias": "ALG",
+                                    "@assists": "2",
+                                    "@country": "Algeria",
+                                    "@country_code": "DZA",
+                                    "@goals": "1",
+                                    "@id": "c103019c-cedb-48ba-a6a6-8b46926bf4cd",
+                                    "@matches": "4",
+                                    "@name": "Algeria",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@goals": "1",
+                                "@matches": "4",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "C\u00f4te D'Ivoire",
+                            "@country_code": "CIV",
+                            "@first_name": "Gervinho",
+                            "@id": "051b496a-4ba2-45fa-a767-d39933ed1f13",
+                            "@last_name": "",
+                            "@position": "F",
+                            "@rank": "19",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CIV",
+                                    "@assists": "1",
+                                    "@country": "C\u00f4te D'Ivoire",
+                                    "@country_code": "CIV",
+                                    "@goals": "2",
+                                    "@id": "0bca6ba8-1ff0-411c-90e6-203b0d38ab96",
+                                    "@matches": "3",
+                                    "@name": "Ivory Coast",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Ghana",
+                            "@country_code": "GHA",
+                            "@first_name": "Asamoah",
+                            "@id": "cad31ede-f44a-4a8a-84e6-5ec9351ab9a0",
+                            "@last_name": "Gyan",
+                            "@position": "F",
+                            "@rank": "20",
+                            "teams": {
+                                "team": {
+                                    "@alias": "GHA",
+                                    "@assists": "1",
+                                    "@country": "Ghana",
+                                    "@country_code": "GHA",
+                                    "@goals": "2",
+                                    "@id": "9fe2410e-fa8c-4466-9926-ce8a71bf8020",
+                                    "@matches": "3",
+                                    "@name": "Ghana",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Croatia",
+                            "@country_code": "HRV",
+                            "@first_name": "Ivan",
+                            "@id": "13625a84-7ec4-4774-bc49-9a24a1eaf8bd",
+                            "@last_name": "Perisic",
+                            "@position": "M",
+                            "@rank": "21",
+                            "teams": {
+                                "team": {
+                                    "@alias": "CRO",
+                                    "@assists": "1",
+                                    "@country": "Croatia",
+                                    "@country_code": "HRV",
+                                    "@goals": "2",
+                                    "@id": "4305ef43-d8e4-401b-916f-9a32cbcc9ade",
+                                    "@matches": "3",
+                                    "@name": "Croatia",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "2",
+                                "@matches": "3",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Switzerland",
+                            "@country_code": "CHE",
+                            "@first_name": "Xherdan",
+                            "@id": "07850aa6-f8b9-4bd2-a40c-17c12c1270f8",
+                            "@last_name": "Shaqiri",
+                            "@position": "M",
+                            "@rank": "22",
+                            "teams": {
+                                "team": {
+                                    "@alias": "SUI",
+                                    "@assists": "0",
+                                    "@country": "Switzerland",
+                                    "@country_code": "CHE",
+                                    "@goals": "3",
+                                    "@id": "45f3d732-c627-40cc-ae79-160a581876ca",
+                                    "@matches": "4",
+                                    "@name": "Switzerland",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "0",
+                                "@goals": "3",
+                                "@matches": "4",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Brazil",
+                            "@country_code": "BRA",
+                            "@first_name": "Oscar",
+                            "@id": "2c674fe0-d706-4450-bf33-2e747265fbbf",
+                            "@last_name": "",
+                            "@position": "M",
+                            "@rank": "23",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@assists": "1",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@goals": "2",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@matches": "7",
+                                    "@name": "Brazil",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "2",
+                                "@matches": "7",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        },
+                        {
+                            "@country": "Netherlands",
+                            "@country_code": "NLD",
+                            "@first_name": "Memphis",
+                            "@id": "a9971c76-9e77-48b7-a0cf-10d194b0835e",
+                            "@last_name": "Depay",
+                            "@position": "F",
+                            "@rank": "24",
+                            "teams": {
+                                "team": {
+                                    "@alias": "NED",
+                                    "@assists": "1",
+                                    "@country": "Netherlands",
+                                    "@country_code": "NLD",
+                                    "@goals": "2",
+                                    "@id": "ba9f498e-de99-4d04-9d58-8cbf633bcdd6",
+                                    "@matches": "4",
+                                    "@name": "Netherlands",
+                                    "@points": "0",
+                                    "@substituted_in": "3",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "1",
+                                "@goals": "2",
+                                "@matches": "4",
+                                "@points": "3",
+                                "@substituted_in": "3"
+                            }
+                        },
+                        {
+                            "@country": "Belgium",
+                            "@country_code": "BEL",
+                            "@first_name": "Kevin",
+                            "@id": "3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b",
+                            "@last_name": "De Bruyne",
+                            "@position": "M",
+                            "@rank": "25",
+                            "teams": {
+                                "team": {
+                                    "@alias": "BEL",
+                                    "@assists": "2",
+                                    "@country": "Belgium",
+                                    "@country_code": "BEL",
+                                    "@goals": "1",
+                                    "@id": "e56a79d1-d65c-4e8c-8ce2-e87744220812",
+                                    "@matches": "4",
+                                    "@name": "Belgium",
+                                    "@points": "0",
+                                    "@substituted_in": "0",
+                                    "@type": "team"
+                                }
+                            },
+                            "total": {
+                                "@assists": "2",
+                                "@goals": "1",
+                                "@matches": "4",
+                                "@points": "3",
+                                "@substituted_in": "0"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

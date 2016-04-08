@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-24 18:18:55 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="687dad0c-4d74-45b7-8777-98b5032f8f1c" status="closed" coverage="full" home_team="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec928-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-23T02:30:00+00:00" duration="2:05" attendance="19214" lead_changes="4" times_tied="2" clock="00:00" quarter="4">
+  <team name="Clippers" market="Los Angeles" id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" points="112">
+    <scoring>
+      <quarter number="1" sequence="1" points="36"/>
+      <quarter number="2" sequence="2" points="20"/>
+      <quarter number="3" sequence="3" points="24"/>
+      <quarter number="4" sequence="4" points="32"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Chris Paul" position="G" primary_position="PG" jersey_number="3" id="942c53e3-7268-44e3-b0a9-fdff55a72c03">
+          <statistics minutes="37:26" field_goals_made="10" field_goals_att="15" field_goals_pct="66.7" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="7" two_points_att="9" two_points_pct="0.778" blocked_att="0" free_throws_made="5" free_throws_att="5" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="15" turnovers="2" steals="6" blocks="0" assists_turnover_ratio="7.5" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="23" points="28"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="DeAndre Jordan" position="C" primary_position="C" jersey_number="6" id="0036a1fa-ff9a-44a5-8061-68b828ee2b1e">
+          <statistics minutes="33:28" field_goals_made="4" field_goals_att="5" field_goals_pct="80.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="4" two_points_att="5" two_points_pct="0.8" blocked_att="0" free_throws_made="1" free_throws_att="4" free_throws_pct="25.0" offensive_rebounds="3" defensive_rebounds="9" rebounds="12" assists="0" turnovers="2" steals="1" blocks="5" assists_turnover_ratio="0.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="23" points="9"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Chris Paul" position="G" primary_position="PG" jersey_number="3" id="942c53e3-7268-44e3-b0a9-fdff55a72c03">
+          <statistics minutes="37:26" field_goals_made="10" field_goals_att="15" field_goals_pct="66.7" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="7" two_points_att="9" two_points_pct="0.778" blocked_att="0" free_throws_made="5" free_throws_att="5" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="15" turnovers="2" steals="6" blocks="0" assists_turnover_ratio="7.5" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="23" points="28"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Pistons" market="Detroit" id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" points="103">
+    <scoring>
+      <quarter number="1" sequence="1" points="26"/>
+      <quarter number="2" sequence="2" points="29"/>
+      <quarter number="3" sequence="3" points="15"/>
+      <quarter number="4" sequence="4" points="33"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Jonas Jerebko" position="F" primary_position="PF" jersey_number="33" id="5d1f696c-7656-4b96-b116-66344a7dda71">
+          <statistics minutes="27:00" field_goals_made="8" field_goals_att="12" field_goals_pct="66.7" three_points_made="5" three_points_att="7" three_points_pct="71.4" two_points_made="3" two_points_att="5" two_points_pct="0.6" blocked_att="1" free_throws_made="1" free_throws_att="4" free_throws_pct="25.0" offensive_rebounds="5" defensive_rebounds="4" rebounds="9" assists="2" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="8" points="22"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Andre Drummond" position="C" primary_position="C" jersey_number="0" id="440b769d-2b8b-477f-80d7-cb21d83c0d52">
+          <statistics minutes="37:49" field_goals_made="8" field_goals_att="12" field_goals_pct="66.7" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="8" two_points_att="12" two_points_pct="0.667" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="4" defensive_rebounds="8" rebounds="12" assists="1" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-13" points="16"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Will Bynum" position="G" primary_position="PG" jersey_number="12" id="6ef9e6c3-f6c5-4569-80d7-97c79b180e81">
+          <statistics minutes="23:51" field_goals_made="2" field_goals_att="7" field_goals_pct="28.6" three_points_made="1" three_points_att="2" three_points_pct="50.0" two_points_made="1" two_points_att="5" two_points_pct="0.2" blocked_att="1" free_throws_made="1" free_throws_att="1" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="2" rebounds="2" assists="10" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="5.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="8" points="6"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-24 18:18:58 +0000 -->

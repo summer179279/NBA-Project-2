@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:19:09Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="12ab0fff-3512-4ac3-8270-e95a16089d41" country_code="CHE" preferred_foot="R" height_in="72" weight_lb="154" height_cm="182" weight_kg="69" first_name="Yann" last_name="Sommer" country="Switzerland">
+    <teams>
+      <team id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" country_code="CHE" position="G" is_manager="false" is_player="true" country="Switzerland" jersey_number="12"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="35" matches_started="0" minutes_played="3123" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+          <tournament_group id="2a457785-6abb-45af-968d-81e14d9cd42a" name="Super League"/>
+          <tournament id="2449e1bd-35bf-442f-81b4-2ee268a050ca" name="Super League"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="210" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="e1be9cff-b4ad-4a81-8aa5-ad9d7b401b15" name="Switzerland" country_code="CHE" country="Switzerland"/>
+          <tournament_group id="6c6db68b-9b4b-43a3-b8a3-8e6704b3da80" name="Schweizer Cup"/>
+          <tournament id="19663fc4-8d80-45ee-96a8-de40b95bbd7b" name="Schweizer Cup"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="6" matches_started="0" minutes_played="570" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="10" matches_started="0" minutes_played="900" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="a1498629-0c7c-4597-be98-a9e801c26d8c" name="FC Basel" alias="FCB" country_code="CHE" country="Switzerland" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 16206/1405922627 -->
+  </player>
+</profile>

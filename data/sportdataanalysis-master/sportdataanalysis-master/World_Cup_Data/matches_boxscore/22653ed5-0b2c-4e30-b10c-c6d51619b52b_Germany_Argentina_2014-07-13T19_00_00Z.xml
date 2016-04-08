@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:35:45Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="22653ed5-0b2c-4e30-b10c-c6d51619b52b" status="closed" scratched="false" period="X2" scheduled="2014-07-13T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="28" number="1" type="cup" name="F" scheduled_legs="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" loser_id="909737d8-0424-435d-917a-3a05484322b4" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="22653ed5-0b2c-4e30-b10c-c6d51619b52b" status="closed" number="1" home_id="686950a8-4f89-4ed2-a32b-f0a564660859" away_id="909737d8-0424-435d-917a-3a05484322b4" home_score="1" away_score="0"/>
+      </round>
+      <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-2-3-1" score="1" regular_score="1" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="1" number="3"/>
+        </scoring>
+        <statistics attacks="144" ball_safe="113" corner_kicks="5" dangerous_attacks="75" fouls="20" free_kicks="18" goal_attempts="10" goal_kicks="10" offsides="3" saves="0" shots_total="10" substitutions="3" throw_ins="32" yellow_card="2" shots_on_target="7" shots_off_target="3" possessions="60"/>
+      </home>
+      <away id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" formation="4-4-2" score="0" regular_score="0" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="0" number="3"/>
+        </scoring>
+        <statistics attacks="106" ball_safe="120" corner_kicks="3" dangerous_attacks="48" fouls="16" free_kicks="23" goal_attempts="8" goal_kicks="10" offsides="2" saves="5" shots_total="8" substitutions="3" throw_ins="39" yellow_card="2" shots_on_target="0" shots_off_target="8" possessions="40"/>
+      </away>
+      <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210"/>
+      <!-- 4768178/4711/4819 -->
+    </match>
+  </matches>
+</boxscore>

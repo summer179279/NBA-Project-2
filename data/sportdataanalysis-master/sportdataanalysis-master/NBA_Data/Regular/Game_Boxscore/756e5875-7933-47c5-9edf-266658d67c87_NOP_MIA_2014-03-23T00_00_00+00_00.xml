@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-23 02:48:56 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="756e5875-7933-47c5-9edf-266658d67c87" status="closed" coverage="full" home_team="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-23T00:00:00+00:00" duration="2:10" attendance="18185" lead_changes="5" times_tied="6" clock="00:00" quarter="4">
+  <team name="Pelicans" market="New Orleans" id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" points="105">
+    <scoring>
+      <quarter number="1" sequence="1" points="22"/>
+      <quarter number="2" sequence="2" points="23"/>
+      <quarter number="3" sequence="3" points="31"/>
+      <quarter number="4" sequence="4" points="29"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Anthony Davis" position="F-C" primary_position="PF" jersey_number="23" id="ea8826b8-1f76-4eab-b61e-ffcb176880f3">
+          <statistics minutes="39:27" field_goals_made="13" field_goals_att="22" field_goals_pct="59.1" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="13" two_points_att="22" two_points_pct="0.591" blocked_att="1" free_throws_made="4" free_throws_att="5" free_throws_pct="80.0" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="0" turnovers="1" steals="3" blocks="1" assists_turnover_ratio="0.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="30"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Anthony Davis" position="F-C" primary_position="PF" jersey_number="23" id="ea8826b8-1f76-4eab-b61e-ffcb176880f3">
+          <statistics minutes="39:27" field_goals_made="13" field_goals_att="22" field_goals_pct="59.1" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="13" two_points_att="22" two_points_pct="0.591" blocked_att="1" free_throws_made="4" free_throws_att="5" free_throws_pct="80.0" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="0" turnovers="1" steals="3" blocks="1" assists_turnover_ratio="0.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="7" points="30"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Tyreke Evans" position="F-G" primary_position="SF" jersey_number="1" id="f4526ee7-400d-496b-91cb-6e210595b845">
+          <statistics minutes="33:59" field_goals_made="7" field_goals_att="14" field_goals_pct="50.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="14" two_points_pct="0.5" blocked_att="2" free_throws_made="2" free_throws_att="4" free_throws_pct="50.0" offensive_rebounds="3" defensive_rebounds="1" rebounds="4" assists="8" turnovers="0" steals="2" blocks="0" assists_turnover_ratio="0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="16"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Heat" market="Miami" id="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" points="95">
+    <scoring>
+      <quarter number="1" sequence="1" points="22"/>
+      <quarter number="2" sequence="2" points="21"/>
+      <quarter number="3" sequence="3" points="29"/>
+      <quarter number="4" sequence="4" points="23"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="LeBron James" position="F" primary_position="SF" jersey_number="6" id="0afbe608-940a-4d5d-a1f7-468718c67d91">
+          <statistics minutes="41:59" field_goals_made="10" field_goals_att="18" field_goals_pct="55.6" three_points_made="2" three_points_att="4" three_points_pct="50.0" two_points_made="8" two_points_att="14" two_points_pct="0.571" blocked_att="1" free_throws_made="3" free_throws_att="3" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="7" rebounds="8" assists="9" turnovers="3" steals="0" blocks="1" assists_turnover_ratio="3.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-6" points="25"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="LeBron James" position="F" primary_position="SF" jersey_number="6" id="0afbe608-940a-4d5d-a1f7-468718c67d91">
+          <statistics minutes="41:59" field_goals_made="10" field_goals_att="18" field_goals_pct="55.6" three_points_made="2" three_points_att="4" three_points_pct="50.0" two_points_made="8" two_points_att="14" two_points_pct="0.571" blocked_att="1" free_throws_made="3" free_throws_att="3" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="7" rebounds="8" assists="9" turnovers="3" steals="0" blocks="1" assists_turnover_ratio="3.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-6" points="25"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="LeBron James" position="F" primary_position="SF" jersey_number="6" id="0afbe608-940a-4d5d-a1f7-468718c67d91">
+          <statistics minutes="41:59" field_goals_made="10" field_goals_att="18" field_goals_pct="55.6" three_points_made="2" three_points_att="4" three_points_pct="50.0" two_points_made="8" two_points_att="14" two_points_pct="0.571" blocked_att="1" free_throws_made="3" free_throws_att="3" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="7" rebounds="8" assists="9" turnovers="3" steals="0" blocks="1" assists_turnover_ratio="3.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-6" points="25"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-23 02:48:57 +0000 -->

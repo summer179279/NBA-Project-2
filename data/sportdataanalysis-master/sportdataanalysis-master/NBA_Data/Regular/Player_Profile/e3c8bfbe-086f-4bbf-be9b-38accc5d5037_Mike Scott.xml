@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:30:50 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="e3c8bfbe-086f-4bbf-be9b-38accc5d5037" status="ACT" full_name="Mike Scott" first_name="Mike" last_name="Scott" abbr_name="M.Scott" height="80" weight="237" position="F" primary_position="PF" jersey_number="32" experience="1" college="Virginia" birth_place="Chesapeake, VA, USA" birthdate="1988-07-16" updated="2013-09-06T19:01:33+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL"/>
+  <draft team_id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" year="2012" round="2" pick="43"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta" alias="ATL">
+        <statistics>
+          <total games_played="80" games_started="6" minutes="1482.0" field_goals_made="301" field_goals_att="628" three_points_made="62" three_points_att="200" blocked_att="27" free_throws_made="103" free_throws_att="132" offensive_rebounds="62" defensive_rebounds="222" assists="75" turnovers="79" steals="30" blocks="7" personal_fouls="121" tech_fouls="0" points="767" flagrant_fouls="1" free_throws_pct="0.78" two_points_pct="0.558" three_points_pct="0.31" field_goals_pct="0.479" rebounds="284" assists_turnover_ratio="0.95" two_points_made="239" two_points_att="428"/>
+          <average points="9.6" blocked_att="0.34" turnovers="0.99" free_throws_att="1.65" field_goals_att="7.85" off_rebounds="0.78" two_points_att="5.35" assists="0.9" blocks="0.09" personal_fouls="1.51" two_points_made="2.99" flagrant_fouls="0.01" rebounds="3.55" three_points_made="0.78" minutes="18.5" def_rebounds="2.78" free_throws_made="1.29" field_goals_made="3.76" steals="0.38" three_points_att="2.5"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:30:50 +0000 -->

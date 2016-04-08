@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:37:52Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="915db875-3167-453b-88a7-49e09af91e2b" status="closed" scratched="false" period="P2" scheduled="2014-06-21T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G"/>
+      <round week="25" number="2" type="table"/>
+      <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" formation="4-3-3" score="2" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="139" ball_safe="115" corner_kicks="7" dangerous_attacks="79" fouls="13" free_kicks="21" goal_attempts="10" goal_kicks="10" offsides="1" saves="5" shots_total="10" substitutions="3" throw_ins="18" yellow_card="0" shots_on_target="5" shots_off_target="5" possessions="60"/>
+        <players>
+          <player id="09bb94ef-6634-4ba2-8420-836b97009c4f" country_code="DEU" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Mario" last_name="Gotze" country="Germany" jersey_number="19">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="3dd7d6c6-cd58-4cb2-a28a-1a340e9774b9" country_code="DEU" position="D" started="true" tactical_position="6" tactical_order="7" first_name="Philipp" last_name="Lahm" country="Germany" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="23e5f012-4cdf-4548-8788-b2b8170601ef" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Andre" last_name="Schurrle" country="Germany" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5dafcbb4-b013-499d-95f7-db096aabd924" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Roman" last_name="Weidenfeller" country="Germany" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="05679d54-db23-4a53-8064-4d1613a134cc" country_code="DEU" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Jerome" last_name="Boateng" country="Germany" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="31f1a88e-b510-4006-9307-17b23e788f43" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Matthias" last_name="Ginter" country="Germany" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6d45e36b-f057-4bdd-8466-761fe563d87f" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Julian" last_name="Draxler" country="Germany" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e2102346-9bbd-4f45-a980-ad66a59e77b3" country_code="DEU" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Mesut" last_name="Ozil" country="Germany" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="17525942-55d1-48f1-8ef0-73ba1ee51956" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Per" last_name="Mertesacker" country="Germany" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8571ae58-b5a1-46a1-aaaf-e9188add8e16" country_code="DEU" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Benedikt" last_name="Howedes" country="Germany" jersey_number="4">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1bb4289a-a716-42e1-a2c2-14e90e877628" country_code="DEU" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Mats" last_name="Hummels" country="Germany" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5b9aac82-f07e-411d-a4aa-8e645130b2cc" country_code="DEU" position="M" started="true" tactical_position="8" tactical_order="10" first_name="Thomas" last_name="Muller" country="Germany" jersey_number="13">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f02f3123-b872-4dbd-bb62-cf98595ef841" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Sami" last_name="Khedira" country="Germany" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce" country_code="DEU" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Miroslav" last_name="Klose" country="Germany" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="6868e658-bc23-4084-a774-6e762d00f9a5" country_code="DEU" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Bastian" last_name="Schweinsteiger" country="Germany" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="13fdb7a7-5423-43a8-880a-9cfd7762cf2b" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Kevin" last_name="Grosskreutz" country="Germany" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e28c29b-d344-4825-9128-0580ec64c448" country_code="DEU" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Toni" last_name="Kroos" country="Germany" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="432f9e09-e0d3-4742-aa06-00cf2c0bc581" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Christoph" last_name="Kramer" country="Germany" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="37a851be-bcf3-47b5-9b9d-0903fca67996" country_code="DEU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Erik" last_name="Durm" country="Germany" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6e9abee4-9771-4011-8cfd-f1ae1226b313" country_code="DEU" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Manuel" last_name="Neuer" country="Germany" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="316115aa-50f7-4793-b2e3-2226495d19a3" country_code="DEU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Ron-Robert" last_name="Zieler" country="Germany" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13dae01a-61fc-4235-8471-0ed3658cc9ed" country_code="DEU" position="D" started="false" tactical_position="2" tactical_order="2" first_name="Shkodran" last_name="Mustafi" country="Germany" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="5111e561-8f28-470d-8a71-fab5a3a398b7" country_code="DEU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Lukas" last_name="Podolski" country="Germany" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team" formation="4-2-3-1" score="2" regular_score="" penalty_score="" winner="draw">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="129" ball_safe="113" corner_kicks="3" dangerous_attacks="60" fouls="16" free_kicks="14" goal_attempts="14" goal_kicks="7" offsides="5" saves="3" shots_total="14" substitutions="3" throw_ins="25" yellow_card="1" shots_on_target="7" shots_off_target="7" possessions="40"/>
+        <players>
+          <player id="476a40dd-b791-46c3-9ea1-e3f1fca1d231" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Essien" country="Ghana" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a5f03bf9-f0c0-4a76-b860-9eae539a1678" country_code="GHA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Adam" last_name="Kwarasey" country="Ghana" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2206db48-2813-46e2-9b87-a957c088ac21" country_code="GHA" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Kwadwo" last_name="Asamoah" country="Ghana" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="441e5e10-1913-4b3f-8f1f-aca80b7abf4b" country_code="GHA" position="M" started="false" tactical_position="5" tactical_order="8" first_name="Mubarak" last_name="Wakaso" country="Ghana" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="877f5bbc-2ad1-468a-b128-75968c89a156" country_code="GHA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Daniel" last_name="Opare" country="Ghana" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="fbc0e8a3-f5f9-4363-9587-5abb390cdc2a" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Rashid" last_name="Sumaila" country="Ghana" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="18eece17-16cf-42ba-a100-1e0f9e1fcfb5" country_code="GHA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Samuel" last_name="Inkoom" country="Ghana" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="843958ab-5f87-4fbc-8117-dc2eb315655c" country_code="GHA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Sulley" last_name="Muntari" country="Ghana" jersey_number="11">
+            <statistics goal="0" goal_assist="1" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b0af80a2-b2c8-4a84-8e39-75f5b56fbc00" country_code="GHA" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Christian" last_name="Atsu" country="Ghana" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="d9edc320-1ae4-4fc4-af6c-d600c7c1a9cb" country_code="GHA" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Andre" last_name="Ayew" country="Ghana" jersey_number="10">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0" country_code="GHA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Asamoah" last_name="Gyan" country="Ghana" jersey_number="3">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8d89e37d-374a-4351-bc9b-30f64ef13da9" country_code="GHA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Harrison" last_name="Afful" country="Ghana" jersey_number="23">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b8f0af18-05b3-4725-a78b-86ef6f0f204b" country_code="GHA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Mohammed" last_name="Rabiu" country="Ghana" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8" country_code="GHA" position="F" started="false" tactical_position="8" tactical_order="9" first_name="Jordan Pierre" last_name="Ayew" country="Ghana" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d9cbac68-a227-413e-b6d0-2d81b356cc3a" country_code="GHA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="John" last_name="Boye" country="Ghana" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="614e4eb8-c021-43a3-95ac-4baccd140e4b" country_code="GHA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Stephen" last_name="Adams" country="Ghana" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a579bdd9-f5eb-4124-84b4-2de0abc3dce7" country_code="GHA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Majeed" last_name="Waris" country="Ghana" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d5586ad9-66ed-4c60-9f4c-ce61d0787708" country_code="GHA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Fatau" last_name="Dauda" country="Ghana" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="820a3ca7-ef36-4017-a1ac-8ca23d67faa2" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Albert" last_name="Adomah" country="Ghana" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="22095dc7-a0c9-4783-93d6-fea0dc4941f7" country_code="GHA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Kevin Prince" last_name="Boateng" country="Ghana" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="55dd3392-6012-4879-9770-97e666d72d9c" country_code="GHA" position="M" started="false" tactical_position="6" tactical_order="7" first_name="Emmanuel" last_name="Badu" country="Ghana" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1f34653d-c159-4d80-890e-4ea423aea078" country_code="GHA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Jonathan" last_name="Mensah" country="Ghana" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="448ac3c5-5960-4e13-8e24-ff6fd492f3a0" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Acquah" last_name="Afriyie" country="Ghana" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542"/>
+      <facts>
+        <fact id="be7bf0ea-84a5-4142-b31b-5e46aac459c8" type="match_started" time="2014-06-21T19:00:11Z" updated_time="2014-06-21T19:00:04Z" scratch="false" clock="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>The first-half is just kicking off.</description>
+        </fact>
+        <fact id="c26a389c-f14f-454c-9ddd-73ddc2f895bf" type="period_started" time="2014-06-21T19:00:11Z" updated_time="2014-06-21T19:00:11Z" scratch="false" period="P1"/>
+        <fact id="16e7691e-a608-49fc-b0e9-2b041ccb3b4b" type="goal_kick" time="2014-06-21T19:01:28Z" updated_time="2014-06-21T19:01:28Z" scratch="false" x="95" y="50" clock="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana have a goal kick.</description>
+        </fact>
+        <fact id="e86b4743-c30c-476f-ac4f-58ac350658f4" type="throwin" time="2014-06-21T19:02:08Z" updated_time="2014-06-21T19:02:08Z" scratch="false" x="45" y="98" clock="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="b2cfbf16-3cc8-4c95-95cb-96e7df8b8d0a" type="free_kick" time="2014-06-21T19:02:33Z" updated_time="2014-06-21T19:02:33Z" scratch="false" x="37" y="40" clock="2" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a free kick to Ghana.</description>
+        </fact>
+        <fact id="3206bf60-5778-49da-a020-f44d4d9223da" type="free_kick" time="2014-06-21T19:03:03Z" updated_time="2014-06-21T19:03:03Z" scratch="false" x="19" y="37" clock="2" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="f0deb2c0-5127-4e93-9426-9809003498c9" type="throwin" time="2014-06-21T19:04:03Z" updated_time="2014-06-21T19:04:03Z" scratch="false" x="80" y="1" clock="3" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany capitalize from this throw-in deep inside Ghana's half?</description>
+        </fact>
+        <fact id="6e91a70b-56fb-4149-80c0-30ded9d9516b" type="shot_off_target" time="2014-06-21T19:06:42Z" updated_time="2014-06-21T19:06:42Z" scratch="false" x="21" y="39" clock="7" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana are pushing forward but Asamoah Gyan's finish is wide of the goal.</description>
+        </fact>
+        <fact id="969821cb-46ac-4661-a5e5-1ce4e381f13c" type="goal_kick" time="2014-06-21T19:06:43Z" updated_time="2014-06-21T19:06:43Z" scratch="false" x="5" y="50" clock="7" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio Castelao.</description>
+        </fact>
+        <fact id="e33f3d1e-26dc-4d6e-9ac7-5af1d142f75d" type="throwin" time="2014-06-21T19:07:12Z" updated_time="2014-06-21T19:07:12Z" scratch="false" x="67" y="0" clock="7" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in Ghana.</description>
+        </fact>
+        <fact id="7f620df9-052f-4df0-9dab-1762d69ffe31" type="throwin" time="2014-06-21T19:07:31Z" updated_time="2014-06-21T19:07:31Z" scratch="false" x="37" y="1" clock="7" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany at Estadio Castelao.</description>
+        </fact>
+        <fact id="5d78ac28-9b29-4a7e-821a-82d677a5d74e" type="throwin" time="2014-06-21T19:07:54Z" updated_time="2014-06-21T19:07:54Z" scratch="false" x="45" y="1" clock="7" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="cef5ade4-0ee1-4f72-903e-a82c705aa318" type="free_kick" time="2014-06-21T19:09:02Z" updated_time="2014-06-21T19:09:02Z" scratch="false" x="60" y="57" clock="8" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="a0d8104b-65b9-4e69-8572-a46ce8e2a4fa" type="free_kick" time="2014-06-21T19:09:18Z" updated_time="2014-06-21T19:09:18Z" scratch="false" x="72" y="50" clock="9" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="f48a9d06-0ec9-4534-bb03-119e3d14a125" type="throwin" time="2014-06-21T19:09:49Z" updated_time="2014-06-21T19:09:49Z" scratch="false" x="62" y="1" clock="9" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a Germany throw-in in Ghana's half.</description>
+        </fact>
+        <fact id="6c96875a-1791-4271-88be-543420e920ea" type="free_kick" time="2014-06-21T19:11:42Z" updated_time="2014-06-21T19:11:42Z" scratch="false" x="57" y="47" clock="11" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany.</description>
+        </fact>
+        <fact id="48e48181-c242-42c6-9f53-d2599f66abe8" type="shot_blocked" time="2014-06-21T19:11:12Z" updated_time="2014-06-21T19:11:38Z" scratch="false" x="88" y="46" clock="12" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Important block from the Ghana defence as Toni Kroos fires in a strike for Germany.</description>
+        </fact>
+        <fact id="39545647-a041-447e-aa5e-5d3e339c2574" type="free_kick" time="2014-06-21T19:12:20Z" updated_time="2014-06-21T19:12:20Z" scratch="false" x="75" y="83" clock="12" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="3f9973b6-8267-4b98-98f2-e657e8c1dd8c" type="keeper_save" time="2014-06-21T19:12:43Z" updated_time="2014-06-21T19:12:43Z" scratch="false" x="25" y="48" clock="12" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="ce495c9e-4556-432e-a8dc-7ea34acae923" type="throwin" time="2014-06-21T19:12:46Z" updated_time="2014-06-21T19:12:46Z" scratch="false" x="32" y="99" clock="12" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a Ghana throw-in in Germany's half.</description>
+        </fact>
+        <fact id="a01f01c9-13d7-4e52-bcb1-e961fe7fdc97" type="shot_on_target" time="2014-06-21T19:12:42Z" updated_time="2014-06-21T19:12:42Z" scratch="false" x="25" y="48" clock="13" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="b0af80a2-b2c8-4a84-8e39-75f5b56fbc00">
+          <description>Ghana's Christian Atsu gets in a shot on goal at Estadio Castelao. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="ff42c5b6-40a9-4162-9d68-b5d9fa9f3ec7" type="throwin" time="2014-06-21T19:13:08Z" updated_time="2014-06-21T19:13:08Z" scratch="false" x="37" y="99" clock="13" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="b4edca28-030e-4d7e-ad39-0fc60c4c466b" type="throwin" time="2014-06-21T19:13:32Z" updated_time="2014-06-21T19:13:32Z" scratch="false" x="46" y="1" clock="13" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="70704c20-1b8c-4e6a-93c1-7ef3388d32e1" type="throwin" time="2014-06-21T19:13:56Z" updated_time="2014-06-21T19:13:56Z" scratch="false" x="20" y="98" clock="13" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana close to the penalty box.</description>
+        </fact>
+        <fact id="5815cc91-1622-40fa-ae4d-6553a26642bc" type="throwin" time="2014-06-21T19:14:09Z" updated_time="2014-06-21T19:14:09Z" scratch="false" x="20" y="0" clock="14" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="53aae6f7-b40a-4842-8605-fcb434322215" type="throwin" time="2014-06-21T19:15:20Z" updated_time="2014-06-21T19:15:20Z" scratch="false" x="89" y="98" clock="15" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball safe as Ghana is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="8705beb4-630b-4909-b6d1-0f5b62490b71" type="throwin" time="2014-06-21T19:15:38Z" updated_time="2014-06-21T19:15:38Z" scratch="false" x="53" y="98" clock="15" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a Germany throw-in in Ghana's half.</description>
+        </fact>
+        <fact id="a06b9e00-975b-4a3f-9e5c-3695104db7fb" type="throwin" time="2014-06-21T19:15:59Z" updated_time="2014-06-21T19:15:59Z" scratch="false" x="63" y="99" clock="15" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana in their own half.</description>
+        </fact>
+        <fact id="2e5c487d-95a0-48a7-9cb2-0c172b162b84" type="throwin" time="2014-06-21T19:17:23Z" updated_time="2014-06-21T19:17:23Z" scratch="false" x="63" y="1" clock="17" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana at Estadio Castelao.</description>
+        </fact>
+        <fact id="632596ca-88a4-4f9a-a9d1-11113cc4d77d" type="shot_on_target" time="2014-06-21T19:18:11Z" updated_time="2014-06-21T19:18:11Z" scratch="false" x="79" y="33" clock="18" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="f02f3123-b872-4dbd-bb62-cf98595ef841">
+          <description>Sami Khedira of Germany smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="a9eebdf6-c8d9-40dc-90f6-65c081887e87" type="keeper_save" time="2014-06-21T19:18:11Z" updated_time="2014-06-21T19:18:11Z" scratch="false" x="79" y="33" clock="18" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="2d3a0417-11a6-4624-8bf0-ef57f65b2358" type="shot_off_target" time="2014-06-21T19:19:32Z" updated_time="2014-06-21T19:20:40Z" scratch="false" x="19" y="39" clock="20" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="22095dc7-a0c9-4783-93d6-fea0dc4941f7">
+          <description>In Fortaleza Ghana attack through Kevin Prince Boateng. The finish is off target, however.</description>
+        </fact>
+        <fact id="4f4d5b8f-38d7-4203-bddf-408c0335c8a0" type="goal_kick" time="2014-06-21T19:19:32Z" updated_time="2014-06-21T19:19:32Z" scratch="false" x="5" y="50" clock="20" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci awards Germany a goal kick.</description>
+        </fact>
+        <fact id="6b7e5ee8-8235-478e-9bc5-66fed9001573" type="offside" time="2014-06-21T19:20:05Z" updated_time="2014-06-21T19:20:05Z" scratch="false" x="73" y="54" clock="20" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Sandro Meira Ricci blows against Germany's Thomas Muller for offside.</description>
+        </fact>
+        <fact id="22db52ad-c939-4e98-9fe6-9780e1f55b3a" type="shot_off_target" time="2014-06-21T19:21:09Z" updated_time="2014-06-21T19:21:09Z" scratch="false" x="82" y="68" clock="21" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Thomas Muller for Germany gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="39ac50c6-44db-43ca-80ce-69540a7b7857" type="goal_kick" time="2014-06-21T19:21:09Z" updated_time="2014-06-21T19:21:09Z" scratch="false" x="95" y="50" clock="21" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball goes out of play for a Ghana goal kick.</description>
+        </fact>
+        <fact id="0e51b446-0875-429f-88ee-b2facba6ef8d" type="free_kick" time="2014-06-21T19:23:02Z" updated_time="2014-06-21T19:23:02Z" scratch="false" x="60" y="28" clock="22" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="16383175-4826-4425-8f54-7b5f5ac07df8" type="free_kick" time="2014-06-21T19:23:15Z" updated_time="2014-06-21T19:23:15Z" scratch="false" x="60" y="28" clock="23" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="3d2df384-b07a-4ce0-a0d1-f7cde26ad1a4" type="throwin" time="2014-06-21T19:25:00Z" updated_time="2014-06-21T19:25:00Z" scratch="false" x="90" y="2" clock="24" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a dangerous throw-in.</description>
+        </fact>
+        <fact id="60bb7870-de33-4c17-b4da-ea40a923d2d4" type="shot_off_target" time="2014-06-21T19:25:18Z" updated_time="2014-06-21T19:25:18Z" scratch="false" x="89" y="40" clock="26" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="0e28c29b-d344-4825-9128-0580ec64c448">
+          <description>Germany's Toni Kroos gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="e20e6684-e5e3-4db7-b192-d4aee66d50f7" type="goal_kick" time="2014-06-21T19:25:18Z" updated_time="2014-06-21T19:25:18Z" scratch="false" x="95" y="50" clock="26" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball goes out of play for a Ghana goal kick.</description>
+        </fact>
+        <fact id="0f4c2fed-9f21-490a-aee5-462b92790930" type="offside" time="2014-06-21T19:26:49Z" updated_time="2014-06-21T19:26:49Z" scratch="false" x="29" y="35" clock="27" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana's Asamoah Gyan is whistled for offside at Estadio Castelao.</description>
+        </fact>
+        <fact id="9e7957c0-4d90-41d6-b142-79416b47b934" type="throwin" time="2014-06-21T19:27:29Z" updated_time="2014-06-21T19:27:29Z" scratch="false" x="85" y="2" clock="27" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball safe as Ghana is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="70cd4d9a-769b-477b-97df-10e1aadbfeab" type="throwin" time="2014-06-21T19:28:21Z" updated_time="2014-06-21T19:28:21Z" scratch="false" x="23" y="99" clock="28" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="3507c63a-3156-4e10-9084-fb287396a4ac" type="shot_blocked" time="2014-06-21T19:29:15Z" updated_time="2014-06-21T19:29:15Z" scratch="false" x="95" y="94" clock="30" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Mario Gotze (Germany) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="96223bee-b231-4e13-91aa-4c825a1ee927" type="corner_kick" time="2014-06-21T19:29:39Z" updated_time="2014-06-21T19:29:39Z" scratch="false" x="95" y="90" clock="30" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="a8ca8b56-b6f3-4701-a148-597623008f46" type="goal_kick" time="2014-06-21T19:31:31Z" updated_time="2014-06-21T19:31:31Z" scratch="false" x="5" y="50" clock="31" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio Castelao.</description>
+        </fact>
+        <fact id="5a3dbf98-b71a-453b-9cb3-07ead49bbaee" type="keeper_save" time="2014-06-21T19:32:17Z" updated_time="2014-06-21T19:32:17Z" scratch="false" x="14" y="45" clock="32" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="8f650a14-6b37-489c-a3f8-aa8e41235080" type="throwin" time="2014-06-21T19:32:22Z" updated_time="2014-06-21T19:32:22Z" scratch="false" x="33" y="98" clock="32" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="41b6a714-920f-4bae-a5cf-0fc63beae57a" type="shot_on_target" time="2014-06-21T19:32:17Z" updated_time="2014-06-21T19:32:26Z" scratch="false" x="14" y="45" clock="33" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="843958ab-5f87-4fbc-8117-dc2eb315655c">
+          <description>Sulley Muntari for Ghana drives towards goal at Estadio Castelao. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="dadd16e2-d5b2-4d28-b45c-3dbb5d40318a" type="goal_kick" time="2014-06-21T19:33:51Z" updated_time="2014-06-21T19:33:51Z" scratch="false" x="5" y="50" clock="33" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="4872e5ff-a037-4167-8863-d87fcd6e8b36" type="corner_kick" time="2014-06-21T19:36:14Z" updated_time="2014-06-21T19:36:14Z" scratch="false" x="95" y="5" clock="36" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Sandro Meira Ricci.</description>
+        </fact>
+        <fact id="a5a91493-9448-42fc-9e0b-1129a52480f9" type="keeper_save" time="2014-06-21T19:37:14Z" updated_time="2014-06-21T19:37:14Z" scratch="false" x="84" y="51" clock="37" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="149e92ee-21dc-4bcf-a3de-cabf8fd85aac" type="shot_on_target" time="2014-06-21T19:37:14Z" updated_time="2014-06-21T19:37:14Z" scratch="false" x="84" y="51" clock="38" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="09bb94ef-6634-4ba2-8420-836b97009c4f">
+          <description>Germany push forward through Mario Gotze, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="b96d4971-1b6e-48de-a087-83a6517e68dd" type="throwin" time="2014-06-21T19:38:14Z" updated_time="2014-06-21T19:38:14Z" scratch="false" x="33" y="2" clock="38" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="75312c83-dcf5-44d6-a9f2-0fa395eaa698" type="free_kick" time="2014-06-21T19:38:50Z" updated_time="2014-06-21T19:38:50Z" scratch="false" x="41" y="21" clock="38" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0aa44db5-9bbb-49d8-b7d4-bebc4faff811" type="free_kick" time="2014-06-21T19:39:52Z" updated_time="2014-06-21T19:39:52Z" scratch="false" x="62" y="19" clock="39" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany.</description>
+        </fact>
+        <fact id="cd93d014-b81c-4f17-9516-8c4afe03974d" type="offside" time="2014-06-21T19:40:39Z" updated_time="2014-06-21T19:41:41Z" scratch="false" x="32" y="43" clock="41" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>In Fortaleza Ghana's Asamoah Gyan is caught offside.</description>
+        </fact>
+        <fact id="4514943f-4e67-4489-9dfc-de2d3a618475" type="free_kick" time="2014-06-21T19:41:11Z" updated_time="2014-06-21T19:41:11Z" scratch="false" x="68" y="22" clock="41" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="eecf2259-5687-40b6-8d10-0ac65d60cbff" type="offside" time="2014-06-21T19:43:02Z" updated_time="2014-06-21T19:43:27Z" scratch="false" x="9" y="25" clock="43" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="b0af80a2-b2c8-4a84-8e39-75f5b56fbc00">
+          <description>Ghana's Christian Atsu is whistled for offside at Estadio Castelao.</description>
+        </fact>
+        <fact id="2f9995db-68d4-4084-adb9-9cc834212d5a" type="throwin" time="2014-06-21T19:43:48Z" updated_time="2014-06-21T19:43:48Z" scratch="false" x="46" y="0" clock="43" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="2acc2a07-f0ef-4372-86f1-3d4e0785c153" type="throwin" time="2014-06-21T19:44:25Z" updated_time="2014-06-21T19:44:25Z" scratch="false" x="33" y="0" clock="44" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a Ghana throw-in in Germany's half.</description>
+        </fact>
+        <fact id="012673a8-5f98-4b4a-817f-466e1093a069" type="corner_kick" time="2014-06-21T19:45:11Z" updated_time="2014-06-21T19:45:11Z" scratch="false" x="5" y="90" clock="45" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Corner awarded to Ghana.</description>
+        </fact>
+        <fact id="49710fa0-90b5-4103-8bf4-37d776b79263" type="shot_off_target" time="2014-06-21T19:45:39Z" updated_time="2014-06-21T19:45:39Z" scratch="false" x="13" y="47" clock="45" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="1f34653d-c159-4d80-890e-4ea423aea078">
+          <description>Ghana's Jonathan Mensah breaks free at Estadio Castelao. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="bca93800-d10f-4cc9-a92e-266f5d9729fe" type="goal_kick" time="2014-06-21T19:45:39Z" updated_time="2014-06-21T19:45:39Z" scratch="false" x="5" y="50" clock="45" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci awards Germany a goal kick.</description>
+        </fact>
+        <fact id="4f6a773d-3974-431e-a076-7423ca9cc996" type="injury_time" time="2014-06-21T19:45:43Z" updated_time="2014-06-21T19:45:43Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>1 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="78bc9137-4560-4fd6-b053-621b761a9df3" type="period_over" time="2014-06-21T19:46:28Z" updated_time="2014-06-21T19:46:28Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The first-half is over.</description>
+        </fact>
+        <fact id="5bb0e0a2-13f5-45f8-b0b6-9c782e3254ae" type="period_started" time="2014-06-21T19:46:28Z" updated_time="2014-06-21T19:46:28Z" scratch="false" period="H"/>
+        <fact id="8a2526c0-e76c-4533-8801-09ba0e0e31f3" type="period_started" time="2014-06-21T20:03:01Z" updated_time="2014-06-21T20:03:01Z" scratch="false" period="P2"/>
+        <fact id="90fb78e3-eb6d-470b-a1c7-033a9f6b9ec5" type="throwin" time="2014-06-21T20:03:24Z" updated_time="2014-06-21T20:03:24Z" scratch="false" x="39" y="1" clock="45" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="c62221ee-1513-44d2-9eee-c69bca491a67" type="throwin" time="2014-06-21T20:03:53Z" updated_time="2014-06-21T20:03:53Z" scratch="false" x="20" y="2" clock="45" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a throw-in for Ghana, close to Germany's area.</description>
+        </fact>
+        <fact id="89094294-5a53-48c3-82fd-f8d4dced3ee2" type="substitution" time="2014-06-21T20:03:10Z" updated_time="2014-06-21T20:03:10Z" scratch="false" clock="46" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="05679d54-db23-4a53-8064-4d1613a134cc" player_in_id="13dae01a-61fc-4235-8471-0ed3658cc9ed">
+          <description>Germany make their first substitution with Shkodran Mustafi replacing Jerome Boateng.</description>
+        </fact>
+        <fact id="74553a32-104c-4c49-ba14-7a1ae4b2e3be" type="throwin" time="2014-06-21T20:04:04Z" updated_time="2014-06-21T20:04:04Z" scratch="false" x="30" y="2" clock="46" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="f1dbea30-a23d-4451-91ce-7240c614c979" type="throwin" time="2014-06-21T20:04:17Z" updated_time="2014-06-21T20:04:17Z" scratch="false" x="20" y="2" clock="46" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball safe as Germany is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="880ad47f-fcd7-4f7c-bbb5-c2b6232834b5" type="throwin" time="2014-06-21T20:04:21Z" updated_time="2014-06-21T20:04:21Z" scratch="false" x="30" y="1" clock="46" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="7b802bd1-7454-476c-99c6-d0014c309650" type="free_kick" time="2014-06-21T20:04:59Z" updated_time="2014-06-21T20:04:59Z" scratch="false" x="91" y="53" clock="46" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="8e80f86e-fbd2-40f1-b3c4-298bce919811" type="throwin" time="2014-06-21T20:05:43Z" updated_time="2014-06-21T20:05:43Z" scratch="false" x="38" y="1" clock="47" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in Germany.</description>
+        </fact>
+        <fact id="b6ef86f2-6042-4001-b867-ed214126c144" type="throwin" time="2014-06-21T20:06:13Z" updated_time="2014-06-21T20:06:13Z" scratch="false" x="64" y="1" clock="48" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a Germany throw-in in Ghana's half.</description>
+        </fact>
+        <fact id="8698e9b0-03d7-4429-9352-a1a3e0553261" type="free_kick" time="2014-06-21T20:07:11Z" updated_time="2014-06-21T20:07:11Z" scratch="false" x="35" y="34" clock="49" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Free kick Ghana.</description>
+        </fact>
+        <fact id="490bd7c3-3eeb-4a85-9fee-9c3d1e67bc5f" type="free_kick" time="2014-06-21T20:07:51Z" updated_time="2014-06-21T20:07:51Z" scratch="false" x="66" y="77" clock="49" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany.</description>
+        </fact>
+        <fact id="144ee40f-970e-4f24-a338-8de3f7b39434" type="goal" time="2014-06-21T20:08:39Z" updated_time="2014-06-21T20:08:46Z" scratch="false" x="85" y="51" clock="51" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="09bb94ef-6634-4ba2-8420-836b97009c4f" assist1_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>That's a fine assist from Thomas Muller.</description>
+        </fact>
+        <fact id="a97b5d4e-f215-4467-9b97-2346899bc086" type="free_kick" time="2014-06-21T20:09:52Z" updated_time="2014-06-21T20:09:52Z" scratch="false" x="64" y="30" clock="51" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="19febb9f-6070-4a97-b28c-a603d4622f49" type="substitution" time="2014-06-21T20:10:24Z" updated_time="2014-06-21T20:10:24Z" scratch="false" clock="53" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_out_id="22095dc7-a0c9-4783-93d6-fea0dc4941f7" player_in_id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8">
+          <description>Jordan Pierre Ayew is on a sub for Kevin Prince Boateng for Ghana.</description>
+        </fact>
+        <fact id="98e3054e-6deb-4b57-b302-ac315029d8b7" type="throwin" time="2014-06-21T20:11:17Z" updated_time="2014-06-21T20:11:17Z" scratch="false" x="45" y="2" clock="53" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Throw-in for Germany in their own half.</description>
+        </fact>
+        <fact id="1626ed27-ccc1-4fec-b285-d77e60cd90bc" type="goal" time="2014-06-21T20:11:56Z" updated_time="2014-06-21T20:12:04Z" scratch="false" x="11" y="58" clock="54" home_score="1" away_score="1" penalty="false" owngoal="false" header="true" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="d9edc320-1ae4-4fc4-af6c-d600c7c1a9cb" assist1_id="8d89e37d-374a-4351-bc9b-30f64ef13da9">
+          <description>Harrison Afful with an assist there.</description>
+        </fact>
+        <fact id="0d2044c8-0f9e-41cb-97b9-1a1725bdcf3a" type="free_kick" time="2014-06-21T20:12:53Z" updated_time="2014-06-21T20:12:53Z" scratch="false" x="61" y="79" clock="54" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="859bc9ed-1850-4839-97d3-49b89232ddb0" type="throwin" time="2014-06-21T20:13:30Z" updated_time="2014-06-21T20:13:30Z" scratch="false" x="37" y="1" clock="55" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Germany's half?</description>
+        </fact>
+        <fact id="355131b1-7408-4ad3-94ed-6c59f2c474e5" type="free_kick" time="2014-06-21T20:14:05Z" updated_time="2014-06-21T20:14:05Z" scratch="false" x="43" y="59" clock="56" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a free kick to Ghana.</description>
+        </fact>
+        <fact id="3092d617-02d6-4057-93b1-2d01907097c0" type="free_kick" time="2014-06-21T20:14:46Z" updated_time="2014-06-21T20:14:46Z" scratch="false" x="38" y="22" clock="56" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Free kick Ghana.</description>
+        </fact>
+        <fact id="522a2d32-53bb-4544-9810-70e26d03d07f" type="shot_blocked" time="2014-06-21T20:14:43Z" updated_time="2014-06-21T20:14:43Z" scratch="false" x="15" y="54" clock="57" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana drive upfield and Sulley Muntari gets in a shot. The strike is blocked by a Germany defender.</description>
+        </fact>
+        <fact id="1b99c9dd-c1ee-4be1-8d04-09297c699637" type="shot_off_target" time="2014-06-21T20:15:30Z" updated_time="2014-06-21T20:15:30Z" scratch="false" x="10" y="55" clock="58" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="843958ab-5f87-4fbc-8117-dc2eb315655c">
+          <description>Ghana's Sulley Muntari misses with an attempt on goal.</description>
+        </fact>
+        <fact id="8f057196-d325-4144-b201-86b606d1d3fc" type="goal_kick" time="2014-06-21T20:15:30Z" updated_time="2014-06-21T20:15:30Z" scratch="false" x="5" y="50" clock="58" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Ball goes out of play for a Germany goal kick.</description>
+        </fact>
+        <fact id="76654a54-b855-42bf-9f6e-4ba965a74b39" type="throwin" time="2014-06-21T20:16:13Z" updated_time="2014-06-21T20:16:13Z" scratch="false" x="69" y="1" clock="58" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana at Estadio Castelao.</description>
+        </fact>
+        <fact id="68985a92-c696-49ba-8d19-0a31cd58230d" type="throwin" time="2014-06-21T20:16:29Z" updated_time="2014-06-21T20:16:29Z" scratch="false" x="29" y="1" clock="58" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="e803fe2b-4f4e-4108-9fd5-61843067cd6f" type="throwin" time="2014-06-21T20:16:39Z" updated_time="2014-06-21T20:16:39Z" scratch="false" x="21" y="1" clock="58" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="dbc3c7c3-999b-4794-aec4-f623f67ae84a" type="throwin" time="2014-06-21T20:17:05Z" updated_time="2014-06-21T20:17:05Z" scratch="false" x="56" y="99" clock="59" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a Germany throw-in in Ghana's half.</description>
+        </fact>
+        <fact id="6b018e3a-2806-4d1a-a4e7-b644ae3f4535" type="throwin" time="2014-06-21T20:17:42Z" updated_time="2014-06-21T20:17:42Z" scratch="false" x="67" y="2" clock="59" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany to take a throw-in in Ghana territory.</description>
+        </fact>
+        <fact id="b0f1ddba-64e8-4904-b7bb-85ca6e259e1a" type="throwin" time="2014-06-21T20:19:09Z" updated_time="2014-06-21T20:19:09Z" scratch="false" x="63" y="1" clock="61" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball safe as Ghana is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="4217ee7b-d967-4129-ae57-e73d479c5452" type="free_kick" time="2014-06-21T20:19:19Z" updated_time="2014-06-21T20:19:19Z" scratch="false" x="32" y="49" clock="61" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="9262fa22-2226-41d4-af41-474436a91072" type="goal_kick" time="2014-06-21T20:19:31Z" updated_time="2014-06-21T20:19:31Z" scratch="false" x="95" y="50" clock="61" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana have a goal kick.</description>
+        </fact>
+        <fact id="a96f5c74-9ac0-40b2-a11b-58ab164c48a3" type="throwin" time="2014-06-21T20:20:14Z" updated_time="2014-06-21T20:20:14Z" scratch="false" x="70" y="2" clock="62" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana in their own half.</description>
+        </fact>
+        <fact id="5021bca8-52b8-490d-adef-2a6dd3eef406" type="goal" time="2014-06-21T20:20:38Z" updated_time="2014-06-21T20:20:44Z" scratch="false" x="14" y="47" clock="63" home_score="1" away_score="2" penalty="false" owngoal="false" header="false" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0" assist1_id="843958ab-5f87-4fbc-8117-dc2eb315655c">
+          <description>Sulley Muntari instrumental with a fine assist.</description>
+        </fact>
+        <fact id="8a34c2cc-f238-4689-a33e-26c6854ae931" type="throwin" time="2014-06-21T20:23:48Z" updated_time="2014-06-21T20:23:48Z" scratch="false" x="63" y="98" clock="65" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in Ghana's half?</description>
+        </fact>
+        <fact id="f163b916-fd43-4158-8b93-de47fdafdf40" type="keeper_save" time="2014-06-21T20:24:10Z" updated_time="2014-06-21T20:24:10Z" scratch="false" x="7" y="48" clock="66" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="2da9300c-3c50-42f4-8723-6c51c924cbbf" type="shot_on_target" time="2014-06-21T20:24:10Z" updated_time="2014-06-21T20:24:19Z" scratch="false" x="7" y="48" clock="67" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8">
+          <description>In Fortaleza Ghana drive forward through Jordan Pierre Ayew. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="b205b27f-9f4a-4f98-ab6f-7b316fc98017" type="corner_kick" time="2014-06-21T20:25:56Z" updated_time="2014-06-21T20:25:56Z" scratch="false" x="5" y="5" clock="68" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana have been awarded a corner by Sandro Meira Ricci.</description>
+        </fact>
+        <fact id="412cd13b-ea30-44a9-bf37-e608252283c9" type="shot_off_target" time="2014-06-21T20:26:07Z" updated_time="2014-06-21T20:26:07Z" scratch="false" x="36" y="52" clock="69" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="843958ab-5f87-4fbc-8117-dc2eb315655c">
+          <description>Ghana's Sulley Muntari breaks free at Estadio Castelao. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="3e86a088-d7b2-4d4f-9252-6cf5d68c202f" type="goal_kick" time="2014-06-21T20:26:07Z" updated_time="2014-06-21T20:26:07Z" scratch="false" x="5" y="50" clock="69" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci awards Germany a goal kick.</description>
+        </fact>
+        <fact id="03ad4ee2-0bab-4f56-a9d9-37de88a1e83b" type="substitution" time="2014-06-21T20:26:41Z" updated_time="2014-06-21T20:26:41Z" scratch="false" clock="69" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="09bb94ef-6634-4ba2-8420-836b97009c4f" player_in_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce">
+          <description>Germany make their second substitution with Miroslav Klose replacing Mario Gotze.</description>
+        </fact>
+        <fact id="ef4350e2-d0fd-4ad8-ba78-254423f21c5a" type="substitution" time="2014-06-21T20:27:01Z" updated_time="2014-06-21T20:27:01Z" scratch="false" clock="69" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_out_id="f02f3123-b872-4dbd-bb62-cf98595ef841" player_in_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Bastian Schweinsteiger is on a sub for Sami Khedira for Germany.</description>
+        </fact>
+        <fact id="8811a44d-6636-4753-b6b2-ab6822c1a4f2" type="corner_kick" time="2014-06-21T20:28:24Z" updated_time="2014-06-21T20:28:24Z" scratch="false" x="95" y="5" clock="71" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="05c8201e-aede-4526-89e8-caa9d5a8994e" type="goal" time="2014-06-21T20:28:34Z" updated_time="2014-06-21T20:31:53Z" scratch="false" clock="71" home_score="2" away_score="2" penalty="false" owngoal="false" header="true" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce" assist1_id="8571ae58-b5a1-46a1-aaaf-e9188add8e16">
+          <description>Great play from Benedikt Howedes to set up the goal.</description>
+        </fact>
+        <fact id="b249f583-1108-45bf-ae5a-147227a5e419" type="free_kick" time="2014-06-21T20:29:40Z" updated_time="2014-06-21T20:29:40Z" scratch="false" x="35" y="41" clock="71" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="3a5f7a93-d333-4a14-a58f-b967948b7816" type="substitution" time="2014-06-21T20:30:21Z" updated_time="2014-06-21T20:30:21Z" scratch="false" clock="73" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_out_id="b0af80a2-b2c8-4a84-8e39-75f5b56fbc00" player_in_id="441e5e10-1913-4b3f-8f1f-aca80b7abf4b">
+          <description>James Kwesi Appiah is making the team's second substitution at Estadio Castelao with Mubarak Wakaso replacing Christian Atsu.</description>
+        </fact>
+        <fact id="6a8370db-f3e5-4702-a724-7766b42701e1" type="corner_kick" time="2014-06-21T20:30:57Z" updated_time="2014-06-21T20:30:57Z" scratch="false" x="95" y="5" clock="73" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Sandro Meira Ricci.</description>
+        </fact>
+        <fact id="a088b46f-8399-444e-91ca-04d6d72268cf" type="shot_off_target" time="2014-06-21T20:31:06Z" updated_time="2014-06-21T20:31:06Z" scratch="false" x="90" y="62" clock="73" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Bastian Schweinsteiger's header is off-target for Germany.</description>
+        </fact>
+        <fact id="a35f11d1-5cc3-4be7-9609-cd82706cac26" type="goal_kick" time="2014-06-21T20:31:06Z" updated_time="2014-06-21T20:31:06Z" scratch="false" x="95" y="50" clock="73" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Goal kick for Ghana at Estadio Castelao.</description>
+        </fact>
+        <fact id="9867bc9a-a74d-4817-891b-c16ab46cab28" type="free_kick" time="2014-06-21T20:33:06Z" updated_time="2014-06-21T20:33:06Z" scratch="false" x="76" y="72" clock="75" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="59904363-776a-4da0-a548-af329b7e2cd0" type="throwin" time="2014-06-21T20:34:44Z" updated_time="2014-06-21T20:34:44Z" scratch="false" x="53" y="1" clock="76" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in Ghana.</description>
+        </fact>
+        <fact id="016e82e4-ecca-4d8f-9ed9-3d0e47e99a5a" type="shot_off_target" time="2014-06-21T20:34:31Z" updated_time="2014-06-21T20:34:31Z" scratch="false" x="76" y="72" clock="77" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="6868e658-bc23-4084-a774-6e762d00f9a5">
+          <description>Germany are coming forward and Bastian Schweinsteiger gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="6d0df66c-0d6f-4104-9db7-293342483d2a" type="goal_kick" time="2014-06-21T20:34:31Z" updated_time="2014-06-21T20:34:31Z" scratch="false" x="95" y="50" clock="77" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball goes out of play for a Ghana goal kick.</description>
+        </fact>
+        <fact id="5d982c12-777f-4888-99dc-5b918a9c0e99" type="substitution" time="2014-06-21T20:35:06Z" updated_time="2014-06-21T20:36:22Z" scratch="false" clock="77" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_out_id="b8f0af18-05b3-4725-a78b-86ef6f0f204b" player_in_id="55dd3392-6012-4879-9770-97e666d72d9c">
+          <description>James Kwesi Appiah (Ghana) is making a third substitution, with Emmanuel Badu replacing Mohammed Rabiu.</description>
+        </fact>
+        <fact id="bb61a745-9884-4796-ae01-48a27804d3a2" type="corner_kick" time="2014-06-21T20:35:56Z" updated_time="2014-06-21T20:38:23Z" scratch="false" x="5" y="90" clock="78" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Corner awarded to Ghana.</description>
+        </fact>
+        <fact id="fd8ce5c3-39bd-43b2-ac00-9f3b70f67265" type="free_kick" time="2014-06-21T20:36:40Z" updated_time="2014-06-21T20:36:40Z" scratch="false" x="59" y="84" clock="78" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany.</description>
+        </fact>
+        <fact id="71ca79d2-e3dc-4ef7-bb8b-9504ace414b0" type="shot_off_target" time="2014-06-21T20:36:08Z" updated_time="2014-06-21T20:36:31Z" scratch="false" x="17" y="51" clock="79" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="55dd3392-6012-4879-9770-97e666d72d9c">
+          <description>In Fortaleza Ghana attack through Emmanuel Badu. The finish is off target, however.</description>
+        </fact>
+        <fact id="9ad0d6b3-f482-4c70-a223-cbf062cbaa43" type="goal_kick" time="2014-06-21T20:36:09Z" updated_time="2014-06-21T20:36:09Z" scratch="false" x="5" y="50" clock="79" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Goal kick for Germany at Estadio Castelao.</description>
+        </fact>
+        <fact id="f020efa3-f6b2-483d-af6f-ab805cd157dc" type="throwin" time="2014-06-21T20:37:53Z" updated_time="2014-06-21T20:37:53Z" scratch="false" x="38" y="1" clock="79" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Germany territory.</description>
+        </fact>
+        <fact id="fb29d585-b196-4e45-b1b8-5f8fa45d2182" type="free_kick" time="2014-06-21T20:38:29Z" updated_time="2014-06-21T20:38:29Z" scratch="false" x="66" y="82" clock="80" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="7e6c586e-dc78-45c4-859b-290c10e0db5e" type="goal_kick" time="2014-06-21T20:38:38Z" updated_time="2014-06-21T20:38:38Z" scratch="false" x="5" y="50" clock="80" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci awards Germany a goal kick.</description>
+        </fact>
+        <fact id="855607d7-1d2d-4eea-aee7-dd993d74b1b3" type="free_kick" time="2014-06-21T20:39:03Z" updated_time="2014-06-21T20:39:03Z" scratch="false" x="60" y="46" clock="81" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany.</description>
+        </fact>
+        <fact id="daedeb58-7097-4674-9a3d-1704fb8b6fd7" type="keeper_save" time="2014-06-21T20:40:22Z" updated_time="2014-06-21T20:40:22Z" scratch="false" x="19" y="31" clock="82" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="2d617e7e-5e9a-4159-a507-f3cc2ccb3e39" type="shot_on_target" time="2014-06-21T20:40:22Z" updated_time="2014-06-21T20:43:35Z" scratch="false" x="19" y="31" clock="83" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="d9edc320-1ae4-4fc4-af6c-d600c7c1a9cb">
+          <description>Ghana drive forward and Andre Ayew gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="4877f56f-b6d2-49c5-9e69-d8ec664d95f5" type="offside" time="2014-06-21T20:41:42Z" updated_time="2014-06-21T20:41:42Z" scratch="false" x="20" y="53" clock="84" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8">
+          <description>Jordan Pierre Ayew of Ghana is pulled up for offside.</description>
+        </fact>
+        <fact id="4fc6a4c7-07a3-497d-afac-a122d8a5c330" type="keeper_save" time="2014-06-21T20:42:06Z" updated_time="2014-06-21T20:42:06Z" scratch="false" x="95" y="8" clock="84" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="46a85257-db07-430a-a272-bc10d671915d" type="free_kick" time="2014-06-21T20:42:33Z" updated_time="2014-06-21T20:42:33Z" scratch="false" x="64" y="15" clock="84" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Sandro Meira Ricci signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="1aca6d52-1c86-4779-ae78-b5f61b910511" type="shot_on_target" time="2014-06-21T20:42:06Z" updated_time="2014-06-21T20:42:06Z" scratch="false" x="95" y="8" clock="85" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="5b9aac82-f07e-411d-a4aa-8e645130b2cc">
+          <description>Thomas Muller gets his shot on target but fails to score for Germany.</description>
+        </fact>
+        <fact id="82f4d9e1-94cc-472b-9804-b3a2806bc3cb" type="corner_kick" time="2014-06-21T20:42:24Z" updated_time="2014-06-21T20:42:24Z" scratch="false" x="95" y="5" clock="85" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Sandro Meira Ricci.</description>
+        </fact>
+        <fact id="9b6d9138-997f-4739-894d-80fdd1caf63f" type="free_kick" time="2014-06-21T20:43:01Z" updated_time="2014-06-21T20:43:01Z" scratch="false" x="48" y="17" clock="85" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany in their own half.</description>
+        </fact>
+        <fact id="fc13a4fb-8af2-493d-80f8-a58925188a9e" type="corner_kick" time="2014-06-21T20:44:07Z" updated_time="2014-06-21T20:44:07Z" scratch="false" x="95" y="5" clock="86" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Corner awarded to Germany.</description>
+        </fact>
+        <fact id="5a5e2ee7-301e-4428-844e-6c11235145a8" type="free_kick" time="2014-06-21T20:44:22Z" updated_time="2014-06-21T20:44:22Z" scratch="false" x="72" y="82" clock="86" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6de4cfd5-8971-4608-99b2-89028b68c23d" type="keeper_save" time="2014-06-21T20:45:09Z" updated_time="2014-06-21T20:45:09Z" scratch="false" x="23" y="64" clock="87" team_id="686950a8-4f89-4ed2-a32b-f0a564660859"/>
+        <fact id="4cbc14c6-27cf-4887-b468-2369960b839d" type="throwin" time="2014-06-21T20:45:39Z" updated_time="2014-06-21T20:45:39Z" scratch="false" x="57" y="2" clock="87" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Can Germany get the ball into an attacking position from this throw-in in Ghana's half?</description>
+        </fact>
+        <fact id="7cb5cd6f-5784-4fe9-8fbd-9e4c6823ef69" type="shot_on_target" time="2014-06-21T20:45:09Z" updated_time="2014-06-21T20:45:09Z" scratch="false" x="23" y="64" clock="88" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8">
+          <description>Ghana's Jordan Pierre Ayew gets in a shot on goal at Estadio Castelao. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="13706faa-f139-4a0a-9598-4bf98135d15f" type="shot_off_target" time="2014-06-21T20:46:38Z" updated_time="2014-06-21T20:46:38Z" scratch="false" x="22" y="66" clock="89" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Asamoah Gyan for Ghana gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="2d672f46-33fc-433b-a136-6313e9242948" type="goal_kick" time="2014-06-21T20:46:38Z" updated_time="2014-06-21T20:46:38Z" scratch="false" x="5" y="50" clock="89" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have a goal kick.</description>
+        </fact>
+        <fact id="97c81608-3899-430e-a387-c5c1ed2f03d5" type="shot_off_target" time="2014-06-21T20:47:15Z" updated_time="2014-06-21T20:47:15Z" scratch="false" x="88" y="43" clock="90" team_id="686950a8-4f89-4ed2-a32b-f0a564660859" player_id="8cfd9e90-6d3a-4dfd-b211-49b5f9a556ce">
+          <description>Miroslav Klose of Germany gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="6ab47607-a99c-4e7e-952b-893059df6ff9" type="goal_kick" time="2014-06-21T20:47:15Z" updated_time="2014-06-21T20:47:15Z" scratch="false" x="95" y="50" clock="90" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Goal kick for Ghana at Estadio Castelao.</description>
+        </fact>
+        <fact id="f0314932-3828-4818-bbe4-d9246ea216e9" type="injury_time" time="2014-06-21T20:48:25Z" updated_time="2014-06-21T20:48:25Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>Sandro Meira Ricci will wait an extra 3 minutes before blowing the whistle to end the second half.</description>
+        </fact>
+        <fact id="cbd72cff-692c-4f91-98d9-650d6ab7be35" type="corner_kick" time="2014-06-21T20:48:55Z" updated_time="2014-06-21T20:48:55Z" scratch="false" x="95" y="90" clock="90" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Germany have been awarded a corner by Sandro Meira Ricci.</description>
+        </fact>
+        <fact id="a96dd7b0-1c7e-460a-8b48-404829407460" type="offside" time="2014-06-21T20:49:20Z" updated_time="2014-06-21T20:49:20Z" scratch="false" x="15" y="47" clock="90" injury_time="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="441e5e10-1913-4b3f-8f1f-aca80b7abf4b">
+          <description>Ghana's Mubarak Wakaso has run offside.</description>
+        </fact>
+        <fact id="8f2604f9-6de2-4fad-a1ad-4fe543b38f12" type="throwin" time="2014-06-21T20:49:40Z" updated_time="2014-06-21T20:49:40Z" scratch="false" x="57" y="1" clock="90" injury_time="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="6485398d-cff4-4e5e-a788-b9b36bf5d416" type="free_kick" time="2014-06-21T20:50:06Z" updated_time="2014-06-21T20:50:06Z" scratch="false" x="60" y="44" clock="90" injury_time="2" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Free kick Germany.</description>
+        </fact>
+        <fact id="581da7d1-f0c5-4838-854f-8ddb667ffbd2" type="free_kick" time="2014-06-21T20:51:00Z" updated_time="2014-06-21T20:51:00Z" scratch="false" x="78" y="38" clock="90" injury_time="2" team_id="686950a8-4f89-4ed2-a32b-f0a564660859">
+          <description>Sandro Meira Ricci signals a free kick to Germany.</description>
+        </fact>
+        <fact id="e8e4de35-708c-4214-a9e6-b6da7941bf39" type="card" time="2014-06-21T20:51:11Z" updated_time="2014-06-21T20:51:24Z" scratch="false" clock="90" injury_time="3" card="Y" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="843958ab-5f87-4fbc-8117-dc2eb315655c">
+          <description>Sulley Muntari (Ghana) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="1d7f9d42-33a9-4ae3-858a-e7d607254116" type="period_over" time="2014-06-21T20:52:09Z" updated_time="2014-06-21T20:52:09Z" scratch="false" home_score="2" away_score="2" period="P2">
+          <description>The second-half is over. The match ends 2-2.</description>
+        </fact>
+        <fact id="1223ba42-4997-44c9-8bb6-456f4c70e175" type="match_ended" time="2014-06-21T20:52:09Z" updated_time="2014-06-21T20:52:09Z" scratch="false" home_score="2" away_score="2" winner_id="" draw="true"/>
+      </facts>
+      <!-- 4768786/4711/4764 -->
+    </match>
+  </matches>
+</summary>

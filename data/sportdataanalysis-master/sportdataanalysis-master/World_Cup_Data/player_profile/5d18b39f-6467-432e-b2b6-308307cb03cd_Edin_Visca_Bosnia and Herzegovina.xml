@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:12:43Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="5d18b39f-6467-432e-b2b6-308307cb03cd" country_code="BIH" preferred_foot="R" height_in="67" weight_lb="138" height_cm="170" weight_kg="62" first_name="Edin" last_name="Visca" country="Bosnia and Herzegovina">
+    <teams>
+      <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" country_code="BIH" position="M" is_manager="false" is_player="true" country="Bosnia and Herzegovina" jersey_number="19"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="66" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="3">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="25" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia &amp; Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="10" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="34" matches_started="0" minutes_played="3007" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="-1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="c9b03980-57ac-4625-af8a-b5e3c7543dcb" name="TFF 1. Lig"/>
+          <team id="3afc1173-9b42-4d5c-aa5f-dc6898144dec" name="Buyuksehyr Bld.Spor" alias="" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 109779/1405951576 -->
+  </player>
+</profile>

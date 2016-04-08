@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:41:02 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="91ac13f8-e8d3-4902-b451-83ff32d2cf28" status="ACT" full_name="Ramon Sessions" first_name="Ramon" last_name="Sessions" abbr_name="R.Sessions" height="75" weight="190" position="G" primary_position="PG" jersey_number="13" experience="6" college="Nevada" birth_place="Myrtle Beach, SC, USA" birthdate="1986-04-11" updated="2014-02-22T18:22:34+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" name="Bucks" market="Milwaukee" alias="MIL"/>
+  <draft team_id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" year="2007" round="2" pick="56"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" name="Bucks" market="Milwaukee" alias="MIL">
+        <statistics>
+          <total games_played="28" games_started="12" minutes="909.0" field_goals_made="140" field_goals_att="304" three_points_made="20" three_points_att="56" blocked_att="18" free_throws_made="143" free_throws_att="170" offensive_rebounds="16" defensive_rebounds="70" assists="134" turnovers="55" steals="16" blocks="3" personal_fouls="40" tech_fouls="2" points="443" flagrant_fouls="0" free_throws_pct="0.841" two_points_pct="0.484" three_points_pct="0.357" field_goals_pct="0.461" rebounds="86" assists_turnover_ratio="2.44" two_points_made="120" two_points_att="248"/>
+          <average points="15.8" blocked_att="0.64" turnovers="1.96" free_throws_att="6.07" field_goals_att="10.86" off_rebounds="0.57" two_points_att="8.86" assists="4.8" blocks="0.11" personal_fouls="1.43" two_points_made="4.29" flagrant_fouls="0.0" rebounds="3.07" three_points_made="0.71" minutes="32.5" def_rebounds="2.5" free_throws_made="5.11" field_goals_made="5.0" steals="0.57" three_points_att="2.0"/>
+        </statistics>
+      </team>
+      <team id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" name="Bobcats" market="Charlotte" alias="CHA">
+        <statistics>
+          <total games_played="55" games_started="7" minutes="1305.0" field_goals_made="190" field_goals_att="465" three_points_made="15" three_points_att="68" blocked_att="43" free_throws_made="183" free_throws_att="234" offensive_rebounds="22" defensive_rebounds="95" assists="206" turnovers="93" steals="33" blocks="6" personal_fouls="50" tech_fouls="0" points="578" flagrant_fouls="0" free_throws_pct="0.782" two_points_pct="0.441" three_points_pct="0.221" field_goals_pct="0.409" rebounds="117" assists_turnover_ratio="2.22" two_points_made="175" two_points_att="397"/>
+          <average points="10.5" blocked_att="0.78" turnovers="1.69" free_throws_att="4.25" field_goals_att="8.45" off_rebounds="0.4" two_points_att="7.22" assists="3.7" blocks="0.11" personal_fouls="0.91" two_points_made="3.18" flagrant_fouls="0.0" rebounds="2.13" three_points_made="0.27" minutes="23.7" def_rebounds="1.73" free_throws_made="3.33" field_goals_made="3.45" steals="0.6" three_points_att="1.24"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:41:02 +0000 -->

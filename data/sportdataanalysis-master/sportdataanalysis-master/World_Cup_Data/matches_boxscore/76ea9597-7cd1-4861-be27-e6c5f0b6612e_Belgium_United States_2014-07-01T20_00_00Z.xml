@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:35:21Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="76ea9597-7cd1-4861-be27-e6c5f0b6612e" status="closed" scratched="false" period="X2" scheduled="2014-07-01T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" loser_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="76ea9597-7cd1-4861-be27-e6c5f0b6612e" status="closed" number="1" home_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" away_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" home_score="2" away_score="1"/>
+      </round>
+      <home id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team" formation="4-3-3" score="2" regular_score="2" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="2" number="3"/>
+        </scoring>
+        <statistics attacks="181" ball_safe="136" corner_kicks="19" dangerous_attacks="110" fouls="28" free_kicks="11" goal_attempts="30" goal_kicks="11" offsides="1" saves="4" shots_total="30" substitutions="3" throw_ins="32" yellow_card="1" shots_on_target="20" shots_off_target="10" possessions="49"/>
+      </home>
+      <away id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" formation="4-3-3" score="1" regular_score="1" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="1" number="3"/>
+        </scoring>
+        <statistics attacks="164" ball_safe="139" corner_kicks="4" dangerous_attacks="88" fouls="11" free_kicks="13" goal_attempts="12" goal_kicks="14" offsides="0" saves="16" shots_total="12" substitutions="3" throw_ins="28" yellow_card="1" shots_on_target="5" shots_off_target="7" possessions="51"/>
+      </away>
+      <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157"/>
+      <!-- 4768158/4717/4724 -->
+    </match>
+  </matches>
+</boxscore>

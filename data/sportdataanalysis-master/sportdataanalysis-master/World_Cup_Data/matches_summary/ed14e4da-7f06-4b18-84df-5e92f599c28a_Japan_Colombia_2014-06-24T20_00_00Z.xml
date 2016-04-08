@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:39:37Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="ed14e4da-7f06-4b18-84df-5e92f599c28a" status="closed" scratched="false" period="P2" scheduled="2014-06-24T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C"/>
+      <round week="26" number="3" type="table"/>
+      <home id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="86" ball_safe="77" corner_kicks="9" dangerous_attacks="71" fouls="9" free_kicks="20" goal_attempts="15" goal_kicks="11" offsides="0" saves="0" shots_total="15" substitutions="3" throw_ins="22" yellow_card="1" shots_on_target="8" shots_off_target="7" possessions="54"/>
+        <players>
+          <player id="1a003026-5f14-417c-9229-3ace5d700741" country_code="JPN" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Eiji" last_name="Kawashima" country="Japan" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="77940858-9357-41bd-afe0-97f2a94dbd77" country_code="JPN" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Yasuyuki" last_name="Konno" country="Japan" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="965fa815-ca6c-4972-99d8-0ce04662b02d" country_code="JPN" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Shuichi" last_name="Gonda" country="Japan" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4a334665-67de-44f0-9ece-c4837d0387ce" country_code="JPN" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Manabu" last_name="Saito" country="Japan" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="085d8b33-9938-4164-8e5e-535db6b9abf1" country_code="JPN" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Yoshito" last_name="Okubo" country="Japan" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8a21d193-94ae-4248-9b0c-a17f3a12dbbd" country_code="JPN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Gotoku" last_name="Sakai" country="Japan" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5fa10def-8c94-4235-ac7e-abc9d074df63" country_code="JPN" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Hotaru" last_name="Yamaguchi" country="Japan" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="098d7791-b340-4af5-af3b-54a934552972" country_code="JPN" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Shinji" last_name="Okazaki" country="Japan" jersey_number="9">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="8504bf9c-8ba2-485d-b151-daa2081ad35c" country_code="JPN" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Shusaku" last_name="Nishikawa" country="Japan" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="07414aec-bfe6-4820-b3c5-39df176882f7" country_code="JPN" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Shinji" last_name="Kagawa" country="Japan" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="ddcfe8f5-617a-4d98-a5a9-a0441e6ea21b" country_code="JPN" position="F" started="false" tactical_position="5" tactical_order="8" first_name="Yoichiro" last_name="Kakitani" country="Japan" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="31153885-34ab-4fd6-99c7-945a7ef5bff7" country_code="JPN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Masato" last_name="Morishige" country="Japan" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1ce39e08-ea15-4bba-a906-e637d9c758f9" country_code="JPN" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Maya" last_name="Yoshida" country="Japan" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="28a1c7b6-98a5-4d2a-9f42-8b759cc3cfd7" country_code="JPN" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Atsuto" last_name="Uchida" country="Japan" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3084f0d1-812b-4c08-8772-2636f4b78f27" country_code="JPN" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Toshihiro" last_name="Aoyama" country="Japan" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="313fff11-21b6-4044-acea-7d694aef368c" country_code="JPN" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Makoto" last_name="Hasebe" country="Japan" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="27b659fd-8213-4ec2-9aff-02573301c98f" country_code="JPN" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Hiroshi" last_name="Kiyotake" country="Japan" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="48bf22cf-f9b5-4b1f-b317-1b033d3cbe11" country_code="JPN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Masahiko" last_name="Inoha" country="Japan" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e004f9c4-8e94-44ac-8824-24eced3b11d0" country_code="JPN" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Keisuke" last_name="Honda" country="Japan" jersey_number="4">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d117b762-e575-451e-ad60-98f0f0551afd" country_code="JPN" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Yuya" last_name="Osako" country="Japan" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b32dac4d-ec7a-4bc8-abba-e3829f6ba108" country_code="JPN" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Yasuhito" last_name="Endo" country="Japan" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="37a6a451-1214-46c5-8b9c-f7c66b2cb047" country_code="JPN" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Yuto" last_name="Nagatomo" country="Japan" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="04e9d286-93a0-4b3b-8908-7e537e3a21b0" country_code="JPN" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Hiroki" last_name="Sakai" country="Japan" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" formation="4-4-2" score="4" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="3" number="2"/>
+        </scoring>
+        <statistics attacks="76" ball_safe="86" corner_kicks="2" dangerous_attacks="39" fouls="17" free_kicks="9" goal_attempts="8" goal_kicks="10" offsides="3" saves="6" shots_total="8" substitutions="3" throw_ins="16" yellow_card="1" shots_on_target="4" shots_off_target="4" possessions="46"/>
+        <players>
+          <player id="b5a84b29-443c-47e8-95d4-f4a0e82908fa" country_code="COL" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Eder" last_name="Balanta" country="Colombia" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="93d0d88e-884e-4011-ac08-bcf51280f09b" country_code="COL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Victor" last_name="Ibarbo" country="Colombia" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="16606bf1-854c-4edd-a93f-9a6f5469e5b1" country_code="COL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Teofilo" last_name="Gutierrez" country="Colombia" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="60357ac6-986a-42be-a74e-8696c082df85" country_code="COL" position="G" started="true" tactical_position="1" tactical_order="1" first_name="David" last_name="Ospina" country="Colombia" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="35179d76-5421-4e48-91e6-62abf7608b5f" country_code="COL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Carlos" last_name="Bacca" country="Colombia" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="39c01b06-3811-40bb-a613-33e41747d837" country_code="COL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Carlos" last_name="Sanchez" country="Colombia" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="58c40d06-7dc1-42c0-8de6-6edb98224652" country_code="COL" position="F" started="true" tactical_position="5" tactical_order="6" first_name="Juan" last_name="Cuadrado" country="Colombia" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="09e736c2-320b-45fb-9a0c-df9c3312ecf8" country_code="COL" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Adrian" last_name="Ramos" country="Colombia" jersey_number="19">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="48066f52-b602-4ac3-b0d2-fb097c5f78f0" country_code="COL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Cristian" last_name="Zapata" country="Colombia" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a287a558-7735-48d2-ac42-1c6f48101107" country_code="COL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Abel" last_name="Aguilar" country="Colombia" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6c5b12f8-9a33-4503-934f-352383052f3c" country_code="COL" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Fredy" last_name="Guarin" country="Colombia" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d0dd7514-4870-4126-8512-fab27748f2a4" country_code="COL" position="M" started="false" tactical_position="5" tactical_order="6" first_name="Carlos" last_name="Carbonero" country="Colombia" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2" country_code="COL" position="F" started="false" tactical_position="7" tactical_order="9" first_name="James" last_name="Rodriguez" country="Colombia" jersey_number="10">
+            <statistics goal="1" goal_assist="2" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="c939f9e5-c0ab-491a-bab9-584603d21601" country_code="COL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Camilo" last_name="Vargas" country="Colombia" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="37dc5dbf-9c11-42d2-9916-c3f39c8cbd98" country_code="COL" position="M" started="true" tactical_position="7" tactical_order="9" first_name="Juan" last_name="Quintero" country="Colombia" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="efb38194-bef8-4f7f-891f-824a3aa498ee" country_code="COL" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Alexander" last_name="Mejia" country="Colombia" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cd81bf8-add9-449e-a95f-ad3cc9eb1876" country_code="COL" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Jackson" last_name="Martinez" country="Colombia" jersey_number="21">
+            <statistics goal="2" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="01b78da8-4c54-4b74-8da3-16afcc3d99ad" country_code="COL" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Santiago" last_name="Arias" country="Colombia" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7c459aa7-8837-4af7-bccc-603a990e9327" country_code="COL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Camilo" last_name="Zuniga" country="Colombia" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a8ce9dc8-baa7-4fdb-b479-f2715b773a38" country_code="COL" position="G" started="false" tactical_position="1" tactical_order="1" first_name="Faryd" last_name="Mondragon" country="Colombia" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="3b766a43-c9b2-4072-8a96-af5d7356b674" country_code="COL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Mario" last_name="Yepes" country="Colombia" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="24c130cc-38a5-4d12-a6ef-76b0b9dda490" country_code="COL" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Pablo" last_name="Armero" country="Colombia" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="55c5511a-c0d9-4bb0-b630-f6d2aed3dc3c" country_code="COL" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Carlos" last_name="Valdes" country="Colombia" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513"/>
+      <facts>
+        <fact id="7c8b27f1-de96-4cf0-b8cd-161d370e2f2f" type="match_started" time="2014-06-24T20:00:08Z" updated_time="2014-06-24T20:00:08Z" scratch="false" clock="1" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>The match is underway at Arena Pantanal.</description>
+        </fact>
+        <fact id="b4a93a0c-6ef9-431f-a5a8-db1e7cec1a2e" type="period_started" time="2014-06-24T20:00:08Z" updated_time="2014-06-24T20:00:08Z" scratch="false" period="P1"/>
+        <fact id="f0120f19-5295-4568-9390-93da3c9c3dd2" type="throwin" time="2014-06-24T20:00:33Z" updated_time="2014-06-24T20:00:33Z" scratch="false" x="63" y="1" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Can Japan get the ball into an attacking position from this throw-in in Colombia's half?</description>
+        </fact>
+        <fact id="818f3c40-1abf-4bc0-8b84-90e45fd4dfd7" type="free_kick" time="2014-06-24T20:00:45Z" updated_time="2014-06-24T20:00:45Z" scratch="false" x="63" y="1" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6c7ae2c4-9d83-4f0f-a515-174d0c2d52b6" type="free_kick" time="2014-06-24T20:01:13Z" updated_time="2014-06-24T20:01:13Z" scratch="false" x="38" y="33" clock="1" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan in their own half.</description>
+        </fact>
+        <fact id="a731cbe9-93b2-47c7-95ae-3c78e40514cc" type="throwin" time="2014-06-24T20:03:20Z" updated_time="2014-06-24T20:03:20Z" scratch="false" x="39" y="1" clock="3" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a Colombia throw-in in Japan's half.</description>
+        </fact>
+        <fact id="a05481ea-6fdd-4ae0-abf3-33d2af5248a7" type="goal_kick" time="2014-06-24T20:03:57Z" updated_time="2014-06-24T20:03:57Z" scratch="false" x="5" y="50" clock="3" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have a goal kick.</description>
+        </fact>
+        <fact id="c5107536-b2fe-489f-8911-69a97548d88f" type="throwin" time="2014-06-24T20:04:31Z" updated_time="2014-06-24T20:04:31Z" scratch="false" x="38" y="99" clock="4" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia to take a throw-in in Japan territory.</description>
+        </fact>
+        <fact id="aa7c1689-92f1-4391-acdd-17663d8576d9" type="free_kick" time="2014-06-24T20:05:14Z" updated_time="2014-06-24T20:05:14Z" scratch="false" x="55" y="62" clock="5" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Free kick Japan.</description>
+        </fact>
+        <fact id="1af5995d-23a3-424c-9895-61630cf44174" type="free_kick" time="2014-06-24T20:05:49Z" updated_time="2014-06-24T20:05:49Z" scratch="false" x="74" y="78" clock="5" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan.</description>
+        </fact>
+        <fact id="6411b2e5-ab1c-4b15-8924-b435b7725661" type="throwin" time="2014-06-24T20:07:00Z" updated_time="2014-06-24T20:07:00Z" scratch="false" x="34" y="98" clock="6" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a Colombia throw-in in Japan's half.</description>
+        </fact>
+        <fact id="98213ab8-b5e4-4992-a5cf-73ade1f8f21c" type="shot_blocked" time="2014-06-24T20:06:53Z" updated_time="2014-06-24T20:09:14Z" scratch="false" x="74" y="78" clock="7" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Yoshito Okubo (Japan) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="0082fc01-c79d-4f54-abb9-ccdf9941ccdf" type="goal_kick" time="2014-06-24T20:07:21Z" updated_time="2014-06-24T20:07:21Z" scratch="false" x="5" y="50" clock="7" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Ball goes out of play for a Japan goal kick.</description>
+        </fact>
+        <fact id="bd9f43b9-648d-489b-89bf-cf9ea27e6a02" type="throwin" time="2014-06-24T20:08:07Z" updated_time="2014-06-24T20:08:07Z" scratch="false" x="52" y="99" clock="7" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Ball safe as Colombia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="59f2376a-36d0-4dbb-8328-f2a0f06df477" type="shot_blocked" time="2014-06-24T20:09:03Z" updated_time="2014-06-24T20:09:19Z" scratch="false" x="86" y="18" clock="9" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Yoshito Okubo (Japan) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="b2013976-879d-429d-90f7-212299eb7ae8" type="shot_off_target" time="2014-06-24T20:09:38Z" updated_time="2014-06-24T20:09:43Z" scratch="false" x="78" y="43" clock="10" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="085d8b33-9938-4164-8e5e-535db6b9abf1">
+          <description>Japan's Yoshito Okubo breaks free at Arena Pantanal. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="f7875a25-1107-4d4c-a549-099053bb76ba" type="goal_kick" time="2014-06-24T20:09:39Z" updated_time="2014-06-24T20:09:39Z" scratch="false" x="95" y="50" clock="10" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Arena Pantanal.</description>
+        </fact>
+        <fact id="80e47965-9d76-4790-a772-9e6325265c94" type="goal_kick" time="2014-06-24T20:10:40Z" updated_time="2014-06-24T20:10:40Z" scratch="false" x="5" y="50" clock="10" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca awards Japan a goal kick.</description>
+        </fact>
+        <fact id="b9a41969-0bd2-4048-b601-60515e6868be" type="free_kick" time="2014-06-24T20:10:59Z" updated_time="2014-06-24T20:10:59Z" scratch="false" x="30" y="69" clock="10" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan in their own half.</description>
+        </fact>
+        <fact id="2e1c8207-2d85-45a4-b63f-1b0199fec506" type="throwin" time="2014-06-24T20:11:33Z" updated_time="2014-06-24T20:11:33Z" scratch="false" x="41" y="2" clock="11" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Throw-in for Japan in their own half.</description>
+        </fact>
+        <fact id="584e84b1-f30e-4b0d-951c-2edb585ca183" type="corner_kick" time="2014-06-24T20:12:13Z" updated_time="2014-06-24T20:12:13Z" scratch="false" x="95" y="5" clock="12" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Corner awarded to Japan.</description>
+        </fact>
+        <fact id="b702291e-4808-427b-b7c6-4c1214a9b831" type="throwin" time="2014-06-24T20:12:42Z" updated_time="2014-06-24T20:12:42Z" scratch="false" x="65" y="1" clock="12" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in Colombia.</description>
+        </fact>
+        <fact id="4ed6577e-4309-4a50-8830-063ab89e8446" type="keeper_save" time="2014-06-24T20:14:29Z" updated_time="2014-06-24T20:14:29Z" scratch="false" x="83" y="42" clock="14" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="7d01d066-9fca-4d73-927a-e04da181b9cb" type="shot_blocked" time="2014-06-24T20:14:17Z" updated_time="2014-06-24T20:14:17Z" scratch="false" x="95" y="3" clock="15" team_id="d7a081db-1427-4144-ae22-94e8d24b1139"/>
+        <fact id="f5c14ab3-2fff-42fb-b3eb-3ce66966e8c1" type="corner_kick" time="2014-06-24T20:14:20Z" updated_time="2014-06-24T20:15:23Z" scratch="false" x="95" y="5" clock="15" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have been awarded a corner by Pedro Proenca.</description>
+        </fact>
+        <fact id="ef25a70e-5cc3-41fb-a7d9-50bb701e255a" type="shot_on_target" time="2014-06-24T20:14:29Z" updated_time="2014-06-24T20:14:29Z" scratch="false" x="83" y="42" clock="15" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="313fff11-21b6-4044-acea-7d694aef368c">
+          <description>In Cuiaba Japan drive forward through Makoto Hasebe. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="73a03b32-87ed-4fef-90fd-61bc8b563360" type="card" time="2014-06-24T20:16:08Z" updated_time="2014-06-24T20:16:08Z" scratch="false" clock="16" card="Y" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="77940858-9357-41bd-afe0-97f2a94dbd77">
+          <description>Yasuyuki Konno for Japan has been booked by Pedro Proenca and receives a first yellow card.</description>
+        </fact>
+        <fact id="f95f4fa6-478e-4a51-a403-7298dcde4c61" type="penalty_awarded" time="2014-06-24T20:16:22Z" updated_time="2014-06-24T20:16:22Z" scratch="false" clock="17" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Penalty! Pedro Proenca points to the spot, great chance for Colombia...</description>
+        </fact>
+        <fact id="d4c2983d-6272-4447-84b5-a68a23ef5789" type="goal" time="2014-06-24T20:17:12Z" updated_time="2014-06-24T20:21:41Z" scratch="false" clock="17" home_score="0" away_score="1" penalty="true" owngoal="false" header="false" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="58c40d06-7dc1-42c0-8de6-6edb98224652">
+          <description>Juan Cuadrado converts the penalty to give Colombia a 0-1 lead.</description>
+        </fact>
+        <fact id="97334a34-883b-4c1c-bca5-735637f8950e" type="throwin" time="2014-06-24T20:19:06Z" updated_time="2014-06-24T20:19:06Z" scratch="false" x="39" y="99" clock="18" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Throw-in for Japan at Arena Pantanal.</description>
+        </fact>
+        <fact id="57ab14af-191b-46fe-8f52-31a474039a9d" type="throwin" time="2014-06-24T20:19:19Z" updated_time="2014-06-24T20:19:19Z" scratch="false" x="72" y="99" clock="19" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Can Japan get the ball into an attacking position from this throw-in in Colombia's half?</description>
+        </fact>
+        <fact id="110179d1-1095-488b-ae6e-4b5a4dda0276" type="corner_kick" time="2014-06-24T20:19:54Z" updated_time="2014-06-24T20:19:54Z" scratch="false" x="95" y="90" clock="20" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Corner awarded to Japan.</description>
+        </fact>
+        <fact id="cfecb381-8197-414b-bf0c-bdeb014f892e" type="throwin" time="2014-06-24T20:20:17Z" updated_time="2014-06-24T20:20:17Z" scratch="false" x="80" y="99" clock="20" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Can Japan capitalize from this throw-in deep inside Colombia's half?</description>
+        </fact>
+        <fact id="06b64dc2-5c8a-418c-82c7-ccf60689c0f3" type="free_kick" time="2014-06-24T20:21:25Z" updated_time="2014-06-24T20:21:25Z" scratch="false" x="79" y="84" clock="21" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Free kick Japan.</description>
+        </fact>
+        <fact id="ac680e48-f47e-4908-9163-2e16254c81d3" type="throwin" time="2014-06-24T20:22:35Z" updated_time="2014-06-24T20:22:35Z" scratch="false" x="82" y="100" clock="22" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="f839f67b-6a94-4e4f-beea-64ccc7952ebf" type="shot_blocked" time="2014-06-24T20:22:31Z" updated_time="2014-06-24T20:22:40Z" scratch="false" x="79" y="84" clock="23" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan's Keisuke Honda gets in a shot but it is blocked by a Colombia defender.</description>
+        </fact>
+        <fact id="81ff9650-7cf5-405c-9fcb-1e0b555662fd" type="throwin" time="2014-06-24T20:25:01Z" updated_time="2014-06-24T20:25:01Z" scratch="false" x="35" y="2" clock="24" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Throw-in for Japan at Arena Pantanal.</description>
+        </fact>
+        <fact id="e8249779-24fe-4472-9f70-4f79d6c3afd0" type="free_kick" time="2014-06-24T20:25:13Z" updated_time="2014-06-24T20:25:13Z" scratch="false" x="45" y="25" clock="25" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="e165c7e2-5211-4453-9f56-632ca20f7a8a" type="keeper_save" time="2014-06-24T20:25:47Z" updated_time="2014-06-24T20:25:47Z" scratch="false" x="98" y="4" clock="25" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="2bbab9c7-5456-46d2-a06d-060fcf296f9a" type="keeper_save" time="2014-06-24T20:26:07Z" updated_time="2014-06-24T20:26:07Z" scratch="false" x="95" y="5" clock="25" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="3745244a-58d8-434d-93cb-407c30d04257" type="shot_on_target" time="2014-06-24T20:25:47Z" updated_time="2014-06-24T20:25:47Z" scratch="false" x="98" y="4" clock="26" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="07414aec-bfe6-4820-b3c5-39df176882f7">
+          <description>Japan's Shinji Kagawa is on target but unsuccessful.</description>
+        </fact>
+        <fact id="fe2a81c2-6c0d-4df6-b191-e6d73275397d" type="corner_kick" time="2014-06-24T20:25:57Z" updated_time="2014-06-24T20:27:10Z" scratch="false" x="95" y="5" clock="26" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have been awarded a corner by Pedro Proenca.</description>
+        </fact>
+        <fact id="d1d80c9b-949b-4541-b5f1-a5bc1eb12f8c" type="shot_on_target" time="2014-06-24T20:26:07Z" updated_time="2014-06-24T20:26:07Z" scratch="false" x="95" y="5" clock="26" team_id="d7a081db-1427-4144-ae22-94e8d24b1139"/>
+        <fact id="0dbe5be5-1484-4664-9512-ae471392e2a7" type="free_kick" time="2014-06-24T20:27:16Z" updated_time="2014-06-24T20:27:16Z" scratch="false" x="24" y="97" clock="27" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="91058558-28fa-4b87-ab1f-71132bdb3df5" type="free_kick" time="2014-06-24T20:28:16Z" updated_time="2014-06-24T20:28:16Z" scratch="false" x="71" y="41" clock="28" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan.</description>
+        </fact>
+        <fact id="541add05-9e44-43dd-b646-5dd22239d911" type="throwin" time="2014-06-24T20:29:44Z" updated_time="2014-06-24T20:29:44Z" scratch="false" x="82" y="2" clock="29" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a throw-in for Japan, close to Colombia's area.</description>
+        </fact>
+        <fact id="97ca4079-97e7-4ed6-b5a9-04db21b3a63d" type="corner_kick" time="2014-06-24T20:31:25Z" updated_time="2014-06-24T20:31:25Z" scratch="false" x="95" y="5" clock="31" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have been awarded a corner by Pedro Proenca.</description>
+        </fact>
+        <fact id="678fd056-000f-4d7c-87b3-fb2935405f55" type="free_kick" time="2014-06-24T20:31:44Z" updated_time="2014-06-24T20:31:44Z" scratch="false" x="79" y="53" clock="31" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Free kick Japan.</description>
+        </fact>
+        <fact id="32383832-294a-4b57-931a-8559f6db72ed" type="shot_off_target" time="2014-06-24T20:32:51Z" updated_time="2014-06-24T20:32:51Z" scratch="false" x="79" y="53" clock="33" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="e004f9c4-8e94-44ac-8824-24eced3b11d0">
+          <description>Keisuke Honda for Japan gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="46508770-9ae4-4405-aa42-4f68dc6fc0de" type="goal_kick" time="2014-06-24T20:32:51Z" updated_time="2014-06-24T20:32:51Z" scratch="false" x="95" y="50" clock="33" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="db670f28-5556-4417-b724-b7aa7beca1e3" type="throwin" time="2014-06-24T20:33:15Z" updated_time="2014-06-24T20:33:15Z" scratch="false" x="21" y="1" clock="33" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Throw-in Japan.</description>
+        </fact>
+        <fact id="7b0c18b3-ec30-4cb6-a558-7936f45fa685" type="goal_kick" time="2014-06-24T20:33:43Z" updated_time="2014-06-24T20:33:43Z" scratch="false" x="5" y="50" clock="33" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Goal kick for Japan at Arena Pantanal.</description>
+        </fact>
+        <fact id="d8cd0cb6-7fd7-4354-90b7-d67628f1921b" type="free_kick" time="2014-06-24T20:34:18Z" updated_time="2014-06-24T20:34:18Z" scratch="false" x="38" y="29" clock="34" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="20517681-025d-4b51-9855-56cf099b2574" type="goal_kick" time="2014-06-24T20:34:44Z" updated_time="2014-06-24T20:34:44Z" scratch="false" x="5" y="50" clock="34" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca awards Japan a goal kick.</description>
+        </fact>
+        <fact id="11661d1b-b611-4e9e-aa25-e823445217da" type="throwin" time="2014-06-24T20:35:52Z" updated_time="2014-06-24T20:35:52Z" scratch="false" x="55" y="1" clock="35" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan to take a throw-in in Colombia territory.</description>
+        </fact>
+        <fact id="69be7acb-fa26-4b35-812c-8c6ce2024276" type="shot_off_target" time="2014-06-24T20:36:09Z" updated_time="2014-06-24T20:36:22Z" scratch="false" x="77" y="74" clock="36" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="085d8b33-9938-4164-8e5e-535db6b9abf1">
+          <description>Japan are pushing forward but Yoshito Okubo's finish is wide of the goal.</description>
+        </fact>
+        <fact id="48439f77-d5d7-4205-89c0-752c8030829b" type="goal_kick" time="2014-06-24T20:36:09Z" updated_time="2014-06-24T20:36:09Z" scratch="false" x="95" y="50" clock="36" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a goal kick.</description>
+        </fact>
+        <fact id="0b06fc61-1cec-4aad-985c-166de806e055" type="free_kick" time="2014-06-24T20:36:47Z" updated_time="2014-06-24T20:36:47Z" scratch="false" x="15" y="46" clock="36" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan in their own half.</description>
+        </fact>
+        <fact id="6e27714c-7658-44de-89c9-8d1545580e7d" type="shot_off_target" time="2014-06-24T20:37:20Z" updated_time="2014-06-24T20:37:20Z" scratch="false" x="18" y="78" clock="38" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="37dc5dbf-9c11-42d2-9916-c3f39c8cbd98">
+          <description>In Cuiaba Colombia attack through Juan Quintero. The finish is off target, however.</description>
+        </fact>
+        <fact id="04f550aa-9a50-46a4-990a-7ad221f71591" type="goal_kick" time="2014-06-24T20:37:20Z" updated_time="2014-06-24T20:37:20Z" scratch="false" x="5" y="50" clock="38" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Ball goes out of play for a Japan goal kick.</description>
+        </fact>
+        <fact id="aa87bfca-d3d0-4913-a1a1-db71e38dd602" type="throwin" time="2014-06-24T20:38:21Z" updated_time="2014-06-24T20:38:21Z" scratch="false" x="42" y="1" clock="38" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Can Colombia get the ball into an attacking position from this throw-in in Japan's half?</description>
+        </fact>
+        <fact id="ce753c71-0401-41ae-a993-8217521c19dd" type="shot_blocked" time="2014-06-24T20:39:25Z" updated_time="2014-06-24T20:39:25Z" scratch="false" x="94" y="92" clock="40" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan push forward at Arena Pantanal and Shinji Kagawa gets in a strike. This is blocked, however, by a determined Colombia defence.</description>
+        </fact>
+        <fact id="dd81ec3e-b9f2-4def-8702-b99c74e8286b" type="corner_kick" time="2014-06-24T20:39:40Z" updated_time="2014-06-24T20:39:40Z" scratch="false" x="95" y="90" clock="40" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Corner awarded to Japan.</description>
+        </fact>
+        <fact id="14f6f504-2823-4e67-bfbf-3f8dba68aeb6" type="shot_off_target" time="2014-06-24T20:42:00Z" updated_time="2014-06-24T20:42:00Z" scratch="false" x="10" y="29" clock="42" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="0cd81bf8-add9-449e-a95f-ad3cc9eb1876">
+          <description>Colombia's Jackson Martinez gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="bc659a9f-ed6d-4697-aad0-59479ff4b268" type="goal_kick" time="2014-06-24T20:42:00Z" updated_time="2014-06-24T20:42:00Z" scratch="false" x="5" y="50" clock="42" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Ball goes out of play for a Japan goal kick.</description>
+        </fact>
+        <fact id="d2233c98-79ee-498c-b31e-562b011b83cc" type="throwin" time="2014-06-24T20:42:38Z" updated_time="2014-06-24T20:42:38Z" scratch="false" x="46" y="1" clock="42" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Ball safe as Japan is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="6c2266c1-5441-413e-bbd4-442eb98afcfd" type="free_kick" time="2014-06-24T20:42:47Z" updated_time="2014-06-24T20:42:47Z" scratch="false" x="67" y="13" clock="42" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan.</description>
+        </fact>
+        <fact id="2dee8f46-4a44-41c3-b6b2-0c8096ca3994" type="throwin" time="2014-06-24T20:43:35Z" updated_time="2014-06-24T20:43:35Z" scratch="false" x="92" y="2" clock="43" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="aee40889-492f-43e6-960f-ba8aa991f8cb" type="throwin" time="2014-06-24T20:44:01Z" updated_time="2014-06-24T20:44:01Z" scratch="false" x="78" y="2" clock="43" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a Japan throw-in in Colombia's half.</description>
+        </fact>
+        <fact id="479db414-8d30-48a4-854b-c03a2f66dac2" type="goal_kick" time="2014-06-24T20:44:46Z" updated_time="2014-06-24T20:44:46Z" scratch="false" x="95" y="50" clock="44" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Arena Pantanal.</description>
+        </fact>
+        <fact id="a826c9b4-676d-48cf-b5c4-f6647852f501" type="injury_time" time="2014-06-24T20:45:04Z" updated_time="2014-06-24T20:45:04Z" scratch="false" clock="44" injury_time="1" period="P1">
+          <description>At Arena Pantanal the fourth official shows that 1 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="d3fdc8ca-fe7f-4239-a1f3-c32f390f2a4e" type="shot_blocked" time="2014-06-24T20:45:37Z" updated_time="2014-06-24T20:45:42Z" scratch="false" x="88" y="43" clock="45" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>In Cuiaba, Toshihiro Aoyama of Japan is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="e1876d00-1bf9-41b9-ad3f-8eb48fed86f6" type="goal" time="2014-06-24T20:46:22Z" updated_time="2014-06-24T20:47:28Z" scratch="false" clock="45" home_score="1" away_score="1" penalty="false" owngoal="false" header="true" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="098d7791-b340-4af5-af3b-54a934552972" assist1_id="e004f9c4-8e94-44ac-8824-24eced3b11d0">
+          <description>That's a fine assist from Keisuke Honda.</description>
+        </fact>
+        <fact id="0591a18b-fac8-4e5f-8c40-28d5160f425d" type="period_started" time="2014-06-24T20:46:36Z" updated_time="2014-06-24T20:46:36Z" scratch="false" period="H"/>
+        <fact id="c1b0d581-f5b9-4e4f-adff-b57b9bc72857" type="period_started" time="2014-06-24T21:04:24Z" updated_time="2014-06-24T21:04:24Z" scratch="false" period="P2"/>
+        <fact id="5b896181-1587-4671-837d-e595859e76fe" type="free_kick" time="2014-06-24T21:04:56Z" updated_time="2014-06-24T21:04:56Z" scratch="false" x="70" y="55" clock="45" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a10c82a9-5fb7-4e0d-b71f-ce1fe11c87eb" type="period_over" time="2014-06-24T20:46:36Z" updated_time="2014-06-24T20:46:36Z" scratch="false" home_score="1" away_score="1" period="P1">
+          <description>The first-half has ended.</description>
+        </fact>
+        <fact id="642bf43e-bfab-4534-ac2c-a3685457143f" type="substitution" time="2014-06-24T21:03:30Z" updated_time="2014-06-24T21:03:30Z" scratch="false" clock="46" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_out_id="37dc5dbf-9c11-42d2-9916-c3f39c8cbd98" player_in_id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2">
+          <description>James Rodriguez is replacing Juan Quintero for Colombia at Arena Pantanal.</description>
+        </fact>
+        <fact id="ba3baebf-090f-4d80-ab0b-8f6cc384206f" type="substitution" time="2014-06-24T21:03:50Z" updated_time="2014-06-24T21:03:50Z" scratch="false" clock="46" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_out_id="58c40d06-7dc1-42c0-8de6-6edb98224652" player_in_id="d0dd7514-4870-4126-8512-fab27748f2a4">
+          <description>Colombia make their second substitution with Carlos Carbonero replacing Juan Cuadrado.</description>
+        </fact>
+        <fact id="556d8f77-14b8-4aa4-9ddc-f13d619b9440" type="throwin" time="2014-06-24T21:05:44Z" updated_time="2014-06-24T21:05:44Z" scratch="false" x="56" y="99" clock="46" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan to take a throw-in in Colombia territory.</description>
+        </fact>
+        <fact id="b3d10061-9894-4a75-9ca7-c2b629b80943" type="throwin" time="2014-06-24T21:06:02Z" updated_time="2014-06-24T21:06:02Z" scratch="false" x="62" y="98" clock="46" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in for Colombia in their own half.</description>
+        </fact>
+        <fact id="29946317-fe93-4752-bafb-8da7347cb845" type="free_kick" time="2014-06-24T21:06:16Z" updated_time="2014-06-24T21:06:16Z" scratch="false" x="36" y="31" clock="46" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Free kick Colombia.</description>
+        </fact>
+        <fact id="796d61c3-3621-4dee-95b3-3ee670951e26" type="free_kick" time="2014-06-24T21:07:19Z" updated_time="2014-06-24T21:07:19Z" scratch="false" x="48" y="0" clock="47" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Free kick Colombia.</description>
+        </fact>
+        <fact id="fb035ae8-c59e-4207-a132-c93bc206352e" type="free_kick" time="2014-06-24T21:08:15Z" updated_time="2014-06-24T21:08:15Z" scratch="false" x="45" y="17" clock="48" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="f9488c5a-ffbe-4b3a-8b86-18e9a2f0c290" type="shot_blocked" time="2014-06-24T21:08:54Z" updated_time="2014-06-24T21:08:54Z" scratch="false" x="4" y="5" clock="50" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Important block from the Japan defence as James Rodriguez fires in a strike for Colombia.</description>
+        </fact>
+        <fact id="76aa6255-d12e-4f50-a0a0-9d08d4b17551" type="corner_kick" time="2014-06-24T21:09:05Z" updated_time="2014-06-24T21:09:05Z" scratch="false" x="5" y="5" clock="50" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have been awarded a corner by Pedro Proenca.</description>
+        </fact>
+        <fact id="f00f6277-1e37-41ce-880c-8469752c71d6" type="shot_blocked" time="2014-06-24T21:09:12Z" updated_time="2014-06-24T21:09:18Z" scratch="false" x="19" y="45" clock="50" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia drive upfield and Adrian Ramos gets in a shot. The strike is blocked by a Japan defender.</description>
+        </fact>
+        <fact id="de5bb56f-16d1-489d-8a36-d2b5f096c02e" type="throwin" time="2014-06-24T21:09:58Z" updated_time="2014-06-24T21:09:58Z" scratch="false" x="72" y="2" clock="50" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in for Colombia at Arena Pantanal.</description>
+        </fact>
+        <fact id="c6cd404f-b5c9-4f4b-bff7-02ef7b53290e" type="offside" time="2014-06-24T21:09:31Z" updated_time="2014-06-24T21:09:46Z" scratch="false" x="21" y="44" clock="51" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="09e736c2-320b-45fb-9a0c-df9c3312ecf8">
+          <description>Adrian Ramos of Colombia is pulled up for offside.</description>
+        </fact>
+        <fact id="ae9353e2-88e1-4b3a-925c-387a891a9579" type="offside" time="2014-06-24T21:10:26Z" updated_time="2014-06-24T21:10:37Z" scratch="false" x="23" y="36" clock="51" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="0cd81bf8-add9-449e-a95f-ad3cc9eb1876">
+          <description>Colombia drive forward but Jackson Martinez is judged offside.</description>
+        </fact>
+        <fact id="c70a3dcb-af49-43f9-9da1-69746e993f8a" type="throwin" time="2014-06-24T21:11:14Z" updated_time="2014-06-24T21:11:14Z" scratch="false" x="18" y="99" clock="51" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Japan needs to be cautious. Colombia have an attacking throw-in.</description>
+        </fact>
+        <fact id="bed6faef-4698-4f4e-8dbb-6b7853aa9144" type="free_kick" time="2014-06-24T21:11:57Z" updated_time="2014-06-24T21:11:57Z" scratch="false" x="35" y="85" clock="52" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="d75c681d-7684-4d91-a68f-b79c817a8192" type="shot_off_target" time="2014-06-24T21:12:52Z" updated_time="2014-06-24T21:12:52Z" scratch="false" x="22" y="88" clock="54" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="d0dd7514-4870-4126-8512-fab27748f2a4">
+          <description>Carlos Carbonero of Colombia gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="63028879-d133-4ab8-aa28-77f648f4a3e5" type="goal_kick" time="2014-06-24T21:12:52Z" updated_time="2014-06-24T21:12:52Z" scratch="false" x="5" y="50" clock="54" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have a goal kick.</description>
+        </fact>
+        <fact id="83e2e57e-4e7f-46a9-9033-633c51de5aa7" type="goal" time="2014-06-24T21:14:09Z" updated_time="2014-06-24T21:14:09Z" scratch="false" x="16" y="44" clock="55" home_score="1" away_score="2" penalty="false" owngoal="false" header="false" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="0cd81bf8-add9-449e-a95f-ad3cc9eb1876" assist1_id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2">
+          <description>James Rodriguez with an assist there.</description>
+        </fact>
+        <fact id="c8010651-d5d5-4530-b291-b3aa6fa14859" type="throwin" time="2014-06-24T21:15:35Z" updated_time="2014-06-24T21:15:35Z" scratch="false" x="51" y="98" clock="56" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="0e222c49-8138-4549-a94f-6e55e25df398" type="throwin" time="2014-06-24T21:16:11Z" updated_time="2014-06-24T21:16:11Z" scratch="false" x="43" y="2" clock="56" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a Colombia throw-in in Japan's half.</description>
+        </fact>
+        <fact id="e4db16e9-8929-4772-82bb-32c70a13e237" type="shot_off_target" time="2014-06-24T21:16:43Z" updated_time="2014-06-24T21:16:43Z" scratch="false" x="78" y="24" clock="58" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="07414aec-bfe6-4820-b3c5-39df176882f7">
+          <description>In Cuiaba Japan attack through Shinji Kagawa. The finish is off target, however.</description>
+        </fact>
+        <fact id="36898465-7b34-424b-9e65-d96136094584" type="goal_kick" time="2014-06-24T21:16:43Z" updated_time="2014-06-24T21:16:43Z" scratch="false" x="95" y="50" clock="58" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca awards Colombia a goal kick.</description>
+        </fact>
+        <fact id="0d416ad0-c7ab-4288-808a-3081c9a46eb9" type="free_kick" time="2014-06-24T21:18:03Z" updated_time="2014-06-24T21:18:03Z" scratch="false" x="81" y="82" clock="58" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="ab3f7d0f-6c4c-4e50-a533-21430ee9ccec" type="injury_return" time="2014-06-24T21:18:49Z" updated_time="2014-06-24T21:18:49Z" scratch="false" clock="59" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="24c130cc-38a5-4d12-a6ef-76b0b9dda490">
+          <description>Pablo Armero is back on his feet again.</description>
+        </fact>
+        <fact id="8a109b76-4377-4647-859e-7988d9cdd593" type="game_resumed" time="2014-06-24T21:19:00Z" updated_time="2014-06-24T21:19:00Z" scratch="false" clock="59">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="bc0b28e0-536a-4d6b-8f2e-4f6aa8fe5f75" type="injury" time="2014-06-24T21:18:35Z" updated_time="2014-06-24T21:18:39Z" scratch="false" x="81" y="82" clock="60" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="24c130cc-38a5-4d12-a6ef-76b0b9dda490">
+          <description>Pablo Armero is down and play has been interrupted for a few moments.</description>
+        </fact>
+        <fact id="81826cd2-e673-48b0-993d-d6e43369751b" type="throwin" time="2014-06-24T21:19:54Z" updated_time="2014-06-24T21:19:54Z" scratch="false" x="86" y="99" clock="60" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Throw-in for Japan close to the penalty box.</description>
+        </fact>
+        <fact id="4a69928a-7fa4-43c4-a759-901814fb8c53" type="injury_return" time="2014-06-24T21:20:18Z" updated_time="2014-06-24T21:20:18Z" scratch="false" clock="60" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="098d7791-b340-4af5-af3b-54a934552972">
+          <description>Japan’s Shinji Okazaki is on his feet again at Arena Pantanal.</description>
+        </fact>
+        <fact id="95b0be02-ec68-401e-aa10-ead4b2f96467" type="injury" time="2014-06-24T21:20:05Z" updated_time="2014-06-24T21:20:05Z" scratch="false" x="86" y="99" clock="61" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="098d7791-b340-4af5-af3b-54a934552972">
+          <description>Shinji Okazaki is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="dabc6fc7-833a-4aa8-bdf9-365c930e0cf3" type="game_resumed" time="2014-06-24T21:20:26Z" updated_time="2014-06-24T21:20:26Z" scratch="false" clock="61">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="34cc4b48-bcc1-4aee-88d9-ffc00ab9c23e" type="substitution" time="2014-06-24T21:21:02Z" updated_time="2014-06-24T21:21:02Z" scratch="false" clock="62" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_out_id="3084f0d1-812b-4c08-8772-2636f4b78f27" player_in_id="5fa10def-8c94-4235-ac7e-abc9d074df63">
+          <description>Hotaru Yamaguchi is on a sub for Toshihiro Aoyama for Japan.</description>
+        </fact>
+        <fact id="6da4dbb3-e026-46a7-bc2e-085bb95aef95" type="free_kick" time="2014-06-24T21:21:47Z" updated_time="2014-06-24T21:21:47Z" scratch="false" x="79" y="47" clock="62" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Free kick Japan.</description>
+        </fact>
+        <fact id="3e8f04eb-2622-451b-b337-b07a0d24e3bb" type="card" time="2014-06-24T21:21:58Z" updated_time="2014-06-24T21:21:58Z" scratch="false" clock="63" card="Y" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="6c5b12f8-9a33-4503-934f-352383052f3c">
+          <description>Fredy Guarin (Colombia) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="b02b648d-26ac-41cd-82d2-1d0c4112ec1b" type="shot_on_target" time="2014-06-24T21:23:20Z" updated_time="2014-06-24T21:23:20Z" scratch="false" x="79" y="47" clock="64" team_id="d7a081db-1427-4144-ae22-94e8d24b1139"/>
+        <fact id="ce58bb7f-98b8-4090-9aa0-d6d52b266d4b" type="shot_off_target" time="2014-06-24T21:23:26Z" updated_time="2014-06-24T21:24:48Z" scratch="false" x="79" y="47" clock="64" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="085d8b33-9938-4164-8e5e-535db6b9abf1">
+          <description>Japan's Yoshito Okubo attacks the ball with his head but his effort fails to hit the target.</description>
+        </fact>
+        <fact id="bfe62c56-4c52-491b-bfa9-25c045beacb9" type="goal_kick" time="2014-06-24T21:23:26Z" updated_time="2014-06-24T21:23:26Z" scratch="false" x="95" y="50" clock="64" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a goal kick.</description>
+        </fact>
+        <fact id="034b54ec-711f-415d-837f-16a99843a586" type="free_kick" time="2014-06-24T21:24:07Z" updated_time="2014-06-24T21:24:07Z" scratch="false" x="36" y="52" clock="64" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="49a1fbbd-e054-4251-a7c6-75302dc92f88" type="throwin" time="2014-06-24T21:25:18Z" updated_time="2014-06-24T21:25:18Z" scratch="false" x="43" y="1" clock="65" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Ball safe as Japan is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="e621cc4f-3ccb-4198-92e3-dd15f031a519" type="shot_off_target" time="2014-06-24T21:24:39Z" updated_time="2014-06-24T21:24:44Z" scratch="false" x="82" y="84" clock="66" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="085d8b33-9938-4164-8e5e-535db6b9abf1">
+          <description>Yoshito Okubo for Japan gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="c020450e-4744-401c-9e4c-b07eb4e5a6c9" type="goal_kick" time="2014-06-24T21:24:39Z" updated_time="2014-06-24T21:24:39Z" scratch="false" x="95" y="50" clock="66" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Arena Pantanal.</description>
+        </fact>
+        <fact id="76790480-297a-49f0-86be-8d1e1a56c2f5" type="throwin" time="2014-06-24T21:25:27Z" updated_time="2014-06-24T21:25:27Z" scratch="false" x="72" y="1" clock="66" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in for Colombia in their own half.</description>
+        </fact>
+        <fact id="87e3e51b-63b5-4ec3-9b61-8979b4d5e2b7" type="throwin" time="2014-06-24T21:25:50Z" updated_time="2014-06-24T21:25:50Z" scratch="false" x="86" y="1" clock="66" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have a dangerous throw-in.</description>
+        </fact>
+        <fact id="1223d2eb-b486-4732-9502-75cc2df243f1" type="goal_kick" time="2014-06-24T21:26:05Z" updated_time="2014-06-24T21:26:05Z" scratch="false" x="95" y="50" clock="66" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca awards Colombia a goal kick.</description>
+        </fact>
+        <fact id="aec353cd-69c9-41c0-8d61-a7a654913a34" type="free_kick" time="2014-06-24T21:27:26Z" updated_time="2014-06-24T21:27:26Z" scratch="false" x="43" y="60" clock="68" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan in their own half.</description>
+        </fact>
+        <fact id="49e07081-680a-4651-96f8-5f7974c8320e" type="substitution" time="2014-06-24T21:27:39Z" updated_time="2014-06-24T21:27:39Z" scratch="false" clock="69" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_out_id="098d7791-b340-4af5-af3b-54a934552972" player_in_id="ddcfe8f5-617a-4d98-a5a9-a0441e6ea21b">
+          <description>Yoichiro Kakitani (Japan) has replaced the possibly injured Shinji Okazaki at Arena Pantanal.</description>
+        </fact>
+        <fact id="0620ddf2-cf72-4823-8100-49db307175da" type="corner_kick" time="2014-06-24T21:28:28Z" updated_time="2014-06-24T21:28:33Z" scratch="false" x="95" y="90" clock="69" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Corner awarded to Japan.</description>
+        </fact>
+        <fact id="6833d239-0c76-4ad1-9f3f-769a5e4261df" type="corner_kick" time="2014-06-24T21:28:49Z" updated_time="2014-06-24T21:28:49Z" scratch="false" x="95" y="5" clock="70" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Corner awarded to Japan.</description>
+        </fact>
+        <fact id="4a20c0ec-124b-41f7-9063-7fdead1f52e5" type="goal_kick" time="2014-06-24T21:29:31Z" updated_time="2014-06-24T21:29:31Z" scratch="false" x="5" y="50" clock="70" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Ball goes out of play for a Japan goal kick.</description>
+        </fact>
+        <fact id="c332377c-d7ea-4443-a1ba-0e3dec6a13f1" type="throwin" time="2014-06-24T21:30:01Z" updated_time="2014-06-24T21:30:01Z" scratch="false" x="75" y="1" clock="70" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Can Japan get the ball into an attacking position from this throw-in in Colombia's half?</description>
+        </fact>
+        <fact id="af5558e5-48a9-49f1-8bfb-9042556cff0e" type="free_kick" time="2014-06-24T21:30:33Z" updated_time="2014-06-24T21:30:33Z" scratch="false" x="35" y="38" clock="71" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="8198ce89-2e87-4b24-8d10-63898fcffa39" type="shot_blocked" time="2014-06-24T21:31:06Z" updated_time="2014-06-24T21:31:06Z" scratch="false" x="20" y="85" clock="72" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="cb12b512-4ab3-4dc1-b284-5e5887cb6d42" type="shot_blocked" time="2014-06-24T21:31:14Z" updated_time="2014-06-24T21:31:14Z" scratch="false" x="6" y="88" clock="72" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Jackson Martinez (Colombia) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="842b88e9-dbbd-4abf-b69f-1b1acc310864" type="corner_kick" time="2014-06-24T21:31:36Z" updated_time="2014-06-24T21:31:36Z" scratch="false" x="5" y="90" clock="72" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have been awarded a corner by Pedro Proenca.</description>
+        </fact>
+        <fact id="0106d66c-c8b9-48a3-9dc9-50b72fe92ee8" type="goal_kick" time="2014-06-24T21:32:11Z" updated_time="2014-06-24T21:32:11Z" scratch="false" x="5" y="50" clock="72" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Ball goes out of play for a Japan goal kick.</description>
+        </fact>
+        <fact id="26a745c4-1409-4fd2-89d6-9096d1a7d98e" type="keeper_save" time="2014-06-24T21:32:56Z" updated_time="2014-06-24T21:32:56Z" scratch="false" x="82" y="55" clock="73" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="8cf2302d-2d7c-4924-acfb-15386590f97c" type="shot_on_target" time="2014-06-24T21:32:56Z" updated_time="2014-06-24T21:32:56Z" scratch="false" x="82" y="55" clock="74" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="77940858-9357-41bd-afe0-97f2a94dbd77">
+          <description>Japan's Yasuyuki Konno gets in a shot on goal at Arena Pantanal. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="dacc361a-2fae-4047-8962-80284cd609af" type="throwin" time="2014-06-24T21:34:02Z" updated_time="2014-06-24T21:34:02Z" scratch="false" x="75" y="1" clock="74" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in Colombia.</description>
+        </fact>
+        <fact id="d9d4c06e-c39e-4067-8710-70e5ed454108" type="throwin" time="2014-06-24T21:34:38Z" updated_time="2014-06-24T21:34:38Z" scratch="false" x="69" y="2" clock="75" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan to take a throw-in in Colombia territory.</description>
+        </fact>
+        <fact id="f0a1dd10-9a56-4e37-9f2d-6b6e3eb1aa6d" type="throwin" time="2014-06-24T21:35:18Z" updated_time="2014-06-24T21:35:18Z" scratch="false" x="88" y="99" clock="75" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Colombia needs to be cautious. Japan have an attacking throw-in.</description>
+        </fact>
+        <fact id="6ae1b41b-2de9-481f-b116-bb43f0f538fa" type="corner_kick" time="2014-06-24T21:35:09Z" updated_time="2014-06-24T21:35:09Z" scratch="false" x="95" y="5" clock="76" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have been awarded a corner by Pedro Proenca.</description>
+        </fact>
+        <fact id="116676f2-1e42-4922-9aeb-67c35214196a" type="keeper_save" time="2014-06-24T21:35:35Z" updated_time="2014-06-24T21:35:35Z" scratch="false" x="83" y="36" clock="76" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="ec6b5b5f-8f4f-4351-bb77-7b9a53710fc6" type="shot_on_target" time="2014-06-24T21:35:35Z" updated_time="2014-06-24T21:35:35Z" scratch="false" x="83" y="36" clock="77" team_id="d7a081db-1427-4144-ae22-94e8d24b1139"/>
+        <fact id="83337035-d5c5-4137-8a17-a2390ef0176f" type="shot_blocked" time="2014-06-24T21:38:16Z" updated_time="2014-06-24T21:38:16Z" scratch="false" x="80" y="12" clock="79" team_id="d7a081db-1427-4144-ae22-94e8d24b1139"/>
+        <fact id="a4c8d8ce-0174-4fbb-a150-4657244f99ac" type="free_kick" time="2014-06-24T21:38:54Z" updated_time="2014-06-24T21:38:54Z" scratch="false" x="91" y="63" clock="79" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="07a437ab-cb83-4659-82c0-1b8471f4cb3c" type="free_kick" time="2014-06-24T21:39:39Z" updated_time="2014-06-24T21:39:39Z" scratch="false" x="40" y="39" clock="80" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="43a31a6e-26cf-4a95-9a5e-91c685bd2baa" type="throwin" time="2014-06-24T21:39:58Z" updated_time="2014-06-24T21:39:58Z" scratch="false" x="71" y="98" clock="80" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan to take a throw-in in Colombia territory.</description>
+        </fact>
+        <fact id="9fdb6a0a-7957-4a05-a4d3-c9f2aa74594c" type="goal" time="2014-06-24T21:40:50Z" updated_time="2014-06-24T21:40:50Z" scratch="false" x="13" y="41" clock="82" home_score="1" away_score="3" penalty="false" owngoal="false" header="false" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="0cd81bf8-add9-449e-a95f-ad3cc9eb1876" assist1_id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2">
+          <description>James Rodriguez instrumental with a fine assist.</description>
+        </fact>
+        <fact id="57c4c664-3b00-4169-a102-3cc976bdaf50" type="shot_off_target" time="2014-06-24T21:42:34Z" updated_time="2014-06-24T21:42:43Z" scratch="false" x="78" y="46" clock="84" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="07414aec-bfe6-4820-b3c5-39df176882f7">
+          <description>Japan are coming forward and Shinji Kagawa gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="89498944-3242-4b48-a3f7-19063d20894b" type="goal_kick" time="2014-06-24T21:42:35Z" updated_time="2014-06-24T21:42:35Z" scratch="false" x="95" y="50" clock="84" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Pedro Proenca awards Colombia a goal kick.</description>
+        </fact>
+        <fact id="24095e1e-0290-47ba-b575-d044c1ad7bac" type="substitution" time="2014-06-24T21:42:54Z" updated_time="2014-06-24T21:42:54Z" scratch="false" clock="84" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_out_id="60357ac6-986a-42be-a74e-8696c082df85" player_in_id="a8ce9dc8-baa7-4fdb-b479-f2715b773a38">
+          <description>Colombia make their third substitution with Faryd Mondragon replacing David Ospina.</description>
+        </fact>
+        <fact id="31b0949c-e8dc-4e38-aa33-5ccf2fd0910f" type="substitution" time="2014-06-24T21:44:11Z" updated_time="2014-06-24T21:44:11Z" scratch="false" clock="85" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_out_id="07414aec-bfe6-4820-b3c5-39df176882f7" player_in_id="27b659fd-8213-4ec2-9aff-02573301c98f">
+          <description>Alberto Zaccheroni (Japan) is making a third substitution, with Hiroshi Kiyotake replacing Shinji Kagawa.</description>
+        </fact>
+        <fact id="735d0fc6-4522-4805-95dd-872bcac0e811" type="offside" time="2014-06-24T21:44:26Z" updated_time="2014-06-24T21:44:32Z" scratch="false" x="17" y="82" clock="85" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="0cd81bf8-add9-449e-a95f-ad3cc9eb1876">
+          <description>Colombia's Jackson Martinez has run offside.</description>
+        </fact>
+        <fact id="6f916f58-891a-4729-af86-2f4e505b3e0b" type="throwin" time="2014-06-24T21:45:04Z" updated_time="2014-06-24T21:45:04Z" scratch="false" x="78" y="98" clock="85" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a Japan throw-in in Colombia's half.</description>
+        </fact>
+        <fact id="ce0bd3bb-a20f-4247-9e32-300a2cf9ec5f" type="goal_kick" time="2014-06-24T21:45:13Z" updated_time="2014-06-24T21:45:13Z" scratch="false" x="95" y="50" clock="85" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Arena Pantanal.</description>
+        </fact>
+        <fact id="aaa70d10-c29f-4fbc-89d0-bcf439508b60" type="throwin" time="2014-06-24T21:46:47Z" updated_time="2014-06-24T21:46:47Z" scratch="false" x="51" y="1" clock="87" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in for Colombia in their own half.</description>
+        </fact>
+        <fact id="39aad0b2-999d-4941-86d7-6ce7e6c3c65c" type="free_kick" time="2014-06-24T21:47:53Z" updated_time="2014-06-24T21:47:53Z" scratch="false" x="42" y="35" clock="88" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Pedro Proenca signals a free kick to Japan in their own half.</description>
+        </fact>
+        <fact id="1f370145-643b-42a9-a4c6-43591e8fdeef" type="shot_off_target" time="2014-06-24T21:47:38Z" updated_time="2014-06-24T21:47:44Z" scratch="false" x="22" y="25" clock="89" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="01b78da8-4c54-4b74-8da3-16afcc3d99ad">
+          <description>Colombia's Santiago Arias gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="50723301-c4fc-4023-84a7-8d1e76803218" type="goal_kick" time="2014-06-24T21:47:39Z" updated_time="2014-06-24T21:47:39Z" scratch="false" x="5" y="50" clock="89" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Japan have a goal kick.</description>
+        </fact>
+        <fact id="662dd8c4-5df4-4543-931b-de7625841308" type="goal" time="2014-06-24T21:48:40Z" updated_time="2014-06-24T21:48:40Z" scratch="false" clock="90" home_score="1" away_score="4" penalty="false" owngoal="false" header="false" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2" assist1_id="09e736c2-320b-45fb-9a0c-df9c3312ecf8">
+          <description>Great play from Adrian Ramos to set up the goal.</description>
+        </fact>
+        <fact id="ac647909-107b-4219-a1ea-5c2da7a9acf5" type="injury_time" time="2014-06-24T21:50:10Z" updated_time="2014-06-24T21:50:10Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>Pedro Proenca will wait an extra 3 minutes before blowing the whistle to end the second half.</description>
+        </fact>
+        <fact id="16bfd397-8acb-4d7e-a712-b194bd5c79a2" type="throwin" time="2014-06-24T21:50:15Z" updated_time="2014-06-24T21:50:15Z" scratch="false" x="44" y="98" clock="90" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Throw-in for Japan at Arena Pantanal.</description>
+        </fact>
+        <fact id="c2b2be61-ec20-49d4-b7ea-43153321103d" type="shot_on_target" time="2014-06-24T21:52:42Z" updated_time="2014-06-24T21:52:56Z" scratch="false" x="85" y="70" clock="90" team_id="d7a081db-1427-4144-ae22-94e8d24b1139" player_id="ddcfe8f5-617a-4d98-a5a9-a0441e6ea21b">
+          <description>Yoichiro Kakitani for Japan drives towards goal at Arena Pantanal. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="8faaf69b-99f7-4632-8d15-48f1d360bc3a" type="throwin" time="2014-06-24T21:51:03Z" updated_time="2014-06-24T21:51:03Z" scratch="false" x="60" y="1" clock="90" injury_time="1" team_id="d7a081db-1427-4144-ae22-94e8d24b1139">
+          <description>Can Japan get the ball into an attacking position from this throw-in in Colombia's half?</description>
+        </fact>
+        <fact id="c8b52f55-6da5-4c25-8b02-97a86794f0b2" type="keeper_save" time="2014-06-24T21:52:42Z" updated_time="2014-06-24T21:52:42Z" scratch="false" x="85" y="70" clock="90" injury_time="3" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="c1c8a8cd-b74a-4984-afac-d46fe0869fdd" type="period_over" time="2014-06-24T21:52:47Z" updated_time="2014-06-24T21:52:47Z" scratch="false" home_score="1" away_score="4" period="P2">
+          <description>The second-half is over. The match ends 1-4.</description>
+        </fact>
+        <fact id="64e0e7df-943d-4090-80cb-18f1474c6d77" type="match_ended" time="2014-06-24T21:52:47Z" updated_time="2014-06-24T21:52:47Z" scratch="false" home_score="1" away_score="4" winner_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" draw="false"/>
+      </facts>
+      <!-- 4768742/4770/4820 -->
+    </match>
+  </matches>
+</summary>

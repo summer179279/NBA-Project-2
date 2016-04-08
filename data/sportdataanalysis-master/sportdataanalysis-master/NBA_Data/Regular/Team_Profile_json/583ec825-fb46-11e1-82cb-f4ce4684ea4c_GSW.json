@@ -1,0 +1,433 @@
+{
+    "team": {
+        "@alias": "GSW",
+        "@founded": "1946",
+        "@id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+        "@market": "Golden State",
+        "@name": "Warriors",
+        "@xmlns": "http://feed.elasticstats.com/schema/basketball/team-v2.0.xsd",
+        "coaches": {
+            "coach": {
+                "@experience": "0",
+                "@first_name": "Steve",
+                "@full_name": "Steve Kerr",
+                "@id": "04bb3fde-d798-44a1-a4c1-2c98c9bbf04b",
+                "@last_name": "Kerr",
+                "@position": "Head Coach"
+            }
+        },
+        "hierarchy": {
+            "conference": {
+                "@alias": "WESTERN",
+                "@id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+                "@name": "WESTERN CONFERENCE"
+            },
+            "division": {
+                "@alias": "PACIFIC",
+                "@id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+                "@name": "Pacific"
+            },
+            "league": {
+                "@alias": "NBA",
+                "@id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+                "@name": "NBA"
+            }
+        },
+        "players": {
+            "player": [
+                {
+                    "@abbr_name": "F.Ezeli",
+                    "@birth_place": "Benin City,, NGA",
+                    "@birthdate": "1989-10-21",
+                    "@college": "Vanderbilt",
+                    "@experience": "1",
+                    "@first_name": "Festus",
+                    "@full_name": "Festus Ezeli",
+                    "@height": "83",
+                    "@id": "17973022-bb81-427f-905e-86d3d3d9b51f",
+                    "@jersey_number": "31",
+                    "@last_name": "Ezeli",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2013-07-19T20:46:22+00:00",
+                    "@weight": "255",
+                    "draft": {
+                        "@pick": "30",
+                        "@round": "1",
+                        "@team_id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "J.Crawford",
+                    "@birth_place": "Detroit, MI, USA",
+                    "@birthdate": "1988-10-23",
+                    "@college": "Xavier",
+                    "@experience": "3",
+                    "@first_name": "Jordan",
+                    "@full_name": "Jordan Crawford",
+                    "@height": "76",
+                    "@id": "264a1d66-7f41-465a-b64c-c0f20ab31ad3",
+                    "@jersey_number": "55",
+                    "@last_name": "Crawford",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2014-01-16T15:55:29+00:00",
+                    "@weight": "195",
+                    "draft": {
+                        "@pick": "27",
+                        "@round": "1",
+                        "@team_id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2010"
+                    }
+                },
+                {
+                    "@abbr_name": "A.Bogut",
+                    "@birth_place": "Melbourne, VIC, AUS",
+                    "@birthdate": "1984-11-28",
+                    "@college": "Utah",
+                    "@experience": "8",
+                    "@first_name": "Andrew",
+                    "@full_name": "Andrew Bogut",
+                    "@height": "84",
+                    "@id": "26734851-dce6-4e5b-8291-594a7ebd6658",
+                    "@jersey_number": "12",
+                    "@last_name": "Bogut",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2013-11-27T19:12:21+00:00",
+                    "@weight": "260",
+                    "draft": {
+                        "@pick": "1",
+                        "@round": "1",
+                        "@team_id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2005"
+                    }
+                },
+                {
+                    "@abbr_name": "N.Nedovic",
+                    "@birth_place": "Nova Varos,, SRB",
+                    "@birthdate": "1991-06-16",
+                    "@experience": "0",
+                    "@first_name": "Nemanja",
+                    "@full_name": "Nemanja Nedovic",
+                    "@height": "75",
+                    "@id": "30fd3dbf-2746-4d68-a573-7c68a0d12620",
+                    "@jersey_number": "8",
+                    "@last_name": "Nedovic",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2013-12-24T04:30:04+00:00",
+                    "@weight": "192",
+                    "draft": {
+                        "@pick": "30",
+                        "@round": "1",
+                        "@team_id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2013"
+                    }
+                },
+                {
+                    "@abbr_name": "O.Kuzmic",
+                    "@birth_place": "Doboj,, SRB",
+                    "@birthdate": "1990-05-16",
+                    "@experience": "0",
+                    "@first_name": "Ognjen",
+                    "@full_name": "Ognjen Kuzmic",
+                    "@height": "84",
+                    "@id": "43a67926-b4f3-43ef-af64-11b8ef0819fc",
+                    "@jersey_number": "1",
+                    "@last_name": "Kuzmic",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2014-04-02T03:17:35+00:00",
+                    "@weight": "251",
+                    "draft": {
+                        "@pick": "52",
+                        "@round": "2",
+                        "@team_id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "B.Rush",
+                    "@birth_place": "Kansas City, MO, USA",
+                    "@birthdate": "1985-07-07",
+                    "@college": "Kansas",
+                    "@experience": "5",
+                    "@first_name": "Brandon",
+                    "@full_name": "Brandon Rush",
+                    "@height": "78",
+                    "@id": "4acebb9a-c4b2-4b49-9c73-f34d8fcc2395",
+                    "@jersey_number": "0",
+                    "@last_name": "Rush",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-22T20:03:07+00:00",
+                    "@weight": "233",
+                    "draft": {
+                        "@pick": "13",
+                        "@round": "1",
+                        "@team_id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2008"
+                    }
+                },
+                {
+                    "@abbr_name": "K.Thompson",
+                    "@birth_place": "Los Angeles, CA, USA",
+                    "@birthdate": "1990-02-08",
+                    "@college": "Washington State",
+                    "@experience": "2",
+                    "@first_name": "Klay",
+                    "@full_name": "Klay Thompson",
+                    "@height": "79",
+                    "@id": "4e152a06-673e-4701-b115-aa7e2cd00d2d",
+                    "@jersey_number": "11",
+                    "@last_name": "Thompson",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2013-09-06T20:04:19+00:00",
+                    "@weight": "205",
+                    "draft": {
+                        "@pick": "11",
+                        "@round": "1",
+                        "@team_id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2011"
+                    }
+                },
+                {
+                    "@abbr_name": "D.Green",
+                    "@birth_place": "Saginaw, MI, USA",
+                    "@birthdate": "1990-03-04",
+                    "@college": "Michigan State",
+                    "@experience": "1",
+                    "@first_name": "Draymond",
+                    "@full_name": "Draymond Green",
+                    "@height": "79",
+                    "@id": "5e5099d1-4a58-43f2-8d03-f2ae5dd49337",
+                    "@jersey_number": "23",
+                    "@last_name": "Green",
+                    "@position": "F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2013-07-19T20:47:47+00:00",
+                    "@weight": "230",
+                    "draft": {
+                        "@pick": "35",
+                        "@round": "2",
+                        "@team_id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "J.O'Neal",
+                    "@birth_place": "Columbia, SC, USA",
+                    "@birthdate": "1978-10-13",
+                    "@college": "Eau Claire HS (SC)",
+                    "@experience": "17",
+                    "@first_name": "Jermaine",
+                    "@full_name": "Jermaine O'Neal",
+                    "@height": "83",
+                    "@id": "60bb6586-4287-4893-9688-6a109e8b03b0",
+                    "@jersey_number": "7",
+                    "@last_name": "O'Neal",
+                    "@position": "C-F",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2014-02-27T21:55:36+00:00",
+                    "@weight": "255",
+                    "draft": {
+                        "@pick": "17",
+                        "@round": "1",
+                        "@team_id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "1996"
+                    }
+                },
+                {
+                    "@abbr_name": "S.Livingston",
+                    "@birth_place": "Peoria, IL, USA",
+                    "@birthdate": "1985-09-11",
+                    "@college": "Peoria Central HS (IL)",
+                    "@experience": "8",
+                    "@first_name": "Shaun",
+                    "@full_name": "Shaun Livingston",
+                    "@height": "79",
+                    "@id": "77f1a040-ff8b-4e20-9db9-dfb6aa041585",
+                    "@jersey_number": "0",
+                    "@last_name": "Livingston",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T19:38:52+00:00",
+                    "@weight": "175",
+                    "draft": {
+                        "@pick": "4",
+                        "@round": "1",
+                        "@team_id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2004"
+                    }
+                },
+                {
+                    "@abbr_name": "S.Curry",
+                    "@birth_place": "Akron, OH, USA",
+                    "@birthdate": "1988-03-14",
+                    "@college": "Davidson",
+                    "@experience": "4",
+                    "@first_name": "Stephen",
+                    "@full_name": "Stephen Curry",
+                    "@height": "75",
+                    "@id": "8ec91366-faea-4196-bbfd-b8fab7434795",
+                    "@jersey_number": "30",
+                    "@last_name": "Curry",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2013-07-19T20:45:12+00:00",
+                    "@weight": "185",
+                    "draft": {
+                        "@pick": "7",
+                        "@round": "1",
+                        "@team_id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2009"
+                    }
+                },
+                {
+                    "@abbr_name": "H.Armstrong",
+                    "@birth_place": "Peekskill, NY, USA",
+                    "@birthdate": "1984-11-23",
+                    "@college": "Connecticut",
+                    "@experience": "5",
+                    "@first_name": "Hilton",
+                    "@full_name": "Hilton Armstrong",
+                    "@height": "83",
+                    "@id": "91da23db-ca4f-4abd-a9e0-d8741c147d4f",
+                    "@jersey_number": "57",
+                    "@last_name": "Armstrong",
+                    "@position": "F-C",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2014-03-30T17:32:15+00:00",
+                    "@weight": "235",
+                    "draft": {
+                        "@pick": "12",
+                        "@round": "1",
+                        "@team_id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2006"
+                    }
+                },
+                {
+                    "@abbr_name": "D.Lee",
+                    "@birth_place": "St. Louis, MO, USA",
+                    "@birthdate": "1983-04-29",
+                    "@college": "Florida",
+                    "@experience": "8",
+                    "@first_name": "David",
+                    "@full_name": "David Lee",
+                    "@height": "81",
+                    "@id": "9a48ac5c-430e-4306-b393-bd366e922334",
+                    "@jersey_number": "10",
+                    "@last_name": "Lee",
+                    "@position": "F",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2013-11-08T20:16:59+00:00",
+                    "@weight": "240",
+                    "draft": {
+                        "@pick": "30",
+                        "@round": "1",
+                        "@team_id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2005"
+                    }
+                },
+                {
+                    "@abbr_name": "A.Iguodala",
+                    "@birth_place": "Springfield, IL, USA",
+                    "@birthdate": "1984-01-28",
+                    "@college": "Arizona",
+                    "@experience": "9",
+                    "@first_name": "Andre",
+                    "@full_name": "Andre Iguodala",
+                    "@height": "78",
+                    "@id": "9fdcd102-1c82-4e32-b366-c93139352c75",
+                    "@jersey_number": "9",
+                    "@last_name": "Iguodala",
+                    "@position": "F-G",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2013-11-08T20:14:28+00:00",
+                    "@weight": "207",
+                    "draft": {
+                        "@pick": "9",
+                        "@round": "1",
+                        "@team_id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2004"
+                    }
+                },
+                {
+                    "@abbr_name": "H.Barnes",
+                    "@birth_place": "Ames, IA, USA",
+                    "@birthdate": "1992-05-30",
+                    "@college": "North Carolina",
+                    "@experience": "1",
+                    "@first_name": "Harrison",
+                    "@full_name": "Harrison Barnes",
+                    "@height": "80",
+                    "@id": "ce8d0944-b277-499e-9701-02a5f1828615",
+                    "@jersey_number": "40",
+                    "@last_name": "Barnes",
+                    "@position": "F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2013-10-18T21:19:53+00:00",
+                    "@weight": "210",
+                    "draft": {
+                        "@pick": "7",
+                        "@round": "1",
+                        "@team_id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "M.Speights",
+                    "@birth_place": "St. Petersburg, FL, USA",
+                    "@birthdate": "1987-08-04",
+                    "@college": "Florida",
+                    "@experience": "5",
+                    "@first_name": "Marreese",
+                    "@full_name": "Marreese Speights",
+                    "@height": "82",
+                    "@id": "e4bd8c65-a40b-42e3-8327-6913045bf008",
+                    "@jersey_number": "5",
+                    "@last_name": "Speights",
+                    "@position": "F-C",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2013-07-22T17:33:43+00:00",
+                    "@weight": "255",
+                    "draft": {
+                        "@pick": "16",
+                        "@round": "1",
+                        "@team_id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2008"
+                    }
+                }
+            ]
+        },
+        "venue": {
+            "@address": "7000 Coliseum Way",
+            "@capacity": "19596",
+            "@city": "Oakland",
+            "@country": "USA",
+            "@id": "e25e21f2-1d67-5f13-910b-81fc8629eea7",
+            "@name": "Oracle Arena",
+            "@state": "CA",
+            "@zip": "94621"
+        }
+    }
+}

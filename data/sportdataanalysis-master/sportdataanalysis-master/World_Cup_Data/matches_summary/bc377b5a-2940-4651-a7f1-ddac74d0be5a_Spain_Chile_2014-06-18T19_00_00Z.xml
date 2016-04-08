@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:36:59Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="bc377b5a-2940-4651-a7f1-ddac74d0be5a" status="closed" scratched="false" period="P2" scheduled="2014-06-18T19:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B"/>
+      <round week="25" number="2" type="table"/>
+      <home id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="163" ball_safe="120" corner_kicks="7" dangerous_attacks="78" fouls="14" free_kicks="17" goal_attempts="13" goal_kicks="4" offsides="1" saves="1" shots_total="13" substitutions="3" throw_ins="39" yellow_card="1" shots_on_target="7" shots_off_target="6" possessions="63"/>
+        <players>
+          <player id="03d7e004-a738-417e-bfc8-6a0121748f3f" country_code="ESP" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Fernando" last_name="Torres" country="Spain" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="01061c85-99f9-41aa-be97-43b080d40e75" country_code="ESP" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Sergio" last_name="Busquets" country="Spain" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1406e911-55b5-4dcf-a2f1-cd7800c7c9a8" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Xavi" last_name="" country="Spain" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="086fa327-2bb3-4096-92f6-51d09dee3161" country_code="ESP" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Juan" last_name="Mata" country="Spain" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1f23107e-3777-47eb-bf30-954fe358a894" country_code="ESP" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Pepe" last_name="Reina" country="Spain" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="898df2e4-9341-43c4-94e3-96f6ef936508" country_code="ESP" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Santi" last_name="Cazorla" country="Spain" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="314252ba-4bc9-43da-b1bd-9793afbc4f74" country_code="ESP" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Jordi" last_name="Alba" country="Spain" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0f439483-475c-4ebc-8ef6-bf6047340dc6" country_code="ESP" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Pedro" last_name="" country="Spain" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="20e3486b-831c-4c13-810d-63008f9f6fe3" country_code="ESP" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Diego" last_name="Costa" country="Spain" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4" country_code="ESP" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Sergio" last_name="Ramos" country="Spain" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="64454211-fb46-47fc-9ab0-fa005e3f6f4f" country_code="ESP" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Juanfran" last_name="" country="Spain" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="931d019e-0f91-4c7f-b389-a971555a8dc0" country_code="ESP" position="M" started="true" tactical_position="5" tactical_order="8" first_name="David" last_name="Silva" country="Spain" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2fbefb2d-7a76-4413-af3a-76641c9d518c" country_code="ESP" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Raul" last_name="Albiol" country="Spain" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7a076b2a-2918-43dd-8de2-38a5b88dfd5d" country_code="ESP" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Iker" last_name="Casillas" country="Spain" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0465e91e-7d90-4782-b6b9-28492099e6ad" country_code="ESP" position="G" started="false" tactical_position="0" tactical_order="0" first_name="David" last_name="De Gea" country="Spain" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="321949bd-a195-45ce-8d97-9b6686e75033" country_code="ESP" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Gerard" last_name="Pique" country="Spain" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="33e99add-6f13-4a68-abee-d26d3815a0f2" country_code="ESP" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Iniesta" last_name="" country="Spain" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1897c1dd-4fea-4808-9489-f2cb6c9d438f" country_code="ESP" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Xabi" last_name="Alonso" country="Spain" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1e9b4c1a-aa98-443c-9583-db3c8b6c8e9f" country_code="ESP" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Cesar" last_name="Azpilicueta" country="Spain" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0030db97-73fc-483d-ad7e-230b2544ead1" country_code="ESP" position="M" started="false" tactical_position="6" tactical_order="7" first_name="Koke" last_name="" country="Spain" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1d772c7c-45f5-492a-bb95-50b00d4b5d1b" country_code="ESP" position="F" started="false" tactical_position="0" tactical_order="0" first_name="David" last_name="Villa" country="Spain" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aa2b9f34-f711-458b-a959-289732fba289" country_code="ESP" position="M" started="true" tactical_position="3" tactical_order="3" first_name="Javi" last_name="Martinez" country="Spain" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="556210cb-0bdc-4cd8-b67f-a6fad49f89a7" country_code="ESP" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Cesc" last_name="Fabregas" country="Spain" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" formation="3-4-1-2" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="2" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="114" ball_safe="122" corner_kicks="1" dangerous_attacks="41" fouls="14" free_kicks="15" goal_attempts="5" goal_kicks="11" offsides="3" saves="7" shots_total="5" substitutions="3" throw_ins="27" yellow_card="2" shots_on_target="2" shots_off_target="3" possessions="37"/>
+        <players>
+          <player id="1bb14e64-ab8f-48be-b159-14c2ff394203" country_code="CHL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Fabian" last_name="Orellana" country="Chile" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="17f36d6c-04b8-442c-a05a-c254a7cca62e" country_code="CHL" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Alexis" last_name="Sanchez" country="Chile" jersey_number="7">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ffac2545-22b8-4227-9ebb-16ffbf95323b" country_code="CHL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Johnny" last_name="Herrera" country="Chile" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5821a055-9e0f-4084-86ab-8d569a154794" country_code="CHL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jose" last_name="Fuenzalida" country="Chile" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e12279ec-dbf9-426c-b324-199069f0b2c4" country_code="CHL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Esteban" last_name="Paredes" country="Chile" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="86195b47-9a09-49e2-9488-b1e8e1c0507e" country_code="CHL" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Eduardo" last_name="Vargas" country="Chile" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="f58bba9b-fa0f-436a-8b46-f57c0f0a952e" country_code="CHL" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Gonzalo" last_name="Jara" country="Chile" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="592e55c3-0919-47ba-a0d4-0a8d7257f525" country_code="CHL" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Carlos" last_name="Carmona" country="Chile" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="c2ac037a-1aee-455e-a73a-bb0c148117b4" country_code="CHL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Jose" last_name="Rojas" country="Chile" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="69339392-4e73-4c55-ae28-b64e7107d56f" country_code="CHL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Jean" last_name="Beausejour" country="Chile" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5c1fa032-7c51-4d30-acfd-6d4d87acd14c" country_code="CHL" position="M" started="true" tactical_position="3" tactical_order="2" first_name="Gary" last_name="Medel" country="Chile" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e14d740c-2951-4005-ac96-be85c027ccad" country_code="CHL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Miiko" last_name="Albornoz" country="Chile" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d2e450ae-4387-4812-a73e-ca624e1a16ff" country_code="CHL" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Charles" last_name="Aranguiz" country="Chile" jersey_number="20">
+            <statistics goal="1" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="68f48991-086e-4ad3-ab8d-2dbd4b1c8a24" country_code="CHL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Mauricio" last_name="Pinilla" country="Chile" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cfb0f3c6-43d9-4e72-b920-764ea0c3c338" country_code="CHL" position="M" started="true" tactical_position="3" tactical_order="3" first_name="Francisco" last_name="Silva" country="Chile" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b632e44e-1429-4595-8ca3-a39ee7bde8af" country_code="CHL" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Felipe" last_name="Gutierrez" country="Chile" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="f64b0af4-4f3b-4906-b0bf-6e2144708c3e" country_code="CHL" position="M" started="false" tactical_position="8" tactical_order="10" first_name="Jorge Valdivia" last_name="" country="Chile" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4d63ec68-3746-4f32-b186-16663db470d6" country_code="CHL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Cristopher" last_name="Toselli" country="Chile" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7655e0b0-7997-4a38-89ac-7a3051405002" country_code="CHL" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Claudio" last_name="Bravo" country="Chile" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7672d0bc-8ba2-4c2d-8d32-6171f6c7ffaa" country_code="CHL" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Marcelo" last_name="Diaz" country="Chile" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e33301db-3ab3-401b-be57-404b2f6ba35d" country_code="CHL" position="D" started="true" tactical_position="7" tactical_order="8" first_name="Eugenio" last_name="Mena" country="Chile" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7389da24-007c-4b95-ae32-156ba050b626" country_code="CHL" position="M" started="true" tactical_position="5" tactical_order="5" first_name="Mauricio" last_name="Isla" country="Chile" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="51001a8e-bdba-4d69-8351-b02172e91aaa" country_code="CHL" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Arturo" last_name="Vidal" country="Chile" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210"/>
+      <facts>
+        <fact id="30e6af51-9118-4e82-ba99-2b6fc3001aa3" type="match_started" time="2014-06-18T19:00:37Z" updated_time="2014-06-18T19:00:37Z" scratch="false" clock="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>The match is underway at Estadio do Maracana.</description>
+        </fact>
+        <fact id="63b621d7-a5d7-42e6-9357-e1dd824334cf" type="period_started" time="2014-06-18T19:00:37Z" updated_time="2014-06-18T19:00:37Z" scratch="false" period="P1"/>
+        <fact id="4dc77fc6-9334-4e19-9e2d-0f2f29487658" type="shot_blocked" time="2014-06-18T19:01:37Z" updated_time="2014-06-18T19:01:37Z" scratch="false" x="3" y="92" clock="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Eduardo Vargas (Chile) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="6fade0ec-72c3-44df-8a68-5b02ad003a35" type="throwin" time="2014-06-18T19:02:33Z" updated_time="2014-06-18T19:02:33Z" scratch="false" x="87" y="100" clock="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a throw-in for Spain, close to Chile's area.</description>
+        </fact>
+        <fact id="5ae81164-a03f-471c-8d7a-00392b58db40" type="corner_kick" time="2014-06-18T19:01:49Z" updated_time="2014-06-18T19:02:12Z" scratch="false" x="5" y="90" clock="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="e76e0e6c-89d3-4a94-96ca-08ea86fef688" type="shot_off_target" time="2014-06-18T19:02:03Z" updated_time="2014-06-18T19:02:03Z" scratch="false" x="14" y="41" clock="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="f58bba9b-fa0f-436a-8b46-f57c0f0a952e">
+          <description>Gonzalo Jara's header is off-target for Chile.</description>
+        </fact>
+        <fact id="7dfa72fa-befe-4cab-bda6-1cc372b0c143" type="goal_kick" time="2014-06-18T19:02:03Z" updated_time="2014-06-18T19:02:03Z" scratch="false" x="5" y="50" clock="2" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Goal kick for Spain at Estadio do Maracana.</description>
+        </fact>
+        <fact id="bad3921f-5b57-46ef-afda-3c521a8fddb6" type="throwin" time="2014-06-18T19:02:51Z" updated_time="2014-06-18T19:02:51Z" scratch="false" x="88" y="99" clock="2" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Can Spain capitalize from this throw-in deep inside Chile's half?</description>
+        </fact>
+        <fact id="0a4dbdde-ccc4-4d4c-865f-f56325f1167e" type="throwin" time="2014-06-18T19:03:00Z" updated_time="2014-06-18T19:03:00Z" scratch="false" x="78" y="99" clock="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="ac102a0a-6b9a-49e9-9128-2a8dc367e2c0" type="free_kick" time="2014-06-18T19:03:11Z" updated_time="2014-06-18T19:03:11Z" scratch="false" x="83" y="65" clock="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="20c3c507-8945-44a8-b9af-d82ba4622ab2" type="throwin" time="2014-06-18T19:03:50Z" updated_time="2014-06-18T19:03:50Z" scratch="false" x="35" y="98" clock="3" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="58aebfdf-d9b2-4798-8de7-47393df065ea" type="throwin" time="2014-06-18T19:05:08Z" updated_time="2014-06-18T19:05:08Z" scratch="false" x="57" y="2" clock="4" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a Spain throw-in in Chile's half.</description>
+        </fact>
+        <fact id="cf7dcd4d-4e96-42d6-a611-d508675ba403" type="throwin" time="2014-06-18T19:05:37Z" updated_time="2014-06-18T19:05:37Z" scratch="false" x="42" y="0" clock="4" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="faa6af00-1e77-4fe1-bb91-90c0d359bbef" type="throwin" time="2014-06-18T19:05:54Z" updated_time="2014-06-18T19:05:54Z" scratch="false" x="42" y="1" clock="5" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="965cabd5-5b65-4532-8ce5-5612f175cb2e" type="throwin" time="2014-06-18T19:06:18Z" updated_time="2014-06-18T19:06:18Z" scratch="false" x="42" y="2" clock="5" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a Chile throw-in in Spain's half.</description>
+        </fact>
+        <fact id="2fb8137a-3de1-4a3e-b21e-51d3ac4a27c4" type="free_kick" time="2014-06-18T19:08:00Z" updated_time="2014-06-18T19:08:00Z" scratch="false" x="69" y="37" clock="7" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="99f01331-d610-4570-b4a2-af77d7fd2163" type="throwin" time="2014-06-18T19:09:07Z" updated_time="2014-06-18T19:09:07Z" scratch="false" x="80" y="98" clock="8" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain close to the penalty box.</description>
+        </fact>
+        <fact id="7546fb58-74eb-4768-b3b7-b393158a0357" type="throwin" time="2014-06-18T19:09:48Z" updated_time="2014-06-18T19:09:48Z" scratch="false" x="53" y="2" clock="9" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Chile territory.</description>
+        </fact>
+        <fact id="cd3ed3f7-6144-49c3-984e-51c6c7d103e4" type="throwin" time="2014-06-18T19:10:03Z" updated_time="2014-06-18T19:10:03Z" scratch="false" x="54" y="98" clock="9" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Chile territory.</description>
+        </fact>
+        <fact id="bbb206e9-6283-476c-b07b-5a5bb31d401e" type="throwin" time="2014-06-18T19:11:00Z" updated_time="2014-06-18T19:11:00Z" scratch="false" x="34" y="98" clock="10" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="98baa639-3699-45d6-bcb9-1efea6258bb7" type="throwin" time="2014-06-18T19:11:12Z" updated_time="2014-06-18T19:11:12Z" scratch="false" x="59" y="99" clock="10" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile at Estadio do Maracana.</description>
+        </fact>
+        <fact id="15ecf992-7f73-46b8-9089-ba9c32f948d1" type="offside" time="2014-06-18T19:11:26Z" updated_time="2014-06-18T19:12:43Z" scratch="false" x="22" y="28" clock="11" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="7389da24-007c-4b95-ae32-156ba050b626">
+          <description>Mauricio Isla for Chile is whistled offside.</description>
+        </fact>
+        <fact id="3a52d5a5-4c99-4273-86a9-48d604c5f65c" type="free_kick" time="2014-06-18T19:13:20Z" updated_time="2014-06-18T19:13:20Z" scratch="false" x="73" y="50" clock="12" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a free kick to Spain.</description>
+        </fact>
+        <fact id="21d3e80e-8f12-45b6-b334-6a0aab3d6454" type="goal_kick" time="2014-06-18T19:14:05Z" updated_time="2014-06-18T19:14:05Z" scratch="false" x="95" y="50" clock="13" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball goes out of play for a Chile goal kick.</description>
+        </fact>
+        <fact id="e14fe57e-c378-4ac8-bfa7-1eb7ea66c989" type="keeper_save" time="2014-06-18T19:15:12Z" updated_time="2014-06-18T19:15:12Z" scratch="false" x="85" y="38" clock="14" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="db37b613-6169-484a-b7d7-7f28f4a9c917" type="shot_on_target" time="2014-06-18T19:15:11Z" updated_time="2014-06-18T19:15:11Z" scratch="false" x="85" y="38" clock="15" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f">
+          <description>In Rio de Janeiro Spain drive forward through Xabi Alonso. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="e110effb-bf04-4cb8-9bb4-eb3a7f3ea3ac" type="offside" time="2014-06-18T19:15:16Z" updated_time="2014-06-18T19:15:16Z" scratch="false" x="85" y="38" clock="15" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f">
+          <description>Mark Geiger blows against Spain's Xabi Alonso for offside.</description>
+        </fact>
+        <fact id="79961a0d-f6c5-4ec1-9032-c312a2c472ad" type="throwin" time="2014-06-18T19:16:17Z" updated_time="2014-06-18T19:16:17Z" scratch="false" x="37" y="99" clock="15" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="07a97da7-647d-47a8-ad57-49bcced6af54" type="throwin" time="2014-06-18T19:16:42Z" updated_time="2014-06-18T19:16:42Z" scratch="false" x="20" y="99" clock="16" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="88e661e3-5fa3-4bc6-b745-495b9c3636a7" type="throwin" time="2014-06-18T19:16:55Z" updated_time="2014-06-18T19:16:55Z" scratch="false" x="36" y="1" clock="16" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="e6c8e2f2-e6ee-44e6-a599-3e8a2e3c20f8" type="throwin" time="2014-06-18T19:17:54Z" updated_time="2014-06-18T19:17:54Z" scratch="false" x="38" y="99" clock="17" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a Chile throw-in in Spain's half.</description>
+        </fact>
+        <fact id="ed13b4ce-816e-4abb-811c-9bfd04748169" type="throwin" time="2014-06-18T19:18:35Z" updated_time="2014-06-18T19:18:35Z" scratch="false" x="33" y="2" clock="17" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="8ee8ad3f-675e-48f4-869e-884659f24607" type="throwin" time="2014-06-18T19:18:41Z" updated_time="2014-06-18T19:18:41Z" scratch="false" x="30" y="98" clock="18" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="826f5ca4-3f79-49c9-8699-a74ed3a92691" type="goal" time="2014-06-18T19:19:43Z" updated_time="2014-06-18T19:19:50Z" scratch="false" x="11" y="54" clock="20" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="86195b47-9a09-49e2-9488-b1e8e1c0507e" assist1_id="d2e450ae-4387-4812-a73e-ca624e1a16ff">
+          <description>Great play from Charles Aranguiz to set up the goal.</description>
+        </fact>
+        <fact id="eecf9aa6-f8fe-4c21-a534-49f10c382432" type="throwin" time="2014-06-18T19:21:16Z" updated_time="2014-06-18T19:21:16Z" scratch="false" x="40" y="2" clock="20" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="9547657a-724c-4548-ac63-a04f160ba544" type="throwin" time="2014-06-18T19:21:42Z" updated_time="2014-06-18T19:21:42Z" scratch="false" x="42" y="1" clock="21" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="1f0f6138-765f-424d-beff-5a182d56afa8" type="throwin" time="2014-06-18T19:22:10Z" updated_time="2014-06-18T19:22:10Z" scratch="false" x="42" y="98" clock="21" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="34274673-9aa7-460c-8cce-3c43bdeada57" type="throwin" time="2014-06-18T19:22:33Z" updated_time="2014-06-18T19:22:33Z" scratch="false" x="66" y="2" clock="21" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile at Estadio do Maracana.</description>
+        </fact>
+        <fact id="64fbd715-44a9-4955-9dec-8e98d8114b62" type="shot_off_target" time="2014-06-18T19:23:42Z" updated_time="2014-06-18T19:23:42Z" scratch="false" x="84" y="40" clock="23" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f">
+          <description>Spain are pushing forward but Xabi Alonso's finish is wide of the goal.</description>
+        </fact>
+        <fact id="fc788ed6-959d-4a2d-9b34-e9c2d01fc6fc" type="goal_kick" time="2014-06-18T19:23:42Z" updated_time="2014-06-18T19:23:42Z" scratch="false" x="95" y="50" clock="23" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have a goal kick.</description>
+        </fact>
+        <fact id="7507d1b4-9f22-44da-8d5d-8c05ad146ba3" type="throwin" time="2014-06-18T19:24:19Z" updated_time="2014-06-18T19:24:19Z" scratch="false" x="41" y="99" clock="23" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="fb26f3ef-3696-410e-88c5-7faa7ca63c75" type="free_kick" time="2014-06-18T19:25:15Z" updated_time="2014-06-18T19:25:15Z" scratch="false" x="22" y="15" clock="24" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0d8f266e-233e-4fa2-b674-278257517dfc" type="goal_kick" time="2014-06-18T19:25:47Z" updated_time="2014-06-18T19:25:47Z" scratch="false" x="95" y="50" clock="25" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger awards Chile a goal kick.</description>
+        </fact>
+        <fact id="a82baee1-84a7-4939-9db9-f63159835c7f" type="free_kick" time="2014-06-18T19:26:26Z" updated_time="2014-06-18T19:26:26Z" scratch="false" x="20" y="47" clock="25" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="ebea8bf0-8c1e-4fed-a6ef-acef72979e0a" type="card" time="2014-06-18T19:26:37Z" updated_time="2014-06-18T19:26:37Z" scratch="false" clock="26" card="Y" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="51001a8e-bdba-4d69-8351-b02172e91aaa">
+          <description>Arturo Vidal (Chile) has received a first yellow card.</description>
+        </fact>
+        <fact id="6b559e6c-100a-4b6f-aa9c-c8984f3e9ea9" type="free_kick" time="2014-06-18T19:26:57Z" updated_time="2014-06-18T19:26:57Z" scratch="false" x="70" y="43" clock="26" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="2d8cb095-7899-422c-9076-6b9f54b25c2f" type="shot_off_target" time="2014-06-18T19:27:19Z" updated_time="2014-06-18T19:27:19Z" scratch="false" x="87" y="32" clock="27" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="20e3486b-831c-4c13-810d-63008f9f6fe3">
+          <description>Diego Costa of Spain gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="25540d9f-39f3-47d0-a57d-76545cf67350" type="goal_kick" time="2014-06-18T19:27:19Z" updated_time="2014-06-18T19:27:19Z" scratch="false" x="95" y="50" clock="27" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have a goal kick.</description>
+        </fact>
+        <fact id="d958ee96-435c-4524-a3e7-4966ac0f9df5" type="throwin" time="2014-06-18T19:28:01Z" updated_time="2014-06-18T19:28:01Z" scratch="false" x="36" y="99" clock="27" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a Chile throw-in in Spain's half.</description>
+        </fact>
+        <fact id="28d22ca9-e444-478c-9ef8-d54e49813d91" type="throwin" time="2014-06-18T19:28:10Z" updated_time="2014-06-18T19:28:10Z" scratch="false" x="43" y="98" clock="27" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain at Estadio do Maracana.</description>
+        </fact>
+        <fact id="de7382ab-c65d-4e7b-a03f-8520149a497b" type="throwin" time="2014-06-18T19:28:28Z" updated_time="2014-06-18T19:28:28Z" scratch="false" x="41" y="99" clock="27" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="9593700f-bdf2-400d-ac92-0c4054ecb5bd" type="goal_kick" time="2014-06-18T19:28:43Z" updated_time="2014-06-18T19:28:43Z" scratch="false" x="5" y="50" clock="28" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball goes out of play for a Spain goal kick.</description>
+        </fact>
+        <fact id="2b940dfd-682a-45b9-b825-ad5656413630" type="throwin" time="2014-06-18T19:29:14Z" updated_time="2014-06-18T19:29:14Z" scratch="false" x="83" y="99" clock="28" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have a dangerous throw-in.</description>
+        </fact>
+        <fact id="22c8f523-bcfa-4d2a-8088-7abfd2d168ca" type="free_kick" time="2014-06-18T19:29:51Z" updated_time="2014-06-18T19:29:51Z" scratch="false" x="66" y="85" clock="29" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="aac909a5-1477-4fec-9d5e-77dd1a751d30" type="free_kick" time="2014-06-18T19:30:30Z" updated_time="2014-06-18T19:30:30Z" scratch="false" x="79" y="65" clock="29" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a free kick to Spain.</description>
+        </fact>
+        <fact id="20c062f7-ebaf-48de-8841-47f170a27d93" type="free_kick" time="2014-06-18T19:31:23Z" updated_time="2014-06-18T19:31:23Z" scratch="false" x="80" y="28" clock="30" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="a4138ae4-18bf-42f3-90a3-0f4558762634" type="throwin" time="2014-06-18T19:32:46Z" updated_time="2014-06-18T19:32:46Z" scratch="false" x="39" y="99" clock="32" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="bae2d84a-e054-409b-b97f-956f33fa73bf" type="free_kick" time="2014-06-18T19:33:20Z" updated_time="2014-06-18T19:33:20Z" scratch="false" x="68" y="29" clock="32" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6b399439-a6fd-4549-a79a-f02f76e54a1e" type="throwin" time="2014-06-18T19:33:57Z" updated_time="2014-06-18T19:33:57Z" scratch="false" x="41" y="99" clock="33" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="82264cf4-17df-4309-924b-757ce5b178ec" type="free_kick" time="2014-06-18T19:34:50Z" updated_time="2014-06-18T19:34:50Z" scratch="false" x="69" y="80" clock="34" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="eed18120-8c01-4ba5-8d4a-0b3c67036146" type="offside" time="2014-06-18T19:35:23Z" updated_time="2014-06-18T19:36:39Z" scratch="false" x="16" y="72" clock="35" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="17f36d6c-04b8-442c-a05a-c254a7cca62e">
+          <description>Chile's Alexis Sanchez has run offside.</description>
+        </fact>
+        <fact id="a38d5042-ddb9-47ec-95fc-6928a7f706be" type="free_kick" time="2014-06-18T19:36:23Z" updated_time="2014-06-18T19:36:23Z" scratch="false" x="63" y="45" clock="35" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="71125c2b-1f2f-4546-8d8e-7777be466701" type="free_kick" time="2014-06-18T19:37:08Z" updated_time="2014-06-18T19:37:08Z" scratch="false" x="57" y="90" clock="36" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a free kick to Spain.</description>
+        </fact>
+        <fact id="7e62a817-de1d-469a-87c5-250a461377f9" type="throwin" time="2014-06-18T19:38:51Z" updated_time="2014-06-18T19:38:51Z" scratch="false" x="84" y="1" clock="38" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Chile needs to be cautious. Spain have an attacking throw-in.</description>
+        </fact>
+        <fact id="52b03bbc-ddb9-4b0e-8349-27e57f6fe430" type="throwin" time="2014-06-18T19:39:41Z" updated_time="2014-06-18T19:39:41Z" scratch="false" x="67" y="1" clock="39" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Chile territory.</description>
+        </fact>
+        <fact id="1f5d94a1-25dc-417f-b143-577860728030" type="goal_kick" time="2014-06-18T19:39:51Z" updated_time="2014-06-18T19:39:51Z" scratch="false" x="95" y="50" clock="39" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger awards Chile a goal kick.</description>
+        </fact>
+        <fact id="376f9ead-8260-4910-8472-7a19c6354849" type="free_kick" time="2014-06-18T19:40:30Z" updated_time="2014-06-18T19:40:30Z" scratch="false" x="43" y="18" clock="39" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Free kick Chile.</description>
+        </fact>
+        <fact id="9c0bc1a8-5e02-4381-b695-087ad866ce07" type="card" time="2014-06-18T19:40:39Z" updated_time="2014-06-18T19:40:39Z" scratch="false" clock="40" card="Y" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f">
+          <description>Spain's Xabi Alonso has been booked in Rio de Janeiro.</description>
+        </fact>
+        <fact id="88e2ce3c-1f2e-4166-8cde-263a2df5cc69" type="throwin" time="2014-06-18T19:41:45Z" updated_time="2014-06-18T19:41:45Z" scratch="false" x="29" y="1" clock="41" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a Chile throw-in in Spain's half.</description>
+        </fact>
+        <fact id="be9ef990-964d-4d29-8232-1b449823892a" type="throwin" time="2014-06-18T19:42:11Z" updated_time="2014-06-18T19:42:11Z" scratch="false" x="29" y="0" clock="41" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="c1deaaaf-729f-4a68-acc8-7c5591f6c998" type="free_kick" time="2014-06-18T19:42:43Z" updated_time="2014-06-18T19:42:43Z" scratch="false" x="32" y="33" clock="42" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a free kick to Chile.</description>
+        </fact>
+        <fact id="60778d43-473b-4213-999c-61eb3c49098d" type="goal" time="2014-06-18T19:43:41Z" updated_time="2014-06-18T19:45:52Z" scratch="false" clock="43" home_score="0" away_score="2" penalty="false" owngoal="false" header="false" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="d2e450ae-4387-4812-a73e-ca624e1a16ff" assist1_id="17f36d6c-04b8-442c-a05a-c254a7cca62e">
+          <description>Alexis Sanchez with an assist there.</description>
+        </fact>
+        <fact id="6c601ed1-456f-49d6-ac86-e2f45a1c31b2" type="period_over" time="2014-06-18T19:48:00Z" updated_time="2014-06-18T19:48:00Z" scratch="false" home_score="0" away_score="2" period="P1">
+          <description>The first-half is over.</description>
+        </fact>
+        <fact id="4df04671-0201-45cb-ab8e-193edb7c64e2" type="period_started" time="2014-06-18T19:48:00Z" updated_time="2014-06-18T19:48:00Z" scratch="false" period="H"/>
+        <fact id="8218c825-859d-4d04-8641-0d8cb91001fe" type="period_started" time="2014-06-18T20:04:30Z" updated_time="2014-06-18T20:04:30Z" scratch="false" period="P2"/>
+        <fact id="0e8aa542-eda4-45fa-a030-0513ab51e3a2" type="throwin" time="2014-06-18T20:04:49Z" updated_time="2014-06-18T20:04:49Z" scratch="false" x="48" y="98" clock="45" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="165ff3f5-a20f-41d1-a9b7-6d0cee663d92" type="throwin" time="2014-06-18T20:05:15Z" updated_time="2014-06-18T20:05:15Z" scratch="false" x="59" y="2" clock="45" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a Spain throw-in in Chile's half.</description>
+        </fact>
+        <fact id="c0688fe7-17b3-45d4-a3fb-6d5214f0ff40" type="injury_time" time="2014-06-18T19:46:00Z" updated_time="2014-06-18T19:46:00Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes will be added to the first half in Rio de Janeiro.</description>
+        </fact>
+        <fact id="012811dc-6bce-4b9c-be82-f7455d648bdc" type="free_kick" time="2014-06-18T19:46:46Z" updated_time="2014-06-18T19:46:46Z" scratch="false" x="79" y="25" clock="45" injury_time="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="d2b35916-4c53-4309-81cc-ee38feba780b" type="shot_on_target" time="2014-06-18T19:47:34Z" updated_time="2014-06-18T19:47:34Z" scratch="false" x="89" y="51" clock="45" injury_time="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="3648ce6e-fad4-4c04-bab3-60c8610a8c31" type="keeper_save" time="2014-06-18T19:47:34Z" updated_time="2014-06-18T19:47:34Z" scratch="false" x="89" y="51" clock="45" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="b9f6d4a5-8e8c-4ddc-8df1-64f462117238" type="free_kick" time="2014-06-18T19:47:48Z" updated_time="2014-06-18T19:47:48Z" scratch="false" x="89" y="51" clock="45" injury_time="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="13f6076b-2de3-4801-9c9c-1a037ace6ef0" type="substitution" time="2014-06-18T20:04:39Z" updated_time="2014-06-18T20:04:39Z" scratch="false" clock="46" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="1897c1dd-4fea-4808-9489-f2cb6c9d438f" player_in_id="0030db97-73fc-483d-ad7e-230b2544ead1">
+          <description>Koke is on a sub for Xabi Alonso for Spain.</description>
+        </fact>
+        <fact id="dc57b662-4669-4c2e-ae81-74a0b5646393" type="throwin" time="2014-06-18T20:05:57Z" updated_time="2014-06-18T20:05:57Z" scratch="false" x="33" y="98" clock="46" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in Spain.</description>
+        </fact>
+        <fact id="f099796f-a912-42bf-8afc-131af6a0f04a" type="goal_kick" time="2014-06-18T20:06:20Z" updated_time="2014-06-18T20:06:20Z" scratch="false" x="95" y="50" clock="46" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Goal kick for Chile at Estadio do Maracana.</description>
+        </fact>
+        <fact id="db64295a-eaa1-46f0-bdd0-150f08ae8728" type="shot_blocked" time="2014-06-18T20:07:47Z" updated_time="2014-06-18T20:07:47Z" scratch="false" x="96" y="97" clock="49" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Important block from the Chile defence as Diego Costa fires in a strike for Spain.</description>
+        </fact>
+        <fact id="8c82b0b7-06e8-4953-9d2d-337b2202358b" type="corner_kick" time="2014-06-18T20:08:20Z" updated_time="2014-06-18T20:08:43Z" scratch="false" x="95" y="90" clock="49" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="eefd02dc-cc7c-469f-b44a-8537f3bdafee" type="shot_off_target" time="2014-06-18T20:08:32Z" updated_time="2014-06-18T20:08:32Z" scratch="false" x="72" y="25" clock="49" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="314252ba-4bc9-43da-b1bd-9793afbc4f74">
+          <description>In Rio de Janeiro Spain attack through Jordi Alba. The finish is off target, however.</description>
+        </fact>
+        <fact id="133cfbb5-db54-4e84-8823-a84651fcbc34" type="goal_kick" time="2014-06-18T20:08:33Z" updated_time="2014-06-18T20:08:33Z" scratch="false" x="95" y="50" clock="49" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have a goal kick.</description>
+        </fact>
+        <fact id="22d949c9-88e7-467a-b12c-f8150070c8c2" type="throwin" time="2014-06-18T20:09:02Z" updated_time="2014-06-18T20:09:02Z" scratch="false" x="40" y="1" clock="49" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="c3196fce-fd35-4d6d-9a60-2bb98b97c54a" type="goal_kick" time="2014-06-18T20:09:30Z" updated_time="2014-06-18T20:09:30Z" scratch="false" x="95" y="50" clock="50" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball goes out of play for a Chile goal kick.</description>
+        </fact>
+        <fact id="7d0c315e-ee73-4cdd-a4f6-c46e5b3ac582" type="throwin" time="2014-06-18T20:10:28Z" updated_time="2014-06-18T20:10:28Z" scratch="false" x="37" y="1" clock="50" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="294d7a05-f3ed-42b9-9853-ffe33dd0a532" type="throwin" time="2014-06-18T20:10:48Z" updated_time="2014-06-18T20:10:48Z" scratch="false" x="77" y="1" clock="51" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Chile territory.</description>
+        </fact>
+        <fact id="a375567b-a642-4dca-aadd-2fe825229b65" type="free_kick" time="2014-06-18T20:10:57Z" updated_time="2014-06-18T20:10:57Z" scratch="false" x="76" y="43" clock="51" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="24f7c94d-e9b6-4f0a-8f41-288e9f0119f1" type="keeper_save" time="2014-06-18T20:12:08Z" updated_time="2014-06-18T20:12:08Z" scratch="false" x="76" y="43" clock="52" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="f67dfe31-9359-4e2b-8fcc-7f2c94910e96" type="shot_on_target" time="2014-06-18T20:12:08Z" updated_time="2014-06-18T20:12:08Z" scratch="false" x="76" y="43" clock="53" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4">
+          <description>Spain's Sergio Ramos gets in a shot on goal at Estadio do Maracana. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="5758381c-ad8e-4fad-9e7e-d714ca73504f" type="shot_off_target" time="2014-06-18T20:12:25Z" updated_time="2014-06-18T20:12:34Z" scratch="false" x="76" y="43" clock="53" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="01061c85-99f9-41aa-be97-43b080d40e75">
+          <description>Sergio Busquets (Spain) wins the ball in the air but heads wide.</description>
+        </fact>
+        <fact id="c8d8aefd-d397-4b0c-8fad-f21fa1d38742" type="goal_kick" time="2014-06-18T20:12:25Z" updated_time="2014-06-18T20:12:25Z" scratch="false" x="95" y="50" clock="53" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger awards Chile a goal kick.</description>
+        </fact>
+        <fact id="a8767033-0b61-47e7-a19b-bffac2f6d65d" type="throwin" time="2014-06-18T20:12:58Z" updated_time="2014-06-18T20:12:58Z" scratch="false" x="61" y="99" clock="53" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Can Spain get the ball into an attacking position from this throw-in in Chile's half?</description>
+        </fact>
+        <fact id="37040063-5c0f-46a8-b2ff-d7e7a9b72127" type="throwin" time="2014-06-18T20:14:28Z" updated_time="2014-06-18T20:14:28Z" scratch="false" x="59" y="0" clock="54" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a Spain throw-in in Chile's half.</description>
+        </fact>
+        <fact id="62e0633b-6797-4620-8512-6ed6d347fca2" type="throwin" time="2014-06-18T20:14:50Z" updated_time="2014-06-18T20:14:50Z" scratch="false" x="61" y="2" clock="55" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile at Estadio do Maracana.</description>
+        </fact>
+        <fact id="a4437f14-d24d-41ea-acb5-74acc6461f3b" type="injury" time="2014-06-18T20:15:19Z" updated_time="2014-06-18T20:15:19Z" scratch="false" x="61" y="2" clock="56" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="d2e450ae-4387-4812-a73e-ca624e1a16ff">
+          <description>Play has been interrupted briefly in Rio de Janeiro to check on Charles Aranguiz, who is grimacing with pain.</description>
+        </fact>
+        <fact id="c256f85a-9808-40c1-a692-098ebf368a8d" type="game_resumed" time="2014-06-18T20:16:33Z" updated_time="2014-06-18T20:16:33Z" scratch="false" clock="57">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="0fec0456-0ef2-49c4-9fea-ee9c24fc54a9" type="throwin" time="2014-06-18T20:17:01Z" updated_time="2014-06-18T20:17:01Z" scratch="false" x="25" y="1" clock="57" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Can Chile get the ball into an attacking position from this throw-in in Spain's half?</description>
+        </fact>
+        <fact id="c6ca1391-db7a-4c0c-a5e9-06a0d21b45b5" type="injury_return" time="2014-06-18T20:17:11Z" updated_time="2014-06-18T20:17:11Z" scratch="false" clock="57" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="d2e450ae-4387-4812-a73e-ca624e1a16ff">
+          <description>Charles Aranguiz is back on the pitch.</description>
+        </fact>
+        <fact id="b6e44c0d-e500-4852-90be-76bb882b7358" type="throwin" time="2014-06-18T20:17:29Z" updated_time="2014-06-18T20:17:29Z" scratch="false" x="64" y="2" clock="57" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain to take a throw-in in Chile territory.</description>
+        </fact>
+        <fact id="500afeed-9eac-46be-b47b-3647c6912461" type="throwin" time="2014-06-18T20:19:15Z" updated_time="2014-06-18T20:19:15Z" scratch="false" x="81" y="1" clock="59" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball safe as Chile is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="45c51cee-c1c4-49ac-99b8-95d5c1e0c900" type="free_kick" time="2014-06-18T20:19:47Z" updated_time="2014-06-18T20:19:47Z" scratch="false" x="59" y="76" clock="60" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="86a03fbb-7fda-4c78-a01c-f837a0ec4e2b" type="card" time="2014-06-18T20:19:55Z" updated_time="2014-06-18T20:19:55Z" scratch="false" clock="61" card="Y" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="e33301db-3ab3-401b-be57-404b2f6ba35d">
+          <description>Eugenio Mena (Chile) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="79605a47-6044-435c-abac-f42cfdcf1761" type="free_kick" time="2014-06-18T20:20:37Z" updated_time="2014-06-18T20:20:37Z" scratch="false" x="64" y="63" clock="61" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="5c472db7-c521-4d0c-ac0e-31f81b89a8fd" type="throwin" time="2014-06-18T20:22:43Z" updated_time="2014-06-18T20:22:43Z" scratch="false" x="66" y="99" clock="63" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in Chile.</description>
+        </fact>
+        <fact id="95b4c46f-ab46-4a2f-97aa-a2864e7e83a1" type="substitution" time="2014-06-18T20:22:54Z" updated_time="2014-06-18T20:22:54Z" scratch="false" clock="64" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="20e3486b-831c-4c13-810d-63008f9f6fe3" player_in_id="03d7e004-a738-417e-bfc8-6a0121748f3f">
+          <description>Spain make their second substitution with Fernando Torres replacing Diego Costa.</description>
+        </fact>
+        <fact id="6ccecc41-8a59-4f46-b9ef-75e26d01b1a7" type="substitution" time="2014-06-18T20:23:22Z" updated_time="2014-06-18T20:23:22Z" scratch="false" clock="64" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_out_id="d2e450ae-4387-4812-a73e-ca624e1a16ff" player_in_id="b632e44e-1429-4595-8ca3-a39ee7bde8af">
+          <description>Charles Aranguiz (Chile) does not seem to be able to continue. He is replaced by Felipe Gutierrez.</description>
+        </fact>
+        <fact id="aea167f0-17aa-475c-ad3c-f6be75dce81e" type="keeper_save" time="2014-06-18T20:23:38Z" updated_time="2014-06-18T20:23:38Z" scratch="false" x="10" y="65" clock="64" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44"/>
+        <fact id="5aae6423-7015-4d31-aec3-560b3fddf369" type="throwin" time="2014-06-18T20:24:19Z" updated_time="2014-06-18T20:24:19Z" scratch="false" x="57" y="2" clock="64" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile at Estadio do Maracana.</description>
+        </fact>
+        <fact id="b3ef01f3-0b0d-45d0-a637-abce77d84ec4" type="shot_on_target" time="2014-06-18T20:23:37Z" updated_time="2014-06-18T20:23:44Z" scratch="false" x="10" y="65" clock="65" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="86195b47-9a09-49e2-9488-b1e8e1c0507e">
+          <description>Chile's Eduardo Vargas is on target but unsuccessful.</description>
+        </fact>
+        <fact id="7ab9ddb7-84ab-4846-ae64-9136bfe2eebc" type="throwin" time="2014-06-18T20:24:56Z" updated_time="2014-06-18T20:24:56Z" scratch="false" x="27" y="99" clock="65" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="c63ded23-dde0-41a4-85fa-bdec25fa4ddd" type="throwin" time="2014-06-18T20:25:32Z" updated_time="2014-06-18T20:25:32Z" scratch="false" x="74" y="2" clock="66" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball safe as Chile is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="0b91cb22-a2e7-4d1b-9093-ca8974e7bca8" type="free_kick" time="2014-06-18T20:25:57Z" updated_time="2014-06-18T20:25:57Z" scratch="false" x="67" y="25" clock="66" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="38826361-74f9-4cf4-be68-6802c40bd335" type="throwin" time="2014-06-18T20:26:31Z" updated_time="2014-06-18T20:26:31Z" scratch="false" x="40" y="98" clock="67" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="02a55727-9634-42b3-a264-24d04660768b" type="shot_off_target" time="2014-06-18T20:27:35Z" updated_time="2014-06-18T20:27:35Z" scratch="false" x="14" y="55" clock="68" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="7389da24-007c-4b95-ae32-156ba050b626">
+          <description>Mauricio Isla for Chile gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="8c2fc3e0-435d-401b-aa2c-31d8fc0d619a" type="goal_kick" time="2014-06-18T20:27:35Z" updated_time="2014-06-18T20:27:35Z" scratch="false" x="5" y="50" clock="68" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Goal kick for Spain at Estadio do Maracana.</description>
+        </fact>
+        <fact id="886ed216-234a-41c0-8f19-494a25befbfd" type="throwin" time="2014-06-18T20:28:13Z" updated_time="2014-06-18T20:28:13Z" scratch="false" x="27" y="99" clock="68" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a Chile throw-in in Spain's half.</description>
+        </fact>
+        <fact id="af5a1fd2-8c3c-4e81-8170-cea67a4e7623" type="throwin" time="2014-06-18T20:28:40Z" updated_time="2014-06-18T20:28:40Z" scratch="false" x="68" y="0" clock="69" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Can Spain get the ball into an attacking position from this throw-in in Chile's half?</description>
+        </fact>
+        <fact id="1e2c5c9c-6537-412a-ab41-2bc1df60ba5e" type="shot_off_target" time="2014-06-18T20:29:43Z" updated_time="2014-06-18T20:29:43Z" scratch="false" x="25" y="86" clock="71" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_id="b632e44e-1429-4595-8ca3-a39ee7bde8af">
+          <description>Chile's Felipe Gutierrez attacks the ball with his head but his effort fails to hit the target.</description>
+        </fact>
+        <fact id="6a24beb9-afac-475d-ae02-699a5a268e58" type="goal_kick" time="2014-06-18T20:29:43Z" updated_time="2014-06-18T20:29:43Z" scratch="false" x="5" y="50" clock="71" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger awards Spain a goal kick.</description>
+        </fact>
+        <fact id="37e5f38d-6389-4f0e-8fac-6bcc3b95d5d1" type="throwin" time="2014-06-18T20:32:45Z" updated_time="2014-06-18T20:32:45Z" scratch="false" x="25" y="1" clock="73" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="13c15a01-817c-4299-8f36-449f6306204e" type="offside" time="2014-06-18T20:32:38Z" updated_time="2014-06-18T20:32:38Z" scratch="false" x="15" y="34" clock="74" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="2cb167b0-fa80-4896-af49-fce6dc7a7e97" type="throwin" time="2014-06-18T20:33:47Z" updated_time="2014-06-18T20:33:47Z" scratch="false" x="36" y="0" clock="74" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile to take a throw-in in Spain territory.</description>
+        </fact>
+        <fact id="bbc84a60-ef62-4ea7-80e8-769ad2c88443" type="throwin" time="2014-06-18T20:34:28Z" updated_time="2014-06-18T20:34:28Z" scratch="false" x="74" y="2" clock="74" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in Chile.</description>
+        </fact>
+        <fact id="5872ecff-3845-47c1-8c55-bf09736ba46c" type="substitution" time="2014-06-18T20:35:20Z" updated_time="2014-06-18T20:35:20Z" scratch="false" clock="76" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_out_id="0f439483-475c-4ebc-8ef6-bf6047340dc6" player_in_id="898df2e4-9341-43c4-94e3-96f6ef936508">
+          <description>Spain make their third substitution with Santi Cazorla replacing Pedro.</description>
+        </fact>
+        <fact id="6842a3d0-c729-4989-86f1-979a03608599" type="free_kick" time="2014-06-18T20:35:43Z" updated_time="2014-06-18T20:35:43Z" scratch="false" x="68" y="39" clock="76" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a free kick to Spain.</description>
+        </fact>
+        <fact id="7e4fbfe8-0bfe-4d9c-ba9c-714a8a2aec2a" type="throwin" time="2014-06-18T20:36:17Z" updated_time="2014-06-18T20:36:17Z" scratch="false" x="56" y="100" clock="76" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile at Estadio do Maracana.</description>
+        </fact>
+        <fact id="1c38a596-1e92-467e-845d-9f1d5d5cb13f" type="throwin" time="2014-06-18T20:36:32Z" updated_time="2014-06-18T20:36:32Z" scratch="false" x="61" y="99" clock="77" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Can Spain get the ball into an attacking position from this throw-in in Chile's half?</description>
+        </fact>
+        <fact id="6c8df805-989b-4420-ad7d-e45419fb8e0e" type="throwin" time="2014-06-18T20:37:02Z" updated_time="2014-06-18T20:37:02Z" scratch="false" x="79" y="99" clock="77" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a Spain throw-in in Chile's half.</description>
+        </fact>
+        <fact id="171efc0d-c2e7-424d-8a49-6babc9264d01" type="throwin" time="2014-06-18T20:37:26Z" updated_time="2014-06-18T20:37:26Z" scratch="false" x="55" y="100" clock="77" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Can Spain get the ball into an attacking position from this throw-in in Chile's half?</description>
+        </fact>
+        <fact id="0ff39623-a55e-4946-a4d6-8c6fa8f56318" type="keeper_save" time="2014-06-18T20:39:46Z" updated_time="2014-06-18T20:39:46Z" scratch="false" x="95" y="7" clock="80" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="276bbaad-3253-4d68-a07d-67ff911182bb" type="shot_on_target" time="2014-06-18T20:39:45Z" updated_time="2014-06-18T20:39:45Z" scratch="false" x="95" y="7" clock="81" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="898df2e4-9341-43c4-94e3-96f6ef936508">
+          <description>Santi Cazorla gets his shot on target but fails to score for Spain.</description>
+        </fact>
+        <fact id="179f4315-f5eb-49b3-9d5a-574d5efac3ac" type="corner_kick" time="2014-06-18T20:39:48Z" updated_time="2014-06-18T20:39:48Z" scratch="false" x="95" y="5" clock="81" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="1d242c91-4ae1-47ea-ad63-2f58fbb75a11" type="corner_kick" time="2014-06-18T20:40:02Z" updated_time="2014-06-18T20:40:02Z" scratch="false" x="95" y="5" clock="81" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="6f863830-6064-481d-9d20-1308a16f130e" type="game_resumed" time="2014-06-18T20:41:20Z" updated_time="2014-06-18T20:41:20Z" scratch="false" clock="81">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="f58bbb2d-c34a-4035-8222-eed21c162d49" type="injury_return" time="2014-06-18T20:41:23Z" updated_time="2014-06-18T20:41:23Z" scratch="false" clock="81" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="b20698f5-5adb-4183-9a71-2db9e8627d9a" type="injury" time="2014-06-18T20:40:59Z" updated_time="2014-06-18T20:40:59Z" scratch="false" x="90" y="69" clock="82" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="45c6b2cf-8028-419c-b468-de3fe53dbcdc" type="free_kick" time="2014-06-18T20:41:40Z" updated_time="2014-06-18T20:41:40Z" scratch="false" x="90" y="69" clock="82" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Mark Geiger signals a free kick to Chile in their own half.</description>
+        </fact>
+        <fact id="a6b6cad5-844b-460a-ab2f-828a6ad71dd8" type="free_kick" time="2014-06-18T20:42:46Z" updated_time="2014-06-18T20:42:46Z" scratch="false" x="69" y="59" clock="83" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Free kick Spain.</description>
+        </fact>
+        <fact id="ccc598df-d1e3-4943-9a18-785adbd01c3b" type="keeper_save" time="2014-06-18T20:43:12Z" updated_time="2014-06-18T20:43:12Z" scratch="false" x="95" y="95" clock="83" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="5ea8f27c-2d33-4fbc-81d3-234a22751e9b" type="shot_on_target" time="2014-06-18T20:43:12Z" updated_time="2014-06-18T20:43:12Z" scratch="false" x="95" y="95" clock="84" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="33e99add-6f13-4a68-abee-d26d3815a0f2">
+          <description>Spain push forward through Iniesta, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="1fe3a3e0-5115-463e-b3a7-130a353df818" type="substitution" time="2014-06-18T20:43:43Z" updated_time="2014-06-18T20:43:43Z" scratch="false" clock="84" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_out_id="86195b47-9a09-49e2-9488-b1e8e1c0507e" player_in_id="f64b0af4-4f3b-4906-b0bf-6e2144708c3e">
+          <description>Jorge Valdivia is on a sub for Eduardo Vargas for Chile.</description>
+        </fact>
+        <fact id="64823868-e0c8-4928-aea7-a6c9c6d09550" type="keeper_save" time="2014-06-18T20:44:14Z" updated_time="2014-06-18T20:44:14Z" scratch="false" x="91" y="50" clock="84" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="7ec937c0-9823-458b-9b1b-f54ec7d759f1" type="corner_kick" time="2014-06-18T20:44:05Z" updated_time="2014-06-18T20:44:05Z" scratch="false" x="95" y="90" clock="85" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="2664a1cf-31ee-4d1f-9eac-7df084e57525" type="shot_on_target" time="2014-06-18T20:44:13Z" updated_time="2014-06-18T20:44:18Z" scratch="false" x="91" y="50" clock="85" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4">
+          <description>Spain drive forward and Sergio Ramos gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="d6d2da67-b637-4dba-b812-d47f3110f6de" type="throwin" time="2014-06-18T20:44:38Z" updated_time="2014-06-18T20:44:38Z" scratch="false" x="9" y="1" clock="85" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="157d070f-3c3c-4674-971d-756154112391" type="throwin" time="2014-06-18T20:45:30Z" updated_time="2014-06-18T20:45:30Z" scratch="false" x="61" y="2" clock="86" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="422e4404-292a-4428-9afe-8c2e4b87b5fd" type="free_kick" time="2014-06-18T20:46:04Z" updated_time="2014-06-18T20:46:04Z" scratch="false" x="26" y="62" clock="86" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a free kick to Spain in their own half.</description>
+        </fact>
+        <fact id="4935e43e-a53f-4786-9f93-54e00f971d04" type="free_kick" time="2014-06-18T20:46:18Z" updated_time="2014-06-18T20:46:18Z" scratch="false" x="78" y="52" clock="86" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a free kick to Spain.</description>
+        </fact>
+        <fact id="d2757e5a-bd4c-4793-9b15-6e1e7b5f75a7" type="keeper_save" time="2014-06-18T20:47:27Z" updated_time="2014-06-18T20:47:27Z" scratch="false" x="95" y="96" clock="87" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0"/>
+        <fact id="036a9dc8-ccac-4f77-b17e-b341eb7d3fa6" type="substitution" time="2014-06-18T20:47:04Z" updated_time="2014-06-18T20:47:04Z" scratch="false" clock="88" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" player_out_id="51001a8e-bdba-4d69-8351-b02172e91aaa" player_in_id="592e55c3-0919-47ba-a0d4-0a8d7257f525">
+          <description>Chile make their third substitution with Carlos Carmona replacing Arturo Vidal.</description>
+        </fact>
+        <fact id="ac3650a6-7292-4ddf-b958-220e9580802e" type="shot_on_target" time="2014-06-18T20:47:27Z" updated_time="2014-06-18T20:47:27Z" scratch="false" x="95" y="96" clock="88" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="898df2e4-9341-43c4-94e3-96f6ef936508">
+          <description>Santi Cazorla for Spain drives towards goal at Estadio do Maracana. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="85b49a89-930c-440e-a7a0-e5d70abe17a4" type="corner_kick" time="2014-06-18T20:47:37Z" updated_time="2014-06-18T20:48:14Z" scratch="false" x="95" y="90" clock="88" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="6a683443-3f3a-4287-b965-6f350e0c447c" type="shot_off_target" time="2014-06-18T20:47:49Z" updated_time="2014-06-18T20:47:49Z" scratch="false" x="85" y="53" clock="89" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="939bc0c0-36c8-403d-be3c-28a7ab7d97b4">
+          <description>Spain are coming forward and Sergio Ramos gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="a61bf923-c446-455b-8673-7adc8f738671" type="goal_kick" time="2014-06-18T20:47:49Z" updated_time="2014-06-18T20:47:49Z" scratch="false" x="95" y="50" clock="89" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile have a goal kick.</description>
+        </fact>
+        <fact id="cdd035e8-ae0a-4290-863e-589d81fa4dfa" type="throwin" time="2014-06-18T20:49:34Z" updated_time="2014-06-18T20:49:34Z" scratch="false" x="64" y="2" clock="90" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Mark Geiger signals a Spain throw-in in Chile's half.</description>
+        </fact>
+        <fact id="88eace44-a682-4eb3-9072-3092f11f1e04" type="injury_time" time="2014-06-18T20:49:45Z" updated_time="2014-06-18T20:49:45Z" scratch="false" clock="90" injury_time="6" period="P2">
+          <description>At Estadio do Maracana the fourth official shows that 6 minutes will be added to the second half.</description>
+        </fact>
+        <fact id="fd8b15ef-ae54-4e64-ac59-3630a7449d6d" type="corner_kick" time="2014-06-18T20:50:33Z" updated_time="2014-06-18T20:50:33Z" scratch="false" x="95" y="90" clock="90" injury_time="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Spain have been awarded a corner by Mark Geiger.</description>
+        </fact>
+        <fact id="8a255edd-3417-4442-9b67-f2f2c8ce7bd4" type="shot_blocked" time="2014-06-18T20:50:56Z" updated_time="2014-06-18T20:50:56Z" scratch="false" x="91" y="64" clock="90" injury_time="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Sergio Ramos (Spain) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="663f3b46-f1c1-413f-a0a5-14b22d5f7947" type="corner_kick" time="2014-06-18T20:51:12Z" updated_time="2014-06-18T20:51:12Z" scratch="false" x="95" y="90" clock="90" injury_time="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Corner awarded to Spain.</description>
+        </fact>
+        <fact id="4aeb2c1a-8a57-40ad-b6fb-207ab2436c63" type="shot_off_target" time="2014-06-18T20:51:26Z" updated_time="2014-06-18T20:53:38Z" scratch="false" x="71" y="26" clock="90" injury_time="1" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44" player_id="314252ba-4bc9-43da-b1bd-9793afbc4f74">
+          <description>Spain's Jordi Alba gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="c970e714-03d6-4bac-a354-431a21e0d9e2" type="goal_kick" time="2014-06-18T20:51:26Z" updated_time="2014-06-18T20:51:26Z" scratch="false" x="95" y="50" clock="90" injury_time="1" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Ball goes out of play for a Chile goal kick.</description>
+        </fact>
+        <fact id="59604851-6503-420c-aeeb-dfb47797f45d" type="free_kick" time="2014-06-18T20:51:52Z" updated_time="2014-06-18T20:51:52Z" scratch="false" x="55" y="18" clock="90" injury_time="2" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="cde0a453-fc42-4777-8c11-ab10464d86f6" type="throwin" time="2014-06-18T20:52:37Z" updated_time="2014-06-18T20:52:37Z" scratch="false" x="40" y="98" clock="90" injury_time="3" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Throw-in for Spain in their own half.</description>
+        </fact>
+        <fact id="d36dfd19-f1fb-429f-aced-586368d0d21b" type="throwin" time="2014-06-18T20:52:49Z" updated_time="2014-06-18T20:52:49Z" scratch="false" x="39" y="99" clock="90" injury_time="3" team_id="7ed29820-2a75-4440-a7ab-3fb004887f44">
+          <description>Ball safe as Spain is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="11402ffa-9007-43da-ae82-7aa8e5308c87" type="throwin" time="2014-06-18T20:53:49Z" updated_time="2014-06-18T20:53:49Z" scratch="false" x="76" y="1" clock="90" injury_time="4" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Throw-in for Chile in their own half.</description>
+        </fact>
+        <fact id="20411056-0f15-4b3c-8740-741bc3bd8160" type="free_kick" time="2014-06-18T20:54:50Z" updated_time="2014-06-18T20:54:50Z" scratch="false" x="75" y="47" clock="90" injury_time="5" team_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0">
+          <description>Chile awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="facb773b-1d74-4863-9a41-1504a5f68c12" type="period_over" time="2014-06-18T20:55:35Z" updated_time="2014-06-18T20:55:35Z" scratch="false" home_score="0" away_score="2" period="P2">
+          <description>The match is over. Final score 0-2.</description>
+        </fact>
+        <fact id="b92d9e79-7705-403f-85d8-e4a70f841cbe" type="match_ended" time="2014-06-18T20:55:35Z" updated_time="2014-06-18T20:55:35Z" scratch="false" home_score="0" away_score="2" winner_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" draw="false"/>
+      </facts>
+      <!-- 4768726/4698/4754 -->
+    </match>
+  </matches>
+</summary>

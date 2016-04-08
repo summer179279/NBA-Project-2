@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:36:16Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="9613c694-9001-4448-872f-d5a02cb44137" status="closed" scratched="false" period="P2" scheduled="2014-06-15T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E"/>
+      <round week="24" number="1" type="table"/>
+      <home id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team" formation="4-2-3-1" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="94" ball_safe="96" corner_kicks="8" dangerous_attacks="47" fouls="9" free_kicks="19" goal_attempts="12" goal_kicks="10" offsides="1" saves="3" shots_total="12" substitutions="2" throw_ins="19" yellow_card="1" shots_on_target="6" shots_off_target="6" possessions="58"/>
+        <players>
+          <player id="0d9e6f25-7c8e-406b-b000-2757a7fc7284" country_code="CHE" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Mario" last_name="Gavranovic" country="Switzerland" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14996835-57dd-4561-9caa-e0ca3567bc9c" country_code="CHE" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Haris" last_name="Seferovic" country="Switzerland" jersey_number="9">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="29e1b880-e2f6-438f-905a-d86cd236c9e5" country_code="CHE" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Blerim" last_name="Dzemaili" country="Switzerland" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b7ca9cc9-d15c-4bdc-9c51-146d09d3ea39" country_code="CHE" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Steve" last_name="von Bergen" country="Switzerland" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="057da333-5669-448a-a9f5-785f63d913b5" country_code="CHE" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Valentin" last_name="Stocker" country="Switzerland" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="12ab0fff-3512-4ac3-8270-e95a16089d41" country_code="CHE" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Yann" last_name="Sommer" country="Switzerland" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="da8dd27a-15e8-4760-b59d-fa6e4f4e1347" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Lang" country="Switzerland" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="514ad874-f73a-413a-9384-da341b047955" country_code="CHE" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Johan" last_name="Djourou" country="Switzerland" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1d928915-decd-45f6-a9d9-67295770c0be" country_code="CHE" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Ricardo" last_name="Rodriguez" country="Switzerland" jersey_number="13">
+            <statistics goal="0" goal_assist="2" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="217ebd8f-41e9-411d-b5f1-b78137a89bcb" country_code="CHE" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Diego" last_name="Benaglio" country="Switzerland" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="19acbeff-10d6-4db3-ab79-54e83b6a0d62" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Reto" last_name="Ziegler" country="Switzerland" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5034cbf4-8a60-4d1c-9b08-8c3fc1440554" country_code="CHE" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Gelson" last_name="Fernandes" country="Switzerland" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="060ab1b3-7b27-41be-8e3a-45aa58abf4c2" country_code="CHE" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Josip" last_name="Drmic" country="Switzerland" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="cfc6233c-8fd0-41dd-bb06-e9831c0e0cf2" country_code="CHE" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Valon" last_name="Behrami" country="Switzerland" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9d7865ca-3793-4413-82ff-083430ba1f1b" country_code="CHE" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Granit" last_name="Xhaka" country="Switzerland" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="50513a81-1856-4a9a-9a9c-8658f543bbda" country_code="CHE" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Gokhan" last_name="Inler" country="Switzerland" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="073271b8-1602-4b10-a671-1bb2563539e5" country_code="CHE" position="F" started="false" tactical_position="7" tactical_order="10" first_name="Admir" last_name="Mehmedi" country="Switzerland" jersey_number="18">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8" country_code="CHE" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Xherdan" last_name="Shaqiri" country="Switzerland" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1bb8019e-dca6-4233-8c8e-48147f9d7ced" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Fabian" last_name="Schar" country="Switzerland" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="329f4c13-a5b1-4b7c-9cf8-1fa38166d2da" country_code="CHE" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Stephan" last_name="Lichtsteiner" country="Switzerland" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1a0cee30-9221-4fbb-9179-146601c3eec8" country_code="CHE" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Philippe" last_name="Senderos" country="Switzerland" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1cc043af-4310-41ff-85c8-b0bb415e4ca5" country_code="CHE" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Tranquillo" last_name="Barnetta" country="Switzerland" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e35d11ed-2168-41f2-986d-af25e0889c13" country_code="CHE" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Roman" last_name="Burki" country="Switzerland" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team" formation="4-4-2" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="80" ball_safe="79" corner_kicks="5" dangerous_attacks="46" fouls="15" free_kicks="10" goal_attempts="8" goal_kicks="13" offsides="4" saves="4" shots_total="8" substitutions="2" throw_ins="28" yellow_card="1" shots_on_target="4" shots_off_target="4" possessions="42"/>
+        <players>
+          <player id="74334a35-6fc5-4a45-b96a-ce7bf7e86a19" country_code="ECU" position="M" started="false" tactical_position="7" tactical_order="9" first_name="Joao" last_name="Rojas" country="Ecuador" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="25c7602c-0122-4a4b-ba99-d867449d3c89" country_code="ECU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Luis" last_name="Saritama" country="Ecuador" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="919209bc-f821-4336-9564-f26dede06974" country_code="ECU" position="M" started="true" tactical_position="5" tactical_order="6" first_name="Antonio" last_name="Valencia" country="Ecuador" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5c535937-17dc-43c5-8153-909cef6019ee" country_code="ECU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Oscar" last_name="Bagui" country="Ecuador" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="03419e81-2530-4496-8642-a9ec490862aa" country_code="ECU" position="F" started="true" tactical_position="6" tactical_order="7" first_name="Carlos" last_name="Gruezo" country="Ecuador" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b97f4484-63e6-4d94-b1d1-9aec6fbdf5d3" country_code="ECU" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Walter" last_name="Ayovi" country="Ecuador" jersey_number="10">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="39002399-4078-4d5c-88bc-3da93dcb1db8" country_code="ECU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Adrian" last_name="Bone" country="Ecuador" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c2e74117-d695-4d67-9a90-77fad818188a" country_code="ECU" position="M" started="true" tactical_position="7" tactical_order="9" first_name="Jefferson" last_name="Montero" country="Ecuador" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="db136e2d-4305-4c01-865a-cff10c8e1752" country_code="ECU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Oswaldo" last_name="Minda" country="Ecuador" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4a8f9fe1-27cf-4c89-afe0-428fcfeabbe2" country_code="ECU" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Felipe" last_name="Caicedo" country="Ecuador" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="03e9aecd-3feb-46e1-b602-bebbcd070cfc" country_code="ECU" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Juan Carlos" last_name="Paredes" country="Ecuador" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5788e7f3-2262-4534-ad01-cc57c273e3d8" country_code="ECU" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Christian" last_name="Noboa" country="Ecuador" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7e91aab1-fd56-4bfd-a5b8-2c5f6ed5eff4" country_code="ECU" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Frickson" last_name="Erazo" country="Ecuador" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="194b7879-e2db-49c8-99e8-f62c18633896" country_code="ECU" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Jorge" last_name="Guagua" country="Ecuador" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8c473a41-14de-432d-b01a-a2705bf15797" country_code="ECU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Renato" last_name="Ibarra" country="Ecuador" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b23a7e0b-0381-448a-8d95-15031f530b53" country_code="ECU" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Gabriel" last_name="Achilier" country="Ecuador" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="288784fd-2fe2-40c7-b9d8-7601c17d67c9" country_code="ECU" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Michael" last_name="Arroyo" country="Ecuador" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="12db7e3d-f3da-422a-bae0-aa598f586b3e" country_code="ECU" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Alexander" last_name="Dominguez" country="Ecuador" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e33603db-7be9-41eb-b474-3604b1525e0a" country_code="ECU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Fidel" last_name="Martinez" country="Ecuador" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="79837c2f-3017-4514-8808-338ab52727a8" country_code="ECU" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jaime" last_name="Ayovi" country="Ecuador" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8de96b84-63ef-4fcc-b894-944b9a54cb2b" country_code="ECU" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Maximo" last_name="Banguera" country="Ecuador" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a7f8343a-bbc7-4299-a0c7-0a06eacab8a9" country_code="ECU" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Enner" last_name="Valencia" country="Ecuador" jersey_number="13">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0a0c3945-ff8d-48c5-8913-c123bf9477b4" country_code="ECU" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Edison" last_name="Mendez" country="Ecuador" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249"/>
+      <facts>
+        <fact id="bb321541-f978-4f52-aa91-44fafcef17c1" type="match_started" time="2014-06-15T16:00:14Z" updated_time="2014-06-15T16:00:14Z" scratch="false" clock="1" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>The first-half is just kicking off.</description>
+        </fact>
+        <fact id="95f5ec20-1975-4790-82f1-3602bec1b12b" type="period_started" time="2014-06-15T16:00:14Z" updated_time="2014-06-15T16:00:14Z" scratch="false" period="P1"/>
+        <fact id="f28629e2-edc4-49c6-9b3a-9d34749f445e" type="corner_kick" time="2014-06-15T16:00:42Z" updated_time="2014-06-15T16:00:42Z" scratch="false" x="5" y="5" clock="1" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Corner awarded to Ecuador.</description>
+        </fact>
+        <fact id="ee476e8b-3025-4eb4-84fb-216a09d201fa" type="free_kick" time="2014-06-15T16:01:03Z" updated_time="2014-06-15T16:01:03Z" scratch="false" x="24" y="42" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a free kick to Switzerland in their own half.</description>
+        </fact>
+        <fact id="0340e9fa-5d7d-4b78-bd6d-0db23cef1da3" type="throwin" time="2014-06-15T16:01:36Z" updated_time="2014-06-15T16:01:36Z" scratch="false" x="21" y="99" clock="1" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in Switzerland.</description>
+        </fact>
+        <fact id="5253d72f-a18d-4a2e-a00a-595716af8971" type="goal_kick" time="2014-06-15T16:01:47Z" updated_time="2014-06-15T16:01:47Z" scratch="false" x="5" y="50" clock="1" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="99e21f61-d9e5-4829-bdbe-e2d26558c024" type="throwin" time="2014-06-15T16:02:23Z" updated_time="2014-06-15T16:02:23Z" scratch="false" x="40" y="2" clock="2" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Can Ecuador get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="05ff88d8-fc24-4b70-861a-b82384c445d7" type="throwin" time="2014-06-15T16:02:48Z" updated_time="2014-06-15T16:02:48Z" scratch="false" x="46" y="1" clock="2" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="6dbd07af-61f0-4e28-a9dc-82dd245945bb" type="free_kick" time="2014-06-15T16:03:10Z" updated_time="2014-06-15T16:03:10Z" scratch="false" x="24" y="18" clock="2" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Free kick Ecuador.</description>
+        </fact>
+        <fact id="95b1c0cb-8ca2-4b9a-9a2c-f4942efd7542" type="goal_kick" time="2014-06-15T16:04:43Z" updated_time="2014-06-15T16:04:43Z" scratch="false" x="5" y="50" clock="4" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball goes out of play for a Switzerland goal kick.</description>
+        </fact>
+        <fact id="6ba1f2e3-87a0-45c3-b336-958b7b054a12" type="corner_kick" time="2014-06-15T16:04:29Z" updated_time="2014-06-15T16:04:29Z" scratch="false" x="5" y="90" clock="5" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="73a50bdf-76b5-40a5-9795-71e912dbe813" type="goal_kick" time="2014-06-15T16:05:46Z" updated_time="2014-06-15T16:05:46Z" scratch="false" x="95" y="50" clock="5" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Goal kick for Ecuador at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="fd26339b-ca70-4f65-be33-dbb409ae921a" type="free_kick" time="2014-06-15T16:06:44Z" updated_time="2014-06-15T16:06:44Z" scratch="false" x="37" y="16" clock="6" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="35bc53db-1cd2-43b7-acd8-603aa97b6530" type="throwin" time="2014-06-15T16:07:40Z" updated_time="2014-06-15T16:07:40Z" scratch="false" x="68" y="99" clock="7" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a Switzerland throw-in in Ecuador's half.</description>
+        </fact>
+        <fact id="eb617f91-1d52-4e9d-b689-1da4a7cc5acc" type="throwin" time="2014-06-15T16:07:50Z" updated_time="2014-06-15T16:07:50Z" scratch="false" x="71" y="99" clock="7" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in for Ecuador at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="f5ecdb2f-1832-4183-be02-37c7c8a6dbe1" type="goal_kick" time="2014-06-15T16:08:47Z" updated_time="2014-06-15T16:08:47Z" scratch="false" x="95" y="50" clock="8" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov awards Ecuador a goal kick.</description>
+        </fact>
+        <fact id="1381ca57-64b0-4c96-8dc5-61b1320dca3d" type="throwin" time="2014-06-15T16:10:37Z" updated_time="2014-06-15T16:10:37Z" scratch="false" x="16" y="98" clock="10" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="b8f02ef6-0646-46b4-9221-b727a52b73c4" type="free_kick" time="2014-06-15T16:11:01Z" updated_time="2014-06-15T16:11:01Z" scratch="false" x="44" y="77" clock="10" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a free kick to Switzerland in their own half.</description>
+        </fact>
+        <fact id="6f7b3148-a1f6-4885-b12c-85e4e0061210" type="throwin" time="2014-06-15T16:11:34Z" updated_time="2014-06-15T16:11:34Z" scratch="false" x="40" y="66" clock="11" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball safe as Switzerland is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="1c23b112-7fb2-4493-abfd-7c0e6943e3e5" type="throwin" time="2014-06-15T16:12:12Z" updated_time="2014-06-15T16:12:12Z" scratch="false" x="85" y="2" clock="11" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in for Ecuador in their own half.</description>
+        </fact>
+        <fact id="2aa8976c-92ca-4760-939e-8c8de68b86f2" type="goal_kick" time="2014-06-15T16:10:21Z" updated_time="2014-06-15T16:12:44Z" scratch="false" x="95" y="50" clock="13" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Goal kick for Ecuador at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="d2e1ed91-1ded-4a8a-aec9-322bc25a5fef" type="shot_off_target" time="2014-06-15T16:12:44Z" updated_time="2014-06-15T16:12:50Z" scratch="false" x="82" y="31" clock="13" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="9d7865ca-3793-4413-82ff-083430ba1f1b">
+          <description>Granit Xhaka for Switzerland gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="3ba4bfe8-518e-42b2-858d-e7cdd565ad9d" type="throwin" time="2014-06-15T16:13:29Z" updated_time="2014-06-15T16:13:29Z" scratch="false" x="35" y="1" clock="13" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="a424f611-9482-4650-90f9-f6ecdd34d40e" type="offside" time="2014-06-15T16:14:00Z" updated_time="2014-06-15T16:14:05Z" scratch="false" x="14" y="35" clock="14" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="4a8f9fe1-27cf-4c89-afe0-428fcfeabbe2">
+          <description>In Brasilia Ecuador's Felipe Caicedo is caught offside.</description>
+        </fact>
+        <fact id="1edb47c3-faaa-4eaa-aff3-dd5240141788" type="free_kick" time="2014-06-15T16:14:36Z" updated_time="2014-06-15T16:14:36Z" scratch="false" x="65" y="99" clock="14" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="54f4155e-d353-4264-948e-9184d9e028a5" type="throwin" time="2014-06-15T16:15:02Z" updated_time="2014-06-15T16:15:02Z" scratch="false" x="27" y="98" clock="14" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="2df32c1e-1a75-4a2e-8c8b-069253ea7e61" type="throwin" time="2014-06-15T16:15:33Z" updated_time="2014-06-15T16:15:33Z" scratch="false" x="87" y="1" clock="15" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland capitalize from this throw-in deep inside Ecuador's half?</description>
+        </fact>
+        <fact id="40464587-30c9-48df-881c-6d9b940af762" type="keeper_save" time="2014-06-15T16:15:52Z" updated_time="2014-06-15T16:15:52Z" scratch="false" x="82" y="58" clock="15" team_id="221a5554-3961-426d-ae64-76061bceeeba"/>
+        <fact id="1ec40cab-1f68-492d-ae36-bd36d6ffa894" type="shot_on_target" time="2014-06-15T16:15:52Z" updated_time="2014-06-15T16:16:01Z" scratch="false" x="82" y="58" clock="16" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8">
+          <description>Switzerland push forward through Xherdan Shaqiri, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="9762e76a-7d66-4273-bf38-d2b7f9db0569" type="throwin" time="2014-06-15T16:16:47Z" updated_time="2014-06-15T16:16:47Z" scratch="false" x="47" y="0" clock="16" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland in their own half.</description>
+        </fact>
+        <fact id="dede1bd8-0fcf-4ce4-8b60-fbf87ba64c1f" type="free_kick" time="2014-06-15T16:17:32Z" updated_time="2014-06-15T16:17:32Z" scratch="false" x="18" y="78" clock="17" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="5830a2db-3548-4c7e-9850-9771122ca3c7" type="goal_kick" time="2014-06-15T16:18:04Z" updated_time="2014-06-15T16:18:04Z" scratch="false" x="95" y="50" clock="17" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador have a goal kick.</description>
+        </fact>
+        <fact id="f006fe99-986c-4013-a94b-49228129ae28" type="shot_blocked" time="2014-06-15T16:17:28Z" updated_time="2014-06-15T16:17:48Z" scratch="false" x="18" y="78" clock="18" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Enner Valencia (Ecuador) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="4ad3e3fc-889a-4f5a-856b-06ee02d213d6" type="keeper_save" time="2014-06-15T16:19:18Z" updated_time="2014-06-15T16:19:18Z" scratch="false" x="97" y="3" clock="19" team_id="221a5554-3961-426d-ae64-76061bceeeba"/>
+        <fact id="66506340-e069-487a-b66b-b48a820b55e0" type="throwin" time="2014-06-15T16:19:32Z" updated_time="2014-06-15T16:19:32Z" scratch="false" x="95" y="1" clock="19" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland close to the penalty box.</description>
+        </fact>
+        <fact id="64a6e2f2-336f-497d-b458-2a47ac31f433" type="throwin" time="2014-06-15T16:20:04Z" updated_time="2014-06-15T16:20:04Z" scratch="false" x="62" y="1" clock="19" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ball safe as Ecuador is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="7c626d00-31dd-4289-a04b-1a019285d2d3" type="shot_on_target" time="2014-06-15T16:19:18Z" updated_time="2014-06-15T16:19:22Z" scratch="false" x="97" y="3" clock="20" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="1d928915-decd-45f6-a9d9-67295770c0be">
+          <description>Ricardo Rodriguez gets his shot on target but fails to score for Switzerland.</description>
+        </fact>
+        <fact id="f012bca4-8873-404a-b6d2-3525b8d7baa2" type="corner_kick" time="2014-06-15T16:19:26Z" updated_time="2014-06-15T16:21:18Z" scratch="false" x="95" y="5" clock="20" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="c51c9ad0-9973-4a6c-8657-763bf4bf08ac" type="throwin" time="2014-06-15T16:20:27Z" updated_time="2014-06-15T16:20:27Z" scratch="false" x="29" y="98" clock="20" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in Switzerland.</description>
+        </fact>
+        <fact id="1d83dde0-2c5f-494f-8a56-980685ee2234" type="throwin" time="2014-06-15T16:20:51Z" updated_time="2014-06-15T16:20:51Z" scratch="false" x="34" y="99" clock="20" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="9967e7c9-efbb-4b2a-bec7-be7f70964f31" type="free_kick" time="2014-06-15T16:21:02Z" updated_time="2014-06-15T16:21:02Z" scratch="false" x="15" y="83" clock="20" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="d02dff9c-442c-4ec5-bf5e-fb4a8cd1b8fb" type="goal" time="2014-06-15T16:21:56Z" updated_time="2014-06-15T16:21:56Z" scratch="false" clock="22" home_score="0" away_score="1" penalty="false" owngoal="false" header="true" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="a7f8343a-bbc7-4299-a0c7-0a06eacab8a9" assist1_id="b97f4484-63e6-4d94-b1d1-9aec6fbdf5d3">
+          <description>Walter Ayovi instrumental with a fine assist.</description>
+        </fact>
+        <fact id="9b8ace77-d5b5-4273-8197-5ea3c13c764e" type="shot_blocked" time="2014-06-15T16:24:40Z" updated_time="2014-06-15T16:24:40Z" scratch="false" x="95" y="93" clock="25" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland drive upfield and Xherdan Shaqiri gets in a shot. The strike is blocked by a Ecuador defender.</description>
+        </fact>
+        <fact id="47f91a41-30f1-4981-a863-a18b31ad9cb9" type="corner_kick" time="2014-06-15T16:25:05Z" updated_time="2014-06-15T16:25:05Z" scratch="false" x="95" y="90" clock="25" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Corner awarded to Switzerland.</description>
+        </fact>
+        <fact id="767b269d-1dfa-4ed6-9c06-2b08c8545332" type="corner_kick" time="2014-06-15T16:27:31Z" updated_time="2014-06-15T16:27:31Z" scratch="false" x="95" y="90" clock="28" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="fe2c7b10-abf0-43cd-911f-1ca27f5c6ad8" type="shot_off_target" time="2014-06-15T16:27:39Z" updated_time="2014-06-15T16:27:46Z" scratch="false" x="95" y="90" clock="28" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="057da333-5669-448a-a9f5-785f63d913b5">
+          <description>Switzerland attack but Valentin Stocker's header doesn't find the target.</description>
+        </fact>
+        <fact id="46c33a36-f09c-40ec-b094-f891cbe2820e" type="goal_kick" time="2014-06-15T16:27:40Z" updated_time="2014-06-15T16:27:40Z" scratch="false" x="95" y="50" clock="28" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov awards Ecuador a goal kick.</description>
+        </fact>
+        <fact id="15d08112-819d-4004-9e86-86626e234c89" type="offside" time="2014-06-15T16:28:22Z" updated_time="2014-06-15T16:28:55Z" scratch="false" x="18" y="84" clock="29" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="a7f8343a-bbc7-4299-a0c7-0a06eacab8a9">
+          <description>Ravshan Irmatov blows against Ecuador's Enner Valencia for offside.</description>
+        </fact>
+        <fact id="173a46d5-091e-4053-b54e-e79ed0081219" type="throwin" time="2014-06-15T16:29:59Z" updated_time="2014-06-15T16:29:59Z" scratch="false" x="84" y="1" clock="29" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ball safe as Ecuador is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="bda16a08-a589-4a37-a5cb-01c67fe7bd51" type="corner_kick" time="2014-06-15T16:31:22Z" updated_time="2014-06-15T16:33:56Z" scratch="false" x="95" y="5" clock="31" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Corner awarded to Switzerland.</description>
+        </fact>
+        <fact id="18141938-8688-4010-97f0-3d94a4269d37" type="throwin" time="2014-06-15T16:31:30Z" updated_time="2014-06-15T16:31:30Z" scratch="false" x="92" y="99" clock="31" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9615b89b-ad3e-4e5f-aca6-7efb8c41f3bf" type="free_kick" time="2014-06-15T16:31:51Z" updated_time="2014-06-15T16:31:51Z" scratch="false" x="73" y="65" clock="31" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="71a8f115-fc4b-463c-8924-2d5b3bb8b5be" type="corner_kick" time="2014-06-15T16:33:27Z" updated_time="2014-06-15T16:33:27Z" scratch="false" x="95" y="90" clock="33" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="172005d3-a5af-4ef0-8acd-65e87a9969c8" type="keeper_save" time="2014-06-15T16:33:39Z" updated_time="2014-06-15T16:33:39Z" scratch="false" x="95" y="90" clock="33" team_id="221a5554-3961-426d-ae64-76061bceeeba"/>
+        <fact id="014f2bb3-be70-4c33-b7eb-d017a483a97e" type="free_kick" time="2014-06-15T16:34:10Z" updated_time="2014-06-15T16:34:10Z" scratch="false" x="36" y="41" clock="33" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a free kick to Switzerland in their own half.</description>
+        </fact>
+        <fact id="f2d07f70-6bea-495a-a712-76f32d276384" type="shot_on_target" time="2014-06-15T16:33:38Z" updated_time="2014-06-15T16:33:38Z" scratch="false" x="95" y="90" clock="34" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="cfc6233c-8fd0-41dd-bb06-e9831c0e0cf2">
+          <description>Valon Behrami (Switzerland) gets in a powerful header but the ball is cleared away.</description>
+        </fact>
+        <fact id="5d499e7c-0469-44d2-8f64-f3afe0cf15b4" type="shot_blocked" time="2014-06-15T16:34:43Z" updated_time="2014-06-15T16:34:43Z" scratch="false" x="95" y="35" clock="35" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>In Brasilia, Xherdan Shaqiri of Switzerland is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="6e817ac8-2565-432f-907a-67a73933a638" type="keeper_save" time="2014-06-15T16:36:21Z" updated_time="2014-06-15T16:36:21Z" scratch="false" x="97" y="94" clock="36" team_id="221a5554-3961-426d-ae64-76061bceeeba"/>
+        <fact id="e61ac69c-d37e-4f2c-9be6-c3909a5f3d29" type="shot_on_target" time="2014-06-15T16:36:21Z" updated_time="2014-06-15T16:37:38Z" scratch="false" x="97" y="94" clock="37" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="50513a81-1856-4a9a-9a9c-8658f543bbda">
+          <description>Gokhan Inler for Switzerland drives towards goal at Estadio Nacional de Brasilia . But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="2929ac0d-9823-4e7a-8b9e-a278f414cd62" type="corner_kick" time="2014-06-15T16:36:40Z" updated_time="2014-06-15T16:36:40Z" scratch="false" x="95" y="90" clock="37" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Corner awarded to Switzerland.</description>
+        </fact>
+        <fact id="af53e999-5c33-434a-adb6-6e4828d90a60" type="throwin" time="2014-06-15T16:37:24Z" updated_time="2014-06-15T16:37:24Z" scratch="false" x="22" y="1" clock="37" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="41320c3f-073f-493a-bcbf-471915ac4373" type="free_kick" time="2014-06-15T16:37:42Z" updated_time="2014-06-15T16:37:42Z" scratch="false" x="61" y="57" clock="37" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a free kick to Switzerland.</description>
+        </fact>
+        <fact id="cbaaddff-7603-404d-a1d0-c3f918628bc2" type="shot_off_target" time="2014-06-15T16:38:07Z" updated_time="2014-06-15T16:41:26Z" scratch="false" x="79" y="36" clock="38" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="9d7865ca-3793-4413-82ff-083430ba1f1b">
+          <description>Switzerland's Granit Xhaka gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="f92b8947-ee0d-41eb-ac04-4e05a29dbd42" type="throwin" time="2014-06-15T16:38:40Z" updated_time="2014-06-15T16:38:40Z" scratch="false" x="91" y="1" clock="38" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in for Ecuador in their own half.</description>
+        </fact>
+        <fact id="66f65872-51f5-42c8-a305-1fdc963e837c" type="throwin" time="2014-06-15T16:39:07Z" updated_time="2014-06-15T16:39:07Z" scratch="false" x="61" y="1" clock="38" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a Switzerland throw-in in Ecuador's half.</description>
+        </fact>
+        <fact id="a5afb61f-9206-4164-9c7a-68aaf8b0f5d8" type="corner_kick" time="2014-06-15T16:38:31Z" updated_time="2014-06-15T16:38:31Z" scratch="false" x="95" y="90" clock="39" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="e77ea7bc-f0f7-4b8f-8833-d0b847a58922" type="free_kick" time="2014-06-15T16:40:01Z" updated_time="2014-06-15T16:40:01Z" scratch="false" x="65" y="53" clock="39" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Free kick Switzerland.</description>
+        </fact>
+        <fact id="57346fa8-a15e-4dd2-912f-e73e1ef12bac" type="goal_kick" time="2014-06-15T16:38:08Z" updated_time="2014-06-15T16:41:10Z" scratch="false" x="95" y="50" clock="40" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ball goes out of play for a Ecuador goal kick.</description>
+        </fact>
+        <fact id="ad2ee2d8-d34f-4e7a-b76e-d0af5a4e8eba" type="free_kick" time="2014-06-15T16:40:24Z" updated_time="2014-06-15T16:40:24Z" scratch="false" x="84" y="93" clock="40" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a free kick to Switzerland just outside Ecuador's area.</description>
+        </fact>
+        <fact id="9a8a7e3e-1860-42b8-add4-c25ff18f8563" type="throwin" time="2014-06-15T16:41:46Z" updated_time="2014-06-15T16:41:46Z" scratch="false" x="42" y="2" clock="41" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Can Ecuador get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="2fdb33b5-a6f8-4145-b58e-b64d97007f62" type="goal_kick" time="2014-06-15T16:42:03Z" updated_time="2014-06-15T16:42:03Z" scratch="false" x="5" y="50" clock="41" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="f05621a8-ee00-4829-a95a-5a12e9bdaca2" type="throwin" time="2014-06-15T16:42:33Z" updated_time="2014-06-15T16:42:33Z" scratch="false" x="63" y="99" clock="42" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in Ecuador.</description>
+        </fact>
+        <fact id="a4fa1461-99fd-46ec-921a-25465fe6f7be" type="throwin" time="2014-06-15T16:43:39Z" updated_time="2014-06-15T16:43:39Z" scratch="false" x="29" y="99" clock="43" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov signals a Ecuador throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="adf0e80f-bde9-4ff6-a1d6-6574909881eb" type="throwin" time="2014-06-15T16:43:57Z" updated_time="2014-06-15T16:43:57Z" scratch="false" x="25" y="99" clock="43" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="b754b48c-0245-4462-8b3d-4daaab7300b6" type="shot_blocked" time="2014-06-15T16:43:21Z" updated_time="2014-06-15T16:43:27Z" scratch="false" x="16" y="84" clock="44" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Jefferson Montero (Ecuador) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="15e1d7c3-e4e2-41d6-b5ea-c9e8e89f2554" type="free_kick" time="2014-06-15T16:44:23Z" updated_time="2014-06-15T16:44:23Z" scratch="false" x="20" y="66" clock="44" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="b2566e0c-667d-41e7-a1de-3a3725e0d5f8" type="free_kick" time="2014-06-15T16:45:02Z" updated_time="2014-06-15T16:45:02Z" scratch="false" x="83" y="27" clock="44" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov signals a free kick to Ecuador in their own half.</description>
+        </fact>
+        <fact id="410d136f-f992-41df-804c-14609478ecf0" type="throwin" time="2014-06-15T16:45:41Z" updated_time="2014-06-15T16:45:41Z" scratch="false" x="21" y="99" clock="45" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Can Ecuador get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="a0cb5d4c-7bd3-4d9a-b7bc-69e44d6bb1f9" type="shot_off_target" time="2014-06-15T16:46:31Z" updated_time="2014-06-15T16:46:36Z" scratch="false" x="21" y="65" clock="45" injury_time="1" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="b97f4484-63e6-4d94-b1d1-9aec6fbdf5d3">
+          <description>Ecuador are pushing forward but Walter Ayovi's finish is wide of the goal.</description>
+        </fact>
+        <fact id="a95fcd9e-9546-439b-80cf-f7ff841eafea" type="period_started" time="2014-06-15T16:46:45Z" updated_time="2014-06-15T16:46:45Z" scratch="false" period="H"/>
+        <fact id="d69d2ba7-6d2f-40ca-86bc-e040a46eee90" type="period_started" time="2014-06-15T17:01:51Z" updated_time="2014-06-15T17:01:51Z" scratch="false" period="P2"/>
+        <fact id="a938cdfa-ff15-487e-af3e-edb40ce3a0be" type="throwin" time="2014-06-15T17:02:01Z" updated_time="2014-06-15T17:02:01Z" scratch="false" x="53" y="99" clock="45" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ball safe as Ecuador is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="bd93dce3-a8be-4225-91b2-188b2cc1adf4" type="injury_time" time="2014-06-15T16:45:20Z" updated_time="2014-06-15T16:45:20Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>Ravshan Irmatov will wait an extra 1 minutes before blowing the whistle to end the first half.</description>
+        </fact>
+        <fact id="c5e63bd9-dac0-45c3-a07a-d0a6a98d316c" type="corner_kick" time="2014-06-15T16:46:21Z" updated_time="2014-06-15T16:46:21Z" scratch="false" x="5" y="90" clock="45" injury_time="1" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Corner awarded to Ecuador.</description>
+        </fact>
+        <fact id="717ab6a3-b9b4-45be-985e-ea68c969cda8" type="goal_kick" time="2014-06-15T16:46:31Z" updated_time="2014-06-15T16:46:31Z" scratch="false" x="5" y="50" clock="45" injury_time="1" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball goes out of play for a Switzerland goal kick.</description>
+        </fact>
+        <fact id="1afdb7e9-f00b-4561-85ef-a2801efdde2c" type="period_over" time="2014-06-15T16:46:45Z" updated_time="2014-06-15T16:46:45Z" scratch="false" home_score="0" away_score="1" period="P1">
+          <description>The first-half has come to a close in Brasilia.</description>
+        </fact>
+        <fact id="64ce0d16-8956-417b-981a-073a9f23a7fd" type="substitution" time="2014-06-15T17:02:35Z" updated_time="2014-06-15T17:02:35Z" scratch="false" clock="46" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_out_id="057da333-5669-448a-a9f5-785f63d913b5" player_in_id="073271b8-1602-4b10-a671-1bb2563539e5">
+          <description>Admir Mehmedi is on a sub for Valentin Stocker for Switzerland.</description>
+        </fact>
+        <fact id="58352ab2-bad9-4a8f-a80f-b0456d10bfe7" type="shot_off_target" time="2014-06-15T17:03:20Z" updated_time="2014-06-15T17:05:32Z" scratch="false" x="77" y="58" clock="47" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="329f4c13-a5b1-4b7c-9cf8-1fa38166d2da">
+          <description>Switzerland's Stephan Lichtsteiner breaks free at Estadio Nacional de Brasilia . But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="10ee2f5f-9b32-46b1-ac8b-8c1d9b72a0f2" type="goal_kick" time="2014-06-15T17:03:20Z" updated_time="2014-06-15T17:03:20Z" scratch="false" x="95" y="50" clock="47" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov awards Ecuador a goal kick.</description>
+        </fact>
+        <fact id="64e043bf-f714-438a-9205-2aebf9375a1b" type="corner_kick" time="2014-06-15T17:03:46Z" updated_time="2014-06-15T17:03:46Z" scratch="false" x="95" y="5" clock="47" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have been awarded a corner by Ravshan Irmatov.</description>
+        </fact>
+        <fact id="415a8396-b85d-44a7-a7df-b2af921a6a1a" type="goal" time="2014-06-15T17:04:13Z" updated_time="2014-06-15T17:04:13Z" scratch="false" x="92" y="56" clock="48" home_score="1" away_score="1" penalty="false" owngoal="false" header="true" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="073271b8-1602-4b10-a671-1bb2563539e5" assist1_id="1d928915-decd-45f6-a9d9-67295770c0be">
+          <description>That's a fine assist from Ricardo Rodriguez.</description>
+        </fact>
+        <fact id="13551714-dafc-4d61-98ab-84485d078d24" type="shot_off_target" time="2014-06-15T17:05:22Z" updated_time="2014-06-15T17:05:39Z" scratch="false" x="75" y="46" clock="49" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="50513a81-1856-4a9a-9a9c-8658f543bbda">
+          <description>In Brasilia Switzerland attack through Gokhan Inler. The finish is off target, however.</description>
+        </fact>
+        <fact id="26bb01b6-86a6-4491-8892-841bdd022dc9" type="goal_kick" time="2014-06-15T17:05:23Z" updated_time="2014-06-15T17:05:23Z" scratch="false" x="95" y="50" clock="49" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Goal kick for Ecuador at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="cfd048d5-7892-41c1-b8fe-4c5feeca44bd" type="free_kick" time="2014-06-15T17:06:56Z" updated_time="2014-06-15T17:06:56Z" scratch="false" x="18" y="90" clock="50" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Switzerland will need to be alert as they defend a dangerous free kick from Ecuador.</description>
+        </fact>
+        <fact id="d7faec62-fd33-4c2f-93ad-776c55fcdc1e" type="throwin" time="2014-06-15T17:08:41Z" updated_time="2014-06-15T17:08:41Z" scratch="false" x="38" y="1" clock="51" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="0859aec6-4f9e-45ce-9daa-8d3580fd4cd2" type="shot_off_target" time="2014-06-15T17:08:02Z" updated_time="2014-06-15T17:08:11Z" scratch="false" x="18" y="90" clock="52" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="7e91aab1-fd56-4bfd-a5b8-2c5f6ed5eff4">
+          <description>Ecuador surge into the attack at Estadio Nacional de Brasilia  but Frickson Erazo’s header is off-target.</description>
+        </fact>
+        <fact id="e75f4e27-6ad6-4da2-83d4-1a9b5b5ce77b" type="goal_kick" time="2014-06-15T17:08:03Z" updated_time="2014-06-15T17:08:03Z" scratch="false" x="5" y="50" clock="52" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Goal kick for Switzerland at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="d4793a87-6d58-4814-85ca-699b244405af" type="free_kick" time="2014-06-15T17:09:07Z" updated_time="2014-06-15T17:09:07Z" scratch="false" x="41" y="54" clock="52" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c4279415-bd1b-4b15-bfe1-9d6de0fc7ac7" type="card" time="2014-06-15T17:09:17Z" updated_time="2014-06-15T17:09:17Z" scratch="false" clock="53" card="Y" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="03e9aecd-3feb-46e1-b602-bebbcd070cfc">
+          <description>Juan Carlos Paredes for Ecuador has been booked by Ravshan Irmatov and receives a first yellow card.</description>
+        </fact>
+        <fact id="0ff46eff-1bbf-4443-8fc2-c254129946ef" type="goal_kick" time="2014-06-15T17:11:43Z" updated_time="2014-06-15T17:11:43Z" scratch="false" x="5" y="50" clock="54" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="5f29513c-b993-43ab-9cb6-a621bc8e8faf" type="free_kick" time="2014-06-15T17:12:40Z" updated_time="2014-06-15T17:12:40Z" scratch="false" x="62" y="44" clock="55" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov signals a free kick to Ecuador in their own half.</description>
+        </fact>
+        <fact id="d7a4268f-75e1-4df3-890d-21870fa4f2b1" type="corner_kick" time="2014-06-15T17:13:10Z" updated_time="2014-06-15T17:13:16Z" scratch="false" x="5" y="90" clock="57" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Corner awarded to Ecuador.</description>
+        </fact>
+        <fact id="78729510-86e4-4403-92ee-b9ea19b2688a" type="shot_off_target" time="2014-06-15T17:13:21Z" updated_time="2014-06-15T17:13:29Z" scratch="false" x="5" y="90" clock="57" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="03419e81-2530-4496-8642-a9ec490862aa">
+          <description>Carlos Gruezo for Ecuador gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="1fc961c6-9978-4d68-a0d0-cfcce3e70e21" type="goal_kick" time="2014-06-15T17:13:22Z" updated_time="2014-06-15T17:13:22Z" scratch="false" x="5" y="50" clock="57" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov awards Switzerland a goal kick.</description>
+        </fact>
+        <fact id="a757bdc6-a512-4926-9939-23dd021e4e1f" type="throwin" time="2014-06-15T17:14:46Z" updated_time="2014-06-15T17:14:46Z" scratch="false" x="28" y="98" clock="57" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="db00c00b-d292-4447-9900-836a0c367250" type="shot_blocked" time="2014-06-15T17:14:22Z" updated_time="2014-06-15T17:14:35Z" scratch="false" x="86" y="82" clock="58" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Important block from the Ecuador defence as Admir Mehmedi fires in a strike for Switzerland.</description>
+        </fact>
+        <fact id="2ba63c30-acdf-436f-9496-261e74cea4d1" type="throwin" time="2014-06-15T17:15:17Z" updated_time="2014-06-15T17:15:17Z" scratch="false" x="48" y="1" clock="58" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland in their own half.</description>
+        </fact>
+        <fact id="3eb3d2ec-be7a-4c0a-8d44-6f0ae598706a" type="shot_off_target" time="2014-06-15T17:16:21Z" updated_time="2014-06-15T17:20:55Z" scratch="false" x="22" y="63" clock="59" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="a7f8343a-bbc7-4299-a0c7-0a06eacab8a9">
+          <description>Ecuador's Enner Valencia gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="1d72e0f6-919f-40e1-9359-78a86f88f14d" type="goal_kick" time="2014-06-15T17:16:21Z" updated_time="2014-06-15T17:16:21Z" scratch="false" x="5" y="50" clock="59" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ball goes out of play for a Switzerland goal kick.</description>
+        </fact>
+        <fact id="fdea28a6-2a13-48b6-991d-f90a49fbbab3" type="throwin" time="2014-06-15T17:17:10Z" updated_time="2014-06-15T17:17:10Z" scratch="false" x="14" y="100" clock="60" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Switzerland needs to be cautious. Ecuador have an attacking throw-in.</description>
+        </fact>
+        <fact id="a5d9e6a5-8493-4499-b4a2-d6be776e8e15" type="keeper_save" time="2014-06-15T17:17:32Z" updated_time="2014-06-15T17:17:32Z" scratch="false" x="22" y="50" clock="60" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="71efb486-7966-47fc-8a43-16b20c2da4c6" type="shot_on_target" time="2014-06-15T17:17:32Z" updated_time="2014-06-15T17:17:39Z" scratch="false" x="22" y="50" clock="61" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="5788e7f3-2262-4534-ad01-cc57c273e3d8">
+          <description>In Brasilia Ecuador drive forward through Christian Noboa. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="bc1ea3a2-561e-45cd-90e2-8e8dfa73080b" type="throwin" time="2014-06-15T17:18:14Z" updated_time="2014-06-15T17:18:14Z" scratch="false" x="90" y="1" clock="61" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in Ecuador.</description>
+        </fact>
+        <fact id="919a1f80-7c75-4d95-860f-c3a9dc241e86" type="goal_kick" time="2014-06-15T17:18:53Z" updated_time="2014-06-15T17:18:53Z" scratch="false" x="95" y="50" clock="62" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador have a goal kick.</description>
+        </fact>
+        <fact id="7537721c-8bae-4aa7-a226-cb10a5b89427" type="free_kick" time="2014-06-15T17:19:45Z" updated_time="2014-06-15T17:19:45Z" scratch="false" x="37" y="45" clock="62" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a2ea5bb5-58ea-4c9c-a728-cdf1e41996bc" type="throwin" time="2014-06-15T17:20:21Z" updated_time="2014-06-15T17:20:21Z" scratch="false" x="30" y="1" clock="63" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="c4553330-4b17-462d-9911-bd73047592eb" type="throwin" time="2014-06-15T17:20:31Z" updated_time="2014-06-15T17:20:31Z" scratch="false" x="37" y="1" clock="63" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Can Ecuador get the ball into an attacking position from this throw-in in Switzerland's half?</description>
+        </fact>
+        <fact id="743ade26-9200-496a-9122-467c3c0e1938" type="goal_kick" time="2014-06-15T17:20:41Z" updated_time="2014-06-15T17:20:41Z" scratch="false" x="5" y="50" clock="63" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Goal kick for Switzerland at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="dee9e81e-5e8e-4fe7-8d46-c63d6a2e77d4" type="goal_kick" time="2014-06-15T17:21:24Z" updated_time="2014-06-15T17:21:24Z" scratch="false" x="95" y="50" clock="64" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ball goes out of play for a Ecuador goal kick.</description>
+        </fact>
+        <fact id="746e218c-c978-478e-90dc-46ba8b730c18" type="keeper_save" time="2014-06-15T17:22:30Z" updated_time="2014-06-15T17:22:30Z" scratch="false" x="5" y="92" clock="65" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="e0ed4e3e-4cd8-4dd3-a82d-7500322b1fb9" type="shot_on_target" time="2014-06-15T17:22:30Z" updated_time="2014-06-15T17:22:30Z" scratch="false" x="5" y="92" clock="66" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="c2e74117-d695-4d67-9a90-77fad818188a">
+          <description>Ecuador's Jefferson Montero is on target but unsuccessful.</description>
+        </fact>
+        <fact id="07abd953-6d20-4f2c-8f58-ed33d93a3a13" type="corner_kick" time="2014-06-15T17:22:51Z" updated_time="2014-06-15T17:22:51Z" scratch="false" x="5" y="90" clock="66" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Corner awarded to Ecuador.</description>
+        </fact>
+        <fact id="2c7af0c0-512f-4a04-ab00-089775deb6d6" type="offside" time="2014-06-15T17:23:06Z" updated_time="2014-06-15T17:23:14Z" scratch="false" x="18" y="68" clock="67" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="7e91aab1-fd56-4bfd-a5b8-2c5f6ed5eff4">
+          <description>Ecuador's Frickson Erazo has run offside.</description>
+        </fact>
+        <fact id="245d9a42-6e4d-41c0-acfb-daf7bab2b808" type="throwin" time="2014-06-15T17:25:08Z" updated_time="2014-06-15T17:25:08Z" scratch="false" x="13" y="99" clock="68" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador have a dangerous throw-in.</description>
+        </fact>
+        <fact id="ec9f9d7a-51df-40e2-81fe-cce4daac3042" type="shot_blocked" time="2014-06-15T17:25:48Z" updated_time="2014-06-15T17:25:48Z" scratch="false" x="76" y="47" clock="69" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Granit Xhaka (Switzerland) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="7481f4c8-eaac-471c-91cb-62fb4d81d36a" type="offside" time="2014-06-15T17:26:07Z" updated_time="2014-06-15T17:30:40Z" scratch="false" x="81" y="22" clock="70" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="060ab1b3-7b27-41be-8e3a-45aa58abf4c2">
+          <description>Switzerland drive forward but Josip Drmic is judged offside.</description>
+        </fact>
+        <fact id="a39b1f73-6dde-402d-9430-80e8b77f5f39" type="substitution" time="2014-06-15T17:26:21Z" updated_time="2014-06-15T17:26:21Z" scratch="false" clock="70" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_out_id="4a8f9fe1-27cf-4c89-afe0-428fcfeabbe2" player_in_id="288784fd-2fe2-40c7-b9d8-7601c17d67c9">
+          <description>Michael Arroyo is replacing Felipe Caicedo for Ecuador at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="f4734c16-0b89-4008-975d-ba5e8feb03c1" type="throwin" time="2014-06-15T17:27:09Z" updated_time="2014-06-15T17:27:09Z" scratch="false" x="51" y="2" clock="70" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a Switzerland throw-in in Ecuador's half.</description>
+        </fact>
+        <fact id="7a24c628-57cb-4b98-9883-f1fb8cd694a8" type="goal_kick" time="2014-06-15T17:28:21Z" updated_time="2014-06-15T17:28:21Z" scratch="false" x="95" y="50" clock="71" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov awards Ecuador a goal kick.</description>
+        </fact>
+        <fact id="0bbd144b-d2e6-4577-b196-4aed36fff91c" type="shot_off_target" time="2014-06-15T17:29:13Z" updated_time="2014-06-15T17:29:13Z" scratch="false" x="79" y="50" clock="73" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="07850aa6-f8b9-4bd2-a40c-17c12c1270f8">
+          <description>In Brasilia Switzerland attack through Xherdan Shaqiri. The finish is off target, however.</description>
+        </fact>
+        <fact id="5fe8ac5b-3b9b-4f59-8bf5-a5d598a7eaba" type="goal_kick" time="2014-06-15T17:29:13Z" updated_time="2014-06-15T17:29:13Z" scratch="false" x="95" y="50" clock="73" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Goal kick for Ecuador at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="cbaf8e88-02c1-4aeb-b407-b35b567f4cbb" type="throwin" time="2014-06-15T17:29:59Z" updated_time="2014-06-15T17:29:59Z" scratch="false" x="22" y="2" clock="73" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov signals a Ecuador throw-in in Switzerland's half.</description>
+        </fact>
+        <fact id="fa8b713b-43be-4df6-84cc-c126f411d0ea" type="throwin" time="2014-06-15T17:30:26Z" updated_time="2014-06-15T17:30:26Z" scratch="false" x="29" y="98" clock="73" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9a9fdec2-71ef-400e-921e-0d3f4abde329" type="throwin" time="2014-06-15T17:31:18Z" updated_time="2014-06-15T17:31:18Z" scratch="false" x="16" y="98" clock="74" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov signals a throw-in for Ecuador, close to Switzerland's area.</description>
+        </fact>
+        <fact id="c4e361f4-59a3-4ed5-9de1-4270bbe9f0f4" type="substitution" time="2014-06-15T17:31:32Z" updated_time="2014-06-15T17:31:32Z" scratch="false" clock="75" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_out_id="060ab1b3-7b27-41be-8e3a-45aa58abf4c2" player_in_id="14996835-57dd-4561-9caa-e0ca3567bc9c">
+          <description>Switzerland make their second substitution with Haris Seferovic replacing Josip Drmic.</description>
+        </fact>
+        <fact id="c82c1175-89c4-40b0-b005-9b16087c59ef" type="goal_kick" time="2014-06-15T17:32:11Z" updated_time="2014-06-15T17:32:11Z" scratch="false" x="5" y="50" clock="75" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland have a goal kick.</description>
+        </fact>
+        <fact id="c354069d-94c6-4cc7-a148-c688ddde5ce7" type="substitution" time="2014-06-15T17:32:35Z" updated_time="2014-06-15T17:32:35Z" scratch="false" clock="76" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_out_id="c2e74117-d695-4d67-9a90-77fad818188a" player_in_id="74334a35-6fc5-4a45-b96a-ce7bf7e86a19">
+          <description>Ecuador make their second substitution with Joao Rojas replacing Jefferson Montero.</description>
+        </fact>
+        <fact id="6570830a-479d-4e77-b595-69cf7245db2f" type="throwin" time="2014-06-15T17:33:20Z" updated_time="2014-06-15T17:33:20Z" scratch="false" x="59" y="98" clock="76" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in for Ecuador at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="6fea8b2a-f92f-49ea-a007-c6cbffe3b619" type="throwin" time="2014-06-15T17:34:21Z" updated_time="2014-06-15T17:34:21Z" scratch="false" x="67" y="99" clock="77" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in Ecuador.</description>
+        </fact>
+        <fact id="c0578cf0-f3d4-46fb-bb3d-507ab4373819" type="throwin" time="2014-06-15T17:35:38Z" updated_time="2014-06-15T17:35:38Z" scratch="false" x="86" y="1" clock="78" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ball safe as Ecuador is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="532af30d-4b18-4e96-9d71-895b5e93f24b" type="free_kick" time="2014-06-15T17:36:32Z" updated_time="2014-06-15T17:36:32Z" scratch="false" x="79" y="23" clock="79" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Free kick Switzerland.</description>
+        </fact>
+        <fact id="39fb355a-92be-4bd2-abb7-a864b1ce3acb" type="free_kick" time="2014-06-15T17:38:17Z" updated_time="2014-06-15T17:38:17Z" scratch="false" x="38" y="23" clock="81" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov signals a free kick to Ecuador.</description>
+        </fact>
+        <fact id="3a905e16-ad9e-4f25-95db-04561b5e6fc3" type="shot_blocked" time="2014-06-15T17:38:04Z" updated_time="2014-06-15T17:38:32Z" scratch="false" x="79" y="23" clock="82" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland push forward at Estadio Nacional de Brasilia  and Xherdan Shaqiri gets in a strike. This is blocked, however, by a determined Ecuador defence.</description>
+        </fact>
+        <fact id="30267cba-806b-40bf-9805-3b39056180db" type="offside" time="2014-06-15T17:38:47Z" updated_time="2014-06-15T17:38:52Z" scratch="false" x="20" y="87" clock="82" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="74334a35-6fc5-4a45-b96a-ce7bf7e86a19">
+          <description>Ecuador's Joao Rojas is whistled for offside at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="11da7176-5a48-4cb1-9297-04f8ddad0898" type="throwin" time="2014-06-15T17:39:06Z" updated_time="2014-06-15T17:39:06Z" scratch="false" x="78" y="1" clock="82" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Can Switzerland get the ball into an attacking position from this throw-in in Ecuador's half?</description>
+        </fact>
+        <fact id="23e95687-6a4b-481b-8b14-91e9fd20b725" type="free_kick" time="2014-06-15T17:40:37Z" updated_time="2014-06-15T17:40:37Z" scratch="false" x="25" y="72" clock="83" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ravshan Irmatov signals a free kick to Ecuador.</description>
+        </fact>
+        <fact id="70497d1b-a2fc-4e25-b484-bd1817f9e247" type="card" time="2014-06-15T17:40:46Z" updated_time="2014-06-15T17:40:46Z" scratch="false" clock="84" card="Y" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="514ad874-f73a-413a-9384-da341b047955">
+          <description>Johan Djourou (Switzerland) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="a8b3f3d9-3197-4d4f-86a2-a0f77eddfc85" type="free_kick" time="2014-06-15T17:41:42Z" updated_time="2014-06-15T17:41:42Z" scratch="false" x="19" y="72" clock="84" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Can Ecuador capitalize from this dangerous free kick?</description>
+        </fact>
+        <fact id="75ebda0a-abbf-4784-a7c1-892ee89adb69" type="keeper_save" time="2014-06-15T17:42:50Z" updated_time="2014-06-15T17:42:50Z" scratch="false" x="19" y="72" clock="85" team_id="45f3d732-c627-40cc-ae79-160a581876ca"/>
+        <fact id="a38411fb-ef0c-4f9e-ac0d-5c261d577ab7" type="shot_on_target" time="2014-06-15T17:42:50Z" updated_time="2014-06-15T17:44:09Z" scratch="false" x="19" y="72" clock="86" team_id="221a5554-3961-426d-ae64-76061bceeeba" player_id="288784fd-2fe2-40c7-b9d8-7601c17d67c9">
+          <description>Ecuador's Michael Arroyo gets in a shot on goal at Estadio Nacional de Brasilia . But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="8ffc6256-c9a3-4bf8-a0f6-2ff68968831b" type="throwin" time="2014-06-15T17:42:54Z" updated_time="2014-06-15T17:42:54Z" scratch="false" x="16" y="2" clock="86" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Switzerland needs to be cautious. Ecuador have an attacking throw-in.</description>
+        </fact>
+        <fact id="98b75250-5a84-4d1c-b0bc-d9baa8ea1908" type="free_kick" time="2014-06-15T17:43:19Z" updated_time="2014-06-15T17:43:19Z" scratch="false" x="47" y="38" clock="86" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Ravshan Irmatov signals a free kick to Switzerland in their own half.</description>
+        </fact>
+        <fact id="73c14eb7-220a-4a58-9441-9036304f5606" type="goal_kick" time="2014-06-15T17:43:46Z" updated_time="2014-06-15T17:43:46Z" scratch="false" x="95" y="50" clock="86" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ball goes out of play for a Ecuador goal kick.</description>
+        </fact>
+        <fact id="6485babb-0a64-4365-9b94-4964a9589eaf" type="throwin" time="2014-06-15T17:44:52Z" updated_time="2014-06-15T17:44:52Z" scratch="false" x="17" y="98" clock="88" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Throw-in for Switzerland in their own half.</description>
+        </fact>
+        <fact id="41fa0807-c25f-46a8-8107-d7e2df3cd88d" type="throwin" time="2014-06-15T17:45:14Z" updated_time="2014-06-15T17:45:14Z" scratch="false" x="35" y="98" clock="88" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Ecuador to take a throw-in in Switzerland territory.</description>
+        </fact>
+        <fact id="6b421bdb-038c-4aa0-916e-d34f1062e7f0" type="free_kick" time="2014-06-15T17:46:19Z" updated_time="2014-06-15T17:46:19Z" scratch="false" x="33" y="69" clock="89" team_id="45f3d732-c627-40cc-ae79-160a581876ca">
+          <description>Switzerland awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="90a28ec1-a460-47bb-ad86-2e330334b6cc" type="injury_time" time="2014-06-15T17:46:55Z" updated_time="2014-06-15T17:46:55Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>3 minutes will be added to the second half in Brasilia.</description>
+        </fact>
+        <fact id="0a07056e-3d54-4254-9d39-3fad05f3421d" type="throwin" time="2014-06-15T17:48:21Z" updated_time="2014-06-15T17:48:21Z" scratch="false" x="63" y="99" clock="90" injury_time="1" team_id="221a5554-3961-426d-ae64-76061bceeeba">
+          <description>Throw-in Ecuador.</description>
+        </fact>
+        <fact id="7a67225a-28de-45f4-95a2-47a0328eb6e3" type="goal" time="2014-06-15T17:49:42Z" updated_time="2014-06-15T17:49:42Z" scratch="false" clock="90" injury_time="2" home_score="2" away_score="1" penalty="false" owngoal="false" header="false" team_id="45f3d732-c627-40cc-ae79-160a581876ca" player_id="14996835-57dd-4561-9caa-e0ca3567bc9c" assist1_id="1d928915-decd-45f6-a9d9-67295770c0be">
+          <description>Ricardo Rodriguez with an assist there.</description>
+        </fact>
+        <fact id="c303148d-ce84-44ab-bb63-f2e6ba57aeac" type="period_over" time="2014-06-15T17:50:42Z" updated_time="2014-06-15T17:50:42Z" scratch="false" home_score="2" away_score="1" period="P2">
+          <description>The match has come to a close in Brasilia. The final score is 2-1.</description>
+        </fact>
+        <fact id="0bb716ac-7ef4-49bd-b525-6de440368446" type="match_ended" time="2014-06-15T17:50:42Z" updated_time="2014-06-15T17:50:42Z" scratch="false" home_score="2" away_score="1" winner_id="45f3d732-c627-40cc-ae79-160a581876ca" draw="false"/>
+      </facts>
+      <!-- 4768758/4699/4757 -->
+    </match>
+  </matches>
+</summary>

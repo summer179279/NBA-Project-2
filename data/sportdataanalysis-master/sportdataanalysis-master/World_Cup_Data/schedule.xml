@@ -1,0 +1,676 @@
+<schedule xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-schedule.xsd" generated="2014-07-13T07:23:25Z">
+    <matches>
+        <match id="dc3acf1b-dfb9-43bc-b7c9-f42626b66b51" status="closed" scratched="false" scheduled="2014-06-12T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A" season_start="2014-06-11T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" />
+            <away id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team" />
+            <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372" />
+            <round week="24" number="1" type="table" />
+            <!--  4768710/4748/4715  -->
+        </match>
+        <match id="d4f14940-be18-4d2d-8464-b0fea10f2e79" status="closed" scratched="false" scheduled="2014-06-13T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A" season_start="2014-06-11T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team" />
+            <away id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team" />
+            <venue id="b9894f99-1373-4311-937a-214a6eda8f6f" name="Estadio das Dunas" country_code="BRA" city="Natal" capacity="39971" country="Brazil" coordinates="-5.826733,-35.212467" />
+            <round week="24" number="1" type="table" />
+            <!--  4768712/4781/4751  -->
+        </match>
+        <match id="03702fc0-6f31-4b66-aeef-ffff98cc033b" status="closed" scratched="false" scheduled="2014-06-13T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B" season_start="2014-06-12T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team" />
+            <away id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" />
+            <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157" />
+            <round week="24" number="1" type="table" />
+            <!--  4768722/4698/4705  -->
+        </match>
+        <match id="af79d0ae-ff8f-46a8-ae6f-08cdb16d8cd0" status="closed" scratched="false" scheduled="2014-06-13T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B" season_start="2014-06-12T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" />
+            <away id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team" />
+            <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513" />
+            <round week="24" number="1" type="table" />
+            <!--  4768724/4754/4741  -->
+        </match>
+        <match id="191cc03e-4e54-4f43-8de7-9e90d50b4d17" status="closed" scratched="false" scheduled="2014-06-14T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" />
+            <away id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team" />
+            <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385" />
+            <round week="24" number="1" type="table" />
+            <!--  4768734/4820/4710  -->
+        </match>
+        <match id="c4d7aece-bfdb-4c2d-a821-fbb38210fbaf" status="closed" scratched="false" scheduled="2014-06-14T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team" />
+            <away id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" />
+            <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542" />
+            <round week="24" number="1" type="table" />
+            <!--  4768746/4725/4756  -->
+        </match>
+        <match id="cf413059-955b-4470-b368-b24407e7c019" status="closed" scratched="false" scheduled="2014-06-14T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="c655b728-adf8-4a6b-a091-f36765d518b3" name="England" alias="ENG" country_code="ENG" country="England" type="team" />
+            <away id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team" />
+            <venue id="27a95916-e1f4-4174-aa96-876d7ebe4f19" name="Arena Amazonia" country_code="BRA" city="Manaus" capacity="40549" country="Brazil" coordinates="-3.083260,-60.028107" />
+            <round week="24" number="1" type="table" />
+            <!--  4768748/4713/4707  -->
+        </match>
+        <match id="dbe1746f-6275-41f8-afff-f293e4baa277" status="closed" scratched="false" scheduled="2014-06-15T01:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team" />
+            <away id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team" />
+            <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257" />
+            <round week="24" number="1" type="table" />
+            <!--  4768736/4768/4770  -->
+        </match>
+        <match id="9613c694-9001-4448-872f-d5a02cb44137" status="closed" scratched="false" scheduled="2014-06-15T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team" />
+            <away id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team" />
+            <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249" />
+            <round week="24" number="1" type="table" />
+            <!--  4768758/4699/4757  -->
+        </match>
+        <match id="98135852-fb73-4551-8856-fa0fac50182c" status="closed" scratched="false" scheduled="2014-06-15T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" />
+            <away id="f68fcef3-42f2-4031-983e-81c0b79801d5" name="Honduras" alias="HON" country_code="HND" country="Honduras" type="team" />
+            <venue id="d060ef40-9286-4712-8586-cc594cb60875" name="Estadio Beira-Rio" country_code="BRA" city="Porto Alegre" capacity="43394" country="Brazil" coordinates="-30.065417,-51.235891" />
+            <round week="24" number="1" type="table" />
+            <!--  4768760/4481/4827  -->
+        </match>
+        <match id="25ecdac9-453a-4057-9858-fe214e10a391" status="closed" scratched="false" scheduled="2014-06-15T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" />
+            <away id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia  Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team" />
+            <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210" />
+            <round week="24" number="1" type="table" />
+            <!--  4768770/4819/4479  -->
+        </match>
+        <match id="33f6fb10-e9d7-4904-8940-7f7f01b60d21" status="closed" scratched="false" scheduled="2014-06-16T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G" season_start="2014-06-15T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" />
+            <away id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team" />
+            <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157" />
+            <round week="25" number="1" type="table" />
+            <!--  4768782/4711/4704  -->
+        </match>
+        <match id="45ecc96a-01ed-4cee-a138-81f2b9573a0b" status="closed" scratched="false" scheduled="2014-06-16T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team" />
+            <away id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team" />
+            <venue id="8c5f1637-5cb1-4c7c-a498-80f9706e3726" name="Arena da Baixada" country_code="BRA" city="Curitiba" capacity="39631" country="Brazil" coordinates="-25.448186,-49.276866" />
+            <round week="25" number="1" type="table" />
+            <!--  4768772/4766/4785  -->
+        </match>
+        <match id="0e3ca2d9-6285-45e5-a1da-f3ce1a77d80a" status="closed" scratched="false" scheduled="2014-06-16T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G" season_start="2014-06-15T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team" />
+            <away id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" />
+            <venue id="b9894f99-1373-4311-937a-214a6eda8f6f" name="Estadio das Dunas" country_code="BRA" city="Natal" capacity="39971" country="Brazil" coordinates="-5.826733,-35.212467" />
+            <round week="25" number="1" type="table" />
+            <!--  4768784/4764/4724  -->
+        </match>
+        <match id="6679d81b-5056-4fe7-9e7d-96afc9b608d8" status="closed" scratched="false" scheduled="2014-06-17T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H" season_start="2014-06-16T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team" />
+            <away id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team" />
+            <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385" />
+            <round week="25" number="1" type="table" />
+            <!--  4768794/4717/4691  -->
+        </match>
+        <match id="839afcad-8196-4862-8ae1-495a8f2e351e" status="closed" scratched="false" scheduled="2014-06-17T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A" season_start="2014-06-11T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" />
+            <away id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team" />
+            <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542" />
+            <round week="25" number="2" type="table" />
+            <!--  4768714/4748/4781  -->
+        </match>
+        <match id="06422ac7-f6a5-4ed5-ab00-417c4902665c" status="closed" scratched="false" scheduled="2014-06-17T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H" season_start="2014-06-16T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team" />
+            <away id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team" />
+            <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513" />
+            <round week="25" number="1" type="table" />
+            <!--  4768796/4694/4735  -->
+        </match>
+        <match id="1b595125-220f-4619-aad2-d1d0659a84f1" status="closed" scratched="false" scheduled="2014-06-18T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B" season_start="2014-06-12T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team" />
+            <away id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" />
+            <venue id="d060ef40-9286-4712-8586-cc594cb60875" name="Estadio Beira-Rio" country_code="BRA" city="Porto Alegre" capacity="43394" country="Brazil" coordinates="-30.065417,-51.235891" />
+            <round week="25" number="2" type="table" />
+            <!--  4768728/4741/4705  -->
+        </match>
+        <match id="bc377b5a-2940-4651-a7f1-ddac74d0be5a" status="closed" scratched="false" scheduled="2014-06-18T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B" season_start="2014-06-12T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team" />
+            <away id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" />
+            <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210" />
+            <round week="25" number="2" type="table" />
+            <!--  4768726/4698/4754  -->
+        </match>
+        <match id="d512e77e-f3a8-417c-bca3-d4e893e5133b" status="closed" scratched="false" scheduled="2014-06-18T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A" season_start="2014-06-11T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team" />
+            <away id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team" />
+            <venue id="27a95916-e1f4-4174-aa96-876d7ebe4f19" name="Arena Amazonia" country_code="BRA" city="Manaus" capacity="40549" country="Brazil" coordinates="-3.083260,-60.028107" />
+            <round week="25" number="2" type="table" />
+            <!--  4768716/4751/4715  -->
+        </match>
+        <match id="1f0adb6d-83ce-4606-a203-3881183024a0" status="closed" scratched="false" scheduled="2014-06-19T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" />
+            <away id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team" />
+            <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249" />
+            <round week="25" number="2" type="table" />
+            <!--  4768738/4820/4768  -->
+        </match>
+        <match id="457c04a5-ce7c-4429-8d51-59ae1d237eb1" status="closed" scratched="false" scheduled="2014-06-19T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team" />
+            <away id="c655b728-adf8-4a6b-a091-f36765d518b3" name="England" alias="ENG" country_code="ENG" country="England" type="team" />
+            <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372" />
+            <round week="25" number="2" type="table" />
+            <!--  4768750/4725/4713  -->
+        </match>
+        <match id="6a0c97db-8c26-43fa-b146-2277afe5cc1e" status="closed" scratched="false" scheduled="2014-06-19T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team" />
+            <away id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team" />
+            <venue id="b9894f99-1373-4311-937a-214a6eda8f6f" name="Estadio das Dunas" country_code="BRA" city="Natal" capacity="39971" country="Brazil" coordinates="-5.826733,-35.212467" />
+            <round week="25" number="2" type="table" />
+            <!--  4768740/4770/4710  -->
+        </match>
+        <match id="3b9ccb92-eeb7-48b6-b3c3-712dfaa2d970" status="closed" scratched="false" scheduled="2014-06-20T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team" />
+            <away id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" />
+            <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257" />
+            <round week="25" number="2" type="table" />
+            <!--  4768752/4707/4756  -->
+        </match>
+        <match id="09c306c1-075c-443b-8422-846f7fce00d1" status="closed" scratched="false" scheduled="2014-06-20T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team" />
+            <away id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" />
+            <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157" />
+            <round week="25" number="2" type="table" />
+            <!--  4768762/4699/4481  -->
+        </match>
+        <match id="3a447e9d-bfe0-4d25-b788-78a9099d9c2c" status="closed" scratched="false" scheduled="2014-06-20T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="f68fcef3-42f2-4031-983e-81c0b79801d5" name="Honduras" alias="HON" country_code="HND" country="Honduras" type="team" />
+            <away id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team" />
+            <venue id="8c5f1637-5cb1-4c7c-a498-80f9706e3726" name="Arena da Baixada" country_code="BRA" city="Curitiba" capacity="39631" country="Brazil" coordinates="-25.448186,-49.276866" />
+            <round week="25" number="2" type="table" />
+            <!--  4768764/4827/4757  -->
+        </match>
+        <match id="561b07a5-0597-4dfb-a3f2-ee027341c7db" status="closed" scratched="false" scheduled="2014-06-21T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" />
+            <away id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team" />
+            <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385" />
+            <round week="25" number="2" type="table" />
+            <!--  4768774/4819/4766  -->
+        </match>
+        <match id="915db875-3167-453b-88a7-49e09af91e2b" status="closed" scratched="false" scheduled="2014-06-21T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G" season_start="2014-06-15T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" />
+            <away id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team" />
+            <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542" />
+            <round week="25" number="2" type="table" />
+            <!--  4768786/4711/4764  -->
+        </match>
+        <match id="569d6be7-68a7-4332-a10e-b48842e6a65d" status="closed" scratched="false" scheduled="2014-06-21T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team" />
+            <away id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia  Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team" />
+            <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513" />
+            <round week="25" number="2" type="table" />
+            <!--  4768776/4785/4479  -->
+        </match>
+        <match id="1b7f9a66-1ac3-426d-b2b1-410b0103d34b" status="closed" scratched="false" scheduled="2014-06-22T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H" season_start="2014-06-16T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team" />
+            <away id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team" />
+            <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210" />
+            <round week="25" number="2" type="table" />
+            <!--  4768798/4717/4694  -->
+        </match>
+        <match id="8f7484e2-ddea-4a26-91c2-f1a5a35d05cb" status="closed" scratched="false" scheduled="2014-06-22T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H" season_start="2014-06-16T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team" />
+            <away id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team" />
+            <venue id="d060ef40-9286-4712-8586-cc594cb60875" name="Estadio Beira-Rio" country_code="BRA" city="Porto Alegre" capacity="43394" country="Brazil" coordinates="-30.065417,-51.235891" />
+            <round week="25" number="2" type="table" />
+            <!--  4768800/4735/4691  -->
+        </match>
+        <match id="3c65639a-4fc0-4d60-9917-97d263a7dd61" status="closed" scratched="false" scheduled="2014-06-22T22:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G" season_start="2014-06-15T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" />
+            <away id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team" />
+            <venue id="27a95916-e1f4-4174-aa96-876d7ebe4f19" name="Arena Amazonia" country_code="BRA" city="Manaus" capacity="40549" country="Brazil" coordinates="-3.083260,-60.028107" />
+            <round week="25" number="2" type="table" />
+            <!--  4768788/4724/4704  -->
+        </match>
+        <match id="8e2deeae-e858-4a3c-b1df-cb8f90ffb743" status="closed" scratched="false" scheduled="2014-06-23T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B" season_start="2014-06-12T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team" />
+            <away id="7ed29820-2a75-4440-a7ab-3fb004887f44" name="Spain" alias="ESP" country_code="ESP" country="Spain" type="team" />
+            <venue id="8c5f1637-5cb1-4c7c-a498-80f9706e3726" name="Arena da Baixada" country_code="BRA" city="Curitiba" capacity="39631" country="Brazil" coordinates="-25.448186,-49.276866" />
+            <round week="26" number="3" type="table" />
+            <!--  4768730/4741/4698  -->
+        </match>
+        <match id="19666fae-210c-4fe0-8c15-632ad763bedf" status="closed" scratched="false" scheduled="2014-06-23T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="ec3d8d28-a8f8-43bd-9dab-ddbf50089b99" name="World Cup, Group B" season_start="2014-06-12T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" />
+            <away id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" />
+            <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372" />
+            <round week="26" number="3" type="table" />
+            <!--  4768732/4705/4754  -->
+        </match>
+        <match id="dc7425cf-73b1-411e-82dd-1b79c0b003f1" status="closed" scratched="false" scheduled="2014-06-23T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A" season_start="2014-06-11T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team" />
+            <away id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team" />
+            <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257" />
+            <round week="26" number="3" type="table" />
+            <!--  4768720/4715/4781  -->
+        </match>
+        <match id="379510f1-98fd-4402-93f5-5ce4791122f8" status="closed" scratched="false" scheduled="2014-06-23T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A" season_start="2014-06-11T22:00:00Z" season_end="2014-06-24T21:59:00Z" season="2014" />
+            <home id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team" />
+            <away id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" />
+            <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249" />
+            <round week="26" number="3" type="table" />
+            <!--  4768718/4751/4748  -->
+        </match>
+        <match id="7c9e28c1-a383-42c9-9f42-75247cb4d0bf" status="closed" scratched="false" scheduled="2014-06-24T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" />
+            <away id="c655b728-adf8-4a6b-a091-f36765d518b3" name="England" alias="ENG" country_code="ENG" country="England" type="team" />
+            <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385" />
+            <round week="26" number="3" type="table" />
+            <!--  4768756/4756/4713  -->
+        </match>
+        <match id="6f0fba5f-ac4f-4076-a0be-7bcd1cfd4897" status="closed" scratched="false" scheduled="2014-06-24T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team" />
+            <away id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team" />
+            <venue id="b9894f99-1373-4311-937a-214a6eda8f6f" name="Estadio das Dunas" country_code="BRA" city="Natal" capacity="39971" country="Brazil" coordinates="-5.826733,-35.212467" />
+            <round week="26" number="3" type="table" />
+            <!--  4768754/4707/4725  -->
+        </match>
+        <match id="ed14e4da-7f06-4b18-84df-5e92f599c28a" status="closed" scratched="false" scheduled="2014-06-24T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team" />
+            <away id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" />
+            <venue id="4c0b330a-71e2-470d-8aac-ea37466aef75" name="Arena Pantanal" country_code="BRA" city="Cuiaba" capacity="41112" country="Brazil" coordinates="-15.603673,-56.121513" />
+            <round week="26" number="3" type="table" />
+            <!--  4768742/4770/4820  -->
+        </match>
+        <match id="947b56b8-8cef-441a-9788-cbd543f9651a" status="closed" scratched="false" scheduled="2014-06-24T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C" season_start="2014-06-13T22:00:00Z" season_end="2014-06-25T21:59:00Z" season="2014" />
+            <home id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team" />
+            <away id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team" />
+            <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542" />
+            <round week="26" number="3" type="table" />
+            <!--  4768744/4710/4768  -->
+        </match>
+        <match id="dc9583c4-da5f-4d39-bfbe-aa71a50564a5" status="closed" scratched="false" scheduled="2014-06-25T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="10a13c63-04e3-4f0b-adbf-ba4b6fce3d2c" name="Bosnia  Herzegovina" alias="BIH" country_code="BIH" country="Bosnia and Herzegovina" type="team" />
+            <away id="1f395131-4c51-4ecf-8b7b-7a7502232310" name="Iran" alias="IRI" country_code="IRN" country="Iran" type="team" />
+            <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157" />
+            <round week="26" number="3" type="table" />
+            <!--  4768780/4479/4766  -->
+        </match>
+        <match id="1f6a203e-35e1-4b5d-83a1-62eaaec30f1e" status="closed" scratched="false" scheduled="2014-06-25T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="bd395852-e5f3-4c55-a678-3e5184a77b6b" name="World Cup, Group F" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team" />
+            <away id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" />
+            <venue id="d060ef40-9286-4712-8586-cc594cb60875" name="Estadio Beira-Rio" country_code="BRA" city="Porto Alegre" capacity="43394" country="Brazil" coordinates="-30.065417,-51.235891" />
+            <round week="26" number="3" type="table" />
+            <!--  4768778/4785/4819  -->
+        </match>
+        <match id="9a6bb503-32d1-4a20-9061-c52af97b6838" status="closed" scratched="false" scheduled="2014-06-25T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="f68fcef3-42f2-4031-983e-81c0b79801d5" name="Honduras" alias="HON" country_code="HND" country="Honduras" type="team" />
+            <away id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team" />
+            <venue id="27a95916-e1f4-4174-aa96-876d7ebe4f19" name="Arena Amazonia" country_code="BRA" city="Manaus" capacity="40549" country="Brazil" coordinates="-3.083260,-60.028107" />
+            <round week="26" number="3" type="table" />
+            <!--  4768766/4827/4699  -->
+        </match>
+        <match id="21de3e84-9956-4ebf-98ae-22f40cf245a0" status="closed" scratched="false" scheduled="2014-06-25T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="8af5357f-3a38-46b2-83f8-0dcc1a183294" name="World Cup, Group E" season_start="2014-06-14T22:00:00Z" season_end="2014-06-26T21:59:00Z" season="2014" />
+            <home id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team" />
+            <away id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" />
+            <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210" />
+            <round week="26" number="3" type="table" />
+            <!--  4768768/4757/4481  -->
+        </match>
+        <match id="5a897135-5ea8-4939-a6d9-c408d366f31f" status="closed" scratched="false" scheduled="2014-06-26T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G" season_start="2014-06-15T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" />
+            <away id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" />
+            <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257" />
+            <round week="26" number="3" type="table" />
+            <!--  4768790/4724/4711  -->
+        </match>
+        <match id="547c9036-93b3-418c-8f82-bc48244701d0" status="closed" scratched="false" scheduled="2014-06-26T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G" season_start="2014-06-15T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team" />
+            <away id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team" />
+            <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249" />
+            <round week="26" number="3" type="table" />
+            <!--  4768792/4704/4764  -->
+        </match>
+        <match id="c3cadf94-429b-44bf-927c-e7d76ade548c" status="closed" scratched="false" scheduled="2014-06-26T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H" season_start="2014-06-16T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="76ae54ed-2efb-4e78-bc26-06a9edf67be6" name="South Korea" alias="KOR" country_code="KOR" country="South Korea" type="team" />
+            <away id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team" />
+            <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372" />
+            <round week="26" number="3" type="table" />
+            <!--  4768802/4735/4717  -->
+        </match>
+        <match id="836943d5-1798-4bbc-960a-b695acce0040" status="closed" scratched="false" scheduled="2014-06-26T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="f21062b5-f255-4df8-946b-a402e9e3d0d9" name="World Cup, Group H" season_start="2014-06-16T22:00:00Z" season_end="2014-06-27T21:59:00Z" season="2014" />
+            <home id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team" />
+            <away id="48b3da4c-4de4-44d7-beca-daceccfa51a1" name="Russia" alias="RUS" country_code="RUS" country="Russian Federation" type="team" />
+            <venue id="8c5f1637-5cb1-4c7c-a498-80f9706e3726" name="Arena da Baixada" country_code="BRA" city="Curitiba" capacity="39631" country="Brazil" coordinates="-25.448186,-49.276866" />
+            <round week="26" number="3" type="table" />
+            <!--  4768804/4691/4694  -->
+        </match>
+        <match id="9ccf78a3-5c63-40d3-b618-007952b52738" status="closed" scratched="false" scheduled="2014-06-28T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" />
+            <away id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" name="Chile" alias="CHI" country_code="CHL" country="Chile" type="team" />
+            <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385" />
+            <round week="26" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" loser_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="9ccf78a3-5c63-40d3-b618-007952b52738" status="closed" number="1" home_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" away_id="32bd8a9f-9334-41c2-81b1-7ccbe15356f0" home_score="4" away_score="3" />
+            </round>
+            <!--  4768142/4748/4754  -->
+        </match>
+        <match id="364f95a0-3d91-4b59-91df-554075bb18b9" status="closed" scratched="false" scheduled="2014-06-28T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" />
+            <away id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team" />
+            <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210" />
+            <round week="26" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" loser_id="6ea57d79-b740-4e32-b135-474dd53db2df" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="364f95a0-3d91-4b59-91df-554075bb18b9" status="closed" number="1" home_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" away_id="6ea57d79-b740-4e32-b135-474dd53db2df" home_score="2" away_score="0" />
+            </round>
+            <!--  4768146/4820/4725  -->
+        </match>
+        <match id="2339574a-5064-4384-9ff5-5f76dca518a8" status="closed" scratched="false" scheduled="2014-06-29T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" />
+            <away id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" name="Mexico" alias="MEX" country_code="MEX" country="Mexico" type="team" />
+            <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542" />
+            <round week="26" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" loser_id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="2339574a-5064-4384-9ff5-5f76dca518a8" status="closed" number="1" home_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" away_id="0d6a26e4-3afa-49d7-bc95-61536650fbdd" home_score="2" away_score="1" />
+            </round>
+            <!--  4768148/4705/4781  -->
+        </match>
+        <match id="c3023920-3391-46a5-86ff-07557542b967" status="closed" scratched="false" scheduled="2014-06-29T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" />
+            <away id="56915cf9-6045-49c9-aba1-4e7691f23cce" name="Greece" alias="GRE" country_code="GRC" country="Greece" type="team" />
+            <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257" />
+            <round week="26" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" loser_id="56915cf9-6045-49c9-aba1-4e7691f23cce" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="c3023920-3391-46a5-86ff-07557542b967" status="closed" number="1" home_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" away_id="56915cf9-6045-49c9-aba1-4e7691f23cce" home_score="6" away_score="4" />
+            </round>
+            <!--  4768150/4756/4710  -->
+        </match>
+        <match id="29d2c31a-bda2-46cd-bc43-9e445280aa4d" status="closed" scratched="false" scheduled="2014-06-30T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" />
+            <away id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team" />
+            <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249" />
+            <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" loser_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="29d2c31a-bda2-46cd-bc43-9e445280aa4d" status="closed" number="1" home_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" away_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" home_score="2" away_score="0" />
+            </round>
+            <!--  4768152/4481/4785  -->
+        </match>
+        <match id="e04c7f31-d868-4782-8eb1-ca962bf66aa4" status="closed" scratched="false" scheduled="2014-06-30T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" />
+            <away id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" name="Algeria" alias="ALG" country_code="DZA" country="Algeria" type="team" />
+            <venue id="d060ef40-9286-4712-8586-cc594cb60875" name="Estadio Beira-Rio" country_code="BRA" city="Porto Alegre" capacity="43394" country="Brazil" coordinates="-30.065417,-51.235891" />
+            <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" loser_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="e04c7f31-d868-4782-8eb1-ca962bf66aa4" status="closed" number="1" home_id="686950a8-4f89-4ed2-a32b-f0a564660859" away_id="c103019c-cedb-48ba-a6a6-8b46926bf4cd" home_score="2" away_score="1" />
+            </round>
+            <!--  4768154/4711/4691  -->
+        </match>
+        <match id="6d0589e4-694e-4aba-b36c-f193df8c00a8" status="closed" scratched="false" scheduled="2014-07-01T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" />
+            <away id="45f3d732-c627-40cc-ae79-160a581876ca" name="Switzerland" alias="SUI" country_code="CHE" country="Switzerland" type="team" />
+            <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372" />
+            <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="909737d8-0424-435d-917a-3a05484322b4" loser_id="45f3d732-c627-40cc-ae79-160a581876ca" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="6d0589e4-694e-4aba-b36c-f193df8c00a8" status="closed" number="1" home_id="909737d8-0424-435d-917a-3a05484322b4" away_id="45f3d732-c627-40cc-ae79-160a581876ca" home_score="1" away_score="0" />
+            </round>
+            <!--  4768156/4819/4699  -->
+        </match>
+        <match id="76ea9597-7cd1-4861-be27-e6c5f0b6612e" status="closed" scratched="false" scheduled="2014-07-01T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team" />
+            <away id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" />
+            <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157" />
+            <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" loser_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="76ea9597-7cd1-4861-be27-e6c5f0b6612e" status="closed" number="1" home_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" away_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" home_score="2" away_score="1" />
+            </round>
+            <!--  4768158/4717/4724  -->
+        </match>
+        <match id="5834846e-ed52-4a3a-aeba-e346a7c2060b" status="closed" scratched="false" scheduled="2014-07-04T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" />
+            <away id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" />
+            <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210" />
+            <round week="27" number="3" type="cup" name="QF" scheduled_legs="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" loser_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="5834846e-ed52-4a3a-aeba-e346a7c2060b" status="closed" number="1" home_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" away_id="686950a8-4f89-4ed2-a32b-f0a564660859" home_score="0" away_score="1" />
+            </round>
+            <!--  4768166/4481/4711  -->
+        </match>
+        <match id="644d6686-6b41-4bf4-822f-43fd5f6b5dfc" status="closed" scratched="false" scheduled="2014-07-04T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" />
+            <away id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" />
+            <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542" />
+            <round week="27" number="3" type="cup" name="QF" scheduled_legs="1" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" loser_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="644d6686-6b41-4bf4-822f-43fd5f6b5dfc" status="closed" number="1" home_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" away_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" home_score="2" away_score="1" />
+            </round>
+            <!--  4768164/4748/4820  -->
+        </match>
+        <match id="ea1e025c-1fcf-47f4-a782-70e4e791f338" status="closed" scratched="false" scheduled="2014-07-05T16:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" />
+            <away id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team" />
+            <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249" />
+            <round week="27" number="3" type="cup" name="QF" scheduled_legs="1" winner_id="909737d8-0424-435d-917a-3a05484322b4" loser_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="ea1e025c-1fcf-47f4-a782-70e4e791f338" status="closed" number="1" home_id="909737d8-0424-435d-917a-3a05484322b4" away_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" home_score="1" away_score="0" />
+            </round>
+            <!--  4768170/4819/4717  -->
+        </match>
+        <match id="2711d14d-f2ea-4751-a400-6cdbd9b61b5e" status="closed" scratched="false" scheduled="2014-07-05T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" />
+            <away id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" />
+            <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157" />
+            <round week="27" number="3" type="cup" name="QF" scheduled_legs="1" winner_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" loser_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="2711d14d-f2ea-4751-a400-6cdbd9b61b5e" status="closed" number="1" home_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" away_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" home_score="4" away_score="3" />
+            </round>
+            <!--  4768168/4705/4756  -->
+        </match>
+        <match id="9403f149-fd67-4590-9b1b-2de4cf70dcce" status="closed" scratched="false" scheduled="2014-07-08T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" />
+            <away id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" />
+            <venue id="ac65449d-f356-47d3-8fe4-3feff7f699fe" name="Mineirao Stadium" country_code="BRA" city="Belo Horizonte" capacity="58170" country="Brazil" coordinates="-19.865822,-43.971385" />
+            <round week="28" number="2" type="cup" name="SF" scheduled_legs="1" winner_id="686950a8-4f89-4ed2-a32b-f0a564660859" loser_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="9403f149-fd67-4590-9b1b-2de4cf70dcce" status="closed" number="1" home_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" away_id="686950a8-4f89-4ed2-a32b-f0a564660859" home_score="1" away_score="7" />
+            </round>
+            <!--  4768172/4748/4711  -->
+        </match>
+        <match id="ae54d136-d119-429f-9a02-79854d68510b" status="closed" scratched="false" scheduled="2014-07-09T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" />
+            <away id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" />
+            <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372" />
+            <round week="28" number="2" type="cup" name="SF" scheduled_legs="1" winner_id="909737d8-0424-435d-917a-3a05484322b4" loser_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="ae54d136-d119-429f-9a02-79854d68510b" status="closed" number="1" home_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" away_id="909737d8-0424-435d-917a-3a05484322b4" home_score="2" away_score="4" />
+            </round>
+            <!--  4768174/4705/4819  -->
+        </match>
+        <match id="75e2e884-ce2d-4dbf-8b7f-1dfe169fb7e6" status="closed" scratched="false" scheduled="2014-07-12T20:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" />
+            <away id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team" />
+            <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249" />
+            <round week="28" number="20" type="cup" name="3rd" scheduled_legs="1" winner_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" loser_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" winner_points="1" loser_points="0" aggregate="false">
+                <leg match_id="75e2e884-ce2d-4dbf-8b7f-1dfe169fb7e6" status="closed" number="1" home_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" away_id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" home_score="0" away_score="3" />
+            </round>
+            <!--  4768176/4748/4705  -->
+        </match>
+        <match id="22653ed5-0b2c-4e30-b10c-c6d51619b52b" status="scheduled" scratched="false" scheduled="2014-07-13T19:00:00Z">
+            <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International" />
+            <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship" season_start="2014-06-11T22:00:00Z" season_end="2014-07-14T21:59:00Z" season="2014" />
+            <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage" season_start="2014-06-28T00:00:00Z" season_end="2014-07-14T23:59:00Z" season="2014" />
+            <home id="686950a8-4f89-4ed2-a32b-f0a564660859" name="Germany" alias="GER" country_code="DEU" country="Germany" type="team" />
+            <away id="909737d8-0424-435d-917a-3a05484322b4" name="Argentina" alias="ARG" country_code="ARG" country="Argentina" type="team" />
+            <venue id="58ce7d9a-05e0-49a2-b1ac-bfa8131db618" name="Estadio do Maracana" country_code="BRA" city="Rio de Janeiro" capacity="74738" country="Brazil" coordinates="-22.912172,-43.230210" />
+            <round week="28" number="1" type="cup" name="F" scheduled_legs="1">
+                <leg match_id="22653ed5-0b2c-4e30-b10c-c6d51619b52b" status="scheduled" number="1" home_id="686950a8-4f89-4ed2-a32b-f0a564660859" away_id="909737d8-0424-435d-917a-3a05484322b4" home_score="" away_score="" />
+            </round>
+            <!--  4768178/4711/4819  -->
+        </match>
+    </matches>
+</schedule>

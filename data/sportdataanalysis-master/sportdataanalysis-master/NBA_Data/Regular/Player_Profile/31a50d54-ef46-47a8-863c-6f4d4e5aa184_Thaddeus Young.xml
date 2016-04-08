@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-30 15:00:47 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="31a50d54-ef46-47a8-863c-6f4d4e5aa184" status="ACT" full_name="Thaddeus Young" first_name="Thaddeus" last_name="Young" abbr_name="T.Young" height="80" weight="230" position="F" primary_position="PF" jersey_number="21" experience="6" college="Georgia Tech" birth_place="New Orleans, LA, USA" birthdate="1988-06-21" updated="2013-10-16T17:09:10+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" name="76ers" market="Philadelphia" alias="PHI"/>
+  <draft team_id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" year="2007" round="1" pick="12"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" name="76ers" market="Philadelphia" alias="PHI">
+        <statistics>
+          <total games_played="79" games_started="78" minutes="2718.0" field_goals_made="582" field_goals_att="1283" three_points_made="90" three_points_att="292" blocked_att="83" free_throws_made="163" free_throws_att="229" offensive_rebounds="166" defensive_rebounds="310" assists="182" turnovers="165" steals="167" blocks="36" personal_fouls="213" tech_fouls="2" points="1417" flagrant_fouls="0" free_throws_pct="0.712" two_points_pct="0.496" three_points_pct="0.308" field_goals_pct="0.454" rebounds="476" assists_turnover_ratio="1.1" two_points_made="492" two_points_att="991"/>
+          <average points="17.9" blocked_att="1.05" turnovers="2.09" free_throws_att="2.9" field_goals_att="16.24" off_rebounds="2.1" two_points_att="12.54" assists="2.3" blocks="0.46" personal_fouls="2.7" two_points_made="6.23" flagrant_fouls="0.0" rebounds="6.03" three_points_made="1.14" minutes="34.4" def_rebounds="3.92" free_throws_made="2.06" field_goals_made="7.37" steals="2.11" three_points_att="3.7"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-30 15:00:47 +0000 -->

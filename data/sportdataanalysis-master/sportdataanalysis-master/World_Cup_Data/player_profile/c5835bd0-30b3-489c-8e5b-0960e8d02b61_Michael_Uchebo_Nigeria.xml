@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:37:00Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="c5835bd0-30b3-489c-8e5b-0960e8d02b61" country_code="NGA" preferred_foot="R" height_in="76" weight_lb="187" height_cm="193" weight_kg="84" first_name="Michael" last_name="Uchebo" country="Nigeria">
+    <teams>
+      <team id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" country_code="NGA" position="F" is_manager="false" is_player="true" country="Nigeria" jersey_number="20"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="24" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="29" matches_started="0" minutes_played="1904" yellow_cards="4" yellow_red_cards="1" red_cards="-1" substitutions_out="9" substitutions_in="8">
+          <category id="23c1de91-0d5d-4c30-9291-09afe82a4d34" name="Belgium" country_code="BEL" country="Belgium"/>
+          <tournament_group id="6889669b-927e-4eca-9a87-795e1f89ae42" name="Pro League"/>
+          <team id="9edd1f88-1cff-494b-9d3f-f14f093a2df7" name="Cercle Brugge KSV" alias="CER" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 106256/1405922683 -->
+  </player>
+</profile>

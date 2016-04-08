@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:31:04Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="f1e1aa26-ee7b-4f93-a5c1-aa9d868f371f" country_code="CMR" preferred_foot="R" height_in="76" weight_lb="198" height_cm="193" weight_kg="89" first_name="Charles" last_name="Itandje" country="Cameroon">
+    <teams>
+      <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" country_code="CMR" position="G" is_manager="false" is_player="true" country="Cameroon" jersey_number="16"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="33" matches_started="0" minutes_played="2960" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig"/>
+          <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig"/>
+          <team id="06be8303-ace3-46c5-b904-c17f2e864a3d" name="Konyaspor" alias="KON" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 3411/1405922582 -->
+  </player>
+</profile>

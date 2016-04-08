@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:39:33Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="6f0fba5f-ac4f-4076-a0be-7bcd1cfd4897" status="closed" scratched="false" period="P2" scheduled="2014-06-24T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D"/>
+      <round week="26" number="3" type="table"/>
+      <home id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team" formation="3-5-2" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="87" ball_safe="100" corner_kicks="3" dangerous_attacks="43" fouls="17" free_kicks="20" goal_attempts="4" goal_kicks="10" offsides="2" red_card="1" saves="4" shots_total="4" substitutions="3" throw_ins="21" yellow_card="2" shots_on_target="1" shots_off_target="3" possessions="52"/>
+        <players>
+          <player id="d87520e6-d1d0-4559-bb46-211676b230d4" country_code="ITA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Marco" last_name="Verratti" country="Italy" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="2e65391b-0106-4759-8c67-138d94a2a6bd" country_code="ITA" position="D" started="true" tactical_position="7" tactical_order="9" first_name="Mattia" last_name="De Sciglio" country="Italy" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="00f3af5b-73f9-4f7e-91e1-96487e190246" country_code="ITA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Mario" last_name="Balotelli" country="Italy" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="224114c5-e1ee-46d4-88b6-1dda10f4453d" country_code="ITA" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Ciro" last_name="Immobile" country="Italy" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="3085db65-16ab-4045-9896-8fa0c7cde1ef" country_code="ITA" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Antonio" last_name="Cassano" country="Italy" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="03f09095-ae2a-4df7-9de7-0904b2086b92" country_code="ITA" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Thiago" last_name="Motta" country="Italy" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0035c6f2-021d-4afc-981d-4e1cbc50abe8" country_code="ITA" position="D" started="true" tactical_position="3" tactical_order="2" first_name="Andrea" last_name="Barzagli" country="Italy" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4be30ec8-6b1f-49db-ab9a-6b7f389b5470" country_code="ITA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Giorgio" last_name="Chiellini" country="Italy" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c346e503-6cef-40bd-b7c9-ad7007675607" country_code="ITA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Leonardo" last_name="Bonucci" country="Italy" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d93f9e77-ba19-4ac6-9b3c-41a4127fc2c3" country_code="ITA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Gabriel" last_name="Paletta" country="Italy" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2fa1c5dd-1405-4600-8397-12799cc20d14" country_code="ITA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ignazio" last_name="Abate" country="Italy" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="913c8c81-a696-47aa-9e58-d7d19bbea96b" country_code="ITA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Salvatore" last_name="Sirigu" country="Italy" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="31786e05-ec71-4801-90cf-464b83765b2d" country_code="ITA" position="D" started="true" tactical_position="5" tactical_order="5" first_name="Matteo" last_name="Darmian" country="Italy" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2073165e-df6b-4ef2-add2-177643251efe" country_code="ITA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Daniele" last_name="De Rossi" country="Italy" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aee979df-a8d1-484a-8df3-ecca0c0d4887" country_code="ITA" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Marco" last_name="Parolo" country="Italy" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="7bb23cc9-566e-4b17-b09a-037983e092eb" country_code="ITA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Alberto" last_name="Aquilani" country="Italy" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="57e93e3c-67b8-4b01-a55a-110ba9970774" country_code="ITA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Antonio" last_name="Candreva" country="Italy" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6347bb8e-d68a-4fad-8602-915ba1a64d42" country_code="ITA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Andrea" last_name="Pirlo" country="Italy" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="617d84a4-9f5b-4dfd-ad1b-b6d6b33a03fe" country_code="ITA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mattia" last_name="Perin" country="Italy" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0bac8ca7-fa52-40be-916d-36f86595622b" country_code="ITA" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Claudio" last_name="Marchisio" country="Italy" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="1" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7c599d9e-478b-4c21-bd86-8749383602fc" country_code="ITA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Lorenzo" last_name="Insigne" country="Italy" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="453899a5-7474-4ef9-846b-8966c6ad4b8e" country_code="ITA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Gianluigi" last_name="Buffon" country="Italy" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2989eb4b-bf54-48de-999a-cf474edfcb3c" country_code="ITA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Alessio" last_name="Cerci" country="Italy" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="6ea57d79-b740-4e32-b135-474dd53db2df" name="Uruguay" alias="URU" country_code="URY" country="Uruguay" type="team" formation="4-3-3" score="1" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="90" ball_safe="81" corner_kicks="3" dangerous_attacks="48" fouls="19" free_kicks="19" goal_attempts="10" goal_kicks="9" offsides="1" red_card="0" saves="1" shots_total="10" substitutions="3" throw_ins="22" yellow_card="2" shots_on_target="6" shots_off_target="4" possessions="48"/>
+        <players>
+          <player id="9ba1cb4f-af38-48b3-a805-1828bad7a6e7" country_code="URY" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Jose" last_name="Gimenez" country="Uruguay" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ae77a456-2213-4442-8424-1a9aca404572" country_code="URY" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Diego" last_name="Godin" country="Uruguay" jersey_number="3">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cba73970-d2fa-4254-b202-954eea7c50bd" country_code="URY" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Abel" last_name="Hernandez" country="Uruguay" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14c5e20b-9036-423e-82b7-5a63a869daff" country_code="URY" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Martin" last_name="Caceres" country="Uruguay" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="10e5d8bc-e4fc-4717-bb98-fb1528bb3347" country_code="URY" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Lugano" country="Uruguay" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2ff26eb5-ff4d-4734-a6d2-da7992eb06db" country_code="URY" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Martin" last_name="Silva" country="Uruguay" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2d201088-ce7b-4abb-bfbd-41641674b055" country_code="URY" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Jorge" last_name="Fucile" country="Uruguay" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="77217228-0545-44df-969c-86c0b6cae95c" country_code="URY" position="M" started="false" tactical_position="6" tactical_order="8" first_name="Gaston" last_name="Ramirez" country="Uruguay" jersey_number="18">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="7f893698-5482-4742-8fcf-7716e6c594e4" country_code="URY" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Luis" last_name="Suarez" country="Uruguay" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="52c13506-d060-4037-b3dc-30457ad471dc" country_code="URY" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Walter" last_name="Gargano" country="Uruguay" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c6fa948b-5bea-4f1f-a8c5-bf0731d57cd8" country_code="URY" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Egidio" last_name="Arevalo" country="Uruguay" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="16e71fb7-9a15-41a3-978c-f9cc7c489571" country_code="URY" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Rodrigo" last_name="Munoz" country="Uruguay" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="25a8e290-d97e-4f4f-8d1c-017c1c680673" country_code="URY" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Edinson" last_name="Cavani" country="Uruguay" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="bcdadf2b-4668-4718-b094-55fdbcf2a7bf" country_code="URY" position="M" started="true" tactical_position="8" tactical_order="10" first_name="Nicolas" last_name="Lodeiro" country="Uruguay" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="185f7027-92b1-420b-b49d-a07601d3be58" country_code="URY" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Forlan" country="Uruguay" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="459ea752-d2fc-45c1-a6dd-5a758276aa6e" country_code="URY" position="D" started="false" tactical_position="8" tactical_order="10" first_name="Maxi" last_name="Pereira" country="Uruguay" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0a29886e-ff78-44f3-bb31-2ed4331f5b40" country_code="URY" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Alvaro" last_name="Gonzalez" country="Uruguay" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="606827e7-8da7-470f-8100-01ce93a9189f" country_code="URY" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Perez" country="Uruguay" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14d572e2-df36-4432-8492-9531ec94ff0c" country_code="URY" position="F" started="false" tactical_position="4" tactical_order="5" first_name="Christian" last_name="Stuani" country="Uruguay" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4ede4753-eec0-4b4f-b910-a9a4dd859736" country_code="URY" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Alvaro" last_name="Pereira" country="Uruguay" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="2b1b8b42-9bb2-48b8-9ae4-beca5f8dba7c" country_code="URY" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Cristian" last_name="Rodriguez" country="Uruguay" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="a8a4c8ac-5ca5-4ad7-831e-69b0b77193c2" country_code="URY" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Sebastian" last_name="Coates" country="Uruguay" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1087aae7-3b8b-434e-b5a0-e079b1d44716" country_code="URY" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Fernando" last_name="Muslera" country="Uruguay" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="b9894f99-1373-4311-937a-214a6eda8f6f" name="Estadio das Dunas" country_code="BRA" city="Natal" capacity="39971" country="Brazil" coordinates="-5.826733,-35.212467"/>
+      <facts>
+        <fact id="e76fdb50-edaf-472d-869f-cd0b3d138042" type="match_started" time="2014-06-24T16:00:19Z" updated_time="2014-06-24T16:00:13Z" scratch="false" clock="1" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>The match has started.</description>
+        </fact>
+        <fact id="086eee25-3b7a-4363-839d-27c83c19fb5c" type="period_started" time="2014-06-24T16:00:19Z" updated_time="2014-06-24T16:00:19Z" scratch="false" period="P1"/>
+        <fact id="137a596c-aa2c-4d94-9d2e-3cc6d9ec12f3" type="throwin" time="2014-06-24T16:00:41Z" updated_time="2014-06-24T16:00:41Z" scratch="false" x="70" y="1" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy to take a throw-in in Uruguay territory.</description>
+        </fact>
+        <fact id="ec2209e3-e7f1-448e-aba6-2c14fb06d99a" type="throwin" time="2014-06-24T16:01:19Z" updated_time="2014-06-24T16:01:19Z" scratch="false" x="66" y="99" clock="1" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="66c72b2c-cbff-4166-b853-840ea35f895f" type="throwin" time="2014-06-24T16:02:06Z" updated_time="2014-06-24T16:02:06Z" scratch="false" x="33" y="98" clock="1" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a Uruguay throw-in in Italy's half.</description>
+        </fact>
+        <fact id="3b2cfa7d-8a3a-4469-a023-035060d11a0c" type="throwin" time="2014-06-24T16:03:04Z" updated_time="2014-06-24T16:03:04Z" scratch="false" x="44" y="2" clock="2" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay get the ball into an attacking position from this throw-in in Italy's half?</description>
+        </fact>
+        <fact id="01962707-898f-4fe5-bc66-f82756685dde" type="free_kick" time="2014-06-24T16:03:45Z" updated_time="2014-06-24T16:03:45Z" scratch="false" x="43" y="61" clock="3" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="0d4af59e-8387-434c-9e01-dc289d3d24d3" type="free_kick" time="2014-06-24T16:04:53Z" updated_time="2014-06-24T16:04:53Z" scratch="false" x="40" y="21" clock="4" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d8129741-1c7b-4b7d-a9c1-9ac2655c7e8a" type="free_kick" time="2014-06-24T16:05:56Z" updated_time="2014-06-24T16:05:56Z" scratch="false" x="39" y="69" clock="5" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Free kick Uruguay.</description>
+        </fact>
+        <fact id="f542f625-5878-4221-b65b-51d6396f382c" type="free_kick" time="2014-06-24T16:06:41Z" updated_time="2014-06-24T16:06:41Z" scratch="false" x="22" y="74" clock="6" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="030f8363-1bd6-4eb7-982c-129ed8c08389" type="shot_blocked" time="2014-06-24T16:07:18Z" updated_time="2014-06-24T16:20:48Z" scratch="false" x="17" y="31" clock="7" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Important block from the Italy defence as Alvaro Gonzalez fires in a strike for Uruguay.</description>
+        </fact>
+        <fact id="3a357278-ac2d-4923-888c-6a2bf032dc51" type="keeper_save" time="2014-06-24T16:07:28Z" updated_time="2014-06-24T16:07:28Z" scratch="false" x="17" y="31" clock="7" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="7ca675be-5ec9-4185-b3f5-c287c2723893" type="shot_on_target" time="2014-06-24T16:07:28Z" updated_time="2014-06-24T16:07:28Z" scratch="false" x="17" y="31" clock="8" team_id="6ea57d79-b740-4e32-b135-474dd53db2df"/>
+        <fact id="bdbe5a01-7e3c-4e78-901e-ad59fdcf90e8" type="free_kick" time="2014-06-24T16:08:24Z" updated_time="2014-06-24T16:08:24Z" scratch="false" x="33" y="33" clock="8" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="138006e2-0e56-4cb0-b842-f603b35934ea" type="throwin" time="2014-06-24T16:09:17Z" updated_time="2014-06-24T16:09:17Z" scratch="false" x="65" y="98" clock="8" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Can Italy get the ball into an attacking position from this throw-in in Uruguay's half?</description>
+        </fact>
+        <fact id="9b9cc433-2e9b-4e26-b9e8-6b202ee49fed" type="throwin" time="2014-06-24T16:09:32Z" updated_time="2014-06-24T16:09:32Z" scratch="false" x="58" y="98" clock="9" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a Italy throw-in in Uruguay's half.</description>
+        </fact>
+        <fact id="22cebe7c-d319-47d8-9c92-a1ec88c5d35d" type="free_kick" time="2014-06-24T16:10:14Z" updated_time="2014-06-24T16:10:14Z" scratch="false" x="64" y="57" clock="9" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="a8c6497c-9d72-470f-a6e0-ad743c44a5e2" type="free_kick" time="2014-06-24T16:11:22Z" updated_time="2014-06-24T16:11:22Z" scratch="false" x="67" y="25" clock="11" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a free kick to Italy.</description>
+        </fact>
+        <fact id="f8daaeab-daff-499e-ad3f-5e43cf5ee43c" type="keeper_save" time="2014-06-24T16:12:09Z" updated_time="2014-06-24T16:12:09Z" scratch="false" x="67" y="25" clock="11" team_id="6ea57d79-b740-4e32-b135-474dd53db2df"/>
+        <fact id="06514a9c-9018-435d-8855-18558ee6c9a9" type="shot_on_target" time="2014-06-24T16:12:09Z" updated_time="2014-06-24T16:13:07Z" scratch="false" x="67" y="25" clock="12" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="6347bb8e-d68a-4fad-8602-915ba1a64d42">
+          <description>Italy's Andrea Pirlo gets in a shot on goal at Estadio das Dunas. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="a0557a0a-3b48-4006-b7a9-aaed2163d419" type="corner_kick" time="2014-06-24T16:12:29Z" updated_time="2014-06-24T16:12:59Z" scratch="false" x="95" y="5" clock="12" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Corner awarded to Italy.</description>
+        </fact>
+        <fact id="7d3835ce-c370-43a7-8e59-114b5ad2c174" type="free_kick" time="2014-06-24T16:12:39Z" updated_time="2014-06-24T16:12:39Z" scratch="false" x="87" y="46" clock="12" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="fc7047d8-8ea0-4c31-a0bb-18605bd9058e" type="throwin" time="2014-06-24T16:13:18Z" updated_time="2014-06-24T16:13:18Z" scratch="false" x="36" y="98" clock="13" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy at Estadio das Dunas.</description>
+        </fact>
+        <fact id="14a66a88-ee96-4bb2-be17-088b955902d2" type="offside" time="2014-06-24T16:14:09Z" updated_time="2014-06-24T16:14:09Z" scratch="false" x="26" y="79" clock="14" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="7f893698-5482-4742-8fcf-7716e6c594e4">
+          <description>Marco Rodriguez blows against Uruguay's Luis Suarez for offside.</description>
+        </fact>
+        <fact id="d52aa866-14ef-458f-91c7-bb50f2a03ebe" type="throwin" time="2014-06-24T16:14:49Z" updated_time="2014-06-24T16:14:49Z" scratch="false" x="17" y="2" clock="14" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy in their own half.</description>
+        </fact>
+        <fact id="709c4dc6-c535-4500-8e79-daa4b770a561" type="goal_kick" time="2014-06-24T16:15:08Z" updated_time="2014-06-24T16:15:08Z" scratch="false" x="95" y="50" clock="14" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball goes out of play for a Uruguay goal kick.</description>
+        </fact>
+        <fact id="84c498bc-75d9-435c-bd58-927d4073195b" type="throwin" time="2014-06-24T16:16:08Z" updated_time="2014-06-24T16:16:08Z" scratch="false" x="23" y="2" clock="15" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in Italy.</description>
+        </fact>
+        <fact id="be344928-a7ae-4921-bdef-1d0f0095667b" type="free_kick" time="2014-06-24T16:16:46Z" updated_time="2014-06-24T16:16:46Z" scratch="false" x="59" y="56" clock="16" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="8aeffb06-0242-4fe5-b192-1000e408d3e3" type="goal_kick" time="2014-06-24T16:17:24Z" updated_time="2014-06-24T16:17:24Z" scratch="false" x="95" y="50" clock="17" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez awards Uruguay a goal kick.</description>
+        </fact>
+        <fact id="726e9ac3-e11c-486b-88eb-7c40a007a371" type="free_kick" time="2014-06-24T16:17:56Z" updated_time="2014-06-24T16:17:56Z" scratch="false" x="56" y="15" clock="17" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="a8bf87ec-bfc6-4d60-baef-90a2e98bf04c" type="throwin" time="2014-06-24T16:18:51Z" updated_time="2014-06-24T16:18:51Z" scratch="false" x="76" y="1" clock="18" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy to take a throw-in in Uruguay territory.</description>
+        </fact>
+        <fact id="5ff5adc1-57df-4c53-a745-e1e9b4f27408" type="goal_kick" time="2014-06-24T16:19:07Z" updated_time="2014-06-24T16:19:07Z" scratch="false" x="95" y="50" clock="18" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have a goal kick.</description>
+        </fact>
+        <fact id="39886d82-7b0d-4795-8ec8-207e7f0aa188" type="goal_kick" time="2014-06-24T16:20:24Z" updated_time="2014-06-24T16:20:24Z" scratch="false" x="5" y="50" clock="20" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Goal kick for Italy at Estadio das Dunas.</description>
+        </fact>
+        <fact id="e344af05-ef79-4600-bdb4-7e1095d5917f" type="offside" time="2014-06-24T16:20:46Z" updated_time="2014-06-24T16:20:46Z" scratch="false" x="83" y="23" clock="21" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="224114c5-e1ee-46d4-88b6-1dda10f4453d">
+          <description>Italy's Ciro Immobile is whistled for offside at Estadio das Dunas.</description>
+        </fact>
+        <fact id="5f9be5e0-91ae-45bc-8e26-9de63268026a" type="free_kick" time="2014-06-24T16:21:24Z" updated_time="2014-06-24T16:21:24Z" scratch="false" x="70" y="45" clock="21" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="be8ae721-d44e-4a8e-a45c-5a1580a3d101" type="free_kick" time="2014-06-24T16:22:13Z" updated_time="2014-06-24T16:22:13Z" scratch="false" x="33" y="72" clock="21" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="81a67498-9695-476d-b234-9161a8022d57" type="goal_kick" time="2014-06-24T16:23:02Z" updated_time="2014-06-24T16:23:02Z" scratch="false" x="5" y="50" clock="22" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez awards Italy a goal kick.</description>
+        </fact>
+        <fact id="bcd89047-ebd1-44ee-bb05-c029d4f7cb78" type="card" time="2014-06-24T16:22:23Z" updated_time="2014-06-24T16:22:23Z" scratch="false" clock="23" card="Y" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Mario Balotelli (Italy) has been given a yellow card and will be suspended from the next match.</description>
+        </fact>
+        <fact id="b5a3e4db-5b5f-49d6-8ff0-68df11204aa5" type="throwin" time="2014-06-24T16:23:33Z" updated_time="2014-06-24T16:23:33Z" scratch="false" x="59" y="1" clock="23" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="129c5dcd-fe93-4a71-9295-6f14cb7da993" type="throwin" time="2014-06-24T16:24:12Z" updated_time="2014-06-24T16:24:12Z" scratch="false" x="72" y="1" clock="23" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball safe as Uruguay is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="055f393c-5384-449a-bd8d-5c1652b94f53" type="free_kick" time="2014-06-24T16:24:27Z" updated_time="2014-06-24T16:24:27Z" scratch="false" x="64" y="34" clock="24" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0385ef09-56a8-4ca3-8b52-37ed3a8169af" type="shot_blocked" time="2014-06-24T16:25:19Z" updated_time="2014-06-24T16:25:19Z" scratch="false" x="76" y="39" clock="25" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Claudio Marchisio (Italy) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="9626efb4-26fe-44c6-a772-db75d7de5cce" type="throwin" time="2014-06-24T16:25:40Z" updated_time="2014-06-24T16:25:40Z" scratch="false" x="36" y="98" clock="25" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy in their own half.</description>
+        </fact>
+        <fact id="92b30377-4040-424c-8a83-09e24a909977" type="shot_blocked" time="2014-06-24T16:26:29Z" updated_time="2014-06-24T16:44:12Z" scratch="false" x="71" y="64" clock="26" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy's Andrea Barzagli gets in a shot but it is blocked by a Uruguay defender.</description>
+        </fact>
+        <fact id="7ab4200d-2375-43c4-ae93-237b9bb3ae0e" type="free_kick" time="2014-06-24T16:26:33Z" updated_time="2014-06-24T16:26:33Z" scratch="false" x="71" y="64" clock="26" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="cb7811aa-863f-4bde-a2c5-11c0dde5d183" type="shot_off_target" time="2014-06-24T16:27:01Z" updated_time="2014-06-24T16:27:01Z" scratch="false" x="75" y="62" clock="27" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Mario Balotelli of Italy gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="b51609b9-c13f-4f5a-85ee-16eef9b7801e" type="goal_kick" time="2014-06-24T16:27:02Z" updated_time="2014-06-24T16:27:02Z" scratch="false" x="95" y="50" clock="27" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have a goal kick.</description>
+        </fact>
+        <fact id="7a6ed9b6-fdac-4f76-b3bf-5e033d68525a" type="throwin" time="2014-06-24T16:27:58Z" updated_time="2014-06-24T16:27:58Z" scratch="false" x="58" y="1" clock="27" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a Italy throw-in in Uruguay's half.</description>
+        </fact>
+        <fact id="96bfeb62-5d5c-4a1d-82f7-695333134091" type="throwin" time="2014-06-24T16:28:14Z" updated_time="2014-06-24T16:28:14Z" scratch="false" x="84" y="1" clock="27" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay at Estadio das Dunas.</description>
+        </fact>
+        <fact id="dc8e2249-039d-4be7-b832-3b8fb9ad2a12" type="shot_off_target" time="2014-06-24T16:29:14Z" updated_time="2014-06-24T16:29:14Z" scratch="false" x="87" y="43" clock="29" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="224114c5-e1ee-46d4-88b6-1dda10f4453d">
+          <description>Italy are coming forward and Ciro Immobile gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="ed75c507-81de-4e91-994f-d9a8168a77ef" type="goal_kick" time="2014-06-24T16:29:20Z" updated_time="2014-06-24T16:29:20Z" scratch="false" x="95" y="50" clock="29" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball goes out of play for a Uruguay goal kick.</description>
+        </fact>
+        <fact id="2f5d13e7-a994-4be0-9e64-0bdeb5bf49f3" type="free_kick" time="2014-06-24T16:29:43Z" updated_time="2014-06-24T16:29:43Z" scratch="false" x="72" y="79" clock="29" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="7835dd4d-1498-4f5b-8297-ef917b4789c6" type="free_kick" time="2014-06-24T16:30:25Z" updated_time="2014-06-24T16:30:25Z" scratch="false" x="45" y="88" clock="30" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="40dcf6c7-8ce7-4bfa-901f-383f918d09a3" type="goal_kick" time="2014-06-24T16:31:43Z" updated_time="2014-06-24T16:31:43Z" scratch="false" x="95" y="50" clock="31" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Goal kick for Uruguay at Estadio das Dunas.</description>
+        </fact>
+        <fact id="83c3c820-e682-4e25-a21c-ca6e05ef7056" type="keeper_save" time="2014-06-24T16:32:33Z" updated_time="2014-06-24T16:32:33Z" scratch="false" x="17" y="68" clock="32" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="34f87a74-11ca-4b5b-8336-88189f461a19" type="keeper_save" time="2014-06-24T16:32:38Z" updated_time="2014-06-24T16:32:38Z" scratch="false" x="17" y="68" clock="32" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="06b01365-402d-43a3-8d6d-6130c54dbf9c" type="shot_on_target" time="2014-06-24T16:32:33Z" updated_time="2014-06-24T16:32:55Z" scratch="false" x="17" y="68" clock="33" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="7f893698-5482-4742-8fcf-7716e6c594e4">
+          <description>Luis Suarez of Uruguay smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="5f70443e-f411-4510-8292-85bd399b572f" type="shot_on_target" time="2014-06-24T16:32:37Z" updated_time="2014-06-24T16:33:34Z" scratch="false" x="17" y="68" clock="33" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="bcdadf2b-4668-4718-b094-55fdbcf2a7bf">
+          <description>Nicolas Lodeiro for Uruguay drives towards goal at Estadio das Dunas. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="b0f96cc7-746e-4234-8878-4524949aab0b" type="injury" time="2014-06-24T16:33:11Z" updated_time="2014-06-24T16:33:11Z" scratch="false" x="29" y="56" clock="33" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Mario Balotelli is down and play has been interrupted for a few moments.</description>
+        </fact>
+        <fact id="02e0c992-402d-43eb-ace6-5da6676b2e83" type="game_resumed" time="2014-06-24T16:34:24Z" updated_time="2014-06-24T16:34:24Z" scratch="false" clock="34">
+          <description>Play has been resumed at Estadio das Dunas.</description>
+        </fact>
+        <fact id="fbadcec7-3999-4ba1-846a-37c8c51fe9c3" type="injury_return" time="2014-06-24T16:34:55Z" updated_time="2014-06-24T16:34:55Z" scratch="false" clock="34" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Mario Balotelli is back on his feet again.</description>
+        </fact>
+        <fact id="73fb2032-800b-4d5e-812c-37e60f9fa882" type="free_kick" time="2014-06-24T16:35:25Z" updated_time="2014-06-24T16:35:25Z" scratch="false" x="34" y="77" clock="35" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Free kick Uruguay.</description>
+        </fact>
+        <fact id="edca4986-1d13-4364-9187-4a6422f8aaa5" type="throwin" time="2014-06-24T16:35:52Z" updated_time="2014-06-24T16:35:52Z" scratch="false" x="37" y="1" clock="35" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay get the ball into an attacking position from this throw-in in Italy's half?</description>
+        </fact>
+        <fact id="5a20b9a6-2d5c-4966-8de3-5ba7885309c9" type="throwin" time="2014-06-24T16:36:45Z" updated_time="2014-06-24T16:36:45Z" scratch="false" x="47" y="99" clock="36" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball safe as Italy is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="cfbe87a4-5c72-49a8-8d8a-f0cc4cc94aa9" type="throwin" time="2014-06-24T16:37:28Z" updated_time="2014-06-24T16:37:28Z" scratch="false" x="38" y="99" clock="37" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a9cd3d93-d315-4fb7-8e54-73548ced2c01" type="shot_off_target" time="2014-06-24T16:38:28Z" updated_time="2014-06-24T16:38:28Z" scratch="false" x="33" y="48" clock="38" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="14c5e20b-9036-423e-82b7-5a63a869daff">
+          <description>Uruguay's Martin Caceres gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="75422f27-b846-4ff1-8e50-49571780dc16" type="goal_kick" time="2014-06-24T16:38:28Z" updated_time="2014-06-24T16:38:28Z" scratch="false" x="5" y="50" clock="38" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez awards Italy a goal kick.</description>
+        </fact>
+        <fact id="72bf8cdd-8a5d-4f35-8c6f-cdbc51726c8b" type="free_kick" time="2014-06-24T16:38:37Z" updated_time="2014-06-24T16:38:37Z" scratch="false" x="33" y="52" clock="38" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="ba4ab4a3-2edc-44a9-ad6a-cc5bf131d68e" type="throwin" time="2014-06-24T16:39:02Z" updated_time="2014-06-24T16:39:02Z" scratch="false" x="89" y="98" clock="38" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy close to the penalty box.</description>
+        </fact>
+        <fact id="7ecbb31f-ae4c-49ea-a46c-0548a6e4774f" type="free_kick" time="2014-06-24T16:40:47Z" updated_time="2014-06-24T16:40:47Z" scratch="false" x="30" y="68" clock="40" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="97028f86-dc55-43d9-8b30-1965c69fb660" type="throwin" time="2014-06-24T16:43:18Z" updated_time="2014-06-24T16:43:18Z" scratch="false" x="72" y="1" clock="43" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in Uruguay.</description>
+        </fact>
+        <fact id="148fb7ec-4059-4131-a246-8adda00ec8e7" type="throwin" time="2014-06-24T16:43:38Z" updated_time="2014-06-24T16:43:38Z" scratch="false" x="62" y="1" clock="43" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball safe as Uruguay is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="77d4c088-5059-4697-a098-8d72f53dc742" type="free_kick" time="2014-06-24T16:44:16Z" updated_time="2014-06-24T16:44:16Z" scratch="false" x="25" y="57" clock="43" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="43e72333-8809-4a5e-969c-38bcad15a795" type="shot_blocked" time="2014-06-24T16:45:12Z" updated_time="2014-06-24T16:45:12Z" scratch="false" x="25" y="57" clock="45" team_id="6ea57d79-b740-4e32-b135-474dd53db2df"/>
+        <fact id="8e083e4e-acc6-4c0c-91fe-71412c5ddf37" type="corner_kick" time="2014-06-24T16:45:40Z" updated_time="2014-06-24T16:45:40Z" scratch="false" x="5" y="5" clock="45" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have been awarded a corner by Marco Rodriguez.</description>
+        </fact>
+        <fact id="61390f17-40ea-42b5-b23a-bc692ec2b7f4" type="free_kick" time="2014-06-24T16:45:49Z" updated_time="2014-06-24T16:45:49Z" scratch="false" x="12" y="43" clock="45" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="06c1a1ea-888b-4296-8b23-707b04249a30" type="injury" time="2014-06-24T16:46:56Z" updated_time="2014-06-24T16:47:35Z" scratch="false" x="53" y="2" clock="45" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="31786e05-ec71-4801-90cf-464b83765b2d">
+          <description>Play has been temporarily suspended for attention to Matteo Darmian for Italy who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="1c89ed82-ff34-46b4-9d3a-ce05de72623a" type="injury_return" time="2014-06-24T16:47:35Z" updated_time="2014-06-24T16:47:35Z" scratch="false" clock="45" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="31786e05-ec71-4801-90cf-464b83765b2d">
+          <description>Matteo Darmian returns to the field for Italy after picking up a slight injury.</description>
+        </fact>
+        <fact id="841db274-ad1a-4cf8-b42f-e6e433781182" type="period_over" time="2014-06-24T16:47:28Z" updated_time="2014-06-24T16:47:28Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>The first-half has come to a close in Natal.</description>
+        </fact>
+        <fact id="a1ffc529-28cd-4beb-b5b3-2b413cd9ab5d" type="period_started" time="2014-06-24T16:47:28Z" updated_time="2014-06-24T16:47:28Z" scratch="false" period="H"/>
+        <fact id="4e088379-ea69-40fa-b29a-c3a49f32b001" type="substitution" time="2014-06-24T17:03:29Z" updated_time="2014-06-24T17:03:29Z" scratch="false" clock="46" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_out_id="00f3af5b-73f9-4f7e-91e1-96487e190246" player_in_id="aee979df-a8d1-484a-8df3-ecca0c0d4887">
+          <description>Marco Parolo is replacing Mario Balotelli for Italy at Estadio das Dunas.</description>
+        </fact>
+        <fact id="e805f698-112c-46e5-b4d1-c33a02958aba" type="substitution" time="2014-06-24T17:03:41Z" updated_time="2014-06-24T17:03:41Z" scratch="false" clock="46" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_out_id="bcdadf2b-4668-4718-b094-55fdbcf2a7bf" player_in_id="459ea752-d2fc-45c1-a6dd-5a758276aa6e">
+          <description>Oscar Tabarez is making the team's first substitution at Estadio das Dunas with Maxi Pereira replacing Nicolas Lodeiro.</description>
+        </fact>
+        <fact id="bdbf18ff-c0cc-4310-b194-e98f1a4c9b68" type="period_started" time="2014-06-24T17:03:59Z" updated_time="2014-06-24T17:03:59Z" scratch="false" period="P2"/>
+        <fact id="6a44a0be-0767-4f98-a877-04df6f6300eb" type="free_kick" time="2014-06-24T17:04:41Z" updated_time="2014-06-24T17:04:41Z" scratch="false" x="60" y="81" clock="45" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="81f020bc-d1b8-4f2d-bd8d-8a266929ae0b" type="injury_time" time="2014-06-24T16:45:55Z" updated_time="2014-06-24T16:45:55Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="d2075c1c-5a5a-4329-8036-92016f10ae77" type="throwin" time="2014-06-24T16:46:46Z" updated_time="2014-06-24T16:46:46Z" scratch="false" x="53" y="2" clock="45" injury_time="1" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay at Estadio das Dunas.</description>
+        </fact>
+        <fact id="3d4423ff-6ac5-4aed-9b95-5a5a604a78da" type="game_resumed" time="2014-06-24T16:47:19Z" updated_time="2014-06-24T16:47:19Z" scratch="false" clock="45" injury_time="2">
+          <description>Marco Rodriguez has blown to resume play in Natal.</description>
+        </fact>
+        <fact id="9e2acbe5-0081-43c5-9eb6-c586dcea7d5c" type="card" time="2014-06-24T17:04:59Z" updated_time="2014-06-24T17:06:19Z" scratch="false" clock="46" card="Y" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="c6fa948b-5bea-4f1f-a8c5-bf0731d57cd8">
+          <description>Egidio Arevalo (Uruguay) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="1b3be669-c822-4eef-a4e5-cd8a1cfe313f" type="injury" time="2014-06-24T17:06:45Z" updated_time="2014-06-24T17:06:45Z" scratch="false" x="33" y="56" clock="48" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="14c5e20b-9036-423e-82b7-5a63a869daff">
+          <description>Marco Rodriguez waits before resuming play because Martin Caceres for Uruguay is still down.</description>
+        </fact>
+        <fact id="4d08c110-52f5-4d4c-976a-a167c4373391" type="game_resumed" time="2014-06-24T17:07:18Z" updated_time="2014-06-24T17:07:18Z" scratch="false" clock="48">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="19f9d76c-6c30-4f7a-a4d1-3c5c965c5acf" type="throwin" time="2014-06-24T17:07:49Z" updated_time="2014-06-24T17:07:49Z" scratch="false" x="87" y="2" clock="48" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a throw-in for Italy, close to Uruguay's area.</description>
+        </fact>
+        <fact id="5a02a6be-9bad-4dfa-bf05-a2eaf2b99f94" type="throwin" time="2014-06-24T17:08:17Z" updated_time="2014-06-24T17:08:17Z" scratch="false" x="54" y="100" clock="49" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in Uruguay.</description>
+        </fact>
+        <fact id="a43df2b8-f19a-4d09-8224-4c2de5002f1c" type="throwin" time="2014-06-24T17:08:36Z" updated_time="2014-06-24T17:08:36Z" scratch="false" x="28" y="100" clock="49" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Italy territory.</description>
+        </fact>
+        <fact id="5be0ad22-cefb-474e-8da1-45f4374d9305" type="free_kick" time="2014-06-24T17:10:04Z" updated_time="2014-06-24T17:10:04Z" scratch="false" x="28" y="21" clock="51" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c06367b0-29b1-4b54-bc32-958799e7c95c" type="free_kick" time="2014-06-24T17:10:33Z" updated_time="2014-06-24T17:10:33Z" scratch="false" x="42" y="82" clock="51" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="92c10288-50ed-49c5-b7e2-c0f7a4205e53" type="free_kick" time="2014-06-24T17:11:36Z" updated_time="2014-06-24T17:11:36Z" scratch="false" x="74" y="12" clock="52" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="71d6af74-8363-4c2b-bd24-9b590210dc92" type="shot_off_target" time="2014-06-24T17:11:00Z" updated_time="2014-06-24T17:11:00Z" scratch="false" x="18" y="57" clock="53" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="7f893698-5482-4742-8fcf-7716e6c594e4">
+          <description>Uruguay are pushing forward but Luis Suarez's finish is wide of the goal.</description>
+        </fact>
+        <fact id="618635f5-13ef-4ab6-a990-fbd40617e0b4" type="goal_kick" time="2014-06-24T17:11:00Z" updated_time="2014-06-24T17:11:00Z" scratch="false" x="5" y="50" clock="53" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy have a goal kick.</description>
+        </fact>
+        <fact id="7f968606-2062-4628-adc8-d035b765007a" type="free_kick" time="2014-06-24T17:12:09Z" updated_time="2014-06-24T17:12:09Z" scratch="false" x="23" y="55" clock="53" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="69f4166d-6806-4640-b0f3-cd786e13827b" type="injury_return" time="2014-06-24T17:12:30Z" updated_time="2014-06-24T17:12:30Z" scratch="false" clock="53" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="14c5e20b-9036-423e-82b7-5a63a869daff">
+          <description>Martin Caceres has recovered and rejoins the match in Natal.</description>
+        </fact>
+        <fact id="9cb89678-e61b-4b27-8f8e-1ae3e21afed2" type="throwin" time="2014-06-24T17:12:53Z" updated_time="2014-06-24T17:12:53Z" scratch="false" x="45" y="98" clock="53" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy in their own half.</description>
+        </fact>
+        <fact id="62ed0419-45cc-46e3-a540-062698a8a8c7" type="throwin" time="2014-06-24T17:13:35Z" updated_time="2014-06-24T17:13:35Z" scratch="false" x="74" y="100" clock="54" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy to take a throw-in in Uruguay territory.</description>
+        </fact>
+        <fact id="a734f887-2575-4179-a001-0814faa23d19" type="shot_blocked" time="2014-06-24T17:13:53Z" updated_time="2014-06-24T17:13:53Z" scratch="false" x="79" y="37" clock="55" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Claudio Marchisio (Italy) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="b83146dc-e2c4-4e43-91cc-31b9c450e27a" type="throwin" time="2014-06-24T17:13:59Z" updated_time="2014-06-24T17:13:59Z" scratch="false" x="76" y="2" clock="55" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Can Italy get the ball into an attacking position from this throw-in in Uruguay's half?</description>
+        </fact>
+        <fact id="3252ec37-0b11-4619-8702-7065026f1d93" type="goal_kick" time="2014-06-24T17:14:07Z" updated_time="2014-06-24T17:14:07Z" scratch="false" x="95" y="50" clock="55" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Goal kick for Uruguay at Estadio das Dunas.</description>
+        </fact>
+        <fact id="19802702-6120-40e7-aaab-bb537a3d9016" type="free_kick" time="2014-06-24T17:14:52Z" updated_time="2014-06-24T17:14:52Z" scratch="false" x="40" y="99" clock="55" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Free kick Uruguay.</description>
+        </fact>
+        <fact id="3f615018-80a4-40bc-9ed5-e0de6574a69c" type="throwin" time="2014-06-24T17:15:18Z" updated_time="2014-06-24T17:15:18Z" scratch="false" x="40" y="1" clock="56" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a Uruguay throw-in in Italy's half.</description>
+        </fact>
+        <fact id="80380a83-a438-4c6f-9798-bcaeccc122f1" type="goal_kick" time="2014-06-24T17:15:37Z" updated_time="2014-06-24T17:15:37Z" scratch="false" x="5" y="50" clock="56" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball goes out of play for a Italy goal kick.</description>
+        </fact>
+        <fact id="68251a7f-e7da-4142-a51b-0819a3c27e67" type="goal_kick" time="2014-06-24T17:16:20Z" updated_time="2014-06-24T17:16:20Z" scratch="false" x="95" y="50" clock="57" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Goal kick for Uruguay at Estadio das Dunas.</description>
+        </fact>
+        <fact id="90a6bb73-7643-43f4-8588-6c1e2fe6857f" type="shot_off_target" time="2014-06-24T17:17:05Z" updated_time="2014-06-24T17:17:05Z" scratch="false" x="17" y="71" clock="59" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="2b1b8b42-9bb2-48b8-9ae4-beca5f8dba7c">
+          <description>In Natal Uruguay attack through Cristian Rodriguez. The finish is off target, however.</description>
+        </fact>
+        <fact id="ae7869a6-bd49-4ce3-b153-159cf2ed23aa" type="goal_kick" time="2014-06-24T17:17:05Z" updated_time="2014-06-24T17:17:05Z" scratch="false" x="5" y="50" clock="59" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball goes out of play for a Italy goal kick.</description>
+        </fact>
+        <fact id="0868d506-0522-4b34-b339-88abe89abdd5" type="card" time="2014-06-24T17:18:27Z" updated_time="2014-06-24T17:25:25Z" scratch="false" clock="59" card="R" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="0bac8ca7-fa52-40be-916d-36f86595622b">
+          <description>Italy are down to 10 men after Claudio Marchisio has been shown a red card.</description>
+        </fact>
+        <fact id="92cc0e53-3000-46aa-a01c-6d7b3cf997f5" type="free_kick" time="2014-06-24T17:17:40Z" updated_time="2014-06-24T17:18:59Z" scratch="false" x="66" y="54" clock="60" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay.</description>
+        </fact>
+        <fact id="c2fcac8d-850a-4472-bd05-7c0d5b51ec5b" type="throwin" time="2014-06-24T17:19:26Z" updated_time="2014-06-24T17:19:26Z" scratch="false" x="11" y="2" clock="60" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Italy needs to be cautious. Uruguay have an attacking throw-in.</description>
+        </fact>
+        <fact id="365ca56d-a1e5-4315-81f6-cd5618336c8f" type="goal_kick" time="2014-06-24T17:20:12Z" updated_time="2014-06-24T17:20:12Z" scratch="false" x="5" y="50" clock="61" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez awards Italy a goal kick.</description>
+        </fact>
+        <fact id="c152bfc9-2b5e-4528-8fc6-836ddebae81c" type="throwin" time="2014-06-24T17:20:43Z" updated_time="2014-06-24T17:20:43Z" scratch="false" x="14" y="1" clock="61" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="85bd7578-fcd8-4730-9ef2-d82199c3e410" type="free_kick" time="2014-06-24T17:21:07Z" updated_time="2014-06-24T17:21:07Z" scratch="false" x="39" y="23" clock="62" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="87f110fd-4b36-46db-a152-360e239faeea" type="throwin" time="2014-06-24T17:21:40Z" updated_time="2014-06-24T17:21:40Z" scratch="false" x="24" y="2" clock="62" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Italy territory.</description>
+        </fact>
+        <fact id="e8333fba-759d-4075-94b8-246335b3e2ab" type="substitution" time="2014-06-24T17:21:25Z" updated_time="2014-06-24T17:21:25Z" scratch="false" clock="63" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_out_id="4ede4753-eec0-4b4f-b910-a9a4dd859736" player_in_id="14d572e2-df36-4432-8492-9531ec94ff0c">
+          <description>Uruguay make their second substitution with Christian Stuani replacing Alvaro Pereira.</description>
+        </fact>
+        <fact id="c91f45d8-4752-4bc6-bf19-0260d35fba50" type="throwin" time="2014-06-24T17:22:29Z" updated_time="2014-06-24T17:22:29Z" scratch="false" x="69" y="1" clock="63" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="747d4fae-5a9c-4344-a126-511f46f1e8d3" type="throwin" time="2014-06-24T17:23:12Z" updated_time="2014-06-24T17:23:12Z" scratch="false" x="29" y="99" clock="64" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a Uruguay throw-in in Italy's half.</description>
+        </fact>
+        <fact id="935aab65-abea-4939-920a-17dc42f848cc" type="shot_off_target" time="2014-06-24T17:23:50Z" updated_time="2014-06-24T17:23:50Z" scratch="false" x="70" y="64" clock="65" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="6347bb8e-d68a-4fad-8602-915ba1a64d42">
+          <description>Italy's Andrea Pirlo misses with an attempt on goal.</description>
+        </fact>
+        <fact id="85cc285d-d3b2-45be-9576-1c318a0ff6c1" type="goal_kick" time="2014-06-24T17:23:50Z" updated_time="2014-06-24T17:23:50Z" scratch="false" x="95" y="50" clock="65" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay have a goal kick.</description>
+        </fact>
+        <fact id="23243ad4-a51c-4458-b0bf-c04ed926a232" type="keeper_save" time="2014-06-24T17:24:28Z" updated_time="2014-06-24T17:24:28Z" scratch="false" x="22" y="55" clock="65" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="38996c7d-9a8d-40ff-b338-efd4201d19ef" type="shot_on_target" time="2014-06-24T17:24:28Z" updated_time="2014-06-24T17:24:28Z" scratch="false" x="22" y="55" clock="66" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="7f893698-5482-4742-8fcf-7716e6c594e4">
+          <description>Luis Suarez gets his shot on target but fails to score for Uruguay.</description>
+        </fact>
+        <fact id="9b93742d-ec67-4521-b25b-569f4684cbb2" type="corner_kick" time="2014-06-24T17:24:41Z" updated_time="2014-06-24T17:44:18Z" scratch="false" x="5" y="90" clock="66" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Corner awarded to Uruguay.</description>
+        </fact>
+        <fact id="2960d6fe-6dc2-488c-822c-aacfc82cb112" type="goal_kick" time="2014-06-24T17:25:15Z" updated_time="2014-06-24T17:25:15Z" scratch="false" x="5" y="50" clock="66" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball goes out of play for a Italy goal kick.</description>
+        </fact>
+        <fact id="8960ea61-de0f-4361-864e-adad546d6264" type="shot_blocked" time="2014-06-24T17:26:24Z" updated_time="2014-06-24T17:26:24Z" scratch="false" x="84" y="62" clock="68" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ciro Immobile (Italy) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="a64c46fd-eb84-4f65-886a-cb317c72a936" type="corner_kick" time="2014-06-24T17:26:59Z" updated_time="2014-06-24T17:26:59Z" scratch="false" x="95" y="90" clock="68" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy have been awarded a corner by Marco Rodriguez.</description>
+        </fact>
+        <fact id="a789f9a2-d583-45b3-936c-2e697506e97b" type="throwin" time="2014-06-24T17:27:09Z" updated_time="2014-06-24T17:27:09Z" scratch="false" x="84" y="1" clock="68" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in Uruguay.</description>
+        </fact>
+        <fact id="e3030503-b987-4bc8-b6c1-f8d2112af4ca" type="offside" time="2014-06-24T17:27:40Z" updated_time="2014-06-24T17:27:40Z" scratch="false" x="88" y="45" clock="69" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="224114c5-e1ee-46d4-88b6-1dda10f4453d">
+          <description>Ciro Immobile for Italy is whistled offside.</description>
+        </fact>
+        <fact id="a7a68600-0532-4251-983e-9f6d208813b2" type="free_kick" time="2014-06-24T17:29:14Z" updated_time="2014-06-24T17:29:14Z" scratch="false" x="14" y="49" clock="70" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="2240d704-0eda-4f7b-b3c4-ec7966ab0b2b" type="substitution" time="2014-06-24T17:29:45Z" updated_time="2014-06-24T17:29:45Z" scratch="false" clock="71" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_out_id="224114c5-e1ee-46d4-88b6-1dda10f4453d" player_in_id="3085db65-16ab-4045-9896-8fa0c7cde1ef">
+          <description>Antonio Cassano is on a sub for Ciro Immobile for Italy.</description>
+        </fact>
+        <fact id="13dc850c-c537-4695-96d9-4112ef8b6e5c" type="throwin" time="2014-06-24T17:30:17Z" updated_time="2014-06-24T17:30:17Z" scratch="false" x="33" y="99" clock="71" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball safe as Italy is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="af1f1076-be79-4811-9671-cb00855472bc" type="injury" time="2014-06-24T17:32:17Z" updated_time="2014-06-24T17:33:55Z" scratch="false" x="48" y="70" clock="73" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="d87520e6-d1d0-4559-bb46-211676b230d4">
+          <description>The match at Estadio das Dunas has been interrupted briefly for a check on Marco Verratti, who is down injured.</description>
+        </fact>
+        <fact id="1fed33e4-7e96-429f-8d92-d138967fec25" type="game_resumed" time="2014-06-24T17:33:43Z" updated_time="2014-06-24T17:33:43Z" scratch="false" clock="74">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="70e8046a-74cd-4b30-9849-e1875a19ff73" type="substitution" time="2014-06-24T17:33:55Z" updated_time="2014-06-24T17:33:55Z" scratch="false" clock="75" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_out_id="d87520e6-d1d0-4559-bb46-211676b230d4" player_in_id="03f09095-ae2a-4df7-9de7-0904b2086b92">
+          <description>Marco Verratti (Italy) does not seem to be able to continue. He is replaced by Thiago Motta.</description>
+        </fact>
+        <fact id="426e6d22-708c-443a-a9bc-94f1dcc71346" type="throwin" time="2014-06-24T17:34:01Z" updated_time="2014-06-24T17:34:01Z" scratch="false" x="34" y="98" clock="75" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Can Uruguay get the ball into an attacking position from this throw-in in Italy's half?</description>
+        </fact>
+        <fact id="3fc3370a-79fe-47f5-a7f7-a0bc44695aa9" type="throwin" time="2014-06-24T17:34:52Z" updated_time="2014-06-24T17:34:52Z" scratch="false" x="31" y="2" clock="75" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay to take a throw-in in Italy territory.</description>
+        </fact>
+        <fact id="81ba1b89-87b2-4a4d-9bec-4215730dedcb" type="free_kick" time="2014-06-24T17:35:44Z" updated_time="2014-06-24T17:35:44Z" scratch="false" x="19" y="16" clock="76" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Uruguay are in shooting range from this free kick.</description>
+        </fact>
+        <fact id="460a5784-27ae-49a6-929f-63f3ca32c2bd" type="card" time="2014-06-24T17:35:55Z" updated_time="2014-06-24T17:35:55Z" scratch="false" clock="77" card="Y" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="2e65391b-0106-4759-8c67-138d94a2a6bd">
+          <description>Mattia De Sciglio (Italy) gets a yellow card.</description>
+        </fact>
+        <fact id="56ba0466-eb37-413f-8e5b-b2456b781ceb" type="substitution" time="2014-06-24T17:36:41Z" updated_time="2014-06-24T17:36:41Z" scratch="false" clock="78" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_out_id="2b1b8b42-9bb2-48b8-9ae4-beca5f8dba7c" player_in_id="77217228-0545-44df-969c-86c0b6cae95c">
+          <description>Oscar Tabarez (Uruguay) is making a third substitution, with Gaston Ramirez replacing Cristian Rodriguez.</description>
+        </fact>
+        <fact id="715b856e-352a-45bd-9bb9-705e223ac7e2" type="free_kick" time="2014-06-24T17:37:35Z" updated_time="2014-06-24T17:37:35Z" scratch="false" x="9" y="51" clock="78" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="689acd57-9dc2-4a65-9ddb-3ab097b09f29" type="shot_blocked" time="2014-06-24T17:39:35Z" updated_time="2014-06-24T17:39:35Z" scratch="false" x="11" y="37" clock="81" team_id="6ea57d79-b740-4e32-b135-474dd53db2df"/>
+        <fact id="34e4dbd1-245d-403f-8dd0-500a4fc2aa9a" type="corner_kick" time="2014-06-24T17:39:40Z" updated_time="2014-06-24T17:39:40Z" scratch="false" x="5" y="5" clock="81" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Corner awarded to Uruguay.</description>
+        </fact>
+        <fact id="061f65e0-5d12-4db4-b67f-c56f29317d68" type="shot_on_target" time="2014-06-24T17:39:58Z" updated_time="2014-06-24T17:40:35Z" scratch="false" x="11" y="48" clock="81" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="ae77a456-2213-4442-8424-1a9aca404572">
+          <description>Diego Godin gets his shot on target but fails to score for Uruguay.</description>
+        </fact>
+        <fact id="58703caa-c880-4284-8db1-1bf0f28138c5" type="goal" time="2014-06-24T17:40:07Z" updated_time="2014-06-24T17:41:39Z" scratch="false" clock="81" home_score="0" away_score="1" penalty="false" owngoal="false" header="true" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="ae77a456-2213-4442-8424-1a9aca404572" assist1_id="77217228-0545-44df-969c-86c0b6cae95c">
+          <description>That's a fine assist from Gaston Ramirez.</description>
+        </fact>
+        <fact id="0da88ec7-4a41-4833-8425-b15a0940eb91" type="free_kick" time="2014-06-24T17:41:52Z" updated_time="2014-06-24T17:41:52Z" scratch="false" x="55" y="44" clock="82" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a free kick to Italy.</description>
+        </fact>
+        <fact id="d55ffc1e-30a5-4bf1-86e3-f72fe2543693" type="shot_blocked" time="2014-06-24T17:43:21Z" updated_time="2014-06-24T17:43:21Z" scratch="false" x="55" y="44" clock="85" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Andrea Pirlo (Italy) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="d4194fb4-1f09-4d2d-bc8d-d8877abd458b" type="corner_kick" time="2014-06-24T17:43:29Z" updated_time="2014-06-24T17:43:29Z" scratch="false" x="95" y="5" clock="85" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy have been awarded a corner by Marco Rodriguez.</description>
+        </fact>
+        <fact id="9ff852e0-4d1b-4161-a1a7-acbc750d04c6" type="throwin" time="2014-06-24T17:45:10Z" updated_time="2014-06-24T17:45:10Z" scratch="false" x="87" y="99" clock="86" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay in their own half.</description>
+        </fact>
+        <fact id="3b486046-b547-4771-a927-9703cb97f499" type="throwin" time="2014-06-24T17:46:23Z" updated_time="2014-06-24T17:46:23Z" scratch="false" x="77" y="99" clock="87" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Throw-in for Uruguay at Estadio das Dunas.</description>
+        </fact>
+        <fact id="1de879fe-285f-4985-ae24-631640cafd8b" type="throwin" time="2014-06-24T17:47:56Z" updated_time="2014-06-24T17:47:56Z" scratch="false" x="57" y="99" clock="89" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez signals a Italy throw-in in Uruguay's half.</description>
+        </fact>
+        <fact id="e60d20cb-a6e1-4b79-bf38-39245cdb59c6" type="throwin" time="2014-06-24T17:48:32Z" updated_time="2014-06-24T17:48:32Z" scratch="false" x="41" y="1" clock="89" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy in their own half.</description>
+        </fact>
+        <fact id="6eb2a609-ca03-4c9a-a056-7bf13126b7ff" type="free_kick" time="2014-06-24T17:49:03Z" updated_time="2014-06-24T17:49:03Z" scratch="false" x="77" y="68" clock="90" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Marco Rodriguez signals a free kick to Uruguay in their own half.</description>
+        </fact>
+        <fact id="4e7d190b-4bd1-4842-bf71-bdf5c4172ce4" type="injury_time" time="2014-06-24T17:49:09Z" updated_time="2014-06-24T17:49:09Z" scratch="false" clock="90" injury_time="5" period="P2">
+          <description>5 minutes will be added to the second half.</description>
+        </fact>
+        <fact id="601a368c-ae61-47db-a7f0-62e69d1273b9" type="goal_kick" time="2014-06-24T17:50:08Z" updated_time="2014-06-24T17:50:08Z" scratch="false" x="5" y="50" clock="90" injury_time="1" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Marco Rodriguez awards Italy a goal kick.</description>
+        </fact>
+        <fact id="8b53b0a7-6d2c-4b3a-a006-39659aa0f4d3" type="card" time="2014-06-24T17:51:37Z" updated_time="2014-06-24T17:52:02Z" scratch="false" clock="90" injury_time="1" card="Y" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="1087aae7-3b8b-434e-b5a0-e079b1d44716">
+          <description>Fernando Muslera for Uruguay has been booked by Marco Rodriguez and receives a first yellow card.</description>
+        </fact>
+        <fact id="16fd5e94-be47-4b6d-b413-b906ec43e021" type="free_kick" time="2014-06-24T17:53:00Z" updated_time="2014-06-24T17:53:00Z" scratch="false" x="55" y="53" clock="90" injury_time="4" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="2468a055-3012-46f9-9d38-d79a854ca6db" type="shot_off_target" time="2014-06-24T17:53:25Z" updated_time="2014-06-24T17:53:25Z" scratch="false" x="38" y="38" clock="90" injury_time="4" team_id="6ea57d79-b740-4e32-b135-474dd53db2df" player_id="7f893698-5482-4742-8fcf-7716e6c594e4">
+          <description>Uruguay are coming forward and Luis Suarez gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="b84dbe76-6fac-4fd1-96a8-ccd4fbf39bc8" type="goal_kick" time="2014-06-24T17:53:26Z" updated_time="2014-06-24T17:53:26Z" scratch="false" x="5" y="50" clock="90" injury_time="4" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Goal kick for Italy at Estadio das Dunas.</description>
+        </fact>
+        <fact id="a305ba13-fa54-4cf6-9747-ec9b9a2195af" type="free_kick" time="2014-06-24T17:53:39Z" updated_time="2014-06-24T17:53:39Z" scratch="false" x="56" y="28" clock="90" injury_time="4" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="603d9131-6d4f-4caa-80dd-d45aa47ca38d" type="throwin" time="2014-06-24T17:54:20Z" updated_time="2014-06-24T17:54:20Z" scratch="false" x="90" y="98" clock="90" injury_time="5" team_id="6ea57d79-b740-4e32-b135-474dd53db2df">
+          <description>Ball safe as Uruguay is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="dfddded6-c838-48a6-a9e3-f8883bd8331f" type="period_over" time="2014-06-24T17:54:54Z" updated_time="2014-06-24T17:54:54Z" scratch="false" home_score="0" away_score="1" period="P2">
+          <description>The match is over. Final score 0-1.</description>
+        </fact>
+        <fact id="1227747b-21da-4d12-9d34-6eb51005490c" type="match_ended" time="2014-06-24T17:54:54Z" updated_time="2014-06-24T17:54:54Z" scratch="false" home_score="0" away_score="1" winner_id="6ea57d79-b740-4e32-b135-474dd53db2df" draw="false"/>
+      </facts>
+      <!-- 4768754/4707/4725 -->
+    </match>
+  </matches>
+</summary>

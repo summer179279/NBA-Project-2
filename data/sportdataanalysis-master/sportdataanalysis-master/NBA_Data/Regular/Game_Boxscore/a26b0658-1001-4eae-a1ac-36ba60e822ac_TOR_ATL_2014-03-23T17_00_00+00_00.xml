@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-24 18:28:56 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="a26b0658-1001-4eae-a1ac-36ba60e822ac" status="closed" coverage="full" home_team="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-23T17:00:00+00:00" duration="2:12" attendance="18140" lead_changes="2" times_tied="3" clock="00:00" quarter="4">
+  <team name="Raptors" market="Toronto" id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" points="96">
+    <scoring>
+      <quarter number="1" sequence="1" points="16"/>
+      <quarter number="2" sequence="2" points="26"/>
+      <quarter number="3" sequence="3" points="18"/>
+      <quarter number="4" sequence="4" points="36"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Kyle Lowry" position="G" primary_position="PG" jersey_number="7" id="8c090758-6baa-468d-82fd-d47e17d5091b">
+          <statistics minutes="27:04" field_goals_made="9" field_goals_att="17" field_goals_pct="52.9" three_points_made="3" three_points_att="7" three_points_pct="42.9" two_points_made="6" two_points_att="10" two_points_pct="0.6" blocked_att="1" free_throws_made="4" free_throws_att="7" free_throws_pct="57.1" offensive_rebounds="1" defensive_rebounds="1" rebounds="2" assists="4" turnovers="1" steals="4" blocks="0" assists_turnover_ratio="4.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="11" points="25"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Jonas Valanciunas" position="C" primary_position="C" jersey_number="17" id="c8788ad2-89f7-4ec9-a22b-dcaf6190889b">
+          <statistics minutes="33:08" field_goals_made="2" field_goals_att="4" field_goals_pct="50.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="2" two_points_att="4" two_points_pct="0.5" blocked_att="0" free_throws_made="9" free_throws_att="10" free_throws_pct="90.0" offensive_rebounds="4" defensive_rebounds="9" rebounds="13" assists="0" turnovers="2" steals="0" blocks="1" assists_turnover_ratio="0.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="14" points="13"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Greivis Vasquez" position="G" primary_position="PG" jersey_number="21" id="cbe8d33e-a92a-473c-942f-90d8b76ed77c">
+          <statistics minutes="27:49" field_goals_made="5" field_goals_att="13" field_goals_pct="38.5" three_points_made="0" three_points_att="5" three_points_pct="0.0" two_points_made="5" two_points_att="8" two_points_pct="0.625" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="5" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="1.67" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="1" points="12"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Hawks" market="Atlanta" id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" points="86">
+    <scoring>
+      <quarter number="1" sequence="1" points="25"/>
+      <quarter number="2" sequence="2" points="24"/>
+      <quarter number="3" sequence="3" points="22"/>
+      <quarter number="4" sequence="4" points="15"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="DeMarre Carroll" position="F" primary_position="SF" jersey_number="5" id="664afb4f-3fc1-4e25-bcb8-bab2c0c3c33b">
+          <statistics minutes="37:25" field_goals_made="7" field_goals_att="13" field_goals_pct="53.8" three_points_made="1" three_points_att="2" three_points_pct="50.0" two_points_made="6" two_points_att="11" two_points_pct="0.545" blocked_att="1" free_throws_made="2" free_throws_att="5" free_throws_pct="40.0" offensive_rebounds="3" defensive_rebounds="1" rebounds="4" assists="1" turnovers="0" steals="5" blocks="0" assists_turnover_ratio="0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="17"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Pero Antic" position="C" primary_position="C" jersey_number="6" id="59b4d7a8-9ac8-436d-a76a-45335ca6dd68">
+          <statistics minutes="26:17" field_goals_made="1" field_goals_att="6" field_goals_pct="16.7" three_points_made="0" three_points_att="5" three_points_pct="0.0" two_points_made="1" two_points_att="1" two_points_pct="1.0" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="3" defensive_rebounds="7" rebounds="10" assists="3" turnovers="4" steals="0" blocks="0" assists_turnover_ratio="0.75" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-15" points="4"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Jeff Teague" position="G" primary_position="PG" jersey_number="0" id="9cf99a61-6b51-4aed-8940-0480dc512b36">
+          <statistics minutes="35:36" field_goals_made="5" field_goals_att="13" field_goals_pct="38.5" three_points_made="1" three_points_att="3" three_points_pct="33.3" two_points_made="4" two_points_att="10" two_points_pct="0.4" blocked_att="1" free_throws_made="5" free_throws_att="5" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="5" turnovers="3" steals="1" blocks="1" assists_turnover_ratio="1.67" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="16"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-24 18:28:57 +0000 -->

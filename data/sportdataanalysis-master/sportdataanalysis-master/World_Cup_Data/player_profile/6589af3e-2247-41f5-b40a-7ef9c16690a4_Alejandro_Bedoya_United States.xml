@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:39:03Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="6589af3e-2247-41f5-b40a-7ef9c16690a4" country_code="USA" preferred_foot="R" height_in="70" weight_lb="160" height_cm="177" weight_kg="72" first_name="Alejandro" last_name="Bedoya" country="United States">
+    <teams>
+      <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" country_code="USA" position="M" is_manager="false" is_player="true" country="United States" jersey_number="11"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="180" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="263" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="25f72edd-dbf5-4790-afa7-5fbb0dafeb37" name="WC Qualif., CONCACAF"/>
+          <team id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="31" matches_started="0" minutes_played="2202" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="11" substitutions_in="8">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1"/>
+          <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1"/>
+          <team id="3d7f909c-3abb-4730-9585-cd9f1c81a502" name="FC Nantes" alias="NAN" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="984021cb-f247-4345-8c28-149c873429e0" name="Coupe de la Ligue"/>
+          <tournament id="d47f400e-998b-454c-8c85-c0b16da458eb" name="Coupe de la Ligue"/>
+          <team id="3d7f909c-3abb-4730-9585-cd9f1c81a502" name="FC Nantes" alias="NAN" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 49855/1405922951 -->
+  </player>
+</profile>

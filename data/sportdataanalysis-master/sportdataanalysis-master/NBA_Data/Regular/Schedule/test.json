@@ -1,0 +1,408 @@
+{
+    "team": {
+        "@alias": "ORL",
+        "@founded": "1989",
+        "@id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+        "@market": "Orlando",
+        "@name": "Magic",
+        "@xmlns": "http://feed.elasticstats.com/schema/basketball/team-v2.0.xsd",
+        "coaches": {
+            "coach": {
+                "@experience": "2",
+                "@first_name": "Jacque",
+                "@full_name": "Jacque Vaughn",
+                "@id": "519e77cd-0abf-4cd8-b0ef-ec3625d99e8c",
+                "@last_name": "Vaughn",
+                "@position": "Head Coach"
+            }
+        },
+        "hierarchy": {
+            "conference": {
+                "@alias": "EASTERN",
+                "@id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+                "@name": "EASTERN CONFERENCE"
+            },
+            "division": {
+                "@alias": "SOUTHEAST",
+                "@id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+                "@name": "Southeast"
+            },
+            "league": {
+                "@alias": "NBA",
+                "@id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+                "@name": "NBA"
+            }
+        },
+        "players": {
+            "player": [
+                {
+                    "@abbr_name": "A.Gordon",
+                    "@birth_place": "San Jose, CA, USA",
+                    "@birthdate": "1995-09-16",
+                    "@college": "Arizona",
+                    "@experience": "0",
+                    "@first_name": "Aaron",
+                    "@full_name": "Aaron Gordon",
+                    "@height": "81",
+                    "@id": "20f85838-0bd5-4c1f-ab85-a308bafaf5bc",
+                    "@jersey_number": "0",
+                    "@last_name": "Gordon",
+                    "@position": "F",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:31:51+00:00",
+                    "@weight": "220",
+                    "draft": {
+                        "@pick": "4",
+                        "@round": "1",
+                        "@team_id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2014"
+                    }
+                },
+                {
+                    "@abbr_name": "C.Frye",
+                    "@birth_place": "White Plains, NY, USA",
+                    "@birthdate": "1983-05-17",
+                    "@college": "Arizona",
+                    "@experience": "7",
+                    "@first_name": "Channing",
+                    "@full_name": "Channing Frye",
+                    "@height": "83",
+                    "@id": "4d3a5b96-f4e1-424f-b8e2-1995b0eaa5d7",
+                    "@jersey_number": "0",
+                    "@last_name": "Frye",
+                    "@position": "F-C",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:32:14+00:00",
+                    "@weight": "245",
+                    "draft": {
+                        "@pick": "8",
+                        "@round": "1",
+                        "@team_id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2005"
+                    }
+                },
+                {
+                    "@abbr_name": "W.Green",
+                    "@birth_place": "Detroit, MI, USA",
+                    "@birthdate": "1981-07-28",
+                    "@college": "Detroit Mercy",
+                    "@experience": "10",
+                    "@first_name": "Willie",
+                    "@full_name": "Willie Green",
+                    "@height": "75",
+                    "@id": "598d0707-7042-497b-9846-93cde9a420d7",
+                    "@jersey_number": "0",
+                    "@last_name": "Green",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:32:31+00:00",
+                    "@weight": "201",
+                    "draft": {
+                        "@pick": "41",
+                        "@round": "2",
+                        "@team_id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2003"
+                    }
+                },
+                {
+                    "@abbr_name": "E.Moore",
+                    "@birth_place": "East Chicago, IN, USA",
+                    "@birthdate": "1989-02-25",
+                    "@college": "Purdue",
+                    "@experience": "2",
+                    "@first_name": "E'Twaun",
+                    "@full_name": "E'Twaun Moore",
+                    "@height": "76",
+                    "@id": "5a854508-5f41-4009-8986-a162224c511d",
+                    "@jersey_number": "55",
+                    "@last_name": "Moore",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2014-02-27T21:55:21+00:00",
+                    "@weight": "191",
+                    "draft": {
+                        "@pick": "55",
+                        "@round": "2",
+                        "@team_id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2011"
+                    }
+                },
+                {
+                    "@abbr_name": "E.Payton",
+                    "@birth_place": "Gretna, LA, USA",
+                    "@birthdate": "1994-02-22",
+                    "@college": "Louisiana\u2013Lafayette",
+                    "@experience": "0",
+                    "@first_name": "Elfrid",
+                    "@full_name": "Elfrid Payton",
+                    "@height": "75",
+                    "@id": "5fe45e9e-7401-4896-8883-5f969361dbb7",
+                    "@jersey_number": "0",
+                    "@last_name": "Payton",
+                    "@position": "G",
+                    "@primary_position": "PG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:34:57+00:00",
+                    "@weight": "190",
+                    "draft": {
+                        "@pick": "10",
+                        "@round": "1",
+                        "@team_id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2014"
+                    }
+                },
+                {
+                    "@abbr_name": "N.Vucevic",
+                    "@birth_place": "Morges,, CHE",
+                    "@birthdate": "1990-10-24",
+                    "@college": "USC",
+                    "@experience": "2",
+                    "@first_name": "Nikola",
+                    "@full_name": "Nikola Vucevic",
+                    "@height": "84",
+                    "@id": "7366b2b7-5959-4dd9-9204-760e861b3119",
+                    "@jersey_number": "9",
+                    "@last_name": "Vucevic",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2013-11-08T21:16:44+00:00",
+                    "@weight": "250",
+                    "draft": {
+                        "@pick": "16",
+                        "@round": "1",
+                        "@team_id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2011"
+                    }
+                },
+                {
+                    "@abbr_name": "T.Harris",
+                    "@birth_place": "Islip, NY, USA",
+                    "@birthdate": "1992-07-15",
+                    "@college": "Tennessee",
+                    "@experience": "2",
+                    "@first_name": "Tobias",
+                    "@full_name": "Tobias Harris",
+                    "@height": "81",
+                    "@id": "82f09975-6a8d-42e4-b42c-a52b9349ed50",
+                    "@jersey_number": "12",
+                    "@last_name": "Harris",
+                    "@position": "F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2013-11-08T21:14:57+00:00",
+                    "@weight": "235",
+                    "draft": {
+                        "@pick": "19",
+                        "@round": "1",
+                        "@team_id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2011"
+                    }
+                },
+                {
+                    "@abbr_name": "A.Nicholson",
+                    "@birth_place": "Mississauga, ONT, CAN",
+                    "@birthdate": "1989-12-08",
+                    "@college": "St. Bonaventure",
+                    "@experience": "1",
+                    "@first_name": "Andrew",
+                    "@full_name": "Andrew Nicholson",
+                    "@height": "81",
+                    "@id": "8f4b695b-36d0-4801-bebd-c94c1315a590",
+                    "@jersey_number": "44",
+                    "@last_name": "Nicholson",
+                    "@position": "F",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2013-07-23T15:19:40+00:00",
+                    "@weight": "250",
+                    "draft": {
+                        "@pick": "19",
+                        "@round": "1",
+                        "@team_id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "D.Marble",
+                    "@birth_place": "Southfield, MI",
+                    "@birthdate": "1992-09-21",
+                    "@college": "Iowa",
+                    "@experience": "0",
+                    "@first_name": "Devyn",
+                    "@full_name": "Devyn Marble",
+                    "@height": "79",
+                    "@id": "a98c111a-5145-4b0d-aaa7-a2d6024e1e31",
+                    "@jersey_number": "0",
+                    "@last_name": "Marble",
+                    "@position": "G-F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:33:41+00:00",
+                    "@weight": "192",
+                    "draft": {
+                        "@pick": "56th",
+                        "@round": "2nd",
+                        "@team_id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2014"
+                    }
+                },
+                {
+                    "@abbr_name": "V.Oladipo",
+                    "@birth_place": "Upper Marlboro, MD, USA",
+                    "@birthdate": "1992-05-04",
+                    "@college": "Indiana",
+                    "@experience": "0",
+                    "@first_name": "Victor",
+                    "@full_name": "Victor Oladipo",
+                    "@height": "76",
+                    "@id": "ae9e275c-9dce-4c10-a108-cfee6958df48",
+                    "@jersey_number": "5",
+                    "@last_name": "Oladipo",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2013-07-23T15:21:30+00:00",
+                    "@weight": "215",
+                    "draft": {
+                        "@pick": "2",
+                        "@round": "1",
+                        "@team_id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2013"
+                    }
+                },
+                {
+                    "@abbr_name": "E.Fournier",
+                    "@birth_place": "Saint-Maurice,, FRA",
+                    "@birthdate": "1992-10-29",
+                    "@college": "France",
+                    "@experience": "1",
+                    "@first_name": "Evan",
+                    "@full_name": "Evan Fournier",
+                    "@height": "78",
+                    "@id": "b736d95c-8474-48b2-9000-24ce926eace3",
+                    "@jersey_number": "0",
+                    "@last_name": "Fournier",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T19:27:44+00:00",
+                    "@weight": "200",
+                    "draft": {
+                        "@pick": "20",
+                        "@round": "1",
+                        "@team_id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "D.Dedmon",
+                    "@birth_place": "Lancaster, CA, USA",
+                    "@birthdate": "1989-08-12",
+                    "@college": "USC",
+                    "@experience": "0",
+                    "@first_name": "Dewayne",
+                    "@full_name": "Dewayne Dedmon",
+                    "@height": "84",
+                    "@id": "b8a77045-a325-4ac1-ad9c-d065ec1f41a4",
+                    "@jersey_number": "3",
+                    "@last_name": "Dedmon",
+                    "@position": "C",
+                    "@primary_position": "C",
+                    "@status": "ACT",
+                    "@updated": "2014-02-26T17:31:38+00:00",
+                    "@weight": "255",
+                    "draft": {
+                        "@year": "2013"
+                    }
+                },
+                {
+                    "@abbr_name": "B.Gordon",
+                    "@birth_place": "London,, GBR",
+                    "@birthdate": "1983-04-04",
+                    "@college": "Connecticut",
+                    "@experience": "9",
+                    "@first_name": "Ben",
+                    "@full_name": "Ben Gordon",
+                    "@height": "75",
+                    "@id": "dc4004c4-654d-45d4-b07b-0d2117d140d2",
+                    "@jersey_number": "0",
+                    "@last_name": "Gordon",
+                    "@position": "G",
+                    "@primary_position": "SG",
+                    "@status": "ACT",
+                    "@updated": "2014-07-14T20:32:01+00:00",
+                    "@weight": "200",
+                    "draft": {
+                        "@pick": "3",
+                        "@round": "1",
+                        "@team_id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2004"
+                    }
+                },
+                {
+                    "@abbr_name": "M.Harkless",
+                    "@birth_place": "New York City, NY, USA",
+                    "@birthdate": "1993-05-11",
+                    "@college": "St. John's (N.Y.)",
+                    "@experience": "1",
+                    "@first_name": "Moe",
+                    "@full_name": "Moe Harkless",
+                    "@height": "81",
+                    "@id": "df6f21d3-5221-42e2-945b-8fe7cebdf03e",
+                    "@jersey_number": "21",
+                    "@last_name": "Harkless",
+                    "@position": "F",
+                    "@primary_position": "SF",
+                    "@status": "ACT",
+                    "@updated": "2013-11-08T21:14:48+00:00",
+                    "@weight": "220",
+                    "draft": {
+                        "@pick": "15",
+                        "@round": "1",
+                        "@team_id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                },
+                {
+                    "@abbr_name": "K.O'Quinn",
+                    "@birth_place": "Queens, NY, USA",
+                    "@birthdate": "1990-03-26",
+                    "@college": "Norfolk State",
+                    "@experience": "1",
+                    "@first_name": "Kyle",
+                    "@full_name": "Kyle O'Quinn",
+                    "@height": "82",
+                    "@id": "e58427b6-c42e-4bee-9556-4eed421d1cf7",
+                    "@jersey_number": "2",
+                    "@last_name": "O'Quinn",
+                    "@position": "F",
+                    "@primary_position": "PF",
+                    "@status": "ACT",
+                    "@updated": "2013-11-08T21:16:08+00:00",
+                    "@weight": "250",
+                    "draft": {
+                        "@pick": "49",
+                        "@round": "2",
+                        "@team_id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+                        "@year": "2012"
+                    }
+                }
+            ]
+        },
+        "venue": {
+            "@address": "400 W. Church St.",
+            "@capacity": "18846",
+            "@city": "Orlando",
+            "@country": "USA",
+            "@id": "aecd8da6-0404-599c-a792-4b33fb084a2a",
+            "@name": "Amway Center",
+            "@state": "FL",
+            "@zip": "32801"
+        }
+    }
+}

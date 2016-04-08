@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-15 03:06:18 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="713067dd-82cd-4c80-beeb-10e53d869a02" status="closed" coverage="full" home_team="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-15T00:30:00+00:00" duration="2:02" attendance="18581" lead_changes="4" times_tied="1" clock="00:00" quarter="4">
+  <team name="Spurs" market="San Antonio" id="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" points="119">
+    <scoring>
+      <quarter number="1" sequence="1" points="29"/>
+      <quarter number="2" sequence="2" points="32"/>
+      <quarter number="3" sequence="3" points="28"/>
+      <quarter number="4" sequence="4" points="30"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Danny Green" position="G-F" primary_position="SG" jersey_number="4" id="478e5e20-5d59-402f-a901-b8e78f3e9508">
+          <statistics minutes="21:57" field_goals_made="5" field_goals_att="11" field_goals_pct="45.5" three_points_made="5" three_points_att="8" three_points_pct="62.5" two_points_made="0" two_points_att="3" two_points_pct="0.0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="2" defensive_rebounds="3" rebounds="5" assists="2" turnovers="1" steals="1" blocks="2" assists_turnover_ratio="2.0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="17" points="15"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Matt Bonner" position="F-C" primary_position="PF" jersey_number="15" id="8da88be3-bc4a-406a-9e16-147bdac064eb">
+          <statistics minutes="25:33" field_goals_made="5" field_goals_att="9" field_goals_pct="55.6" three_points_made="3" three_points_att="7" three_points_pct="42.9" two_points_made="2" two_points_att="2" two_points_pct="1.0" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="9" rebounds="10" assists="4" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="21" points="13"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Cory Joseph" position="G" primary_position="PG" jersey_number="5" id="5769354c-0661-4ac7-86e5-3fd51506df36">
+          <statistics minutes="26:01" field_goals_made="5" field_goals_att="8" field_goals_pct="62.5" three_points_made="1" three_points_att="1" three_points_pct="100.0" two_points_made="4" two_points_att="7" two_points_pct="0.571" blocked_att="0" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="1" defensive_rebounds="2" rebounds="3" assists="7" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="7.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="20" points="11"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Lakers" market="Los Angeles" id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" points="85">
+    <scoring>
+      <quarter number="1" sequence="1" points="14"/>
+      <quarter number="2" sequence="2" points="20"/>
+      <quarter number="3" sequence="3" points="26"/>
+      <quarter number="4" sequence="4" points="25"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Pau Gasol" position="C-F" primary_position="PF" jersey_number="16" id="4aafa7e4-d271-42d2-8979-bdefcd221d30">
+          <statistics minutes="26:11" field_goals_made="8" field_goals_att="16" field_goals_pct="50.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="8" two_points_att="15" two_points_pct="0.533" blocked_att="1" free_throws_made="2" free_throws_att="3" free_throws_pct="66.7" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="2" turnovers="1" steals="1" blocks="4" assists_turnover_ratio="2.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-19" points="18"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Pau Gasol" position="C-F" primary_position="PF" jersey_number="16" id="4aafa7e4-d271-42d2-8979-bdefcd221d30">
+          <statistics minutes="26:11" field_goals_made="8" field_goals_att="16" field_goals_pct="50.0" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="8" two_points_att="15" two_points_pct="0.533" blocked_att="1" free_throws_made="2" free_throws_att="3" free_throws_pct="66.7" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="2" turnovers="1" steals="1" blocks="4" assists_turnover_ratio="2.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-19" points="18"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Kendall Marshall" position="G" primary_position="PG" jersey_number="12" id="9fd789bc-0aa4-4028-b114-5014deacfbe2">
+          <statistics minutes="27:55" field_goals_made="2" field_goals_att="9" field_goals_pct="22.2" three_points_made="2" three_points_att="4" three_points_pct="50.0" two_points_made="0" two_points_att="5" two_points_pct="0.0" blocked_att="1" free_throws_made="0" free_throws_att="0" free_throws_pct="0.0" offensive_rebounds="0" defensive_rebounds="3" rebounds="3" assists="9" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-10" points="6"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-15 03:06:18 +0000 -->

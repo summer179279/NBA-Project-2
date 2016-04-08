@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:35:40Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="dc3acf1b-dfb9-43bc-b7c9-f42626b66b51" status="closed" scratched="false" period="P2" scheduled="2014-06-12T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A"/>
+      <round week="24" number="1" type="table"/>
+      <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" formation="4-2-3-1" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="83" ball_safe="80" corner_kicks="7" dangerous_attacks="48" fouls="5" free_kicks="20" goal_attempts="10" goal_kicks="7" offsides="1" saves="3" shots_total="10" substitutions="3" throw_ins="31" yellow_card="2" shots_on_target="6" shots_off_target="4" possessions="60"/>
+        <players>
+          <player id="4f4b810b-3f0c-41f1-b821-643b86197b41" country_code="BRA" position="M" started="false" tactical_position="7" tactical_order="10" first_name="Ramires" last_name="" country="Brazil" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Fernandinho" last_name="" country="Brazil" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2391fa91-c665-4ab1-8ec5-3b0d59bfbdf3" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dante" last_name="" country="Brazil" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="000a2eea-2ad2-4f9d-91ac-264d4f4029e3" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Thiago" last_name="Silva" country="Brazil" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8e24463d-d0d2-4980-b098-00baa4119a25" country_code="BRA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Dani" last_name="Alves" country="Brazil" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="35b62918-6ee1-41c1-8272-ff02318e4189" country_code="BRA" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Hulk" last_name="" country="Brazil" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="3fa8f2d3-f729-4c83-ae5a-c9f1d03f7021" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Jefferson" last_name="" country="Brazil" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0769b903-d74f-492b-815f-3b684b282a1a" country_code="BRA" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Hernanes" last_name="" country="Brazil" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="26301547-f620-4420-828f-2b091891e1c8" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Maicon" last_name="" country="Brazil" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3c384bea-5bfb-4071-9179-97774689573b" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Maxwell" last_name="" country="Brazil" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="613a1283-a812-40bb-bdd9-a52b6f8836f1" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Paulinho" last_name="" country="Brazil" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="4d72c82f-34bd-4725-be0f-b6f529f7f840" country_code="BRA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jo" last_name="" country="Brazil" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0619d154-9b12-428e-a423-787eb2274bb7" country_code="BRA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Marcelo" last_name="" country="Brazil" jersey_number="6">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2c674fe0-d706-4450-bf33-2e747265fbbf" country_code="BRA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Oscar" last_name="" country="Brazil" jersey_number="11">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1a3bd491-fc1c-4adf-8510-5211381349b2" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Victor" last_name="" country="Brazil" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="70edfb19-0496-4821-bf6a-c839057c10d2" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="David" last_name="Luiz" country="Brazil" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0957db74-9775-4dc9-9cc1-df3d48bb2c93" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Luiz" last_name="Gustavo" country="Brazil" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6" country_code="BRA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Fred" last_name="" country="Brazil" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2be00660-77db-4c8e-b704-f0ec23bf6564" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Willian" last_name="" country="Brazil" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="eef74fad-80fa-45a1-9809-18598b4efbea" country_code="BRA" position="M" started="false" tactical_position="5" tactical_order="8" first_name="Bernard" last_name="" country="Brazil" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="baff433f-1856-4420-b98f-4102bd835ac2" country_code="BRA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Julio Cesar" last_name="" country="Brazil" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="423e9818-7882-422f-bd8c-babf53135cfc" country_code="BRA" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Neymar" last_name="" country="Brazil" jersey_number="10">
+            <statistics goal="2" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="187285b3-9e1c-473b-9c41-15a47a1d6766" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Henrique" last_name="" country="Brazil" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="66" ball_safe="72" corner_kicks="3" dangerous_attacks="29" fouls="20" free_kicks="6" goal_attempts="9" goal_kicks="9" offsides="0" saves="3" shots_total="9" substitutions="2" throw_ins="31" yellow_card="2" shots_on_target="3" shots_off_target="6" possessions="40"/>
+        <players>
+          <player id="93048838-3453-4b30-84b2-5122a899588a" country_code="HRV" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Danijel" last_name="Subasic" country="Croatia" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="07a75db6-cb7a-4dc1-9d93-649bfece79db" country_code="HRV" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Sime" last_name="Vrsaljko" country="Croatia" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="638610c8-3608-4d6b-9b5f-e1d7864fae29" country_code="HRV" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Oliver" last_name="Zelenika" country="Croatia" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8a8fa3d3-afa8-4305-895d-d58e50cea4c9" country_code="HRV" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Luka" last_name="Modric" country="Croatia" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5edf275e-895b-4c1d-82dc-7cb4bfb139d9" country_code="HRV" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Darijo" last_name="Srna" country="Croatia" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b1302711-5764-4c0c-bbd1-6b82ba70baaf" country_code="HRV" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Ante" last_name="Rebic" country="Croatia" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0c7de671-d4d3-4498-bcec-b371eb9eb547" country_code="HRV" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Dejan" last_name="Lovren" country="Croatia" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="13625a84-7ec4-4774-bc49-9a24a1eaf8bd" country_code="HRV" position="M" started="true" tactical_position="5" tactical_order="8" first_name="Ivan" last_name="Perisic" country="Croatia" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="ccd9c827-245a-4dbc-989f-a917c6cb9307" country_code="HRV" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Gordon" last_name="Schildenfeld" country="Croatia" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="97e853b8-e4ea-4497-b210-cfdacb9a51cc" country_code="HRV" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Stipe" last_name="Pletikosa" country="Croatia" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a11c9ec6-fde4-401d-9532-78ca6cf4cbdd" country_code="HRV" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Vedran" last_name="Corluka" country="Croatia" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3a583dea-5689-4826-a344-66c9d5cdfb8c" country_code="HRV" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Ognjen" last_name="Vukojevic" country="Croatia" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0bcd1821-48bf-457e-a637-e1dd4c5b5097" country_code="HRV" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Ivica" last_name="Olic" country="Croatia" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="abd038a7-55d9-4b28-8cda-957f965cc461" country_code="HRV" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Milan" last_name="Badelj" country="Croatia" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2cf4b152-2903-44df-82da-86e17e81d0e7" country_code="HRV" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Sammir" last_name="" country="Croatia" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="22321648-a380-4c60-8142-a1fa21254012" country_code="HRV" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Nikica" last_name="Jelavic" country="Croatia" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="d1cdd983-e9b1-4b58-9b5d-54500d70a300" country_code="HRV" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Danijel" last_name="Pranjic" country="Croatia" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="009c5d6d-693b-4387-ae68-6e9e077b813e" country_code="HRV" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Domagoj" last_name="Vida" country="Croatia" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0b11f665-b855-4d2e-ab6d-77c9d61aaa9a" country_code="HRV" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Ivan" last_name="Rakitic" country="Croatia" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="60f814ca-2d9f-4d01-b9cd-ee91a9dfd222" country_code="HRV" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Mateo" last_name="Kovacic" country="Croatia" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="e93662bd-9669-40a6-b24b-9b3d1c34417b" country_code="HRV" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Eduardo" last_name="" country="Croatia" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="50ccf166-db57-4d7b-a6fe-67b8659a6e63" country_code="HRV" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Mario" last_name="Mandzukic" country="Croatia" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="631c0dcb-f45a-4da3-849e-3a64f8b1a947" country_code="HRV" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Marcelo" last_name="Brozovic" country="Croatia" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+        </players>
+      </away>
+      <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372"/>
+      <facts>
+        <fact id="47290d3c-fe02-4ae5-a7b3-3f3f22e05a8b" type="match_started" time="2014-06-12T20:01:57Z" updated_time="2014-06-12T20:01:57Z" scratch="false" clock="1" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>The first-half is just kicking off.</description>
+        </fact>
+        <fact id="59b67841-1c30-44c5-ab5d-2f01b578b6e4" type="period_started" time="2014-06-12T20:01:57Z" updated_time="2014-06-12T20:01:57Z" scratch="false" period="P1"/>
+        <fact id="2b016e6a-58fb-456a-beb4-30b23dac1fc3" type="throwin" time="2014-06-12T20:02:12Z" updated_time="2014-06-12T20:02:12Z" scratch="false" x="69" y="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in the half of Croatia.</description>
+        </fact>
+        <fact id="3970f2be-6ad0-466f-94aa-87fab84d20cf" type="throwin" time="2014-06-12T20:02:34Z" updated_time="2014-06-12T20:02:34Z" scratch="false" x="34" y="99" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="597ded40-f6a9-4fb0-8522-a78be445f838" type="shot_off_target" time="2014-06-12T20:02:48Z" updated_time="2014-06-12T20:02:58Z" scratch="false" x="24" y="57" clock="1" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="60f814ca-2d9f-4d01-b9cd-ee91a9dfd222">
+          <description>Croatia's Mateo Kovacic breaks free at Arena de Sao Paulo . But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="131c1b24-e7e4-4a16-87e6-6aec3d122788" type="goal_kick" time="2014-06-12T20:02:48Z" updated_time="2014-06-12T20:02:48Z" scratch="false" x="5" y="50" clock="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>It's a goal kick for the home team in Sao Paulo.</description>
+        </fact>
+        <fact id="52662458-ca31-4b3e-be9e-d82201e8412e" type="throwin" time="2014-06-12T20:03:31Z" updated_time="2014-06-12T20:03:31Z" scratch="false" x="82" y="99" clock="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Croatia needs to be cautious. Brazil have an attacking throw-in.</description>
+        </fact>
+        <fact id="f7b67f89-8df6-46ae-b882-bd760151efe1" type="throwin" time="2014-06-12T20:05:17Z" updated_time="2014-06-12T20:05:17Z" scratch="false" x="68" y="1" clock="3" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="1ea2408e-3447-438d-90b1-f7030269ff77" type="free_kick" time="2014-06-12T20:06:13Z" updated_time="2014-06-12T20:06:13Z" scratch="false" x="79" y="23" clock="4" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="4c08d6d1-a7a2-437b-9980-6c30fa91a3e7" type="keeper_save" time="2014-06-12T20:07:18Z" updated_time="2014-06-12T20:07:18Z" scratch="false" x="79" y="23" clock="5" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade"/>
+        <fact id="1620a9b5-1962-4a07-8d04-233ff0ce5088" type="shot_on_target" time="2014-06-12T20:07:18Z" updated_time="2014-06-12T20:07:24Z" scratch="false" x="79" y="23" clock="6" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="70edfb19-0496-4821-bf6a-c839057c10d2">
+          <description>Brazil's David Luiz goes close with his head but his effort is blocked.</description>
+        </fact>
+        <fact id="758dd62f-a04a-40bc-b51b-6534f15efc84" type="shot_off_target" time="2014-06-12T20:08:36Z" updated_time="2014-06-12T20:08:49Z" scratch="false" x="19" y="29" clock="7" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="0bcd1821-48bf-457e-a637-e1dd4c5b5097">
+          <description>Croatia surge into the attack at Arena de Sao Paulo  but Ivica Olic’s header is off-target.</description>
+        </fact>
+        <fact id="f30e616c-1dad-4bbc-98f4-c958a8d90273" type="goal_kick" time="2014-06-12T20:08:36Z" updated_time="2014-06-12T20:08:36Z" scratch="false" x="5" y="50" clock="7" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="ee897591-bdea-4faa-a7fe-ec333694bcba" type="free_kick" time="2014-06-12T20:09:17Z" updated_time="2014-06-12T20:09:17Z" scratch="false" x="39" y="39" clock="7" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in their own half.</description>
+        </fact>
+        <fact id="044e9f5a-86c1-4fb5-a299-03e750835517" type="free_kick" time="2014-06-12T20:10:08Z" updated_time="2014-06-12T20:10:08Z" scratch="false" x="57" y="36" clock="8" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="8208c1e5-2e16-4f68-bdea-2c9f9b3c7758" type="shot_blocked" time="2014-06-12T20:10:18Z" updated_time="2014-06-12T20:10:23Z" scratch="false" x="80" y="57" clock="9" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Important block from the Croatia defence as Paulinho fires in a strike for Brazil.</description>
+        </fact>
+        <fact id="7d0ff5c4-8033-45e6-a0ee-d9e119fd2b35" type="corner_kick" time="2014-06-12T20:10:34Z" updated_time="2014-06-12T20:10:34Z" scratch="false" x="95" y="5" clock="9" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="fa8c65e6-9c68-4bb7-9552-a496054571a6" type="throwin" time="2014-06-12T20:11:40Z" updated_time="2014-06-12T20:11:40Z" scratch="false" x="66" y="99" clock="9" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Ball safe as Croatia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="fce9b285-a4ba-46e7-8934-2158115bb8f3" type="goal" time="2014-06-12T20:12:24Z" updated_time="2014-06-12T20:12:24Z" scratch="false" x="22" y="44" clock="11" home_score="0" away_score="1" penalty="false" owngoal="true" header="false" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="0619d154-9b12-428e-a423-787eb2274bb7">
+          <description>Marcelo has the misfortune to make it 0-1 through an own goal.</description>
+        </fact>
+        <fact id="c7393638-ae8c-41a3-b3e5-d1248bc19da0" type="throwin" time="2014-06-12T20:15:05Z" updated_time="2014-06-12T20:15:05Z" scratch="false" x="62" y="2" clock="13" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="3d8d0ce5-51dc-4e4d-88bb-509874fd8dea" type="throwin" time="2014-06-12T20:15:24Z" updated_time="2014-06-12T20:15:24Z" scratch="false" x="77" y="1" clock="13" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a Brazil throw-in in Croatia's half.</description>
+        </fact>
+        <fact id="e24a8295-4ee7-41fa-9920-83d151954058" type="goal_kick" time="2014-06-12T20:16:05Z" updated_time="2014-06-12T20:16:05Z" scratch="false" x="95" y="50" clock="14" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura awards Croatia a goal kick.</description>
+        </fact>
+        <fact id="8164f9cd-2cc2-4749-b09f-0e2e214a14b9" type="shot_blocked" time="2014-06-12T20:17:39Z" updated_time="2014-06-12T20:17:39Z" scratch="false" x="83" y="54" clock="16" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil push forward at Arena de Sao Paulo  and Neymar gets in a strike. This is blocked, however, by a determined Croatia defence.</description>
+        </fact>
+        <fact id="b2c76e15-43b5-44fb-b42c-f4b0f2a22529" type="corner_kick" time="2014-06-12T20:17:48Z" updated_time="2014-06-12T20:17:48Z" scratch="false" x="95" y="90" clock="16" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Yuichi Nishimura.</description>
+        </fact>
+        <fact id="ae52e209-d034-46e4-ab6f-dadc8e95111c" type="throwin" time="2014-06-12T20:18:09Z" updated_time="2014-06-12T20:18:09Z" scratch="false" x="74" y="1" clock="16" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura awards the away team a throw-in.</description>
+        </fact>
+        <fact id="2ccc8076-1e10-4f3d-89cd-bdeccf7b9912" type="throwin" time="2014-06-12T20:18:42Z" updated_time="2014-06-12T20:18:42Z" scratch="false" x="79" y="1" clock="16" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Croatia's half?</description>
+        </fact>
+        <fact id="bcac2546-d7b7-4ff9-82cd-b88e41e194e1" type="throwin" time="2014-06-12T20:20:12Z" updated_time="2014-06-12T20:20:12Z" scratch="false" x="17" y="1" clock="18" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="98e12820-48b9-4b14-8fa7-c13bde2cf4c9" type="corner_kick" time="2014-06-12T20:21:24Z" updated_time="2014-06-12T20:21:24Z" scratch="false" x="95" y="90" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Yuichi Nishimura.</description>
+        </fact>
+        <fact id="008aa19f-730f-4442-af1e-ae7819498212" type="keeper_save" time="2014-06-12T20:22:11Z" updated_time="2014-06-12T20:22:11Z" scratch="false" x="78" y="65" clock="20" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade"/>
+        <fact id="14a0e940-6a6a-4fa3-ae57-31aba60e70e1" type="throwin" time="2014-06-12T20:22:19Z" updated_time="2014-06-12T20:22:19Z" scratch="false" x="84" y="99" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a dangerous throw-in.</description>
+        </fact>
+        <fact id="299fcb09-0529-42b5-bddf-2a8e20d27425" type="throwin" time="2014-06-12T20:22:27Z" updated_time="2014-06-12T20:22:27Z" scratch="false" x="77" y="2" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a Brazil throw-in in Croatia's half.</description>
+        </fact>
+        <fact id="6c68a247-52bd-4ec5-a790-93320c3bc5c4" type="shot_on_target" time="2014-06-12T20:22:10Z" updated_time="2014-06-12T20:22:14Z" scratch="false" x="78" y="65" clock="21" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="613a1283-a812-40bb-bdd9-a52b6f8836f1">
+          <description>Brazil drive forward and Paulinho gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="9d54410d-7a9d-44ff-9cd6-be8b08ec2419" type="keeper_save" time="2014-06-12T20:23:51Z" updated_time="2014-06-12T20:23:51Z" scratch="false" x="90" y="69" clock="21" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade"/>
+        <fact id="04e9c2f9-fea9-4acf-898b-9ec2aa69bbc3" type="shot_on_target" time="2014-06-12T20:23:51Z" updated_time="2014-06-12T20:23:51Z" scratch="false" x="90" y="69" clock="22" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="0fd5fff7-05aa-4133-9e59-12039ac50d58" type="shot_blocked" time="2014-06-12T20:24:00Z" updated_time="2014-06-12T20:24:00Z" scratch="false" x="77" y="47" clock="22" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Hulk (Brazil) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="e372c46b-61fb-4bd9-b131-eaa6aaa203d5" type="goal_kick" time="2014-06-12T20:24:19Z" updated_time="2014-06-12T20:24:19Z" scratch="false" x="95" y="50" clock="22" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia have a goal kick.</description>
+        </fact>
+        <fact id="5807b686-39a2-4adc-a59f-cde69f5019ec" type="goal_kick" time="2014-06-12T20:24:54Z" updated_time="2014-06-12T20:24:54Z" scratch="false" x="95" y="50" clock="22" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Goal kick for Croatia at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="faffd295-0dd7-440e-9eb5-258be65fa164" type="free_kick" time="2014-06-12T20:25:52Z" updated_time="2014-06-12T20:25:52Z" scratch="false" x="38" y="59" clock="23" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="6fef0e11-1948-43bc-98d8-a9c811f2d13b" type="goal_kick" time="2014-06-12T20:26:57Z" updated_time="2014-06-12T20:26:57Z" scratch="false" x="95" y="50" clock="25" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Goal kick for Croatia at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="ca8804d6-ef8f-4d20-96a6-b43ff5888f95" type="throwin" time="2014-06-12T20:27:24Z" updated_time="2014-06-12T20:27:24Z" scratch="false" x="34" y="2" clock="25" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Can Croatia get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="69a4a4cd-1a63-41a8-a129-efe0e4bf1eba" type="throwin" time="2014-06-12T20:27:47Z" updated_time="2014-06-12T20:27:47Z" scratch="false" x="42" y="1" clock="25" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="99d3bc98-6b64-4b6a-bba9-a5cf9673d134" type="free_kick" time="2014-06-12T20:28:04Z" updated_time="2014-06-12T20:28:04Z" scratch="false" x="38" y="31" clock="26" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>In Sao Paulo a free kick has been awarded the away team.</description>
+        </fact>
+        <fact id="9740d44b-b4d9-4a4b-b009-e7056fd8483e" type="card" time="2014-06-12T20:28:18Z" updated_time="2014-06-12T20:28:18Z" scratch="false" clock="27" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar is booked for the home team.</description>
+        </fact>
+        <fact id="c03aa5ce-2c77-4529-9c76-3931b3546d66" type="throwin" time="2014-06-12T20:29:34Z" updated_time="2014-06-12T20:29:34Z" scratch="false" x="16" y="99" clock="27" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia close to the penalty box.</description>
+        </fact>
+        <fact id="0f7c34a5-d0f2-4dab-a04e-74a445935fb9" type="keeper_save" time="2014-06-12T20:30:11Z" updated_time="2014-06-12T20:30:11Z" scratch="false" x="20" y="65" clock="28" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="5d33f5f0-c627-496d-9882-89d58535cb80" type="shot_on_target" time="2014-06-12T20:30:11Z" updated_time="2014-06-12T20:30:11Z" scratch="false" x="20" y="65" clock="29" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade"/>
+        <fact id="e00deeb7-0b68-4b79-b127-b485418c99c5" type="goal" time="2014-06-12T20:30:36Z" updated_time="2014-06-12T20:30:36Z" scratch="false" x="93" y="35" clock="29" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Goal! Neymar equalizes to bring the score to 1-1.</description>
+        </fact>
+        <fact id="dafae88e-305a-4036-9c23-6ab9bc05e841" type="throwin" time="2014-06-12T20:31:53Z" updated_time="2014-06-12T20:31:53Z" scratch="false" x="36" y="100" clock="29" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>A throw-in for the away team on the opposite half.</description>
+        </fact>
+        <fact id="9eae7d19-4c21-4399-9368-2c21d1a01ea7" type="throwin" time="2014-06-12T20:32:17Z" updated_time="2014-06-12T20:32:17Z" scratch="false" x="32" y="98" clock="30" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia in the half of Brazil.</description>
+        </fact>
+        <fact id="790c7bf0-531d-4ceb-a849-50eb346ff5fa" type="throwin" time="2014-06-12T20:32:45Z" updated_time="2014-06-12T20:32:45Z" scratch="false" x="37" y="99" clock="30" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="498aa86d-c1eb-43b9-85ad-0a71a66f359f" type="corner_kick" time="2014-06-12T20:34:42Z" updated_time="2014-06-12T20:34:42Z" scratch="false" x="95" y="5" clock="33" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="52ee222f-e851-4ebe-973a-a9c6cc2f2898" type="corner_kick" time="2014-06-12T20:35:48Z" updated_time="2014-06-12T20:35:48Z" scratch="false" x="5" y="5" clock="34" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia have been awarded a corner by Yuichi Nishimura.</description>
+        </fact>
+        <fact id="a06acc19-ae29-425a-aa03-1a290469ec5a" type="throwin" time="2014-06-12T20:36:15Z" updated_time="2014-06-12T20:36:15Z" scratch="false" x="19" y="1" clock="34" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="d8c23d1c-6c25-44b6-80c4-4acc72c492c6" type="throwin" time="2014-06-12T20:37:27Z" updated_time="2014-06-12T20:37:27Z" scratch="false" x="69" y="99" clock="35" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="0d776d8d-0e44-4dd0-98bb-ad73137847ca" type="throwin" time="2014-06-12T20:37:54Z" updated_time="2014-06-12T20:37:54Z" scratch="false" x="41" y="99" clock="35" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura signals a Croatia throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="f50f5711-395f-4299-8e7c-1da5a0a23fd4" type="throwin" time="2014-06-12T20:38:48Z" updated_time="2014-06-12T20:38:48Z" scratch="false" x="83" y="1" clock="36" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil capitalize from this throw-in deep inside Croatia's half?</description>
+        </fact>
+        <fact id="d9027634-e938-4974-9c09-e5633d53cdae" type="throwin" time="2014-06-12T20:38:57Z" updated_time="2014-06-12T20:38:57Z" scratch="false" x="93" y="2" clock="37" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="0c7655a5-c5de-4712-b92c-a852cd59dab1" type="throwin" time="2014-06-12T20:39:57Z" updated_time="2014-06-12T20:39:57Z" scratch="false" x="32" y="99" clock="38" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="e76e67a4-2249-4cf4-82da-14b66b2c9af2" type="throwin" time="2014-06-12T20:40:11Z" updated_time="2014-06-12T20:40:11Z" scratch="false" x="46" y="100" clock="38" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia in the half of Brazil.</description>
+        </fact>
+        <fact id="dae89305-68c9-427d-aefc-823a746d6b8a" type="free_kick" time="2014-06-12T20:41:16Z" updated_time="2014-06-12T20:41:16Z" scratch="false" x="32" y="36" clock="39" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d8971384-220b-4324-912c-d291800a14d1" type="free_kick" time="2014-06-12T20:42:19Z" updated_time="2014-06-12T20:42:19Z" scratch="false" x="83" y="60" clock="40" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil capitalize from this dangerous free kick?</description>
+        </fact>
+        <fact id="75dc35f0-be6b-46ca-b59e-695d38a6eacb" type="shot_blocked" time="2014-06-12T20:42:16Z" updated_time="2014-06-12T20:42:37Z" scratch="false" x="83" y="60" clock="41" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil's Dani Alves gets in a shot but it is blocked by a Croatia defender.</description>
+        </fact>
+        <fact id="e5c78348-9599-43b0-8a19-9554eef4247a" type="shot_blocked" time="2014-06-12T20:43:34Z" updated_time="2014-06-12T20:43:34Z" scratch="false" x="83" y="60" clock="42" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>In Sao Paulo, Neymar of Brazil is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="9993a0ae-eaa3-4aca-a4b4-dfe1c23760d9" type="corner_kick" time="2014-06-12T20:43:45Z" updated_time="2014-06-12T20:43:45Z" scratch="false" x="95" y="90" clock="42" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="707a6f65-6641-45c8-ac5c-f6de672b1ae3" type="throwin" time="2014-06-12T20:44:00Z" updated_time="2014-06-12T20:44:00Z" scratch="false" x="48" y="99" clock="42" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball safe as Brazil is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="a0707d91-4a49-4a9b-8350-b47a72736e87" type="throwin" time="2014-06-12T20:44:07Z" updated_time="2014-06-12T20:44:07Z" scratch="false" x="61" y="99" clock="42" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia in their own half.</description>
+        </fact>
+        <fact id="2ab40bf4-b7d0-4aa1-8aca-c166d5a60ada" type="free_kick" time="2014-06-12T20:45:49Z" updated_time="2014-06-12T20:45:49Z" scratch="false" x="36" y="35" clock="43" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="05bf9150-6496-4480-99a7-de312bbaf83c" type="offside" time="2014-06-12T20:45:01Z" updated_time="2014-06-12T20:45:14Z" scratch="false" x="87" y="35" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="2c674fe0-d706-4450-bf33-2e747265fbbf">
+          <description>Brazil drive forward but Oscar is judged offside.</description>
+        </fact>
+        <fact id="49605f56-f613-4594-b4a4-4c99c07b7bf1" type="throwin" time="2014-06-12T20:45:58Z" updated_time="2014-06-12T20:45:58Z" scratch="false" x="71" y="98" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Croatia's half?</description>
+        </fact>
+        <fact id="96182d5d-7719-4c5c-952b-06968b1bcb57" type="throwin" time="2014-06-12T20:46:06Z" updated_time="2014-06-12T20:46:06Z" scratch="false" x="56" y="98" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="ce2f0e89-d1dc-444f-9fa3-52ad0f5c1c00" type="throwin" time="2014-06-12T20:46:38Z" updated_time="2014-06-12T20:46:38Z" scratch="false" x="64" y="100" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Croatia territory.</description>
+        </fact>
+        <fact id="b98ef592-4222-4691-8953-368202407abc" type="shot_off_target" time="2014-06-12T20:46:52Z" updated_time="2014-06-12T20:46:58Z" scratch="false" x="91" y="73" clock="45" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Brazil are pushing forward but Hulk's finish is wide of the goal.</description>
+        </fact>
+        <fact id="ae5a977e-9edd-41a4-8073-433a2550a1f5" type="goal_kick" time="2014-06-12T20:46:53Z" updated_time="2014-06-12T20:46:53Z" scratch="false" x="95" y="50" clock="45" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura awards Croatia a goal kick.</description>
+        </fact>
+        <fact id="097bc819-88dd-42f6-86d6-0b80da070648" type="throwin" time="2014-06-12T20:47:32Z" updated_time="2014-06-12T20:47:32Z" scratch="false" x="35" y="1" clock="45" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="698757ae-a2f2-44b1-9555-bbfa5081cb59" type="injury_time" time="2014-06-12T20:47:14Z" updated_time="2014-06-12T20:47:14Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="69e482b7-4b82-4dc1-9aaa-a238e2937f64" type="free_kick" time="2014-06-12T20:48:28Z" updated_time="2014-06-12T20:48:28Z" scratch="false" x="61" y="58" clock="45" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in the half of Croatia.</description>
+        </fact>
+        <fact id="93a7d015-9992-47a9-bc57-9e6544efc02c" type="throwin" time="2014-06-12T20:48:55Z" updated_time="2014-06-12T20:48:55Z" scratch="false" x="70" y="1" clock="45" injury_time="1" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura awards the away team a throw-in.</description>
+        </fact>
+        <fact id="e49ece51-c690-4b70-acbe-8257c7be908d" type="period_over" time="2014-06-12T20:49:06Z" updated_time="2014-06-12T20:49:06Z" scratch="false" home_score="1" away_score="1" period="P1">
+          <description>The first-half has ended.</description>
+        </fact>
+        <fact id="4396c754-a85c-4637-a97e-ba708295e13e" type="period_started" time="2014-06-12T20:49:07Z" updated_time="2014-06-12T20:49:07Z" scratch="false" period="H"/>
+        <fact id="2d3d555d-df16-42ab-ae27-ba6ef2d18abf" type="period_started" time="2014-06-12T21:05:02Z" updated_time="2014-06-12T21:05:02Z" scratch="false" period="P2"/>
+        <fact id="4dac2c3e-c632-4396-b6b1-e8c9a167eb0a" type="throwin" time="2014-06-12T21:06:30Z" updated_time="2014-06-12T21:06:30Z" scratch="false" x="61" y="2" clock="46" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="d8c2dca2-18aa-4f55-bebc-ee1a33f16ddb" type="goal_kick" time="2014-06-12T21:07:02Z" updated_time="2014-06-12T21:07:02Z" scratch="false" x="5" y="50" clock="46" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>It's a goal kick for the home team in Sao Paulo.</description>
+        </fact>
+        <fact id="162ab05d-420d-42ca-89cc-e4f594768bde" type="throwin" time="2014-06-12T21:07:41Z" updated_time="2014-06-12T21:07:41Z" scratch="false" x="76" y="99" clock="47" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="7f253fed-0828-46b8-9cfc-1724aee754bf" type="throwin" time="2014-06-12T21:09:14Z" updated_time="2014-06-12T21:09:14Z" scratch="false" x="76" y="98" clock="49" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in the half of Croatia.</description>
+        </fact>
+        <fact id="2ae8f7b6-8771-40af-9d8d-a2d1e7909c36" type="throwin" time="2014-06-12T21:09:29Z" updated_time="2014-06-12T21:09:29Z" scratch="false" x="75" y="98" clock="49" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Croatia's half?</description>
+        </fact>
+        <fact id="60e1af9d-1539-4695-952d-9d7ef3274a16" type="throwin" time="2014-06-12T21:09:49Z" updated_time="2014-06-12T21:09:49Z" scratch="false" x="91" y="98" clock="49" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a throw-in for Brazil, close to Croatia's area.</description>
+        </fact>
+        <fact id="020916cd-aa5b-48c9-9e25-b98c5524a306" type="free_kick" time="2014-06-12T21:10:28Z" updated_time="2014-06-12T21:10:28Z" scratch="false" x="88" y="91" clock="50" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick in a good position for Brazil!</description>
+        </fact>
+        <fact id="e6a1c895-baef-4500-b645-4cf77c4519df" type="free_kick" time="2014-06-12T21:11:22Z" updated_time="2014-06-12T21:11:22Z" scratch="false" x="79" y="79" clock="51" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Free kick for Croatia in their own half.</description>
+        </fact>
+        <fact id="0885d286-9979-4846-bb85-556fe8b92071" type="free_kick" time="2014-06-12T21:12:02Z" updated_time="2014-06-12T21:12:02Z" scratch="false" x="48" y="62" clock="52" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="e4224d85-944f-44b7-aa16-e4333b03dcc1" type="throwin" time="2014-06-12T21:13:24Z" updated_time="2014-06-12T21:13:24Z" scratch="false" x="39" y="99" clock="53" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="421c5e0e-30d2-4006-904d-9310a3123477" type="free_kick" time="2014-06-12T21:13:39Z" updated_time="2014-06-12T21:13:39Z" scratch="false" x="32" y="57" clock="53" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="dcb6da13-606f-483b-ace3-f13fec605aa0" type="throwin" time="2014-06-12T21:14:14Z" updated_time="2014-06-12T21:14:14Z" scratch="false" x="21" y="99" clock="54" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura signals a Croatia throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="c6083e5b-2593-4404-bb32-3d1b9b06727a" type="throwin" time="2014-06-12T21:14:41Z" updated_time="2014-06-12T21:14:41Z" scratch="false" x="23" y="100" clock="54" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>A throw-in for the away team on the opposite half.</description>
+        </fact>
+        <fact id="0e391cf2-c880-46e4-bc2c-5d56c877cbc4" type="throwin" time="2014-06-12T21:15:40Z" updated_time="2014-06-12T21:15:40Z" scratch="false" x="56" y="1" clock="55" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in Croatia.</description>
+        </fact>
+        <fact id="04d574af-c4e0-4fe3-8175-146c5aab8fb4" type="shot_off_target" time="2014-06-12T21:15:08Z" updated_time="2014-06-12T21:15:13Z" scratch="false" x="22" y="39" clock="56" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="13625a84-7ec4-4774-bc49-9a24a1eaf8bd">
+          <description>Ivan Perisic for Croatia gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="3f572dbb-de10-48e7-ba05-a710581a0034" type="goal_kick" time="2014-06-12T21:15:08Z" updated_time="2014-06-12T21:15:08Z" scratch="false" x="5" y="50" clock="56" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="909c451e-f308-4dd7-86a6-11c348fd8f71" type="throwin" time="2014-06-12T21:16:58Z" updated_time="2014-06-12T21:16:58Z" scratch="false" x="57" y="2" clock="56" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Croatia's half?</description>
+        </fact>
+        <fact id="94158051-4f45-4b79-9e5d-cd4351dcbc72" type="free_kick" time="2014-06-12T21:17:05Z" updated_time="2014-06-12T21:17:05Z" scratch="false" x="57" y="2" clock="57" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in the half of Croatia.</description>
+        </fact>
+        <fact id="230e8e42-3910-46cb-8df0-fa68d93b0313" type="throwin" time="2014-06-12T21:17:45Z" updated_time="2014-06-12T21:17:45Z" scratch="false" x="87" y="100" clock="57" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia in their own half.</description>
+        </fact>
+        <fact id="b272bf27-d436-41e2-aa23-0c54652a0b6e" type="free_kick" time="2014-06-12T21:18:25Z" updated_time="2014-06-12T21:18:25Z" scratch="false" x="64" y="16" clock="58" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>In Sao Paulo a free kick has been awarded the home team.</description>
+        </fact>
+        <fact id="ca0ea3c4-67bd-47df-93b2-6b0be50087dc" type="throwin" time="2014-06-12T21:19:04Z" updated_time="2014-06-12T21:19:04Z" scratch="false" x="22" y="98" clock="59" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia in the half of Brazil.</description>
+        </fact>
+        <fact id="d62e80cf-7d4d-481f-98f9-87f52d711008" type="throwin" time="2014-06-12T21:19:26Z" updated_time="2014-06-12T21:19:26Z" scratch="false" x="13" y="99" clock="59" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in high up the field for Croatia in Sao Paulo.</description>
+        </fact>
+        <fact id="3de0d427-456e-4471-b902-276e0286a488" type="throwin" time="2014-06-12T21:19:48Z" updated_time="2014-06-12T21:19:48Z" scratch="false" x="31" y="1" clock="59" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura awards the home team a throw-in.</description>
+        </fact>
+        <fact id="fe9442a7-2d92-40c6-8c8e-9f84ace68314" type="throwin" time="2014-06-12T21:20:07Z" updated_time="2014-06-12T21:20:07Z" scratch="false" x="52" y="98" clock="60" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Ball safe as Croatia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="5cd370a8-93b6-4a0e-b888-24514f710d45" type="substitution" time="2014-06-12T21:20:18Z" updated_time="2014-06-12T21:20:18Z" scratch="false" clock="61" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_out_id="60f814ca-2d9f-4d01-b9cd-ee91a9dfd222" player_in_id="631c0dcb-f45a-4da3-849e-3a64f8b1a947">
+          <description>Niko Kovac (Croatia) is making a first substitution, with Marcelo Brozovic replacing Mateo Kovacic.</description>
+        </fact>
+        <fact id="47b9f298-6a0d-4b2b-8ff9-32cff45c1a19" type="throwin" time="2014-06-12T21:21:33Z" updated_time="2014-06-12T21:21:33Z" scratch="false" x="34" y="98" clock="61" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="ffe9d5a5-d892-4cc1-b4b0-ce63fa8c7f0c" type="throwin" time="2014-06-12T21:21:45Z" updated_time="2014-06-12T21:21:45Z" scratch="false" x="47" y="98" clock="61" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="83225309-ed35-4b89-89b7-84c42b50e425" type="free_kick" time="2014-06-12T21:22:25Z" updated_time="2014-06-12T21:22:25Z" scratch="false" x="38" y="11" clock="62" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura signals a free kick to Croatia.</description>
+        </fact>
+        <fact id="952a534a-28a3-4f1d-94fb-115726af2b78" type="free_kick" time="2014-06-12T21:23:01Z" updated_time="2014-06-12T21:23:01Z" scratch="false" x="16" y="59" clock="62" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="0ff17498-abfb-4fb1-85fc-e91498fd98b9" type="substitution" time="2014-06-12T21:22:41Z" updated_time="2014-06-12T21:22:41Z" scratch="false" clock="63" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="613a1283-a812-40bb-bdd9-a52b6f8836f1" player_in_id="0769b903-d74f-492b-815f-3b684b282a1a">
+          <description>Hernanes is replacing Paulinho for the home team.</description>
+        </fact>
+        <fact id="460fea8e-5b4e-4124-bc4b-ecd7852f69f7" type="goal_kick" time="2014-06-12T21:23:25Z" updated_time="2014-06-12T21:23:25Z" scratch="false" x="95" y="50" clock="63" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia have a goal kick.</description>
+        </fact>
+        <fact id="48095f62-c545-4012-bdb2-9a6d3d9adf94" type="free_kick" time="2014-06-12T21:24:01Z" updated_time="2014-06-12T21:24:01Z" scratch="false" x="45" y="25" clock="63" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick for Brazil in their own half.</description>
+        </fact>
+        <fact id="e86d8d8a-805d-4573-8d3c-cf3eb08b81cc" type="free_kick" time="2014-06-12T21:25:00Z" updated_time="2014-06-12T21:25:00Z" scratch="false" x="77" y="47" clock="64" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="e55045ca-7839-4c10-a7c5-c59ed7e8675e" type="card" time="2014-06-12T21:25:12Z" updated_time="2014-06-12T21:25:12Z" scratch="false" clock="66" card="Y" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="a11c9ec6-fde4-401d-9532-78ca6cf4cbdd">
+          <description>Vedran Corluka (Croatia) gets a yellow card.</description>
+        </fact>
+        <fact id="e49a44eb-8597-4100-aeb0-554c8bedefe7" type="shot_off_target" time="2014-06-12T21:26:30Z" updated_time="2014-06-12T21:26:41Z" scratch="false" x="77" y="47" clock="67" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="8e24463d-d0d2-4980-b098-00baa4119a25">
+          <description>Brazil are coming forward and Dani Alves gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="ba00249a-ecd5-45e3-a23a-df2608a52aa8" type="goal_kick" time="2014-06-12T21:26:30Z" updated_time="2014-06-12T21:26:30Z" scratch="false" x="95" y="50" clock="67" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Yuichi Nishimura awards Croatia a goal kick.</description>
+        </fact>
+        <fact id="dfce8590-6162-450a-8ebe-c720239860be" type="throwin" time="2014-06-12T21:27:17Z" updated_time="2014-06-12T21:27:17Z" scratch="false" x="64" y="1" clock="67" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a Brazil throw-in in Croatia's half.</description>
+        </fact>
+        <fact id="a090d09b-3d37-4f5c-b847-302f8fafe092" type="throwin" time="2014-06-12T21:27:37Z" updated_time="2014-06-12T21:27:37Z" scratch="false" x="90" y="98" clock="67" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Croatia needs to be cautious. Brazil have an attacking throw-in.</description>
+        </fact>
+        <fact id="25f44126-571d-4b40-a7ee-1f4ace1b25bc" type="substitution" time="2014-06-12T21:27:45Z" updated_time="2014-06-12T21:27:45Z" scratch="false" clock="68" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="35b62918-6ee1-41c1-8272-ff02318e4189" player_in_id="eef74fad-80fa-45a1-9809-18598b4efbea">
+          <description>Brazil make their second substitution with Bernard replacing Hulk.</description>
+        </fact>
+        <fact id="ef5583a1-05e8-4946-97b3-74af66490b8a" type="throwin" time="2014-06-12T21:28:15Z" updated_time="2014-06-12T21:28:15Z" scratch="false" x="57" y="99" clock="68" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a Brazil throw-in in Croatia's half.</description>
+        </fact>
+        <fact id="44341c92-96f9-4502-8db4-3bb7719f81f4" type="free_kick" time="2014-06-12T21:28:26Z" updated_time="2014-06-12T21:28:26Z" scratch="false" x="65" y="78" clock="68" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="aacdbe24-c336-41e1-89ee-22aa72ae4514" type="card" time="2014-06-12T21:29:04Z" updated_time="2014-06-12T21:29:04Z" scratch="false" clock="69" card="Y" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="0c7de671-d4d3-4498-bcec-b371eb9eb547">
+          <description>At Arena de Sao Paulo , Dejan Lovren has been yellow-carded for the away team.</description>
+        </fact>
+        <fact id="f9e5fbe6-7c17-481a-badc-bee4361be98e" type="penalty_awarded" time="2014-06-12T21:29:23Z" updated_time="2014-06-12T21:29:23Z" scratch="false" clock="70" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>An attacking Brazil player has been brought down in the area ... It's a penalty!</description>
+        </fact>
+        <fact id="28d53b8b-7a84-48f7-aadb-e3c35754e04b" type="goal" time="2014-06-12T21:30:41Z" updated_time="2014-06-12T21:30:41Z" scratch="false" x="88" y="48" clock="71" home_score="2" away_score="1" penalty="true" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>It's advantage Brazil in Sao Paulo as Neymar scores from the spot to make it 2-1.</description>
+        </fact>
+        <fact id="29d320ce-e784-4546-8158-693b843df16b" type="corner_kick" time="2014-06-12T21:32:19Z" updated_time="2014-06-12T21:32:19Z" scratch="false" x="5" y="5" clock="73" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Corner awarded to Croatia.</description>
+        </fact>
+        <fact id="dd3a1e40-d850-4e4c-943a-fe571f63e620" type="shot_off_target" time="2014-06-12T21:32:35Z" updated_time="2014-06-12T21:33:01Z" scratch="false" x="5" y="5" clock="73" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="0c7de671-d4d3-4498-bcec-b371eb9eb547">
+          <description>In Sao Paulo, Dejan Lovren (Croatia) misses the target with a header.</description>
+        </fact>
+        <fact id="ece510a6-2667-40a0-8e96-783fb527086a" type="goal_kick" time="2014-06-12T21:32:35Z" updated_time="2014-06-12T21:32:35Z" scratch="false" x="5" y="50" clock="73" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="71b509e5-9ea6-4e56-b749-79f2bb35c08a" type="goal_kick" time="2014-06-12T21:33:20Z" updated_time="2014-06-12T21:33:20Z" scratch="false" x="95" y="50" clock="73" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>It's a goal kick for the away team in Sao Paulo.</description>
+        </fact>
+        <fact id="986a0622-ba82-4381-a29d-7012efd9b6f1" type="throwin" time="2014-06-12T21:34:05Z" updated_time="2014-06-12T21:34:05Z" scratch="false" x="42" y="99" clock="74" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="64881d36-b43c-4840-a06c-a4040bf0f5e2" type="free_kick" time="2014-06-12T21:34:21Z" updated_time="2014-06-12T21:34:21Z" scratch="false" x="61" y="87" clock="74" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Free kick for Croatia in their own half.</description>
+        </fact>
+        <fact id="21ddff0c-d193-4226-ad7d-8593b44997ce" type="corner_kick" time="2014-06-12T21:35:40Z" updated_time="2014-06-12T21:35:40Z" scratch="false" x="95" y="5" clock="76" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Yuichi Nishimura.</description>
+        </fact>
+        <fact id="85216468-25cb-43a1-84aa-fc7858f7d270" type="shot_off_target" time="2014-06-12T21:36:18Z" updated_time="2014-06-12T21:36:32Z" scratch="false" x="79" y="27" clock="77" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="70edfb19-0496-4821-bf6a-c839057c10d2">
+          <description>Brazil attack but David Luiz's header doesn't find the target.</description>
+        </fact>
+        <fact id="edea6ed0-8f09-43d2-a700-b8c5797c94bd" type="goal_kick" time="2014-06-12T21:36:18Z" updated_time="2014-06-12T21:36:18Z" scratch="false" x="95" y="50" clock="77" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Goal kick for Croatia at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="ac9af73f-07b2-4c6f-bf00-419886b15726" type="throwin" time="2014-06-12T21:37:51Z" updated_time="2014-06-12T21:37:51Z" scratch="false" x="45" y="1" clock="77" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura awards the home team a throw-in.</description>
+        </fact>
+        <fact id="11398210-ff56-4dd9-ad51-f98aacc52bc4" type="substitution" time="2014-06-12T21:37:46Z" updated_time="2014-06-12T21:37:46Z" scratch="false" clock="78" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_out_id="22321648-a380-4c60-8142-a1fa21254012" player_in_id="b1302711-5764-4c0c-bbd1-6b82ba70baaf">
+          <description>Niko Kovac is making the team's second substitution at Arena de Sao Paulo  with Ante Rebic replacing Nikica Jelavic.</description>
+        </fact>
+        <fact id="56c54312-0eb5-413f-8f5c-4b0fb66a444b" type="corner_kick" time="2014-06-12T21:39:21Z" updated_time="2014-06-12T21:39:21Z" scratch="false" x="95" y="5" clock="79" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="d7701e50-318b-4058-b765-657d1e70d90e" type="throwin" time="2014-06-12T21:39:46Z" updated_time="2014-06-12T21:39:46Z" scratch="false" x="79" y="99" clock="79" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia at Arena de Sao Paulo .</description>
+        </fact>
+        <fact id="ace28e4e-0e2f-467d-a27a-8beaed6ea760" type="shot_off_target" time="2014-06-12T21:39:34Z" updated_time="2014-06-12T21:39:43Z" scratch="false" x="95" y="5" clock="80" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6">
+          <description>Fred (Brazil) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="1f429cd8-e3ea-4140-8eb2-438e1df8a0b2" type="throwin" time="2014-06-12T21:40:18Z" updated_time="2014-06-12T21:40:18Z" scratch="false" x="63" y="99" clock="80" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Ball safe as Croatia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="e68e306b-5ccc-4bca-abb5-be4a5e985749" type="throwin" time="2014-06-12T21:40:52Z" updated_time="2014-06-12T21:40:52Z" scratch="false" x="77" y="99" clock="80" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>A throw-in for the home team on the opposite half.</description>
+        </fact>
+        <fact id="09a21f07-c18a-4171-8111-68b4b39e4c71" type="free_kick" time="2014-06-12T21:42:50Z" updated_time="2014-06-12T21:42:50Z" scratch="false" x="19" y="61" clock="82" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="42099afd-5729-435c-8182-206a7a7b1446" type="free_kick" time="2014-06-12T21:44:35Z" updated_time="2014-06-12T21:44:35Z" scratch="false" x="6" y="12" clock="84" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4685b933-0385-40ba-b794-fa3bcc4ef0b2" type="corner_kick" time="2014-06-12T21:44:19Z" updated_time="2014-06-12T21:44:19Z" scratch="false" x="5" y="90" clock="85" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia have been awarded a corner by Yuichi Nishimura.</description>
+        </fact>
+        <fact id="02a59e2b-6d53-4c4c-9cbb-e18e19b11472" type="throwin" time="2014-06-12T21:45:28Z" updated_time="2014-06-12T21:45:28Z" scratch="false" x="19" y="100" clock="85" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia have a dangerous throw-in.</description>
+        </fact>
+        <fact id="706174f6-9161-4c80-98e2-f62e4057ffcd" type="keeper_save" time="2014-06-12T21:45:40Z" updated_time="2014-06-12T21:45:40Z" scratch="false" x="19" y="100" clock="85" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="870fcf68-ee19-4b01-ab5a-583e4b88fd24" type="throwin" time="2014-06-12T21:45:44Z" updated_time="2014-06-12T21:45:44Z" scratch="false" x="44" y="98" clock="85" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia in the half of Brazil.</description>
+        </fact>
+        <fact id="a87453d2-1738-41e6-a930-82efedb3aef1" type="shot_on_target" time="2014-06-12T21:45:40Z" updated_time="2014-06-12T21:45:50Z" scratch="false" x="19" y="100" clock="86" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="8a8fa3d3-afa8-4305-895d-d58e50cea4c9">
+          <description>Luka Modric gets his shot on target but fails to score for Croatia.</description>
+        </fact>
+        <fact id="fd5e13e9-0680-48fe-8c70-4bae4182ac05" type="free_kick" time="2014-06-12T21:46:03Z" updated_time="2014-06-12T21:46:03Z" scratch="false" x="33" y="51" clock="86" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="3dfa883e-10b7-43af-863c-42686c68a3a4" type="free_kick" time="2014-06-12T21:47:03Z" updated_time="2014-06-12T21:47:03Z" scratch="false" x="41" y="29" clock="87" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>In Sao Paulo a free kick has been awarded the away team.</description>
+        </fact>
+        <fact id="d4858556-a4ac-4b47-824a-fa948dfc45cb" type="card" time="2014-06-12T21:47:14Z" updated_time="2014-06-12T21:47:14Z" scratch="false" clock="88" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="0957db74-9775-4dc9-9cc1-df3d48bb2c93">
+          <description>Brazil's Luiz Gustavo has been booked in Sao Paulo.</description>
+        </fact>
+        <fact id="25707e7b-d5ff-46b8-86bd-98e670584440" type="substitution" time="2014-06-12T21:47:43Z" updated_time="2014-06-12T21:47:43Z" scratch="false" clock="88" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="423e9818-7882-422f-bd8c-babf53135cfc" player_in_id="4f4b810b-3f0c-41f1-b821-643b86197b41">
+          <description>The home team replace Neymar with Ramires.</description>
+        </fact>
+        <fact id="0a6095a2-1422-4077-9b4b-eb2a7c176315" type="injury_time" time="2014-06-12T21:48:30Z" updated_time="2014-06-12T21:48:30Z" scratch="false" clock="88" injury_time="4" period="P2">
+          <description>The second half is prolonged by 4 minutes of added time.</description>
+        </fact>
+        <fact id="ccec7bb1-794b-48dc-b8a5-905019ecf042" type="shot_off_target" time="2014-06-12T21:48:06Z" updated_time="2014-06-12T21:48:24Z" scratch="false" x="18" y="21" clock="89" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="a11c9ec6-fde4-401d-9532-78ca6cf4cbdd">
+          <description>In Sao Paulo, Vedran Corluka (Croatia) misses the target with a header.</description>
+        </fact>
+        <fact id="0dab3b24-f605-49e7-9fe7-4542df15eb05" type="goal_kick" time="2014-06-12T21:48:07Z" updated_time="2014-06-12T21:48:07Z" scratch="false" x="5" y="50" clock="89" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="4fc4ff43-cc93-42d2-a5b7-92558821257d" type="throwin" time="2014-06-12T21:49:46Z" updated_time="2014-06-12T21:49:46Z" scratch="false" x="17" y="1" clock="89" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Throw-in for Croatia close to the penalty box.</description>
+        </fact>
+        <fact id="c8cac2c5-d3bf-4d50-88d3-b516c138f4ae" type="shot_on_target" time="2014-06-12T21:50:11Z" updated_time="2014-06-12T21:50:11Z" scratch="false" x="25" y="37" clock="90" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade"/>
+        <fact id="3d8807c6-6bb4-483c-9ddf-83f41b0ddc0d" type="keeper_save" time="2014-06-12T21:50:12Z" updated_time="2014-06-12T21:50:12Z" scratch="false" x="25" y="37" clock="90" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="524395c7-430e-471a-a0a9-d2954a059925" type="shot_blocked" time="2014-06-12T21:50:15Z" updated_time="2014-06-12T21:50:15Z" scratch="false" x="25" y="37" clock="90" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade"/>
+        <fact id="277eebfd-ca0b-436e-9a96-1b8456d4c4f5" type="goal" time="2014-06-12T21:50:42Z" updated_time="2014-06-12T21:50:42Z" scratch="false" clock="90" home_score="3" away_score="1" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="2c674fe0-d706-4450-bf33-2e747265fbbf">
+          <description>Goal! Brazil extend their lead to 3-1 through Oscar.</description>
+        </fact>
+        <fact id="87240a58-19fc-4998-a3f0-bac567d9d075" type="throwin" time="2014-06-12T21:52:53Z" updated_time="2014-06-12T21:52:53Z" scratch="false" x="82" y="1" clock="90" injury_time="2" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Yuichi Nishimura signals a throw-in for Brazil, close to Croatia's area.</description>
+        </fact>
+        <fact id="ffc29171-f8bf-4d68-b19a-28050e06b0ec" type="throwin" time="2014-06-12T21:54:00Z" updated_time="2014-06-12T21:54:00Z" scratch="false" x="37" y="99" clock="90" injury_time="3" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade">
+          <description>Croatia to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="97bf5a1b-dee3-4b27-84b1-ec8886a50188" type="shot_off_target" time="2014-06-12T21:54:15Z" updated_time="2014-06-12T21:54:21Z" scratch="false" x="19" y="50" clock="90" injury_time="4" team_id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" player_id="631c0dcb-f45a-4da3-849e-3a64f8b1a947">
+          <description>Croatia's Marcelo Brozovic gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="78f4cb27-380e-4750-a5e1-5fdced036f38" type="goal_kick" time="2014-06-12T21:54:15Z" updated_time="2014-06-12T21:54:15Z" scratch="false" x="5" y="50" clock="90" injury_time="4" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="e61d4646-5cf8-45d0-aa89-8964efc194d6" type="period_over" time="2014-06-12T21:54:46Z" updated_time="2014-06-12T21:54:46Z" scratch="false" home_score="3" away_score="1" period="P2">
+          <description>That's full-time at Arena de Sao Paulo . The final score is 3-1.</description>
+        </fact>
+        <fact id="4058a1f1-8b10-441b-9c9e-17f167c3f15a" type="match_ended" time="2014-06-12T21:54:46Z" updated_time="2014-06-12T21:54:46Z" scratch="false" home_score="3" away_score="1" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" draw="false"/>
+      </facts>
+      <!-- 4768710/4748/4715 -->
+    </match>
+  </matches>
+</summary>

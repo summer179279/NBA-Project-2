@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-22 16:31:03 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="60bb6586-4287-4893-9688-6a109e8b03b0" status="ACT" full_name="Jermaine O'Neal" first_name="Jermaine" last_name="O'Neal" abbr_name="J.O'Neal" height="83" weight="255" position="C-F" primary_position="C" jersey_number="7" experience="17" college="Eau Claire HS (SC)" birth_place="Columbia, SC, USA" birthdate="1978-10-13" updated="2014-02-27T21:55:36+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" alias="GSW"/>
+  <draft team_id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" year="1996" round="1" pick="17"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" alias="GSW">
+        <statistics>
+          <total games_played="44" games_started="13" minutes="883.0" field_goals_made="125" field_goals_att="248" three_points_made="0" three_points_att="0" blocked_att="23" free_throws_made="99" free_throws_att="132" offensive_rebounds="85" defensive_rebounds="157" assists="25" turnovers="52" steals="14" blocks="40" personal_fouls="102" tech_fouls="8" points="349" flagrant_fouls="0" free_throws_pct="0.75" two_points_pct="0.504" three_points_pct="0" field_goals_pct="0.504" rebounds="242" assists_turnover_ratio="0.48" two_points_made="125" two_points_att="248"/>
+          <average points="7.9" blocked_att="0.52" turnovers="1.18" free_throws_att="3.0" field_goals_att="5.64" off_rebounds="1.93" two_points_att="5.64" assists="0.6" blocks="0.91" personal_fouls="2.32" two_points_made="2.84" flagrant_fouls="0.0" rebounds="5.5" three_points_made="0.0" minutes="20.1" def_rebounds="3.57" free_throws_made="2.25" field_goals_made="2.84" steals="0.32" three_points_att="0.0"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-22 16:31:03 +0000 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:06:00 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2014-02-05T05:00:00+00:00" end_time="2014-02-06T04:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="d8298a51-2639-422a-869b-61c6fe27afd1" full_name="Luke Babbitt" last_modified="2014-02-05T16:39:40+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="2c9aaea9-a488-4312-8390-b0f8c5f7f787" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T03:38:04+00:00"/>
+        <game id="43a5fa6b-670e-4ab3-8366-4553fbdf96ae" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T03:40:51+00:00"/>
+        <game id="450b5e66-03cc-4786-8b49-2e2b4300939c" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T03:33:53+00:00"/>
+        <game id="4f1f42ec-6ad2-49aa-a8dc-637ad830e94f" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T02:32:27+00:00"/>
+        <game id="5045cb9d-7476-4a74-87c2-7a0be44dbbdf" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T03:48:53+00:00"/>
+        <game id="65a2f0d6-4d5d-4822-ba80-01ca8ad83be6" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T03:20:02+00:00"/>
+        <game id="7ec7ccea-3524-445b-b487-7aa738c3793a" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T02:40:52+00:00"/>
+        <game id="c96f77ca-cd9e-417d-a1e7-e0883d115f1e" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-05T07:01:09+00:00"/>
+        <game id="f2683ba3-5b41-4938-b6c4-515d56a45ced" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T03:17:09+00:00"/>
+        <game id="fc54aee2-d975-417d-b115-5ff9268910d7" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-02-06T04:55:18+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="2c9aaea9-a488-4312-8390-b0f8c5f7f787" last_modified="2014-02-06T03:38:04+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="4533b6e1-433b-447b-a039-a2081cd30364" last_modified="2014-03-26T20:32:18+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="4f1f42ec-6ad2-49aa-a8dc-637ad830e94f" last_modified="2014-02-06T02:32:29+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="43a5fa6b-670e-4ab3-8366-4553fbdf96ae" last_modified="2014-02-06T03:40:51+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="450b5e66-03cc-4786-8b49-2e2b4300939c" last_modified="2014-02-10T22:08:39+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="f2683ba3-5b41-4938-b6c4-515d56a45ced" last_modified="2014-02-06T03:17:09+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="145fd705-c948-47d4-8304-20905ac9c45a" last_modified="2014-02-05T17:31:01+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="b30a230e-6b21-4623-a114-7ceb8cc87ca2" last_modified="2014-02-05T21:55:01+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="9363108c-61f0-4f43-b579-2701345ef11d" last_modified="2014-02-06T06:37:30+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="65a2f0d6-4d5d-4822-ba80-01ca8ad83be6" last_modified="2014-02-06T03:20:02+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="99d3e0e6-9a8f-4ff9-aef3-9ace52616e56" last_modified="2014-02-06T05:58:00+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="c96f77ca-cd9e-417d-a1e7-e0883d115f1e" last_modified="2014-02-05T07:01:09+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="fc54aee2-d975-417d-b115-5ff9268910d7" last_modified="2014-02-06T04:55:18+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="5045cb9d-7476-4a74-87c2-7a0be44dbbdf" last_modified="2014-02-10T22:16:37+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="44c2aa01-11ad-4447-a03c-6206d5dff3b1" last_modified="2014-02-05T22:10:56+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="7ec7ccea-3524-445b-b487-7aa738c3793a" last_modified="2014-02-06T17:53:29+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="ae6feff3-2a83-4bb8-9562-e0bc1e8d228e" last_modified="2014-02-05T22:18:55+00:00"/>
+      </results>
+    </games>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:06:00 +0000 -->

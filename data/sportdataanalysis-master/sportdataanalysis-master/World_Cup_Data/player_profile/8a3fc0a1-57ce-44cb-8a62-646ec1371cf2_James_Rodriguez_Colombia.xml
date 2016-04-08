@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:13:06Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2" country_code="COL" preferred_foot="L" height_in="70" weight_lb="171" height_cm="177" weight_kg="77" first_name="James" last_name="Rodriguez" country="Colombia">
+    <teams>
+      <team id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" country_code="COL" position="F" is_manager="false" is_player="true" country="Colombia" jersey_number="10"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="11" matches_started="0" minutes_played="911" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team"/>
+        </statistic>
+        <statistic goals="6" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="5" matches_started="0" minutes_played="399" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="182" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="e9292d36-0b5e-420f-9544-026e4b078534" name="Coupe de France"/>
+          <tournament id="68ccae0e-02fd-4f42-8ee0-855e8c18ab45" name="Coupe de France"/>
+          <team id="8544414f-4b62-4cad-aa72-a71e4c01d7cf" name="AS Monaco" alias="MON" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="29" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="984021cb-f247-4345-8c28-149c873429e0" name="Coupe de la Ligue"/>
+          <tournament id="d47f400e-998b-454c-8c85-c0b16da458eb" name="Coupe de la Ligue"/>
+          <team id="8544414f-4b62-4cad-aa72-a71e4c01d7cf" name="AS Monaco" alias="MON" country_code="FRA" country="France" type="team"/>
+        </statistic>
+        <statistic goals="9" goal_frequency="0" goal_average="0.0" goal_assists="10" matches_played="34" matches_started="0" minutes_played="2640" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="13" substitutions_in="4">
+          <category id="90137cc7-d251-4f40-af3f-c3a2101f53a3" name="France" country_code="FRA" country="France"/>
+          <tournament_group id="eb8c8dc3-6dc9-4adb-b42e-9b0230629147" name="Ligue 1"/>
+          <tournament id="b328aeb8-38d6-45d8-bda3-25f375a9bd18" name="Ligue 1"/>
+          <team id="8544414f-4b62-4cad-aa72-a71e4c01d7cf" name="AS Monaco" alias="MON" country_code="FRA" country="France" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 107414/1405922889 -->
+  </player>
+</profile>

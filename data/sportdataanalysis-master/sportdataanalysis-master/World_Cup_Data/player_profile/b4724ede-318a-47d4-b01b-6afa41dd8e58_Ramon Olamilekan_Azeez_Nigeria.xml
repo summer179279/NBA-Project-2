@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:35:53Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="b4724ede-318a-47d4-b01b-6afa41dd8e58" country_code="NGA" preferred_foot="R" height_in="66" weight_lb="147" height_cm="167" weight_kg="66" first_name="Ramon Olamilekan" last_name="Azeez" country="Nigeria">
+    <teams>
+      <team id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" country_code="NGA" position="M" is_manager="false" is_player="true" country="Nigeria" jersey_number="15"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="69" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="134" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="4ba865fd-363d-4df6-8afd-39ffacf0b0c7" name="Copa del Rey"/>
+          <tournament id="948da02b-65e0-4ee2-bdeb-63fa9488b792" name="Copa del Rey"/>
+          <team id="ed8dc79d-5f6d-481b-ba05-81f1618cd46f" name="UD Almeria" alias="ALM" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="30" matches_started="0" minutes_played="2039" yellow_cards="5" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="9">
+          <category id="eea96a14-a70c-410a-8950-5cdce820b68d" name="Spain" country_code="ESP" country="Spain"/>
+          <tournament_group id="64e90d00-9ea0-4c91-8292-e78414439d54" name="Primera Division"/>
+          <tournament id="004bb0f3-ea53-49e1-a699-5478c252466d" name="Primera Division"/>
+          <team id="ed8dc79d-5f6d-481b-ba05-81f1618cd46f" name="UD Almeria" alias="ALM" country_code="ESP" country="Spain" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 158397/1405922813 -->
+  </player>
+</profile>

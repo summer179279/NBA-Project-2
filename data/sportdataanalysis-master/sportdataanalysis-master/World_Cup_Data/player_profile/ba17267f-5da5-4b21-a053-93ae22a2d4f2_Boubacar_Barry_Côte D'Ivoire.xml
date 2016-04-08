@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:17:34Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="ba17267f-5da5-4b21-a053-93ae22a2d4f2" country_code="CIV" preferred_foot="R" height_in="70" weight_lb="152" height_cm="177" weight_kg="68" first_name="Boubacar" last_name="Barry" country="Côte D'Ivoire">
+    <teams>
+      <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" country_code="CIV" position="G" is_manager="false" is_player="true" country="Côte D'Ivoire" jersey_number="1"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="31" matches_started="0" minutes_played="2757" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="23c1de91-0d5d-4c30-9291-09afe82a4d34" name="Belgium" country_code="BEL" country="Belgium"/>
+          <tournament_group id="6889669b-927e-4eca-9a87-795e1f89ae42" name="Pro League"/>
+          <team id="028879e5-42cd-4ec7-aed0-158306e22837" name="Sporting Lokeren" alias="LOK" country_code="BEL" country="Belgium" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 5946/1405922880 -->
+  </player>
+</profile>

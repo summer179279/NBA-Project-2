@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:39:57Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="6e42c12d-0514-4060-a1db-df736ee958d0" country_code="NLD" preferred_foot="R" height_in="67" weight_lb="152" height_cm="170" weight_kg="68" first_name="Georginio" last_name="Wijnaldum" country="Netherlands">
+    <teams>
+      <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" country_code="NLD" position="M" is_manager="false" is_player="true" country="Netherlands" jersey_number="20"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="44" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="6" matches_started="0" minutes_played="460" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="360" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="b55b5c50-5e49-4a6e-9fdc-1629e2f141a9" name="PSV Eindhoven" alias="PSV" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="4" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="11" matches_started="0" minutes_played="874" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="2">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie"/>
+          <team id="b55b5c50-5e49-4a6e-9fdc-1629e2f141a9" name="PSV Eindhoven" alias="PSV" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="136" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="ff14a3ef-bfd8-4e48-a24c-369c89fb0f31" name="Eerste Divisie"/>
+          <tournament id="18493e74-b61e-4964-88c1-0fd035b3829a" name="Eerste Divisie"/>
+          <team id="0083fa4c-b5c6-44a1-a917-b0fda08135f3" name="Jong PSV Eindhoven" alias="" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 22126/1405922610 -->
+  </player>
+</profile>

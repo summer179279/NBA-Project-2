@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:41:50Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="76ea9597-7cd1-4861-be27-e6c5f0b6612e" status="closed" scratched="false" period="X2" scheduled="2014-07-01T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" loser_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="76ea9597-7cd1-4861-be27-e6c5f0b6612e" status="closed" number="1" home_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" away_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" home_score="2" away_score="1"/>
+      </round>
+      <home id="e56a79d1-d65c-4e8c-8ce2-e87744220812" name="Belgium" alias="BEL" country_code="BEL" country="Belgium" type="team" formation="4-3-3" score="2" regular_score="2" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="2" number="3"/>
+        </scoring>
+        <statistics attacks="181" ball_safe="136" corner_kicks="19" dangerous_attacks="110" fouls="28" free_kicks="11" goal_attempts="30" goal_kicks="11" offsides="1" saves="4" shots_total="30" substitutions="3" throw_ins="32" yellow_card="1" shots_on_target="20" shots_off_target="10" possessions="49"/>
+        <players>
+          <player id="33f9b1a8-b942-4891-b940-0341eca7fcdf" country_code="BEL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Simon" last_name="Mignolet" country="Belgium" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="14424e24-5979-40fd-9c92-a6e93946f469" country_code="BEL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Mousa" last_name="Dembele" country="Belgium" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3f16f983-30bd-45df-b422-449578ea3dd0" country_code="BEL" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Romelu" last_name="Lukaku" country="Belgium" jersey_number="9">
+            <statistics goal="1" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="f7066bbc-9bb1-499c-94a7-2a8637ea8467" country_code="BEL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Anthony" last_name="Vanden Borre" country="Belgium" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="71bc647a-13ce-438b-95f1-33127950df5f" country_code="BEL" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Marouane" last_name="Fellaini" country="Belgium" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="148f0e24-a03a-4891-83e8-915926622022" country_code="BEL" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Dries" last_name="Mertens" country="Belgium" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="00f3f340-438a-4560-9b2c-08d835ccdfa1" country_code="BEL" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Divock" last_name="Origi" country="Belgium" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="077f1fae-a818-4bd2-b45f-89e8099e99b6" country_code="BEL" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Vincent" last_name="Kompany" country="Belgium" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8c11f8ea-9262-4a67-a2d5-ce41813f6c43" country_code="BEL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Steven" last_name="Defour" country="Belgium" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="00fd1a3b-eb65-4d0c-bb33-31fb21f793b1" country_code="BEL" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Thibaut" last_name="Courtois" country="Belgium" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b" country_code="BEL" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Kevin" last_name="De Bruyne" country="Belgium" jersey_number="7">
+            <statistics goal="1" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="29973269-b636-4fa2-bcb6-aa72ae698d50" country_code="BEL" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Daniel" last_name="van Buyten" country="Belgium" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="00b12235-3f25-4a5e-b19e-2e6fc68902f6" country_code="BEL" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Eden" last_name="Hazard" country="Belgium" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="2289bf9b-17dd-49e4-bc30-aaa7529279c7" country_code="BEL" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Nacer" last_name="Chadli" country="Belgium" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="033007fe-172d-4261-a780-578f7ce319d1" country_code="BEL" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Toby" last_name="Alderweireld" country="Belgium" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="41b1369e-735e-4d7f-bd10-cef358398001" country_code="BEL" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Jan" last_name="Vertonghen" country="Belgium" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f2be95d6-888a-4e1f-a610-e561c987da1c" country_code="BEL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Laurent" last_name="Ciman" country="Belgium" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cfa0ca3-7ab6-44fe-8fac-6cf64232aee6" country_code="BEL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Thomas" last_name="Vermaelen" country="Belgium" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0c909223-dd5f-404b-9cef-18bdcc63561a" country_code="BEL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Nicolas" last_name="Lombaerts" country="Belgium" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="bca6584e-cb93-4ca1-8612-6c5e8a2159d6" country_code="BEL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Sammy" last_name="Bossut" country="Belgium" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="619417cd-798f-4c02-b5f6-2dd87db1d576" country_code="BEL" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Axel" last_name="Witsel" country="Belgium" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3bd57acd-df70-43a5-a188-b48011eb4d2e" country_code="BEL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Adnan" last_name="Januzaj" country="Belgium" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="337283d8-7a73-49e5-8621-dccaba86048c" country_code="BEL" position="F" started="false" tactical_position="8" tactical_order="9" first_name="Kevin" last_name="Mirallas" country="Belgium" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+        </players>
+      </home>
+      <away id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" name="USA" alias="USA" country_code="USA" country="United States" type="team" formation="4-3-3" score="1" regular_score="1" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+          <overtime points="1" number="3"/>
+        </scoring>
+        <statistics attacks="164" ball_safe="139" corner_kicks="4" dangerous_attacks="88" fouls="11" free_kicks="13" goal_attempts="12" goal_kicks="14" offsides="0" saves="16" shots_total="12" substitutions="3" throw_ins="28" yellow_card="1" shots_on_target="5" shots_off_target="7" possessions="51"/>
+        <players>
+          <player id="2d6c63df-bd7c-4a32-9b52-51204157296f" country_code="USA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Brad" last_name="Guzan" country="United States" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3acd13a3-eb74-4116-9933-b23c49ca5464" country_code="USA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Tim" last_name="Howard" country="United States" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="01ab4727-0c6f-4fdc-8efb-2b9c97e26561" country_code="USA" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Julian" last_name="Green" country="United States" jersey_number="16">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1c0dab95-831d-42a5-b796-a76c73d3fe52" country_code="USA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Jermaine" last_name="Jones" country="United States" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e5563330-66f6-4f3b-be61-f52c6714c3c4" country_code="USA" position="D" started="false" tactical_position="8" tactical_order="9" first_name="DeAndre" last_name="Yedlin" country="United States" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="20437cc7-925c-45a6-8a48-abae08f58e8f" country_code="USA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Nick" last_name="Rimando" country="United States" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6589af3e-2247-41f5-b40a-7ef9c16690a4" country_code="USA" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Alejandro" last_name="Bedoya" country="United States" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0" country_code="USA" position="D" started="true" tactical_position="8" tactical_order="9" first_name="Fabian" last_name="Johnson" country="United States" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="9a285c9d-8a7b-403a-8828-d2dea32bf822" country_code="USA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Matt" last_name="Besler" country="United States" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e342e841-b09b-4c3f-929c-8f0dd4ec437a" country_code="USA" position="M" started="true" tactical_position="8" tactical_order="10" first_name="Clint" last_name="Dempsey" country="United States" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="25441ac7-584c-41a9-a255-c7ac5f1e8e2f" country_code="USA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Geoff" last_name="Cameron" country="United States" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4666f663-32d9-4b9d-ad4e-5bc861eae2bd" country_code="USA" position="M" started="true" tactical_position="4" tactical_order="5" first_name="DaMarcus" last_name="Beasley" country="United States" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4c712e71-6e7c-4a76-adfa-67975c05a8d8" country_code="USA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Graham" last_name="Zusi" country="United States" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="ee46734e-0e74-4f6e-bf1d-1de7c23ff618" country_code="USA" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Michael" last_name="Bradley" country="United States" jersey_number="4">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="11cb9025-83a5-45f8-a4dc-a6f62eb0e930" country_code="USA" position="F" started="false" tactical_position="6" tactical_order="6" first_name="Chris" last_name="Wondolowski" country="United States" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="3e6d40a1-4a89-4596-85d9-fbad55e08b91" country_code="USA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Omar" last_name="Gonzalez" country="United States" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2aeacd39-3f9c-42af-957e-9df8573973c4" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Kyle" last_name="Beckerman" country="United States" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="46c6eccd-d923-4a22-901e-522a2f69f25a" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Brad" last_name="Davis" country="United States" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="58fae309-af83-46ee-99ea-59421f1e9a17" country_code="USA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="John Anthony" last_name="Brooks" country="United States" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5c376e14-9d2d-4f68-9d44-217ed1617563" country_code="USA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Timothy" last_name="Chandler" country="United States" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1c9a5732-2508-43d7-be83-1fdc5e7cc7c8" country_code="USA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Mix" last_name="Diskerud" country="United States" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8eea7287-6ca1-42f9-b5fd-641b7f700016" country_code="USA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Aron" last_name="Johannsson" country="United States" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0328f4e4-a62f-46d0-9c53-081b7cb7d9e9" country_code="USA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jozy" last_name="Altidore" country="United States" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="5c14d74b-e8f2-49eb-b8d3-216ad33e1564" name="Arena Fonte Nova" country_code="BRA" city="Salvador" capacity="51900" country="Brazil" coordinates="-12.978746,-38.504157"/>
+      <facts>
+        <fact id="84ec488c-c4c8-4107-80da-80a69a768378" type="match_started" time="2014-07-01T20:00:07Z" updated_time="2014-07-01T20:00:07Z" scratch="false" clock="1" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Today's referee, Djamel Haimoudi, has blown to start the match.</description>
+        </fact>
+        <fact id="1a844b2d-5f1d-461c-949f-d7c0b186a79e" type="period_started" time="2014-07-01T20:00:07Z" updated_time="2014-07-01T20:00:07Z" scratch="false" period="P1"/>
+        <fact id="b395209d-718a-4b8b-9b60-082e8a2a1e83" type="shot_on_target" time="2014-07-01T20:01:02Z" updated_time="2014-07-01T20:01:02Z" scratch="false" x="93" y="91" clock="1" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00f3f340-438a-4560-9b2c-08d835ccdfa1">
+          <description>Divock Origi for Belgium drives towards goal at Arena Fonte Nova. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="fb78d7e9-c406-43a3-92dd-55a0c7540ef6" type="keeper_save" time="2014-07-01T20:01:02Z" updated_time="2014-07-01T20:01:02Z" scratch="false" x="93" y="91" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="ce8112f1-6da9-42d6-9612-3639f9ebc1ca" type="corner_kick" time="2014-07-01T20:01:10Z" updated_time="2014-07-01T20:01:10Z" scratch="false" x="95" y="90" clock="1" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="3f2e9bb4-b025-4a86-9d0c-cf6275e18659" type="throwin" time="2014-07-01T20:01:16Z" updated_time="2014-07-01T20:01:16Z" scratch="false" x="75" y="98" clock="1" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Can Belgium get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="dfe382b9-5f46-4376-ab88-cd48e79c9845" type="throwin" time="2014-07-01T20:01:43Z" updated_time="2014-07-01T20:01:43Z" scratch="false" x="67" y="99" clock="1" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="a3161703-f205-4a2e-b25d-6bd9a6a2c252" type="free_kick" time="2014-07-01T20:01:39Z" updated_time="2014-07-01T20:02:59Z" scratch="false" x="41" y="73" clock="2" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="ec5d87e4-cb47-403a-a4d2-0b951b10531d" type="corner_kick" time="2014-07-01T20:02:24Z" updated_time="2014-07-01T20:02:24Z" scratch="false" x="95" y="5" clock="2" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="dceafade-416a-43bc-8ceb-076371801f28" type="throwin" time="2014-07-01T20:04:43Z" updated_time="2014-07-01T20:04:43Z" scratch="false" x="72" y="2" clock="4" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9a35a6f4-744a-4525-be72-63d02f8e4820" type="throwin" time="2014-07-01T20:05:05Z" updated_time="2014-07-01T20:05:05Z" scratch="false" x="62" y="2" clock="4" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="30f4a173-280f-49a2-85a7-610d7ed678db" type="goal_kick" time="2014-07-01T20:05:16Z" updated_time="2014-07-01T20:05:16Z" scratch="false" x="95" y="50" clock="5" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="19ed8930-b2b5-41e0-9629-aa3cf8665d95" type="goal_kick" time="2014-07-01T20:05:44Z" updated_time="2014-07-01T20:05:44Z" scratch="false" x="5" y="50" clock="5" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Ball goes out of play for a Belgium goal kick.</description>
+        </fact>
+        <fact id="660b8146-3908-4a66-a856-587f44da6998" type="free_kick" time="2014-07-01T20:06:14Z" updated_time="2014-07-01T20:06:14Z" scratch="false" x="41" y="72" clock="6" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a free kick to Belgium in their own half.</description>
+        </fact>
+        <fact id="1a9ef6ca-0139-4e1e-80aa-6c5174e9d969" type="throwin" time="2014-07-01T20:07:04Z" updated_time="2014-07-01T20:07:04Z" scratch="false" x="70" y="0" clock="6" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="fa975380-690a-498a-9989-05a2f641311e" type="free_kick" time="2014-07-01T20:07:29Z" updated_time="2014-07-01T20:07:29Z" scratch="false" x="61" y="36" clock="7" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="c6851315-2250-4a3a-bf3b-0fcb672c593c" type="goal_kick" time="2014-07-01T20:08:27Z" updated_time="2014-07-01T20:08:27Z" scratch="false" x="5" y="50" clock="8" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have a goal kick.</description>
+        </fact>
+        <fact id="4caa4f4b-5124-4e9b-8749-dda2365b51bb" type="throwin" time="2014-07-01T20:09:05Z" updated_time="2014-07-01T20:09:05Z" scratch="false" x="77" y="2" clock="8" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="d5f78d02-d639-4cf3-a7d8-55f07c74d577" type="free_kick" time="2014-07-01T20:09:31Z" updated_time="2014-07-01T20:09:31Z" scratch="false" x="88" y="46" clock="9" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4665c8c0-de35-46e2-a660-c1ffa732b293" type="free_kick" time="2014-07-01T20:10:34Z" updated_time="2014-07-01T20:10:34Z" scratch="false" x="60" y="58" clock="10" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Free kick Belgium.</description>
+        </fact>
+        <fact id="b6405266-13b4-4bda-a9e9-53cc87e55586" type="throwin" time="2014-07-01T20:10:53Z" updated_time="2014-07-01T20:10:53Z" scratch="false" x="80" y="99" clock="10" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in for Belgium close to the penalty box.</description>
+        </fact>
+        <fact id="55fc2d1b-4a40-4939-8904-476a3e3371c9" type="free_kick" time="2014-07-01T20:11:46Z" updated_time="2014-07-01T20:11:46Z" scratch="false" x="75" y="73" clock="11" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="250d8ea5-0c8e-42af-bdfc-ccb7486323b5" type="throwin" time="2014-07-01T20:11:57Z" updated_time="2014-07-01T20:11:57Z" scratch="false" x="39" y="98" clock="11" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Belgium's half?</description>
+        </fact>
+        <fact id="c0c0f86d-8c8d-47d2-b3c8-f57bbbaec344" type="corner_kick" time="2014-07-01T20:11:30Z" updated_time="2014-07-01T20:11:30Z" scratch="false" x="95" y="90" clock="12" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="cdbffb6e-5374-4090-b877-45a7dc5cb1c8" type="throwin" time="2014-07-01T20:12:31Z" updated_time="2014-07-01T20:12:31Z" scratch="false" x="19" y="1" clock="12" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Belgium needs to be cautious. USA have an attacking throw-in.</description>
+        </fact>
+        <fact id="3bdd184f-2a34-45f1-ad9c-4daa22a813f7" type="game_resumed" time="2014-07-01T20:13:35Z" updated_time="2014-07-01T20:13:35Z" scratch="false" clock="13">
+          <description>The match at Arena Fonte Nova is underway again.</description>
+        </fact>
+        <fact id="9a8b65f1-4d49-4e05-a069-a6dc41f78df9" type="throwin" time="2014-07-01T20:13:50Z" updated_time="2014-07-01T20:13:50Z" scratch="false" x="41" y="2" clock="13" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Belgium territory.</description>
+        </fact>
+        <fact id="b82a776d-4f2e-4bd9-aa0d-3e56f9b6d366" type="injury_return" time="2014-07-01T20:14:04Z" updated_time="2014-07-01T20:14:04Z" scratch="false" clock="13" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00f3f340-438a-4560-9b2c-08d835ccdfa1">
+          <description>Divock Origi is back on the pitch.</description>
+        </fact>
+        <fact id="3879d504-1ac2-49cf-b5ab-db420d8411dc" type="injury" time="2014-07-01T20:13:20Z" updated_time="2014-07-01T20:13:20Z" scratch="false" x="33" y="36" clock="14" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00f3f340-438a-4560-9b2c-08d835ccdfa1">
+          <description>Djamel Haimoudi waits before resuming play because Divock Origi for Belgium is still down.</description>
+        </fact>
+        <fact id="6b05e73e-7c8f-4f56-bba8-2c18cb77881b" type="free_kick" time="2014-07-01T20:14:22Z" updated_time="2014-07-01T20:14:22Z" scratch="false" x="81" y="67" clock="14" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6e9accca-1680-41db-a3c5-438cc651c378" type="throwin" time="2014-07-01T20:14:51Z" updated_time="2014-07-01T20:14:51Z" scratch="false" x="62" y="99" clock="14" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA in their own half.</description>
+        </fact>
+        <fact id="d1650bab-089a-4cab-ad58-4a0bec3679e2" type="throwin" time="2014-07-01T20:15:19Z" updated_time="2014-07-01T20:15:19Z" scratch="false" x="41" y="98" clock="15" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in Belgium.</description>
+        </fact>
+        <fact id="9971f682-61d1-4674-a471-d72c59f9853f" type="free_kick" time="2014-07-01T20:17:28Z" updated_time="2014-07-01T20:17:28Z" scratch="false" x="41" y="53" clock="17" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c1a8f779-c807-45d5-8a85-749c21e3ecda" type="card" time="2014-07-01T20:17:34Z" updated_time="2014-07-01T20:17:34Z" scratch="false" clock="18" card="Y" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="25441ac7-584c-41a9-a255-c7ac5f1e8e2f">
+          <description>Geoff Cameron (USA) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="707b5268-404a-4e03-a046-eafbb0c6c8fa" type="throwin" time="2014-07-01T20:18:12Z" updated_time="2014-07-01T20:18:12Z" scratch="false" x="77" y="100" clock="18" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="ebef37fc-025d-4928-b1ed-1af07ee81d42" type="throwin" time="2014-07-01T20:18:35Z" updated_time="2014-07-01T20:18:35Z" scratch="false" x="66" y="99" clock="18" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA in their own half.</description>
+        </fact>
+        <fact id="036dbff2-6be4-4ce1-b834-a6d54a135019" type="corner_kick" time="2014-07-01T20:19:46Z" updated_time="2014-07-01T20:19:46Z" scratch="false" x="5" y="5" clock="20" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="a3a1c9a3-b2b2-4db8-aec7-a8799b3ed3a5" type="keeper_save" time="2014-07-01T20:20:35Z" updated_time="2014-07-01T20:20:35Z" scratch="false" x="20" y="57" clock="20" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812"/>
+        <fact id="5c0dccec-b86b-42f1-bc3d-d9f1af37c851" type="shot_on_target" time="2014-07-01T20:20:35Z" updated_time="2014-07-01T20:20:35Z" scratch="false" x="20" y="57" clock="21" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>USA drive forward and Clint Dempsey gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="674b7dca-8bec-46b3-bf07-dc757dc66379" type="keeper_save" time="2014-07-01T20:21:17Z" updated_time="2014-07-01T20:21:17Z" scratch="false" x="63" y="40" clock="21" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="9fea2a44-6f55-4ca6-ad05-edf5160e5b04" type="throwin" time="2014-07-01T20:21:35Z" updated_time="2014-07-01T20:21:35Z" scratch="false" x="35" y="98" clock="21" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a USA throw-in in Belgium's half.</description>
+        </fact>
+        <fact id="b0683d2b-bc3e-4bc1-b6c6-7a22382573bb" type="throwin" time="2014-07-01T20:21:53Z" updated_time="2014-07-01T20:21:53Z" scratch="false" x="32" y="99" clock="21" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Belgium territory.</description>
+        </fact>
+        <fact id="8dd6cc31-6477-4209-890a-baa2f41e9084" type="shot_on_target" time="2014-07-01T20:21:17Z" updated_time="2014-07-01T20:22:01Z" scratch="false" x="63" y="40" clock="22" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="033007fe-172d-4261-a780-578f7ce319d1">
+          <description>In Salvador Belgium drive forward through Toby Alderweireld. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="451c63ab-8c65-4620-b588-2e01889a6b44" type="shot_off_target" time="2014-07-01T20:22:39Z" updated_time="2014-07-01T20:22:39Z" scratch="false" x="88" y="32" clock="23" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b">
+          <description>Belgium are pushing forward but Kevin De Bruyne's finish is wide of the goal.</description>
+        </fact>
+        <fact id="de41761d-afd3-4b01-844d-091b23090800" type="goal_kick" time="2014-07-01T20:22:40Z" updated_time="2014-07-01T20:22:40Z" scratch="false" x="95" y="50" clock="23" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi awards USA a goal kick.</description>
+        </fact>
+        <fact id="c44c7886-2e01-4210-bde2-e48602810d2d" type="throwin" time="2014-07-01T20:23:27Z" updated_time="2014-07-01T20:23:27Z" scratch="false" x="70" y="98" clock="23" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Can Belgium get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="5b140c99-5a7e-4b19-a814-cb83bb9fc071" type="throwin" time="2014-07-01T20:23:48Z" updated_time="2014-07-01T20:23:48Z" scratch="false" x="84" y="99" clock="23" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a throw-in for Belgium, close to USA's area.</description>
+        </fact>
+        <fact id="99130a99-d1ba-423a-b575-4e55fe90fae2" type="corner_kick" time="2014-07-01T20:24:17Z" updated_time="2014-07-01T20:24:17Z" scratch="false" x="95" y="90" clock="24" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="17a22555-8c51-4c2e-a330-755ad6848506" type="free_kick" time="2014-07-01T20:24:23Z" updated_time="2014-07-01T20:24:23Z" scratch="false" x="85" y="40" clock="24" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="4f90336d-dadc-4220-adfd-3246d229bc66" type="shot_blocked" time="2014-07-01T20:25:38Z" updated_time="2014-07-01T20:25:38Z" scratch="false" x="87" y="64" clock="26" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Axel Witsel (Belgium) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="e4d3059b-8bb2-4a1e-b228-eb4f6577e72e" type="shot_blocked" time="2014-07-01T20:26:51Z" updated_time="2014-07-01T20:26:51Z" scratch="false" x="93" y="4" clock="27" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Jan Vertonghen (Belgium) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="c0b84869-5655-4ed1-a6c1-5cc541db277a" type="corner_kick" time="2014-07-01T20:27:06Z" updated_time="2014-07-01T20:27:06Z" scratch="false" x="95" y="5" clock="27" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="d22d40fa-f405-451b-a06e-231485cd5dd5" type="corner_kick" time="2014-07-01T20:28:02Z" updated_time="2014-07-01T20:28:02Z" scratch="false" x="95" y="5" clock="28" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="6cdb437d-4a43-42e8-bd3f-4bdaf8909399" type="keeper_save" time="2014-07-01T20:28:36Z" updated_time="2014-07-01T20:28:36Z" scratch="false" x="68" y="48" clock="28" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="9df6fa66-20c7-430d-85b3-58b06b640e86" type="throwin" time="2014-07-01T20:29:01Z" updated_time="2014-07-01T20:29:01Z" scratch="false" x="32" y="2" clock="28" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in Belgium.</description>
+        </fact>
+        <fact id="fe756cde-d7f4-4559-82cd-f7cd4a68212f" type="shot_on_target" time="2014-07-01T20:28:36Z" updated_time="2014-07-01T20:28:36Z" scratch="false" x="68" y="48" clock="29" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00b12235-3f25-4a5e-b19e-2e6fc68902f6">
+          <description>Belgium's Eden Hazard is on target but unsuccessful.</description>
+        </fact>
+        <fact id="66933c3c-beae-4976-a4d6-92734690aa33" type="injury" time="2014-07-01T20:29:56Z" updated_time="2014-07-01T20:31:31Z" scratch="false" x="69" y="69" clock="29" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0">
+          <description>Play has been interrupted briefly in Salvador to check on Fabian Johnson, who is grimacing with pain.</description>
+        </fact>
+        <fact id="654b9f32-5a26-4d65-9347-2e7758c9d3db" type="game_resumed" time="2014-07-01T20:31:32Z" updated_time="2014-07-01T20:31:32Z" scratch="false" clock="31">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="b451318c-d7d6-4d21-b4ba-386b35633961" type="substitution" time="2014-07-01T20:31:31Z" updated_time="2014-07-01T20:31:31Z" scratch="false" clock="32" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="5a9daf45-971f-4c09-ac3f-7fb9a5376fe0" player_in_id="e5563330-66f6-4f3b-be61-f52c6714c3c4">
+          <description>Fabian Johnson, who was grimacing earlier, has been substituted. DeAndre Yedlin is the substitute for USA.</description>
+        </fact>
+        <fact id="857337c5-2ab0-41e9-82fd-f0562b8ee0bc" type="shot_blocked" time="2014-07-01T20:32:40Z" updated_time="2014-07-01T20:32:40Z" scratch="false" x="5" y="3" clock="33" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>In Salvador, DeAndre Yedlin of USA is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="bae486d7-3de6-4b10-a332-e80d7a24f18b" type="corner_kick" time="2014-07-01T20:33:00Z" updated_time="2014-07-01T20:33:00Z" scratch="false" x="5" y="5" clock="33" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="ca684108-8d35-443d-95b3-7fd2681f66cb" type="goal_kick" time="2014-07-01T20:34:04Z" updated_time="2014-07-01T20:34:04Z" scratch="false" x="5" y="50" clock="33" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Goal kick for Belgium at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="17ccaa99-d67a-437e-89c2-bdf34e4de623" type="shot_off_target" time="2014-07-01T20:33:11Z" updated_time="2014-07-01T20:33:11Z" scratch="false" x="12" y="43" clock="34" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>USA's Jermaine Jones breaks free at Arena Fonte Nova. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="fa8a223f-b33e-44d6-a8ae-b639b25bb61b" type="goal_kick" time="2014-07-01T20:33:11Z" updated_time="2014-07-01T20:33:11Z" scratch="false" x="5" y="50" clock="34" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have a goal kick.</description>
+        </fact>
+        <fact id="6e8750c3-21ba-4d0f-b5d8-1baf551e3e0d" type="free_kick" time="2014-07-01T20:34:52Z" updated_time="2014-07-01T20:34:52Z" scratch="false" x="63" y="38" clock="34" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="14ab9a31-d950-4b79-8089-4d57c6d41906" type="free_kick" time="2014-07-01T20:36:01Z" updated_time="2014-07-01T20:36:01Z" scratch="false" x="75" y="65" clock="35" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="4f9c8e19-cd55-43d7-8334-c004eabedba5" type="shot_blocked" time="2014-07-01T20:35:47Z" updated_time="2014-07-01T20:35:47Z" scratch="false" x="85" y="54" clock="36" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium drive upfield and Eden Hazard gets in a shot. The strike is blocked by a USA defender.</description>
+        </fact>
+        <fact id="8b32b519-e4b6-483a-bf79-68dbc1f05108" type="throwin" time="2014-07-01T20:36:53Z" updated_time="2014-07-01T20:36:53Z" scratch="false" x="46" y="2" clock="36" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="b235f17f-2052-4323-8479-a7e6e78bc158" type="goal_kick" time="2014-07-01T20:37:34Z" updated_time="2014-07-01T20:37:34Z" scratch="false" x="95" y="50" clock="37" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi awards USA a goal kick.</description>
+        </fact>
+        <fact id="aac44b40-25f4-4dda-ae25-35b188a10d4a" type="throwin" time="2014-07-01T20:38:09Z" updated_time="2014-07-01T20:38:09Z" scratch="false" x="17" y="99" clock="38" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a dangerous throw-in.</description>
+        </fact>
+        <fact id="6a438327-3474-42cc-bb0d-8cadf12bd6a2" type="free_kick" time="2014-07-01T20:39:08Z" updated_time="2014-07-01T20:39:08Z" scratch="false" x="74" y="80" clock="39" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a free kick to Belgium.</description>
+        </fact>
+        <fact id="c379aa6d-0dfe-4ef1-afcb-5cc9ced699cd" type="throwin" time="2014-07-01T20:40:00Z" updated_time="2014-07-01T20:40:00Z" scratch="false" x="73" y="98" clock="39" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="6a4eb15d-d9be-4e09-940f-0aceb70bce8d" type="throwin" time="2014-07-01T20:40:14Z" updated_time="2014-07-01T20:40:14Z" scratch="false" x="84" y="99" clock="40" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="36fbbfc5-3375-4524-a021-252c41f675d2" type="throwin" time="2014-07-01T20:40:24Z" updated_time="2014-07-01T20:40:24Z" scratch="false" x="60" y="98" clock="40" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="556519cd-dfb9-4c85-9d10-a85e58cc2687" type="free_kick" time="2014-07-01T20:41:27Z" updated_time="2014-07-01T20:41:27Z" scratch="false" x="57" y="19" clock="41" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c7315064-9460-42c7-9d64-c7b428a09d98" type="card" time="2014-07-01T20:41:34Z" updated_time="2014-07-01T20:41:34Z" scratch="false" clock="42" card="Y" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="077f1fae-a818-4bd2-b45f-89e8099e99b6">
+          <description>Vincent Kompany (Belgium) gets a yellow card.</description>
+        </fact>
+        <fact id="76223f92-35d3-4f31-8377-d4f4e3c9c80a" type="corner_kick" time="2014-07-01T20:43:20Z" updated_time="2014-07-01T20:43:20Z" scratch="false" x="95" y="5" clock="43" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="4f9dcd3e-7061-45eb-b169-2b3208c19ce6" type="throwin" time="2014-07-01T20:43:30Z" updated_time="2014-07-01T20:43:30Z" scratch="false" x="82" y="99" clock="43" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="29a514e5-b307-473a-b8b4-da882fbc717d" type="free_kick" time="2014-07-01T20:44:16Z" updated_time="2014-07-01T20:44:16Z" scratch="false" x="68" y="50" clock="44" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="a501cd80-bade-4336-b81d-4abf3af87bcd" type="corner_kick" time="2014-07-01T20:44:58Z" updated_time="2014-07-01T20:44:58Z" scratch="false" x="5" y="5" clock="45" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Corner awarded to USA.</description>
+        </fact>
+        <fact id="230bb779-5ea0-4b08-a519-d451ed986ce9" type="shot_on_target" time="2014-07-01T20:45:26Z" updated_time="2014-07-01T20:45:26Z" scratch="false" x="76" y="37" clock="45" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b">
+          <description>Kevin De Bruyne gets his shot on target but fails to score for Belgium.</description>
+        </fact>
+        <fact id="a07104b6-2c3f-47f4-91c2-7352f27d6c4a" type="keeper_save" time="2014-07-01T20:45:26Z" updated_time="2014-07-01T20:45:26Z" scratch="false" x="76" y="37" clock="45" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="e3521a1b-17c2-421c-8bd3-1ba1a0a6cd07" type="throwin" time="2014-07-01T20:46:01Z" updated_time="2014-07-01T20:46:01Z" scratch="false" x="29" y="2" clock="45" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Belgium's half?</description>
+        </fact>
+        <fact id="59afbc50-e651-4d73-89fe-6ce6301fa4de" type="injury_time" time="2014-07-01T20:45:15Z" updated_time="2014-07-01T20:45:15Z" scratch="false" clock="45" injury_time="3" period="P1">
+          <description>At Arena Fonte Nova the fourth official shows that 3 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="3fc480a1-190e-43d2-a3dc-25562e9c7638" type="corner_kick" time="2014-07-01T20:47:02Z" updated_time="2014-07-01T20:47:02Z" scratch="false" x="95" y="5" clock="45" injury_time="1" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="468bcc2b-8f85-4bc1-a7bb-d10811b2e810" type="free_kick" time="2014-07-01T20:47:11Z" updated_time="2014-07-01T20:47:11Z" scratch="false" x="77" y="49" clock="45" injury_time="2" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="1a294af0-77d8-4913-b37e-010958ad98db" type="throwin" time="2014-07-01T20:47:52Z" updated_time="2014-07-01T20:47:52Z" scratch="false" x="63" y="1" clock="45" injury_time="2" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="2ac024b5-6163-4d29-aeff-31189e31fb94" type="throwin" time="2014-07-01T20:48:06Z" updated_time="2014-07-01T20:48:06Z" scratch="false" x="68" y="1" clock="45" injury_time="2" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Can Belgium get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="a1f4bc25-76b3-47ed-b5cd-855caa62e51d" type="period_over" time="2014-07-01T20:48:14Z" updated_time="2014-07-01T20:48:14Z" scratch="false" home_score="0" away_score="0" period="P1">
+          <description>Djamel Haimoudi blows to end the first-half.</description>
+        </fact>
+        <fact id="8f238d67-0bae-47a2-be33-59c5e44a862f" type="period_started" time="2014-07-01T20:48:14Z" updated_time="2014-07-01T20:48:14Z" scratch="false" period="H"/>
+        <fact id="e5b0344d-9508-4c66-9a5a-8c11be9a2034" type="period_started" time="2014-07-01T21:03:16Z" updated_time="2014-07-01T21:03:16Z" scratch="false" period="P2"/>
+        <fact id="bb6fb565-d422-4687-a18c-adc49e7764b2" type="throwin" time="2014-07-01T21:04:31Z" updated_time="2014-07-01T21:04:31Z" scratch="false" x="37" y="2" clock="46" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in Belgium.</description>
+        </fact>
+        <fact id="d15ce950-8b84-4d61-b375-e88f2d5ce78d" type="keeper_save" time="2014-07-01T21:05:24Z" updated_time="2014-07-01T21:05:24Z" scratch="false" x="95" y="8" clock="47" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="484d9dbd-4dc5-4961-a2f7-417de9e36029" type="throwin" time="2014-07-01T21:05:57Z" updated_time="2014-07-01T21:05:57Z" scratch="false" x="80" y="1" clock="47" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Can Belgium capitalize from this throw-in deep inside USA's half?</description>
+        </fact>
+        <fact id="1728aefa-8f6e-450d-8146-9f40d7874a49" type="shot_on_target" time="2014-07-01T21:05:24Z" updated_time="2014-07-01T21:05:24Z" scratch="false" x="95" y="8" clock="48" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="148f0e24-a03a-4891-83e8-915926622022">
+          <description>Belgium's Dries Mertens goes close with his head but his effort is blocked.</description>
+        </fact>
+        <fact id="5294ae0b-82dc-42d2-a657-667aa0fd0f5e" type="corner_kick" time="2014-07-01T21:05:40Z" updated_time="2014-07-01T21:05:40Z" scratch="false" x="95" y="90" clock="48" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="0227b5ee-f432-47b5-8517-41467b4dce23" type="goal_kick" time="2014-07-01T21:07:35Z" updated_time="2014-07-01T21:07:35Z" scratch="false" x="95" y="50" clock="49" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="717f9a5c-f621-41dc-a0ae-5e30b46ccee5" type="free_kick" time="2014-07-01T21:08:40Z" updated_time="2014-07-01T21:08:40Z" scratch="false" x="36" y="50" clock="50" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c262e189-3fb4-4ec4-b5a4-64792e06ed62" type="throwin" time="2014-07-01T21:09:19Z" updated_time="2014-07-01T21:09:19Z" scratch="false" x="66" y="1" clock="51" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="49e854b9-7ce7-48e6-a085-318a8959ef34" type="throwin" time="2014-07-01T21:10:12Z" updated_time="2014-07-01T21:10:12Z" scratch="false" x="20" y="98" clock="51" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="009c2e4b-55b5-4f07-af50-c1e09c31729d" type="shot_off_target" time="2014-07-01T21:09:44Z" updated_time="2014-07-01T21:09:44Z" scratch="false" x="64" y="58" clock="52" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="71bc647a-13ce-438b-95f1-33127950df5f">
+          <description>Belgium's Marouane Fellaini misses with an attempt on goal.</description>
+        </fact>
+        <fact id="e666d82a-f31e-4002-80f7-548cf69f785b" type="goal_kick" time="2014-07-01T21:09:45Z" updated_time="2014-07-01T21:09:45Z" scratch="false" x="95" y="50" clock="52" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="7d4a00bf-7a18-4744-939b-8007dd19927f" type="throwin" time="2014-07-01T21:11:06Z" updated_time="2014-07-01T21:11:06Z" scratch="false" x="75" y="98" clock="52" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="d8cfaaa3-991a-4139-b8ee-83e020ddd8a1" type="free_kick" time="2014-07-01T21:11:17Z" updated_time="2014-07-01T21:11:17Z" scratch="false" x="85" y="88" clock="53" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="d4921904-afde-45e2-9b47-d9d2fe7ffa2e" type="throwin" time="2014-07-01T21:12:13Z" updated_time="2014-07-01T21:12:13Z" scratch="false" x="90" y="98" clock="53" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="31fe18ce-bee9-4ce9-97c6-c5d71b0ef035" type="throwin" time="2014-07-01T21:13:51Z" updated_time="2014-07-01T21:13:51Z" scratch="false" x="37" y="1" clock="55" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in for Belgium in their own half.</description>
+        </fact>
+        <fact id="a4f365fa-a1b4-40b0-aa91-71779e85522e" type="shot_off_target" time="2014-07-01T21:13:23Z" updated_time="2014-07-01T21:13:23Z" scratch="false" x="74" y="46" clock="56" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b">
+          <description>Belgium's Kevin De Bruyne gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="22d94aff-a47c-4d97-bbf7-d0e8b9d7a5f0" type="goal_kick" time="2014-07-01T21:13:23Z" updated_time="2014-07-01T21:13:23Z" scratch="false" x="95" y="50" clock="56" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi awards USA a goal kick.</description>
+        </fact>
+        <fact id="a4e1e15e-6d0a-44ee-a674-b2d98d0c00a7" type="shot_on_target" time="2014-07-01T21:14:21Z" updated_time="2014-07-01T21:14:21Z" scratch="false" x="90" y="52" clock="56" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00f3f340-438a-4560-9b2c-08d835ccdfa1">
+          <description>Divock Origi (Belgium) gets in a header but the ball hits the bar! Ohhhh so close.</description>
+        </fact>
+        <fact id="32d281b4-6cc3-42c9-a4f7-6c9850db5e07" type="goal_kick" time="2014-07-01T21:14:21Z" updated_time="2014-07-01T21:14:21Z" scratch="false" x="95" y="50" clock="56" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="fc585e22-61be-4a52-93b9-2f690d6994ff" type="keeper_save" time="2014-07-01T21:14:52Z" updated_time="2014-07-01T21:14:52Z" scratch="false" x="91" y="48" clock="56" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="0dce8f37-1d0b-4332-9ea7-60a5757af19c" type="shot_on_target" time="2014-07-01T21:14:52Z" updated_time="2014-07-01T21:14:52Z" scratch="false" x="91" y="48" clock="57" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="41b1369e-735e-4d7f-bd10-cef358398001">
+          <description>Belgium push forward through Jan Vertonghen, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="07a7273e-4f7a-4759-9b5e-8d5c69c59d94" type="shot_off_target" time="2014-07-01T21:15:04Z" updated_time="2014-07-01T21:15:04Z" scratch="false" x="95" y="43" clock="57" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="41b1369e-735e-4d7f-bd10-cef358398001">
+          <description>Belgium are coming forward and Jan Vertonghen gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="3e1610b6-d118-4ea7-9b6e-113147a14f1f" type="goal_kick" time="2014-07-01T21:15:04Z" updated_time="2014-07-01T21:15:04Z" scratch="false" x="95" y="50" clock="57" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="bc49335a-9ec5-43e9-bd53-cde6e9359185" type="throwin" time="2014-07-01T21:15:54Z" updated_time="2014-07-01T21:15:54Z" scratch="false" x="27" y="98" clock="57" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Belgium's half?</description>
+        </fact>
+        <fact id="c1767bf5-a508-47fe-bf44-cc32723dfaed" type="keeper_save" time="2014-07-01T21:16:12Z" updated_time="2014-07-01T21:16:12Z" scratch="false" x="12" y="53" clock="57" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812"/>
+        <fact id="5adcc1bd-200c-4404-bb27-18cc9d3d69ca" type="shot_blocked" time="2014-07-01T21:15:46Z" updated_time="2014-07-01T21:15:46Z" scratch="false" x="20" y="57" clock="58" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Important block from the Belgium defence as Graham Zusi fires in a strike for USA.</description>
+        </fact>
+        <fact id="2468f236-bb9f-4ecb-ab97-b0da5002e4cf" type="shot_on_target" time="2014-07-01T21:16:12Z" updated_time="2014-07-01T21:16:12Z" scratch="false" x="12" y="53" clock="58" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="4666f663-32d9-4b9d-ad4e-5bc861eae2bd">
+          <description>DaMarcus Beasley of USA smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="22ef6c17-ae98-4efa-96cc-18ec9bf31ee8" type="shot_off_target" time="2014-07-01T21:17:54Z" updated_time="2014-07-01T21:17:54Z" scratch="false" x="96" y="54" clock="60" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="148f0e24-a03a-4891-83e8-915926622022">
+          <description>Dries Mertens for Belgium gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="dc273335-bbad-4171-a49b-a8a1831ec811" type="goal_kick" time="2014-07-01T21:17:54Z" updated_time="2014-07-01T21:17:54Z" scratch="false" x="95" y="50" clock="60" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="4e18c8d0-af04-4332-8774-c3c8ad169944" type="substitution" time="2014-07-01T21:18:10Z" updated_time="2014-07-01T21:18:10Z" scratch="false" clock="60" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_out_id="148f0e24-a03a-4891-83e8-915926622022" player_in_id="337283d8-7a73-49e5-8621-dccaba86048c">
+          <description>Belgium make their first substitution with Kevin Mirallas replacing Dries Mertens.</description>
+        </fact>
+        <fact id="38d75e5c-c347-40b7-888f-eb673e9f713f" type="free_kick" time="2014-07-01T21:18:55Z" updated_time="2014-07-01T21:18:55Z" scratch="false" x="45" y="29" clock="60" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA.</description>
+        </fact>
+        <fact id="d4152fd5-d206-407f-8fa4-b85e911f6d3f" type="throwin" time="2014-07-01T21:21:09Z" updated_time="2014-07-01T21:21:09Z" scratch="false" x="77" y="100" clock="62" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="47a06782-1770-4d70-a5ea-d6deeff512a4" type="shot_blocked" time="2014-07-01T21:21:05Z" updated_time="2014-07-01T21:21:05Z" scratch="false" x="86" y="63" clock="63" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Kevin De Bruyne (Belgium) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="55459d7f-839c-46a5-9ac1-d98930fd4bb8" type="keeper_save" time="2014-07-01T21:21:38Z" updated_time="2014-07-01T21:21:38Z" scratch="false" x="87" y="58" clock="63" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="adf4d523-e08c-4f90-a939-4f7f01b8645b" type="shot_on_target" time="2014-07-01T21:21:38Z" updated_time="2014-07-01T21:21:38Z" scratch="false" x="87" y="58" clock="64" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="41b1369e-735e-4d7f-bd10-cef358398001">
+          <description>Belgium drive forward and Jan Vertonghen gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="1756378d-57db-4849-acb3-6625a2267f11" type="free_kick" time="2014-07-01T21:22:21Z" updated_time="2014-07-01T21:22:21Z" scratch="false" x="22" y="68" clock="64" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b6d1949f-3da3-42c0-9ffe-4bd4ab236af8" type="throwin" time="2014-07-01T21:22:34Z" updated_time="2014-07-01T21:22:34Z" scratch="false" x="75" y="99" clock="64" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="cb58ee46-5f07-4afb-825d-d0214fcca529" type="throwin" time="2014-07-01T21:23:15Z" updated_time="2014-07-01T21:23:15Z" scratch="false" x="64" y="99" clock="64" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Can Belgium get the ball into an attacking position from this throw-in in USA's half?</description>
+        </fact>
+        <fact id="c384b48b-4f84-4bd0-9a33-fd93d64d2ac9" type="shot_blocked" time="2014-07-01T21:23:12Z" updated_time="2014-07-01T21:23:12Z" scratch="false" x="84" y="64" clock="65" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium push forward at Arena Fonte Nova and Axel Witsel gets in a strike. This is blocked, however, by a determined USA defence.</description>
+        </fact>
+        <fact id="a1074795-3e64-4933-ab1a-ccea706f5c0d" type="free_kick" time="2014-07-01T21:23:53Z" updated_time="2014-07-01T21:23:53Z" scratch="false" x="72" y="20" clock="65" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="f1f08e74-d615-4761-bde1-6224d14be7a6" type="throwin" time="2014-07-01T21:26:02Z" updated_time="2014-07-01T21:26:02Z" scratch="false" x="75" y="1" clock="67" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium to take a throw-in in USA territory.</description>
+        </fact>
+        <fact id="08681d01-662c-4b1f-a1bc-a6cc22a5a9cc" type="shot_off_target" time="2014-07-01T21:26:43Z" updated_time="2014-07-01T21:26:43Z" scratch="false" x="84" y="48" clock="69" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="619417cd-798f-4c02-b5f6-2dd87db1d576">
+          <description>Axel Witsel of Belgium gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="4a77b2d2-3ed7-4758-b980-eb9e352294fa" type="goal_kick" time="2014-07-01T21:26:43Z" updated_time="2014-07-01T21:26:43Z" scratch="false" x="95" y="50" clock="69" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="2016883e-be5b-4619-bc48-d9bba39eb44c" type="throwin" time="2014-07-01T21:27:22Z" updated_time="2014-07-01T21:27:22Z" scratch="false" x="39" y="1" clock="69" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="47492f41-ac6f-4797-85a6-069dcfbc4e43" type="offside" time="2014-07-01T21:04:00Z" updated_time="2014-07-01T21:27:46Z" scratch="false" x="87" y="40" clock="70" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b">
+          <description>Djamel Haimoudi blows against Belgium's Kevin De Bruyne for offside.</description>
+        </fact>
+        <fact id="c00ea7ac-5ea9-450a-9b4c-abd3c942143a" type="keeper_save" time="2014-07-01T21:28:56Z" updated_time="2014-07-01T21:28:56Z" scratch="false" x="18" y="58" clock="70" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812"/>
+        <fact id="c6cc1b38-f010-41ff-a463-b499f543c069" type="shot_on_target" time="2014-07-01T21:28:56Z" updated_time="2014-07-01T21:29:57Z" scratch="false" x="18" y="58" clock="71" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>USA's Clint Dempsey gets in a shot on goal at Arena Fonte Nova. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="a30712d3-f186-4ce3-b435-37a65f63b302" type="shot_on_target" time="2014-07-01T21:29:16Z" updated_time="2014-07-01T21:29:16Z" scratch="false" x="80" y="38" clock="71" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00f3f340-438a-4560-9b2c-08d835ccdfa1">
+          <description>Belgium's Divock Origi is on target but unsuccessful.</description>
+        </fact>
+        <fact id="28a7c89d-96b1-41b6-aa71-8a56ddac8876" type="keeper_save" time="2014-07-01T21:29:17Z" updated_time="2014-07-01T21:29:17Z" scratch="false" x="80" y="38" clock="71" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="1e1c642c-9953-446a-a869-ac7c76169207" type="free_kick" time="2014-07-01T21:29:47Z" updated_time="2014-07-01T21:29:47Z" scratch="false" x="60" y="55" clock="71" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Free kick Belgium.</description>
+        </fact>
+        <fact id="0e3f9857-697a-4df8-8964-86ced13082e4" type="substitution" time="2014-07-01T21:30:12Z" updated_time="2014-07-01T21:30:12Z" scratch="false" clock="72" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="4c712e71-6e7c-4a76-adfa-67975c05a8d8" player_in_id="11cb9025-83a5-45f8-a4dc-a6f62eb0e930">
+          <description>Chris Wondolowski is on a sub for Graham Zusi for USA.</description>
+        </fact>
+        <fact id="7e439ec9-bae5-4058-824e-391262796299" type="free_kick" time="2014-07-01T21:30:40Z" updated_time="2014-07-01T21:30:40Z" scratch="false" x="90" y="60" clock="72" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="615e2dc8-fd3b-4536-9ec7-d28fc157677d" type="keeper_save" time="2014-07-01T21:32:00Z" updated_time="2014-07-01T21:32:00Z" scratch="false" x="21" y="50" clock="73" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812"/>
+        <fact id="701b57e4-b6e5-4562-bd84-c5dabd0a0614" type="shot_on_target" time="2014-07-01T21:32:00Z" updated_time="2014-07-01T21:32:00Z" scratch="false" x="21" y="50" clock="74" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e342e841-b09b-4c3f-929c-8f0dd4ec437a">
+          <description>USA push forward through Clint Dempsey, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="c531aa1c-c127-4437-930a-84a3f8ae661a" type="free_kick" time="2014-07-01T21:32:24Z" updated_time="2014-07-01T21:32:24Z" scratch="false" x="39" y="29" clock="74" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA.</description>
+        </fact>
+        <fact id="ec8579d4-20ba-4bc5-acc6-85a0d74d68d0" type="throwin" time="2014-07-01T21:32:53Z" updated_time="2014-07-01T21:32:53Z" scratch="false" x="42" y="2" clock="74" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in for Belgium in their own half.</description>
+        </fact>
+        <fact id="6bbf2c71-b902-4c01-8e1d-6f7f860fc950" type="keeper_save" time="2014-07-01T21:34:03Z" updated_time="2014-07-01T21:34:03Z" scratch="false" x="98" y="98" clock="75" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="3f35753a-2f8e-4990-abbb-8a63ab33e9a3" type="shot_on_target" time="2014-07-01T21:34:03Z" updated_time="2014-07-01T21:34:03Z" scratch="false" x="98" y="98" clock="76" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="337283d8-7a73-49e5-8621-dccaba86048c">
+          <description>Kevin Mirallas gets his shot on target but fails to score for Belgium.</description>
+        </fact>
+        <fact id="e0f2ab4d-22a8-412d-9720-7fcc6906e06d" type="corner_kick" time="2014-07-01T21:34:32Z" updated_time="2014-07-01T21:34:32Z" scratch="false" x="95" y="90" clock="76" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="d7884e37-b0d1-4042-a6d5-ec93e63cbfa7" type="throwin" time="2014-07-01T21:35:09Z" updated_time="2014-07-01T21:35:09Z" scratch="false" x="78" y="99" clock="76" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="8368583e-9825-48f2-a09b-440211e75b0f" type="game_resumed" time="2014-07-01T21:36:09Z" updated_time="2014-07-01T21:36:09Z" scratch="false" clock="77">
+          <description>The match in Salvador is underway once more.</description>
+        </fact>
+        <fact id="9ac28019-e8c7-4212-8aed-eda9a317fdfa" type="injury" time="2014-07-01T21:35:25Z" updated_time="2014-07-01T21:35:25Z" scratch="false" x="78" y="99" clock="78" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="3e6d40a1-4a89-4596-85d9-fbad55e08b91">
+          <description>Play has been temporarily suspended for attention to Omar Gonzalez for USA who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="f9c391a6-8334-4476-9019-cc303ee840e6" type="keeper_save" time="2014-07-01T21:37:14Z" updated_time="2014-07-01T21:37:14Z" scratch="false" x="82" y="46" clock="78" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="8893a4b6-2c59-46fc-981c-109410445bf1" type="shot_on_target" time="2014-07-01T21:37:14Z" updated_time="2014-07-01T21:37:14Z" scratch="false" x="82" y="46" clock="79" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00b12235-3f25-4a5e-b19e-2e6fc68902f6">
+          <description>Eden Hazard of Belgium smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="f112936e-3a94-45a8-b5ca-28304b4dd377" type="injury_return" time="2014-07-01T21:37:23Z" updated_time="2014-07-01T21:37:23Z" scratch="false" clock="79" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="3e6d40a1-4a89-4596-85d9-fbad55e08b91">
+          <description>Omar Gonzalez for USA is back on the field again.</description>
+        </fact>
+        <fact id="9b4ce10e-a6d3-4de2-a7b6-b48e49614502" type="throwin" time="2014-07-01T21:37:49Z" updated_time="2014-07-01T21:37:49Z" scratch="false" x="56" y="99" clock="79" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="b004ab83-669d-47bd-b757-9afae6646525" type="throwin" time="2014-07-01T21:39:06Z" updated_time="2014-07-01T21:39:06Z" scratch="false" x="31" y="1" clock="80" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Belgium's half?</description>
+        </fact>
+        <fact id="414e8d26-6bd6-48c5-97a5-7f7253b8fc51" type="corner_kick" time="2014-07-01T21:38:37Z" updated_time="2014-07-01T21:38:37Z" scratch="false" x="95" y="5" clock="81" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="7b25978a-abcd-4955-89a2-a480f2406a8f" type="throwin" time="2014-07-01T21:39:47Z" updated_time="2014-07-01T21:39:47Z" scratch="false" x="29" y="1" clock="81" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in for Belgium at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="839852bb-0ff6-4154-b55a-6861d13d2658" type="corner_kick" time="2014-07-01T21:40:34Z" updated_time="2014-07-01T21:40:34Z" scratch="false" x="95" y="90" clock="82" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="afc1ca84-d1fc-488a-b9e3-b66e7855bc58" type="corner_kick" time="2014-07-01T21:41:05Z" updated_time="2014-07-01T21:41:05Z" scratch="false" x="95" y="90" clock="83" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="f3d3a742-acb6-4595-974b-d1e5da20326b" type="shot_off_target" time="2014-07-01T21:41:18Z" updated_time="2014-07-01T21:41:18Z" scratch="false" x="85" y="53" clock="83" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="29973269-b636-4fa2-bcb6-aa72ae698d50">
+          <description>Daniel van Buyten (Belgium) is first to the ball but his header is off-target.</description>
+        </fact>
+        <fact id="10788a30-1254-4d50-b369-ed39a5b16ef4" type="goal_kick" time="2014-07-01T21:41:18Z" updated_time="2014-07-01T21:41:18Z" scratch="false" x="95" y="50" clock="83" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball goes out of play for a USA goal kick.</description>
+        </fact>
+        <fact id="28413dbc-71c8-40d3-ad8d-c6d85325cc68" type="free_kick" time="2014-07-01T21:41:48Z" updated_time="2014-07-01T21:41:48Z" scratch="false" x="39" y="36" clock="83" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a free kick to Belgium in their own half.</description>
+        </fact>
+        <fact id="861f6381-d267-4cea-9ce4-f4acbf1b5ff2" type="free_kick" time="2014-07-01T21:43:03Z" updated_time="2014-07-01T21:43:03Z" scratch="false" x="87" y="63" clock="84" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="46d9fa12-5d99-47a9-8c1a-4698a5abc2fd" type="shot_on_target" time="2014-07-01T21:42:35Z" updated_time="2014-07-01T21:42:35Z" scratch="false" x="82" y="54" clock="85" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00f3f340-438a-4560-9b2c-08d835ccdfa1">
+          <description>Belgium drive forward and Divock Origi gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="f70dfe02-1b0f-4480-9ba7-99ed02533924" type="corner_kick" time="2014-07-01T21:42:56Z" updated_time="2014-07-01T21:42:56Z" scratch="false" x="95" y="5" clock="85" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="0eb638b9-c0f3-4e1c-a8f0-85197426cd82" type="corner_kick" time="2014-07-01T21:44:43Z" updated_time="2014-07-01T21:44:43Z" scratch="false" x="5" y="5" clock="86" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Corner awarded to USA.</description>
+        </fact>
+        <fact id="f629e72d-690d-4d34-8685-b63db8d088ca" type="free_kick" time="2014-07-01T21:44:58Z" updated_time="2014-07-01T21:44:58Z" scratch="false" x="59" y="82" clock="86" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="5118c4fa-e9c0-4048-90a6-6d1b51606594" type="shot_off_target" time="2014-07-01T21:45:53Z" updated_time="2014-07-01T21:45:53Z" scratch="false" x="84" y="41" clock="88" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="00b12235-3f25-4a5e-b19e-2e6fc68902f6">
+          <description>Belgium are pushing forward but Eden Hazard's finish is wide of the goal.</description>
+        </fact>
+        <fact id="69f928be-801b-4ed1-a683-55963c522469" type="goal_kick" time="2014-07-01T21:45:53Z" updated_time="2014-07-01T21:45:53Z" scratch="false" x="95" y="50" clock="88" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi awards USA a goal kick.</description>
+        </fact>
+        <fact id="8be9bb0a-8e5d-40c3-9a7b-2c9c1b89ed31" type="throwin" time="2014-07-01T21:46:25Z" updated_time="2014-07-01T21:46:25Z" scratch="false" x="32" y="1" clock="88" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Ball safe as Belgium is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="077cd000-1b9c-484b-b9dc-adcb82a2483f" type="keeper_save" time="2014-07-01T21:47:33Z" updated_time="2014-07-01T21:47:33Z" scratch="false" x="97" y="8" clock="89" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="3a711226-1369-4992-ba64-6551e61cc278" type="shot_on_target" time="2014-07-01T21:47:33Z" updated_time="2014-07-01T21:47:41Z" scratch="false" x="97" y="8" clock="90" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="077f1fae-a818-4bd2-b45f-89e8099e99b6">
+          <description>Belgium push forward through Vincent Kompany, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="ecd13182-5eef-4ea0-aaa2-c406ca507ef4" type="corner_kick" time="2014-07-01T21:47:58Z" updated_time="2014-07-01T21:47:58Z" scratch="false" x="95" y="5" clock="90" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="edffff83-59be-479d-8600-eae8373a3ac8" type="shot_blocked" time="2014-07-01T21:48:17Z" updated_time="2014-07-01T21:48:17Z" scratch="false" x="94" y="6" clock="90" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Eden Hazard (Belgium) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="15ed7038-96f7-4fe8-9af5-db181f90f5d3" type="corner_kick" time="2014-07-01T21:48:35Z" updated_time="2014-07-01T21:48:35Z" scratch="false" x="95" y="5" clock="90" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="7ea7a2d4-3d2c-4911-aa65-801178a1634b" type="shot_off_target" time="2014-07-01T21:48:44Z" updated_time="2014-07-01T21:48:44Z" scratch="false" x="84" y="57" clock="90" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="71bc647a-13ce-438b-95f1-33127950df5f">
+          <description>Belgium's Marouane Fellaini attacks the ball with his head but his effort fails to hit the target.</description>
+        </fact>
+        <fact id="a0e66848-faf9-4488-8609-2e17affb80b5" type="goal_kick" time="2014-07-01T21:48:44Z" updated_time="2014-07-01T21:48:44Z" scratch="false" x="95" y="50" clock="90" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Goal kick for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="386d8d8a-aa75-4e68-8693-a163fc40c5d7" type="injury_time" time="2014-07-01T21:48:51Z" updated_time="2014-07-01T21:48:51Z" scratch="false" clock="90" injury_time="3" period="P2">
+          <description>3 minutes will be added to the second half in Salvador.</description>
+        </fact>
+        <fact id="e7d2ff6b-bcf8-4c4c-9d25-d426bcd54b1c" type="throwin" time="2014-07-01T21:49:15Z" updated_time="2014-07-01T21:49:15Z" scratch="false" x="60" y="2" clock="90" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in USA.</description>
+        </fact>
+        <fact id="e28355b7-5d41-4335-a0ee-aa674db03a67" type="throwin" time="2014-07-01T21:49:44Z" updated_time="2014-07-01T21:49:44Z" scratch="false" x="24" y="1" clock="90" injury_time="1" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Belgium territory.</description>
+        </fact>
+        <fact id="7a36bbd0-f457-4913-bff5-756c23a4283c" type="shot_off_target" time="2014-07-01T21:50:23Z" updated_time="2014-07-01T21:50:23Z" scratch="false" x="13" y="44" clock="90" injury_time="2" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="11cb9025-83a5-45f8-a4dc-a6f62eb0e930">
+          <description>USA are coming forward and Chris Wondolowski gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="90d6db03-7aac-430b-9e65-339d87e5c9c1" type="goal_kick" time="2014-07-01T21:50:23Z" updated_time="2014-07-01T21:50:23Z" scratch="false" x="5" y="50" clock="90" injury_time="2" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi awards Belgium a goal kick.</description>
+        </fact>
+        <fact id="ebf16b9b-6e68-43a0-a512-890e55138943" type="period_over" time="2014-07-01T21:51:24Z" updated_time="2014-07-01T21:51:24Z" scratch="false" home_score="0" away_score="0" period="P2">
+          <description>It's 0-0 at the end of normal time.</description>
+        </fact>
+        <fact id="6e140cf5-6bd2-4817-a7f1-ae18e108b3de" type="period_started" time="2014-07-01T21:51:24Z" updated_time="2014-07-01T21:51:24Z" scratch="false" period="PX1"/>
+        <fact id="e1953ca5-bf39-42e5-83a9-a4113c56a42e" type="substitution" time="2014-07-01T21:56:28Z" updated_time="2014-07-01T21:56:28Z" scratch="false" clock="91" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_out_id="00f3f340-438a-4560-9b2c-08d835ccdfa1" player_in_id="3f16f983-30bd-45df-b422-449578ea3dd0">
+          <description>Marc Wilmots is making the team's second substitution at Arena Fonte Nova with Romelu Lukaku replacing Divock Origi.</description>
+        </fact>
+        <fact id="81597990-7e4c-4988-af54-abda6e58e4be" type="period_started" time="2014-07-01T21:57:11Z" updated_time="2014-07-01T21:57:11Z" scratch="false" period="X1">
+          <description>The first extra period has started.</description>
+        </fact>
+        <fact id="d5d61a07-6132-4ea0-b54a-5fd5f5fb6b1c" type="period_started" time="2014-07-01T21:57:11Z" updated_time="2014-07-01T21:57:11Z" scratch="false" period="X1"/>
+        <fact id="a373e84f-59b1-482a-9bca-79a1108f9d1d" type="shot_off_target" time="2014-07-01T21:58:18Z" updated_time="2014-07-01T21:58:18Z" scratch="false" x="10" y="29" clock="92" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>In Salvador, Jermaine Jones (USA) misses the target with a header.</description>
+        </fact>
+        <fact id="722b63ca-cdda-4134-9bd9-ec8f129c35eb" type="goal_kick" time="2014-07-01T21:58:18Z" updated_time="2014-07-01T21:58:18Z" scratch="false" x="5" y="50" clock="92" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Ball goes out of play for a Belgium goal kick.</description>
+        </fact>
+        <fact id="b757cf81-72ae-4d6c-853d-45ee295dc18d" type="goal" time="2014-07-01T21:59:17Z" updated_time="2014-07-01T21:59:27Z" scratch="false" x="92" y="47" clock="93" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b" assist1_id="3f16f983-30bd-45df-b422-449578ea3dd0">
+          <description>Great play from Romelu Lukaku to set up the goal.</description>
+        </fact>
+        <fact id="de19c8d8-d6a0-49f4-b715-50ea8ba682bc" type="free_kick" time="2014-07-01T22:00:26Z" updated_time="2014-07-01T22:00:26Z" scratch="false" x="34" y="26" clock="93" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Free kick USA.</description>
+        </fact>
+        <fact id="9012a545-fe2e-450d-8e57-53a95f4d3d04" type="shot_off_target" time="2014-07-01T22:01:01Z" updated_time="2014-07-01T22:01:01Z" scratch="false" x="13" y="34" clock="94" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="ee46734e-0e74-4f6e-bf1d-1de7c23ff618">
+          <description>USA's Michael Bradley misses with an attempt on goal.</description>
+        </fact>
+        <fact id="f8da459e-26bd-4b43-9f30-09c3765ad08e" type="goal_kick" time="2014-07-01T22:01:03Z" updated_time="2014-07-01T22:01:03Z" scratch="false" x="5" y="50" clock="94" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have a goal kick.</description>
+        </fact>
+        <fact id="aceeb436-3a47-4dbc-82ef-c72abd5b66a2" type="keeper_save" time="2014-07-01T22:02:38Z" updated_time="2014-07-01T22:02:38Z" scratch="false" x="87" y="42" clock="95" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="d2c48ccf-9930-4f0d-8747-f560525407e8" type="free_kick" time="2014-07-01T22:02:46Z" updated_time="2014-07-01T22:02:46Z" scratch="false" x="56" y="55" clock="95" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="10e36b1b-79aa-4e6b-b665-e39b9122eb79" type="shot_on_target" time="2014-07-01T22:02:38Z" updated_time="2014-07-01T22:02:38Z" scratch="false" x="87" y="42" clock="96" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="41b1369e-735e-4d7f-bd10-cef358398001">
+          <description>Belgium's Jan Vertonghen gets in a shot on goal at Arena Fonte Nova. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="948f3d15-814e-4c68-9836-594923ac920f" type="throwin" time="2014-07-01T22:03:20Z" updated_time="2014-07-01T22:03:20Z" scratch="false" x="41" y="98" clock="96" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Throw-in for Belgium at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="38df86e1-97fb-4fe4-8abf-d86ebc857e9d" type="keeper_save" time="2014-07-01T22:03:42Z" updated_time="2014-07-01T22:03:42Z" scratch="false" x="93" y="4" clock="96" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="e6a7aba3-12a2-4986-b7ff-5ab18e5ad4ad" type="free_kick" time="2014-07-01T22:04:07Z" updated_time="2014-07-01T22:04:07Z" scratch="false" x="77" y="23" clock="96" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="f9cfed43-d475-48e1-b52c-2dbb3fae92cb" type="shot_on_target" time="2014-07-01T22:03:42Z" updated_time="2014-07-01T22:03:42Z" scratch="false" x="93" y="4" clock="97" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3f16f983-30bd-45df-b422-449578ea3dd0">
+          <description>Romelu Lukaku of Belgium smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="de7e7867-e329-405d-abe9-39ed8fc75c4f" type="corner_kick" time="2014-07-01T22:03:59Z" updated_time="2014-07-01T22:03:59Z" scratch="false" x="95" y="5" clock="97" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Corner awarded to Belgium.</description>
+        </fact>
+        <fact id="98c58932-d97b-4a01-9635-63ae0aaa7b0d" type="goal_kick" time="2014-07-01T22:04:47Z" updated_time="2014-07-01T22:04:47Z" scratch="false" x="5" y="50" clock="97" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Goal kick for Belgium at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="d479ea3b-b6e5-45e9-95f7-934b9e965054" type="throwin" time="2014-07-01T22:05:06Z" updated_time="2014-07-01T22:05:06Z" scratch="false" x="67" y="1" clock="97" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a Belgium throw-in in USA's half.</description>
+        </fact>
+        <fact id="3d319280-0fdd-48ec-a62c-d30f72dfd8e3" type="throwin" time="2014-07-01T22:05:18Z" updated_time="2014-07-01T22:05:18Z" scratch="false" x="77" y="0" clock="98" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in USA.</description>
+        </fact>
+        <fact id="a47f1e47-bd33-4218-a369-f5cf64bdeb28" type="injury" time="2014-07-01T22:06:40Z" updated_time="2014-07-01T22:06:40Z" scratch="false" x="21" y="31" clock="100" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Attention is being given to USA’s Jermaine Jones and play has been suspended briefly.</description>
+        </fact>
+        <fact id="3f7a0f06-9ed8-4621-bbe5-73d6173f26ae" type="game_resumed" time="2014-07-01T22:07:14Z" updated_time="2014-07-01T22:07:14Z" scratch="false" clock="100">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="25ce84bb-b64c-4126-a04a-5ef1d08f891c" type="injury_return" time="2014-07-01T22:07:31Z" updated_time="2014-07-01T22:07:31Z" scratch="false" clock="100" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>USA's Jermaine Jones looks ok and returns to the pitch.</description>
+        </fact>
+        <fact id="e129cf08-55c4-4150-b77d-857e124627df" type="keeper_save" time="2014-07-01T22:07:49Z" updated_time="2014-07-01T22:07:49Z" scratch="false" x="86" y="57" clock="100" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="014e26ae-2b0d-4ca2-8787-9cbdbb1885b8" type="shot_on_target" time="2014-07-01T22:07:48Z" updated_time="2014-07-01T22:07:48Z" scratch="false" x="86" y="57" clock="101" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3f16f983-30bd-45df-b422-449578ea3dd0">
+          <description>Romelu Lukaku for Belgium drives towards goal at Arena Fonte Nova. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="07277c70-299e-4167-8eeb-c476bdc300c8" type="throwin" time="2014-07-01T22:08:22Z" updated_time="2014-07-01T22:08:22Z" scratch="false" x="36" y="2" clock="101" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Belgium territory.</description>
+        </fact>
+        <fact id="1f9bceae-07c7-4c73-9084-f06438803ea1" type="game_resumed" time="2014-07-01T22:10:06Z" updated_time="2014-07-01T22:10:06Z" scratch="false" clock="102">
+          <description>The match is underway again.</description>
+        </fact>
+        <fact id="2ac2799c-e345-4372-82c0-6c3e2b2b90c8" type="injury" time="2014-07-01T22:09:34Z" updated_time="2014-07-01T22:09:34Z" scratch="false" x="13" y="14" clock="103" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Jermaine Jones is down and play has been interrupted for a few moments.</description>
+        </fact>
+        <fact id="7c7c0f1e-8c08-4dc6-848b-9bfb3d47f39d" type="injury_return" time="2014-07-01T22:10:33Z" updated_time="2014-07-01T22:10:33Z" scratch="false" clock="103" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>Jermaine Jones has recovered and rejoins the match in Salvador.</description>
+        </fact>
+        <fact id="e18ee30b-c580-47a4-a84f-fb354a01aad2" type="keeper_save" time="2014-07-01T22:11:02Z" updated_time="2014-07-01T22:11:02Z" scratch="false" x="81" y="44" clock="103" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="89bb21ad-fe6a-4e7e-8ade-9f776b331ea2" type="shot_on_target" time="2014-07-01T22:11:01Z" updated_time="2014-07-01T22:11:01Z" scratch="false" x="81" y="44" clock="104" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="337283d8-7a73-49e5-8621-dccaba86048c">
+          <description>Belgium's Kevin Mirallas is on target but unsuccessful.</description>
+        </fact>
+        <fact id="7ae96f8a-5926-4a25-a504-16bef48af081" type="shot_blocked" time="2014-07-01T22:11:29Z" updated_time="2014-07-01T22:11:29Z" scratch="false" x="20" y="55" clock="105" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA's Michael Bradley gets in a shot but it is blocked by a Belgium defender.</description>
+        </fact>
+        <fact id="195d68c1-bd33-490a-9659-689280a6f98f" type="goal" time="2014-07-01T22:11:43Z" updated_time="2014-07-01T22:11:52Z" scratch="false" x="88" y="46" clock="105" home_score="2" away_score="0" penalty="false" owngoal="false" header="false" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3f16f983-30bd-45df-b422-449578ea3dd0" assist1_id="3e4cd8af-36cd-42b2-a2e0-bd727cc3c37b">
+          <description>That's a fine assist from Kevin De Bruyne.</description>
+        </fact>
+        <fact id="733ddfe5-b167-40d3-bb18-c2cded4da069" type="injury_time" time="2014-07-01T22:13:14Z" updated_time="2014-07-01T22:13:14Z" scratch="false" clock="105" injury_time="2" period="P1">
+          <description>2 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="54580048-fd33-40f7-9be5-f152880751a4" type="throwin" time="2014-07-01T22:13:38Z" updated_time="2014-07-01T22:13:38Z" scratch="false" x="76" y="0" clock="105" injury_time="1" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="92d64bc7-20c4-440d-9c96-2fad20d64bf4" type="substitution" time="2014-07-01T22:13:52Z" updated_time="2014-07-01T22:13:52Z" scratch="false" clock="105" injury_time="1" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_out_id="6589af3e-2247-41f5-b40a-7ef9c16690a4" player_in_id="01ab4727-0c6f-4fdc-8efb-2b9c97e26561">
+          <description>Julian Green is replacing Alejandro Bedoya for USA at Arena Fonte Nova.</description>
+        </fact>
+        <fact id="9b84a42d-79da-4774-a0d1-0cf853edc782" type="throwin" time="2014-07-01T22:14:19Z" updated_time="2014-07-01T22:14:19Z" scratch="false" x="61" y="2" clock="105" injury_time="2" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Throw-in for USA in their own half.</description>
+        </fact>
+        <fact id="112c0cbe-a4a4-4549-b27b-4ee1257a465f" type="period_over" time="2014-07-01T22:14:24Z" updated_time="2014-07-01T22:14:24Z" scratch="false" home_score="2" away_score="0" period="X1">
+          <description>The first extra period is over. The score is 2-0.</description>
+        </fact>
+        <fact id="d25eff0f-8cb5-4831-ad76-fbaeeb5cfefe" type="period_started" time="2014-07-01T22:14:24Z" updated_time="2014-07-01T22:14:24Z" scratch="false" period="PX2"/>
+        <fact id="7e4d4b6e-6817-4066-b772-098e014dada9" type="period_started" time="2014-07-01T22:15:50Z" updated_time="2014-07-01T22:15:50Z" scratch="false" period="X2">
+          <description>The second extra period has started.</description>
+        </fact>
+        <fact id="5dc14219-9c36-4d89-8ef7-a7b4c5829db1" type="period_started" time="2014-07-01T22:15:50Z" updated_time="2014-07-01T22:15:50Z" scratch="false" period="X2"/>
+        <fact id="20d7c463-67b2-4f98-ac93-9a5b4c314d10" type="free_kick" time="2014-07-01T22:16:15Z" updated_time="2014-07-01T22:16:15Z" scratch="false" x="23" y="30" clock="105" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Free kick USA.</description>
+        </fact>
+        <fact id="efef0b72-f643-41c1-aab3-cba8f3e39034" type="goal" time="2014-07-01T22:17:13Z" updated_time="2014-07-01T22:17:20Z" scratch="false" x="10" y="46" clock="107" home_score="2" away_score="1" penalty="false" owngoal="false" header="false" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="01ab4727-0c6f-4fdc-8efb-2b9c97e26561" assist1_id="ee46734e-0e74-4f6e-bf1d-1de7c23ff618">
+          <description>Michael Bradley with an assist there.</description>
+        </fact>
+        <fact id="783bd682-6b49-4c1e-a4e5-cabd0dabc303" type="shot_off_target" time="2014-07-01T22:18:23Z" updated_time="2014-07-01T22:18:23Z" scratch="false" x="79" y="49" clock="108" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="71bc647a-13ce-438b-95f1-33127950df5f">
+          <description>Marouane Fellaini of Belgium gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="b9caf95e-e147-452e-96c0-140ca55c89c4" type="goal_kick" time="2014-07-01T22:18:24Z" updated_time="2014-07-01T22:18:24Z" scratch="false" x="95" y="50" clock="108" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA have a goal kick.</description>
+        </fact>
+        <fact id="14b8302c-f562-4ea6-8c73-da2916b6d167" type="shot_off_target" time="2014-07-01T22:18:59Z" updated_time="2014-07-01T22:18:59Z" scratch="false" x="22" y="57" clock="109" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>USA's Jermaine Jones misses with an attempt on goal.</description>
+        </fact>
+        <fact id="4b3b0082-c31f-4708-ac5b-ff4179f47be6" type="goal_kick" time="2014-07-01T22:18:59Z" updated_time="2014-07-01T22:18:59Z" scratch="false" x="5" y="50" clock="109" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Ball goes out of play for a Belgium goal kick.</description>
+        </fact>
+        <fact id="3b3411be-7bca-49d2-b551-2ef71c592542" type="keeper_save" time="2014-07-01T22:21:04Z" updated_time="2014-07-01T22:21:04Z" scratch="false" x="97" y="6" clock="110" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651"/>
+        <fact id="4a0d8fb4-d047-4bbc-ae4b-6c4cd1c49c10" type="shot_on_target" time="2014-07-01T22:21:04Z" updated_time="2014-07-01T22:21:04Z" scratch="false" x="97" y="6" clock="111" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_id="3f16f983-30bd-45df-b422-449578ea3dd0">
+          <description>In Salvador Belgium drive forward through Romelu Lukaku. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="f174e6d7-6f43-41b6-90e5-725cb9143810" type="substitution" time="2014-07-01T22:21:36Z" updated_time="2014-07-01T22:21:36Z" scratch="false" clock="111" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" player_out_id="00b12235-3f25-4a5e-b19e-2e6fc68902f6" player_in_id="2289bf9b-17dd-49e4-bc30-aaa7529279c7">
+          <description>Marc Wilmots (Belgium) is making a third substitution, with Nacer Chadli replacing Eden Hazard.</description>
+        </fact>
+        <fact id="ddf85309-17d8-4bd4-b0cf-c23f68f59168" type="corner_kick" time="2014-07-01T22:21:45Z" updated_time="2014-07-01T22:21:45Z" scratch="false" x="95" y="5" clock="111" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="3aed87b3-d66d-4c40-8445-bb31cb3e505e" type="free_kick" time="2014-07-01T22:22:46Z" updated_time="2014-07-01T22:22:46Z" scratch="false" x="35" y="78" clock="111" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA.</description>
+        </fact>
+        <fact id="9096bb20-c927-4ab8-bb25-72698b7a624d" type="corner_kick" time="2014-07-01T22:22:19Z" updated_time="2014-07-01T22:22:19Z" scratch="false" x="95" y="90" clock="112" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Belgium have been awarded a corner by Djamel Haimoudi.</description>
+        </fact>
+        <fact id="f33d205b-f8fc-44b6-9784-194acfa4e934" type="free_kick" time="2014-07-01T22:23:09Z" updated_time="2014-07-01T22:23:09Z" scratch="false" x="33" y="42" clock="112" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Free kick USA.</description>
+        </fact>
+        <fact id="ecb2a650-5c14-4226-8284-ce417132412b" type="shot_blocked" time="2014-07-01T22:23:05Z" updated_time="2014-07-01T22:23:05Z" scratch="false" x="23" y="70" clock="113" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA drive upfield and Jermaine Jones gets in a shot. The strike is blocked by a Belgium defender.</description>
+        </fact>
+        <fact id="5423898a-050f-4163-aef4-cf4242661ef9" type="throwin" time="2014-07-01T22:24:29Z" updated_time="2014-07-01T22:24:29Z" scratch="false" x="33" y="2" clock="113" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Belgium's half?</description>
+        </fact>
+        <fact id="170788c1-94a3-4e7e-a048-e68d696d96f1" type="throwin" time="2014-07-01T22:24:48Z" updated_time="2014-07-01T22:24:48Z" scratch="false" x="29" y="98" clock="113" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Can USA get the ball into an attacking position from this throw-in in Belgium's half?</description>
+        </fact>
+        <fact id="d7dabfc7-9c26-48b0-b8c6-03305449205e" type="throwin" time="2014-07-01T22:25:45Z" updated_time="2014-07-01T22:25:45Z" scratch="false" x="58" y="1" clock="114" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Ball safe as USA is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="1a23faae-7690-40c6-ac35-8cdd037bd0c9" type="free_kick" time="2014-07-01T22:26:18Z" updated_time="2014-07-01T22:26:18Z" scratch="false" x="37" y="66" clock="115" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi signals a free kick to Belgium in their own half.</description>
+        </fact>
+        <fact id="c95c19f3-57c9-44e1-a6bc-4c9f7f3fcc92" type="free_kick" time="2014-07-01T22:27:03Z" updated_time="2014-07-01T22:27:03Z" scratch="false" x="78" y="82" clock="116" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA in their own half.</description>
+        </fact>
+        <fact id="5933af1d-03ea-48a4-b6f8-2615d805a1f6" type="throwin" time="2014-07-01T22:27:35Z" updated_time="2014-07-01T22:27:35Z" scratch="false" x="22" y="2" clock="116" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA to take a throw-in in Belgium territory.</description>
+        </fact>
+        <fact id="b42701d2-50b2-44ea-946e-cf775c8e7128" type="shot_off_target" time="2014-07-01T22:27:55Z" updated_time="2014-07-01T22:27:55Z" scratch="false" x="9" y="49" clock="118" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="1c0dab95-831d-42a5-b796-a76c73d3fe52">
+          <description>In Salvador USA attack through Jermaine Jones. The finish is off target, however.</description>
+        </fact>
+        <fact id="059b638c-286d-4350-bcc3-6ef713e200a0" type="goal_kick" time="2014-07-01T22:27:55Z" updated_time="2014-07-01T22:27:55Z" scratch="false" x="5" y="50" clock="118" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi awards Belgium a goal kick.</description>
+        </fact>
+        <fact id="e55d64f8-1a06-4acf-be26-3d18c9ab0d46" type="free_kick" time="2014-07-01T22:28:49Z" updated_time="2014-07-01T22:28:49Z" scratch="false" x="86" y="80" clock="118" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4178745d-5c34-4954-bab1-7e06717c76f8" type="free_kick" time="2014-07-01T22:29:28Z" updated_time="2014-07-01T22:29:28Z" scratch="false" x="37" y="47" clock="118" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>Djamel Haimoudi signals a free kick to USA.</description>
+        </fact>
+        <fact id="4233e306-2df7-41c6-86b9-238b1d661977" type="shot_off_target" time="2014-07-01T22:30:51Z" updated_time="2014-07-01T22:30:51Z" scratch="false" x="8" y="47" clock="120" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651" player_id="e5563330-66f6-4f3b-be61-f52c6714c3c4">
+          <description>DeAndre Yedlin for USA gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="46a9d926-02ff-4213-906b-7d67b5a03014" type="goal_kick" time="2014-07-01T22:30:51Z" updated_time="2014-07-01T22:30:51Z" scratch="false" x="5" y="50" clock="120" team_id="e56a79d1-d65c-4e8c-8ce2-e87744220812">
+          <description>Djamel Haimoudi awards Belgium a goal kick.</description>
+        </fact>
+        <fact id="de884647-5ed0-4520-8caf-cf0962757a46" type="injury_time" time="2014-07-01T22:30:56Z" updated_time="2014-07-01T22:30:56Z" scratch="false" clock="120" injury_time="1" period="P1">
+          <description>1 minutes of injury time will be added to the first half.</description>
+        </fact>
+        <fact id="807ad2d8-ec58-4839-aee1-a7d55f1f33ba" type="free_kick" time="2014-07-01T22:31:29Z" updated_time="2014-07-01T22:31:29Z" scratch="false" x="73" y="41" clock="120" team_id="79a99f09-13ca-45c4-b3f0-2a61f94e0651">
+          <description>USA awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b4ff4db9-5545-454a-96c3-82b153e64801" type="period_over" time="2014-07-01T22:31:56Z" updated_time="2014-07-01T22:31:56Z" scratch="false" home_score="2" away_score="1" period="X2">
+          <description>Extra-time is over. The score is 2-1.</description>
+        </fact>
+        <fact id="0cf29420-2481-48db-ba8e-06839c32283d" type="match_ended" time="2014-07-01T22:31:56Z" updated_time="2014-07-01T22:31:56Z" scratch="false" home_score="2" away_score="1" winner_id="e56a79d1-d65c-4e8c-8ce2-e87744220812" draw="false"/>
+      </facts>
+      <!-- 4768158/4717/4724 -->
+    </match>
+  </matches>
+</summary>

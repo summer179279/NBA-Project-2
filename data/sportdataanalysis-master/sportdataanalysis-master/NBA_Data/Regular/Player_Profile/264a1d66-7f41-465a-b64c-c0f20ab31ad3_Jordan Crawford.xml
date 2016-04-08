@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-22 16:31:01 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="264a1d66-7f41-465a-b64c-c0f20ab31ad3" status="ACT" full_name="Jordan Crawford" first_name="Jordan" last_name="Crawford" abbr_name="J.Crawford" height="76" weight="195" position="G" primary_position="SG" jersey_number="55" experience="3" college="Xavier" birth_place="Detroit, MI, USA" birthdate="1988-10-23" updated="2014-01-16T15:55:29+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" alias="GSW"/>
+  <draft team_id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" year="2010" round="1" pick="27"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" name="Warriors" market="Golden State" alias="GSW">
+        <statistics>
+          <total games_played="42" games_started="0" minutes="661.0" field_goals_made="139" field_goals_att="333" three_points_made="40" three_points_att="128" blocked_att="9" free_throws_made="36" free_throws_att="43" offensive_rebounds="10" defensive_rebounds="53" assists="57" turnovers="50" steals="13" blocks="2" personal_fouls="44" tech_fouls="2" points="354" flagrant_fouls="0" free_throws_pct="0.837" two_points_pct="0.483" three_points_pct="0.313" field_goals_pct="0.417" rebounds="63" assists_turnover_ratio="1.14" two_points_made="99" two_points_att="205"/>
+          <average points="8.4" blocked_att="0.21" turnovers="1.19" free_throws_att="1.02" field_goals_att="7.93" off_rebounds="0.24" two_points_att="4.88" assists="1.4" blocks="0.05" personal_fouls="1.05" two_points_made="2.36" flagrant_fouls="0.0" rebounds="1.5" three_points_made="0.95" minutes="15.7" def_rebounds="1.26" free_throws_made="0.86" field_goals_made="3.31" steals="0.31" three_points_att="3.05"/>
+        </statistics>
+      </team>
+      <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" alias="BOS">
+        <statistics>
+          <total games_played="39" games_started="35" minutes="1198.0" field_goals_made="188" field_goals_att="455" three_points_made="50" three_points_att="157" blocked_att="12" free_throws_made="110" free_throws_att="126" offensive_rebounds="18" defensive_rebounds="102" assists="224" turnovers="84" steals="34" blocks="3" personal_fouls="76" tech_fouls="3" points="536" flagrant_fouls="0" free_throws_pct="0.873" two_points_pct="0.463" three_points_pct="0.318" field_goals_pct="0.413" rebounds="120" assists_turnover_ratio="2.67" two_points_made="138" two_points_att="298"/>
+          <average points="13.7" blocked_att="0.31" turnovers="2.15" free_throws_att="3.23" field_goals_att="11.67" off_rebounds="0.46" two_points_att="7.64" assists="5.7" blocks="0.08" personal_fouls="1.95" two_points_made="3.54" flagrant_fouls="0.0" rebounds="3.08" three_points_made="1.28" minutes="30.7" def_rebounds="2.62" free_throws_made="2.82" field_goals_made="4.82" steals="0.87" three_points_att="4.03"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-22 16:31:02 +0000 -->

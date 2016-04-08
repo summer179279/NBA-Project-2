@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:42:04Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="644d6686-6b41-4bf4-822f-43fd5f6b5dfc" status="closed" scratched="false" period="P2" scheduled="2014-07-04T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="27" number="3" type="cup" name="QF" scheduled_legs="1" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" loser_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="644d6686-6b41-4bf4-822f-43fd5f6b5dfc" status="closed" number="1" home_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" away_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" home_score="2" away_score="1"/>
+      </round>
+      <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" formation="4-2-3-1" score="2" regular_score="2" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="65" ball_safe="59" corner_kicks="4" dangerous_attacks="37" fouls="30" free_kicks="25" goal_attempts="11" goal_kicks="8" offsides="0" saves="1" shots_total="11" substitutions="3" throw_ins="11" yellow_card="2" shots_on_target="5" shots_off_target="6" possessions="52"/>
+        <players>
+          <player id="8e24463d-d0d2-4980-b098-00baa4119a25" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dani" last_name="Alves" country="Brazil" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2391fa91-c665-4ab1-8ec5-3b0d59bfbdf3" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dante" last_name="" country="Brazil" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="613a1283-a812-40bb-bdd9-a52b6f8836f1" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Paulinho" last_name="" country="Brazil" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Fernandinho" last_name="" country="Brazil" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="eef74fad-80fa-45a1-9809-18598b4efbea" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Bernard" last_name="" country="Brazil" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3fa8f2d3-f729-4c83-ae5a-c9f1d03f7021" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Jefferson" last_name="" country="Brazil" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="70edfb19-0496-4821-bf6a-c839057c10d2" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="David" last_name="Luiz" country="Brazil" jersey_number="4">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="35b62918-6ee1-41c1-8272-ff02318e4189" country_code="BRA" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Hulk" last_name="" country="Brazil" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="0769b903-d74f-492b-815f-3b684b282a1a" country_code="BRA" position="M" started="false" tactical_position="6" tactical_order="7" first_name="Hernanes" last_name="" country="Brazil" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0619d154-9b12-428e-a423-787eb2274bb7" country_code="BRA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Marcelo" last_name="" country="Brazil" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0957db74-9775-4dc9-9cc1-df3d48bb2c93" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Luiz" last_name="Gustavo" country="Brazil" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1a3bd491-fc1c-4adf-8510-5211381349b2" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Victor" last_name="" country="Brazil" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2c674fe0-d706-4450-bf33-2e747265fbbf" country_code="BRA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Oscar" last_name="" country="Brazil" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="187285b3-9e1c-473b-9c41-15a47a1d6766" country_code="BRA" position="D" started="false" tactical_position="7" tactical_order="10" first_name="Henrique" last_name="" country="Brazil" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4d72c82f-34bd-4725-be0f-b6f529f7f840" country_code="BRA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jo" last_name="" country="Brazil" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="26301547-f620-4420-828f-2b091891e1c8" country_code="BRA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Maicon" last_name="" country="Brazil" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4f4b810b-3f0c-41f1-b821-643b86197b41" country_code="BRA" position="M" started="false" tactical_position="5" tactical_order="8" first_name="Ramires" last_name="" country="Brazil" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="2be00660-77db-4c8e-b704-f0ec23bf6564" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Willian" last_name="" country="Brazil" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3c384bea-5bfb-4071-9179-97774689573b" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Maxwell" last_name="" country="Brazil" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6" country_code="BRA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Fred" last_name="" country="Brazil" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="423e9818-7882-422f-bd8c-babf53135cfc" country_code="BRA" position="F" started="true" tactical_position="7" tactical_order="10" first_name="Neymar" last_name="" country="Brazil" jersey_number="10">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="baff433f-1856-4420-b98f-4102bd835ac2" country_code="BRA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Julio Cesar" last_name="" country="Brazil" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="000a2eea-2ad2-4f9d-91ac-264d4f4029e3" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Thiago" last_name="Silva" country="Brazil" jersey_number="3">
+            <statistics goal="1" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" formation="4-2-2-2" score="1" regular_score="1" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="69" ball_safe="71" corner_kicks="6" dangerous_attacks="30" fouls="22" free_kicks="30" goal_attempts="6" goal_kicks="13" offsides="3" saves="3" shots_total="6" substitutions="3" throw_ins="22" yellow_card="2" shots_on_target="2" shots_off_target="4" possessions="48"/>
+        <players>
+          <player id="16606bf1-854c-4edd-a93f-9a6f5469e5b1" country_code="COL" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Teofilo" last_name="Gutierrez" country="Colombia" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="35179d76-5421-4e48-91e6-62abf7608b5f" country_code="COL" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Carlos" last_name="Bacca" country="Colombia" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="39c01b06-3811-40bb-a613-33e41747d837" country_code="COL" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Carlos" last_name="Sanchez" country="Colombia" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6c5b12f8-9a33-4503-934f-352383052f3c" country_code="COL" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Fredy" last_name="Guarin" country="Colombia" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d0dd7514-4870-4126-8512-fab27748f2a4" country_code="COL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Carlos" last_name="Carbonero" country="Colombia" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3b766a43-c9b2-4072-8a96-af5d7356b674" country_code="COL" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Mario" last_name="Yepes" country="Colombia" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="09e736c2-320b-45fb-9a0c-df9c3312ecf8" country_code="COL" position="F" started="false" tactical_position="7" tactical_order="9" first_name="Adrian" last_name="Ramos" country="Colombia" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="c939f9e5-c0ab-491a-bab9-584603d21601" country_code="COL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Camilo" last_name="Vargas" country="Colombia" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="24c130cc-38a5-4d12-a6ef-76b0b9dda490" country_code="COL" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Pablo" last_name="Armero" country="Colombia" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cd81bf8-add9-449e-a95f-ad3cc9eb1876" country_code="COL" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jackson" last_name="Martinez" country="Colombia" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="58c40d06-7dc1-42c0-8de6-6edb98224652" country_code="COL" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Juan" last_name="Cuadrado" country="Colombia" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="55c5511a-c0d9-4bb0-b630-f6d2aed3dc3c" country_code="COL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Carlos" last_name="Valdes" country="Colombia" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2" country_code="COL" position="F" started="true" tactical_position="8" tactical_order="11" first_name="James" last_name="Rodriguez" country="Colombia" jersey_number="10">
+            <statistics goal="1" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="37dc5dbf-9c11-42d2-9916-c3f39c8cbd98" country_code="COL" position="M" started="false" tactical_position="5" tactical_order="8" first_name="Juan" last_name="Quintero" country="Colombia" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="b5a84b29-443c-47e8-95d4-f4a0e82908fa" country_code="COL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Eder" last_name="Balanta" country="Colombia" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a287a558-7735-48d2-ac42-1c6f48101107" country_code="COL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Abel" last_name="Aguilar" country="Colombia" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="48066f52-b602-4ac3-b0d2-fb097c5f78f0" country_code="COL" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Cristian" last_name="Zapata" country="Colombia" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7c459aa7-8837-4af7-bccc-603a990e9327" country_code="COL" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Camilo" last_name="Zuniga" country="Colombia" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="01b78da8-4c54-4b74-8da3-16afcc3d99ad" country_code="COL" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Santiago" last_name="Arias" country="Colombia" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a8ce9dc8-baa7-4fdb-b479-f2715b773a38" country_code="COL" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Faryd" last_name="Mondragon" country="Colombia" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="60357ac6-986a-42be-a74e-8696c082df85" country_code="COL" position="G" started="true" tactical_position="1" tactical_order="1" first_name="David" last_name="Ospina" country="Colombia" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="efb38194-bef8-4f7f-891f-824a3aa498ee" country_code="COL" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Alexander" last_name="Mejia" country="Colombia" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="93d0d88e-884e-4011-ac08-bcf51280f09b" country_code="COL" position="M" started="true" tactical_position="7" tactical_order="9" first_name="Victor" last_name="Ibarbo" country="Colombia" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="153b06c6-e5fd-4b6f-98f0-b60f0404e2c5" name="Estadio Castelao" country_code="BRA" city="Fortaleza" capacity="60342" country="Brazil" coordinates="-3.807487,-38.522542"/>
+      <facts>
+        <fact id="cbf742be-dadd-4b2a-a72f-47e450062f26" type="match_started" time="2014-07-04T20:02:11Z" updated_time="2014-07-04T20:02:11Z" scratch="false" clock="1" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>The first-half is just kicking off.</description>
+        </fact>
+        <fact id="732bd6f3-913c-46c6-913d-60c716069f6d" type="period_started" time="2014-07-04T20:02:11Z" updated_time="2014-07-04T20:02:11Z" scratch="false" period="P1"/>
+        <fact id="53ab3772-093c-4b3e-8ffc-b0424e7a4da1" type="goal_kick" time="2014-07-04T20:02:48Z" updated_time="2014-07-04T20:02:48Z" scratch="false" x="95" y="50" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo awards Colombia a goal kick.</description>
+        </fact>
+        <fact id="ee2cc5dc-f6c3-41cb-b902-48ab4990d247" type="free_kick" time="2014-07-04T20:03:07Z" updated_time="2014-07-04T20:03:07Z" scratch="false" x="42" y="52" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="9a8990bc-cb26-4a4f-9082-5baedf988eec" type="throwin" time="2014-07-04T20:03:59Z" updated_time="2014-07-04T20:03:59Z" scratch="false" x="92" y="98" clock="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a throw-in for Brazil, close to Colombia's area.</description>
+        </fact>
+        <fact id="7cc6b5a5-10a1-477c-ab7b-7e2188049f58" type="throwin" time="2014-07-04T20:04:17Z" updated_time="2014-07-04T20:04:17Z" scratch="false" x="83" y="100" clock="2" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil close to the penalty box.</description>
+        </fact>
+        <fact id="3e9efd8a-12e7-43b2-a197-96e665d2d6f5" type="free_kick" time="2014-07-04T20:05:14Z" updated_time="2014-07-04T20:05:14Z" scratch="false" x="76" y="55" clock="3" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="51ec1a6c-0766-4df8-90bc-c6956e787be8" type="free_kick" time="2014-07-04T20:06:43Z" updated_time="2014-07-04T20:06:43Z" scratch="false" x="43" y="65" clock="4" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="22985826-8262-474a-9d13-abf765f4a55d" type="shot_off_target" time="2014-07-04T20:06:18Z" updated_time="2014-07-04T20:06:23Z" scratch="false" x="76" y="55" clock="5" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Brazil's Neymar misses with an attempt on goal.</description>
+        </fact>
+        <fact id="7e0d6ad3-26c9-4552-b7a2-9b6265a16214" type="goal_kick" time="2014-07-04T20:06:18Z" updated_time="2014-07-04T20:06:18Z" scratch="false" x="95" y="50" clock="5" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a goal kick.</description>
+        </fact>
+        <fact id="24652fd1-bc67-4676-ae16-572ae6dadc19" type="goal_kick" time="2014-07-04T20:07:13Z" updated_time="2014-07-04T20:07:13Z" scratch="false" x="95" y="50" clock="5" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Ball goes out of play for a Colombia goal kick.</description>
+        </fact>
+        <fact id="6b21ec07-a8f0-4f80-96c6-1669e6712f13" type="throwin" time="2014-07-04T20:07:42Z" updated_time="2014-07-04T20:07:42Z" scratch="false" x="51" y="99" clock="5" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Ball safe as Colombia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="e9617d0e-3986-416b-8ff5-fbcbb7f688d2" type="corner_kick" time="2014-07-04T20:08:20Z" updated_time="2014-07-04T20:08:20Z" scratch="false" x="95" y="5" clock="6" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="f56a9a8a-1bec-4ca1-8325-6e1e44d0a610" type="goal" time="2014-07-04T20:08:39Z" updated_time="2014-07-04T20:08:39Z" scratch="false" x="90" y="45" clock="7" home_score="1" away_score="0" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="000a2eea-2ad2-4f9d-91ac-264d4f4029e3" assist1_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Great play from Neymar to set up the goal.</description>
+        </fact>
+        <fact id="9295ab61-bfc7-49e6-a370-ab01a449f3fa" type="throwin" time="2014-07-04T20:09:53Z" updated_time="2014-07-04T20:09:53Z" scratch="false" x="47" y="1" clock="7" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="a4777856-3a07-4627-9019-13eace1743f9" type="free_kick" time="2014-07-04T20:10:24Z" updated_time="2014-07-04T20:10:24Z" scratch="false" x="30" y="55" clock="8" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="8c937361-4794-46c1-9009-91e07a630079" type="shot_off_target" time="2014-07-04T20:11:27Z" updated_time="2014-07-04T20:11:32Z" scratch="false" x="22" y="59" clock="10" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="6c5b12f8-9a33-4503-934f-352383052f3c">
+          <description>Colombia's Fredy Guarin breaks free at Estadio Castelao. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="e0017d2d-c5e7-41d8-9f8d-1fa0dfadb877" type="goal_kick" time="2014-07-04T20:11:27Z" updated_time="2014-07-04T20:11:27Z" scratch="false" x="5" y="50" clock="10" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Goal kick for Brazil at Estadio Castelao.</description>
+        </fact>
+        <fact id="f94f57df-1c4e-4a2f-a34b-3e18467529c1" type="throwin" time="2014-07-04T20:13:05Z" updated_time="2014-07-04T20:13:05Z" scratch="false" x="21" y="2" clock="10" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="9976703e-6fdb-49e0-ba20-53e54eeeccb7" type="shot_blocked" time="2014-07-04T20:12:37Z" updated_time="2014-07-04T20:12:37Z" scratch="false" x="22" y="47" clock="11" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Juan Cuadrado (Colombia) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="7a8f9b17-82e3-4c7d-abe0-99ccfa9c76ce" type="corner_kick" time="2014-07-04T20:12:54Z" updated_time="2014-07-04T20:12:54Z" scratch="false" x="5" y="5" clock="11" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Corner awarded to Colombia.</description>
+        </fact>
+        <fact id="e2f32319-ec7c-4f0e-8824-25b452040c57" type="free_kick" time="2014-07-04T20:13:56Z" updated_time="2014-07-04T20:13:56Z" scratch="false" x="64" y="63" clock="11" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="1038bbba-d0b8-49b2-80c4-a6782ac40caa" type="free_kick" time="2014-07-04T20:14:35Z" updated_time="2014-07-04T20:14:35Z" scratch="false" x="40" y="60" clock="12" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="22ce0590-6a17-4e57-84c4-2f8edfb0e708" type="free_kick" time="2014-07-04T20:16:07Z" updated_time="2014-07-04T20:16:07Z" scratch="false" x="61" y="57" clock="13" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="357fb684-158d-4b01-a505-11adddf4474d" type="throwin" time="2014-07-04T20:15:26Z" updated_time="2014-07-04T20:16:36Z" scratch="false" x="29" y="1" clock="14" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="fd7ff988-8ea4-4851-b261-969406a13eeb" type="free_kick" time="2014-07-04T20:16:42Z" updated_time="2014-07-04T20:16:42Z" scratch="false" x="61" y="22" clock="14" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="a40a8937-b66e-4de6-8798-5c1d5525195b" type="free_kick" time="2014-07-04T20:16:58Z" updated_time="2014-07-04T20:16:58Z" scratch="false" x="57" y="72" clock="14" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="ffeb228c-c139-4ce9-97c2-f2ccf0145b5b" type="free_kick" time="2014-07-04T20:17:11Z" updated_time="2014-07-04T20:17:11Z" scratch="false" x="66" y="53" clock="15" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="0b63a91d-90d2-46c3-9912-1831d497abb3" type="corner_kick" time="2014-07-04T20:18:37Z" updated_time="2014-07-04T20:18:37Z" scratch="false" x="95" y="90" clock="16" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="5c8fdfb3-fd98-414b-859c-ce1cf8fde489" type="goal_kick" time="2014-07-04T20:19:06Z" updated_time="2014-07-04T20:19:06Z" scratch="false" x="95" y="50" clock="16" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Estadio Castelao.</description>
+        </fact>
+        <fact id="cd3bd8a1-2798-4dea-a8be-6e91ad52993c" type="throwin" time="2014-07-04T20:20:15Z" updated_time="2014-07-04T20:20:15Z" scratch="false" x="38" y="99" clock="18" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="06df90c6-a2da-4ea7-8e1f-b3decf6edb72" type="free_kick" time="2014-07-04T20:20:31Z" updated_time="2014-07-04T20:20:31Z" scratch="false" x="38" y="99" clock="18" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="ba24d728-3fe2-4c59-bb50-146558d039ac" type="keeper_save" time="2014-07-04T20:21:23Z" updated_time="2014-07-04T20:21:23Z" scratch="false" x="80" y="44" clock="19" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="b97cf520-5348-4625-bbd4-7f474f70bcc7" type="keeper_save" time="2014-07-04T20:21:28Z" updated_time="2014-07-04T20:21:28Z" scratch="false" x="80" y="44" clock="19" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="0fa5a87a-4d8a-4968-8116-6cf86e36b51e" type="shot_on_target" time="2014-07-04T20:21:23Z" updated_time="2014-07-04T20:21:42Z" scratch="false" x="80" y="44" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Hulk gets his shot on target but fails to score for Brazil.</description>
+        </fact>
+        <fact id="b29986d1-65e0-47f9-85d7-7bda4ef131cc" type="shot_on_target" time="2014-07-04T20:21:27Z" updated_time="2014-07-04T20:21:48Z" scratch="false" x="80" y="44" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="2c674fe0-d706-4450-bf33-2e747265fbbf">
+          <description>In Fortaleza Brazil drive forward through Oscar. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="31675b0f-77ac-4415-9d0d-ba154bf55711" type="corner_kick" time="2014-07-04T20:21:56Z" updated_time="2014-07-04T20:21:56Z" scratch="false" x="95" y="5" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="6680e706-6745-4703-b4ee-db9a32507169" type="throwin" time="2014-07-04T20:22:14Z" updated_time="2014-07-04T20:22:14Z" scratch="false" x="48" y="98" clock="20" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a Colombia throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="05e8e1bf-fb9e-42a9-b4cc-a81450b5a115" type="throwin" time="2014-07-04T20:22:28Z" updated_time="2014-07-04T20:22:28Z" scratch="false" x="10" y="99" clock="20" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Brazil needs to be cautious. Colombia have an attacking throw-in.</description>
+        </fact>
+        <fact id="ba9f9856-e4d7-40a0-a16f-d4c312015c6b" type="goal_kick" time="2014-07-04T20:22:54Z" updated_time="2014-07-04T20:22:54Z" scratch="false" x="5" y="50" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="b2ff731d-ec78-4f1d-9c22-2b6d7169482a" type="free_kick" time="2014-07-04T20:25:35Z" updated_time="2014-07-04T20:25:35Z" scratch="false" x="62" y="52" clock="23" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="3eee934d-0639-442a-b9a7-5b326242c59b" type="free_kick" time="2014-07-04T20:25:47Z" updated_time="2014-07-04T20:25:47Z" scratch="false" x="45" y="48" clock="23" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="089c4820-bfad-4e47-9533-792d9f2188bc" type="throwin" time="2014-07-04T20:26:07Z" updated_time="2014-07-04T20:26:07Z" scratch="false" x="66" y="98" clock="23" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Colombia's half?</description>
+        </fact>
+        <fact id="f4cfcb57-ac43-4d84-879b-bd89989b5ed3" type="free_kick" time="2014-07-04T20:26:42Z" updated_time="2014-07-04T20:26:42Z" scratch="false" x="47" y="77" clock="24" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Free kick Colombia.</description>
+        </fact>
+        <fact id="df8c71c4-c691-41a4-8cb7-c8c40440fd2f" type="goal_kick" time="2014-07-04T20:27:01Z" updated_time="2014-07-04T20:27:01Z" scratch="false" x="5" y="50" clock="24" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo awards Brazil a goal kick.</description>
+        </fact>
+        <fact id="6df50adf-a206-452a-9bbb-0380fdd38e63" type="free_kick" time="2014-07-04T20:28:55Z" updated_time="2014-07-04T20:28:55Z" scratch="false" x="65" y="74" clock="26" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="1132b17c-d142-459a-a2b9-47a0af439de8" type="shot_off_target" time="2014-07-04T20:28:30Z" updated_time="2014-07-04T20:28:30Z" scratch="false" x="92" y="19" clock="27" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="0619d154-9b12-428e-a423-787eb2274bb7">
+          <description>Marcelo for Brazil gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="c6a35d29-d15e-413d-8271-40028d8e22d4" type="goal_kick" time="2014-07-04T20:28:30Z" updated_time="2014-07-04T20:28:30Z" scratch="false" x="95" y="50" clock="27" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a goal kick.</description>
+        </fact>
+        <fact id="4d3c48b3-63ce-4fe9-a50d-ec18700575f1" type="keeper_save" time="2014-07-04T20:29:22Z" updated_time="2014-07-04T20:29:22Z" scratch="false" x="85" y="12" clock="27" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="a808a3b0-3d96-4e0a-a4d2-41ea844fac76" type="free_kick" time="2014-07-04T20:29:31Z" updated_time="2014-07-04T20:29:31Z" scratch="false" x="85" y="12" clock="27" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="37f0bafb-64bf-42f7-b088-11f2498bb939" type="free_kick" time="2014-07-04T20:30:01Z" updated_time="2014-07-04T20:30:01Z" scratch="false" x="42" y="17" clock="27" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="99b61369-3592-4df9-8ca5-c47837535023" type="shot_on_target" time="2014-07-04T20:29:22Z" updated_time="2014-07-04T20:29:22Z" scratch="false" x="85" y="12" clock="28" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Hulk for Brazil drives towards goal at Estadio Castelao. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="69831cde-6b89-4fda-8445-7003d067a0d0" type="throwin" time="2014-07-04T20:30:50Z" updated_time="2014-07-04T20:30:50Z" scratch="false" x="16" y="99" clock="28" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a dangerous throw-in.</description>
+        </fact>
+        <fact id="47799a55-3229-4c03-bd93-51bfbc53e5b1" type="throwin" time="2014-07-04T20:31:14Z" updated_time="2014-07-04T20:31:14Z" scratch="false" x="37" y="99" clock="29" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a Colombia throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="36d1172a-2a63-4325-98ac-91b6aa95955a" type="throwin" time="2014-07-04T20:32:01Z" updated_time="2014-07-04T20:32:01Z" scratch="false" x="53" y="99" clock="29" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in for Colombia at Estadio Castelao.</description>
+        </fact>
+        <fact id="3016c3cb-281f-4d9f-a065-cf8e21025ac9" type="shot_blocked" time="2014-07-04T20:31:50Z" updated_time="2014-07-04T20:31:58Z" scratch="false" x="24" y="73" clock="30" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Juan Cuadrado (Colombia) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="7d4ee9b1-d2ef-4e4c-b0fc-7e8950048906" type="throwin" time="2014-07-04T20:32:56Z" updated_time="2014-07-04T20:32:56Z" scratch="false" x="74" y="99" clock="30" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in Colombia.</description>
+        </fact>
+        <fact id="4ebef71c-2fde-49fc-b3d8-4b6c11ece983" type="throwin" time="2014-07-04T20:33:31Z" updated_time="2014-07-04T20:33:31Z" scratch="false" x="57" y="99" clock="31" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Colombia territory.</description>
+        </fact>
+        <fact id="7821db40-edd8-4483-9dfa-63ecb2ae0928" type="goal_kick" time="2014-07-04T20:33:57Z" updated_time="2014-07-04T20:33:57Z" scratch="false" x="95" y="50" clock="31" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a goal kick.</description>
+        </fact>
+        <fact id="613071ca-acaa-4339-af3e-6d873c0190b4" type="corner_kick" time="2014-07-04T20:36:08Z" updated_time="2014-07-04T20:36:08Z" scratch="false" x="95" y="90" clock="34" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="06b99482-de3e-4110-9cd2-115b814f2d5b" type="shot_off_target" time="2014-07-04T20:36:19Z" updated_time="2014-07-04T20:36:19Z" scratch="false" x="95" y="90" clock="35" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851">
+          <description>Brazil attack but Fernandinho's header doesn't find the target.</description>
+        </fact>
+        <fact id="42ef96fe-2437-455b-b604-727666bea737" type="goal_kick" time="2014-07-04T20:36:19Z" updated_time="2014-07-04T20:36:19Z" scratch="false" x="95" y="50" clock="35" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo awards Colombia a goal kick.</description>
+        </fact>
+        <fact id="f67682cd-7cf1-4e43-b97b-4cf2b05b5f60" type="free_kick" time="2014-07-04T20:37:14Z" updated_time="2014-07-04T20:37:14Z" scratch="false" x="21" y="56" clock="35" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="f7775db0-b06f-4375-9abc-ad534ce83ce2" type="free_kick" time="2014-07-04T20:39:43Z" updated_time="2014-07-04T20:39:43Z" scratch="false" x="26" y="78" clock="37" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Free kick Colombia.</description>
+        </fact>
+        <fact id="7a99b2f0-aae0-41a1-95fe-7d059950cc64" type="free_kick" time="2014-07-04T20:40:10Z" updated_time="2014-07-04T20:40:10Z" scratch="false" x="70" y="37" clock="37" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="8906efa5-990c-4410-95a0-a401711d9b79" type="shot_blocked" time="2014-07-04T20:39:14Z" updated_time="2014-07-04T20:40:00Z" scratch="false" x="21" y="56" clock="38" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Important block from the Brazil defence as James Rodriguez fires in a strike for Colombia.</description>
+        </fact>
+        <fact id="af3add1c-ac85-4f34-b976-177372aaaa21" type="shot_off_target" time="2014-07-04T20:40:59Z" updated_time="2014-07-04T20:41:06Z" scratch="false" x="84" y="22" clock="39" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>In Fortaleza Brazil attack through Hulk. The finish is off target, however.</description>
+        </fact>
+        <fact id="ec95e2d9-1186-4b85-a8eb-9f52475b7d4c" type="goal_kick" time="2014-07-04T20:40:59Z" updated_time="2014-07-04T20:40:59Z" scratch="false" x="95" y="50" clock="39" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Ball goes out of play for a Colombia goal kick.</description>
+        </fact>
+        <fact id="9678d6c4-9303-4e89-9538-587b2ef2ec4f" type="goal_kick" time="2014-07-04T20:41:35Z" updated_time="2014-07-04T20:41:35Z" scratch="false" x="95" y="50" clock="39" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Estadio Castelao.</description>
+        </fact>
+        <fact id="344b9af8-7c70-46e3-8190-a36dca45a991" type="free_kick" time="2014-07-04T20:42:19Z" updated_time="2014-07-04T20:42:19Z" scratch="false" x="67" y="37" clock="40" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="ab4fadb4-f021-476a-8640-1a863e1921e8" type="throwin" time="2014-07-04T20:43:09Z" updated_time="2014-07-04T20:43:09Z" scratch="false" x="16" y="98" clock="40" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Can Colombia capitalize from this throw-in deep inside Brazil's half?</description>
+        </fact>
+        <fact id="9ee55d1e-d9d0-42e4-888f-034659e2587e" type="free_kick" time="2014-07-04T20:43:46Z" updated_time="2014-07-04T20:43:46Z" scratch="false" x="20" y="66" clock="41" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="0abefc02-5204-4cab-8094-760330afa192" type="free_kick" time="2014-07-04T20:44:31Z" updated_time="2014-07-04T20:44:31Z" scratch="false" x="80" y="25" clock="42" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil just outside Colombia's area.</description>
+        </fact>
+        <fact id="b5c578ba-613e-4834-8f1e-86eb018316c5" type="shot_off_target" time="2014-07-04T20:45:51Z" updated_time="2014-07-04T20:45:51Z" scratch="false" x="80" y="25" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar of Brazil gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="63bb582c-c551-467e-ba42-21edcad53f68" type="goal_kick" time="2014-07-04T20:45:51Z" updated_time="2014-07-04T20:45:51Z" scratch="false" x="95" y="50" clock="44" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Estadio Castelao.</description>
+        </fact>
+        <fact id="9628ece8-ac1d-4d12-a490-2f6647d10890" type="free_kick" time="2014-07-04T20:46:24Z" updated_time="2014-07-04T20:46:24Z" scratch="false" x="68" y="79" clock="44" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="25d12838-ecd7-4ff7-ab8c-3bc407e0100d" type="free_kick" time="2014-07-04T20:47:20Z" updated_time="2014-07-04T20:47:20Z" scratch="false" x="62" y="66" clock="45" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="34176e0c-03e0-40c2-a017-faf08a90cd07" type="free_kick" time="2014-07-04T20:48:14Z" updated_time="2014-07-04T21:06:13Z" scratch="false" x="67" y="72" clock="46" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="2f8dadac-f20a-4ea9-b32d-122f60834660" type="period_over" time="2014-07-04T20:48:21Z" updated_time="2014-07-04T20:48:21Z" scratch="false" home_score="1" away_score="0" period="P1">
+          <description>The first half has been concluded at Estadio Castelao.</description>
+        </fact>
+        <fact id="c9e060eb-353f-4f68-8c6c-35a9439ec07c" type="period_started" time="2014-07-04T20:48:21Z" updated_time="2014-07-04T20:48:21Z" scratch="false" period="H"/>
+        <fact id="f59618fa-65eb-4087-bf2e-e5a8fc9a1adb" type="substitution" time="2014-07-04T21:04:29Z" updated_time="2014-07-04T21:04:29Z" scratch="false" clock="46" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_out_id="93d0d88e-884e-4011-ac08-bcf51280f09b" player_in_id="09e736c2-320b-45fb-9a0c-df9c3312ecf8">
+          <description>Jose Nestor Pekerman is making the team's first substitution at Estadio Castelao with Adrian Ramos replacing Victor Ibarbo.</description>
+        </fact>
+        <fact id="0be283dd-90ae-4a1a-8100-3db147cca548" type="period_started" time="2014-07-04T21:04:50Z" updated_time="2014-07-04T21:04:50Z" scratch="false" period="P2"/>
+        <fact id="133169e7-8e9f-4910-b36c-706183335de3" type="throwin" time="2014-07-04T21:05:13Z" updated_time="2014-07-04T21:05:13Z" scratch="false" x="64" y="99" clock="45" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in for Colombia in their own half.</description>
+        </fact>
+        <fact id="e0049c03-6c7b-4579-87c7-9bb147d55350" type="throwin" time="2014-07-04T21:05:41Z" updated_time="2014-07-04T21:05:41Z" scratch="false" x="77" y="2" clock="45" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="77505e15-2498-4f2a-8ec9-f4e39df8626d" type="injury_time" time="2014-07-04T20:47:14Z" updated_time="2014-07-04T20:47:14Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>Carlos Velasco Carballo will wait an extra 1 minutes before blowing the whistle to end the first half.</description>
+        </fact>
+        <fact id="6058f931-49f7-4195-8822-93136be36a57" type="goal_kick" time="2014-07-04T21:06:32Z" updated_time="2014-07-04T21:06:32Z" scratch="false" x="5" y="50" clock="46" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="38747215-833b-4fe3-b6bb-463bf6169a84" type="free_kick" time="2014-07-04T21:07:03Z" updated_time="2014-07-04T21:07:03Z" scratch="false" x="40" y="47" clock="47" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="d28234fc-e407-4bb9-b42c-cc91898cda66" type="throwin" time="2014-07-04T21:07:35Z" updated_time="2014-07-04T21:07:35Z" scratch="false" x="57" y="99" clock="47" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Ball safe as Colombia is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="5e07d629-8e60-41e5-97a7-e5449b6ad7c1" type="throwin" time="2014-07-04T21:07:48Z" updated_time="2014-07-04T21:08:03Z" scratch="false" x="44" y="99" clock="48" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Colombia's half?</description>
+        </fact>
+        <fact id="e466af64-be9a-4730-b016-79f19ecd3df4" type="free_kick" time="2014-07-04T21:08:16Z" updated_time="2014-07-04T21:08:16Z" scratch="false" x="37" y="73" clock="48" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Free kick Colombia.</description>
+        </fact>
+        <fact id="ea178c5b-679d-4d39-9904-a1d3181b6b5d" type="free_kick" time="2014-07-04T21:08:53Z" updated_time="2014-07-04T21:08:53Z" scratch="false" x="22" y="24" clock="49" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="ad7eb28d-bbed-4356-8f9a-9b03ba45b34d" type="free_kick" time="2014-07-04T21:10:31Z" updated_time="2014-07-04T21:10:31Z" scratch="false" x="77" y="73" clock="50" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="14609c8b-b9f0-4e0a-96b7-e4b8fc95a214" type="goal_kick" time="2014-07-04T21:12:03Z" updated_time="2014-07-04T21:12:03Z" scratch="false" x="95" y="50" clock="52" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo awards Colombia a goal kick.</description>
+        </fact>
+        <fact id="300e3eec-526a-493c-b823-7d7c556ea3df" type="free_kick" time="2014-07-04T21:12:54Z" updated_time="2014-07-04T21:12:54Z" scratch="false" x="89" y="46" clock="53" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="45820065-a945-48ae-9439-2fcd99b10514" type="free_kick" time="2014-07-04T21:13:43Z" updated_time="2014-07-04T21:13:43Z" scratch="false" x="67" y="20" clock="53" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="5b76e5b5-84db-4231-906f-c20d7c31083d" type="free_kick" time="2014-07-04T21:14:04Z" updated_time="2014-07-04T21:14:04Z" scratch="false" x="76" y="29" clock="54" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="70efe0dd-0d51-46cb-86c9-2441ccda2af8" type="free_kick" time="2014-07-04T21:14:38Z" updated_time="2014-07-04T21:14:38Z" scratch="false" x="38" y="40" clock="54" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="7f8d79fe-7ae8-4868-a32a-0f621a1683f1" type="throwin" time="2014-07-04T21:15:17Z" updated_time="2014-07-04T21:15:17Z" scratch="false" x="33" y="1" clock="55" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="074bf9b9-1039-49a0-a217-d04a1d8bca7e" type="throwin" time="2014-07-04T21:15:35Z" updated_time="2014-07-04T21:15:35Z" scratch="false" x="12" y="1" clock="55" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Can Colombia capitalize from this throw-in deep inside Brazil's half?</description>
+        </fact>
+        <fact id="8f0ab294-8452-49d4-a557-8f4ebf3ec0ca" type="goal_kick" time="2014-07-04T21:15:47Z" updated_time="2014-07-04T21:15:47Z" scratch="false" x="5" y="50" clock="55" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="e6011751-286d-4eff-9a23-1420323e379b" type="free_kick" time="2014-07-04T21:17:36Z" updated_time="2014-07-04T21:17:36Z" scratch="false" x="59" y="56" clock="57" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="fc990a18-4718-4100-b58f-f3066f3d3b53" type="throwin" time="2014-07-04T21:17:54Z" updated_time="2014-07-04T21:17:54Z" scratch="false" x="34" y="2" clock="58" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a Colombia throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="80174c8f-1b48-43b0-996f-f871c88652cb" type="shot_off_target" time="2014-07-04T21:18:22Z" updated_time="2014-07-04T21:19:22Z" scratch="false" x="18" y="45" clock="59" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="6c5b12f8-9a33-4503-934f-352383052f3c">
+          <description>Colombia's Fredy Guarin gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="1bdc0637-b0d8-4917-9466-f79e1a19680a" type="goal_kick" time="2014-07-04T21:18:22Z" updated_time="2014-07-04T21:18:22Z" scratch="false" x="5" y="50" clock="59" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo awards Brazil a goal kick.</description>
+        </fact>
+        <fact id="c1e4f5b5-fbcb-487d-9ccb-cbe37628e66e" type="throwin" time="2014-07-04T21:19:39Z" updated_time="2014-07-04T21:19:39Z" scratch="false" x="20" y="99" clock="59" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a dangerous throw-in.</description>
+        </fact>
+        <fact id="8f9557a2-1b16-4fed-9937-06a82beb90aa" type="throwin" time="2014-07-04T21:19:57Z" updated_time="2014-07-04T21:19:57Z" scratch="false" x="9" y="99" clock="60" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Brazil needs to be cautious. Colombia have an attacking throw-in.</description>
+        </fact>
+        <fact id="27e0a8f4-fd9f-4546-a83d-032e8e957ae7" type="free_kick" time="2014-07-04T21:20:10Z" updated_time="2014-07-04T21:20:10Z" scratch="false" x="34" y="65" clock="60" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="c099ccba-6ca8-4b0b-ade8-f629819ba56c" type="free_kick" time="2014-07-04T21:20:53Z" updated_time="2014-07-04T21:20:53Z" scratch="false" x="36" y="15" clock="61" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Free kick Colombia.</description>
+        </fact>
+        <fact id="136aa946-b108-4e1c-97e2-c23713ab6f19" type="free_kick" time="2014-07-04T21:21:15Z" updated_time="2014-07-04T21:21:15Z" scratch="false" x="26" y="17" clock="61" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="04d2271d-6b24-4408-bf30-6a235110a8c3" type="free_kick" time="2014-07-04T21:22:36Z" updated_time="2014-07-04T21:22:36Z" scratch="false" x="82" y="18" clock="62" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil capitalize from this dangerous free kick?</description>
+        </fact>
+        <fact id="7f76381e-4f06-4541-b1a6-2d737f617e45" type="free_kick" time="2014-07-04T21:22:18Z" updated_time="2014-07-04T21:24:21Z" scratch="false" x="77" y="52" clock="64" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Brazil will need to be alert as they defend a dangerous free kick from Colombia.</description>
+        </fact>
+        <fact id="5f06ee1c-faef-43e9-9f04-ffe104a5dd12" type="card" time="2014-07-04T21:23:48Z" updated_time="2014-07-04T21:23:48Z" scratch="false" clock="64" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="000a2eea-2ad2-4f9d-91ac-264d4f4029e3">
+          <description>Thiago Silva (Brazil) has been booked and will miss the next match due to a suspension.</description>
+        </fact>
+        <fact id="e7ed10ae-d799-4b86-89c6-360128af268e" type="free_kick" time="2014-07-04T21:25:03Z" updated_time="2014-07-04T21:25:03Z" scratch="false" x="24" y="9" clock="65" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Free kick Colombia.</description>
+        </fact>
+        <fact id="2184132e-9e7c-40f7-9017-b66a8a97ca03" type="free_kick" time="2014-07-04T21:26:47Z" updated_time="2014-07-04T21:26:47Z" scratch="false" x="54" y="40" clock="66" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="5de2e30c-752d-4ac4-b37f-453b175c3d8f" type="offside" time="2014-07-04T21:26:12Z" updated_time="2014-07-04T21:26:12Z" scratch="false" x="24" y="9" clock="67" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="3b766a43-c9b2-4072-8a96-af5d7356b674">
+          <description>In Fortaleza Colombia's Mario Yepes is caught offside.</description>
+        </fact>
+        <fact id="b7499a57-a2f3-43f1-ba4f-2b178e944a2b" type="card" time="2014-07-04T21:27:03Z" updated_time="2014-07-04T21:27:03Z" scratch="false" clock="68" card="Y" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2">
+          <description>James Rodriguez (Colombia) gets a yellow card.</description>
+        </fact>
+        <fact id="0691810d-6d33-4f80-9548-e26275d66f35" type="goal" time="2014-07-04T21:28:09Z" updated_time="2014-07-04T21:28:09Z" scratch="false" x="94" y="49" clock="69" home_score="2" away_score="0" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="70edfb19-0496-4821-bf6a-c839057c10d2">
+          <description>Brazil take a comfortable 2-0 lead thanks to David Luiz.</description>
+        </fact>
+        <fact id="a5971579-179a-4529-a590-a82a67ff0ff0" type="substitution" time="2014-07-04T21:29:42Z" updated_time="2014-07-04T21:29:42Z" scratch="false" clock="70" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_out_id="16606bf1-854c-4edd-a93f-9a6f5469e5b1" player_in_id="35179d76-5421-4e48-91e6-62abf7608b5f">
+          <description>Colombia make their second substitution with Carlos Bacca replacing Teofilo Gutierrez.</description>
+        </fact>
+        <fact id="aded4ad7-3243-4ae0-900e-e7b6e9dd062f" type="card" time="2014-07-04T21:30:11Z" updated_time="2014-07-04T21:31:24Z" scratch="false" clock="71" card="Y" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="3b766a43-c9b2-4072-8a96-af5d7356b674">
+          <description>Mario Yepes for Colombia has been booked by Carlos Velasco Carballo and receives a first yellow card.</description>
+        </fact>
+        <fact id="180d5365-9f85-4ed6-9990-27ca5836b9ff" type="throwin" time="2014-07-04T21:31:13Z" updated_time="2014-07-04T21:31:13Z" scratch="false" x="35" y="99" clock="71" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Can Colombia get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="c57fb782-fcd3-43f4-876a-7e9afe5bb7c2" type="free_kick" time="2014-07-04T21:31:30Z" updated_time="2014-07-04T21:31:30Z" scratch="false" x="36" y="21" clock="71" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d75fba5f-e604-47b1-b15b-3f5bfec563a5" type="throwin" time="2014-07-04T21:32:13Z" updated_time="2014-07-04T21:32:13Z" scratch="false" x="68" y="99" clock="72" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Colombia territory.</description>
+        </fact>
+        <fact id="00444b6b-c227-49db-9786-0092b913b824" type="shot_off_target" time="2014-07-04T21:32:32Z" updated_time="2014-07-04T21:32:32Z" scratch="false" x="77" y="53" clock="73" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Brazil are coming forward and Neymar gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="52479daa-53a4-4ff4-aff5-4fa60118be6d" type="goal_kick" time="2014-07-04T21:32:33Z" updated_time="2014-07-04T21:32:33Z" scratch="false" x="95" y="50" clock="73" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Goal kick for Colombia at Estadio Castelao.</description>
+        </fact>
+        <fact id="faec5d9b-ee15-4ac0-a74d-9b7808d72cb1" type="free_kick" time="2014-07-04T21:32:55Z" updated_time="2014-07-04T21:32:55Z" scratch="false" x="75" y="18" clock="73" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d11c62e2-3cb1-4640-9657-60061cac59bb" type="free_kick" time="2014-07-04T21:33:07Z" updated_time="2014-07-04T21:33:07Z" scratch="false" x="58" y="53" clock="73" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia in their own half.</description>
+        </fact>
+        <fact id="755f7896-1036-4574-83a6-999ef954fac6" type="throwin" time="2014-07-04T21:33:52Z" updated_time="2014-07-04T21:33:52Z" scratch="false" x="30" y="2" clock="74" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Estadio Castelao.</description>
+        </fact>
+        <fact id="f7660510-8df7-4018-aa4d-bf3442d6bb20" type="keeper_save" time="2014-07-04T21:34:35Z" updated_time="2014-07-04T21:34:35Z" scratch="false" x="20" y="68" clock="74" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="d0925c00-0300-41d7-801c-ac7f7129ff3f" type="throwin" time="2014-07-04T21:34:43Z" updated_time="2014-07-04T21:34:43Z" scratch="false" x="61" y="0" clock="74" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Throw-in for Colombia at Estadio Castelao.</description>
+        </fact>
+        <fact id="4df49f54-895e-49f6-8ed1-7e7b1cdf91ab" type="shot_on_target" time="2014-07-04T21:34:34Z" updated_time="2014-07-04T21:34:34Z" scratch="false" x="20" y="68" clock="75" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="58c40d06-7dc1-42c0-8de6-6edb98224652">
+          <description>Colombia's Juan Cuadrado gets in a shot on goal at Estadio Castelao. But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="fc1705aa-4776-4255-be2b-137c5e8d5b48" type="free_kick" time="2014-07-04T21:35:07Z" updated_time="2014-07-04T21:35:07Z" scratch="false" x="28" y="72" clock="75" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="5638723f-7f8d-4df4-ba14-4502501edeba" type="card" time="2014-07-04T21:37:16Z" updated_time="2014-07-04T21:37:16Z" scratch="false" clock="78" card="Y" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="baff433f-1856-4420-b98f-4102bd835ac2">
+          <description>Julio Cesar (Brazil) has received a yellow card from Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="323e01e5-58ee-4ff4-9193-90752e15619a" type="penalty_awarded" time="2014-07-04T21:37:26Z" updated_time="2014-07-04T21:37:26Z" scratch="false" clock="78" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have been given a penalty at Estadio Castelao...</description>
+        </fact>
+        <fact id="99a37e10-e702-41a6-8b3a-9029f3a38292" type="goal" time="2014-07-04T21:39:21Z" updated_time="2014-07-04T21:39:21Z" scratch="false" x="10" y="48" clock="80" home_score="2" away_score="1" penalty="true" owngoal="false" header="false" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="8a3fc0a1-57ce-44cb-8a62-646ec1371cf2">
+          <description>Goal! Colombia now trail just 2-1 thanks to a penalty from James Rodriguez.</description>
+        </fact>
+        <fact id="ee66fb1b-b55c-41e5-9ff1-a8f1556a654d" type="substitution" time="2014-07-04T21:40:01Z" updated_time="2014-07-04T21:40:01Z" scratch="false" clock="81" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_out_id="58c40d06-7dc1-42c0-8de6-6edb98224652" player_in_id="37dc5dbf-9c11-42d2-9916-c3f39c8cbd98">
+          <description>Juan Quintero is on a sub for Juan Cuadrado for Colombia.</description>
+        </fact>
+        <fact id="4ff95735-987b-4f4f-8fe7-f9b483151b22" type="corner_kick" time="2014-07-04T21:40:28Z" updated_time="2014-07-04T21:41:11Z" scratch="false" x="5" y="90" clock="81" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="94710455-6272-498b-bc87-8cf1c907c8a5" type="offside" time="2014-07-04T21:40:42Z" updated_time="2014-07-04T21:41:00Z" scratch="false" x="5" y="90" clock="81" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="35179d76-5421-4e48-91e6-62abf7608b5f">
+          <description>Colombia's Carlos Bacca is whistled for offside at Estadio Castelao.</description>
+        </fact>
+        <fact id="4e92b20c-bd76-40b4-b0a6-229213fbddb5" type="substitution" time="2014-07-04T21:41:54Z" updated_time="2014-07-04T21:41:54Z" scratch="false" clock="82" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="35b62918-6ee1-41c1-8272-ff02318e4189" player_in_id="4f4b810b-3f0c-41f1-b821-643b86197b41">
+          <description>Ramires is replacing Hulk for Brazil at Estadio Castelao.</description>
+        </fact>
+        <fact id="e24f8d30-ecde-4242-81fb-2c6ab3bb2be6" type="throwin" time="2014-07-04T21:42:42Z" updated_time="2014-07-04T21:42:42Z" scratch="false" x="16" y="2" clock="82" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a throw-in for Colombia, close to Brazil's area.</description>
+        </fact>
+        <fact id="137e778d-7431-406f-86b4-e0cbef06b123" type="corner_kick" time="2014-07-04T21:42:15Z" updated_time="2014-07-04T21:42:15Z" scratch="false" x="5" y="5" clock="83" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="63c998c3-aa02-4fd4-a6b3-5705227bc26c" type="corner_kick" time="2014-07-04T21:42:34Z" updated_time="2014-07-04T21:42:34Z" scratch="false" x="5" y="5" clock="83" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Corner awarded to Colombia.</description>
+        </fact>
+        <fact id="f87fc15a-b167-4fa2-b026-ffcec730842c" type="free_kick" time="2014-07-04T21:43:08Z" updated_time="2014-07-04T21:43:08Z" scratch="false" x="17" y="83" clock="83" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="96d8965d-6430-47b1-b938-6855804782e3" type="offside" time="2014-07-04T21:43:59Z" updated_time="2014-07-04T21:44:08Z" scratch="false" x="11" y="66" clock="85" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="24c130cc-38a5-4d12-a6ef-76b0b9dda490">
+          <description>Colombia's Pablo Armero has run offside.</description>
+        </fact>
+        <fact id="3b7dfb0f-68dd-42b8-9eea-6d8eaa51ece8" type="substitution" time="2014-07-04T21:45:23Z" updated_time="2014-07-04T21:45:23Z" scratch="false" clock="86" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="613a1283-a812-40bb-bdd9-a52b6f8836f1" player_in_id="0769b903-d74f-492b-815f-3b684b282a1a">
+          <description>Hernanes is on a sub for Paulinho for Brazil.</description>
+        </fact>
+        <fact id="d929a4b9-70b9-4006-a30e-8640eef0bd5c" type="corner_kick" time="2014-07-04T21:45:39Z" updated_time="2014-07-04T21:45:39Z" scratch="false" x="5" y="5" clock="86" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Corner awarded to Colombia.</description>
+        </fact>
+        <fact id="fc33fa24-1627-478a-bb3c-8d6435e4c8ef" type="free_kick" time="2014-07-04T21:46:01Z" updated_time="2014-07-04T21:46:01Z" scratch="false" x="58" y="23" clock="86" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="28a38e59-ab47-4145-835c-9e9d59342d8a" type="injury" time="2014-07-04T21:46:53Z" updated_time="2014-07-04T21:46:53Z" scratch="false" x="58" y="23" clock="87" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>The match at Estadio Castelao has been interrupted briefly for a check on Neymar, who is down injured.</description>
+        </fact>
+        <fact id="92e27a7f-41d5-4d16-9f27-f4ef9507d506" type="substitution" time="2014-07-04T21:47:58Z" updated_time="2014-07-04T21:47:58Z" scratch="false" clock="88" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="423e9818-7882-422f-bd8c-babf53135cfc" player_in_id="187285b3-9e1c-473b-9c41-15a47a1d6766">
+          <description>Henrique (Brazil) has replaced the possibly injured Neymar.</description>
+        </fact>
+        <fact id="fe3e29ea-87af-4fed-841d-0f8712d3b012" type="game_resumed" time="2014-07-04T21:47:59Z" updated_time="2014-07-04T21:47:59Z" scratch="false" clock="88">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="c6fcc237-c4d5-4ea8-90cb-11bd66030f5f" type="throwin" time="2014-07-04T21:48:25Z" updated_time="2014-07-04T21:48:25Z" scratch="false" x="43" y="1" clock="88" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Can Colombia get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="eeee2f93-cbff-4bc7-8735-579cd78ee77e" type="shot_blocked" time="2014-07-04T21:48:39Z" updated_time="2014-07-04T21:48:39Z" scratch="false" x="19" y="65" clock="89" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87"/>
+        <fact id="c43e1102-b61b-4375-b5c2-b19e13976712" type="free_kick" time="2014-07-04T21:49:11Z" updated_time="2014-07-04T21:49:11Z" scratch="false" x="23" y="16" clock="89" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="bb216c0a-51f1-469c-bce7-ef4693831aad" type="throwin" time="2014-07-04T21:49:53Z" updated_time="2014-07-04T21:49:53Z" scratch="false" x="68" y="2" clock="90" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="3303df67-b98c-4d6d-aad9-4b430decefaf" type="injury_time" time="2014-07-04T21:49:58Z" updated_time="2014-07-04T21:49:58Z" scratch="false" clock="90" injury_time="5" period="P2">
+          <description>The fourth official's board shows 5 minutes, which will be added to the second half.</description>
+        </fact>
+        <fact id="c69f50e5-b3c1-4486-88ce-46908e96ab8d" type="goal_kick" time="2014-07-04T21:51:04Z" updated_time="2014-07-04T21:51:04Z" scratch="false" x="95" y="50" clock="90" injury_time="1" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have a goal kick.</description>
+        </fact>
+        <fact id="284e9024-4c5e-4d96-9761-68d6fa42f1f8" type="corner_kick" time="2014-07-04T21:51:57Z" updated_time="2014-07-04T21:51:57Z" scratch="false" x="5" y="5" clock="90" injury_time="2" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia have been awarded a corner by Carlos Velasco Carballo.</description>
+        </fact>
+        <fact id="47bc9ee5-f37b-4ca6-945d-bcd88bd1891a" type="shot_off_target" time="2014-07-04T21:52:06Z" updated_time="2014-07-04T21:53:03Z" scratch="false" x="5" y="5" clock="90" injury_time="2" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="09e736c2-320b-45fb-9a0c-df9c3312ecf8">
+          <description>In Fortaleza, Adrian Ramos (Colombia) misses the target with a header.</description>
+        </fact>
+        <fact id="0c229a9a-1a6e-4170-a09b-eb9f8a43c482" type="goal_kick" time="2014-07-04T21:52:06Z" updated_time="2014-07-04T21:52:06Z" scratch="false" x="5" y="50" clock="90" injury_time="2" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="80bc886c-c2bd-4307-80ce-cfe5bf7054f1" type="throwin" time="2014-07-04T21:52:40Z" updated_time="2014-07-04T21:52:40Z" scratch="false" x="64" y="98" clock="90" injury_time="2" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Carlos Velasco Carballo signals a Brazil throw-in in Colombia's half.</description>
+        </fact>
+        <fact id="4900792d-c227-44bd-a691-7736e2d4855d" type="free_kick" time="2014-07-04T21:53:13Z" updated_time="2014-07-04T21:53:13Z" scratch="false" x="67" y="76" clock="90" injury_time="3" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Colombia awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="9483df27-b9da-45fe-8e51-0396d98cbc90" type="free_kick" time="2014-07-04T21:53:33Z" updated_time="2014-07-04T21:53:33Z" scratch="false" x="21" y="9" clock="90" injury_time="3" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87">
+          <description>Carlos Velasco Carballo signals a free kick to Colombia.</description>
+        </fact>
+        <fact id="7ace6273-2903-435c-8c86-d96c5a6fbe1c" type="shot_off_target" time="2014-07-04T21:54:17Z" updated_time="2014-07-04T21:54:17Z" scratch="false" x="21" y="9" clock="90" injury_time="4" team_id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" player_id="09e736c2-320b-45fb-9a0c-df9c3312ecf8">
+          <description>Colombia surge into the attack at Estadio Castelao but Adrian Ramos’s header is off-target.</description>
+        </fact>
+        <fact id="b4a98015-a0bb-4fbf-a158-25650232f6b5" type="goal_kick" time="2014-07-04T21:54:17Z" updated_time="2014-07-04T21:54:17Z" scratch="false" x="5" y="50" clock="90" injury_time="4" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="ce8b729c-c664-4f54-aa48-f92d08348e03" type="period_over" time="2014-07-04T21:55:01Z" updated_time="2014-07-04T21:55:01Z" scratch="false" home_score="2" away_score="1" period="P2">
+          <description>The match has come to a close in Fortaleza. The final score is 2-1.</description>
+        </fact>
+        <fact id="581f2ac3-5432-4c24-abce-cbb869fde1fc" type="match_ended" time="2014-07-04T21:55:01Z" updated_time="2014-07-04T21:55:01Z" scratch="false" home_score="2" away_score="1" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" draw="false"/>
+      </facts>
+      <!-- 4768164/4748/4820 -->
+    </match>
+  </matches>
+</summary>

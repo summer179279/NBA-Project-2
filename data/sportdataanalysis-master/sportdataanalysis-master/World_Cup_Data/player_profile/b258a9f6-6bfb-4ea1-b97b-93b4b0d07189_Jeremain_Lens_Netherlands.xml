@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:40:15Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="b258a9f6-6bfb-4ea1-b97b-93b4b0d07189" country_code="NLD" preferred_foot="R" height_in="70" weight_lb="176" height_cm="177" weight_kg="79" first_name="Jeremain" last_name="Lens" country="Netherlands">
+    <teams>
+      <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" country_code="NLD" position="F" is_manager="false" is_player="true" country="Netherlands" jersey_number="17"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="83" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="5" matches_played="9" matches_started="0" minutes_played="747" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="53" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="2">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="28" matches_started="0" minutes_played="1811" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="11" substitutions_in="9">
+          <category id="d1a50060-2ceb-45b6-ae08-b3a1ca38da86" name="Ukraine" country_code="UKR" country="Ukraine"/>
+          <tournament_group id="1a5bfc9a-57ed-49a6-9a9f-ac1e9f3fcc09" name="Premier League"/>
+          <tournament id="417d7be0-3b5b-4573-9b72-e8c037093f6a" name="Premier League"/>
+          <team id="fb78bcfc-5df9-4d3f-9097-944b1fa305aa" name="FC Dynamo Kiev" alias="DYK" country_code="UKR" country="Ukraine" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="9" matches_started="0" minutes_played="680" yellow_cards="3" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="54cf60c3-93f3-4f28-8579-5513deb26b5f" name="UEFA Europa League"/>
+          <team id="fb78bcfc-5df9-4d3f-9097-944b1fa305aa" name="FC Dynamo Kiev" alias="DYK" country_code="UKR" country="Ukraine" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 18115/1405922607 -->
+  </player>
+</profile>

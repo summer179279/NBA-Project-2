@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-03-26 21:18:56 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="a378a44d-89c5-4494-9b83-86d4d620fe2e" status="closed" coverage="full" home_team="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-03-02T01:00:00+00:00" duration="2:12" attendance="18624" lead_changes="10" times_tied="11" clock="00:00" quarter="4">
+  <team name="Celtics" market="Boston" id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" points="97">
+    <scoring>
+      <quarter number="1" sequence="1" points="27"/>
+      <quarter number="2" sequence="2" points="21"/>
+      <quarter number="3" sequence="3" points="30"/>
+      <quarter number="4" sequence="4" points="19"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Jeff Green" position="G-F" primary_position="SF" jersey_number="8" id="b9155864-4192-4ad7-8652-57a0844c87b3">
+          <statistics minutes="43:22" field_goals_made="10" field_goals_att="22" field_goals_pct="45.5" three_points_made="2" three_points_att="5" three_points_pct="40.0" two_points_made="8" two_points_att="17" two_points_pct="0.471" blocked_att="1" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="2" defensive_rebounds="3" rebounds="5" assists="1" turnovers="1" steals="0" blocks="1" assists_turnover_ratio="1.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-3" points="27"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kris Humphries" position="C-F" primary_position="C" jersey_number="43" id="1a072572-763d-4839-b920-82b48d8e296a">
+          <statistics minutes="36:39" field_goals_made="7" field_goals_att="15" field_goals_pct="46.7" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="15" two_points_pct="0.467" blocked_att="1" free_throws_made="4" free_throws_att="5" free_throws_pct="80.0" offensive_rebounds="4" defensive_rebounds="6" rebounds="10" assists="2" turnovers="1" steals="0" blocks="2" assists_turnover_ratio="2.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-7" points="18"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Rajon Rondo" position="G" primary_position="PG" jersey_number="9" id="977b67b1-4665-4f97-ba3b-7d7778efecdb">
+          <statistics minutes="38:29" field_goals_made="4" field_goals_att="12" field_goals_pct="33.3" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="1" two_points_att="6" two_points_pct="0.167" blocked_att="1" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="0" defensive_rebounds="7" rebounds="7" assists="11" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="5.5" personal_fouls="4" tech_fouls="1" flagrant_fouls="0" pls_min="-5" points="12"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Pacers" market="Indiana" id="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" points="102">
+    <scoring>
+      <quarter number="1" sequence="1" points="28"/>
+      <quarter number="2" sequence="2" points="27"/>
+      <quarter number="3" sequence="3" points="21"/>
+      <quarter number="4" sequence="4" points="26"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Paul George" position="F-G" primary_position="SF" jersey_number="24" id="db09f372-9a17-4889-add7-bf8a75ab6da6">
+          <statistics minutes="33:50" field_goals_made="10" field_goals_att="21" field_goals_pct="47.6" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="7" two_points_att="15" two_points_pct="0.467" blocked_att="1" free_throws_made="4" free_throws_att="5" free_throws_pct="80.0" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="3" turnovers="1" steals="3" blocks="0" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-6" points="27"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Lance Stephenson" position="G" primary_position="SG" jersey_number="1" id="01e8f44f-f1ee-4d3a-86bd-c29d597ba9bd">
+          <statistics minutes="42:59" field_goals_made="5" field_goals_att="8" field_goals_pct="62.5" three_points_made="1" three_points_att="2" three_points_pct="50.0" two_points_made="4" two_points_att="6" two_points_pct="0.667" blocked_att="1" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="1" defensive_rebounds="8" rebounds="9" assists="6" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="12" points="16"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Lance Stephenson" position="G" primary_position="SG" jersey_number="1" id="01e8f44f-f1ee-4d3a-86bd-c29d597ba9bd">
+          <statistics minutes="42:59" field_goals_made="5" field_goals_att="8" field_goals_pct="62.5" three_points_made="1" three_points_att="2" three_points_pct="50.0" two_points_made="4" two_points_att="6" two_points_pct="0.667" blocked_att="1" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="1" defensive_rebounds="8" rebounds="9" assists="6" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="12" points="16"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-03-26 21:18:58 +0000 -->

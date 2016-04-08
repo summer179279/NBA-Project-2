@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T14:14:25Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="a7f8343a-bbc7-4299-a0c7-0a06eacab8a9" country_code="ECU" preferred_foot="R" height_in="68" weight_lb="163" height_cm="172" weight_kg="73" first_name="Enner" last_name="Valencia" country="Ecuador">
+    <teams>
+      <team id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" country_code="ECU" position="F" is_manager="false" is_player="true" country="Ecuador" jersey_number="13"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="213" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="23ac820b-9a05-4b5e-83f5-c106d22f9c37" name="WC Qualification"/>
+          <tournament id="94de8da2-93c7-4169-96a1-b00b841dca1b" name="World Cup Qualification, CONMEBOL"/>
+          <team id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team"/>
+        </statistic>
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="221a5554-3961-426d-ae64-76061bceeeba" name="Ecuador" alias="ECU" country_code="ECU" country="Ecuador" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="5" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="4" matches_started="0" minutes_played="303" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="ce88467b-55cf-4562-a008-05c36d38d3f7" name="Copa Sudamericana"/>
+          <tournament id="f169d593-b26e-43df-b012-f0f296fc457a" name="Copa Sudamericana"/>
+          <team id="d06ce3cc-a773-474f-b992-42b2055cd268" name="Club Sport Emelec" alias="" country_code="ECU" country="Ecuador" type="team"/>
+        </statistic>
+        <statistic goals="18" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ab5bfdbe-ed48-45e8-a6b9-eda3a8aaad3b" name="Mexico" country_code="MEX" country="Mexico"/>
+          <tournament_group id="3baac5eb-2bd1-4561-ab76-b96d267dfe2a" name="Primera Division"/>
+          <team id="429e7aec-82e3-4b37-8651-7611cbbf7eb5" name="CF Pachuca" alias="PAC" country_code="MEX" country="Mexico" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 106456/1405951362 -->
+  </player>
+</profile>

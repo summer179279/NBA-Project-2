@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-15 19:53:54 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/injuries-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <injuries>
+    <team id="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" name="Hornets" market="Charlotte">
+      <player id="390c3ce6-7e5b-4aba-bd54-4dfb6add4767" full_name="Gerald Henderson" first_name="Gerald" last_name="Henderson" position="G" primary_position="SG" jersey_number="9">
+        <injury id="c6063398-74a6-4cb2-a46d-8e7bcbd8653e" comment="Henderson had surgery on his wrist in May and hopes to be ready for training camp." desc="Wrist" status="Unknown" start_date="2014-05-23" update_date="2014-06-09"/>
+      </player>
+      <player id="394f9bf4-e739-444d-9e13-875fb3a9d007" full_name="Jeff Taylor" first_name="Jeff" last_name="Taylor" position="G-F" primary_position="SF" jersey_number="44">
+        <injury id="dfa87d5e-a375-4918-bbca-12ff8b337c01" comment="Taylor is participating in team workouts and hopes to be ready by training camp." desc="Achilles" status="Out For Season" start_date="2013-12-20" update_date="2014-06-09"/>
+      </player>
+    </team>
+    <team id="583ed102-fb46-11e1-82cb-f4ce4684ea4c" name="Nuggets" market="Denver">
+      <player id="47cd6421-0ce1-431e-9b9c-a8d9bfd0eb04" full_name="Danilo Gallinari" first_name="Danilo" last_name="Gallinari" position="F" primary_position="SF" jersey_number="8">
+        <injury id="e7ed17fb-3f22-4c33-b1ae-4bc3f135c1d7" comment="Gallinari is moving without restriction four months removed from ACL surgery." desc="Knee" status="Out For Season" start_date="2013-04-04" update_date="2014-05-22"/>
+      </player>
+      <player id="47f88b06-686d-47c2-89bd-58e9406be8da" full_name="Nate Robinson" first_name="Nate" last_name="Robinson" position="G" primary_position="PG" jersey_number="10">
+        <injury id="c2f74836-bd2e-4692-a0a5-87dbeef1a68b" comment="Robinson underwent surgery on torn left ACL on Jan. 31, 2014. He said in March that he plans to return to the Nuggets next season." desc="Knee" status="Out For Season" start_date="2014-01-29" update_date="2014-03-06"/>
+      </player>
+      <player id="7ea5ebcb-e825-4b6e-bd46-13a45c88c09c" full_name="J.J. Hickson" first_name="J.J." last_name="Hickson" position="F" primary_position="C" jersey_number="7">
+        <injury id="7f51eb54-2e3d-4290-a39d-07a37a18e78a" comment="Hickson (ACL surgery) expects to return to the court in January." desc="Knee" status="Out For Season" start_date="2014-03-21" update_date="2014-05-17"/>
+      </player>
+    </team>
+    <team id="583ec5fd-fb46-11e1-82cb-f4ce4684ea4c" name="Bulls" market="Chicago">
+      <player id="48341095-ae5a-4d61-bcc8-1b0ceed870b2" full_name="Derrick Rose" first_name="Derrick" last_name="Rose" position="G" primary_position="PG" jersey_number="1">
+        <injury id="44b6a0ba-2a17-4f30-bbc6-cf0604f814f7" comment="Rose is expected to join Team USA this summer, according to national team coach Mike Krzyzewski." desc="Knee" status="Out For Season" start_date="2013-11-22" update_date="2014-05-20"/>
+      </player>
+      <player id="b6eee153-eac4-41e5-afcb-ab46cf7a8ba8" full_name="Joakim Noah" first_name="Joakim" last_name="Noah" position="C" primary_position="C" jersey_number="13">
+        <injury id="45a80d64-160d-4d09-9958-e8309966f63e" comment="Noah underwent arthroscopic left knee surgery on May 2 and will need to rehab for 8-12 weeks." desc="Knee" status="Out" start_date="2014-05-02" update_date="2014-05-03"/>
+      </player>
+    </team>
+    <team id="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" name="Pelicans" market="New Orleans">
+      <player id="4cbbd39c-bece-43a6-80a7-fcd4e72a9e03" full_name="Ryan Anderson" first_name="Ryan" last_name="Anderson" position="F" primary_position="PF" jersey_number="33">
+        <injury id="873a0f57-c870-40a1-9f7f-071d890fba51" comment="Anderson is expected to return to basketball activities in 4-6 months." desc="Neck" status="Out For Season" start_date="2014-01-03" update_date="2014-04-11"/>
+      </player>
+      <player id="65700e81-3aa0-49a9-8a94-004f2cfb64e5" full_name="Jrue Holiday" first_name="Jrue" last_name="Holiday" position="G" primary_position="PG" jersey_number="11">
+        <injury id="982b5ae3-b433-42dc-8ea2-bc95d680854d" comment="Holiday had successful surgery on his right tibia and will miss rest of season." desc="Leg" status="Out For Season" start_date="2014-01-08" update_date="2014-02-28"/>
+      </player>
+      <player id="7992dce6-a785-4b31-9655-abd5a6f028f0" full_name="Jason Smith" first_name="Jason" last_name="Smith" position="C-F" primary_position="C" jersey_number="14">
+        <injury id="96cfe690-f8b8-49d1-9121-45ff13028237" comment="Smith underwent surgery to remove loose bodies from his right knee on Jan. 29, 2014." desc="Knee surgery" status="Out For Season" start_date="2014-01-18" update_date="2014-02-03"/>
+      </player>
+      <player id="f8d6c74c-e0bd-41ed-a814-f0b25259fe0a" full_name="Eric Gordon" first_name="Eric" last_name="Gordon" position="G" primary_position="SG" jersey_number="10">
+        <injury id="f56b3e17-11c5-4fe6-b5f8-99463643ffc1" comment="Gordon is slated to get surgery on his left knee next week." desc="Knee" status="Out For Season" start_date="2014-03-21" update_date="2014-04-11"/>
+      </player>
+    </team>
+    <team id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" name="Suns" market="Phoenix">
+      <player id="6f3c2149-0d74-4ccd-ba58-097a37ae9504" full_name="Emeka Okafor" first_name="Emeka" last_name="Okafor" position="C" primary_position="C" jersey_number="50">
+        <injury id="789051c4-8b19-410d-86b3-46e597b1b22b" desc="Neck" status="Out Indefinitely" start_date="2013-09-18" update_date="2014-02-04"/>
+      </player>
+    </team>
+    <team id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" name="Cavaliers" market="Cleveland">
+      <player id="7a303bc0-f105-4bcb-afe0-61d49dfe43a9" full_name="Brendan Haywood" first_name="Brendan" last_name="Haywood" position="C" primary_position="C" jersey_number="0">
+        <injury id="5899c2e5-fc59-4760-ad6f-13b3f38bc91c" comment="Coach Steve Clifford said on Friday (3/14) that Haywood will not play for the rest of the season." desc="Foot" status="Out For Season" start_date="2013-03-20" update_date="2014-03-15"/>
+      </player>
+    </team>
+    <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston">
+      <player id="7ac35d55-3283-48dc-9609-ed342b3eda56" full_name="Gerald Wallace" first_name="Gerald" last_name="Wallace" position="F" primary_position="SF" jersey_number="45">
+        <injury id="1f813934-1a4c-46c4-ad94-949912518d1f" comment="Wallace underwent season ending surgery to repair his ankle and his torn left meniscus on Tuesday (3/4)." desc="Knee" status="Out For Season" start_date="2014-02-28" update_date="2014-03-04"/>
+      </player>
+      <player id="cd73d016-9a69-4163-ae8a-14140704c68d" full_name="Vitor Faverani" first_name="Vitor" last_name="Faverani" position="C" primary_position="C" jersey_number="38">
+        <injury id="624b1ab7-396b-44d8-ba17-d699a7f9b511" comment="Faverani had successful knee surgery and will miss the rest of season." desc="Knee" status="Out Indefinitely" start_date="2014-02-05" update_date="2014-03-07"/>
+      </player>
+    </team>
+    <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento">
+      <player id="8641c4fe-b822-45e5-998a-13b85b30e215" full_name="Jason Terry" first_name="Jason" last_name="Terry" position="G" primary_position="SG" jersey_number="31">
+        <injury id="84f0b746-645f-4e3c-9b3f-08067714a16d" comment="Terry is not expected to join Sacramento and will work on rehabbing his knee." desc="Knee" status="Out For Season" start_date="2014-02-22" update_date="2014-02-22"/>
+      </player>
+      <player id="ba16b6ef-0c63-4580-8119-2a2d5600b160" full_name="Carl Landry" first_name="Carl" last_name="Landry" position="F" primary_position="PF" jersey_number="24">
+        <injury id="1e94c971-97b1-4a55-9e2d-5be27fd25c3e" comment="Landry underwent surgery Thursday (3/20) to repair the torn medial meniscus in his right knee." desc="Knee" status="Out For Season" start_date="2014-03-01" update_date="2014-03-20"/>
+      </player>
+    </team>
+    <team id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" name="Nets" market="Brooklyn">
+      <player id="8edce943-917a-407a-825d-3f66cd1c107a" full_name="Deron Williams" first_name="Deron" last_name="Williams" position="G" primary_position="PG" jersey_number="8">
+        <injury id="8de7b131-b58c-40fc-b18a-2a12bd7b4409" comment="Williams had surgery on both ankles last month and hopes to resume full basketball activities in September." desc="Ankle" status="Out Indefinitely" start_date="2014-05-22" update_date="2014-06-09"/>
+      </player>
+      <player id="c179fb5c-9845-4e37-aef7-6e00d97548eb" full_name="Brook Lopez" first_name="Brook" last_name="Lopez" position="C" primary_position="C" jersey_number="11">
+        <injury id="0c487c51-5dd3-47fb-b103-5f0f92199b4a" comment="Lopez was seen shooting baskets on Thursday (4/24) but is still not expected to return this season." desc="Foot" status="Out For Season" start_date="2013-12-21" update_date="2014-04-24"/>
+      </player>
+    </team>
+    <team id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" name="Bucks" market="Milwaukee">
+      <player id="94303613-738d-45ef-aee1-d1a6b74545d6" full_name="Carlos Delfino" first_name="Carlos" last_name="Delfino" position="G-F" primary_position="SG" jersey_number="10">
+        <injury id="445730c0-e17d-4d7b-baed-83c6370cb1d7" comment="Delfino hopes to play for Argentina in the World Cup this summer, but his availability is uncertain due to foot surgery he had in December." desc="Foot surgery" status="Out For Season" start_date="2013-08-28" update_date="2014-05-07"/>
+      </player>
+    </team>
+    <team id="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" name="Hawks" market="Atlanta">
+      <player id="aced2f8d-3cd1-4c52-a628-f6ed76f5e4ea" full_name="Gustavo Ayon" first_name="Gustavo" last_name="Ayon" position="F-C" primary_position="PF" jersey_number="14">
+        <injury id="9d536313-cb91-4fde-a017-458dbb389e42" comment="Ayon will have shoulder surgery and is out for the season." desc="Shoulder" status="Out For Season" start_date="2014-02-18" update_date="2014-02-28"/>
+      </player>
+      <player id="cf3a87ec-c2f7-42e8-9698-6f8b2ba916a9" full_name="Al Horford" first_name="Al" last_name="Horford" position="C-F" primary_position="C" jersey_number="15">
+        <injury id="91e52bc3-377d-4ea7-8f3b-5de757ef72c8" comment="Horford hopes to be ready in time for training camp." desc="Torn Pectoral" status="Out" start_date="2013-12-26" update_date="2014-06-09"/>
+      </player>
+      <player id="f4c21698-8e9b-4720-ac1e-5e07bd7c2e92" full_name="John Jenkins" first_name="John" last_name="Jenkins" position="G" primary_position="SG" jersey_number="12">
+        <injury id="8aceca1a-95c2-478b-8737-99df8f0df174" comment="Jenkins is expected to play in the Las Vegas Summer League." desc="Back" status="Out For Season" start_date="2013-12-26" update_date="2014-06-09"/>
+      </player>
+    </team>
+    <team id="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" name="Knicks" market="New York">
+      <player id="b740683c-ab70-4bc2-a516-9fad8b66f2bd" full_name="Kenyon Martin" first_name="Kenyon" last_name="Martin" position="F" primary_position="PF" jersey_number="3">
+        <injury id="d56d4907-bb66-4b8b-aec6-4a5e6168a5d4" comment="Martin plans to have surgery on his ankle and return to the NBA next season." desc="Ankle" status="Out" start_date="2014-02-03" update_date="2014-04-17"/>
+      </player>
+    </team>
+    <team id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" name="Grizzlies" market="Memphis">
+      <player id="e58c0cb2-4645-4297-abd9-02315fba4683" full_name="Quincy Pondexter" first_name="Quincy" last_name="Pondexter" position="F" primary_position="SF" jersey_number="20">
+        <injury id="ac60b310-5da2-4d15-9f18-633e5956c54a" comment="Pondexter is expected to miss rest of the season with a stress fracture in his right foot." desc="Foot" status="Out For Season" start_date="2013-12-09" update_date="2013-12-09"/>
+      </player>
+    </team>
+    <team id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" name="Pistons" market="Detroit">
+      <player id="e8a19123-81c1-49b4-ac6d-6862e63427c8" full_name="Josh Harrellson" first_name="Josh" last_name="Harrellson" position="F-C" primary_position="PF" jersey_number="55">
+        <injury id="e6682ce5-d3bf-43c1-aa8d-5ca016e535fd" comment="Harrellson has been ruled out for Monday's (3/3) game." desc="Knee" status="Out Indefinitely" start_date="2014-02-07" update_date="2014-03-03"/>
+      </player>
+    </team>
+    <team id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" name="Lakers" market="Los Angeles">
+      <player id="f2b96713-fb76-4465-b096-f962855bad23" full_name="Xavier Henry" first_name="Xavier" last_name="Henry" position="F-G" primary_position="SF" jersey_number="7">
+        <injury id="4f3e3078-63dc-4dea-83a2-eb8907a9bc16" comment="Henry had successful surgery on his wrist and knee on Friday (4/11)." desc="Knee" status="Out For Season" start_date="2014-04-02" update_date="2014-04-11"/>
+      </player>
+      <player id="fd1d76ee-9ec0-460c-b12b-29e584923cb6" full_name="Kobe Bryant" first_name="Kobe" last_name="Bryant" position="G" primary_position="SG" jersey_number="24">
+        <injury id="6d32edaa-872e-4f06-b603-10cbbc5e2b5f" comment="Bryant has been cleared to run and shoot and Monday (4/21) marked the beginning of a six-month rehabilitation program." desc="Knee" status="Day To Day" start_date="2014-04-21" update_date="2014-04-21"/>
+      </player>
+    </team>
+  </injuries>
+</league>
+<!-- Generation ended @ 2014-07-15 19:53:54 +0000 -->

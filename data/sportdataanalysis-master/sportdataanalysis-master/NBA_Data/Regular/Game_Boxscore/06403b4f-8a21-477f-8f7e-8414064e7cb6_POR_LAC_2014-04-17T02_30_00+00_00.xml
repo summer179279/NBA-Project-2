@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-17 05:30:43 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="06403b4f-8a21-477f-8f7e-8414064e7cb6" status="closed" coverage="full" home_team="583ed056-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-04-17T02:30:00+00:00" duration="2:21" attendance="20021" lead_changes="6" times_tied="3" clock="00:00" quarter="4">
+  <team name="Trail Blazers" market="Portland" id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" points="110">
+    <scoring>
+      <quarter number="1" sequence="1" points="37"/>
+      <quarter number="2" sequence="2" points="31"/>
+      <quarter number="3" sequence="3" points="14"/>
+      <quarter number="4" sequence="4" points="28"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Will Barton" position="G" primary_position="SG" jersey_number="5" id="85e1279a-77c4-49a7-bfa0-7699e64b581f">
+          <statistics minutes="35:24" field_goals_made="7" field_goals_att="20" field_goals_pct="35.0" three_points_made="3" three_points_att="7" three_points_pct="42.9" two_points_made="4" two_points_att="13" two_points_pct="0.308" blocked_att="1" free_throws_made="6" free_throws_att="8" free_throws_pct="75.0" offensive_rebounds="2" defensive_rebounds="8" rebounds="10" assists="2" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" points="23"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Will Barton" position="G" primary_position="SG" jersey_number="5" id="85e1279a-77c4-49a7-bfa0-7699e64b581f">
+          <statistics minutes="35:24" field_goals_made="7" field_goals_att="20" field_goals_pct="35.0" three_points_made="3" three_points_att="7" three_points_pct="42.9" two_points_made="4" two_points_att="13" two_points_pct="0.308" blocked_att="1" free_throws_made="6" free_throws_att="8" free_throws_pct="75.0" offensive_rebounds="2" defensive_rebounds="8" rebounds="10" assists="2" turnovers="2" steals="1" blocks="0" assists_turnover_ratio="1.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" points="23"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Nicolas Batum" position="F" primary_position="SF" jersey_number="88" id="a89ac040-715d-4057-8fc0-9d71ad06fa0a">
+          <statistics minutes="12:00" field_goals_made="3" field_goals_att="6" field_goals_pct="50.0" three_points_made="0" three_points_att="2" three_points_pct="0.0" two_points_made="3" two_points_att="4" two_points_pct="0.75" blocked_att="1" free_throws_made="1" free_throws_att="2" free_throws_pct="50.0" offensive_rebounds="1" defensive_rebounds="3" rebounds="4" assists="4" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="2.0" personal_fouls="0" tech_fouls="0" flagrant_fouls="0" pls_min="8" points="7"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Clippers" market="Los Angeles" id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" points="104">
+    <scoring>
+      <quarter number="1" sequence="1" points="29"/>
+      <quarter number="2" sequence="2" points="23"/>
+      <quarter number="3" sequence="3" points="33"/>
+      <quarter number="4" sequence="4" points="19"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Jamal Crawford" position="G" primary_position="SG" jersey_number="11" id="8024c36f-3b4e-4d2f-8231-4777f3a09b26">
+          <statistics minutes="41:35" field_goals_made="10" field_goals_att="25" field_goals_pct="40.0" three_points_made="3" three_points_att="10" three_points_pct="30.0" two_points_made="7" two_points_att="15" two_points_pct="0.467" blocked_att="1" free_throws_made="11" free_throws_att="11" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="4" rebounds="5" assists="8" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="4.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-8" points="34"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Matt Barnes" position="F" primary_position="SF" jersey_number="22" id="a0d07bb9-3935-4d53-bdbb-6cb27c1a46b1">
+          <statistics minutes="33:11" field_goals_made="6" field_goals_att="11" field_goals_pct="54.5" three_points_made="2" three_points_att="6" three_points_pct="33.3" two_points_made="4" two_points_att="5" two_points_pct="0.8" blocked_att="0" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="1" turnovers="1" steals="0" blocks="0" assists_turnover_ratio="1.0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="9" points="19"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Jamal Crawford" position="G" primary_position="SG" jersey_number="11" id="8024c36f-3b4e-4d2f-8231-4777f3a09b26">
+          <statistics minutes="41:35" field_goals_made="10" field_goals_att="25" field_goals_pct="40.0" three_points_made="3" three_points_att="10" three_points_pct="30.0" two_points_made="7" two_points_att="15" two_points_pct="0.467" blocked_att="1" free_throws_made="11" free_throws_att="11" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="4" rebounds="5" assists="8" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="4.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-8" points="34"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-04-17 05:30:44 +0000 -->

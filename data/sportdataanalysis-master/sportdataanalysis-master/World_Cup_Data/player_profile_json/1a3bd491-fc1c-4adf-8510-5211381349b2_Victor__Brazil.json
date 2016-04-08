@@ -1,0 +1,178 @@
+{
+    "profile": {
+        "@generated": "2014-07-21T06:06:38Z",
+        "@xmlns": "http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd",
+        "player": {
+            "@country": "Brazil",
+            "@country_code": "BRA",
+            "@first_name": "Victor",
+            "@height_cm": "190",
+            "@height_in": "75",
+            "@id": "1a3bd491-fc1c-4adf-8510-5211381349b2",
+            "@last_name": "",
+            "@preferred_foot": "L",
+            "@weight_kg": "83",
+            "@weight_lb": "185",
+            "statistics": {
+                "season": [
+                    {
+                        "@year": "2014",
+                        "statistic": [
+                            {
+                                "@goal_assists": "-1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "-1",
+                                "@matches_started": "0",
+                                "@minutes_played": "0",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "-1",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "-1",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "International",
+                                    "@country_code": "XZ",
+                                    "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                                    "@name": "International"
+                                },
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@name": "Brazil",
+                                    "@type": "team"
+                                },
+                                "tournament_group": {
+                                    "@id": "ea97fe54-4712-4bd7-b643-8409887f9f61",
+                                    "@name": "World Championship"
+                                }
+                            },
+                            {
+                                "@goal_assists": "-1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "-1",
+                                "@matches_started": "0",
+                                "@minutes_played": "0",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "-1",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "-1",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "International",
+                                    "@country_code": "XZ",
+                                    "@id": "ccb3c550-8bdb-435f-9f4e-8c125f7298b9",
+                                    "@name": "International"
+                                },
+                                "team": {
+                                    "@alias": "BRA",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                                    "@name": "Brazil",
+                                    "@type": "team"
+                                },
+                                "tournament": {
+                                    "@id": "a40e5021-b0cd-45ff-ba32-897b08dfa4f7",
+                                    "@name": "Int. Friendly Games"
+                                },
+                                "tournament_group": {
+                                    "@id": "4e838e41-dfb0-4c66-ab28-4be8855226f1",
+                                    "@name": "Int. Friendly Games"
+                                }
+                            },
+                            {
+                                "@goal_assists": "-1",
+                                "@goal_average": "0.0",
+                                "@goal_frequency": "0",
+                                "@goals": "-1",
+                                "@matches_played": "7",
+                                "@matches_started": "0",
+                                "@minutes_played": "630",
+                                "@red_cards": "-1",
+                                "@substitutions_in": "-1",
+                                "@substitutions_out": "-1",
+                                "@yellow_cards": "1",
+                                "@yellow_red_cards": "-1",
+                                "category": {
+                                    "@country": "International",
+                                    "@country_code": "XZ",
+                                    "@id": "c4ef0886-dfee-4725-81eb-1bb919be832a",
+                                    "@name": "International Clubs"
+                                },
+                                "team": {
+                                    "@alias": "",
+                                    "@country": "Brazil",
+                                    "@country_code": "BRA",
+                                    "@id": "fcf84448-c77c-48b1-b7f7-16e404d21717",
+                                    "@name": "Atletico Mineiro MG",
+                                    "@type": "team"
+                                },
+                                "tournament_group": {
+                                    "@id": "d5fe6774-8a08-4e76-b949-fb421fdc91a0",
+                                    "@name": "Copa Libertadores"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@year": "2013",
+                        "statistic": {
+                            "@goal_assists": "-1",
+                            "@goal_average": "0.0",
+                            "@goal_frequency": "0",
+                            "@goals": "-1",
+                            "@matches_played": "2",
+                            "@matches_started": "0",
+                            "@minutes_played": "180",
+                            "@red_cards": "-1",
+                            "@substitutions_in": "-1",
+                            "@substitutions_out": "-1",
+                            "@yellow_cards": "-1",
+                            "@yellow_red_cards": "-1",
+                            "category": {
+                                "@country": "International",
+                                "@country_code": "XZ",
+                                "@id": "c4ef0886-dfee-4725-81eb-1bb919be832a",
+                                "@name": "International Clubs"
+                            },
+                            "team": {
+                                "@alias": "",
+                                "@country": "Brazil",
+                                "@country_code": "BRA",
+                                "@id": "fcf84448-c77c-48b1-b7f7-16e404d21717",
+                                "@name": "Atletico Mineiro MG",
+                                "@type": "team"
+                            },
+                            "tournament": {
+                                "@id": "20f3ebd9-e30e-4b6d-ba61-deded7daf532",
+                                "@name": "FIFA Club World Cup"
+                            },
+                            "tournament_group": {
+                                "@id": "9dcf6017-2500-4263-a902-ec38db82dd32",
+                                "@name": "Club World Cup"
+                            }
+                        }
+                    }
+                ]
+            },
+            "teams": {
+                "team": {
+                    "@country": "Brazil",
+                    "@country_code": "BRA",
+                    "@id": "8b2154a5-d837-451b-a7f1-8cf06cfaa2ff",
+                    "@is_manager": "false",
+                    "@is_player": "true",
+                    "@jersey_number": "22",
+                    "@name": "Brazil",
+                    "@position": "G"
+                }
+            }
+        }
+    }
+}

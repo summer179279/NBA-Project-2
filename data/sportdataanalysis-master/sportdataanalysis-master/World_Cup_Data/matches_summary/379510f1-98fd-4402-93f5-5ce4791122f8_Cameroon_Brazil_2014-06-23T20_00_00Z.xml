@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:39:16Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="379510f1-98fd-4402-93f5-5ce4791122f8" status="closed" scratched="false" period="P2" scheduled="2014-06-23T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A"/>
+      <round week="26" number="3" type="table"/>
+      <home id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team" formation="4-1-2-3" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="75" ball_safe="80" corner_kicks="6" dangerous_attacks="38" fouls="13" free_kicks="21" goal_attempts="7" goal_kicks="10" offsides="1" saves="5" shots_total="7" substitutions="3" throw_ins="21" yellow_card="3" shots_on_target="1" shots_off_target="6" possessions="45"/>
+        <players>
+          <player id="f8cfb4d9-011d-46b7-b4c3-3ef3c9b6189b" country_code="CMR" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Vincent" last_name="Aboubakar" country="Cameroon" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="3d32fe26-bde1-4033-8518-04b3d6eb4242" country_code="CMR" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Eric Maxim" last_name="Choupo Moting" country="Cameroon" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="4747abab-d534-46a8-833e-e0f936959859" country_code="CMR" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Enoh" last_name="Eyong" country="Cameroon" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a6a162b1-29e6-41c3-84ad-ffc709cf7fb1" country_code="CMR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Aurelien" last_name="Chedjou" country="Cameroon" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d617a2e2-1588-4f70-bf05-93c5070e8f30" country_code="CMR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dany" last_name="Nounkeu" country="Cameroon" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4f8e6b64-d639-44c5-83d3-b83ed00a7280" country_code="CMR" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Nicolas" last_name="N'Koulou" country="Cameroon" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a992c185-e7f7-4a28-843c-04325db12b81" country_code="CMR" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Samuel" last_name="Eto'o" country="Cameroon" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="50c356d1-bde9-4b69-9dfa-ac74fbea0ead" country_code="CMR" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Sammy" last_name="Ndjock" country="Cameroon" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="06a36dff-a61b-4f27-8265-7d2f7902e5b3" country_code="CMR" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Henri" last_name="Bedimo" country="Cameroon" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="43c3ef1b-86a4-406c-a1d3-3ebdd2557d7d" country_code="CMR" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Stephane" last_name="M'Bia" country="Cameroon" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="392419fc-2f75-4e49-8997-0cd1d77b1043" country_code="CMR" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Jean" last_name="Makoun" country="Cameroon" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="078f7cbd-df36-405c-805a-f6f5d76c77fa" country_code="CMR" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Landry" last_name="N'Guemo" country="Cameroon" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0f461555-6ef0-4ddc-a1ac-1c01a154fda1" country_code="CMR" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Joel" last_name="Matip" country="Cameroon" jersey_number="21">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a6530d29-0ea5-4d1a-acf4-c62a870bd984" country_code="CMR" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Loic" last_name="Feudjou" country="Cameroon" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7264daee-7bda-44d0-9c14-8c502a100128" country_code="CMR" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Alex" last_name="Song" country="Cameroon" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e12def4f-9980-4d04-85d4-45b09326998a" country_code="CMR" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Edgar" last_name="Salli" country="Cameroon" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="b3c71bed-cf0f-4026-8a0a-661515c9b683" country_code="CMR" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Allan" last_name="Nyom" country="Cameroon" jersey_number="22">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="77db4450-b881-4c8a-816a-23d826979b36" country_code="CMR" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Fabrice" last_name="Olinga" country="Cameroon" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="212debd9-ee8a-4f59-bb7c-7976be856fa7" country_code="CMR" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Benjamin" last_name="Moukandjo" country="Cameroon" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="311740a0-c61e-4014-ae40-25b5e0d34368" country_code="CMR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Cedric" last_name="Djeugoue" country="Cameroon" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="f1e1aa26-ee7b-4f93-a5c1-aa9d868f371f" country_code="CMR" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Charles" last_name="Itandje" country="Cameroon" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="67ee093e-13ae-499f-9f8a-b64a6a414aae" country_code="CMR" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Pierre" last_name="Webo" country="Cameroon" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1a07402c-f8a1-44f9-806c-68002dff854d" country_code="CMR" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Benoit" last_name="Assou Ekotto" country="Cameroon" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" formation="4-3-3" score="4" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="2" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="83" ball_safe="88" corner_kicks="7" dangerous_attacks="54" fouls="19" free_kicks="14" goal_attempts="10" goal_kicks="7" offsides="2" saves="0" shots_total="10" substitutions="3" throw_ins="21" yellow_card="0" shots_on_target="10" shots_off_target="0" possessions="55"/>
+        <players>
+          <player id="423e9818-7882-422f-bd8c-babf53135cfc" country_code="BRA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Neymar" last_name="" country="Brazil" jersey_number="10">
+            <statistics goal="2" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="613a1283-a812-40bb-bdd9-a52b6f8836f1" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Paulinho" last_name="" country="Brazil" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="baff433f-1856-4420-b98f-4102bd835ac2" country_code="BRA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Julio Cesar" last_name="" country="Brazil" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2391fa91-c665-4ab1-8ec5-3b0d59bfbdf3" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dante" last_name="" country="Brazil" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="000a2eea-2ad2-4f9d-91ac-264d4f4029e3" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Thiago" last_name="Silva" country="Brazil" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="26301547-f620-4420-828f-2b091891e1c8" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Maicon" last_name="" country="Brazil" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6" country_code="BRA" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Fred" last_name="" country="Brazil" jersey_number="9">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="70edfb19-0496-4821-bf6a-c839057c10d2" country_code="BRA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="David" last_name="Luiz" country="Brazil" jersey_number="4">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="eef74fad-80fa-45a1-9809-18598b4efbea" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Bernard" last_name="" country="Brazil" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2be00660-77db-4c8e-b704-f0ec23bf6564" country_code="BRA" position="M" started="false" tactical_position="8" tactical_order="11" first_name="Willian" last_name="" country="Brazil" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="0619d154-9b12-428e-a423-787eb2274bb7" country_code="BRA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Marcelo" last_name="" country="Brazil" jersey_number="6">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2c674fe0-d706-4450-bf33-2e747265fbbf" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Oscar" last_name="" country="Brazil" jersey_number="11">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851" country_code="BRA" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Fernandinho" last_name="" country="Brazil" jersey_number="5">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="187285b3-9e1c-473b-9c41-15a47a1d6766" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Henrique" last_name="" country="Brazil" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3c384bea-5bfb-4071-9179-97774689573b" country_code="BRA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Maxwell" last_name="" country="Brazil" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3fa8f2d3-f729-4c83-ae5a-c9f1d03f7021" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Jefferson" last_name="" country="Brazil" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="8e24463d-d0d2-4980-b098-00baa4119a25" country_code="BRA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Dani" last_name="Alves" country="Brazil" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0769b903-d74f-492b-815f-3b684b282a1a" country_code="BRA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Hernanes" last_name="" country="Brazil" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0957db74-9775-4dc9-9cc1-df3d48bb2c93" country_code="BRA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Luiz" last_name="Gustavo" country="Brazil" jersey_number="17">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4d72c82f-34bd-4725-be0f-b6f529f7f840" country_code="BRA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Jo" last_name="" country="Brazil" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="35b62918-6ee1-41c1-8272-ff02318e4189" country_code="BRA" position="F" started="true" tactical_position="8" tactical_order="9" first_name="Hulk" last_name="" country="Brazil" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="4f4b810b-3f0c-41f1-b821-643b86197b41" country_code="BRA" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Ramires" last_name="" country="Brazil" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1a3bd491-fc1c-4adf-8510-5211381349b2" country_code="BRA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Victor" last_name="" country="Brazil" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249"/>
+      <facts>
+        <fact id="bfe31176-88ae-4469-a39a-45c775f57e98" type="match_started" time="2014-06-23T20:00:12Z" updated_time="2014-06-23T20:00:12Z" scratch="false" clock="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>The match has started at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="bb0cee16-3538-46fa-9dfc-2c1d58340982" type="period_started" time="2014-06-23T20:00:12Z" updated_time="2014-06-23T20:00:12Z" scratch="false" period="P1"/>
+        <fact id="326cd015-c126-40e6-974d-cda380235d11" type="free_kick" time="2014-06-23T20:00:43Z" updated_time="2014-06-23T20:00:43Z" scratch="false" x="12" y="18" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick in a good position for Brazil!</description>
+        </fact>
+        <fact id="d24b25e9-fc5d-4720-85c5-487713b7b614" type="shot_blocked" time="2014-06-23T20:02:31Z" updated_time="2014-06-23T20:02:36Z" scratch="false" x="5" y="7" clock="3" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil push forward at Estadio Nacional de Brasilia  and Luiz Gustavo gets in a strike. This is blocked, however, by a determined Cameroon defence.</description>
+        </fact>
+        <fact id="cc91dcb8-4276-4cb5-a2cf-b2ab69498156" type="corner_kick" time="2014-06-23T20:02:41Z" updated_time="2014-06-23T20:02:41Z" scratch="false" x="5" y="5" clock="3" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="72b707f3-b529-465f-8480-7bd1c681d9ad" type="throwin" time="2014-06-23T20:03:21Z" updated_time="2014-06-23T20:03:21Z" scratch="false" x="59" y="1" clock="3" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="a5aa3868-cf57-4576-ac6a-03b83ebe0af6" type="throwin" time="2014-06-23T20:03:56Z" updated_time="2014-06-23T20:03:56Z" scratch="false" x="29" y="1" clock="3" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Ball safe as Cameroon is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="c185173d-5cb7-4720-a186-6098b767ed8f" type="shot_blocked" time="2014-06-23T20:05:41Z" updated_time="2014-06-23T20:05:41Z" scratch="false" x="0" y="2" clock="6" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil's Fred gets in a shot but it is blocked by a Cameroon defender.</description>
+        </fact>
+        <fact id="962a7cd0-42b5-40c0-a3cf-36d50351775a" type="corner_kick" time="2014-06-23T20:05:59Z" updated_time="2014-06-23T20:05:59Z" scratch="false" x="5" y="5" clock="6" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="613517c7-e9f3-4b92-b8fa-5b36100318eb" type="throwin" time="2014-06-23T20:06:50Z" updated_time="2014-06-23T20:06:50Z" scratch="false" x="33" y="98" clock="6" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Cameroon territory.</description>
+        </fact>
+        <fact id="3e2f522d-0d3e-47e0-90c2-c072fd135c44" type="goal_kick" time="2014-06-23T20:07:32Z" updated_time="2014-06-23T20:07:32Z" scratch="false" x="5" y="50" clock="7" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Ball goes out of play for a Cameroon goal kick.</description>
+        </fact>
+        <fact id="968cc176-f3fc-456e-84e6-22470f8e096a" type="shot_blocked" time="2014-06-23T20:09:09Z" updated_time="2014-06-23T20:10:45Z" scratch="false" x="80" y="37" clock="9" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Enoh Eyong (Cameroon) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="ff4d96d5-d6a7-4469-a769-732b8a67199b" type="corner_kick" time="2014-06-23T20:09:32Z" updated_time="2014-06-23T20:09:32Z" scratch="false" x="95" y="90" clock="10" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Corner awarded to Cameroon.</description>
+        </fact>
+        <fact id="38d0484c-2da6-4d42-9b04-41cbed2daec5" type="throwin" time="2014-06-23T20:10:24Z" updated_time="2014-06-23T20:10:24Z" scratch="false" x="66" y="1" clock="10" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a Cameroon throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="8a662d0e-4590-44b7-acde-f408efb2a407" type="free_kick" time="2014-06-23T20:11:11Z" updated_time="2014-06-23T20:11:11Z" scratch="false" x="80" y="98" clock="10" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b3ffd3b1-dc30-4782-9b3a-527a9b510bf2" type="shot_blocked" time="2014-06-23T20:10:56Z" updated_time="2014-06-23T20:12:32Z" scratch="false" x="79" y="20" clock="11" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>In Brasilia, Benjamin Moukandjo of Cameroon is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="abaf9d97-7d9b-4a81-94f4-43b2130c74bc" type="card" time="2014-06-23T20:11:20Z" updated_time="2014-06-23T20:11:20Z" scratch="false" clock="12" card="Y" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="4747abab-d534-46a8-833e-e0f936959859">
+          <description>Cameroon's Enoh Eyong has been booked in Brasilia.</description>
+        </fact>
+        <fact id="6ceb6055-14a7-4ffe-9057-0b7859c8ddfc" type="throwin" time="2014-06-23T20:12:54Z" updated_time="2014-06-23T20:12:54Z" scratch="false" x="76" y="0" clock="12" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Can Cameroon get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="7f114586-b63e-44c4-bfbb-70e4557b7d40" type="free_kick" time="2014-06-23T20:13:18Z" updated_time="2014-06-23T20:13:18Z" scratch="false" x="78" y="49" clock="13" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Free kick Cameroon.</description>
+        </fact>
+        <fact id="f7ac7ffa-5a68-4331-8661-d0b699fd5b4b" type="goal_kick" time="2014-06-23T20:14:27Z" updated_time="2014-06-23T20:14:27Z" scratch="false" x="5" y="50" clock="14" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Goal kick for Cameroon at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="82bfce0e-48ab-4f9b-a476-2b7148f83e88" type="goal" time="2014-06-23T20:16:47Z" updated_time="2014-06-23T20:16:47Z" scratch="false" x="16" y="47" clock="17" home_score="0" away_score="1" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc" assist1_id="0957db74-9775-4dc9-9cc1-df3d48bb2c93">
+          <description>Luiz Gustavo with an assist there.</description>
+        </fact>
+        <fact id="9bdf245d-42cf-4efd-b429-e3f52390ac34" type="throwin" time="2014-06-23T20:17:45Z" updated_time="2014-06-23T20:17:45Z" scratch="false" x="55" y="100" clock="17" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="cfac23cf-6f72-473e-8ddd-f6137358740d" type="throwin" time="2014-06-23T20:17:50Z" updated_time="2014-06-23T20:17:50Z" scratch="false" x="30" y="98" clock="17" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Can Brazil get the ball into an attacking position from this throw-in in Cameroon's half?</description>
+        </fact>
+        <fact id="d7c1104a-4fdb-42ed-97a8-ada1f4a6ecf0" type="throwin" time="2014-06-23T20:18:24Z" updated_time="2014-06-23T20:18:24Z" scratch="false" x="28" y="99" clock="18" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Cameroon territory.</description>
+        </fact>
+        <fact id="7131b79f-903c-4be9-a28f-bff5038b62a5" type="keeper_save" time="2014-06-23T20:19:41Z" updated_time="2014-06-23T20:19:41Z" scratch="false" x="17" y="14" clock="19" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="3f4c6fb5-a30d-4fc4-877b-f7cd5b79bd5d" type="goal_kick" time="2014-06-23T20:19:54Z" updated_time="2014-06-23T20:19:54Z" scratch="false" x="5" y="50" clock="19" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon have a goal kick.</description>
+        </fact>
+        <fact id="0cc20962-e1d2-4c54-aa4d-8d190f7c2f40" type="shot_on_target" time="2014-06-23T20:19:41Z" updated_time="2014-06-23T20:19:41Z" scratch="false" x="17" y="14" clock="20" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Brazil's Neymar gets in a shot on goal at Estadio Nacional de Brasilia . But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="7736b14d-b77d-4055-bd7b-3c887889b834" type="keeper_save" time="2014-06-23T20:20:59Z" updated_time="2014-06-23T20:20:59Z" scratch="false" x="10" y="67" clock="20" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="cbc5e478-37f7-48c3-837e-830d28acddaf" type="shot_on_target" time="2014-06-23T20:20:59Z" updated_time="2014-06-23T20:20:59Z" scratch="false" x="10" y="67" clock="21" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6">
+          <description>Brazil push forward through Fred, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="4b53b22f-85d4-487e-bdec-effca1723c5a" type="free_kick" time="2014-06-23T20:21:53Z" updated_time="2014-06-23T20:21:53Z" scratch="false" x="10" y="67" clock="21" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a free kick to Cameroon in their own half.</description>
+        </fact>
+        <fact id="608758bc-fc78-4dfd-84de-7a7a7a51af85" type="goal_kick" time="2014-06-23T20:22:08Z" updated_time="2014-06-23T20:22:08Z" scratch="false" x="95" y="50" clock="21" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson awards Brazil a goal kick.</description>
+        </fact>
+        <fact id="1544d031-6558-46f0-88f8-97bcc3beb3ce" type="throwin" time="2014-06-23T20:22:54Z" updated_time="2014-06-23T20:22:54Z" scratch="false" x="56" y="99" clock="22" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="8d2806f9-df9b-41ef-b3f0-72cb92de753b" type="goal_kick" time="2014-06-23T20:23:29Z" updated_time="2014-06-23T20:23:29Z" scratch="false" x="5" y="50" clock="23" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Goal kick for Cameroon at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="e009d97b-2655-4bec-abeb-d7a474a1af51" type="shot_blocked" time="2014-06-23T20:24:50Z" updated_time="2014-06-23T20:26:46Z" scratch="false" x="97" y="95" clock="25" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Benjamin Moukandjo (Cameroon) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="3dc23938-a2eb-41ef-b046-020f68c54162" type="corner_kick" time="2014-06-23T20:25:11Z" updated_time="2014-06-23T20:26:43Z" scratch="false" x="95" y="90" clock="25" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="f319412f-26e8-4584-8ec3-c00e5929f7cc" type="corner_kick" time="2014-06-23T20:25:33Z" updated_time="2014-06-23T20:25:33Z" scratch="false" x="95" y="90" clock="26" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="2d255f98-39e0-4b63-8df8-8f1b3d51f815" type="goal" time="2014-06-23T20:26:30Z" updated_time="2014-06-23T20:26:30Z" scratch="false" x="63" y="26" clock="26" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="0f461555-6ef0-4ddc-a1ac-1c01a154fda1" assist1_id="b3c71bed-cf0f-4026-8a0a-661515c9b683">
+          <description>That's a fine assist from Allan Nyom.</description>
+        </fact>
+        <fact id="27e61535-467a-4d54-92c5-9a9de0cec567" type="throwin" time="2014-06-23T20:26:57Z" updated_time="2014-06-23T20:27:11Z" scratch="false" x="47" y="98" clock="26" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a Cameroon throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="09e2d8f7-318b-46ac-aa0e-1b20ced6e1ff" type="free_kick" time="2014-06-23T20:27:15Z" updated_time="2014-06-23T20:27:15Z" scratch="false" x="39" y="67" clock="27" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="6ea40485-0d49-4d7a-b023-299f078fc4c5" type="free_kick" time="2014-06-23T20:27:55Z" updated_time="2014-06-23T20:27:55Z" scratch="false" x="42" y="71" clock="27" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="0d4f9ef9-2613-4184-81b8-65750a588892" type="goal_kick" time="2014-06-23T20:28:11Z" updated_time="2014-06-23T20:28:11Z" scratch="false" x="5" y="50" clock="27" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Ball goes out of play for a Cameroon goal kick.</description>
+        </fact>
+        <fact id="56a982c9-6994-4e07-ac27-178257692dbd" type="throwin" time="2014-06-23T20:29:07Z" updated_time="2014-06-23T20:29:07Z" scratch="false" x="45" y="100" clock="28" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Throw-in for Cameroon in their own half.</description>
+        </fact>
+        <fact id="80f5248f-77df-4dc3-b986-b7780e9da73e" type="offside" time="2014-06-23T20:29:37Z" updated_time="2014-06-23T20:29:47Z" scratch="false" x="81" y="18" clock="30" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="06a36dff-a61b-4f27-8265-7d2f7902e5b3">
+          <description>Henri Bedimo for Cameroon is whistled offside.</description>
+        </fact>
+        <fact id="1963a907-4a84-4cc4-8a02-1c7826ee148c" type="free_kick" time="2014-06-23T20:30:36Z" updated_time="2014-06-23T20:30:36Z" scratch="false" x="32" y="72" clock="30" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="9dd5a97b-6acb-4835-9bcb-6764778a07a9" type="throwin" time="2014-06-23T20:30:57Z" updated_time="2014-06-23T20:30:57Z" scratch="false" x="60" y="2" clock="30" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Can Cameroon get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="45394dd5-d7f3-4890-a0c6-4123b41db8b5" type="free_kick" time="2014-06-23T20:31:23Z" updated_time="2014-06-23T20:31:23Z" scratch="false" x="37" y="71" clock="31" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="2f54f2fe-4053-4760-b0f6-af5e02ec9470" type="corner_kick" time="2014-06-23T20:32:34Z" updated_time="2014-06-23T20:32:34Z" scratch="false" x="95" y="90" clock="32" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Corner awarded to Cameroon.</description>
+        </fact>
+        <fact id="b5ebc353-ab2e-490f-898b-8a299c36ac95" type="shot_blocked" time="2014-06-23T20:32:53Z" updated_time="2014-06-23T20:32:53Z" scratch="false" x="95" y="90" clock="33" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Allan Nyom (Cameroon) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="1fec0869-a7fd-479e-9508-4671da109e70" type="corner_kick" time="2014-06-23T20:33:01Z" updated_time="2014-06-23T20:33:01Z" scratch="false" x="95" y="90" clock="33" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="734b8ee7-f64f-4d15-bd20-070bc49a9b58" type="shot_off_target" time="2014-06-23T20:33:12Z" updated_time="2014-06-23T20:34:42Z" scratch="false" x="95" y="90" clock="33" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="3d32fe26-bde1-4033-8518-04b3d6eb4242">
+          <description>Eric Maxim Choupo Moting (Cameroon) gets up for a header but cannot keep the ball on target.</description>
+        </fact>
+        <fact id="93ffc6b0-a0aa-46b9-992d-f0b89706ba49" type="goal_kick" time="2014-06-23T20:33:13Z" updated_time="2014-06-23T20:33:13Z" scratch="false" x="95" y="50" clock="33" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="3a374908-aa9b-4382-9d78-e4b6b9a00a71" type="goal" time="2014-06-23T20:34:20Z" updated_time="2014-06-23T20:34:20Z" scratch="false" x="23" y="31" clock="35" home_score="1" away_score="2" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc" assist1_id="0619d154-9b12-428e-a423-787eb2274bb7">
+          <description>Great play from Marcelo to set up the goal.</description>
+        </fact>
+        <fact id="f5dbdb2c-be9e-4d71-9e3b-2c67ec6b3a88" type="keeper_save" time="2014-06-23T20:35:55Z" updated_time="2014-06-23T20:35:55Z" scratch="false" x="5" y="91" clock="35" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="5f6f545a-9884-4fb4-8635-94854cb62f2f" type="shot_on_target" time="2014-06-23T20:35:54Z" updated_time="2014-06-23T20:35:54Z" scratch="false" x="5" y="91" clock="36" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="35b62918-6ee1-41c1-8272-ff02318e4189">
+          <description>Brazil drive forward and Hulk gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="577a2dd5-4a3d-40db-965d-51291fa1e718" type="corner_kick" time="2014-06-23T20:36:15Z" updated_time="2014-06-23T20:36:15Z" scratch="false" x="5" y="90" clock="36" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="13fe1b65-ba54-4998-a742-44802028a460" type="goal_kick" time="2014-06-23T20:36:26Z" updated_time="2014-06-23T20:36:26Z" scratch="false" x="5" y="50" clock="36" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson awards Cameroon a goal kick.</description>
+        </fact>
+        <fact id="b454c48b-f4fb-4952-8d4b-cc865c27696f" type="shot_off_target" time="2014-06-23T20:37:08Z" updated_time="2014-06-23T20:37:08Z" scratch="false" x="81" y="57" clock="37" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="4747abab-d534-46a8-833e-e0f936959859">
+          <description>Cameroon are coming forward and Enoh Eyong gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="5c3ddcdc-33f6-4594-81c4-15906d6336d0" type="goal_kick" time="2014-06-23T20:37:09Z" updated_time="2014-06-23T20:37:09Z" scratch="false" x="95" y="50" clock="37" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="33e3c110-4cf8-4132-844d-25a434ad1a1e" type="throwin" time="2014-06-23T20:37:45Z" updated_time="2014-06-23T20:37:45Z" scratch="false" x="59" y="1" clock="37" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a Cameroon throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="2def1876-7fe7-43e8-912d-5c08cb54f50b" type="corner_kick" time="2014-06-23T20:38:21Z" updated_time="2014-06-23T20:39:47Z" scratch="false" x="95" y="5" clock="39" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="1657530f-a8ee-4322-b5e3-2f4c360e84f5" type="shot_off_target" time="2014-06-23T20:38:38Z" updated_time="2014-06-23T20:38:38Z" scratch="false" x="79" y="31" clock="39" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="3d32fe26-bde1-4033-8518-04b3d6eb4242">
+          <description>Cameroon's Eric Maxim Choupo Moting gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="7fe2a94c-3098-4209-a32f-dd7b53e69afb" type="goal_kick" time="2014-06-23T20:38:39Z" updated_time="2014-06-23T20:38:39Z" scratch="false" x="95" y="50" clock="39" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Goal kick for Brazil at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="fbfa6ae3-5eca-47fa-ab8e-4b6377384cda" type="free_kick" time="2014-06-23T20:39:36Z" updated_time="2014-06-23T20:39:36Z" scratch="false" x="60" y="28" clock="39" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="44923d45-2437-43b2-951b-5d70d1a57c59" type="free_kick" time="2014-06-23T20:40:25Z" updated_time="2014-06-23T20:40:25Z" scratch="false" x="57" y="59" clock="40" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Free kick Cameroon.</description>
+        </fact>
+        <fact id="de2af054-d700-4012-ade9-140c7802d283" type="free_kick" time="2014-06-23T20:40:53Z" updated_time="2014-06-23T20:40:53Z" scratch="false" x="61" y="84" clock="40" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a free kick to Cameroon.</description>
+        </fact>
+        <fact id="039be238-329a-4d4f-9f3c-046604e62c41" type="throwin" time="2014-06-23T20:41:11Z" updated_time="2014-06-23T20:41:11Z" scratch="false" x="73" y="1" clock="40" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball safe as Brazil is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="1c2ab6a5-c084-400c-a7a1-bfa310d76d92" type="free_kick" time="2014-06-23T20:41:29Z" updated_time="2014-06-23T20:41:29Z" scratch="false" x="57" y="36" clock="41" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="42976b70-2bed-4061-bf55-ea3119aaf99a" type="throwin" time="2014-06-23T20:42:31Z" updated_time="2014-06-23T20:42:31Z" scratch="false" x="79" y="98" clock="42" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="ad118593-9fb3-4492-9884-209104d6a923" type="free_kick" time="2014-06-23T20:43:15Z" updated_time="2014-06-23T20:43:15Z" scratch="false" x="75" y="47" clock="43" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a free kick to Cameroon.</description>
+        </fact>
+        <fact id="55cf5b8f-a8bc-47b9-bdb3-a3b2bee54199" type="shot_blocked" time="2014-06-23T20:46:12Z" updated_time="2014-06-23T20:51:29Z" scratch="false" x="5" y="95" clock="45" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Important block from the Cameroon defence as Hulk fires in a strike for Brazil.</description>
+        </fact>
+        <fact id="960c0f8c-5b6d-4f4b-8bd5-f973697f47e4" type="period_started" time="2014-06-23T20:46:27Z" updated_time="2014-06-23T20:46:27Z" scratch="false" period="H"/>
+        <fact id="9e76cbe1-d77a-4723-ac51-83eff7872678" type="substitution" time="2014-06-23T21:03:07Z" updated_time="2014-06-23T21:03:07Z" scratch="false" clock="46" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="613a1283-a812-40bb-bdd9-a52b6f8836f1" player_in_id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851">
+          <description>Fernandinho is on a sub for Paulinho for Brazil.</description>
+        </fact>
+        <fact id="b01d98fc-d501-4bf2-b821-a77eb12f5490" type="period_started" time="2014-06-23T21:03:48Z" updated_time="2014-06-23T21:03:48Z" scratch="false" period="P2"/>
+        <fact id="f2a48faf-52d7-4f9d-bf31-fdc7a531ae52" type="goal_kick" time="2014-06-23T21:04:42Z" updated_time="2014-06-23T21:04:42Z" scratch="false" x="5" y="50" clock="45" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson awards Cameroon a goal kick.</description>
+        </fact>
+        <fact id="dc2ee55a-473e-4e76-a893-8763251b52ec" type="injury_time" time="2014-06-23T20:45:17Z" updated_time="2014-06-23T20:45:17Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>The first half is prolonged by 1 minutes of added time.</description>
+        </fact>
+        <fact id="fc2b6e75-c5d4-4230-86da-992b81a48095" type="corner_kick" time="2014-06-23T20:46:17Z" updated_time="2014-06-23T20:46:17Z" scratch="false" x="5" y="90" clock="45" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="f53e4f6c-d42f-4ebb-be90-e406416ba0af" type="period_over" time="2014-06-23T20:46:27Z" updated_time="2014-06-23T20:46:27Z" scratch="false" home_score="1" away_score="2" period="P1">
+          <description>The first-half is over at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="6683d6a8-b7f1-4075-a9ff-462296638008" type="shot_on_target" time="2014-06-23T21:05:52Z" updated_time="2014-06-23T21:05:52Z" scratch="false" x="6" y="90" clock="47" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6">
+          <description>Brazil's Fred is on target but unsuccessful.</description>
+        </fact>
+        <fact id="13a97471-5efa-4d54-b166-b346a1acbdac" type="free_kick" time="2014-06-23T21:06:07Z" updated_time="2014-06-23T21:06:07Z" scratch="false" x="22" y="82" clock="47" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Free kick Brazil.</description>
+        </fact>
+        <fact id="7d2890b9-9553-4d15-874c-c838069dde41" type="corner_kick" time="2014-06-23T21:05:59Z" updated_time="2014-06-23T21:05:59Z" scratch="false" x="5" y="90" clock="48" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have been awarded a corner by Jonas Eriksson.</description>
+        </fact>
+        <fact id="aecf9435-1595-4042-b3a9-2f26e676b79b" type="keeper_save" time="2014-06-23T21:07:11Z" updated_time="2014-06-23T21:07:11Z" scratch="false" x="6" y="1" clock="48" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="5bae06b2-4c2b-4a3e-b74d-5c1533eb1740" type="shot_on_target" time="2014-06-23T21:07:11Z" updated_time="2014-06-23T21:07:11Z" scratch="false" x="6" y="1" clock="49" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar for Brazil drives towards goal at Estadio Nacional de Brasilia . But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="0e446279-8ba2-4937-8d98-e3a3ae906816" type="corner_kick" time="2014-06-23T21:07:20Z" updated_time="2014-06-23T21:07:20Z" scratch="false" x="5" y="5" clock="49" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="ea5eaadb-90de-4f3f-8279-0765451b63d2" type="shot_blocked" time="2014-06-23T21:07:28Z" updated_time="2014-06-23T21:07:28Z" scratch="false" x="20" y="56" clock="49" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil's Oscar gets in a shot but it is blocked by a Cameroon defender.</description>
+        </fact>
+        <fact id="55a409c8-47e5-429f-be53-bf933fb245a6" type="goal" time="2014-06-23T21:07:54Z" updated_time="2014-06-23T21:07:54Z" scratch="false" x="15" y="53" clock="49" home_score="1" away_score="3" penalty="false" owngoal="false" header="true" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="5aa9e34d-b019-40e8-8c61-a07c14bd0bd6" assist1_id="70edfb19-0496-4821-bf6a-c839057c10d2">
+          <description>David Luiz instrumental with a fine assist.</description>
+        </fact>
+        <fact id="4f0b7c2a-e594-464b-8ea0-55802d93791b" type="throwin" time="2014-06-23T21:09:03Z" updated_time="2014-06-23T21:09:03Z" scratch="false" x="55" y="2" clock="50" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="cebc213a-526a-4738-adc4-f5040ddadd8d" type="throwin" time="2014-06-23T21:09:27Z" updated_time="2014-06-23T21:09:27Z" scratch="false" x="15" y="2" clock="50" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a dangerous throw-in.</description>
+        </fact>
+        <fact id="0e2c8f41-34e3-4d55-b20b-a982402a3271" type="free_kick" time="2014-06-23T21:09:39Z" updated_time="2014-06-23T21:09:39Z" scratch="false" x="15" y="2" clock="50" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="fed45472-7faa-469b-9ea0-3cb3eeee04bb" type="throwin" time="2014-06-23T21:10:24Z" updated_time="2014-06-23T21:10:24Z" scratch="false" x="52" y="1" clock="51" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="722cbd79-ca82-4d1a-9824-f9c8f4f719d8" type="free_kick" time="2014-06-23T21:11:43Z" updated_time="2014-06-23T21:11:43Z" scratch="false" x="80" y="55" clock="52" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="54a6e2aa-6141-4e53-8ee5-b37f33754857" type="throwin" time="2014-06-23T21:12:25Z" updated_time="2014-06-23T21:12:25Z" scratch="false" x="13" y="1" clock="53" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Throw-in Cameroon.</description>
+        </fact>
+        <fact id="72e1b498-0dd9-4774-9c91-313bd6994f38" type="throwin" time="2014-06-23T21:12:35Z" updated_time="2014-06-23T21:12:35Z" scratch="false" x="28" y="1" clock="53" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Throw-in for Cameroon at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="7f1f85b9-4c26-4be8-8079-c5fa988e73e9" type="game_resumed" time="2014-06-23T21:13:35Z" updated_time="2014-06-23T21:13:35Z" scratch="false" clock="54">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="cdcd4bba-35ee-43a8-9ae8-2962c0c9e3b7" type="throwin" time="2014-06-23T21:13:42Z" updated_time="2014-06-23T21:13:42Z" scratch="false" x="70" y="99" clock="54" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Can Cameroon get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="d0c2f01a-37e1-4c6a-a803-7b47f5c2ce70" type="injury" time="2014-06-23T21:13:03Z" updated_time="2014-06-23T21:13:03Z" scratch="false" x="28" y="1" clock="55" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="06a36dff-a61b-4f27-8265-7d2f7902e5b3">
+          <description>Play has been temporarily suspended for attention to Henri Bedimo for Cameroon who is writhing in pain on the pitch.</description>
+        </fact>
+        <fact id="9dfb6b72-899f-4cec-9719-3c2e19fe8339" type="throwin" time="2014-06-23T21:14:13Z" updated_time="2014-06-23T21:14:13Z" scratch="false" x="71" y="1" clock="55" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="59cfe315-68d7-4839-872b-18fd634fc1c7" type="injury_return" time="2014-06-23T21:14:19Z" updated_time="2014-06-23T21:14:19Z" scratch="false" clock="55" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="06a36dff-a61b-4f27-8265-7d2f7902e5b3">
+          <description>Henri Bedimo has recovered and rejoins the match in Brasilia.</description>
+        </fact>
+        <fact id="c35c72ba-1a0e-410f-9a07-a9d070992016" type="throwin" time="2014-06-23T21:14:36Z" updated_time="2014-06-23T21:14:36Z" scratch="false" x="42" y="1" clock="55" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a Brazil throw-in in Cameroon's half.</description>
+        </fact>
+        <fact id="709a0cd8-ef01-4cfe-a77b-de85907c5941" type="free_kick" time="2014-06-23T21:15:19Z" updated_time="2014-06-23T21:15:19Z" scratch="false" x="39" y="45" clock="56" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="adde86b4-5b28-44ab-a872-31befe161a5f" type="shot_blocked" time="2014-06-23T21:15:49Z" updated_time="2014-06-23T21:15:49Z" scratch="false" x="16" y="23" clock="57" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil drive upfield and Hulk gets in a shot. The strike is blocked by a Cameroon defender.</description>
+        </fact>
+        <fact id="aff4742d-6f61-4551-ae05-287d8dd9a956" type="goal_kick" time="2014-06-23T21:16:01Z" updated_time="2014-06-23T21:16:01Z" scratch="false" x="5" y="50" clock="57" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon have a goal kick.</description>
+        </fact>
+        <fact id="efe7a393-44de-46f4-ab51-dc1dd70dd95f" type="free_kick" time="2014-06-23T21:16:30Z" updated_time="2014-06-23T21:16:30Z" scratch="false" x="63" y="31" clock="57" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Free kick Cameroon.</description>
+        </fact>
+        <fact id="f180c33a-814a-4f4c-a048-b05a22f779dc" type="substitution" time="2014-06-23T21:16:53Z" updated_time="2014-06-23T21:16:53Z" scratch="false" clock="58" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_out_id="212debd9-ee8a-4f59-bb7c-7976be856fa7" player_in_id="e12def4f-9980-4d04-85d4-45b09326998a">
+          <description>Cameroon make their first substitution with Edgar Salli replacing Benjamin Moukandjo.</description>
+        </fact>
+        <fact id="0a73675f-cceb-4b1d-ac04-2fa46262dab0" type="throwin" time="2014-06-23T21:17:13Z" updated_time="2014-06-23T21:17:13Z" scratch="false" x="92" y="1" clock="58" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="de583a46-2544-4c3e-b80b-54d032435a00" type="throwin" time="2014-06-23T21:17:28Z" updated_time="2014-06-23T21:17:28Z" scratch="false" x="64" y="1" clock="58" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil in their own half.</description>
+        </fact>
+        <fact id="f2ce1867-1c4f-4818-be20-7e75bdd87629" type="free_kick" time="2014-06-23T21:18:18Z" updated_time="2014-06-23T21:18:18Z" scratch="false" x="35" y="11" clock="59" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="8f247c98-5d79-415a-a585-267f30506554" type="throwin" time="2014-06-23T21:18:38Z" updated_time="2014-06-23T21:18:38Z" scratch="false" x="21" y="2" clock="59" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Throw-in for Cameroon at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="c66f1a75-8a9a-4479-98c2-c7443acb26c6" type="free_kick" time="2014-06-23T21:18:48Z" updated_time="2014-06-23T21:18:48Z" scratch="false" x="44" y="22" clock="60" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c6da0be0-cd45-46fe-b1fe-29662e466cb7" type="goal_kick" time="2014-06-23T21:19:43Z" updated_time="2014-06-23T21:19:43Z" scratch="false" x="5" y="50" clock="60" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon have a goal kick.</description>
+        </fact>
+        <fact id="c3c560a5-5509-46cb-8b62-cd98ffe581fa" type="throwin" time="2014-06-23T21:20:04Z" updated_time="2014-06-23T21:20:04Z" scratch="false" x="31" y="1" clock="61" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="5876c4b1-776c-464a-a024-00a990801247" type="throwin" time="2014-06-23T21:20:14Z" updated_time="2014-06-23T21:20:14Z" scratch="false" x="60" y="2" clock="61" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon to take a throw-in in Brazil territory.</description>
+        </fact>
+        <fact id="66c6bce1-8c6e-4ed4-a6a0-17da851d7f1e" type="free_kick" time="2014-06-23T21:20:20Z" updated_time="2014-06-23T21:20:20Z" scratch="false" x="60" y="33" clock="61" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Free kick Cameroon.</description>
+        </fact>
+        <fact id="aa9aff43-ec9b-4aca-b2d4-b86e959a0a78" type="throwin" time="2014-06-23T21:21:14Z" updated_time="2014-06-23T21:21:14Z" scratch="false" x="62" y="1" clock="62" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Can Cameroon get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="6e3abea6-c86f-4436-b16e-bd9f2b739006" type="substitution" time="2014-06-23T21:21:31Z" updated_time="2014-06-23T21:21:31Z" scratch="false" clock="63" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="35b62918-6ee1-41c1-8272-ff02318e4189" player_in_id="4f4b810b-3f0c-41f1-b821-643b86197b41">
+          <description>Brazil make their second substitution with Ramires replacing Hulk.</description>
+        </fact>
+        <fact id="ee2913ef-a64d-45ef-8852-b3923a416af1" type="throwin" time="2014-06-23T21:22:44Z" updated_time="2014-06-23T21:22:44Z" scratch="false" x="48" y="1" clock="63" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Ball safe as Cameroon is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="3e2f4102-2b96-4ea7-b996-7b0376eec690" type="throwin" time="2014-06-23T21:23:15Z" updated_time="2014-06-23T21:23:15Z" scratch="false" x="64" y="99" clock="64" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a Cameroon throw-in in Brazil's half.</description>
+        </fact>
+        <fact id="c53cc53d-1c37-4bf8-9b20-86564bb97e3a" type="shot_off_target" time="2014-06-23T21:23:33Z" updated_time="2014-06-23T21:23:33Z" scratch="false" x="86" y="61" clock="65" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="43c3ef1b-86a4-406c-a1d3-3ebdd2557d7d">
+          <description>Stephane M'Bia for Cameroon gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="b55620ea-6880-423b-bf64-bf8b3240c9fa" type="goal_kick" time="2014-06-23T21:23:33Z" updated_time="2014-06-23T21:23:33Z" scratch="false" x="95" y="50" clock="65" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball goes out of play for a Brazil goal kick.</description>
+        </fact>
+        <fact id="84c26c03-b5f0-4f4c-9461-f5e8f0266032" type="free_kick" time="2014-06-23T21:24:30Z" updated_time="2014-06-23T21:24:30Z" scratch="false" x="30" y="99" clock="65" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a free kick to Cameroon in their own half.</description>
+        </fact>
+        <fact id="2cb996a3-c423-4432-a66d-eefa77004d39" type="throwin" time="2014-06-23T21:25:07Z" updated_time="2014-06-23T21:25:07Z" scratch="false" x="72" y="1" clock="66" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in Brazil.</description>
+        </fact>
+        <fact id="e6831b7d-e3d1-45b7-9bc3-799eda4c9c61" type="offside" time="2014-06-23T21:25:40Z" updated_time="2014-06-23T21:25:49Z" scratch="false" x="7" y="19" clock="67" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Brazil's Neymar is whistled for offside at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="0f7035b5-b77c-4bdf-b720-7fa19eb2a07d" type="throwin" time="2014-06-23T21:26:12Z" updated_time="2014-06-23T21:26:12Z" scratch="false" x="62" y="2" clock="67" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="fed6658a-3a25-4444-97b9-671e74d4af0f" type="throwin" time="2014-06-23T21:26:55Z" updated_time="2014-06-23T21:26:55Z" scratch="false" x="44" y="99" clock="68" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a Brazil throw-in in Cameroon's half.</description>
+        </fact>
+        <fact id="cb41a683-0376-4331-8b85-208a7214c900" type="throwin" time="2014-06-23T21:28:44Z" updated_time="2014-06-23T21:28:44Z" scratch="false" x="70" y="2" clock="69" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball safe as Brazil is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="d5b31790-b6be-4dfc-b9d9-efd84f37a563" type="injury" time="2014-06-23T21:28:51Z" updated_time="2014-06-23T21:28:51Z" scratch="false" x="40" y="49" clock="70" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="423e9818-7882-422f-bd8c-babf53135cfc">
+          <description>Neymar is writhing in pain and play has been suspended for a few moments.</description>
+        </fact>
+        <fact id="b89eaf92-71ee-4408-8495-fceb245f2fc7" type="game_resumed" time="2014-06-23T21:29:35Z" updated_time="2014-06-23T21:29:35Z" scratch="false" clock="70">
+          <description>Play is underway once more.</description>
+        </fact>
+        <fact id="32cfc643-9419-4cb6-95d4-daeb5a58a499" type="substitution" time="2014-06-23T21:29:34Z" updated_time="2014-06-23T21:29:34Z" scratch="false" clock="71" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_out_id="423e9818-7882-422f-bd8c-babf53135cfc" player_in_id="2be00660-77db-4c8e-b704-f0ec23bf6564">
+          <description>Willian (Brazil) has replaced the possibly injured Neymar at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="31b6293e-1d58-4dd2-aeb0-04225fa77249" type="free_kick" time="2014-06-23T21:30:47Z" updated_time="2014-06-23T21:30:47Z" scratch="false" x="29" y="37" clock="71" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil.</description>
+        </fact>
+        <fact id="2140538b-17df-43ee-90e4-05b0e6c25f32" type="free_kick" time="2014-06-23T21:32:28Z" updated_time="2014-06-23T21:32:28Z" scratch="false" x="63" y="35" clock="73" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff"/>
+        <fact id="18a05b9b-3381-4aff-a86d-1f13ab9ddc5a" type="substitution" time="2014-06-23T21:31:55Z" updated_time="2014-06-23T21:31:55Z" scratch="false" clock="74" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_out_id="f8cfb4d9-011d-46b7-b4c3-3ef3c9b6189b" player_in_id="67ee093e-13ae-499f-9f8a-b64a6a414aae">
+          <description>Volker Finke (Cameroon) is making a second substitution, with Pierre Webo replacing Vincent Aboubakar.</description>
+        </fact>
+        <fact id="a255c2eb-74bb-4560-8585-addf14fb88b6" type="free_kick" time="2014-06-23T21:33:44Z" updated_time="2014-06-23T21:33:44Z" scratch="false" x="15" y="81" clock="74" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="00d83b76-c987-459c-b98a-4fce566c3322" type="throwin" time="2014-06-23T21:34:22Z" updated_time="2014-06-23T21:34:22Z" scratch="false" x="34" y="1" clock="75" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Throw-in for Cameroon in their own half.</description>
+        </fact>
+        <fact id="e96ceada-b852-47a7-a444-4e4a469942d1" type="throwin" time="2014-06-23T21:34:41Z" updated_time="2014-06-23T21:34:41Z" scratch="false" x="42" y="2" clock="75" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="ad4c803d-57f5-414d-a207-0ca28e0a3851" type="card" time="2014-06-23T21:35:40Z" updated_time="2014-06-23T21:36:43Z" scratch="false" clock="77" card="Y" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="e12def4f-9980-4d04-85d4-45b09326998a">
+          <description>Edgar Salli for Cameroon has been booked by Jonas Eriksson and receives a first yellow card.</description>
+        </fact>
+        <fact id="22019f00-f6b0-48ac-a442-74ce07b6a662" type="throwin" time="2014-06-23T21:36:00Z" updated_time="2014-06-23T21:36:00Z" scratch="false" x="39" y="98" clock="77" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil to take a throw-in in Cameroon territory.</description>
+        </fact>
+        <fact id="e815a7b2-f51a-45d8-ad13-8683d7aa1490" type="throwin" time="2014-06-23T21:36:27Z" updated_time="2014-06-23T21:36:27Z" scratch="false" x="56" y="98" clock="77" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Can Cameroon get the ball into an attacking position from this throw-in in Brazil's half?</description>
+        </fact>
+        <fact id="514cfbec-d788-4238-96d1-505d82b24e0b" type="goal_kick" time="2014-06-23T21:37:32Z" updated_time="2014-06-23T21:37:32Z" scratch="false" x="5" y="50" clock="78" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Goal kick for Cameroon at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="b6c95998-8c4c-4e7e-a072-e636cb31c1f9" type="card" time="2014-06-23T21:38:20Z" updated_time="2014-06-23T21:38:20Z" scratch="false" clock="80" card="Y" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="43c3ef1b-86a4-406c-a1d3-3ebdd2557d7d">
+          <description>Stephane M'Bia (Cameroon) gets a yellow card.</description>
+        </fact>
+        <fact id="1e202b41-b44a-4368-95f9-3f0ddc29a0ca" type="substitution" time="2014-06-23T21:38:57Z" updated_time="2014-06-23T21:38:57Z" scratch="false" clock="81" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_out_id="3d32fe26-bde1-4033-8518-04b3d6eb4242" player_in_id="392419fc-2f75-4e49-8997-0cd1d77b1043">
+          <description>Jean Makoun is on a sub for Eric Maxim Choupo Moting for Cameroon.</description>
+        </fact>
+        <fact id="b3a33025-03d1-4dbb-b76d-273e9ea63fe8" type="game_resumed" time="2014-06-23T21:40:17Z" updated_time="2014-06-23T21:40:17Z" scratch="false" clock="81">
+          <description>Jonas Eriksson has blown to resume play in Brasilia.</description>
+        </fact>
+        <fact id="01f7acb9-d786-4146-980b-84ab1529d51d" type="injury" time="2014-06-23T21:40:03Z" updated_time="2014-06-23T21:40:03Z" scratch="false" x="37" y="49" clock="82" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="0957db74-9775-4dc9-9cc1-df3d48bb2c93">
+          <description>The match has been stopped briefly for attention to the injured Luiz Gustavo.</description>
+        </fact>
+        <fact id="0e5ea742-7e84-4d6a-8b1b-64a9ef24ae62" type="shot_blocked" time="2014-06-23T21:40:34Z" updated_time="2014-06-23T21:40:34Z" scratch="false" x="4" y="91" clock="82" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Dani Alves (Brazil) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="47186d86-fca9-4e3c-ba36-7a0ae82cdb1a" type="corner_kick" time="2014-06-23T21:40:54Z" updated_time="2014-06-23T21:40:54Z" scratch="false" x="5" y="90" clock="82" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Corner awarded to Brazil.</description>
+        </fact>
+        <fact id="e1705d2d-6068-4c18-93e1-fa3dd853c8d1" type="injury_return" time="2014-06-23T21:41:32Z" updated_time="2014-06-23T21:41:32Z" scratch="false" clock="82" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="0957db74-9775-4dc9-9cc1-df3d48bb2c93">
+          <description>Luiz Gustavo returns to the field for Brazil after picking up a slight injury.</description>
+        </fact>
+        <fact id="c1079eec-4629-4678-a242-ccd5a18d690c" type="injury_return" time="2014-06-23T21:41:39Z" updated_time="2014-06-23T21:41:39Z" scratch="false" clock="82" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="429422e7-ce63-4658-8736-837e1c32a615" type="game_resumed" time="2014-06-23T21:41:45Z" updated_time="2014-06-23T21:41:45Z" scratch="false" clock="82">
+          <description>The match in Brasilia is underway once more.</description>
+        </fact>
+        <fact id="f928c5cd-802b-4077-b109-948910eb38dd" type="shot_blocked" time="2014-06-23T21:41:07Z" updated_time="2014-06-23T21:41:11Z" scratch="false" x="22" y="45" clock="83" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil push forward at Estadio Nacional de Brasilia  and Ramires gets in a strike. This is blocked, however, by a determined Cameroon defence.</description>
+        </fact>
+        <fact id="401d94a3-1722-4df8-bb2a-8302a834497f" type="injury" time="2014-06-23T21:41:19Z" updated_time="2014-06-23T21:41:19Z" scratch="false" x="29" y="62" clock="83" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="b7e5f626-8ecb-4c36-baae-d38b4fc9ec9e" type="throwin" time="2014-06-23T21:41:56Z" updated_time="2014-06-23T21:41:56Z" scratch="false" x="57" y="99" clock="83" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="e3966755-be6d-4992-b169-d21cb22c0d7e" type="offside" time="2014-06-23T21:42:30Z" updated_time="2014-06-23T21:43:03Z" scratch="false" x="15" y="86" clock="84" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="2c674fe0-d706-4450-bf33-2e747265fbbf">
+          <description>Oscar of Brazil is pulled up for offside.</description>
+        </fact>
+        <fact id="ef57c329-7722-4279-a43a-6bd341ccd443" type="goal" time="2014-06-23T21:42:51Z" updated_time="2014-06-23T21:42:51Z" scratch="false" clock="84" home_score="1" away_score="4" penalty="false" owngoal="false" header="false" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="1e95784a-bdbc-4f6f-a828-9d79d3dcb851" assist1_id="2c674fe0-d706-4450-bf33-2e747265fbbf">
+          <description>Great play from Oscar to set up the goal.</description>
+        </fact>
+        <fact id="5621ebc6-7c73-437f-b2cb-3b4f68758f5f" type="free_kick" time="2014-06-23T21:44:17Z" updated_time="2014-06-23T21:44:17Z" scratch="false" x="60" y="54" clock="85" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a free kick to Cameroon.</description>
+        </fact>
+        <fact id="e8da6068-ed33-40d9-9c0e-73f03d99e3ff" type="free_kick" time="2014-06-23T21:45:40Z" updated_time="2014-06-23T21:45:40Z" scratch="false" x="66" y="40" clock="86" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Free kick Cameroon.</description>
+        </fact>
+        <fact id="ac469baa-cb05-4b73-a774-c9aa2fb96da6" type="shot_off_target" time="2014-06-23T21:45:13Z" updated_time="2014-06-23T21:45:13Z" scratch="false" x="77" y="56" clock="87" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" player_id="078f7cbd-df36-405c-805a-f6f5d76c77fa">
+          <description>In Brasilia Cameroon attack through Landry N'Guemo. The finish is off target, however.</description>
+        </fact>
+        <fact id="17744954-eb1e-4a80-b9c0-b640a3f82adf" type="goal_kick" time="2014-06-23T21:45:13Z" updated_time="2014-06-23T21:45:13Z" scratch="false" x="95" y="50" clock="87" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson awards Brazil a goal kick.</description>
+        </fact>
+        <fact id="cb586791-4fbe-4323-8f12-f27ebf746237" type="free_kick" time="2014-06-23T21:46:37Z" updated_time="2014-06-23T21:46:37Z" scratch="false" x="34" y="40" clock="87" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a free kick to Cameroon in their own half.</description>
+        </fact>
+        <fact id="5b760574-5a93-41d0-b294-5ed0f7fa8e9c" type="free_kick" time="2014-06-23T21:47:45Z" updated_time="2014-06-23T21:47:45Z" scratch="false" x="60" y="42" clock="88" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Jonas Eriksson signals a free kick to Cameroon.</description>
+        </fact>
+        <fact id="a0fbaf81-5c72-417b-8165-7c02634e12f3" type="throwin" time="2014-06-23T21:48:07Z" updated_time="2014-06-23T21:48:07Z" scratch="false" x="81" y="1" clock="89" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Throw-in for Brazil at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="21ef06da-efac-46ca-9d25-87e4c19bf6b7" type="free_kick" time="2014-06-23T21:48:35Z" updated_time="2014-06-23T21:48:35Z" scratch="false" x="86" y="13" clock="89" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Jonas Eriksson signals a free kick to Brazil in their own half.</description>
+        </fact>
+        <fact id="432f6dd0-3622-473c-a4c9-98c46cfbc1d2" type="injury_time" time="2014-06-23T21:48:56Z" updated_time="2014-06-23T21:48:56Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>The fourth official's board shows 4 minutes, which will be added to the second half.</description>
+        </fact>
+        <fact id="33a7c5aa-419a-4483-b5ea-7b5cb7184490" type="free_kick" time="2014-06-23T21:49:09Z" updated_time="2014-06-23T21:49:09Z" scratch="false" x="35" y="18" clock="90" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Cameroon awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="efe38b88-5cb6-4422-9b7d-1c396e875428" type="throwin" time="2014-06-23T21:49:50Z" updated_time="2014-06-23T21:49:50Z" scratch="false" x="81" y="1" clock="90" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Ball safe as Brazil is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="8ac1c336-8b4f-4917-9101-6214e0d2671a" type="shot_on_target" time="2014-06-23T21:50:14Z" updated_time="2014-06-23T21:50:19Z" scratch="false" x="20" y="71" clock="90" injury_time="1" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" player_id="2be00660-77db-4c8e-b704-f0ec23bf6564">
+          <description>Willian gets his shot on target but fails to score for Brazil.</description>
+        </fact>
+        <fact id="3235c196-d2b3-4438-b3e6-0a7bf0c0f30e" type="keeper_save" time="2014-06-23T21:50:14Z" updated_time="2014-06-23T21:50:14Z" scratch="false" x="20" y="71" clock="90" injury_time="1" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="057713c3-c2a9-4848-88b3-94c003f7e8fa" type="free_kick" time="2014-06-23T21:51:25Z" updated_time="2014-06-23T21:51:25Z" scratch="false" x="64" y="63" clock="90" injury_time="2" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff">
+          <description>Free kick Cameroon.</description>
+        </fact>
+        <fact id="564ebb27-f7fb-4e75-8bde-9c9cfa176db8" type="shot_off_target" time="2014-06-23T21:51:50Z" updated_time="2014-06-23T21:51:50Z" scratch="false" x="78" y="51" clock="90" injury_time="3" team_id="9947cfb1-6a86-4f8f-9330-9b21af2553ff"/>
+        <fact id="0f31caa6-d3b2-4fce-87c4-07a3a29d21ef" type="goal_kick" time="2014-06-23T21:51:50Z" updated_time="2014-06-23T21:51:50Z" scratch="false" x="95" y="50" clock="90" injury_time="3" team_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff">
+          <description>Brazil have a goal kick.</description>
+        </fact>
+        <fact id="43d9d01b-6157-4235-9a4d-71e8dd829e5a" type="period_over" time="2014-06-23T21:53:00Z" updated_time="2014-06-23T21:53:00Z" scratch="false" home_score="1" away_score="4" period="P2">
+          <description>That's full-time at Estadio Nacional de Brasilia . The final score is 1-4.</description>
+        </fact>
+        <fact id="8b0418c4-72d2-4c98-a1a0-4557f0ef12cf" type="match_ended" time="2014-06-23T21:53:00Z" updated_time="2014-06-23T21:53:00Z" scratch="false" home_score="1" away_score="4" winner_id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" draw="false"/>
+      </facts>
+      <!-- 4768718/4751/4748 -->
+    </match>
+  </matches>
+</summary>

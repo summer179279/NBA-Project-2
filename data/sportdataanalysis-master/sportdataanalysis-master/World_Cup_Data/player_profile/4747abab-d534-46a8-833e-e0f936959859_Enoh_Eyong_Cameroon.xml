@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:30:39Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="4747abab-d534-46a8-833e-e0f936959859" country_code="CMR" preferred_foot="B" height_in="70" weight_lb="167" height_cm="177" weight_kg="75" first_name="Enoh" last_name="Eyong" country="Cameroon">
+    <teams>
+      <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" country_code="CMR" position="M" is_manager="false" is_player="true" country="Cameroon" jersey_number="18"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="1" matches_started="0" minutes_played="90" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="2b2c2a26-29f3-403f-beba-854f76fc979b" name="WC Qualification"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="9947cfb1-6a86-4f8f-9330-9b21af2553ff" name="Cameroon" alias="CMR" country_code="CMR" country="Cameroon" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="369" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="cc4b58e2-9d0d-4a0b-a189-0f10d4e4f0ff" name="Turkiye Kupasi"/>
+          <team id="4006e7b9-f06b-4b00-9b0c-0612136fe616" name="Antalyaspor" alias="ANT" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="-1" matches_started="0" minutes_played="0" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="c064795b-be1e-45f8-9727-28c7e00cbaef" name="Eredivisie"/>
+          <team id="124dd458-7513-4e7a-bfb3-b9617f6ca979" name="Ajax Amsterdam" alias="AJA" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="8" matches_started="0" minutes_played="720" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig"/>
+          <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig"/>
+          <team id="4006e7b9-f06b-4b00-9b0c-0612136fe616" name="Antalyaspor" alias="ANT" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="9" matches_started="0" minutes_played="782" yellow_cards="3" yellow_red_cards="-1" red_cards="1" substitutions_out="1" substitutions_in="-1">
+          <category id="77796062-f516-4e20-bc29-4fb6fba605b3" name="Netherlands" country_code="NLD" country="Netherlands"/>
+          <tournament_group id="ff14a3ef-bfd8-4e48-a24c-369c89fb0f31" name="Eerste Divisie"/>
+          <tournament id="18493e74-b61e-4964-88c1-0fd035b3829a" name="Eerste Divisie"/>
+          <team id="c2d54d54-853c-483a-b5be-06783a9cda4b" name="Jong Ajax" alias="" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 42360/1405922575 -->
+  </player>
+</profile>

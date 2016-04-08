@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:29:42Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="863b9a76-ce3b-497b-9aaa-0e0a57fee6af" country_code="AUS" preferred_foot="R" height_in="70" weight_lb="149" height_cm="177" weight_kg="67" first_name="Tim" last_name="Cahill" country="Australia">
+    <teams>
+      <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" country_code="AUS" position="M" is_manager="false" is_player="true" country="Australia" jersey_number="4"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="16" matches_started="0" minutes_played="978" yellow_cards="4" yellow_red_cards="-1" red_cards="-1" substitutions_out="4" substitutions_in="4">
+          <category id="dfc18161-31f9-4fca-8d6b-8d6df641c6fc" name="USA" country_code="USA" country="United States"/>
+          <tournament_group id="b4360831-aaa9-46a4-8319-62006d308eb6" name="Major League Soccer"/>
+          <team id="443f4c7c-4a1e-4062-b04d-d3fcfec9838b" name="NY Red Bulls" alias="NYRB" country_code="USA" country="United States" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="159" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="258" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="13b1a427-d0ff-4e29-87e2-0ef224ea6be6" name="WC Qualification"/>
+          <team id="1db0a670-8394-49f4-9049-d0ef1dfdce12" name="Australia" alias="AUS" country_code="AUS" country="Australia" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 1158/1405922838 -->
+  </player>
+</profile>

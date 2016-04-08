@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-17 14:10:51 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="e3848f10-1f5a-4feb-b2ad-0b4dce9b1209" status="ACT" full_name="Chris Johnson" first_name="Chris" last_name="Johnson" abbr_name="C.Johnson" height="77" weight="200" position="F-G" primary_position="SF" jersey_number="12" college="Dayton" birth_place="Columbus, OH, USA" birthdate="1990-04-29" updated="2014-01-20T15:32:34+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" alias="BOS"/>
+  <draft year="2012"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" name="Celtics" market="Boston" alias="BOS">
+        <statistics>
+          <total games_played="40" games_started="0" minutes="789.0" field_goals_made="85" field_goals_att="214" three_points_made="43" three_points_att="127" blocked_att="14" free_throws_made="37" free_throws_att="43" offensive_rebounds="31" defensive_rebounds="66" assists="31" turnovers="22" steals="27" blocks="4" personal_fouls="63" tech_fouls="0" points="250" flagrant_fouls="0" free_throws_pct="0.86" two_points_pct="0.483" three_points_pct="0.339" field_goals_pct="0.397" rebounds="97" assists_turnover_ratio="1.41" two_points_made="42" two_points_att="87"/>
+          <average points="6.3" blocked_att="0.35" turnovers="0.55" free_throws_att="1.08" field_goals_att="5.35" off_rebounds="0.78" two_points_att="2.18" assists="0.8" blocks="0.1" personal_fouls="1.58" two_points_made="1.05" flagrant_fouls="0.0" rebounds="2.43" three_points_made="1.08" minutes="19.7" def_rebounds="1.65" free_throws_made="0.93" field_goals_made="2.13" steals="0.68" three_points_att="3.18"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-04-17 14:10:52 +0000 -->

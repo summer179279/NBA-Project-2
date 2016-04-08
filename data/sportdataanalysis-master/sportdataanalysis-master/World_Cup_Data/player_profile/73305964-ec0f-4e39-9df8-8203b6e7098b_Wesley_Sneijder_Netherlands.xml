@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:39:33Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="73305964-ec0f-4e39-9df8-8203b6e7098b" country_code="NLD" preferred_foot="B" height_in="66" weight_lb="147" height_cm="167" weight_kg="66" first_name="Wesley" last_name="Sneijder" country="Netherlands">
+    <teams>
+      <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" country_code="NLD" position="M" is_manager="false" is_player="true" country="Netherlands" jersey_number="10"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="243" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="4e838e41-dfb0-4c66-ab28-4be8855226f1" name="Int. Friendly Games"/>
+          <tournament id="a40e5021-b0cd-45ff-ba32-897b08dfa4f7" name="Int. Friendly Games"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="5" matches_started="0" minutes_played="465" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="6" matches_started="0" minutes_played="475" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="2" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="b09b64cc-6dc9-4504-862c-ba8f4e03aa98" name="WC Qualification"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="3" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="5" matches_started="0" minutes_played="383" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="cc4b58e2-9d0d-4a0b-a189-0f10d4e4f0ff" name="Turkiye Kupasi"/>
+          <team id="11940ded-4f34-49ee-a8dd-ea9402fb34df" name="Galatasaray Istanbul" alias="GAL" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="7" matches_started="0" minutes_played="541" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="3" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="11940ded-4f34-49ee-a8dd-ea9402fb34df" name="Galatasaray Istanbul" alias="GAL" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+        <statistic goals="12" goal_frequency="0" goal_average="0.0" goal_assists="4" matches_played="28" matches_started="0" minutes_played="2259" yellow_cards="5" yellow_red_cards="-1" red_cards="-1" substitutions_out="13" substitutions_in="-1">
+          <category id="9637e80b-096a-45bf-b4fa-59da8d456467" name="Turkey" country_code="TUR" country="Turkey"/>
+          <tournament_group id="fa9452f9-2b46-4975-8078-949418776dc9" name="Super Lig"/>
+          <tournament id="076c36b5-1ebd-48c3-a14b-c3e26c4198c8" name="Super Lig"/>
+          <team id="11940ded-4f34-49ee-a8dd-ea9402fb34df" name="Galatasaray Istanbul" alias="GAL" country_code="TUR" country="Turkey" type="team"/>
+        </statistic>
+      </season>
+      <season year="2012">
+        <statistic goals="-1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="000c0de7-6108-4093-be68-7e11d4f5123c" name="European Championship"/>
+          <tournament id="79191d6a-e1ba-45bc-ab6f-ecbf344a1c06" name="Euro Cup"/>
+          <team id="ba9f498e-de99-4d04-9d58-8cbf633bcdd6" name="Netherlands" alias="NED" country_code="NLD" country="Netherlands" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 1934/1405922607 -->
+  </player>
+</profile>

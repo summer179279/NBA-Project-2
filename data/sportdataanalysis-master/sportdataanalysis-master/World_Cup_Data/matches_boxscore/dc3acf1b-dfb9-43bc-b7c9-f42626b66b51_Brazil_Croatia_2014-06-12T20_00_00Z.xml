@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:32:48Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="dc3acf1b-dfb9-43bc-b7c9-f42626b66b51" status="closed" scratched="false" period="P2" scheduled="2014-06-12T20:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="43462e5c-730c-4353-803f-e3b2255ac38f" name="World Cup, Group A"/>
+      <round week="24" number="1" type="table"/>
+      <home id="8b2154a5-d837-451b-a7f1-8cf06cfaa2ff" name="Brazil" alias="BRA" country_code="BRA" country="Brazil" type="team" formation="4-2-3-1" score="3" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="83" ball_safe="80" corner_kicks="7" dangerous_attacks="48" fouls="5" free_kicks="20" goal_attempts="10" goal_kicks="7" offsides="1" saves="3" shots_total="10" substitutions="3" throw_ins="31" yellow_card="2" shots_on_target="6" shots_off_target="4" possessions="60"/>
+      </home>
+      <away id="4305ef43-d8e4-401b-916f-9a32cbcc9ade" name="Croatia" alias="CRO" country_code="HRV" country="Croatia" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="66" ball_safe="72" corner_kicks="3" dangerous_attacks="29" fouls="20" free_kicks="6" goal_attempts="9" goal_kicks="9" offsides="0" saves="3" shots_total="9" substitutions="2" throw_ins="31" yellow_card="2" shots_on_target="3" shots_off_target="6" possessions="40"/>
+      </away>
+      <venue id="30187cc4-ce5e-4f7c-8b21-4c11f73bd0fc" name="Arena de Sao Paulo " country_code="BRA" city="Sao Paulo" capacity="62601" country="Brazil" coordinates="-23.545531,-46.473372"/>
+      <!-- 4768710/4748/4715 -->
+    </match>
+  </matches>
+</boxscore>

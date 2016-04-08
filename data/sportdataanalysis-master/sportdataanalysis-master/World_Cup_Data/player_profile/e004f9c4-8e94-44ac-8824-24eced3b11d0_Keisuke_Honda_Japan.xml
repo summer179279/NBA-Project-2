@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2014-07-21T06:31:36Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/players-profile.xsd">
+  <player id="e004f9c4-8e94-44ac-8824-24eced3b11d0" country_code="JPN" preferred_foot="L" height_in="71" weight_lb="167" height_cm="180" weight_kg="75" first_name="Keisuke" last_name="Honda" country="Japan">
+    <teams>
+      <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" country_code="JPN" position="M" is_manager="false" is_player="true" country="Japan" jersey_number="4"/>
+    </teams>
+    <statistics>
+      <season year="2014">
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="3" matches_started="0" minutes_played="270" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="-1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+          <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team"/>
+        </statistic>
+      </season>
+      <season year="2013">
+        <statistic goals="2" goal_frequency="0" goal_average="0.0" goal_assists="2" matches_played="6" matches_started="0" minutes_played="477" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="c4ef0886-dfee-4725-81eb-1bb919be832a" name="International Clubs" country_code="XZ" country="International"/>
+          <tournament_group id="7a480297-4942-4426-ba1d-a37284fe4dc2" name="UEFA Champions League"/>
+          <team id="7c438e06-e68e-4e8b-93a9-5727f91b98ac" name="CSKA Moscow" alias="CSK" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="14" matches_started="0" minutes_played="982" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="6" substitutions_in="2">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="cd24a25b-3fc0-48fd-9c54-f793d51af976" name="Serie A"/>
+          <tournament id="4c08a075-b8a9-44ea-a1a0-7916ec5b472c" name="Serie A"/>
+          <team id="6bec4e87-66aa-4b83-a28a-1c37575784ab" name="AC Milan" alias="ACM" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="2" matches_started="0" minutes_played="72" yellow_cards="2" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="1">
+          <category id="9bec909e-600b-4891-8773-61532d0ecf84" name="Italy" country_code="ITA" country="Italy"/>
+          <tournament_group id="f1dcc4d9-fba5-481f-9bc4-3620f1d772cf" name="Coppa Italia"/>
+          <tournament id="f8bac078-4d26-4c88-bd19-35a2fc3c7ecb" name="Coppa Italia"/>
+          <team id="6bec4e87-66aa-4b83-a28a-1c37575784ab" name="AC Milan" alias="ACM" country_code="ITA" country="Italy" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="1" matches_played="18" matches_started="0" minutes_played="1529" yellow_cards="1" yellow_red_cards="-1" red_cards="-1" substitutions_out="5" substitutions_in="-1">
+          <category id="37ac0ccc-6dcc-4783-b5c5-0dd7e2b2e673" name="Russia" country_code="RUS" country="Russian Federation"/>
+          <tournament_group id="78c55c5a-0985-4c71-a52c-b047e535537c" name="Premier League"/>
+          <team id="7c438e06-e68e-4e8b-93a9-5727f91b98ac" name="CSKA Moscow" alias="CSK" country_code="RUS" country="Russian Federation" type="team"/>
+        </statistic>
+        <statistic goals="1" goal_frequency="0" goal_average="0.0" goal_assists="-1" matches_played="3" matches_started="0" minutes_played="268" yellow_cards="-1" yellow_red_cards="-1" red_cards="-1" substitutions_out="1" substitutions_in="-1">
+          <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+          <tournament_group id="f287e0ed-70ba-483d-be9c-3b0e763c5e7b" name="Confederations Cup"/>
+          <team id="d7a081db-1427-4144-ae22-94e8d24b1139" name="Japan" alias="JPN" country_code="JPN" country="Japan" type="team"/>
+        </statistic>
+      </season>
+    </statistics>
+    <!-- 24238/1405922550 -->
+  </player>
+</profile>

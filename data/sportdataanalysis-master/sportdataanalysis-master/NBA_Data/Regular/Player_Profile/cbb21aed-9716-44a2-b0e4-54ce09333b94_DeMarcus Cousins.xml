@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-17 05:20:50 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="cbb21aed-9716-44a2-b0e4-54ce09333b94" status="ACT" full_name="DeMarcus Cousins" first_name="DeMarcus" last_name="Cousins" abbr_name="D.Cousins" height="83" weight="270" position="C" primary_position="C" jersey_number="15" experience="3" college="Kentucky" birth_place="Mobile, AL, USA" birthdate="1990-08-13" updated="2014-03-05T18:59:46+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" alias="SAC"/>
+  <draft team_id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" year="2010" round="1" pick="5"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" alias="SAC">
+        <statistics>
+          <total games_played="71" games_started="71" minutes="2298.0" field_goals_made="591" field_goals_att="1191" three_points_made="0" three_points_att="7" blocked_att="108" free_throws_made="432" free_throws_att="595" offensive_rebounds="218" defensive_rebounds="613" assists="207" turnovers="251" steals="109" blocks="91" personal_fouls="270" tech_fouls="16" points="1614" flagrant_fouls="0" free_throws_pct="0.726" two_points_pct="0.499" three_points_pct="0.0" field_goals_pct="0.496" rebounds="831" assists_turnover_ratio="0.82" two_points_made="591" two_points_att="1184"/>
+          <average points="22.7" blocked_att="1.52" turnovers="3.54" free_throws_att="8.38" field_goals_att="16.77" off_rebounds="3.07" two_points_att="16.68" assists="2.9" blocks="1.28" personal_fouls="3.8" two_points_made="8.32" flagrant_fouls="0.0" rebounds="11.7" three_points_made="0.0" minutes="32.4" def_rebounds="8.63" free_throws_made="6.08" field_goals_made="8.32" steals="1.54" three_points_att="0.1"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-04-17 05:20:50 +0000 -->

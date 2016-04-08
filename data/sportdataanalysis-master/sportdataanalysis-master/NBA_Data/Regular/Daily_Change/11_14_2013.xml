@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2013-11-15 04:59:29 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2013-11-14T05:00:00+00:00" end_time="2013-11-15T04:59:59+00:00">
+    <profiles>
+      <players>
+        <player id="25c4a949-c310-4bd3-af3f-10441215b323" full_name="Markieff Morris" last_modified="2013-11-14T17:39:28+00:00"/>
+        <player id="2b93904c-7655-46fe-992e-66a6501edaac" full_name="Ryan Kelly" last_modified="2013-11-14T22:36:38+00:00"/>
+        <player id="4d7cb358-0fec-482f-9f57-92c39e8bf214" full_name="Marcus Morris" last_modified="2013-11-14T17:39:23+00:00"/>
+        <player id="c56ebb34-6a42-4e41-ae40-8b161f51950d" full_name="Elias Harris" last_modified="2013-11-14T22:36:47+00:00"/>
+        <player id="dfc59dd6-bf69-4ae7-a19a-0c8c851db4d8" full_name="Tyshawn Taylor" last_modified="2013-11-14T05:16:55+00:00"/>
+      </players>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="415f678a-7604-4f75-8531-3e565b94ce23" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-14T05:41:35+00:00"/>
+        <game id="56313c2c-b952-4d84-8342-ceb5b373fc92" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-14T05:36:02+00:00"/>
+        <game id="b852d71c-4cb6-419f-adf3-8d4ef75b8592" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-14T06:31:18+00:00"/>
+        <game id="bc8be33c-adc2-46bb-ad39-d68b68a5cd2c" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-15T03:56:10+00:00"/>
+        <game id="fde3d035-2ae1-40aa-9ea6-7e861a100d23" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2013-11-15T04:18:23+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="56313c2c-b952-4d84-8342-ceb5b373fc92" last_modified="2013-11-14T05:37:10+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="415f678a-7604-4f75-8531-3e565b94ce23" last_modified="2013-11-14T05:41:35+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="b852d71c-4cb6-419f-adf3-8d4ef75b8592" last_modified="2013-11-14T06:31:20+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="fde3d035-2ae1-40aa-9ea6-7e861a100d23" last_modified="2013-11-15T04:18:23+00:00"/>
+      </results>
+    </games>
+    <standings>
+      <team id="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" name="Knicks" market="New York" last_modified="2013-11-15T04:19:33+00:00"/>
+      <team id="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" name="Nets" market="Brooklyn" last_modified="2013-11-14T05:49:34+00:00"/>
+      <team id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" market="Houston" last_modified="2013-11-15T04:19:33+00:00"/>
+      <team id="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" name="Clippers" market="Los Angeles" last_modified="2013-11-14T06:39:30+00:00"/>
+      <team id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" name="Suns" market="Phoenix" last_modified="2013-11-14T05:39:33+00:00"/>
+      <team id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" name="Thunder" market="Oklahoma City" last_modified="2013-11-14T06:39:30+00:00"/>
+      <team id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" name="Trail Blazers" market="Portland" last_modified="2013-11-14T05:39:32+00:00"/>
+      <team id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" name="Kings" market="Sacramento" last_modified="2013-11-14T05:49:34+00:00"/>
+    </standings>
+  </changelog>
+</league>
+<!-- Generation ended @ 2013-11-15 04:59:29 +0000 -->

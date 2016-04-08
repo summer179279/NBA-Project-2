@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-18 22:20:51 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="11da94f7-02c0-4bc9-9da3-8e8994f46fb6" status="ACT" full_name="Gerald Green" first_name="Gerald" last_name="Green" abbr_name="G.Green" height="80" weight="210" position="G-F" primary_position="SG" jersey_number="14" experience="6" college="Gulf Shores Academy (TX)" birth_place="Houston, TX, USA" birthdate="1986-01-26" updated="2013-09-06T19:45:31+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" name="Suns" market="Phoenix" alias="PHX"/>
+  <draft team_id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" year="2005" round="1" pick="18"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" name="Suns" market="Phoenix" alias="PHX">
+        <statistics>
+          <total games_played="82" games_started="48" minutes="2330.0" field_goals_made="448" field_goals_att="1006" three_points_made="204" three_points_att="510" blocked_att="21" free_throws_made="195" free_throws_att="230" offensive_rebounds="48" defensive_rebounds="227" assists="122" turnovers="145" steals="70" blocks="42" personal_fouls="220" tech_fouls="9" points="1295" flagrant_fouls="0" free_throws_pct="0.848" two_points_pct="0.492" three_points_pct="0.4" field_goals_pct="0.445" rebounds="275" assists_turnover_ratio="0.84" two_points_made="244" two_points_att="496"/>
+          <average points="15.8" blocked_att="0.26" turnovers="1.77" free_throws_att="2.8" field_goals_att="12.27" off_rebounds="0.59" two_points_att="6.05" assists="1.5" blocks="0.51" personal_fouls="2.68" two_points_made="2.98" flagrant_fouls="0.0" rebounds="3.35" three_points_made="2.49" minutes="28.4" def_rebounds="2.77" free_throws_made="2.38" field_goals_made="5.46" steals="0.85" three_points_att="6.22"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-04-18 22:20:51 +0000 -->

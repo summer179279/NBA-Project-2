@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-06-28 12:39:05 +0000 -->
+<team xmlns="http://feed.elasticstats.com/schema/basketball/team-v2.0.xsd" id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" alias="MIN" market="Minnesota" founded="1989">
+  <venue id="7aed802e-3562-5b73-af1b-3859529f9b95" name="Target Center" capacity="19356" address="600 First Ave. North" city="Minneapolis" state="MN" zip="55403" country="USA"/>
+  <hierarchy>
+    <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+    <conference id="7fe7e212-de01-4f8f-a31d-b9f0a95731e3" name="WESTERN CONFERENCE" alias="WESTERN"/>
+    <division id="12bf14ba-eb16-4c6f-8275-e801b6947c1e" name="Northwest" alias="NORTHWEST"/>
+  </hierarchy>
+  <coaches>
+    <coach id="c32005ef-76ea-4ab8-97ea-3c5d49e2971f" full_name="Flip Saunders" first_name="Flip" last_name="Saunders" position="Head Coach" experience="16"/>
+  </coaches>
+  <players>
+    <player id="22f65f0b-5ccb-4f72-9bbe-ab383c86fa6b" status="ACT" full_name="Chase Budinger" first_name="Chase" last_name="Budinger" abbr_name="C.Budinger" height="79" weight="209" position="F" primary_position="SF" jersey_number="10" experience="4" college="Arizona" birth_place="Encinitas, CA, USA" birthdate="1988-05-22" updated="2013-11-08T21:29:07+00:00">
+      <draft team_id="583ec928-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="2" pick="44"/>
+    </player>
+    <player id="47efff84-454e-4ad9-b140-7184ec4a5008" status="ACT" full_name="Corey Brewer" first_name="Corey" last_name="Brewer" abbr_name="C.Brewer" height="81" weight="185" position="F" primary_position="SF" jersey_number="13" experience="6" college="Florida" birth_place="Portland, TN, USA" birthdate="1986-03-05" updated="2013-11-08T21:28:51+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2007" round="1" pick="7"/>
+    </player>
+    <player id="5af8d05e-98e0-4d4a-87a3-8f2ce31173a7" status="ACT" full_name="Alexey Shved" first_name="Alexey" last_name="Shved" abbr_name="A.Shved" height="78" weight="187" position="G" primary_position="SG" jersey_number="1" experience="1" birth_place="Belgorod,, RUS" birthdate="1988-12-16" updated="2013-11-08T21:32:08+00:00">
+    </player>
+    <player id="627e78c7-3f9e-4ac3-9b7d-686087c665ae" status="ACT" full_name="Dante Cunningham" first_name="Dante" last_name="Cunningham" abbr_name="D.Cunningham" height="80" weight="221" position="F" primary_position="PF" jersey_number="33" experience="4" college="Villanova" birth_place="Clinton, MD, USA" birthdate="1987-04-22" updated="2013-11-08T21:29:20+00:00">
+      <draft team_id="583ed056-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="2" pick="33"/>
+    </player>
+    <player id="66d13b81-7a2d-464d-973e-302de7ad0ae1" status="ACT" full_name="Alessandro Gentile" first_name="Alessandro" last_name="Gentile" abbr_name="A.Gentile" height="79" weight="230" position="F" primary_position="SF" jersey_number="0" experience="0" birth_place="Maddaloni, ITA" birthdate="1992-11-12" updated="2014-06-27T21:18:32+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="2nd" pick="53rd"/>
+    </player>
+    <player id="767837db-62fa-4fc6-b118-1d56a8b23415" status="ACT" full_name="Kevin Martin" first_name="Kevin" last_name="Martin" abbr_name="K.Martin" height="79" weight="197" position="G" primary_position="SG" jersey_number="23" experience="9" college="Western Carolina" birth_place="Zanesville, OH, USA" birthdate="1983-02-01" updated="2013-11-08T21:30:19+00:00">
+      <draft team_id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" year="2004" round="1" pick="26"/>
+    </player>
+    <player id="7d615ccd-db96-42a3-9a6c-7f18ea25634e" status="ACT" full_name="Kevin Love" first_name="Kevin" last_name="Love" abbr_name="K.Love" height="82" weight="243" position="F-C" primary_position="PF" jersey_number="42" experience="5" college="UCLA" birth_place="Santa Monica, CA, USA" birthdate="1988-09-07" updated="2013-11-08T21:30:08+00:00">
+      <draft team_id="583eca88-fb46-11e1-82cb-f4ce4684ea4c" year="2008" round="1" pick="5"/>
+    </player>
+    <player id="7ef2df20-86a7-4898-be7a-4da083360680" status="ACT" full_name="Ronny Turiaf" first_name="Ronny" last_name="Turiaf" abbr_name="R.Turiaf" height="82" weight="241" position="C" primary_position="C" jersey_number="32" experience="8" college="Gonzaga" birth_place="Le Robert,, MTQ" birthdate="1983-01-13" updated="2013-11-08T21:32:16+00:00">
+      <draft team_id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" year="2005" round="2" pick="37"/>
+    </player>
+    <player id="7f462af0-2ac8-4ca5-aa5a-17b37dc5001b" status="ACT" full_name="Glenn Robinson III" first_name="Glenn" last_name="Robinson" abbr_name="G.Robinson" height="78" weight="220" position="F" primary_position="SF" jersey_number="22" experience="0" college="Michigan" birth_place="Saint John, IN" birthdate="1994-01-08" updated="2014-06-28T12:39:05+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="2nd" pick="40th"/>
+    </player>
+    <player id="91f8f3e2-5b11-469e-8d03-ff4025aa055a" status="ACT" full_name="Robbie Hummel" first_name="Robbie" last_name="Hummel" abbr_name="R.Hummel" height="80" weight="220" position="F" primary_position="SF" jersey_number="6" experience="0" college="Purdue" birth_place="Valparaios, IN, USA" birthdate="1989-03-08" updated="2013-11-08T21:29:56+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2012" round="2" pick="58"/>
+    </player>
+    <player id="a3531f82-7374-41e7-ac71-ef5071ad2a12" status="ACT" full_name="Ricky Rubio" first_name="Ricky" last_name="Rubio" abbr_name="R.Rubio" height="76" weight="185" position="G" primary_position="PG" jersey_number="9" experience="2" college="FC Barcelona" birth_place="El Masnou, Barcelona, ESP" birthdate="1990-10-21" updated="2013-11-08T21:31:58+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="1" pick="5"/>
+    </player>
+    <player id="a696f51d-0329-4d74-a52a-1d5ef80a1bc8" status="ACT" full_name="Luc Mbah a Moute" first_name="Luc" last_name="Mbah a Moute" abbr_name="L.Mbah a Moute" height="80" weight="230" position="F" primary_position="PF" jersey_number="12" experience="5" college="UCLA" birth_place="Yaounde,, CMR" birthdate="1986-09-09" updated="2014-02-27T22:01:30+00:00">
+      <draft team_id="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" year="2008" round="2" pick="37"/>
+    </player>
+    <player id="b6cdfbf4-fd3f-46f3-b889-732b3bae1da8" status="ACT" full_name="Jose Barea" first_name="Jose" last_name="Barea" abbr_name="J.Barea" height="72" weight="178" position="G" primary_position="PG" jersey_number="11" experience="7" college="Northeastern" birth_place="Mayaguez,, PRI" birthdate="1984-06-26" updated="2013-11-08T21:28:41+00:00">
+      <draft year="2006"/>
+    </player>
+    <player id="c459fa73-7b5b-44d5-9698-344b44cde2b8" status="ACT" full_name="Shabazz Muhammad" first_name="Shabazz" last_name="Muhammad" abbr_name="S.Muhammad" height="78" weight="222" position="F" primary_position="SF" jersey_number="15" experience="0" college="UCLA" birth_place="Long Beach, CA, USA" birthdate="1992-11-13" updated="2014-01-13T17:34:28+00:00">
+      <draft team_id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="1" pick="14"/>
+    </player>
+    <player id="ce45bcdc-8ce8-43cd-8039-87164b5abf8a" status="ACT" full_name="Nikola Pekovic" first_name="Nikola" last_name="Pekovic" abbr_name="N.Pekovic" height="83" weight="285" position="C" primary_position="C" jersey_number="14" experience="3" college="Montenegro" birth_place="Bijelo Polje,, MNE" birthdate="1986-01-03" updated="2013-11-08T21:31:05+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2008" round="2" pick="31"/>
+    </player>
+    <player id="d87252c3-bca1-484d-8dae-6b1daae2fb75" status="ACT" full_name="Othyus Jeffers" first_name="Othyus" last_name="Jeffers" abbr_name="O.Jeffers" height="77" weight="200" position="G-F" primary_position="SG" jersey_number="0" experience="2" college="Robert Morris (IL)" birth_place="Chicago, IL, USA" birthdate="1985-08-05" updated="2014-04-09T16:16:25+00:00">
+      <draft year="2008"/>
+    </player>
+    <player id="db72e294-1c54-454a-96b9-0b4fd2f38112" status="ACT" full_name="Zach LaVine" first_name="Zach" last_name="LaVine" abbr_name="Z.LaVine" height="77" weight="180" position="G" primary_position="SG" jersey_number="8" experience="0" college="UCLA" birth_place="Renton, WA, USA" birthdate="1995-03-10" updated="2014-06-27T16:02:46+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="1" pick="13"/>
+    </player>
+    <player id="fd9448f0-99a2-4169-addf-235e14acf9f9" status="ACT" full_name="Gorgui Dieng" first_name="Gorgui" last_name="Dieng" abbr_name="G.Dieng" height="83" weight="238" position="C" primary_position="C" jersey_number="5" experience="0" college="Louisville" birth_place="Kebemer,, SEN" birthdate="1990-01-18" updated="2013-11-08T21:29:37+00:00">
+      <draft team_id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="1" pick="21"/>
+    </player>
+  </players>
+</team>
+<!-- Generation ended @ 2014-06-28 12:39:06 +0000 -->

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-17 17:25:57 +0000 -->
+<team xmlns="http://feed.elasticstats.com/schema/basketball/team-v2.0.xsd" id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" name="Rockets" alias="HOU" market="Houston" founded="1967">
+  <venue id="5b239206-57ce-50aa-baaa-627f3349dfdc" name="Toyota Center" capacity="18043" address="1510 Polk St." city="Houston" state="TX" zip="77002" country="USA"/>
+  <hierarchy>
+    <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+    <conference id="7fe7e212-de01-4f8f-a31d-b9f0a95731e3" name="WESTERN CONFERENCE" alias="WESTERN"/>
+    <division id="1d29f94c-9587-494b-a232-feb20a40eb4c" name="Southwest" alias="SOUTHWEST"/>
+  </hierarchy>
+  <coaches>
+    <coach id="5b5608a5-177d-4e65-8142-4f2149c5c5c3" full_name="Kevin McHale" first_name="Kevin" last_name="McHale" position="Head Coach" experience="5"/>
+  </coaches>
+  <players>
+    <player id="39975493-d411-4d59-a015-8119c6c6e6ef" status="ACT" full_name="Terrence Jones" first_name="Terrence" last_name="Jones" abbr_name="T.Jones" height="81" weight="252" position="F" primary_position="PF" jersey_number="6" experience="1" college="Kentucky" birth_place="Portland, OR, USA" birthdate="1992-01-09" updated="2013-07-22T17:03:11+00:00">
+      <draft team_id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" year="2012" round="1" pick="18"/>
+    </player>
+    <player id="3d386f0a-05bb-4f9b-b1d1-17f6f80b3b71" status="ACT" full_name="Josh Powell" first_name="Josh" last_name="Powell" abbr_name="J.Powell" height="81" weight="240" position="F-C" primary_position="PF" jersey_number="21" experience="6" college="NC State" birth_place="Chareston, SC, USA" birthdate="1983-01-25" updated="2014-04-17T00:43:16+00:00">
+      <draft year="2003"/>
+    </player>
+    <player id="3e512d9e-ff9c-4f23-a4fd-a88128ee3af2" status="ACT" full_name="Robert Covington" first_name="Robert" last_name="Covington" abbr_name="R.Covington" height="81" weight="215" position="F" primary_position="SF" jersey_number="33" experience="0" college="Tennessee State" birth_place="Bellwood, IL, USA" birthdate="1990-12-14" updated="2014-02-27T21:58:21+00:00">
+      <draft year="2013"/>
+    </player>
+    <player id="562677c1-2a13-4934-a801-a6c88c619e83" status="ACT" full_name="Troy Daniels" first_name="Troy" last_name="Daniels" abbr_name="T.Daniels" height="76" weight="200" position="G" primary_position="SG" jersey_number="30" experience="0" college="VCU" birth_place="Roanoke, VA" birthdate="1991-07-15" updated="2014-04-10T02:58:53+00:00">
+      <draft year="2013"/>
+    </player>
+    <player id="8d7da9a1-22b3-40a4-b6f1-caae9c956b6a" status="ACT" full_name="Donatas Motiejunas" first_name="Donatas" last_name="Motiejunas" abbr_name="D.Motiejunas" height="84" weight="222" position="F-C" primary_position="PF" jersey_number="20" experience="1" college="Kaunas (Lithuania)" birth_place="Kaunas,, LTU" birthdate="1990-09-20" updated="2014-01-20T19:00:57+00:00">
+      <draft team_id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" year="2011" round="1" pick="20"/>
+    </player>
+    <player id="912e7aa3-dd03-4a98-9980-0442e108f287" status="ACT" full_name="Patrick Beverley" first_name="Patrick" last_name="Beverley" abbr_name="P.Beverley" height="73" weight="185" position="G" primary_position="PG" jersey_number="2" experience="1" college="Arkansas" birth_place="Chicago, IL, USA" birthdate="1988-07-12" updated="2013-09-09T19:00:33+00:00">
+      <draft team_id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="2" pick="42"/>
+    </player>
+    <player id="92fd1542-d9c3-4fc9-9f31-00b85e5f13d3" status="ACT" full_name="Jordan Hamilton" first_name="Jordan" last_name="Hamilton" abbr_name="J.Hamilton" height="79" weight="220" position="F" primary_position="SF" jersey_number="5" experience="2" college="Texas" birth_place="Los Angeles, CA, USA" birthdate="1990-10-06" updated="2014-02-23T18:49:37+00:00">
+      <draft team_id="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" year="2011" round="1" pick="26"/>
+    </player>
+    <player id="9392d5b6-3dbf-4375-8fdd-4dafaae6ede4" status="ACT" full_name="Trevor Ariza" first_name="Trevor" last_name="Ariza" abbr_name="T.Ariza" height="80" weight="220" position="F" primary_position="SF" jersey_number="0" experience="9" college="UCLA" birth_place="Miami, FL, USA" birthdate="1985-06-30" updated="2014-07-14T19:40:38+00:00">
+      <draft team_id="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" year="2004" round="2" pick="43"/>
+    </player>
+    <player id="98a43535-8643-45ff-a954-2afecb418a9d" status="ACT" full_name="Isaiah Canaan" first_name="Isaiah" last_name="Canaan" abbr_name="I.Canaan" height="72" weight="188" position="G" primary_position="PG" jersey_number="1" experience="0" college="Murray State" birth_place="Biloxi, MS" birthdate="1991-05-02" updated="2014-02-20T18:22:03+00:00">
+      <draft team_id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="2" pick="34"/>
+    </player>
+    <player id="98ec8372-22fd-4ab4-88f2-94b47df7cb58" status="ACT" full_name="Nick Johnson" first_name="Nick" last_name="Johnson" abbr_name="N.Johnson" height="75" weight="198" position="G" primary_position="SG" jersey_number="0" experience="0" college="Arizona" birth_place="Gilbert, AZ" birthdate="1992-12-22" updated="2014-06-27T20:21:35+00:00">
+      <draft team_id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="2nd" pick="42nd"/>
+    </player>
+    <player id="a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc" status="ACT" full_name="James Harden" first_name="James" last_name="Harden" abbr_name="J.Harden" height="77" weight="220" position="G" primary_position="SG" jersey_number="13" experience="4" college="Arizona State" birth_place="Los Angeles, CA, USA" birthdate="1989-08-26" updated="2013-09-09T19:06:29+00:00">
+      <draft team_id="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" year="2009" round="1" pick="3"/>
+    </player>
+    <player id="ae8df356-5e57-43e7-be4d-5ec7663312bd" status="ACT" full_name="Dwight Howard" first_name="Dwight" last_name="Howard" abbr_name="D.Howard" height="83" weight="265" position="C" primary_position="C" jersey_number="12" experience="9" college="SW Atlanta Christian Academy (GA)" birth_place="Atlanta, GA, USA" birthdate="1985-12-08" updated="2013-07-31T16:39:21+00:00">
+      <draft team_id="583ed157-fb46-11e1-82cb-f4ce4684ea4c" year="2004" round="1" pick="1"/>
+    </player>
+    <player id="b9f31942-1870-4f61-a9dd-48508a8e07cb" status="ACT" full_name="Joey Dorsey" first_name="Joey" last_name="Dorsey" abbr_name="J.Dorsey" height="80" weight="268" position="F-C" primary_position="PF" jersey_number="0" college="Memphis" birth_place="Baltimore, MD" birthdate="1983-12-16" updated="2014-07-17T17:25:56+00:00">
+    </player>
+    <player id="bb4593a2-6662-49dd-843a-fa775ef86c42" status="ACT" full_name="Jeff Adrien" first_name="Jeff" last_name="Adrien" abbr_name="J.Adrien" height="79" weight="245" position="F" primary_position="PF" jersey_number="0" experience="3" college="Connecticut" birth_place="Brookline, MA, USA" birthdate="1986-02-10" updated="2014-07-15T17:17:35+00:00">
+      <draft year="2009"/>
+    </player>
+    <player id="c37dafbb-a269-41f6-813f-bdb4da388203" status="ACT" full_name="Clint Capela" first_name="Clint" last_name="Capela" abbr_name="C.Capela" height="82" weight="211" position="F" primary_position="PF" jersey_number="0" experience="0" birth_place="Geneva,, CHE" birthdate="1994-05-18" updated="2014-07-14T19:40:54+00:00">
+      <draft team_id="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" year="2014" round="1" pick="25"/>
+    </player>
+    <player id="e0ac1008-1bff-43ab-8416-5d8ff755b392" status="ACT" full_name="Francisco Garcia" first_name="Francisco" last_name="Garcia" abbr_name="F.Garcia" height="79" weight="195" position="G-F" primary_position="SG" jersey_number="32" experience="8" college="Louisville" birth_place="Santo Domingo,, DOM" birthdate="1980-12-31" updated="2013-07-22T17:00:25+00:00">
+      <draft team_id="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" year="2005" round="1" pick="23"/>
+    </player>
+    <player id="eee7ca97-fce8-4af4-94b5-f5b107c76b46" status="ACT" full_name="Alonzo Gee" first_name="Alonzo" last_name="Gee" abbr_name="A.Gee" height="78" weight="225" position="F" primary_position="SF" jersey_number="0" experience="4" college="Alabama" birth_place="Riviera Beach, FL, USA" birthdate="1987-05-29" updated="2014-07-14T19:41:37+00:00">
+      <draft year="2009"/>
+    </player>
+  </players>
+</team>
+<!-- Generation ended @ 2014-07-17 17:25:57 +0000 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-02-20 03:50:48 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="58385f22-6e73-4d92-9ba2-22bb48843b3d" status="closed" coverage="full" home_team="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-02-20T01:00:00+00:00" duration="2:22" attendance="15109" lead_changes="0" times_tied="1" clock="00:00" quarter="4">
+  <team name="Timberwolves" market="Minnesota" id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" points="104">
+    <scoring>
+      <quarter number="1" sequence="1" points="30"/>
+      <quarter number="2" sequence="2" points="22"/>
+      <quarter number="3" sequence="3" points="30"/>
+      <quarter number="4" sequence="4" points="22"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Kevin Love" position="F-C" primary_position="PF" jersey_number="42" id="7d615ccd-db96-42a3-9a6c-7f18ea25634e">
+          <statistics minutes="37:22" field_goals_made="14" field_goals_att="22" field_goals_pct="63.6" three_points_made="5" three_points_att="10" three_points_pct="50.0" two_points_made="9" two_points_att="12" two_points_pct="0.75" blocked_att="0" free_throws_made="9" free_throws_att="10" free_throws_pct="90.0" offensive_rebounds="1" defensive_rebounds="15" rebounds="16" assists="1" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="0.33" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="14" points="42"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kevin Love" position="F-C" primary_position="PF" jersey_number="42" id="7d615ccd-db96-42a3-9a6c-7f18ea25634e">
+          <statistics minutes="37:22" field_goals_made="14" field_goals_att="22" field_goals_pct="63.6" three_points_made="5" three_points_att="10" three_points_pct="50.0" two_points_made="9" two_points_att="12" two_points_pct="0.75" blocked_att="0" free_throws_made="9" free_throws_att="10" free_throws_pct="90.0" offensive_rebounds="1" defensive_rebounds="15" rebounds="16" assists="1" turnovers="3" steals="1" blocks="0" assists_turnover_ratio="0.33" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="14" points="42"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Ricky Rubio" position="G" primary_position="PG" jersey_number="9" id="a3531f82-7374-41e7-ac71-ef5071ad2a12">
+          <statistics minutes="32:57" field_goals_made="2" field_goals_att="10" field_goals_pct="20.0" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="2" two_points_att="10" two_points_pct="0.2" blocked_att="0" free_throws_made="2" free_throws_att="6" free_throws_pct="33.3" offensive_rebounds="1" defensive_rebounds="6" rebounds="7" assists="17" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="8.5" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="9" points="6"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Pacers" market="Indiana" id="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" points="91">
+    <scoring>
+      <quarter number="1" sequence="1" points="18"/>
+      <quarter number="2" sequence="2" points="21"/>
+      <quarter number="3" sequence="3" points="33"/>
+      <quarter number="4" sequence="4" points="19"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Paul George" position="F-G" primary_position="SG" jersey_number="24" id="db09f372-9a17-4889-add7-bf8a75ab6da6">
+          <statistics minutes="36:05" field_goals_made="11" field_goals_att="22" field_goals_pct="50.0" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="8" two_points_att="16" two_points_pct="0.5" blocked_att="1" free_throws_made="10" free_throws_att="10" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="10" rebounds="11" assists="2" turnovers="7" steals="3" blocks="1" assists_turnover_ratio="0.29" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-10" points="35"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Paul George" position="F-G" primary_position="SG" jersey_number="24" id="db09f372-9a17-4889-add7-bf8a75ab6da6">
+          <statistics minutes="36:05" field_goals_made="11" field_goals_att="22" field_goals_pct="50.0" three_points_made="3" three_points_att="6" three_points_pct="50.0" two_points_made="8" two_points_att="16" two_points_pct="0.5" blocked_att="1" free_throws_made="10" free_throws_att="10" free_throws_pct="100.0" offensive_rebounds="1" defensive_rebounds="10" rebounds="11" assists="2" turnovers="7" steals="3" blocks="1" assists_turnover_ratio="0.29" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-10" points="35"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Lance Stephenson" position="G" primary_position="SG" jersey_number="1" id="01e8f44f-f1ee-4d3a-86bd-c29d597ba9bd">
+          <statistics minutes="37:15" field_goals_made="5" field_goals_att="15" field_goals_pct="33.3" three_points_made="0" three_points_att="4" three_points_pct="0.0" two_points_made="5" two_points_att="11" two_points_pct="0.455" blocked_att="2" free_throws_made="0" free_throws_att="2" free_throws_pct="0.0" offensive_rebounds="2" defensive_rebounds="8" rebounds="10" assists="4" turnovers="2" steals="0" blocks="0" assists_turnover_ratio="2.0" personal_fouls="3" tech_fouls="1" flagrant_fouls="0" pls_min="-18" points="10"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-02-20 03:50:49 +0000 -->

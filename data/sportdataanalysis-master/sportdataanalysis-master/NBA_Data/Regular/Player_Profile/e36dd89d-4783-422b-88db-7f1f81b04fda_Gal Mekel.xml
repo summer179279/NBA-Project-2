@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:31:17 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="e36dd89d-4783-422b-88db-7f1f81b04fda" status="ACT" full_name="Gal Mekel" first_name="Gal" last_name="Mekel" abbr_name="G.Mekel" height="75" weight="191" position="G" primary_position="PG" jersey_number="33" experience="0" college="Wichita State" birth_place="Ramat HaSharon,, ISR" birthdate="1988-03-04" updated="2013-09-09T20:02:25+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" name="Mavericks" market="Dallas" alias="DAL"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" name="Mavericks" market="Dallas" alias="DAL">
+        <statistics>
+          <total games_played="31" games_started="1" minutes="292.0" field_goals_made="30" field_goals_att="86" three_points_made="5" three_points_att="20" blocked_att="9" free_throws_made="8" free_throws_att="12" offensive_rebounds="5" defensive_rebounds="22" assists="63" turnovers="31" steals="4" blocks="1" personal_fouls="31" tech_fouls="0" points="73" flagrant_fouls="0" free_throws_pct="0.667" two_points_pct="0.379" three_points_pct="0.25" field_goals_pct="0.349" rebounds="27" assists_turnover_ratio="2.03" two_points_made="25" two_points_att="66"/>
+          <average points="2.4" blocked_att="0.29" turnovers="1.0" free_throws_att="0.39" field_goals_att="2.77" off_rebounds="0.16" two_points_att="2.13" assists="2.0" blocks="0.03" personal_fouls="1.0" two_points_made="0.81" flagrant_fouls="0.0" rebounds="0.87" three_points_made="0.16" minutes="9.4" def_rebounds="0.71" free_throws_made="0.26" field_goals_made="0.97" steals="0.13" three_points_att="0.65"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:31:17 +0000 -->

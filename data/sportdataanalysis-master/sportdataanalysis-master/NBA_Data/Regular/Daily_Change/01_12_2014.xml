@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-27 10:04:45 +0000 -->
+<league xmlns="http://feed.elasticstats.com/schema/basketball/changelog-v2.0.xsd" id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA">
+  <changelog start_time="2014-01-12T05:00:00+00:00" end_time="2014-01-13T04:59:59+00:00">
+    <profiles>
+    </profiles>
+    <games>
+      <schedule>
+        <game id="0092085f-1083-4d75-821e-fbde5d5fabe6" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-13T02:24:08+00:00"/>
+        <game id="04d01d68-533d-4407-81bb-db93e91b17e5" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-12T05:23:53+00:00"/>
+        <game id="27c7643b-9fe7-4f6e-8415-566723e643eb" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-12T05:31:03+00:00"/>
+        <game id="5efe9ab0-97ee-437e-8b0c-328e1637930f" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-13T01:37:38+00:00"/>
+        <game id="f32013b8-887e-4a22-a45f-fc5aeadbf1b1" season_id="5ddc217a-a958-4616-9bdf-e081022c440b" last_modified="2014-01-13T01:32:04+00:00"/>
+      </schedule>
+      <results>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="04d01d68-533d-4407-81bb-db93e91b17e5" last_modified="2014-01-12T05:23:54+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="5efe9ab0-97ee-437e-8b0c-328e1637930f" last_modified="2014-01-13T01:37:39+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="27c7643b-9fe7-4f6e-8415-566723e643eb" last_modified="2014-01-12T05:31:03+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="f32013b8-887e-4a22-a45f-fc5aeadbf1b1" last_modified="2014-01-13T01:32:05+00:00"/>
+        <game season_id="5ddc217a-a958-4616-9bdf-e081022c440b" id="0092085f-1083-4d75-821e-fbde5d5fabe6" last_modified="2014-01-13T02:24:08+00:00"/>
+      </results>
+    </games>
+  </changelog>
+</league>
+<!-- Generation ended @ 2014-07-27 10:04:45 +0000 -->

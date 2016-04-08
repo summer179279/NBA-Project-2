@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:33:43Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="1f0adb6d-83ce-4606-a203-3881183024a0" status="closed" scratched="false" period="P2" scheduled="2014-06-19T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="17cca73b-821e-4e49-9878-2afbec69e087" name="World Cup, Group C"/>
+      <round week="25" number="2" type="table"/>
+      <home id="42fafe63-cc2f-40c2-a196-b5cc6dbdfa87" name="Colombia" alias="COL" country_code="COL" country="Colombia" type="team" formation="4-2-3-1" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="97" ball_safe="93" corner_kicks="5" dangerous_attacks="48" fouls="14" free_kicks="16" goal_attempts="8" goal_kicks="10" offsides="3" saves="4" shots_total="8" substitutions="3" throw_ins="20" yellow_card="0" shots_on_target="6" shots_off_target="2" possessions="47"/>
+      </home>
+      <away id="0bca6ba8-1ff0-411c-90e6-203b0d38ab96" name="Ivory Coast" alias="CIV" country_code="CIV" country="Côte D'Ivoire" type="team" formation="4-2-3-1" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="120" ball_safe="98" corner_kicks="5" dangerous_attacks="74" fouls="15" free_kicks="17" goal_attempts="8" goal_kicks="9" offsides="1" saves="3" shots_total="8" substitutions="3" throw_ins="22" yellow_card="2" shots_on_target="5" shots_off_target="3" possessions="53"/>
+      </away>
+      <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249"/>
+      <!-- 4768738/4820/4768 -->
+    </match>
+  </matches>
+</boxscore>

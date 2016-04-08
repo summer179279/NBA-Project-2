@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:40:59Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="547c9036-93b3-418c-8f82-bc48244701d0" status="closed" scratched="false" period="P2" scheduled="2014-06-26T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="f60c1a8b-fa39-4b7c-a653-4f23e351b6da" name="World Cup, Group G"/>
+      <round week="26" number="3" type="table"/>
+      <home id="d49ecca2-07bc-417f-bf19-e653c81e07e3" name="Portugal" alias="POR" country_code="PRT" country="Portugal" type="team" formation="4-3-3" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="128" ball_safe="109" corner_kicks="7" dangerous_attacks="85" fouls="21" free_kicks="20" goal_attempts="17" goal_kicks="16" offsides="0" saves="3" shots_total="17" substitutions="3" throw_ins="22" yellow_card="1" shots_on_target="9" shots_off_target="8" possessions="55"/>
+        <players>
+          <player id="5e5db9fc-dd0b-4c9c-81a3-656d73414572" country_code="PRT" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Hugo" last_name="Almeida" country="Portugal" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="12a05993-0eac-42bc-86cf-2d13958536c5" country_code="PRT" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Joao" last_name="Pereira" country="Portugal" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="e32745de-db22-4515-80f2-ac13d0353ae5" country_code="PRT" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Cristiano Ronaldo" last_name="" country="Portugal" jersey_number="7">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="c29e8d7b-ff8f-413e-98ee-69d8b1ffd95a" country_code="PRT" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Bruno" last_name="Alves" country="Portugal" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="4eaeb09e-bc91-4678-8454-b44bec90cc91" country_code="PRT" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Rui" last_name="Patricio" country="Portugal" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2a2f2c3b-c005-4648-9b6e-66ba71b2b4bd" country_code="PRT" position="M" started="false" tactical_position="8" tactical_order="10" first_name="Vieirinha" last_name="" country="Portugal" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="3ed3668b-1445-4702-8e86-7f8b98ebcb95" country_code="PRT" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Rafa Silva" last_name="" country="Portugal" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e52c949-72bd-48c2-a6bd-9f2fd89091c3" country_code="PRT" position="F" started="false" tactical_position="2" tactical_order="2" first_name="Silvestre" last_name="Varela" country="Portugal" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="4410102a-246a-4e90-8366-396576319fb0" country_code="PRT" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Andre" last_name="Almeida" country="Portugal" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="28838af3-7780-4da3-a9d2-723f789a71d7" country_code="PRT" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Beto" last_name="" country="Portugal" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="46b82de5-b1ca-41f7-93b0-e2686c41d91c" country_code="PRT" position="M" started="true" tactical_position="6" tactical_order="7" first_name="William" last_name="Carvalho" country="Portugal" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0cd5537e-552f-498b-8499-6ef8c93b0cb7" country_code="PRT" position="G" started="false" tactical_position="1" tactical_order="1" first_name="Eduardo" last_name="" country="Portugal" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="e4b3f188-278a-478a-b7c5-605840333c3f" country_code="PRT" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Luis" last_name="Neto" country="Portugal" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b887c1a8-da18-452d-8c05-7502b7b54b36" country_code="PRT" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Miguel" last_name="Veloso" country="Portugal" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="000d99da-8ed9-49f8-a6b1-345202dcb60c" country_code="PRT" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Ricardo" last_name="Costa" country="Portugal" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5b80be7b-8e42-430b-8a13-e58514344279" country_code="PRT" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Helder" last_name="Postiga" country="Portugal" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="77cbc3f1-d349-442d-aeec-420e399d5d9c" country_code="PRT" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Raul" last_name="Meireles" country="Portugal" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1b99177c-9e04-46aa-abf5-8d01a02d64b4" country_code="PRT" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Joao" last_name="Moutinho" country="Portugal" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="02013139-01a2-44ee-97e1-25bb26b5b420" country_code="PRT" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Nani" last_name="" country="Portugal" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="311a7e3c-5727-4bd3-898c-dfb9691b903d" country_code="PRT" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Pepe" last_name="" country="Portugal" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2fc9bb0c-925a-4b30-88c9-ee0e115dad60" country_code="PRT" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Ruben" last_name="Amorim" country="Portugal" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d659b35a-58ab-4407-b366-a223cb54ea52" country_code="PRT" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Eder" last_name="" country="Portugal" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="fe955020-0e2c-4cd2-914e-c8ea89fb2664" country_code="PRT" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Fabio" last_name="Coentrao" country="Portugal" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" name="Ghana" alias="GHA" country_code="GHA" country="Ghana" type="team" formation="4-2-2-2" score="1" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="1" number="2"/>
+        </scoring>
+        <statistics attacks="133" ball_safe="115" corner_kicks="4" dangerous_attacks="81" fouls="17" free_kicks="21" goal_attempts="16" goal_kicks="13" offsides="3" saves="7" shots_total="16" substitutions="3" throw_ins="34" yellow_card="3" shots_on_target="4" shots_off_target="12" possessions="45"/>
+        <players>
+          <player id="b8f0af18-05b3-4725-a78b-86ef6f0f204b" country_code="GHA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Mohammed" last_name="Rabiu" country="Ghana" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="22095dc7-a0c9-4783-93d6-fea0dc4941f7" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Kevin Prince" last_name="Boateng" country="Ghana" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="fbc0e8a3-f5f9-4363-9587-5abb390cdc2a" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Rashid" last_name="Sumaila" country="Ghana" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a5f03bf9-f0c0-4a76-b860-9eae539a1678" country_code="GHA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Adam" last_name="Kwarasey" country="Ghana" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d5586ad9-66ed-4c60-9f4c-ce61d0787708" country_code="GHA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Fatau" last_name="Dauda" country="Ghana" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b0af80a2-b2c8-4a84-8e39-75f5b56fbc00" country_code="GHA" position="F" started="true" tactical_position="5" tactical_order="8" first_name="Christian" last_name="Atsu" country="Ghana" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2206db48-2813-46e2-9b87-a957c088ac21" country_code="GHA" position="M" started="true" tactical_position="4" tactical_order="5" first_name="Kwadwo" last_name="Asamoah" country="Ghana" jersey_number="20">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="614e4eb8-c021-43a3-95ac-4baccd140e4b" country_code="GHA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Stephen" last_name="Adams" country="Ghana" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0" country_code="GHA" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Asamoah" last_name="Gyan" country="Ghana" jersey_number="3">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="18eece17-16cf-42ba-a100-1e0f9e1fcfb5" country_code="GHA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Samuel" last_name="Inkoom" country="Ghana" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d9cbac68-a227-413e-b6d0-2d81b356cc3a" country_code="GHA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="John" last_name="Boye" country="Ghana" jersey_number="21">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="441e5e10-1913-4b3f-8f1f-aca80b7abf4b" country_code="GHA" position="M" started="false" tactical_position="7" tactical_order="9" first_name="Mubarak" last_name="Wakaso" country="Ghana" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="448ac3c5-5960-4e13-8e24-ff6fd492f3a0" country_code="GHA" position="M" started="false" tactical_position="6" tactical_order="6" first_name="Acquah" last_name="Afriyie" country="Ghana" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8" country_code="GHA" position="F" started="false" tactical_position="8" tactical_order="10" first_name="Jordan Pierre" last_name="Ayew" country="Ghana" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d9edc320-1ae4-4fc4-af6c-d600c7c1a9cb" country_code="GHA" position="F" started="true" tactical_position="7" tactical_order="9" first_name="Andre" last_name="Ayew" country="Ghana" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="843958ab-5f87-4fbc-8117-dc2eb315655c" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Sulley" last_name="Muntari" country="Ghana" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="a579bdd9-f5eb-4124-84b4-2de0abc3dce7" country_code="GHA" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Majeed" last_name="Waris" country="Ghana" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="8d89e37d-374a-4351-bc9b-30f64ef13da9" country_code="GHA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Harrison" last_name="Afful" country="Ghana" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="55dd3392-6012-4879-9770-97e666d72d9c" country_code="GHA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Emmanuel" last_name="Badu" country="Ghana" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="476a40dd-b791-46c3-9ea1-e3f1fca1d231" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Essien" country="Ghana" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1f34653d-c159-4d80-890e-4ea423aea078" country_code="GHA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Jonathan" last_name="Mensah" country="Ghana" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="820a3ca7-ef36-4017-a1ac-8ca23d67faa2" country_code="GHA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Albert" last_name="Adomah" country="Ghana" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="877f5bbc-2ad1-468a-b128-75968c89a156" country_code="GHA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Daniel" last_name="Opare" country="Ghana" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249"/>
+      <facts>
+        <fact id="ec7af57e-033a-4d4d-bd31-32a9cadba12e" type="match_started" time="2014-06-26T16:00:17Z" updated_time="2014-06-26T16:00:08Z" scratch="false" clock="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>The match has started at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="9915a679-f9f1-47a1-aa8e-d67f46767fe4" type="period_started" time="2014-06-26T16:00:17Z" updated_time="2014-06-26T16:00:17Z" scratch="false" period="P1"/>
+        <fact id="96ea2700-bb0c-4d61-aab1-80e17a08ff5c" type="goal_kick" time="2014-06-26T16:00:48Z" updated_time="2014-06-26T16:00:48Z" scratch="false" x="95" y="50" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana have a goal kick.</description>
+        </fact>
+        <fact id="6ec647c7-1d85-4dfa-8770-ed5f60b17040" type="throwin" time="2014-06-26T16:01:49Z" updated_time="2014-06-26T16:01:49Z" scratch="false" x="73" y="2" clock="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball safe as Ghana is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="e4cd7941-fdc3-4db4-b7ad-e38bd5c89583" type="throwin" time="2014-06-26T16:02:09Z" updated_time="2014-06-26T16:02:09Z" scratch="false" x="38" y="2" clock="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Portugal's half?</description>
+        </fact>
+        <fact id="76328c39-a628-4175-aadc-010b0385e4f8" type="throwin" time="2014-06-26T16:02:47Z" updated_time="2014-06-26T16:02:47Z" scratch="false" x="42" y="100" clock="2" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in Portugal.</description>
+        </fact>
+        <fact id="718c5a20-52c4-4370-919b-6704374ad0bf" type="throwin" time="2014-06-26T16:02:59Z" updated_time="2014-06-26T16:02:59Z" scratch="false" x="83" y="99" clock="2" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ghana needs to be cautious. Portugal have an attacking throw-in.</description>
+        </fact>
+        <fact id="614d798b-20f2-4b28-a002-48d8e2dc80d3" type="throwin" time="2014-06-26T16:03:27Z" updated_time="2014-06-26T16:03:27Z" scratch="false" x="87" y="1" clock="3" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="e435045a-78fc-4b41-89b0-718f18417544" type="throwin" time="2014-06-26T16:03:56Z" updated_time="2014-06-26T16:03:56Z" scratch="false" x="70" y="99" clock="3" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana in their own half.</description>
+        </fact>
+        <fact id="391ac24c-e252-4111-bdee-4c4854adccc9" type="free_kick" time="2014-06-26T16:04:15Z" updated_time="2014-06-26T16:04:15Z" scratch="false" x="47" y="82" clock="3" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="0fbb9b88-3096-4e71-8d9a-c5f4b11a4ce6" type="throwin" time="2014-06-26T16:05:39Z" updated_time="2014-06-26T16:05:39Z" scratch="false" x="82" y="1" clock="5" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="625755f9-6798-4d5b-ae0b-d53a578e43ab" type="free_kick" time="2014-06-26T16:05:45Z" updated_time="2014-06-26T16:05:45Z" scratch="false" x="75" y="40" clock="5" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b49492fc-ee60-4ba0-b807-b8732c118d43" type="shot_on_target" time="2014-06-26T16:05:27Z" updated_time="2014-06-26T16:05:27Z" scratch="false" x="88" y="82" clock="6" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo (Portugal) fires in a shot – and hits the post!</description>
+        </fact>
+        <fact id="17012a5b-3daa-44e0-9ac9-40111a413785" type="free_kick" time="2014-06-26T16:06:42Z" updated_time="2014-06-26T16:06:42Z" scratch="false" x="55" y="81" clock="6" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Free kick Portugal.</description>
+        </fact>
+        <fact id="a0f44072-2e8e-416a-9000-c9fec61224db" type="free_kick" time="2014-06-26T16:08:11Z" updated_time="2014-06-26T16:08:11Z" scratch="false" x="35" y="26" clock="7" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="16b464cd-49d1-4c0e-89fb-35c7906e977e" type="free_kick" time="2014-06-26T16:08:33Z" updated_time="2014-06-26T16:08:33Z" scratch="false" x="81" y="68" clock="8" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d6c33c84-0cce-4f6a-8323-8e7d11c842ff" type="free_kick" time="2014-06-26T16:10:21Z" updated_time="2014-06-26T16:10:21Z" scratch="false" x="77" y="55" clock="10" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal.</description>
+        </fact>
+        <fact id="9a80073a-df67-439f-8cba-79fe9677e69a" type="injury" time="2014-06-26T16:11:00Z" updated_time="2014-06-26T16:11:00Z" scratch="false" x="77" y="55" clock="11" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="1b99177c-9e04-46aa-abf5-8d01a02d64b4">
+          <description>The match at Estadio Nacional de Brasilia  has been interrupted briefly for a check on Joao Moutinho, who is down injured.</description>
+        </fact>
+        <fact id="98723fd9-4642-4af1-a6fb-9904d571481f" type="game_resumed" time="2014-06-26T16:11:26Z" updated_time="2014-06-26T16:11:26Z" scratch="false" clock="11">
+          <description>Play has been resumed.</description>
+        </fact>
+        <fact id="10e9130c-f36b-4b60-a331-64b0224de422" type="keeper_save" time="2014-06-26T16:11:54Z" updated_time="2014-06-26T16:11:54Z" scratch="false" x="99" y="98" clock="11" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="cd10208b-4470-4f10-8b36-86771b6d0531" type="throwin" time="2014-06-26T16:12:11Z" updated_time="2014-06-26T16:12:11Z" scratch="false" x="70" y="98" clock="11" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal to take a throw-in in Ghana territory.</description>
+        </fact>
+        <fact id="be5fc4f9-1e4a-4157-9de1-8a57a10527d9" type="shot_on_target" time="2014-06-26T16:11:54Z" updated_time="2014-06-26T16:12:18Z" scratch="false" x="99" y="98" clock="12" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo for Portugal drives towards goal at Estadio Nacional de Brasilia . But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="1c997067-da1f-4ee5-9ba4-f60cc03137e3" type="corner_kick" time="2014-06-26T16:12:05Z" updated_time="2014-06-26T16:15:03Z" scratch="false" x="95" y="90" clock="12" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="7a68ffd8-c5d0-4b49-92f2-bda53f7a68e6" type="goal_kick" time="2014-06-26T16:12:36Z" updated_time="2014-06-26T16:12:36Z" scratch="false" x="95" y="50" clock="12" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah awards Ghana a goal kick.</description>
+        </fact>
+        <fact id="cca723e2-d134-4f30-a9d0-5107fb62253d" type="injury_return" time="2014-06-26T16:13:07Z" updated_time="2014-06-26T16:13:07Z" scratch="false" clock="12" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="1b99177c-9e04-46aa-abf5-8d01a02d64b4">
+          <description>Joao Moutinho is back on the pitch.</description>
+        </fact>
+        <fact id="f0a33388-e29c-4b9c-ad38-7f2d8ba982be" type="throwin" time="2014-06-26T16:13:10Z" updated_time="2014-06-26T16:13:10Z" scratch="false" x="64" y="98" clock="12" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in Ghana.</description>
+        </fact>
+        <fact id="d6412d4a-069e-4c7f-92b5-1ff4d4d2b619" type="throwin" time="2014-06-26T16:14:29Z" updated_time="2014-06-26T16:14:29Z" scratch="false" x="40" y="0" clock="14" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a Ghana throw-in in Portugal's half.</description>
+        </fact>
+        <fact id="247405a0-e19c-439a-ae09-ca8787250160" type="throwin" time="2014-06-26T16:14:36Z" updated_time="2014-06-26T16:14:36Z" scratch="false" x="30" y="2" clock="14" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Portugal's half?</description>
+        </fact>
+        <fact id="f439c240-ca98-4a55-8c86-faac0f0633e3" type="free_kick" time="2014-06-26T16:14:58Z" updated_time="2014-06-26T16:14:58Z" scratch="false" x="49" y="27" clock="14" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana.</description>
+        </fact>
+        <fact id="eb167d04-5bfe-4d9f-bb82-f8139371e41a" type="throwin" time="2014-06-26T16:15:17Z" updated_time="2014-06-26T16:15:17Z" scratch="false" x="49" y="1" clock="15" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="4cc8a1c9-a378-4fa4-b4f0-577c8a1b6647" type="free_kick" time="2014-06-26T16:15:45Z" updated_time="2014-06-26T16:15:45Z" scratch="false" x="35" y="22" clock="15" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="1258fd89-2a86-465f-b00d-59948464d545" type="throwin" time="2014-06-26T16:16:04Z" updated_time="2014-06-26T16:16:04Z" scratch="false" x="42" y="98" clock="15" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a Ghana throw-in in Portugal's half.</description>
+        </fact>
+        <fact id="8f54c6ca-259c-4c23-b84d-23c2f811f5f7" type="goal_kick" time="2014-06-26T16:17:00Z" updated_time="2014-06-26T16:17:00Z" scratch="false" x="95" y="50" clock="16" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball goes out of play for a Ghana goal kick.</description>
+        </fact>
+        <fact id="b278e5ad-ccb0-43c5-828c-d197e7a1327c" type="free_kick" time="2014-06-26T16:17:52Z" updated_time="2014-06-26T16:17:52Z" scratch="false" x="63" y="18" clock="17" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="a4082e34-4da9-4ee5-898b-6f60ccb19815" type="keeper_save" time="2014-06-26T16:18:29Z" updated_time="2014-06-26T16:18:29Z" scratch="false" x="86" y="68" clock="18" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="75f1893a-7a1f-411c-9f32-a2aa88e01f12" type="free_kick" time="2014-06-26T16:18:51Z" updated_time="2014-06-26T16:18:51Z" scratch="false" x="58" y="31" clock="18" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="8a7884e5-2aae-4288-9faa-0cd2419d171d" type="shot_on_target" time="2014-06-26T16:18:29Z" updated_time="2014-06-26T16:18:33Z" scratch="false" x="86" y="68" clock="19" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal's Cristiano Ronaldo gets in a shot on goal at Estadio Nacional de Brasilia . But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="2d09688e-fb7b-455b-8040-fc181102594e" type="keeper_save" time="2014-06-26T16:19:23Z" updated_time="2014-06-26T16:19:23Z" scratch="false" x="15" y="43" clock="19" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="09c14eb8-6837-4851-ba7f-438104c2bc51" type="throwin" time="2014-06-26T16:19:54Z" updated_time="2014-06-26T16:19:54Z" scratch="false" x="82" y="1" clock="19" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a throw-in for Portugal, close to Ghana's area.</description>
+        </fact>
+        <fact id="0c836aed-fe3f-4965-9d8b-e58a0f94c469" type="shot_on_target" time="2014-06-26T16:19:23Z" updated_time="2014-06-26T16:19:27Z" scratch="false" x="15" y="43" clock="20" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana drive forward and Asamoah Gyan gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="c480fc39-524e-440b-a3f8-8153dba3ea01" type="shot_off_target" time="2014-06-26T16:20:28Z" updated_time="2014-06-26T16:20:37Z" scratch="false" x="86" y="54" clock="20" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="d659b35a-58ab-4407-b366-a223cb54ea52">
+          <description>Eder for Portugal gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="e6afab91-0c71-43d0-945e-49a8a8eabe97" type="goal_kick" time="2014-06-26T16:20:28Z" updated_time="2014-06-26T16:20:28Z" scratch="false" x="95" y="50" clock="20" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Goal kick for Ghana at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="7ea41390-1cb4-4ff3-a678-d750aef8c365" type="free_kick" time="2014-06-26T16:20:45Z" updated_time="2014-06-26T16:20:45Z" scratch="false" x="35" y="65" clock="20" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="2ac43fd3-e326-41a7-ab06-78a10e51f856" type="goal_kick" time="2014-06-26T16:21:03Z" updated_time="2014-06-26T16:21:03Z" scratch="false" x="95" y="50" clock="20" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana have a goal kick.</description>
+        </fact>
+        <fact id="e986bd45-9287-4693-a91d-6c99f1bd6b8e" type="free_kick" time="2014-06-26T16:21:39Z" updated_time="2014-06-26T16:21:39Z" scratch="false" x="68" y="53" clock="21" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="c30eebf5-d3ab-4808-8433-6811320010e6" type="free_kick" time="2014-06-26T16:22:00Z" updated_time="2014-06-26T16:22:00Z" scratch="false" x="22" y="16" clock="21" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Free kick Ghana.</description>
+        </fact>
+        <fact id="d86de99e-6239-46a1-9fd5-6a57fcee7d37" type="game_resumed" time="2014-06-26T16:22:59Z" updated_time="2014-06-26T16:22:59Z" scratch="false" clock="22">
+          <description>Nawaf Shukrallah has blown to resume play in Brasilia.</description>
+        </fact>
+        <fact id="56e5a985-82a9-454a-bf9c-358806993569" type="keeper_save" time="2014-06-26T16:23:07Z" updated_time="2014-06-26T16:23:07Z" scratch="false" x="13" y="62" clock="22" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="720d9dcc-5d52-460a-b9fb-fab02ca5e94c" type="injury" time="2014-06-26T16:22:46Z" updated_time="2014-06-26T16:22:46Z" scratch="false" x="22" y="16" clock="23" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="55dd3392-6012-4879-9770-97e666d72d9c">
+          <description>The match has been stopped briefly for attention to the injured Emmanuel Badu.</description>
+        </fact>
+        <fact id="1a36a8e7-f449-434f-a734-5ae11389e99d" type="shot_on_target" time="2014-06-26T16:23:06Z" updated_time="2014-06-26T16:23:10Z" scratch="false" x="13" y="62" clock="23" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Asamoah Gyan of Ghana smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="e3862b45-0102-4a39-8515-2f24c9e8be62" type="corner_kick" time="2014-06-26T16:24:00Z" updated_time="2014-06-26T16:24:45Z" scratch="false" x="5" y="90" clock="24" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Corner awarded to Ghana.</description>
+        </fact>
+        <fact id="227c0707-d7d9-4e61-9c28-8884cdc435ac" type="corner_kick" time="2014-06-26T16:24:25Z" updated_time="2014-06-26T16:24:25Z" scratch="false" x="5" y="90" clock="24" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Corner awarded to Ghana.</description>
+        </fact>
+        <fact id="3dbfb2bd-6622-4850-a07a-a41b8a70c98c" type="injury_return" time="2014-06-26T16:24:32Z" updated_time="2014-06-26T16:24:32Z" scratch="false" clock="24" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="55dd3392-6012-4879-9770-97e666d72d9c">
+          <description>Ghana's Emmanuel Badu looks ok and returns to the pitch.</description>
+        </fact>
+        <fact id="427d7045-3ebe-4361-be22-ce94bec21bab" type="throwin" time="2014-06-26T16:24:40Z" updated_time="2014-06-26T16:24:40Z" scratch="false" x="36" y="99" clock="24" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal in their own half.</description>
+        </fact>
+        <fact id="51d38b89-e20d-4a4f-98e0-8f240f250585" type="throwin" time="2014-06-26T16:25:16Z" updated_time="2014-06-26T16:25:16Z" scratch="false" x="41" y="100" clock="25" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a Ghana throw-in in Portugal's half.</description>
+        </fact>
+        <fact id="a9b5f1ef-c60c-45b8-bf82-3bd4aae18d9f" type="free_kick" time="2014-06-26T16:25:50Z" updated_time="2014-06-26T16:25:50Z" scratch="false" x="78" y="26" clock="25" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal.</description>
+        </fact>
+        <fact id="c00e6bd8-d87f-4698-a7dd-5e6b59266c1c" type="throwin" time="2014-06-26T16:26:02Z" updated_time="2014-06-26T16:26:02Z" scratch="false" x="87" y="99" clock="25" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball safe as Ghana is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="c7732a68-577c-43f7-8fe6-2b400455a621" type="free_kick" time="2014-06-26T16:26:52Z" updated_time="2014-06-26T16:26:52Z" scratch="false" x="56" y="62" clock="26" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="38f1d9ae-fa6f-4d15-9cf0-7280d040ca6e" type="corner_kick" time="2014-06-26T16:28:33Z" updated_time="2014-06-26T16:28:33Z" scratch="false" x="5" y="5" clock="28" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="54912567-f219-45f9-8496-b9761b1c441f" type="throwin" time="2014-06-26T16:28:41Z" updated_time="2014-06-26T16:28:41Z" scratch="false" x="18" y="1" clock="28" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="2613ee62-0cdf-4a38-b64b-bbd5e3a3f26b" type="goal" time="2014-06-26T16:30:22Z" updated_time="2014-06-26T16:30:30Z" scratch="false" x="93" y="47" clock="31" home_score="1" away_score="0" penalty="false" owngoal="true" header="false" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="d9cbac68-a227-413e-b6d0-2d81b356cc3a">
+          <description>It's now 1-0 thanks to an own goal from John Boye.</description>
+        </fact>
+        <fact id="ffc529a8-381b-45b4-aaa7-bd6b9ac66cfa" type="keeper_save" time="2014-06-26T16:31:56Z" updated_time="2014-06-26T16:31:56Z" scratch="false" x="79" y="37" clock="31" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="aecd82a5-b981-4f51-a114-bf88ef4ab56a" type="throwin" time="2014-06-26T16:31:58Z" updated_time="2014-06-26T16:31:58Z" scratch="false" x="68" y="2" clock="31" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal to take a throw-in in Ghana territory.</description>
+        </fact>
+        <fact id="6f9c293a-cb8c-4cec-b033-793e9efb21ec" type="offside" time="2014-06-26T16:31:15Z" updated_time="2014-06-26T16:31:28Z" scratch="false" x="17" y="26" clock="32" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>In Brasilia Ghana's Asamoah Gyan is caught offside.</description>
+        </fact>
+        <fact id="efdf0e69-6b24-4582-997c-f4ac8a513c66" type="shot_on_target" time="2014-06-26T16:31:56Z" updated_time="2014-06-26T16:32:01Z" scratch="false" x="79" y="37" clock="32" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal push forward through Cristiano Ronaldo, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="3b341293-7661-446e-a8ad-237291ddfea0" type="shot_off_target" time="2014-06-26T16:33:59Z" updated_time="2014-06-26T16:34:02Z" scratch="false" x="85" y="29" clock="34" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="2fc9bb0c-925a-4b30-88c9-ee0e115dad60">
+          <description>In Brasilia Portugal attack through Ruben Amorim. The finish is off target, however.</description>
+        </fact>
+        <fact id="ae254ee8-1b57-42f8-82fc-47c08e1acbd0" type="goal_kick" time="2014-06-26T16:33:59Z" updated_time="2014-06-26T16:33:59Z" scratch="false" x="95" y="50" clock="34" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah awards Ghana a goal kick.</description>
+        </fact>
+        <fact id="7e75b9dc-88da-4a7a-a848-4e3342a9d17b" type="goal_kick" time="2014-06-26T16:35:18Z" updated_time="2014-06-26T16:35:18Z" scratch="false" x="95" y="50" clock="35" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Goal kick for Ghana at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="e349bb46-47b8-4a45-b5a2-7390983f6c35" type="shot_off_target" time="2014-06-26T16:36:27Z" updated_time="2014-06-26T16:36:56Z" scratch="false" x="17" y="56" clock="36" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana's Asamoah Gyan gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="c7a16b96-ffef-4c6c-a1b9-fe1f8cc6b3dd" type="goal_kick" time="2014-06-26T16:36:27Z" updated_time="2014-06-26T16:36:27Z" scratch="false" x="5" y="50" clock="36" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ball goes out of play for a Portugal goal kick.</description>
+        </fact>
+        <fact id="6a231b88-2c8c-4308-9783-b95d0a57b237" type="throwin" time="2014-06-26T16:36:43Z" updated_time="2014-06-26T16:36:43Z" scratch="false" x="30" y="100" clock="36" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="f5974757-7d35-43fd-a1a9-4e1fb5d3ffc0" type="free_kick" time="2014-06-26T16:37:23Z" updated_time="2014-06-26T16:37:23Z" scratch="false" x="25" y="45" clock="37" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b4268be6-47eb-46ad-ac33-9e5d34ac2926" type="free_kick" time="2014-06-26T16:38:31Z" updated_time="2014-06-26T16:38:31Z" scratch="false" x="17" y="82" clock="38" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="60e9dd97-46e3-43d0-bdbb-1a8b1c97f20f" type="free_kick" time="2014-06-26T16:38:47Z" updated_time="2014-06-26T16:38:47Z" scratch="false" x="45" y="56" clock="38" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4b953912-1a98-4ab2-9b6a-3bb1b1c7a745" type="card" time="2014-06-26T16:38:53Z" updated_time="2014-06-26T16:38:59Z" scratch="false" clock="39" card="Y" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="8d89e37d-374a-4351-bc9b-30f64ef13da9">
+          <description>Harrison Afful (Ghana) has received a yellow card from Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="ae003f39-7d96-4e68-8cb5-8d6b4654c800" type="free_kick" time="2014-06-26T16:40:05Z" updated_time="2014-06-26T16:40:05Z" scratch="false" x="46" y="26" clock="39" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="7d6e6e30-e30d-45eb-b336-5fa550ef1969" type="shot_off_target" time="2014-06-26T16:39:44Z" updated_time="2014-06-26T16:39:47Z" scratch="false" x="12" y="67" clock="40" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="b0af80a2-b2c8-4a84-8e39-75f5b56fbc00">
+          <description>Christian Atsu of Ghana gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="298c2fb6-3095-486c-b78c-2f7574336321" type="goal_kick" time="2014-06-26T16:39:45Z" updated_time="2014-06-26T16:39:45Z" scratch="false" x="5" y="50" clock="40" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah awards Portugal a goal kick.</description>
+        </fact>
+        <fact id="39ad51b4-90c9-424f-b0bf-b52a01300bc6" type="throwin" time="2014-06-26T16:40:25Z" updated_time="2014-06-26T16:40:25Z" scratch="false" x="82" y="99" clock="40" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="ff4cd955-699b-4285-95be-58e9eabed2de" type="offside" time="2014-06-26T16:41:07Z" updated_time="2014-06-26T16:41:12Z" scratch="false" x="18" y="26" clock="41" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana's Asamoah Gyan is whistled for offside at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="75e3a0c9-9479-4c37-b5e3-e491072744d1" type="throwin" time="2014-06-26T16:42:21Z" updated_time="2014-06-26T16:42:21Z" scratch="false" x="43" y="99" clock="42" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Portugal's half?</description>
+        </fact>
+        <fact id="cb2f2c82-cf47-4226-9ace-8be74175c810" type="goal_kick" time="2014-06-26T16:42:32Z" updated_time="2014-06-26T16:42:32Z" scratch="false" x="5" y="50" clock="42" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a goal kick.</description>
+        </fact>
+        <fact id="6a9cc801-1094-4577-a7b5-5bdac8b82055" type="throwin" time="2014-06-26T16:43:30Z" updated_time="2014-06-26T16:43:30Z" scratch="false" x="67" y="0" clock="43" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="c184e35e-cfa8-4657-a58b-afdd86685b39" type="shot_off_target" time="2014-06-26T16:44:11Z" updated_time="2014-06-26T16:44:14Z" scratch="false" x="76" y="63" clock="44" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="02013139-01a2-44ee-97e1-25bb26b5b420">
+          <description>Portugal are coming forward and Nani gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="30b8b62d-c933-4989-a1c8-4bae25003788" type="goal_kick" time="2014-06-26T16:44:12Z" updated_time="2014-06-26T16:44:12Z" scratch="false" x="95" y="50" clock="44" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Goal kick for Ghana at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="68c62bef-3607-4c3c-aa78-84018ddc3bd1" type="throwin" time="2014-06-26T16:44:37Z" updated_time="2014-06-26T16:44:37Z" scratch="false" x="43" y="2" clock="44" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Portugal's half?</description>
+        </fact>
+        <fact id="6cbf885e-c63e-4d26-a06f-d21ba138bc0c" type="goal_kick" time="2014-06-26T16:44:49Z" updated_time="2014-06-26T16:44:49Z" scratch="false" x="5" y="50" clock="44" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ball goes out of play for a Portugal goal kick.</description>
+        </fact>
+        <fact id="a95fc182-a59e-4f18-9fa8-477775f9cc20" type="corner_kick" time="2014-06-26T16:45:43Z" updated_time="2014-06-26T16:45:43Z" scratch="false" x="95" y="5" clock="45" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Corner awarded to Portugal.</description>
+        </fact>
+        <fact id="8a432d2d-4a29-4973-ba30-8e6d0528475c" type="throwin" time="2014-06-26T16:45:54Z" updated_time="2014-06-26T17:07:20Z" scratch="false" x="61" y="2" clock="49" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a Portugal throw-in in Ghana's half.</description>
+        </fact>
+        <fact id="a1ff0463-3ad4-439f-a476-9a64551030f5" type="period_over" time="2014-06-26T16:46:18Z" updated_time="2014-06-26T16:46:18Z" scratch="false" home_score="1" away_score="0" period="P1">
+          <description>The whistle has gone to end the first-half.</description>
+        </fact>
+        <fact id="6c4db659-922f-44ba-8533-3deccd4c113f" type="period_started" time="2014-06-26T16:46:18Z" updated_time="2014-06-26T16:46:18Z" scratch="false" period="H"/>
+        <fact id="9e2bce2d-9743-42cf-8842-0b8b04a86934" type="period_started" time="2014-06-26T17:03:07Z" updated_time="2014-06-26T17:03:07Z" scratch="false" period="P2"/>
+        <fact id="b061e999-4ab9-4ed8-9673-40767084722f" type="goal_kick" time="2014-06-26T17:03:15Z" updated_time="2014-06-26T17:03:15Z" scratch="false" x="5" y="50" clock="45" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah awards Portugal a goal kick.</description>
+        </fact>
+        <fact id="5a9d52e7-28fb-482d-a8ea-d7557e0018e9" type="injury_time" time="2014-06-26T16:45:52Z" updated_time="2014-06-26T16:45:52Z" scratch="false" clock="45" injury_time="1" period="P1">
+          <description>The first half is prolonged by 1 minutes of added time.</description>
+        </fact>
+        <fact id="228bf773-522e-43df-8545-153052260bff" type="free_kick" time="2014-06-26T17:04:11Z" updated_time="2014-06-26T17:04:11Z" scratch="false" x="38" y="60" clock="46" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Free kick Ghana.</description>
+        </fact>
+        <fact id="856e14f9-53e6-44a5-93e2-7391a34bbf8e" type="throwin" time="2014-06-26T17:04:38Z" updated_time="2014-06-26T17:04:38Z" scratch="false" x="53" y="1" clock="46" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana in their own half.</description>
+        </fact>
+        <fact id="a429169f-665c-4a8c-a6e7-89e350006f4b" type="throwin" time="2014-06-26T17:05:01Z" updated_time="2014-06-26T17:05:01Z" scratch="false" x="39" y="2" clock="46" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="c5e22b93-05f3-461f-a6ee-bb49166e7fb5" type="shot_blocked" time="2014-06-26T17:05:52Z" updated_time="2014-06-26T17:06:21Z" scratch="false" x="93" y="5" clock="48" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>In Brasilia, Nani of Portugal is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="bc92905d-deab-4ad6-8625-49a12306066c" type="corner_kick" time="2014-06-26T17:06:15Z" updated_time="2014-06-26T17:06:15Z" scratch="false" x="95" y="5" clock="48" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="4e22a192-bf0b-4ac6-af5f-8c92a64067e0" type="free_kick" time="2014-06-26T17:06:26Z" updated_time="2014-06-26T17:06:26Z" scratch="false" x="60" y="85" clock="48" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="dbdd8cc1-2024-4563-a0a7-cd3b3e4d9bd5" type="free_kick" time="2014-06-26T17:07:12Z" updated_time="2014-06-26T17:07:12Z" scratch="false" x="33" y="32" clock="49" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="472d2ef9-f95e-40dd-b480-9590eac2a0d3" type="free_kick" time="2014-06-26T17:07:46Z" updated_time="2014-06-26T17:07:46Z" scratch="false" x="61" y="58" clock="49" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="cfeb8822-6cb3-4d9d-8450-374225f35a76" type="shot_off_target" time="2014-06-26T17:08:42Z" updated_time="2014-06-26T17:08:45Z" scratch="false" x="15" y="64" clock="51" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana are pushing forward but Asamoah Gyan's finish is wide of the goal.</description>
+        </fact>
+        <fact id="3f5d233c-60be-47b2-9aa6-a365e56de0e6" type="goal_kick" time="2014-06-26T17:08:42Z" updated_time="2014-06-26T17:08:42Z" scratch="false" x="5" y="50" clock="51" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a goal kick.</description>
+        </fact>
+        <fact id="87e7eb11-6f84-4286-9cf8-c01d42030edc" type="throwin" time="2014-06-26T17:09:12Z" updated_time="2014-06-26T17:09:12Z" scratch="false" x="40" y="99" clock="51" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in Portugal.</description>
+        </fact>
+        <fact id="c09b587f-1038-492f-9a1a-e7c5f6c2c5c4" type="free_kick" time="2014-06-26T17:10:09Z" updated_time="2014-06-26T17:10:09Z" scratch="false" x="25" y="77" clock="52" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="7a0ff816-55e7-4b1c-bbc3-6449d2501079" type="throwin" time="2014-06-26T17:10:39Z" updated_time="2014-06-26T17:10:39Z" scratch="false" x="84" y="99" clock="52" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball safe as Ghana is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="ab707ca1-4469-4633-ba63-487e958ad236" type="shot_blocked" time="2014-06-26T17:12:04Z" updated_time="2014-06-26T17:12:10Z" scratch="false" x="87" y="61" clock="54" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal's Nani gets in a shot but it is blocked by a Ghana defender.</description>
+        </fact>
+        <fact id="16348f3f-7658-4f5a-9dec-7bfbecf37d05" type="throwin" time="2014-06-26T17:12:13Z" updated_time="2014-06-26T17:12:13Z" scratch="false" x="60" y="2" clock="54" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana in their own half.</description>
+        </fact>
+        <fact id="7e05743d-bf90-4af1-903a-2c8efe9cb691" type="throwin" time="2014-06-26T17:12:28Z" updated_time="2014-06-26T17:12:28Z" scratch="false" x="37" y="1" clock="54" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Can Ghana get the ball into an attacking position from this throw-in in Portugal's half?</description>
+        </fact>
+        <fact id="2b996a90-b270-4cef-99a1-61259346847e" type="free_kick" time="2014-06-26T17:12:48Z" updated_time="2014-06-26T17:12:48Z" scratch="false" x="16" y="29" clock="54" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="72fbfd6a-0335-4e0b-8ad5-caedf6e04ed1" type="card" time="2014-06-26T17:12:53Z" updated_time="2014-06-26T17:13:09Z" scratch="false" clock="55" card="Y" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="a579bdd9-f5eb-4124-84b4-2de0abc3dce7">
+          <description>Majeed Waris (Ghana) has received a first yellow card.</description>
+        </fact>
+        <fact id="28e95f27-e914-47c2-8769-06320961ed8c" type="game_resumed" time="2014-06-26T17:13:47Z" updated_time="2014-06-26T17:13:47Z" scratch="false" clock="55">
+          <description>Play has been resumed at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="6a09b699-0b92-4eed-83aa-2dc35af64cb2" type="injury" time="2014-06-26T17:13:33Z" updated_time="2014-06-26T17:13:33Z" scratch="false" x="16" y="29" clock="56" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="311a7e3c-5727-4bd3-898c-dfb9691b903d">
+          <description>Play has been interrupted briefly in Brasilia to check on Pepe, who is grimacing with pain.</description>
+        </fact>
+        <fact id="7b6e23fe-12a8-4707-b1d1-2cbf698de579" type="injury_return" time="2014-06-26T17:14:40Z" updated_time="2014-06-26T17:14:40Z" scratch="false" clock="56" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="311a7e3c-5727-4bd3-898c-dfb9691b903d">
+          <description>Portugal's Pepe is back in action after a slight knock.</description>
+        </fact>
+        <fact id="d5f63c9c-84da-47e9-b301-75ceb7661baa" type="goal" time="2014-06-26T17:14:29Z" updated_time="2014-06-26T17:14:33Z" scratch="false" x="6" y="47" clock="57" home_score="1" away_score="1" penalty="false" owngoal="false" header="false" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0" assist1_id="2206db48-2813-46e2-9b87-a957c088ac21">
+          <description>Kwadwo Asamoah instrumental with a fine assist.</description>
+        </fact>
+        <fact id="b8cfa657-18d6-437b-8f39-22b9cb0e9a4c" type="keeper_save" time="2014-06-26T17:15:45Z" updated_time="2014-06-26T17:15:45Z" scratch="false" x="84" y="28" clock="57" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="751507bd-2b0d-4fd1-b6d2-130af01d2370" type="corner_kick" time="2014-06-26T17:15:33Z" updated_time="2014-06-26T17:15:33Z" scratch="false" x="95" y="5" clock="58" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="3905d966-9e98-47f3-b9a7-a2de7066684c" type="shot_on_target" time="2014-06-26T17:15:45Z" updated_time="2014-06-26T17:15:49Z" scratch="false" x="84" y="28" clock="58" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>In Brasilia Portugal drive forward through Cristiano Ronaldo. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="e50b12d2-61fc-4459-bf52-fd023f4219cf" type="throwin" time="2014-06-26T17:16:08Z" updated_time="2014-06-26T17:16:08Z" scratch="false" x="19" y="1" clock="58" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana close to the penalty box.</description>
+        </fact>
+        <fact id="505fd05b-7710-40af-a877-f2e0dbdf9450" type="throwin" time="2014-06-26T17:16:46Z" updated_time="2014-06-26T17:16:46Z" scratch="false" x="47" y="99" clock="58" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="f1b5aa39-0c86-482f-be62-3bdbeef5959f" type="free_kick" time="2014-06-26T17:16:55Z" updated_time="2014-06-26T17:16:55Z" scratch="false" x="30" y="82" clock="58" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana.</description>
+        </fact>
+        <fact id="0d7ac971-1953-4b12-88fe-b6e6cb8ba389" type="offside" time="2014-06-26T17:16:28Z" updated_time="2014-06-26T17:16:40Z" scratch="false" x="20" y="53" clock="59" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana's Asamoah Gyan has run offside.</description>
+        </fact>
+        <fact id="1c4ceced-42d4-4047-9e6d-637daf16cb10" type="free_kick" time="2014-06-26T17:17:25Z" updated_time="2014-06-26T17:17:25Z" scratch="false" x="23" y="50" clock="59" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a free kick to Portugal in their own half.</description>
+        </fact>
+        <fact id="740141e5-2e7b-4441-9e9c-5a64ad2e7c8a" type="shot_off_target" time="2014-06-26T17:18:29Z" updated_time="2014-06-26T17:18:33Z" scratch="false" x="11" y="39" clock="61" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="a579bdd9-f5eb-4124-84b4-2de0abc3dce7">
+          <description>Ghana's Majeed Waris misses with an attempt on goal.</description>
+        </fact>
+        <fact id="3846ac7e-900d-4121-988b-327dcf9a7d7e" type="goal_kick" time="2014-06-26T17:18:29Z" updated_time="2014-06-26T17:18:29Z" scratch="false" x="5" y="50" clock="61" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Goal kick for Portugal at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="1d48d98e-9b81-4a75-897b-af5ed67f2b77" type="substitution" time="2014-06-26T17:19:12Z" updated_time="2014-06-26T17:19:12Z" scratch="false" clock="61" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_out_id="12a05993-0eac-42bc-86cf-2d13958536c5" player_in_id="0e52c949-72bd-48c2-a6bd-9f2fd89091c3">
+          <description>Paulo Bento is making the team's first substitution at Estadio Nacional de Brasilia  with Silvestre Varela replacing Joao Pereira.</description>
+        </fact>
+        <fact id="7a45075c-970b-437a-9f15-899896f1563c" type="free_kick" time="2014-06-26T17:19:30Z" updated_time="2014-06-26T17:19:30Z" scratch="false" x="56" y="24" clock="61" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Free kick Portugal.</description>
+        </fact>
+        <fact id="02d8c1d5-7c19-439d-b9ae-685c8f9c66b3" type="throwin" time="2014-06-26T17:19:51Z" updated_time="2014-06-26T17:19:51Z" scratch="false" x="47" y="1" clock="61" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ball safe as Portugal is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="444e8874-f932-40d2-bc9f-da5d666cda98" type="throwin" time="2014-06-26T17:21:06Z" updated_time="2014-06-26T17:21:06Z" scratch="false" x="42" y="1" clock="62" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in Portugal.</description>
+        </fact>
+        <fact id="7c64e0df-2cbf-41f4-9c4d-06856c7bf488" type="throwin" time="2014-06-26T17:21:34Z" updated_time="2014-06-26T17:21:34Z" scratch="false" x="29" y="2" clock="63" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="8e9d27c1-bba4-4d8f-b789-d2b6a062e628" type="free_kick" time="2014-06-26T17:22:01Z" updated_time="2014-06-26T17:22:01Z" scratch="false" x="84" y="47" clock="63" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="4744eecc-d1b6-4345-afcf-c21fe2805557" type="free_kick" time="2014-06-26T17:22:44Z" updated_time="2014-06-26T17:22:44Z" scratch="false" x="41" y="44" clock="64" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="81116a4f-57df-4b1f-a503-2742bcb03552" type="free_kick" time="2014-06-26T17:24:00Z" updated_time="2014-06-26T17:24:00Z" scratch="false" x="79" y="36" clock="65" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="c3469ab6-2c44-431d-a28d-f190b3c9c2e2" type="shot_off_target" time="2014-06-26T17:23:21Z" updated_time="2014-06-26T17:23:24Z" scratch="false" x="23" y="38" clock="66" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="b0af80a2-b2c8-4a84-8e39-75f5b56fbc00">
+          <description>Ghana are coming forward and Christian Atsu gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="33b7876c-9754-430b-a3df-ce4e53741460" type="goal_kick" time="2014-06-26T17:23:21Z" updated_time="2014-06-26T17:23:21Z" scratch="false" x="5" y="50" clock="66" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ball goes out of play for a Portugal goal kick.</description>
+        </fact>
+        <fact id="66b56673-9d3f-4714-97a6-5694c7db4b4f" type="free_kick" time="2014-06-26T17:24:39Z" updated_time="2014-06-26T17:24:39Z" scratch="false" x="8" y="23" clock="66" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Free kick in a good position for Ghana!</description>
+        </fact>
+        <fact id="03ef7990-496e-4468-87aa-2a894fb24361" type="throwin" time="2014-06-26T17:25:38Z" updated_time="2014-06-26T17:25:38Z" scratch="false" x="60" y="1" clock="67" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="b27bf7a0-4258-46d9-bf19-2fd84e4050a3" type="throwin" time="2014-06-26T17:25:46Z" updated_time="2014-06-26T17:25:46Z" scratch="false" x="40" y="2" clock="67" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a Ghana throw-in in Portugal's half.</description>
+        </fact>
+        <fact id="bbe3ffb9-d76f-48d9-8008-7cf6d1b7db0e" type="shot_off_target" time="2014-06-26T17:25:15Z" updated_time="2014-06-26T17:25:20Z" scratch="false" x="24" y="55" clock="68" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="2206db48-2813-46e2-9b87-a957c088ac21">
+          <description>Ghana's Kwadwo Asamoah breaks free at Estadio Nacional de Brasilia . But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="577ccc3e-d131-4f70-b96d-0e26ccdcaffa" type="goal_kick" time="2014-06-26T17:25:15Z" updated_time="2014-06-26T17:25:15Z" scratch="false" x="5" y="50" clock="68" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Goal kick for Portugal at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="b056f15f-62fb-43ee-9a38-848e3a816c7b" type="shot_off_target" time="2014-06-26T17:27:01Z" updated_time="2014-06-26T17:27:18Z" scratch="false" x="85" y="46" clock="69" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="0e52c949-72bd-48c2-a6bd-9f2fd89091c3">
+          <description>Silvestre Varela for Portugal gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="baf822fd-7943-46ac-bb89-beacdc1ec55d" type="goal_kick" time="2014-06-26T17:27:01Z" updated_time="2014-06-26T17:27:01Z" scratch="false" x="95" y="50" clock="69" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah awards Ghana a goal kick.</description>
+        </fact>
+        <fact id="20cad5ef-2d67-4a3b-8218-454b36122185" type="substitution" time="2014-06-26T17:27:09Z" updated_time="2014-06-26T17:27:09Z" scratch="false" clock="69" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_out_id="d659b35a-58ab-4407-b366-a223cb54ea52" player_in_id="2a2f2c3b-c005-4648-9b6e-66ba71b2b4bd">
+          <description>Vieirinha is replacing Eder for Portugal at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="04d34497-9ee9-448c-86be-a3193d0ceaec" type="free_kick" time="2014-06-26T17:27:22Z" updated_time="2014-06-26T17:27:22Z" scratch="false" x="32" y="45" clock="69" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Free kick Ghana.</description>
+        </fact>
+        <fact id="83188608-0bf0-4598-bbde-cbed1f8b15ec" type="throwin" time="2014-06-26T17:28:26Z" updated_time="2014-06-26T17:28:26Z" scratch="false" x="80" y="98" clock="70" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="21031a31-298c-44c8-9498-46627627b40c" type="substitution" time="2014-06-26T17:28:52Z" updated_time="2014-06-26T17:28:52Z" scratch="false" clock="71" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_out_id="a579bdd9-f5eb-4124-84b4-2de0abc3dce7" player_in_id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8">
+          <description>Jordan Pierre Ayew is on a sub for Majeed Waris for Ghana.</description>
+        </fact>
+        <fact id="34258136-d363-4a6e-978d-baca05455c67" type="throwin" time="2014-06-26T17:30:22Z" updated_time="2014-06-26T17:30:22Z" scratch="false" x="86" y="1" clock="72" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in Ghana.</description>
+        </fact>
+        <fact id="dca4d6e1-369a-4d9b-a306-4e5b71e03dfd" type="throwin" time="2014-06-26T17:31:49Z" updated_time="2014-06-26T17:31:49Z" scratch="false" x="84" y="99" clock="73" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a dangerous throw-in.</description>
+        </fact>
+        <fact id="f86e9ec7-b965-4bb3-a388-d6b5968d1d60" type="throwin" time="2014-06-26T17:32:04Z" updated_time="2014-06-26T17:32:04Z" scratch="false" x="48" y="2" clock="73" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="c08de6b0-8f9d-4137-be8b-9ab7da1a1ad6" type="corner_kick" time="2014-06-26T17:31:43Z" updated_time="2014-06-26T17:31:43Z" scratch="false" x="95" y="5" clock="74" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Corner awarded to Portugal.</description>
+        </fact>
+        <fact id="58b4be1c-0fce-4295-8fda-76386608bc68" type="throwin" time="2014-06-26T17:32:37Z" updated_time="2014-06-26T17:32:37Z" scratch="false" x="77" y="0" clock="74" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball safe as Ghana is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="7206eea9-96e6-4e9c-9a96-bdee25f77c02" type="shot_off_target" time="2014-06-26T17:33:14Z" updated_time="2014-06-26T17:33:18Z" scratch="false" x="8" y="45" clock="76" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana's Asamoah Gyan gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="65e5e9f1-4cb1-4951-9423-e88746f48bc0" type="goal_kick" time="2014-06-26T17:33:14Z" updated_time="2014-06-26T17:33:14Z" scratch="false" x="5" y="50" clock="76" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ball goes out of play for a Portugal goal kick.</description>
+        </fact>
+        <fact id="cdb80b9e-dca7-41cf-97eb-d7deed03bc4d" type="substitution" time="2014-06-26T17:33:38Z" updated_time="2014-06-26T17:33:38Z" scratch="false" clock="76" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_out_id="b8f0af18-05b3-4725-a78b-86ef6f0f204b" player_in_id="448ac3c5-5960-4e13-8e24-ff6fd492f3a0">
+          <description>James Kwesi Appiah (Ghana) is making a second substitution, with Acquah Afriyie replacing Mohammed Rabiu.</description>
+        </fact>
+        <fact id="908c442e-28f6-49d9-bb9c-33c466be567c" type="shot_blocked" time="2014-06-26T17:34:05Z" updated_time="2014-06-26T17:34:07Z" scratch="false" x="17" y="38" clock="76" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Asamoah Gyan (Ghana) gets in a strike but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="45f38a5d-ef31-4b6b-aa11-0135028eecfb" type="throwin" time="2014-06-26T17:35:00Z" updated_time="2014-06-26T17:35:00Z" scratch="false" x="86" y="1" clock="76" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Can Portugal capitalize from this throw-in deep inside Ghana's half?</description>
+        </fact>
+        <fact id="d0d667ab-5f8d-4a55-a14b-4c4cbb731720" type="shot_off_target" time="2014-06-26T17:34:12Z" updated_time="2014-06-26T17:34:15Z" scratch="false" x="19" y="42" clock="77" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="55dd3392-6012-4879-9770-97e666d72d9c">
+          <description>Ghana's Emmanuel Badu misses with an attempt on goal.</description>
+        </fact>
+        <fact id="fa583ef7-710a-40f6-9a3b-a4ee9ada3e89" type="goal_kick" time="2014-06-26T17:34:12Z" updated_time="2014-06-26T17:34:12Z" scratch="false" x="5" y="50" clock="77" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a goal kick.</description>
+        </fact>
+        <fact id="198fad64-a66e-4918-8417-b9a00403870d" type="free_kick" time="2014-06-26T17:35:15Z" updated_time="2014-06-26T17:35:15Z" scratch="false" x="70" y="52" clock="77" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="acf46fda-fc70-4d93-b5d5-dc408e88752b" type="card" time="2014-06-26T17:35:35Z" updated_time="2014-06-26T17:35:41Z" scratch="false" clock="78" card="Y" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8">
+          <description>Jordan Pierre Ayew (Ghana) has been booked and must now be careful not to get a second yellow card.</description>
+        </fact>
+        <fact id="4c06b461-62ad-44f2-badd-c6a07ea2c36d" type="throwin" time="2014-06-26T17:36:09Z" updated_time="2014-06-26T17:36:09Z" scratch="false" x="59" y="2" clock="78" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a Portugal throw-in in Ghana's half.</description>
+        </fact>
+        <fact id="a9a08d10-b229-4d2c-b10a-6dcea52390c8" type="goal_kick" time="2014-06-26T17:36:43Z" updated_time="2014-06-26T17:36:43Z" scratch="false" x="5" y="50" clock="78" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah awards Portugal a goal kick.</description>
+        </fact>
+        <fact id="b9ab29ed-7e23-4ac1-8f96-a75f10fdd953" type="throwin" time="2014-06-26T17:37:03Z" updated_time="2014-06-26T17:37:03Z" scratch="false" x="62" y="1" clock="78" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in for Ghana in their own half.</description>
+        </fact>
+        <fact id="e576a039-3ae7-4c2d-bcda-af6a90f083cf" type="throwin" time="2014-06-26T17:37:18Z" updated_time="2014-06-26T17:37:18Z" scratch="false" x="30" y="2" clock="79" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="5d6b2c16-d449-4e2e-8fbf-1947fe31d464" type="throwin" time="2014-06-26T17:37:27Z" updated_time="2014-06-26T17:37:27Z" scratch="false" x="34" y="1" clock="79" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Throw-in for Portugal in their own half.</description>
+        </fact>
+        <fact id="710ccb2b-7d55-4117-8f61-c85c145584be" type="goal" time="2014-06-26T17:37:59Z" updated_time="2014-06-26T17:38:15Z" scratch="false" clock="80" home_score="2" away_score="1" penalty="false" owngoal="false" header="false" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo scores to make it 2-1 at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="e6949441-1abe-418c-bb4d-2a79f00d11ec" type="shot_off_target" time="2014-06-26T17:39:31Z" updated_time="2014-06-26T17:39:59Z" scratch="false" x="22" y="53" clock="82" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="441e5e10-1913-4b3f-8f1f-aca80b7abf4b">
+          <description>Mubarak Wakaso of Ghana gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="953ef362-3bdb-44a3-a136-58294bcbfdcb" type="goal_kick" time="2014-06-26T17:39:31Z" updated_time="2014-06-26T17:39:31Z" scratch="false" x="5" y="50" clock="82" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Goal kick for Portugal at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="32ef0a24-0c29-4b8e-927a-4846bfa3793d" type="substitution" time="2014-06-26T17:39:53Z" updated_time="2014-06-26T17:39:53Z" scratch="false" clock="82" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_out_id="d9edc320-1ae4-4fc4-af6c-d600c7c1a9cb" player_in_id="441e5e10-1913-4b3f-8f1f-aca80b7abf4b">
+          <description>Ghana make their third substitution with Mubarak Wakaso replacing Andre Ayew.</description>
+        </fact>
+        <fact id="a6d75875-cab2-4f16-9c69-59c8b702f453" type="keeper_save" time="2014-06-26T17:40:15Z" updated_time="2014-06-26T17:40:15Z" scratch="false" x="81" y="47" clock="82" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="7c967cb7-ed8c-4ba9-8e35-eeb4c4215300" type="shot_on_target" time="2014-06-26T17:40:15Z" updated_time="2014-06-26T17:40:18Z" scratch="false" x="81" y="47" clock="83" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Cristiano Ronaldo gets his shot on target but fails to score for Portugal.</description>
+        </fact>
+        <fact id="23689a6f-388e-4312-a1c7-0b329b2add52" type="corner_kick" time="2014-06-26T17:40:38Z" updated_time="2014-06-26T17:40:53Z" scratch="false" x="95" y="5" clock="83" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="af119c63-ea6e-460f-b22b-a531e6e00642" type="shot_off_target" time="2014-06-26T17:40:42Z" updated_time="2014-06-26T17:40:46Z" scratch="false" x="88" y="63" clock="83" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="02013139-01a2-44ee-97e1-25bb26b5b420">
+          <description>Portugal are pushing forward but Nani's finish is wide of the goal.</description>
+        </fact>
+        <fact id="a4ad4e69-f269-4a29-a73b-d4b6d2609213" type="goal_kick" time="2014-06-26T17:40:42Z" updated_time="2014-06-26T17:40:42Z" scratch="false" x="95" y="50" clock="83" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana have a goal kick.</description>
+        </fact>
+        <fact id="f6519470-f2fb-4b9c-9504-9492672bcfc5" type="keeper_save" time="2014-06-26T17:41:28Z" updated_time="2014-06-26T17:41:28Z" scratch="false" x="85" y="35" clock="83" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="5b4dfe84-c547-48c6-8a4f-9da7770df9ad" type="shot_on_target" time="2014-06-26T17:41:28Z" updated_time="2014-06-26T17:41:32Z" scratch="false" x="85" y="35" clock="84" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="0e52c949-72bd-48c2-a6bd-9f2fd89091c3"/>
+        <fact id="ed5715e6-06ec-4eee-abc7-9a59b0b0971b" type="corner_kick" time="2014-06-26T17:41:55Z" updated_time="2014-06-26T17:42:09Z" scratch="false" x="5" y="5" clock="84" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Corner awarded to Ghana.</description>
+        </fact>
+        <fact id="bde92534-4abb-49db-ac84-44cc2c90c64d" type="shot_off_target" time="2014-06-26T17:42:03Z" updated_time="2014-06-26T17:42:06Z" scratch="false" x="16" y="29" clock="84" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Ghana are coming forward and Asamoah Gyan gets in a strike, it misses the target, however.</description>
+        </fact>
+        <fact id="3c13ea1b-f5aa-4823-b2fe-8db004313505" type="goal_kick" time="2014-06-26T17:42:03Z" updated_time="2014-06-26T17:42:03Z" scratch="false" x="5" y="50" clock="84" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Ball goes out of play for a Portugal goal kick.</description>
+        </fact>
+        <fact id="e6d5ce0c-8fbc-449b-b4a9-25c1c578038d" type="free_kick" time="2014-06-26T17:42:51Z" updated_time="2014-06-26T17:42:51Z" scratch="false" x="61" y="62" clock="84" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="6d22d2bc-f12a-4620-951a-16d45ab1b544" type="throwin" time="2014-06-26T17:43:09Z" updated_time="2014-06-26T17:43:09Z" scratch="false" x="20" y="1" clock="85" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a throw-in for Ghana, close to Portugal's area.</description>
+        </fact>
+        <fact id="a515ffcd-46a4-4dfa-9409-0ba811274ac8" type="free_kick" time="2014-06-26T17:43:39Z" updated_time="2014-06-26T17:43:39Z" scratch="false" x="39" y="79" clock="85" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana.</description>
+        </fact>
+        <fact id="862fbbaf-5671-441a-a50b-e3a1a01d89dc" type="throwin" time="2014-06-26T17:44:07Z" updated_time="2014-06-26T17:44:07Z" scratch="false" x="62" y="100" clock="86" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Throw-in Ghana.</description>
+        </fact>
+        <fact id="46f78dd4-5137-4f7f-b1b8-7234a1a4ee7d" type="throwin" time="2014-06-26T17:45:04Z" updated_time="2014-06-26T17:45:04Z" scratch="false" x="79" y="98" clock="86" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="7074a79c-ae41-4c19-b32e-e87ef80f47da" type="keeper_save" time="2014-06-26T17:45:28Z" updated_time="2014-06-26T17:45:28Z" scratch="false" x="7" y="26" clock="87" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3"/>
+        <fact id="19cfecdc-6002-4f6f-adfa-90da5648320b" type="free_kick" time="2014-06-26T17:45:54Z" updated_time="2014-06-26T17:45:54Z" scratch="false" x="72" y="85" clock="87" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Nawaf Shukrallah signals a free kick to Ghana in their own half.</description>
+        </fact>
+        <fact id="28edf651-6a73-46d3-b19e-b991e4554a08" type="shot_on_target" time="2014-06-26T17:45:28Z" updated_time="2014-06-26T17:45:36Z" scratch="false" x="7" y="26" clock="88" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="f21b2aa8-5c69-4cf5-b684-4ba325f4e5d8">
+          <description>Ghana's Jordan Pierre Ayew is on target but unsuccessful.</description>
+        </fact>
+        <fact id="3a852f6c-7b68-4670-abb6-4dfea7c5286d" type="substitution" time="2014-06-26T17:46:24Z" updated_time="2014-06-26T17:46:24Z" scratch="false" clock="88" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_out_id="28838af3-7780-4da3-a9d2-723f789a71d7" player_in_id="0cd5537e-552f-498b-8499-6ef8c93b0cb7">
+          <description>Paulo Bento is making the team's third substitution at Estadio Nacional de Brasilia  with Eduardo replacing Beto.</description>
+        </fact>
+        <fact id="158a8bc4-6a14-4a19-b0d1-1dd8b657c8d3" type="shot_off_target" time="2014-06-26T17:46:50Z" updated_time="2014-06-26T17:46:52Z" scratch="false" x="14" y="41" clock="89" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>Asamoah Gyan of Ghana gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="1df13865-a17e-48a7-9a00-8235527618b6" type="goal_kick" time="2014-06-26T17:46:50Z" updated_time="2014-06-26T17:46:50Z" scratch="false" x="5" y="50" clock="89" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have a goal kick.</description>
+        </fact>
+        <fact id="898bfde3-0a09-4744-b259-e4fb0925f585" type="throwin" time="2014-06-26T17:47:46Z" updated_time="2014-06-26T17:47:46Z" scratch="false" x="62" y="100" clock="89" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Can Portugal get the ball into an attacking position from this throw-in in Ghana's half?</description>
+        </fact>
+        <fact id="0379565d-0f8c-4892-aff2-671bbbd7cff6" type="corner_kick" time="2014-06-26T17:48:28Z" updated_time="2014-06-26T17:48:28Z" scratch="false" x="95" y="90" clock="90" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Portugal have been awarded a corner by Nawaf Shukrallah.</description>
+        </fact>
+        <fact id="c56e1736-d971-49c1-900a-6ba93fbd0ab9" type="injury_time" time="2014-06-26T17:48:36Z" updated_time="2014-06-26T17:48:36Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>4 minutes will be added to the second half.</description>
+        </fact>
+        <fact id="a3d6aaac-2ab2-45a6-ad6f-536fc3fb98f6" type="throwin" time="2014-06-26T17:48:43Z" updated_time="2014-06-26T17:48:43Z" scratch="false" x="62" y="1" clock="90" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah signals a Portugal throw-in in Ghana's half.</description>
+        </fact>
+        <fact id="2681cc88-72c1-408b-b6ed-6a43a2e37bac" type="shot_off_target" time="2014-06-26T17:48:59Z" updated_time="2014-06-26T17:49:02Z" scratch="false" x="89" y="53" clock="90" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal's Cristiano Ronaldo breaks free at Estadio Nacional de Brasilia . But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="c7cb2da6-a951-4774-b8aa-f78295d959d2" type="goal_kick" time="2014-06-26T17:48:59Z" updated_time="2014-06-26T17:48:59Z" scratch="false" x="95" y="50" clock="90" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ball goes out of play for a Ghana goal kick.</description>
+        </fact>
+        <fact id="352fe44f-5830-4dbd-8c5a-2a46c0cd32f4" type="shot_on_target" time="2014-06-26T17:49:38Z" updated_time="2014-06-26T17:49:41Z" scratch="false" x="86" y="50" clock="90" injury_time="1" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="e32745de-db22-4515-80f2-ac13d0353ae5">
+          <description>Portugal's Cristiano Ronaldo gets in a shot on goal at Estadio Nacional de Brasilia . But the effort is unsuccessful.</description>
+        </fact>
+        <fact id="7f2e4596-8de7-419e-9d56-c8ac011ebf45" type="keeper_save" time="2014-06-26T17:49:38Z" updated_time="2014-06-26T17:49:38Z" scratch="false" x="86" y="50" clock="90" injury_time="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020"/>
+        <fact id="8b1352c1-864b-41c8-9afd-6949ea2df3f5" type="shot_off_target" time="2014-06-26T17:49:53Z" updated_time="2014-06-26T17:49:56Z" scratch="false" x="83" y="46" clock="90" injury_time="1" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="02013139-01a2-44ee-97e1-25bb26b5b420">
+          <description>Portugal are pushing forward but Nani's finish is wide of the goal.</description>
+        </fact>
+        <fact id="cfe86b2f-6d8f-4d8d-b61a-e0c7e8b4a5fa" type="goal_kick" time="2014-06-26T17:49:53Z" updated_time="2014-06-26T17:49:53Z" scratch="false" x="95" y="50" clock="90" injury_time="1" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Goal kick for Ghana at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="a57f9d2e-6679-4425-bc0e-da07423e9978" type="throwin" time="2014-06-26T17:51:02Z" updated_time="2014-06-26T17:51:02Z" scratch="false" x="28" y="99" clock="90" injury_time="2" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Ghana to take a throw-in in Portugal territory.</description>
+        </fact>
+        <fact id="f4f91d99-e4d5-4e9b-b989-d9861ba51d66" type="free_kick" time="2014-06-26T17:51:11Z" updated_time="2014-06-26T17:51:11Z" scratch="false" x="21" y="68" clock="90" injury_time="3" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Free kick Ghana.</description>
+        </fact>
+        <fact id="20fe8887-5550-41ef-9277-b881a1fc147f" type="card" time="2014-06-26T17:51:34Z" updated_time="2014-06-26T17:51:34Z" scratch="false" clock="90" injury_time="3" card="Y" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="1b99177c-9e04-46aa-abf5-8d01a02d64b4">
+          <description>Joao Moutinho (Portugal) gets a yellow card.</description>
+        </fact>
+        <fact id="24ec6503-4abf-418c-a6b9-59800917341b" type="shot_off_target" time="2014-06-26T17:52:46Z" updated_time="2014-06-26T17:52:51Z" scratch="false" x="21" y="68" clock="90" injury_time="4" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020" player_id="cad31ede-f44a-4a8a-84e6-5ec9351ab9a0">
+          <description>In Brasilia Ghana attack through Asamoah Gyan. The finish is off target, however.</description>
+        </fact>
+        <fact id="d631866b-2a8c-4309-b81f-44f9d0f768f0" type="goal_kick" time="2014-06-26T17:52:46Z" updated_time="2014-06-26T17:52:46Z" scratch="false" x="5" y="50" clock="90" injury_time="4" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3">
+          <description>Nawaf Shukrallah awards Portugal a goal kick.</description>
+        </fact>
+        <fact id="7366cb82-350d-40bf-b3de-09687d187ae9" type="shot_off_target" time="2014-06-26T17:53:11Z" updated_time="2014-06-26T17:53:15Z" scratch="false" x="78" y="57" clock="90" injury_time="5" team_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" player_id="1b99177c-9e04-46aa-abf5-8d01a02d64b4">
+          <description>Portugal's Joao Moutinho gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="e77fd505-38a0-41c2-b28d-93fc9614617c" type="goal_kick" time="2014-06-26T17:53:11Z" updated_time="2014-06-26T17:53:11Z" scratch="false" x="95" y="50" clock="90" injury_time="5" team_id="9fe2410e-fa8c-4466-9926-ce8a71bf8020">
+          <description>Goal kick for Ghana at Estadio Nacional de Brasilia .</description>
+        </fact>
+        <fact id="730adc86-f59b-469d-a056-622a98bc7338" type="period_over" time="2014-06-26T17:53:20Z" updated_time="2014-06-26T17:53:20Z" scratch="false" home_score="2" away_score="1" period="P2">
+          <description>Nawaf Shukrallah blows to end the match. The final score is 2-1.</description>
+        </fact>
+        <fact id="d803268a-8445-47de-b50a-23a1e41a2c3c" type="match_ended" time="2014-06-26T17:53:20Z" updated_time="2014-06-26T17:53:20Z" scratch="false" home_score="2" away_score="1" winner_id="d49ecca2-07bc-417f-bf19-e653c81e07e3" draw="false"/>
+      </facts>
+      <!-- 4768792/4704/4764 -->
+    </match>
+  </matches>
+</summary>

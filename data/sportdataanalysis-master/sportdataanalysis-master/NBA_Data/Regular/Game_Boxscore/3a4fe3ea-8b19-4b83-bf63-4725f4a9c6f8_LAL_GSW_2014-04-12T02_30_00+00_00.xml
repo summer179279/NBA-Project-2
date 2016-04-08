@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-12 05:10:43 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="3a4fe3ea-8b19-4b83-bf63-4725f4a9c6f8" status="closed" coverage="full" home_team="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec825-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-04-12T02:30:00+00:00" duration="1:59" attendance="18997" lead_changes="12" times_tied="7" clock="00:00" quarter="4">
+  <team name="Lakers" market="Los Angeles" id="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" points="95">
+    <scoring>
+      <quarter number="1" sequence="1" points="26"/>
+      <quarter number="2" sequence="2" points="17"/>
+      <quarter number="3" sequence="3" points="26"/>
+      <quarter number="4" sequence="4" points="26"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Nick Young" position="G-F" primary_position="SG" jersey_number="0" id="d323405a-4655-4261-b0fa-9524523143a1">
+          <statistics minutes="30:04" field_goals_made="10" field_goals_att="20" field_goals_pct="50.0" three_points_made="3" three_points_att="8" three_points_pct="37.5" two_points_made="7" two_points_att="12" two_points_pct="0.583" blocked_att="1" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="0" rebounds="0" assists="4" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0" personal_fouls="1" tech_fouls="0" flagrant_fouls="0" pls_min="-8" points="25"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Jordan Hill" position="C-F" primary_position="PF" jersey_number="27" id="91ec3171-9b9c-48ee-bb52-d075dc41bacb">
+          <statistics minutes="41:35" field_goals_made="7" field_goals_att="18" field_goals_pct="38.9" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="18" two_points_pct="0.389" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="4" defensive_rebounds="8" rebounds="12" assists="4" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="2.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-20" points="18"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Jordan Hill" position="C-F" primary_position="PF" jersey_number="27" id="91ec3171-9b9c-48ee-bb52-d075dc41bacb">
+          <statistics minutes="41:35" field_goals_made="7" field_goals_att="18" field_goals_pct="38.9" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="7" two_points_att="18" two_points_pct="0.389" blocked_att="0" free_throws_made="4" free_throws_att="4" free_throws_pct="100.0" offensive_rebounds="4" defensive_rebounds="8" rebounds="12" assists="4" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="2.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-20" points="18"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Warriors" market="Golden State" id="583ec825-fb46-11e1-82cb-f4ce4684ea4c" points="112">
+    <scoring>
+      <quarter number="1" sequence="1" points="26"/>
+      <quarter number="2" sequence="2" points="32"/>
+      <quarter number="3" sequence="3" points="25"/>
+      <quarter number="4" sequence="4" points="29"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Stephen Curry" position="G" primary_position="PG" jersey_number="30" id="8ec91366-faea-4196-bbfd-b8fab7434795">
+          <statistics minutes="34:43" field_goals_made="12" field_goals_att="20" field_goals_pct="60.0" three_points_made="4" three_points_att="5" three_points_pct="80.0" two_points_made="8" two_points_att="15" two_points_pct="0.533" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="10" rebounds="10" assists="12" turnovers="6" steals="2" blocks="0" assists_turnover_ratio="2.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="13" points="30"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Stephen Curry" position="G" primary_position="PG" jersey_number="30" id="8ec91366-faea-4196-bbfd-b8fab7434795">
+          <statistics minutes="34:43" field_goals_made="12" field_goals_att="20" field_goals_pct="60.0" three_points_made="4" three_points_att="5" three_points_pct="80.0" two_points_made="8" two_points_att="15" two_points_pct="0.533" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="10" rebounds="10" assists="12" turnovers="6" steals="2" blocks="0" assists_turnover_ratio="2.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="13" points="30"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Stephen Curry" position="G" primary_position="PG" jersey_number="30" id="8ec91366-faea-4196-bbfd-b8fab7434795">
+          <statistics minutes="34:43" field_goals_made="12" field_goals_att="20" field_goals_pct="60.0" three_points_made="4" three_points_att="5" three_points_pct="80.0" two_points_made="8" two_points_att="15" two_points_pct="0.533" blocked_att="0" free_throws_made="2" free_throws_att="2" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="10" rebounds="10" assists="12" turnovers="6" steals="2" blocks="0" assists_turnover_ratio="2.0" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="13" points="30"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-04-12 05:10:43 +0000 -->

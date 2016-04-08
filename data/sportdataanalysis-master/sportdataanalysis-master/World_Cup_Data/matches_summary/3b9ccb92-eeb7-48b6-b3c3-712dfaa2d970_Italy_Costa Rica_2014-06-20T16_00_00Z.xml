@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<summary generated="2014-07-21T05:37:25Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-summary.xsd">
+  <matches>
+    <match id="3b9ccb92-eeb7-48b6-b3c3-712dfaa2d970" status="closed" scratched="false" period="P2" scheduled="2014-06-20T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="faa645e0-2fb7-4c7f-8ce3-1f419368844d" name="World Cup, Group D"/>
+      <round week="25" number="2" type="table"/>
+      <home id="fdf11341-914c-4a67-bd55-07749823deab" name="Italy" alias="ITA" country_code="ITA" country="Italy" type="team" formation="4-3-3" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="145" ball_safe="139" corner_kicks="4" dangerous_attacks="66" fouls="10" free_kicks="26" goal_attempts="8" goal_kicks="8" offsides="11" saves="5" shots_total="8" substitutions="3" throw_ins="7" yellow_card="1" shots_on_target="4" shots_off_target="4" possessions="55"/>
+        <players>
+          <player id="31786e05-ec71-4801-90cf-464b83765b2d" country_code="ITA" position="D" started="true" tactical_position="4" tactical_order="5" first_name="Matteo" last_name="Darmian" country="Italy" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2fa1c5dd-1405-4600-8397-12799cc20d14" country_code="ITA" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Ignazio" last_name="Abate" country="Italy" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="aee979df-a8d1-484a-8df3-ecca0c0d4887" country_code="ITA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Marco" last_name="Parolo" country="Italy" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2073165e-df6b-4ef2-add2-177643251efe" country_code="ITA" position="M" started="true" tactical_position="6" tactical_order="7" first_name="Daniele" last_name="De Rossi" country="Italy" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3085db65-16ab-4045-9896-8fa0c7cde1ef" country_code="ITA" position="F" started="false" tactical_position="6" tactical_order="8" first_name="Antonio" last_name="Cassano" country="Italy" jersey_number="10">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="57e93e3c-67b8-4b01-a55a-110ba9970774" country_code="ITA" position="M" started="true" tactical_position="8" tactical_order="9" first_name="Antonio" last_name="Candreva" country="Italy" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="913c8c81-a696-47aa-9e58-d7d19bbea96b" country_code="ITA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Salvatore" last_name="Sirigu" country="Italy" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="7bb23cc9-566e-4b17-b09a-037983e092eb" country_code="ITA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Alberto" last_name="Aquilani" country="Italy" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="453899a5-7474-4ef9-846b-8966c6ad4b8e" country_code="ITA" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Gianluigi" last_name="Buffon" country="Italy" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2989eb4b-bf54-48de-999a-cf474edfcb3c" country_code="ITA" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Alessio" last_name="Cerci" country="Italy" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="c346e503-6cef-40bd-b7c9-ad7007675607" country_code="ITA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Leonardo" last_name="Bonucci" country="Italy" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="6347bb8e-d68a-4fad-8602-915ba1a64d42" country_code="ITA" position="M" started="true" tactical_position="6" tactical_order="6" first_name="Andrea" last_name="Pirlo" country="Italy" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0bac8ca7-fa52-40be-916d-36f86595622b" country_code="ITA" position="M" started="true" tactical_position="8" tactical_order="11" first_name="Claudio" last_name="Marchisio" country="Italy" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="4be30ec8-6b1f-49db-ab9a-6b7f389b5470" country_code="ITA" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Giorgio" last_name="Chiellini" country="Italy" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="2e65391b-0106-4759-8c67-138d94a2a6bd" country_code="ITA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Mattia" last_name="De Sciglio" country="Italy" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0035c6f2-021d-4afc-981d-4e1cbc50abe8" country_code="ITA" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Andrea" last_name="Barzagli" country="Italy" jersey_number="15">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="d87520e6-d1d0-4559-bb46-211676b230d4" country_code="ITA" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Marco" last_name="Verratti" country="Italy" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="03f09095-ae2a-4df7-9de7-0904b2086b92" country_code="ITA" position="M" started="true" tactical_position="6" tactical_order="8" first_name="Thiago" last_name="Motta" country="Italy" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="7c599d9e-478b-4c21-bd86-8749383602fc" country_code="ITA" position="M" started="false" tactical_position="8" tactical_order="9" first_name="Lorenzo" last_name="Insigne" country="Italy" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="d93f9e77-ba19-4ac6-9b3c-41a4127fc2c3" country_code="ITA" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Gabriel" last_name="Paletta" country="Italy" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="224114c5-e1ee-46d4-88b6-1dda10f4453d" country_code="ITA" position="F" started="false" tactical_position="0" tactical_order="0" first_name="Ciro" last_name="Immobile" country="Italy" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="00f3af5b-73f9-4f7e-91e1-96487e190246" country_code="ITA" position="F" started="true" tactical_position="8" tactical_order="10" first_name="Mario" last_name="Balotelli" country="Italy" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="617d84a4-9f5b-4dfd-ad1b-b6d6b33a03fe" country_code="ITA" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Mattia" last_name="Perin" country="Italy" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </home>
+      <away id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" name="Costa Rica" alias="CRC" country_code="CRI" country="Costa Rica" type="team" formation="5-4-1" score="1" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="1" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="132" ball_safe="123" corner_kicks="5" dangerous_attacks="60" fouls="23" free_kicks="21" goal_attempts="10" goal_kicks="7" offsides="3" saves="4" shots_total="10" substitutions="3" throw_ins="20" yellow_card="1" shots_on_target="6" shots_off_target="4" possessions="45"/>
+        <players>
+          <player id="32b87aec-9053-4471-9c3c-f27eadf3b7d7" country_code="CRI" position="M" started="false" tactical_position="6" tactical_order="9" first_name="Jose" last_name="Cubero" country="Costa Rica" jersey_number="22">
+            <statistics goal="0" goal_assist="0" yellow_card="1" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="3" first_name="Oscar" last_name="Duarte" country="Costa Rica" jersey_number="6">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e1ddf3b-3501-4a89-8333-ff838ed15760" country_code="CRI" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Daniel" last_name="Cambronero" country="Costa Rica" jersey_number="23">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="589a2b5d-4c99-4fa3-b87b-e5c0d1105e69" country_code="CRI" position="F" started="false" tactical_position="5" tactical_order="7" first_name="Randall" last_name="Brenes" country="Costa Rica" jersey_number="14">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="1611d777-4434-4429-8a3c-4873f525ef00" country_code="CRI" position="F" started="true" tactical_position="6" tactical_order="8" first_name="Celso" last_name="Borges" country="Costa Rica" jersey_number="5">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="3afc4a85-ad85-4631-950d-2309c3a1acd8" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="4" first_name="Giancarlo" last_name="Gonzalez" country="Costa Rica" jersey_number="3">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="be9179f6-123e-41ce-8630-0afa9401faf1" country_code="CRI" position="D" started="true" tactical_position="2" tactical_order="2" first_name="Cristian" last_name="Gamboa" country="Costa Rica" jersey_number="16">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="b48bc2c1-71c8-4e53-817e-4928e104aef3" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Oscar" last_name="Granados" country="Costa Rica" jersey_number="13">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="469d8bfc-dd46-4061-9c77-74cad92a7527" country_code="CRI" position="F" started="true" tactical_position="5" tactical_order="7" first_name="Bryan" last_name="Ruiz" country="Costa Rica" jersey_number="10">
+            <statistics goal="1" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="67ce8e1c-4b31-4c00-9300-971fa0df1c0c" country_code="CRI" position="D" started="true" tactical_position="3" tactical_order="5" first_name="Michael" last_name="Umana" country="Costa Rica" jersey_number="4">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="259741ad-160b-46e3-a38d-ad6cb679ba8f" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Johnny" last_name="Acosta" country="Costa Rica" jersey_number="2">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="9bcdae85-d3cb-4238-a547-5094386165ca" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Dave" last_name="Myrie" country="Costa Rica" jersey_number="8">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5a836d28-591d-4bc6-9966-65cd5ebc1bfc" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Waylon" last_name="Francis" country="Costa Rica" jersey_number="12">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="e21eb6b3-273b-44a3-91a6-929ba3f75efa" country_code="CRI" position="F" started="true" tactical_position="8" tactical_order="11" first_name="Joel" last_name="Campbell" country="Costa Rica" jersey_number="9">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="1379788f-16a2-4c55-9c89-a1e22915a8e5" country_code="CRI" position="D" started="true" tactical_position="4" tactical_order="6" first_name="Junior" last_name="Diaz" country="Costa Rica" jersey_number="15">
+            <statistics goal="0" goal_assist="1" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="1700fe77-790e-4f0f-87a7-63c1abcd5d42" country_code="CRI" position="F" started="false" tactical_position="8" tactical_order="11" first_name="Marcos" last_name="Urena" country="Costa Rica" jersey_number="21">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="1"/>
+          </player>
+          <player id="19af8261-86ec-44e7-b468-b63b37f6147f" country_code="CRI" position="G" started="false" tactical_position="0" tactical_order="0" first_name="Patrick" last_name="Pemberton" country="Costa Rica" jersey_number="18">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0b7436fd-1ea2-4f7f-9b0b-cbb032160095" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Michael" last_name="Barrantes" country="Costa Rica" jersey_number="11">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="0e6d9726-358c-4241-af29-ce71865327bd" country_code="CRI" position="M" started="false" tactical_position="0" tactical_order="0" first_name="Diego" last_name="Calvo" country="Costa Rica" jersey_number="20">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="5800d953-21da-4206-93dc-fe988b90531f" country_code="CRI" position="M" started="true" tactical_position="6" tactical_order="9" first_name="Yeltsin" last_name="Tejeda" country="Costa Rica" jersey_number="17">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="1" substitution_in="0"/>
+          </player>
+          <player id="983a4ee1-70ea-4058-a1b7-432a255fe64b" country_code="CRI" position="M" started="true" tactical_position="7" tactical_order="10" first_name="Christian" last_name="Bolanos" country="Costa Rica" jersey_number="7">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="424323a9-2b66-4293-b2d9-ce3021245061" country_code="CRI" position="G" started="true" tactical_position="1" tactical_order="1" first_name="Keylor" last_name="Navas" country="Costa Rica" jersey_number="1">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+          <player id="98bf5488-638d-4ca8-9d23-4a31d98716c7" country_code="CRI" position="D" started="false" tactical_position="0" tactical_order="0" first_name="Roy" last_name="Miller" country="Costa Rica" jersey_number="19">
+            <statistics goal="0" goal_assist="0" yellow_card="0" yellow_red_card="0" red_card="0" substitution_out="0" substitution_in="0"/>
+          </player>
+        </players>
+      </away>
+      <venue id="f521ee31-11fb-4359-8c96-15dbd787751f" name="Arena Pernambuco" country_code="BRA" city="Recife" capacity="42610" country="Brazil" coordinates="-8.040753,-35.008257"/>
+      <facts>
+        <fact id="8ddfce61-66d4-4dec-85c2-0075795c11da" type="match_started" time="2014-06-20T16:01:06Z" updated_time="2014-06-20T16:01:06Z" scratch="false" clock="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>The match has started.</description>
+        </fact>
+        <fact id="cc9fb990-acc1-4924-b4f1-3b4e1d78ad8c" type="period_started" time="2014-06-20T16:01:06Z" updated_time="2014-06-20T16:01:06Z" scratch="false" period="P1"/>
+        <fact id="b6f05993-4507-4d53-afdf-8572c809790c" type="offside" time="2014-06-20T16:01:49Z" updated_time="2014-06-20T16:01:49Z" scratch="false" x="78" y="51" clock="1" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="0bac8ca7-fa52-40be-916d-36f86595622b">
+          <description>Italy drive forward but Claudio Marchisio is judged offside.</description>
+        </fact>
+        <fact id="878031ab-57d3-48ff-a51c-32721e152101" type="keeper_save" time="2014-06-20T16:02:51Z" updated_time="2014-06-20T16:02:51Z" scratch="false" x="39" y="71" clock="1" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="770782a2-0e14-438e-a1c7-343c5ab4a678" type="shot_on_target" time="2014-06-20T16:02:51Z" updated_time="2014-06-20T16:02:51Z" scratch="false" x="39" y="71" clock="2" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="983a4ee1-70ea-4058-a1b7-432a255fe64b">
+          <description>Costa Rica's Christian Bolanos is on target but unsuccessful.</description>
+        </fact>
+        <fact id="378f75aa-00ee-4189-8366-c8ac5aad4fcb" type="throwin" time="2014-06-20T16:03:34Z" updated_time="2014-06-20T16:03:34Z" scratch="false" x="59" y="99" clock="2" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica in their own half.</description>
+        </fact>
+        <fact id="2f0e8148-6cda-481d-82f9-15157c84cc1f" type="throwin" time="2014-06-20T16:04:13Z" updated_time="2014-06-20T16:04:13Z" scratch="false" x="40" y="2" clock="3" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica to take a throw-in in Italy territory.</description>
+        </fact>
+        <fact id="0aecbcc0-c1f4-42f0-bbb9-ba8c8158ff99" type="free_kick" time="2014-06-20T16:05:32Z" updated_time="2014-06-20T16:05:32Z" scratch="false" x="58" y="78" clock="4" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="2a7d0123-2e4c-42ac-902d-a0d278c20e3c" type="free_kick" time="2014-06-20T16:06:17Z" updated_time="2014-06-20T16:06:17Z" scratch="false" x="34" y="26" clock="5" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="4a8f8922-c89e-4fa2-bc52-195702af906c" type="corner_kick" time="2014-06-20T16:07:11Z" updated_time="2014-06-20T16:07:52Z" scratch="false" x="5" y="90" clock="7" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Enrique Roberto Osses.</description>
+        </fact>
+        <fact id="84ef7d18-d575-4145-87b6-705b38e78a61" type="shot_off_target" time="2014-06-20T16:08:09Z" updated_time="2014-06-20T16:08:09Z" scratch="false" x="10" y="54" clock="7" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="1611d777-4434-4429-8a3c-4873f525ef00">
+          <description>Celso Borges (Costa Rica) is first to the ball but his header is off-target.</description>
+        </fact>
+        <fact id="896fc707-e9f3-478b-8171-89b0d2bdf7c3" type="goal_kick" time="2014-06-20T16:08:09Z" updated_time="2014-06-20T16:08:09Z" scratch="false" x="5" y="50" clock="7" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball goes out of play for a Italy goal kick.</description>
+        </fact>
+        <fact id="eeda43c2-7c08-424e-bdc3-508766b0fb89" type="throwin" time="2014-06-20T16:08:33Z" updated_time="2014-06-20T16:08:33Z" scratch="false" x="66" y="2" clock="7" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in Costa Rica.</description>
+        </fact>
+        <fact id="e330abdc-621c-4406-80ca-4f31e85c2d53" type="free_kick" time="2014-06-20T16:08:56Z" updated_time="2014-06-20T16:08:56Z" scratch="false" x="32" y="49" clock="7" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="815bcac2-26e9-42d9-ab8f-c02a1d8a27a9" type="free_kick" time="2014-06-20T16:09:39Z" updated_time="2014-06-20T16:09:39Z" scratch="false" x="93" y="53" clock="8" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="5da15b02-a884-4c18-9d52-de79537dbc6e" type="corner_kick" time="2014-06-20T16:09:32Z" updated_time="2014-06-20T16:09:32Z" scratch="false" x="95" y="5" clock="9" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Corner awarded to Italy.</description>
+        </fact>
+        <fact id="4d8977bf-feef-4745-8928-2cede7fac97b" type="goal_kick" time="2014-06-20T16:10:14Z" updated_time="2014-06-20T16:10:14Z" scratch="false" x="5" y="50" clock="9" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses awards Italy a goal kick.</description>
+        </fact>
+        <fact id="278c9c12-e77c-41fb-ac1c-e0e8c6597a16" type="goal_kick" time="2014-06-20T16:10:50Z" updated_time="2014-06-20T16:10:50Z" scratch="false" x="95" y="50" clock="9" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="7b9f8a4c-1e0d-43b6-af20-382aee55be33" type="free_kick" time="2014-06-20T16:11:28Z" updated_time="2014-06-20T16:11:28Z" scratch="false" x="68" y="28" clock="10" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="d7766fe0-29b5-4f5b-819e-36c40fd96370" type="free_kick" time="2014-06-20T16:12:03Z" updated_time="2014-06-20T16:12:03Z" scratch="false" x="16" y="23" clock="10" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="2c6bc89b-e589-4bfa-95b5-75959c6d49cc" type="throwin" time="2014-06-20T16:12:21Z" updated_time="2014-06-20T16:12:21Z" scratch="false" x="69" y="98" clock="11" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="b4dd5d19-15bd-4328-bf56-923c393ad3d5" type="free_kick" time="2014-06-20T16:12:42Z" updated_time="2014-06-20T16:12:42Z" scratch="false" x="61" y="91" clock="11" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="8a2d10e6-c05e-41be-8294-e9f00fc6c010" type="throwin" time="2014-06-20T16:12:55Z" updated_time="2014-06-20T16:12:55Z" scratch="false" x="56" y="99" clock="11" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="5df1c8c4-090b-4245-b04b-17aad85499d5" type="offside" time="2014-06-20T16:15:07Z" updated_time="2014-06-20T16:15:07Z" scratch="false" x="85" y="83" clock="14" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="2fa1c5dd-1405-4600-8397-12799cc20d14">
+          <description>In Recife Italy's Ignazio Abate is caught offside.</description>
+        </fact>
+        <fact id="453b955b-93a3-4e6d-85e3-64d9474e10aa" type="corner_kick" time="2014-06-20T16:17:04Z" updated_time="2014-06-20T16:17:04Z" scratch="false" x="5" y="90" clock="16" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Enrique Roberto Osses.</description>
+        </fact>
+        <fact id="edb22bcc-990f-4be1-a7d0-3128d9c059cd" type="throwin" time="2014-06-20T16:18:14Z" updated_time="2014-06-20T16:18:14Z" scratch="false" x="42" y="0" clock="17" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a Costa Rica throw-in in Italy's half.</description>
+        </fact>
+        <fact id="e10183a8-03ce-4fcc-a1b1-748c6a60748d" type="throwin" time="2014-06-20T16:19:05Z" updated_time="2014-06-20T16:19:05Z" scratch="false" x="44" y="2" clock="17" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Italy's half?</description>
+        </fact>
+        <fact id="9d040cb7-6f2f-4802-8aee-264cd51d4fcb" type="corner_kick" time="2014-06-20T16:20:08Z" updated_time="2014-06-20T16:20:08Z" scratch="false" x="5" y="5" clock="19" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Corner awarded to Costa Rica.</description>
+        </fact>
+        <fact id="f3ab3ebc-71ad-4d33-8f10-563a1eabb742" type="throwin" time="2014-06-20T16:20:24Z" updated_time="2014-06-20T16:20:24Z" scratch="false" x="31" y="98" clock="19" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Italy's half?</description>
+        </fact>
+        <fact id="589a97a6-350b-4360-a3cb-975dcdff622b" type="goal_kick" time="2014-06-20T16:21:18Z" updated_time="2014-06-20T16:21:18Z" scratch="false" x="5" y="50" clock="20" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Goal kick for Italy at Arena Pernambuco.</description>
+        </fact>
+        <fact id="2faad1f4-7fb1-457e-b39f-57ccf3703847" type="throwin" time="2014-06-20T16:22:46Z" updated_time="2014-06-20T16:22:46Z" scratch="false" x="85" y="99" clock="21" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="1cd018bf-6c06-46fd-a66d-539546cc8dc4" type="free_kick" time="2014-06-20T16:24:08Z" updated_time="2014-06-20T16:24:08Z" scratch="false" x="85" y="66" clock="23" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="7cf6bcda-aedb-497c-ab79-9735de15c2a4" type="throwin" time="2014-06-20T16:24:48Z" updated_time="2014-06-20T16:24:48Z" scratch="false" x="29" y="1" clock="23" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica to take a throw-in in Italy territory.</description>
+        </fact>
+        <fact id="cc392d88-da7d-4b70-a75c-6d539928aab8" type="offside" time="2014-06-20T16:25:48Z" updated_time="2014-06-20T16:25:48Z" scratch="false" x="71" y="54" clock="25" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Enrique Roberto Osses blows against Italy's Mario Balotelli for offside.</description>
+        </fact>
+        <fact id="7cf1a7d4-bcde-48a1-865d-6a046bd2a794" type="free_kick" time="2014-06-20T16:26:40Z" updated_time="2014-06-20T16:26:40Z" scratch="false" x="73" y="53" clock="25" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy.</description>
+        </fact>
+        <fact id="3c830650-52f9-4806-b989-7760aa675e3f" type="shot_off_target" time="2014-06-20T16:27:42Z" updated_time="2014-06-20T16:27:42Z" scratch="false" x="83" y="58" clock="27" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="03f09095-ae2a-4df7-9de7-0904b2086b92">
+          <description>Thiago Motta for Italy gets in a strike but fails to hit the target.</description>
+        </fact>
+        <fact id="a0e744ae-7bf9-4c42-8ee9-d9d4c24aa3b6" type="goal_kick" time="2014-06-20T16:27:42Z" updated_time="2014-06-20T16:27:42Z" scratch="false" x="95" y="50" clock="27" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="90cf8ec1-2adf-4915-b946-db96e3c62831" type="free_kick" time="2014-06-20T16:28:41Z" updated_time="2014-06-20T16:28:41Z" scratch="false" x="35" y="46" clock="27" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="cabe0f10-a31c-4888-897d-edfaf0e2c96f" type="throwin" time="2014-06-20T16:30:15Z" updated_time="2014-06-20T16:30:15Z" scratch="false" x="29" y="2" clock="29" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a Costa Rica throw-in in Italy's half.</description>
+        </fact>
+        <fact id="dbcc81d1-c7ac-40c7-9dba-73ba2010f103" type="throwin" time="2014-06-20T16:31:00Z" updated_time="2014-06-20T16:31:00Z" scratch="false" x="29" y="1" clock="29" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy in their own half.</description>
+        </fact>
+        <fact id="6c9e7bc4-af04-4b15-b1b5-fae58513b6bf" type="goal_kick" time="2014-06-20T16:31:28Z" updated_time="2014-06-20T16:31:28Z" scratch="false" x="5" y="50" clock="30" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy have a goal kick.</description>
+        </fact>
+        <fact id="c92e6317-ac8f-440b-beb7-c61f2b8e0e2d" type="shot_off_target" time="2014-06-20T16:32:00Z" updated_time="2014-06-20T16:32:00Z" scratch="false" x="81" y="71" clock="31" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Mario Balotelli of Italy gets in a strike, but is off target.</description>
+        </fact>
+        <fact id="d438f1a8-5477-4d49-bcc5-4d5f30cd400c" type="goal_kick" time="2014-06-20T16:32:00Z" updated_time="2014-06-20T16:32:00Z" scratch="false" x="95" y="50" clock="31" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Goal kick for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="d8b1e284-14fe-4b7e-b3b8-2096c869efcd" type="free_kick" time="2014-06-20T16:32:50Z" updated_time="2014-06-20T16:32:50Z" scratch="false" x="35" y="18" clock="31" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="c675302c-26b1-4935-b9e1-2f5281ad98d8" type="keeper_save" time="2014-06-20T16:33:36Z" updated_time="2014-06-20T16:33:36Z" scratch="false" x="73" y="54" clock="32" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="4bded678-c174-458b-9be4-24b63ca49d5c" type="throwin" time="2014-06-20T16:34:02Z" updated_time="2014-06-20T16:34:02Z" scratch="false" x="40" y="99" clock="32" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica to take a throw-in in Italy territory.</description>
+        </fact>
+        <fact id="dcb7f5a5-6ff1-44e4-b579-a2160b4bcee2" type="shot_on_target" time="2014-06-20T16:33:36Z" updated_time="2014-06-20T16:33:36Z" scratch="false" x="73" y="54" clock="33" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Italy drive forward and Mario Balotelli gets in a shot. Without netting, however.</description>
+        </fact>
+        <fact id="7dd5549d-287e-45f3-a00c-c31440aa4b47" type="offside" time="2014-06-20T16:34:52Z" updated_time="2014-06-20T16:34:52Z" scratch="false" x="86" y="24" clock="34" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="31786e05-ec71-4801-90cf-464b83765b2d">
+          <description>Italy's Matteo Darmian has run offside.</description>
+        </fact>
+        <fact id="84792a0e-0a27-4a4b-90d0-675521e8f5b6" type="free_kick" time="2014-06-20T16:35:22Z" updated_time="2014-06-20T16:35:22Z" scratch="false" x="38" y="69" clock="34" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="027ce7bb-ea8e-47c8-9e84-33eba83c8bad" type="keeper_save" time="2014-06-20T16:37:05Z" updated_time="2014-06-20T16:37:05Z" scratch="false" x="24" y="60" clock="35" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="57661e35-fac8-485a-9a43-ecdeaffad8f9" type="shot_on_target" time="2014-06-20T16:37:04Z" updated_time="2014-06-20T16:37:09Z" scratch="false" x="24" y="60" clock="36" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="983a4ee1-70ea-4058-a1b7-432a255fe64b">
+          <description>Christian Bolanos of Costa Rica smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="83a72344-a86f-4e2c-93f3-139884d320bb" type="throwin" time="2014-06-20T16:37:15Z" updated_time="2014-06-20T16:37:15Z" scratch="false" x="21" y="1" clock="36" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Can Costa Rica get the ball into an attacking position from this throw-in in Italy's half?</description>
+        </fact>
+        <fact id="3f6e1cb9-c242-4f2a-a70f-0d51c789e485" type="throwin" time="2014-06-20T16:38:30Z" updated_time="2014-06-20T16:38:30Z" scratch="false" x="9" y="1" clock="37" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy at Arena Pernambuco.</description>
+        </fact>
+        <fact id="f3bcff9a-ff44-45f5-83d2-79269e836051" type="offside" time="2014-06-20T16:39:03Z" updated_time="2014-06-20T16:39:03Z" scratch="false" x="86" y="32" clock="38" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Italy's Mario Balotelli is whistled for offside at Arena Pernambuco.</description>
+        </fact>
+        <fact id="ba6cae18-df99-440b-9805-5474d77f2ae9" type="keeper_save" time="2014-06-20T16:39:59Z" updated_time="2014-06-20T16:39:59Z" scratch="false" x="20" y="67" clock="38" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="c975a6d4-43d0-4521-8936-c160daeac76b" type="shot_on_target" time="2014-06-20T16:39:59Z" updated_time="2014-06-20T16:39:59Z" scratch="false" x="20" y="67" clock="39" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="469d8bfc-dd46-4061-9c77-74cad92a7527">
+          <description>Costa Rica push forward through Bryan Ruiz, whose finish on goal is saved.</description>
+        </fact>
+        <fact id="058fc838-47ef-4f2f-81fb-46d59d85b0d4" type="corner_kick" time="2014-06-20T16:42:06Z" updated_time="2014-06-20T16:42:06Z" scratch="false" x="5" y="90" clock="41" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Corner awarded to Costa Rica.</description>
+        </fact>
+        <fact id="61c13d07-9085-46dc-a56d-38d036e229a4" type="keeper_save" time="2014-06-20T16:42:14Z" updated_time="2014-06-20T16:42:14Z" scratch="false" x="11" y="52" clock="41" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="c9adcdbd-00e4-4923-8e02-f2cfe86256b0" type="shot_on_target" time="2014-06-20T16:42:14Z" updated_time="2014-06-20T16:42:14Z" scratch="false" x="11" y="52" clock="42" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="983a4ee1-70ea-4058-a1b7-432a255fe64b">
+          <description>Christian Bolanos gets his shot on target but fails to score for Costa Rica.</description>
+        </fact>
+        <fact id="55d42d0f-757a-4b62-80d5-a4192edeed33" type="shot_off_target" time="2014-06-20T16:42:32Z" updated_time="2014-06-20T16:42:32Z" scratch="false" x="8" y="67" clock="42" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="2b3ea9d1-71ee-47f8-9fe3-976310bd04be">
+          <description>Oscar Duarte's header is off-target for Costa Rica.</description>
+        </fact>
+        <fact id="b70531ab-3a91-4f58-933b-b680338fcdaf" type="goal_kick" time="2014-06-20T16:42:32Z" updated_time="2014-06-20T16:42:32Z" scratch="false" x="5" y="50" clock="42" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball goes out of play for a Italy goal kick.</description>
+        </fact>
+        <fact id="6bc9b676-047b-4853-8201-c382a74abe21" type="shot_blocked" time="2014-06-20T16:43:47Z" updated_time="2014-06-20T16:43:47Z" scratch="false" x="67" y="74" clock="43" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Mario Balotelli (Italy) is given an opening but the shot is blocked by a defender.</description>
+        </fact>
+        <fact id="a71fc59c-ea26-44f5-929f-6bca9f15c486" type="goal" time="2014-06-20T16:45:11Z" updated_time="2014-06-20T16:47:18Z" scratch="false" clock="44" home_score="0" away_score="1" penalty="false" owngoal="false" header="true" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="469d8bfc-dd46-4061-9c77-74cad92a7527" assist1_id="1379788f-16a2-4c55-9c89-a1e22915a8e5">
+          <description>Great play from Junior Diaz to set up the goal.</description>
+        </fact>
+        <fact id="38bc5626-1891-4557-8223-76e278e40565" type="free_kick" time="2014-06-20T16:47:02Z" updated_time="2014-06-20T16:47:02Z" scratch="false" x="31" y="73" clock="45" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="2fe9091f-0336-43c5-8d03-dba38377882e" type="free_kick" time="2014-06-20T17:05:04Z" updated_time="2014-06-20T17:05:04Z" scratch="false" x="39" y="56" clock="45" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="b54a4c2c-c8ed-49a4-9a42-170c92b1cebc" type="injury_time" time="2014-06-20T16:46:47Z" updated_time="2014-06-20T16:46:47Z" scratch="false" clock="45" injury_time="2" period="P1">
+          <description>2 minutes will be added to the first half.</description>
+        </fact>
+        <fact id="8b20e800-af03-4050-933b-f879e06d75a8" type="free_kick" time="2014-06-20T16:47:24Z" updated_time="2014-06-20T16:47:24Z" scratch="false" x="61" y="62" clock="45" injury_time="1" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy.</description>
+        </fact>
+        <fact id="219107dd-38ca-495e-b1b1-3ef997c032c8" type="period_over" time="2014-06-20T16:48:34Z" updated_time="2014-06-20T16:48:34Z" scratch="false" home_score="0" away_score="1" period="P1">
+          <description>Enrique Roberto Osses blows to end the first-half.</description>
+        </fact>
+        <fact id="a3d0d867-241c-453e-ac97-c11b912ed495" type="period_started" time="2014-06-20T16:48:34Z" updated_time="2014-06-20T16:48:34Z" scratch="false" period="H"/>
+        <fact id="9d76537a-37e9-4434-8c8a-2c2649020171" type="period_started" time="2014-06-20T17:04:31Z" updated_time="2014-06-20T17:04:31Z" scratch="false" period="P2"/>
+        <fact id="0b75b155-bde5-4939-a9a3-1de6e7f00a24" type="substitution" time="2014-06-20T17:04:39Z" updated_time="2014-06-20T17:04:39Z" scratch="false" clock="46" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_out_id="03f09095-ae2a-4df7-9de7-0904b2086b92" player_in_id="3085db65-16ab-4045-9896-8fa0c7cde1ef">
+          <description>Antonio Cassano is on a sub for Thiago Motta for Italy.</description>
+        </fact>
+        <fact id="0cbce5db-23c7-4d96-8fd6-51f3332006d6" type="free_kick" time="2014-06-20T17:06:29Z" updated_time="2014-06-20T17:06:29Z" scratch="false" x="77" y="87" clock="46" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="8c927b59-7e9b-4cfe-a6d1-66fd723b518b" type="corner_kick" time="2014-06-20T17:06:14Z" updated_time="2014-06-20T17:06:14Z" scratch="false" x="95" y="5" clock="47" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy have been awarded a corner by Enrique Roberto Osses.</description>
+        </fact>
+        <fact id="2239150d-a057-4f3b-a533-c834124e4633" type="offside" time="2014-06-20T17:07:15Z" updated_time="2014-06-20T17:07:15Z" scratch="false" x="27" y="44" clock="48" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Joel Campbell of Costa Rica is pulled up for offside.</description>
+        </fact>
+        <fact id="1b89d3e4-cf48-4cca-8935-438648737fef" type="corner_kick" time="2014-06-20T17:08:40Z" updated_time="2014-06-20T17:08:40Z" scratch="false" x="5" y="90" clock="49" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have been awarded a corner by Enrique Roberto Osses.</description>
+        </fact>
+        <fact id="51d70ffd-a937-4d11-865b-f6826de27d60" type="shot_off_target" time="2014-06-20T17:08:51Z" updated_time="2014-06-20T17:08:51Z" scratch="false" x="16" y="26" clock="50" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="3afc4a85-ad85-4631-950d-2309c3a1acd8">
+          <description>Giancarlo Gonzalez (Costa Rica) wins the ball in the air but heads wide.</description>
+        </fact>
+        <fact id="1349a038-d33b-4c3c-b9fd-9c7b60c81c5b" type="goal_kick" time="2014-06-20T17:08:51Z" updated_time="2014-06-20T17:08:51Z" scratch="false" x="5" y="50" clock="50" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses awards Italy a goal kick.</description>
+        </fact>
+        <fact id="8c501594-a850-48d0-ad6f-020c5a297957" type="shot_blocked" time="2014-06-20T17:09:12Z" updated_time="2014-06-20T17:09:12Z" scratch="false" x="85" y="58" clock="50" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>In Recife, Antonio Cassano of Italy is presented with a shooting opportunity. But the strike is blocked by the covering defence.</description>
+        </fact>
+        <fact id="cb818608-3399-4164-9134-d1fb038f2c02" type="free_kick" time="2014-06-20T17:09:41Z" updated_time="2014-06-20T17:09:41Z" scratch="false" x="56" y="48" clock="50" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="cb006da9-940f-4ccc-8999-96fda5475c8a" type="keeper_save" time="2014-06-20T17:10:11Z" updated_time="2014-06-20T17:10:11Z" scratch="false" x="96" y="93" clock="50" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="66134500-8fcc-4304-9b60-55959c2a8da7" type="shot_on_target" time="2014-06-20T17:10:10Z" updated_time="2014-06-20T17:10:10Z" scratch="false" x="96" y="93" clock="51" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="31786e05-ec71-4801-90cf-464b83765b2d">
+          <description>Matteo Darmian for Italy drives towards goal at Arena Pernambuco. But the finish is unsuccessful.</description>
+        </fact>
+        <fact id="7fc8cdbb-533f-4159-b02e-865c7b5c43a5" type="corner_kick" time="2014-06-20T17:10:16Z" updated_time="2014-06-20T17:11:01Z" scratch="false" x="95" y="90" clock="51" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Corner awarded to Italy.</description>
+        </fact>
+        <fact id="e155181b-6947-4f6f-8350-c2fe03b3457e" type="free_kick" time="2014-06-20T17:10:49Z" updated_time="2014-06-20T17:10:49Z" scratch="false" x="68" y="39" clock="51" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="560bc2f1-155c-4f5b-b561-836b1f110b3c" type="keeper_save" time="2014-06-20T17:11:46Z" updated_time="2014-06-20T17:11:46Z" scratch="false" x="81" y="42" clock="52" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="1e4c61f4-31fc-45b9-8bc7-84b4cf861f49" type="shot_on_target" time="2014-06-20T17:11:45Z" updated_time="2014-06-20T17:11:45Z" scratch="false" x="81" y="42" clock="53" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="6347bb8e-d68a-4fad-8602-915ba1a64d42">
+          <description>Italy's Andrea Pirlo is on target but unsuccessful.</description>
+        </fact>
+        <fact id="3e5310b8-6dd5-45c1-8ab2-f375b5efaa1c" type="offside" time="2014-06-20T17:11:57Z" updated_time="2014-06-20T17:12:26Z" scratch="false" x="80" y="18" clock="53" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="3085db65-16ab-4045-9896-8fa0c7cde1ef">
+          <description>Antonio Cassano for Italy is whistled offside.</description>
+        </fact>
+        <fact id="b33d4ebd-7386-4000-bc69-5dc010a1e8dc" type="keeper_save" time="2014-06-20T17:12:44Z" updated_time="2014-06-20T17:12:44Z" scratch="false" x="33" y="52" clock="53" team_id="fdf11341-914c-4a67-bd55-07749823deab"/>
+        <fact id="412160fd-9200-4056-8dd0-e78cdd7e6d3d" type="shot_on_target" time="2014-06-20T17:12:43Z" updated_time="2014-06-20T17:12:43Z" scratch="false" x="33" y="52" clock="54" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="1611d777-4434-4429-8a3c-4873f525ef00">
+          <description>In Recife Costa Rica drive forward through Celso Borges. His shot is on target but it's saved.</description>
+        </fact>
+        <fact id="7a09bc2e-ce1a-4ce5-ab99-6b0ca5135b11" type="throwin" time="2014-06-20T17:13:59Z" updated_time="2014-06-20T17:13:59Z" scratch="false" x="86" y="2" clock="54" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in Costa Rica.</description>
+        </fact>
+        <fact id="2a244ab3-7103-47c6-968b-5b3fa76f2ab2" type="offside" time="2014-06-20T17:15:31Z" updated_time="2014-06-20T17:15:31Z" scratch="false" x="80" y="47" clock="56" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Mario Balotelli for Italy is whistled offside.</description>
+        </fact>
+        <fact id="6215cf22-7724-4fcc-ae6b-87aaaca97590" type="substitution" time="2014-06-20T17:15:42Z" updated_time="2014-06-20T17:15:42Z" scratch="false" clock="57" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_out_id="57e93e3c-67b8-4b01-a55a-110ba9970774" player_in_id="7c599d9e-478b-4c21-bd86-8749383602fc">
+          <description>Cesare Prandelli is making the team's second substitution at Arena Pernambuco with Lorenzo Insigne replacing Antonio Candreva.</description>
+        </fact>
+        <fact id="ad456c7a-7f03-49f8-a27d-60440295d9c5" type="throwin" time="2014-06-20T17:16:46Z" updated_time="2014-06-20T17:16:46Z" scratch="false" x="12" y="99" clock="57" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Italy needs to be cautious. Costa Rica have an attacking throw-in.</description>
+        </fact>
+        <fact id="165bf78c-02b5-405a-8938-4180e32f752c" type="offside" time="2014-06-20T17:17:47Z" updated_time="2014-06-20T17:18:04Z" scratch="false" x="29" y="43" clock="59" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="983a4ee1-70ea-4058-a1b7-432a255fe64b">
+          <description>Enrique Roberto Osses blows against Costa Rica's Christian Bolanos for offside.</description>
+        </fact>
+        <fact id="09cea174-34f9-4c6a-a7e6-63c291775e0b" type="offside" time="2014-06-20T17:18:34Z" updated_time="2014-06-20T17:18:40Z" scratch="false" x="39" y="23" clock="59" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa">
+          <description>Costa Rica's Joel Campbell is whistled for offside at Arena Pernambuco.</description>
+        </fact>
+        <fact id="d7ba3285-6c99-4645-916d-cf8b2b1b21ee" type="free_kick" time="2014-06-20T17:19:19Z" updated_time="2014-06-20T17:19:19Z" scratch="false" x="39" y="71" clock="59" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a free kick to Costa Rica.</description>
+        </fact>
+        <fact id="20eaf314-8e94-469c-890f-a869836bb5b6" type="offside" time="2014-06-20T17:18:51Z" updated_time="2014-06-20T17:18:51Z" scratch="false" x="88" y="23" clock="60" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="7c599d9e-478b-4c21-bd86-8749383602fc">
+          <description>In Recife Italy's Lorenzo Insigne is caught offside.</description>
+        </fact>
+        <fact id="f01f600b-bd28-4792-8361-c199ada1b980" type="free_kick" time="2014-06-20T17:19:51Z" updated_time="2014-06-20T17:19:51Z" scratch="false" x="66" y="71" clock="60" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy.</description>
+        </fact>
+        <fact id="56bf8596-02e1-455e-9acf-8ea2050b87a8" type="free_kick" time="2014-06-20T17:20:28Z" updated_time="2014-06-20T17:20:28Z" scratch="false" x="41" y="52" clock="60" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="c417c34d-20a6-4f98-9e89-8a35fff1d348" type="keeper_save" time="2014-06-20T17:20:47Z" updated_time="2014-06-20T17:20:47Z" scratch="false" x="84" y="51" clock="61" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb"/>
+        <fact id="4a186c35-0e80-45a2-8da0-6dfa07b79950" type="free_kick" time="2014-06-20T17:21:09Z" updated_time="2014-06-20T17:21:09Z" scratch="false" x="68" y="84" clock="61" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="8013b938-2d42-4e38-afbc-5b6390495a49" type="shot_on_target" time="2014-06-20T17:20:46Z" updated_time="2014-06-20T17:20:46Z" scratch="false" x="84" y="51" clock="62" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="3085db65-16ab-4045-9896-8fa0c7cde1ef">
+          <description>Antonio Cassano of Italy smashes in a shot on target. The keeper saves, though.</description>
+        </fact>
+        <fact id="cb53a758-7d00-4f92-b53a-94e9715f2021" type="throwin" time="2014-06-20T17:21:50Z" updated_time="2014-06-20T17:21:50Z" scratch="false" x="85" y="100" clock="62" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="d48eaa3e-9433-4117-af62-c4e6c2a7515e" type="free_kick" time="2014-06-20T17:22:20Z" updated_time="2014-06-20T17:22:20Z" scratch="false" x="73" y="36" clock="62" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="6e4e046d-dd92-4a45-9a26-7da3c7349519" type="throwin" time="2014-06-20T17:23:50Z" updated_time="2014-06-20T17:23:50Z" scratch="false" x="21" y="100" clock="64" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="80e57d60-2d08-4592-8ef7-ca35e50a44fd" type="throwin" time="2014-06-20T17:24:15Z" updated_time="2014-06-20T17:24:15Z" scratch="false" x="85" y="99" clock="64" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Throw-in for Costa Rica in their own half.</description>
+        </fact>
+        <fact id="7de8de81-a37a-4647-bc94-7a0a522936db" type="free_kick" time="2014-06-20T17:24:41Z" updated_time="2014-06-20T17:24:41Z" scratch="false" x="69" y="72" clock="65" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a free kick to Costa Rica in their own half.</description>
+        </fact>
+        <fact id="06b0599d-6080-4114-b649-aa106ac13ae9" type="goal_kick" time="2014-06-20T17:26:14Z" updated_time="2014-06-20T17:26:14Z" scratch="false" x="5" y="50" clock="66" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Goal kick for Italy at Arena Pernambuco.</description>
+        </fact>
+        <fact id="58e4ba9e-4c02-4a7b-992f-51e92099733f" type="offside" time="2014-06-20T17:25:36Z" updated_time="2014-06-20T17:25:36Z" scratch="false" x="67" y="28" clock="67" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="7c599d9e-478b-4c21-bd86-8749383602fc">
+          <description>In Recife Italy's Lorenzo Insigne is caught offside.</description>
+        </fact>
+        <fact id="483e02a3-3afd-482a-a1bc-65f6bb9418b1" type="substitution" time="2014-06-20T17:26:33Z" updated_time="2014-06-20T17:26:33Z" scratch="false" clock="67" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="5800d953-21da-4206-93dc-fe988b90531f" player_in_id="32b87aec-9053-4471-9c3c-f27eadf3b7d7">
+          <description>Costa Rica make their first substitution with Jose Cubero replacing Yeltsin Tejeda.</description>
+        </fact>
+        <fact id="b62ef100-10af-4232-a2f9-7313f2c5f313" type="free_kick" time="2014-06-20T17:27:50Z" updated_time="2014-06-20T17:27:50Z" scratch="false" x="81" y="64" clock="68" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="1e201ac2-ed3b-402e-813c-340cafb58f69" type="card" time="2014-06-20T17:27:56Z" updated_time="2014-06-20T17:27:56Z" scratch="false" clock="69" card="Y" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="00f3af5b-73f9-4f7e-91e1-96487e190246">
+          <description>Italy's Mario Balotelli has been booked in Recife.</description>
+        </fact>
+        <fact id="8383b591-86bd-438d-90b6-bf6333686932" type="substitution" time="2014-06-20T17:28:35Z" updated_time="2014-06-20T17:28:35Z" scratch="false" clock="69" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_out_id="0bac8ca7-fa52-40be-916d-36f86595622b" player_in_id="2989eb4b-bf54-48de-999a-cf474edfcb3c">
+          <description>Cesare Prandelli (Italy) is making a third substitution, with Alessio Cerci replacing Claudio Marchisio.</description>
+        </fact>
+        <fact id="becabd26-a24f-4add-9c04-870b58c10721" type="free_kick" time="2014-06-20T17:30:10Z" updated_time="2014-06-20T17:30:10Z" scratch="false" x="58" y="46" clock="70" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="f95c3b19-c4a5-4999-aab9-81fb730bf0f7" type="free_kick" time="2014-06-20T17:30:21Z" updated_time="2014-06-20T17:30:21Z" scratch="false" x="60" y="52" clock="70" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy.</description>
+        </fact>
+        <fact id="7bc74763-d97b-4cd8-9b13-6f337d2b094a" type="card" time="2014-06-20T17:30:27Z" updated_time="2014-06-20T17:30:27Z" scratch="false" clock="71" card="Y" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="32b87aec-9053-4471-9c3c-f27eadf3b7d7">
+          <description>Jose Cubero for Costa Rica has been booked by Enrique Roberto Osses and receives a first yellow card.</description>
+        </fact>
+        <fact id="8b86c82c-b6a8-4363-a6f8-8b4ff7fa78c4" type="throwin" time="2014-06-20T17:30:49Z" updated_time="2014-06-20T17:30:49Z" scratch="false" x="65" y="2" clock="71" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball safe as Costa Rica is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="0714af75-5b75-42f0-b30f-a71148ca2c2b" type="free_kick" time="2014-06-20T17:31:46Z" updated_time="2014-06-20T17:31:46Z" scratch="false" x="14" y="80" clock="72" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="ee0c2f96-ab44-40e0-ae3b-eae653994ba9" type="offside" time="2014-06-20T17:32:52Z" updated_time="2014-06-20T17:32:52Z" scratch="false" x="77" y="62" clock="74" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="2989eb4b-bf54-48de-999a-cf474edfcb3c">
+          <description>Alessio Cerci of Italy is pulled up for offside.</description>
+        </fact>
+        <fact id="d9c03b45-101f-4f26-962e-c56fa8aff0db" type="substitution" time="2014-06-20T17:33:12Z" updated_time="2014-06-20T17:33:12Z" scratch="false" clock="74" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="e21eb6b3-273b-44a3-91a6-929ba3f75efa" player_in_id="1700fe77-790e-4f0f-87a7-63c1abcd5d42">
+          <description>Marcos Urena is replacing Joel Campbell for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="a9ef4f72-823e-48a3-9d52-e8bfa94ce647" type="free_kick" time="2014-06-20T17:33:47Z" updated_time="2014-06-20T17:33:47Z" scratch="false" x="14" y="73" clock="74" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="f3d1b9cd-e6f1-48dd-a48d-c2b92e0c7193" type="throwin" time="2014-06-20T17:34:07Z" updated_time="2014-06-20T17:34:07Z" scratch="false" x="25" y="2" clock="74" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in Italy.</description>
+        </fact>
+        <fact id="b6212b56-6305-4db2-9f29-df37b247cfb1" type="goal_kick" time="2014-06-20T17:36:47Z" updated_time="2014-06-20T17:36:47Z" scratch="false" x="95" y="50" clock="77" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Costa Rica have a goal kick.</description>
+        </fact>
+        <fact id="0f8d8935-5252-4544-84f7-aa8d0d510927" type="free_kick" time="2014-06-20T17:37:25Z" updated_time="2014-06-20T17:37:25Z" scratch="false" x="35" y="56" clock="77" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Enrique Roberto Osses signals a free kick to Italy in their own half.</description>
+        </fact>
+        <fact id="e6520cb5-a08c-4a72-b2cf-92ecdb697145" type="goal_kick" time="2014-06-20T17:38:50Z" updated_time="2014-06-20T17:38:50Z" scratch="false" x="95" y="50" clock="79" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Ball goes out of play for a Costa Rica goal kick.</description>
+        </fact>
+        <fact id="17f83254-cd29-4f9f-97a6-159a94d3d1e9" type="free_kick" time="2014-06-20T17:39:11Z" updated_time="2014-06-20T17:39:11Z" scratch="false" x="56" y="54" clock="79" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="05f49dd4-e133-4c44-b870-8d0df57ddaf4" type="substitution" time="2014-06-20T17:39:57Z" updated_time="2014-06-20T17:39:57Z" scratch="false" clock="80" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_out_id="469d8bfc-dd46-4061-9c77-74cad92a7527" player_in_id="589a2b5d-4c99-4fa3-b87b-e5c0d1105e69">
+          <description>Jorge Luis Pinto (Costa Rica) is making a third substitution, with Randall Brenes replacing Bryan Ruiz.</description>
+        </fact>
+        <fact id="a2f63858-23fa-41b2-b672-7a16094d15b9" type="shot_off_target" time="2014-06-20T17:41:00Z" updated_time="2014-06-20T17:41:00Z" scratch="false" x="88" y="44" clock="82" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="7c599d9e-478b-4c21-bd86-8749383602fc">
+          <description>Italy's Lorenzo Insigne breaks free at Arena Pernambuco. But the strike goes wide of the post.</description>
+        </fact>
+        <fact id="4e31d51e-b37b-4395-a75a-59a4b61c72f4" type="goal_kick" time="2014-06-20T17:41:00Z" updated_time="2014-06-20T17:41:00Z" scratch="false" x="95" y="50" clock="82" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Goal kick for Costa Rica at Arena Pernambuco.</description>
+        </fact>
+        <fact id="0806025c-874a-490a-8046-3ab68501066e" type="free_kick" time="2014-06-20T17:41:59Z" updated_time="2014-06-20T17:41:59Z" scratch="false" x="50" y="52" clock="82" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Free kick Italy.</description>
+        </fact>
+        <fact id="1a3a7dee-15d9-4fe8-8a51-385f6a5d4765" type="throwin" time="2014-06-20T17:43:05Z" updated_time="2014-06-20T17:43:05Z" scratch="false" x="38" y="1" clock="83" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a Costa Rica throw-in in Italy's half.</description>
+        </fact>
+        <fact id="85fde354-43ba-4cb9-903f-295cf2c99f23" type="shot_blocked" time="2014-06-20T17:42:52Z" updated_time="2014-06-20T17:42:52Z" scratch="false" x="22" y="36" clock="84" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Marcos Urena (Costa Rica) goes for goal but the shot is blocked by an alert defence.</description>
+        </fact>
+        <fact id="edd434c2-be1a-47a3-9f6c-ad71b2530e41" type="throwin" time="2014-06-20T17:43:33Z" updated_time="2014-06-20T17:43:33Z" scratch="false" x="20" y="0" clock="84" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Throw-in for Italy at Arena Pernambuco.</description>
+        </fact>
+        <fact id="2e3542ba-3e7d-47e4-8be3-5cee6ebbe749" type="throwin" time="2014-06-20T17:44:48Z" updated_time="2014-06-20T17:44:48Z" scratch="false" x="31" y="99" clock="85" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a throw-in in their own half.</description>
+        </fact>
+        <fact id="bf5e3af3-5441-4710-bf39-224455fa81df" type="offside" time="2014-06-20T17:45:38Z" updated_time="2014-06-20T17:45:38Z" scratch="false" x="92" y="52" clock="87" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="2989eb4b-bf54-48de-999a-cf474edfcb3c">
+          <description>Italy's Alessio Cerci has run offside.</description>
+        </fact>
+        <fact id="dddf5237-9444-49ee-b271-69aea5ff7323" type="free_kick" time="2014-06-20T17:47:23Z" updated_time="2014-06-20T17:47:23Z" scratch="false" x="18" y="71" clock="87" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy awarded a free kick in their own half.</description>
+        </fact>
+        <fact id="21814752-e154-437f-a1f2-f8b0bc9fd596" type="corner_kick" time="2014-06-20T17:48:57Z" updated_time="2014-06-20T17:48:57Z" scratch="false" x="95" y="90" clock="89" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Corner awarded to Italy.</description>
+        </fact>
+        <fact id="37bbb772-4461-4a08-af32-0f2da5667c0c" type="shot_off_target" time="2014-06-20T17:49:09Z" updated_time="2014-06-20T17:49:09Z" scratch="false" x="88" y="45" clock="90" team_id="fdf11341-914c-4a67-bd55-07749823deab" player_id="3085db65-16ab-4045-9896-8fa0c7cde1ef">
+          <description>Italy's Antonio Cassano misses with an attempt on goal.</description>
+        </fact>
+        <fact id="bd172931-67ca-4cf7-a262-0c66958f86ce" type="goal_kick" time="2014-06-20T17:49:09Z" updated_time="2014-06-20T17:49:09Z" scratch="false" x="95" y="50" clock="90" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses awards Costa Rica a goal kick.</description>
+        </fact>
+        <fact id="b116ac95-1b1e-4442-882b-ef4e86eb23a7" type="injury_time" time="2014-06-20T17:49:44Z" updated_time="2014-06-20T17:49:44Z" scratch="false" clock="90" injury_time="4" period="P2">
+          <description>The second half is prolonged by 4 minutes of added time.</description>
+        </fact>
+        <fact id="f31ef501-be02-4281-b7ac-ccb9e49b73d8" type="throwin" time="2014-06-20T17:50:45Z" updated_time="2014-06-20T17:50:45Z" scratch="false" x="27" y="2" clock="90" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb">
+          <description>Enrique Roberto Osses signals a Costa Rica throw-in in Italy's half.</description>
+        </fact>
+        <fact id="f5531a84-39d9-4f8f-9325-4a9a7eb71eb4" type="shot_off_target" time="2014-06-20T17:51:30Z" updated_time="2014-06-20T17:51:30Z" scratch="false" x="6" y="59" clock="90" injury_time="1" team_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" player_id="589a2b5d-4c99-4fa3-b87b-e5c0d1105e69">
+          <description>Costa Rica's Randall Brenes gets his shot away but it misses the target.</description>
+        </fact>
+        <fact id="25bb64f9-f50e-41ab-bb0f-2332789dfd86" type="goal_kick" time="2014-06-20T17:51:30Z" updated_time="2014-06-20T17:51:30Z" scratch="false" x="5" y="50" clock="90" injury_time="1" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Italy have a goal kick.</description>
+        </fact>
+        <fact id="e65438e3-8062-4c15-968c-a3bf682e8c2e" type="throwin" time="2014-06-20T17:52:49Z" updated_time="2014-06-20T17:52:49Z" scratch="false" x="14" y="2" clock="90" injury_time="3" team_id="fdf11341-914c-4a67-bd55-07749823deab">
+          <description>Ball safe as Italy is awarded a throw-in in their half.</description>
+        </fact>
+        <fact id="d9df97b4-1c79-44dd-b1d5-8b2100b84e2f" type="period_over" time="2014-06-20T17:53:17Z" updated_time="2014-06-20T17:53:17Z" scratch="false" home_score="0" away_score="1" period="P2">
+          <description>The match is over. Final score 0-1.</description>
+        </fact>
+        <fact id="0f610911-2b4f-4da6-aaad-5f39d5234ee8" type="match_ended" time="2014-06-20T17:53:17Z" updated_time="2014-06-20T17:53:17Z" scratch="false" home_score="0" away_score="1" winner_id="9a48caf7-0a32-4742-89c5-1d7af11bfffb" draw="false"/>
+      </facts>
+      <!-- 4768752/4707/4756 -->
+    </match>
+  </matches>
+</summary>

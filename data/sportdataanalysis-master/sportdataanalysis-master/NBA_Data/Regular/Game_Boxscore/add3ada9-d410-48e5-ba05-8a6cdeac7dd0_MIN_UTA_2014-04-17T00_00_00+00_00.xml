@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-04-17 03:10:43 +0000 -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v2.0.xsd" id="add3ada9-d410-48e5-ba05-8a6cdeac7dd0" status="closed" coverage="full" home_team="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ece50-fb46-11e1-82cb-f4ce4684ea4c" scheduled="2014-04-17T00:00:00+00:00" duration="2:45" attendance="14155" lead_changes="8" times_tied="5" clock="00:00" quarter="6">
+  <team name="Timberwolves" market="Minnesota" id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" points="130">
+    <scoring>
+      <quarter number="1" sequence="1" points="17"/>
+      <quarter number="2" sequence="2" points="31"/>
+      <quarter number="3" sequence="3" points="22"/>
+      <quarter number="4" sequence="4" points="37"/>
+      <overtime number="1" sequence="5" points="12"/>
+      <overtime number="2" sequence="6" points="11"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Kevin Martin" position="G" primary_position="SG" jersey_number="23" id="767837db-62fa-4fc6-b118-1d56a8b23415">
+          <statistics minutes="39:57" field_goals_made="12" field_goals_att="24" field_goals_pct="50.0" three_points_made="3" three_points_att="5" three_points_pct="60.0" two_points_made="9" two_points_att="19" two_points_pct="0.474" blocked_att="3" free_throws_made="9" free_throws_att="10" free_throws_pct="90.0" offensive_rebounds="1" defensive_rebounds="1" rebounds="2" assists="1" turnovers="1" steals="2" blocks="0" assists_turnover_ratio="1.0" personal_fouls="6" tech_fouls="0" flagrant_fouls="0" pls_min="-2" points="36"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Kevin Love" position="F-C" primary_position="PF" jersey_number="42" id="7d615ccd-db96-42a3-9a6c-7f18ea25634e">
+          <statistics minutes="46:38" field_goals_made="4" field_goals_att="15" field_goals_pct="26.7" three_points_made="1" three_points_att="9" three_points_pct="11.1" two_points_made="3" two_points_att="6" two_points_pct="0.5" blocked_att="0" free_throws_made="10" free_throws_att="12" free_throws_pct="83.3" offensive_rebounds="0" defensive_rebounds="10" rebounds="10" assists="9" turnovers="5" steals="0" blocks="0" assists_turnover_ratio="1.8" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-12" points="19"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Kevin Love" position="F-C" primary_position="PF" jersey_number="42" id="7d615ccd-db96-42a3-9a6c-7f18ea25634e">
+          <statistics minutes="46:38" field_goals_made="4" field_goals_att="15" field_goals_pct="26.7" three_points_made="1" three_points_att="9" three_points_pct="11.1" two_points_made="3" two_points_att="6" two_points_pct="0.5" blocked_att="0" free_throws_made="10" free_throws_att="12" free_throws_pct="83.3" offensive_rebounds="0" defensive_rebounds="10" rebounds="10" assists="9" turnovers="5" steals="0" blocks="0" assists_turnover_ratio="1.8" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="-12" points="19"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+  <team name="Jazz" market="Utah" id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" points="136">
+    <scoring>
+      <quarter number="1" sequence="1" points="31"/>
+      <quarter number="2" sequence="2" points="20"/>
+      <quarter number="3" sequence="3" points="29"/>
+      <quarter number="4" sequence="4" points="27"/>
+      <overtime number="1" sequence="5" points="12"/>
+      <overtime number="2" sequence="6" points="17"/>
+    </scoring>
+    <leaders>
+      <points>
+        <player full_name="Trey Burke" position="G" primary_position="PG" jersey_number="3" id="572261e2-8ad9-4198-969d-16cad41fdef3">
+          <statistics minutes="48:21" field_goals_made="10" field_goals_att="21" field_goals_pct="47.6" three_points_made="2" three_points_att="4" three_points_pct="50.0" two_points_made="8" two_points_att="17" two_points_pct="0.471" blocked_att="1" free_throws_made="10" free_throws_att="10" free_throws_pct="100.0" offensive_rebounds="3" defensive_rebounds="4" rebounds="7" assists="9" turnovers="5" steals="1" blocks="0" assists_turnover_ratio="1.8" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="19" points="32"/>
+        </player>
+      </points>
+      <rebounds>
+        <player full_name="Derrick Favors" position="F-C" primary_position="PF" jersey_number="15" id="ad354ebb-88e5-46e4-ad79-f7188ee1f6c2">
+          <statistics minutes="43:02" field_goals_made="8" field_goals_att="12" field_goals_pct="66.7" three_points_made="0" three_points_att="0" three_points_pct="0.0" two_points_made="8" two_points_att="12" two_points_pct="0.667" blocked_att="0" free_throws_made="5" free_throws_att="6" free_throws_pct="83.3" offensive_rebounds="4" defensive_rebounds="8" rebounds="12" assists="4" turnovers="1" steals="2" blocks="2" assists_turnover_ratio="4.0" personal_fouls="5" tech_fouls="0" flagrant_fouls="0" pls_min="5" points="21"/>
+        </player>
+      </rebounds>
+      <assists>
+        <player full_name="Gordon Hayward" position="G-F" primary_position="SG" jersey_number="20" id="a1ddebee-950c-497d-9acd-b5061360b464">
+          <statistics minutes="46:35" field_goals_made="8" field_goals_att="23" field_goals_pct="34.8" three_points_made="0" three_points_att="5" three_points_pct="0.0" two_points_made="8" two_points_att="18" two_points_pct="0.444" blocked_att="1" free_throws_made="7" free_throws_att="8" free_throws_pct="87.5" offensive_rebounds="3" defensive_rebounds="7" rebounds="10" assists="9" turnovers="3" steals="1" blocks="2" assists_turnover_ratio="3.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="4" points="23"/>
+        </player>
+      </assists>
+    </leaders>
+  </team>
+</game>
+<!-- Generation ended @ 2014-04-17 03:10:44 +0000 -->

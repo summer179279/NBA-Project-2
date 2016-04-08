@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-05-14 16:50:52 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="fd9448f0-99a2-4169-addf-235e14acf9f9" status="ACT" full_name="Gorgui Dieng" first_name="Gorgui" last_name="Dieng" abbr_name="G.Dieng" height="83" weight="238" position="C" primary_position="C" jersey_number="5" experience="0" college="Louisville" birth_place="Kebemer,, SEN" birthdate="1990-01-18" updated="2013-11-08T21:29:37+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" market="Minnesota" alias="MIN"/>
+  <draft team_id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" year="2013" round="1" pick="21"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" name="Timberwolves" market="Minnesota" alias="MIN">
+        <statistics>
+          <total games_played="60" games_started="15" minutes="818.0" field_goals_made="113" field_goals_att="227" three_points_made="1" three_points_att="1" blocked_att="21" free_throws_made="59" free_throws_att="93" offensive_rebounds="103" defensive_rebounds="197" assists="39" turnovers="54" steals="30" blocks="50" personal_fouls="108" tech_fouls="0" points="286" flagrant_fouls="0" free_throws_pct="0.634" two_points_pct="0.496" three_points_pct="1.0" field_goals_pct="0.498" rebounds="300" assists_turnover_ratio="0.72" two_points_made="112" two_points_att="226"/>
+          <average points="4.8" blocked_att="0.35" turnovers="0.9" free_throws_att="1.55" field_goals_att="3.78" off_rebounds="1.72" two_points_att="3.77" assists="0.7" blocks="0.83" personal_fouls="1.8" two_points_made="1.87" flagrant_fouls="0.0" rebounds="5.0" three_points_made="0.02" minutes="13.6" def_rebounds="3.28" free_throws_made="0.98" field_goals_made="1.88" steals="0.5" three_points_att="0.02"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-05-14 16:50:52 +0000 -->

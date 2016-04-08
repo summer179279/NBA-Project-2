@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2014-07-14 19:04:11 +0000 -->
+<player xmlns="http://feed.elasticstats.com/schema/basketball/profile-v2.0.xsd" id="fb76341d-1738-4996-9ec5-c7ad80de504e" status="ACT" full_name="Diante Garrett" first_name="Diante" last_name="Garrett" abbr_name="D.Garrett" height="76" weight="190" position="G" primary_position="PG" jersey_number="0" experience="1" college="Iowa State" birth_place="Milwaukee, WI" birthdate="1988-11-03" updated="2014-07-14T19:04:10+00:00">
+  <league id="4353138d-4c22-4396-95d8-5f587d2df25c" name="NBA" alias="NBA"/>
+  <team id="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" name="Raptors" market="Toronto" alias="TOR"/>
+  <draft year="2011"/>
+  <seasons>
+    <season id="5ddc217a-a958-4616-9bdf-e081022c440b" year="2013" type="REG">
+      <team id="583ece50-fb46-11e1-82cb-f4ce4684ea4c" name="Jazz" market="Utah" alias="UTA">
+        <statistics>
+          <total games_played="71" games_started="0" minutes="1048.0" field_goals_made="101" field_goals_att="265" three_points_made="36" three_points_att="96" blocked_att="13" free_throws_made="10" free_throws_att="12" offensive_rebounds="11" defensive_rebounds="86" assists="120" turnovers="75" steals="41" blocks="5" personal_fouls="75" tech_fouls="0" points="248" flagrant_fouls="0" free_throws_pct="0.833" two_points_pct="0.385" three_points_pct="0.375" field_goals_pct="0.381" rebounds="97" assists_turnover_ratio="1.6" two_points_made="65" two_points_att="169"/>
+          <average points="3.5" blocked_att="0.18" turnovers="1.06" free_throws_att="0.17" field_goals_att="3.73" off_rebounds="0.15" two_points_att="2.38" assists="1.7" blocks="0.07" personal_fouls="1.06" two_points_made="0.92" flagrant_fouls="0.0" rebounds="1.37" three_points_made="0.51" minutes="14.8" def_rebounds="1.21" free_throws_made="0.14" field_goals_made="1.42" steals="0.58" three_points_att="1.35"/>
+        </statistics>
+      </team>
+    </season>
+  </seasons>
+</player>
+<!-- Generation ended @ 2014-07-14 19:04:11 +0000 -->

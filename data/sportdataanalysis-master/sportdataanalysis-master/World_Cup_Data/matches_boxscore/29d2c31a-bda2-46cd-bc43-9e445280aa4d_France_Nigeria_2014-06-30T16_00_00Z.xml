@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxscore generated="2014-07-21T05:35:15Z" xmlns="http://feed.elasticstats.com/schema/soccer/sr/v2/matches-boxscore.xsd">
+  <matches>
+    <match id="29d2c31a-bda2-46cd-bc43-9e445280aa4d" status="closed" scratched="false" period="P2" scheduled="2014-06-30T16:00:00Z">
+      <coverage lineups="2" tactical_lineups="true" corner_facts="true" extended_facts="true" deep_facts="true" statistics="true"/>
+      <category id="ccb3c550-8bdb-435f-9f4e-8c125f7298b9" name="International" country_code="XZ" country="International"/>
+      <tournament_group id="ea97fe54-4712-4bd7-b643-8409887f9f61" name="World Championship"/>
+      <tournament id="9fb7b7d4-ecc4-462f-8a21-881644527030" name="World Cup, Knockout stage"/>
+      <round week="27" number="4" type="cup" name="1/8" scheduled_legs="1" winner_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" loser_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" winner_points="1" loser_points="0" aggregate="false">
+        <leg match_id="29d2c31a-bda2-46cd-bc43-9e445280aa4d" status="closed" number="1" home_id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" away_id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" home_score="2" away_score="0"/>
+      </round>
+      <home id="9c5d9f4f-0c03-40b7-a7a0-3948b70d6554" name="France" alias="FRA" country_code="FRA" country="France" type="team" formation="4-3-3" score="2" regular_score="" penalty_score="" winner="true">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="2" number="2"/>
+        </scoring>
+        <statistics attacks="112" ball_safe="103" corner_kicks="12" dangerous_attacks="76" fouls="12" free_kicks="17" goal_attempts="11" goal_kicks="6" offsides="3" saves="3" shots_total="11" substitutions="2" throw_ins="21" yellow_card="1" shots_on_target="6" shots_off_target="5" possessions="49"/>
+      </home>
+      <away id="f52b6f82-1dfe-44cf-92bd-67e4104d5b0d" name="Nigeria" alias="NGR" country_code="NGA" country="Nigeria" type="team" formation="4-2-3-1" score="0" regular_score="" penalty_score="" winner="false">
+        <scoring>
+          <half points="0" number="1"/>
+          <half points="0" number="2"/>
+        </scoring>
+        <statistics attacks="112" ball_safe="100" corner_kicks="9" dangerous_attacks="72" fouls="15" free_kicks="15" goal_attempts="5" goal_kicks="8" offsides="2" saves="4" shots_total="5" substitutions="2" throw_ins="21" yellow_card="0" shots_on_target="3" shots_off_target="2" possessions="51"/>
+      </away>
+      <venue id="b7f38726-c569-4cf2-8dc7-f07059bfa7ec" name="Estadio Nacional de Brasilia " country_code="BRA" city="Brasilia" capacity="69349" country="Brazil" coordinates="-15.783550,-47.899249"/>
+      <!-- 4768152/4481/4785 -->
+    </match>
+  </matches>
+</boxscore>
